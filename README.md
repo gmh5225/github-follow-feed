@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio) to [IuvenisSapiens/Voice-Clone-Studio](https://github.com/IuvenisSapiens/Voice-Clone-Studio)
   > A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS & VibeVoice.  Can use...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🍴 👤 [ggoodman](https://github.com/ggoodman) Forked [badlogic/pi-mono](https://github.com/badlogic/pi-mono) to [ggoodman/pi-mono](https://github.com/ggoodman/pi-mono)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [embeddedartistry/embedded-unwind](https://github.com/embeddedartistry/embedded-unwind)
   > libunwind for embedded systems
@@ -49,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-31 17:27:49 UTC*
+*Last updated at 2026-01-31 18:39:30 UTC*
 *Historical records are stored in the `archive` directory.*
