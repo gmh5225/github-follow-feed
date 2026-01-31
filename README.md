@@ -41,6 +41,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lfazio/llvm-project-v850](https://github.com/lfazio/llvm-project-v850)
   > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [loongson/la-abi-specs](https://github.com/loongson/la-abi-specs)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JPEWdev/icecream-sundae](https://github.com/JPEWdev/icecream-sundae)
+  > Commandline Monitor for Icecream
 
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [Jamesits/pve-fake-subscription](https://github.com/Jamesits/pve-fake-subscription)
@@ -56,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-01-31 22:27:43 UTC*
+*Last updated at 2026-01-31 23:27:50 UTC*
 *Historical records are stored in the `archive` directory.*
