@@ -28,6 +28,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) to [Lynnette177/EnsWilde](https://github.com/Lynnette177/EnsWilde)
   > EnsWilde is a tool utilizing itunesstored & bookassetd exploits, designed for iPhone and iPad runnin...
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [strblr/waymark](https://github.com/strblr/waymark)
+  > Type-safe React router that just works - simple setup, full autocomplete, 4kB gzipped
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DRubioG/SITLINV_FPGA](https://github.com/DRubioG/SITLINV_FPGA)
   > Documentation of SITLINV_FPGA
@@ -41,6 +45,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli)
   > 🔥 Feature-rich interactive Jira command line.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
+  > Anti-LLM obfuscation via finger counting 
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kitlangton/effect-solutions](https://github.com/kitlangton/effect-solutions)
@@ -58,5 +64,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-01 15:30:24 UTC*
+*Last updated at 2026-02-01 16:35:51 UTC*
 *Historical records are stored in the `archive` directory.*
