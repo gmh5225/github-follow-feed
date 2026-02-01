@@ -20,6 +20,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [GAIR-NLP/LiveTalk](https://github.com/GAIR-NLP/LiveTalk)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [benjiyaya/HeartMuLa_ComfyUI](https://github.com/benjiyaya/HeartMuLa_ComfyUI) to [IuvenisSapiens/HeartMuLa_ComfyUI](https://github.com/IuvenisSapiens/HeartMuLa_ComfyUI)
   > ComfyUI Custom Node for HeartMuLa AI Music Generation and Transcript Text
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) to [IuvenisSapiens/heartlib](https://github.com/IuvenisSapiens/heartlib)
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde)
@@ -37,6 +38,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [enjoy-digital/litex_xtrx](https://github.com/enjoy-digital/litex_xtrx)
   > XTRX LiteX/LitePCIe based alternative Gateware/Software.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli)
+  > 🔥 Feature-rich interactive Jira command line.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kitlangton/effect-solutions](https://github.com/kitlangton/effect-solutions)
   > A guide to writing idiomatic Effect code.
@@ -53,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-01 12:59:59 UTC*
+*Last updated at 2026-02-01 13:50:23 UTC*
 *Historical records are stored in the `archive` directory.*
