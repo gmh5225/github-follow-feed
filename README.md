@@ -45,6 +45,13 @@ Today's public activity from users I follow (updated every 15 minutes).
   > XTRX LiteX/LitePCIe based alternative Gateware/Software.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mikeakohn/apollo11_fpga](https://github.com/mikeakohn/apollo11_fpga)
   > Implementation of the Apollo Guidance Computer in an FPGA.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mbentley/docker-timemachine](https://github.com/mbentley/docker-timemachine)
+  > Docker image to run Samba (compatible Time Machine for macOS)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mbentley/docker-apt-cacher-ng](https://github.com/mbentley/docker-apt-cacher-ng)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [georgebrock/readline-example](https://github.com/georgebrock/readline-example)
+  > Readline tab completion example for a blog post
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QQxiaoming/quardCRT](https://github.com/QQxiaoming/quardCRT)
+  > Your All-in-One Tool for Terminal Emulation and Remote Desktop
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli)
@@ -68,5 +75,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-01 19:28:58 UTC*
+*Last updated at 2026-02-01 20:32:52 UTC*
 *Historical records are stored in the `archive` directory.*
