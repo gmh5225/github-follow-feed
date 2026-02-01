@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Fantasia1337/w26-lua-vm-patching](https://github.com/Fantasia1337/w26-lua-vm-patching) to [CrackerCat/w26-lua-vm-patching](https://github.com/CrackerCat/w26-lua-vm-patching)
+  > W26 Lua VM Runtime Patching Toolkit - Frida scripts for runtime bytecode modification in BLEACH Soul...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhizhuodemao/android_proxy_mcp](https://github.com/zhizhuodemao/android_proxy_mcp) to [CrackerCat/android_proxy_mcp](https://github.com/CrackerCat/android_proxy_mcp)
+  > 基于 MCP 的 Android 抓包服务，让 AI 助手通过自然语言分析网络请求。
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [k2-fsa/ZipVoice](https://github.com/k2-fsa/ZipVoice)
   > Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching
@@ -42,7 +48,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
   > 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
+### [shnaps666](https://github.com/shnaps666)
+- 🌟 👤 [shnaps666](https://github.com/shnaps666) Starred [ThanhNguyxn/student-card-generator](https://github.com/ThanhNguyxn/student-card-generator)
+
 
 ---
-*Last updated at 2026-02-01 11:26:22 UTC*
+*Last updated at 2026-02-01 12:59:59 UTC*
 *Historical records are stored in the `archive` directory.*
