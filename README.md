@@ -19,11 +19,21 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) to [Lynnette177/EnsWilde](https://github.com/Lynnette177/EnsWilde)
   > EnsWilde is a tool utilizing itunesstored & bookassetd exploits, designed for iPhone and iPad runnin...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DRubioG/SITLINV_FPGA](https://github.com/DRubioG/SITLINV_FPGA)
+  > Documentation of SITLINV_FPGA
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kitlangton/effect-solutions](https://github.com/kitlangton/effect-solutions)
   > A guide to writing idiomatic Effect code.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [TheBushidoCollective/han](https://github.com/TheBushidoCollective/han)
+  > A curated marketplace of Claude Code plugins that embody the principles of ethical and professional ...
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
+  > 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
 
 ---
-*Last updated at 2026-02-01 02:49:15 UTC*
+*Last updated at 2026-02-01 05:04:55 UTC*
 *Historical records are stored in the `archive` directory.*
