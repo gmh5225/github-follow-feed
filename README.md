@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [benjiyaya/HeartMuLa_ComfyUI](https://github.com/benjiyaya/HeartMuLa_ComfyUI) to [IuvenisSapiens/HeartMuLa_ComfyUI](https://github.com/IuvenisSapiens/HeartMuLa_ComfyUI)
   > ComfyUI Custom Node for HeartMuLa AI Music Generation and Transcript Text
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [HeartMuLa/heartlib](https://github.com/HeartMuLa/heartlib) to [IuvenisSapiens/heartlib](https://github.com/IuvenisSapiens/heartlib)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [TencentCloudADP/youtu-parsing](https://github.com/TencentCloudADP/youtu-parsing)
+  > Youtu-Parsing: Perception, Structuring and Recognition via High-Parallelism Decoding
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde)
@@ -41,6 +43,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Small footprint and configurable SATA core
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [enjoy-digital/litex_xtrx](https://github.com/enjoy-digital/litex_xtrx)
   > XTRX LiteX/LitePCIe based alternative Gateware/Software.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mikeakohn/apollo11_fpga](https://github.com/mikeakohn/apollo11_fpga)
+  > Implementation of the Apollo Guidance Computer in an FPGA.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli)
@@ -64,5 +68,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-01 16:35:51 UTC*
+*Last updated at 2026-02-01 17:29:12 UTC*
 *Historical records are stored in the `archive` directory.*
