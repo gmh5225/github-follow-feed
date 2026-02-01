@@ -52,6 +52,18 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Readline tab completion example for a blog post
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QQxiaoming/quardCRT](https://github.com/QQxiaoming/quardCRT)
   > Your All-in-One Tool for Terminal Emulation and Remote Desktop
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jnguyen1098/seethe](https://github.com/jnguyen1098/seethe)
+  > Dead simple C logging library contained in a single header (.h) file
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rxi/log.c](https://github.com/rxi/log.c)
+  > A simple logging library implemented in C99
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rxi/microui](https://github.com/rxi/microui)
+  > A tiny immediate-mode UI library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rxi/sj.h](https://github.com/rxi/sj.h)
+  > A tiny little JSON parsing library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rxi/ini](https://github.com/rxi/ini)
+  > A tiny ANSI C library for loading .ini config files
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [rxi/log.c](https://github.com/rxi/log.c) to [jevinskie/log.c](https://github.com/jevinskie/log.c)
+  > A simple logging library implemented in C99
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli)
@@ -75,5 +87,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-01 20:32:52 UTC*
+*Last updated at 2026-02-01 21:28:46 UTC*
 *Historical records are stored in the `archive` directory.*
