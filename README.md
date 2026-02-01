@@ -30,6 +30,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [YangJiiii/EnsWilde](https://github.com/YangJiiii/EnsWilde) to [Lynnette177/EnsWilde](https://github.com/Lynnette177/EnsWilde)
   > EnsWilde is a tool utilizing itunesstored & bookassetd exploits, designed for iPhone and iPad runnin...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [tiann/eadb](https://github.com/tiann/eadb)
+  > eBPF Android Debug Bridge
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [strblr/waymark](https://github.com/strblr/waymark)
   > Type-safe React router that just works - simple setup, full autocomplete, 4kB gzipped
@@ -65,6 +69,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [rxi/log.c](https://github.com/rxi/log.c) to [jevinskie/log.c](https://github.com/jevinskie/log.c)
   > A simple logging library implemented in C99
 
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [vfsfitvnm/frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
+  > A Frida module to dump, trace or hijack any IL2CPP application at runtime, without needing the globa...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli)
   > 🔥 Feature-rich interactive Jira command line.
@@ -87,5 +95,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-01 22:30:20 UTC*
+*Last updated at 2026-02-01 23:30:35 UTC*
 *Historical records are stored in the `archive` directory.*
