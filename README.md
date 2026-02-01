@@ -22,6 +22,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [DRubioG/SITLINV_FPGA](https://github.com/DRubioG/SITLINV_FPGA)
   > Documentation of SITLINV_FPGA
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [enjoy-digital/litenvme](https://github.com/enjoy-digital/litenvme)
+  > Small footprint and configurable NVMe core.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [enjoy-digital/litesata](https://github.com/enjoy-digital/litesata)
+  > Small footprint and configurable SATA core
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [enjoy-digital/litex_xtrx](https://github.com/enjoy-digital/litex_xtrx)
+  > XTRX LiteX/LitePCIe based alternative Gateware/Software.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kitlangton/effect-solutions](https://github.com/kitlangton/effect-solutions)
@@ -36,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-01 07:40:49 UTC*
+*Last updated at 2026-02-01 08:38:11 UTC*
 *Historical records are stored in the `archive` directory.*
