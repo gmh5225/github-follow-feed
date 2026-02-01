@@ -28,6 +28,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A guide to writing idiomatic Effect code.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TheBushidoCollective/han](https://github.com/TheBushidoCollective/han)
   > A curated marketplace of Claude Code plugins that embody the principles of ethical and professional ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Joannis/claude-skills](https://github.com/Joannis/claude-skills)
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
@@ -35,5 +36,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-01 05:04:55 UTC*
+*Last updated at 2026-02-01 06:56:17 UTC*
 *Historical records are stored in the `archive` directory.*
