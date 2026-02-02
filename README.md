@@ -29,8 +29,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > JavaScript client for Node.js, Bun, Deno and browser for NATS, the cloud native messaging system
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs)
   > The filesystem for agents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [durable-streams/durable-streams](https://github.com/durable-streams/durable-streams)
+  > The open protocol for real-time sync to client applications
 
 
 ---
-*Last updated at 2026-02-02 07:08:03 UTC*
+*Last updated at 2026-02-02 08:52:10 UTC*
 *Historical records are stored in the `archive` directory.*
