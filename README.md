@@ -37,6 +37,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lynaghk/vibe](https://github.com/lynaghk/vibe)
   > Easy Linux virtual machine on MacOS to sandbox LLM agents.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
+  > The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent E...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnWeber/httpyac](https://github.com/AnWeber/httpyac)
+  > Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT 
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nats-io/nats.js](https://github.com/nats-io/nats.js)
@@ -52,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-02 14:46:02 UTC*
+*Last updated at 2026-02-02 15:41:05 UTC*
 *Historical records are stored in the `archive` directory.*
