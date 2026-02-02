@@ -9,6 +9,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A free, open source, multi-platform SQLite database manager.
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web)
   > Web-based SQLite database browser written in Python
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp)
+  > xrdp: an open source RDP server
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dsphper/lanhu-mcp](https://github.com/dsphper/lanhu-mcp) to [CrackerCat/lanhu-mcp](https://github.com/CrackerCat/lanhu-mcp)
@@ -78,5 +80,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-02 16:48:37 UTC*
+*Last updated at 2026-02-02 17:42:04 UTC*
 *Historical records are stored in the `archive` directory.*
