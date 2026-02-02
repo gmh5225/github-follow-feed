@@ -32,7 +32,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [durable-streams/durable-streams](https://github.com/durable-streams/durable-streams)
   > The open protocol for real-time sync to client applications
 
+### [tomdee](https://github.com/tomdee)
+- 🌟 👤 [tomdee](https://github.com/tomdee) Starred [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
+  > An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+
 
 ---
-*Last updated at 2026-02-02 08:52:10 UTC*
+*Last updated at 2026-02-02 09:57:06 UTC*
 *Historical records are stored in the `archive` directory.*
