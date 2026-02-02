@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [pawelsalawa/sqlitestudio](https://github.com/pawelsalawa/sqlitestudio)
+  > A free, open source, multi-platform SQLite database manager.
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [coleifer/sqlite-web](https://github.com/coleifer/sqlite-web)
+  > Web-based SQLite database browser written in Python
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dsphper/lanhu-mcp](https://github.com/dsphper/lanhu-mcp) to [CrackerCat/lanhu-mcp](https://github.com/CrackerCat/lanhu-mcp)
   > ⚡ 需求分析效率提升 200%！全球首个为 AI 编程时代设计的团队协作 MCP 服务器，自动分析需求自动编写前后端代码，下载切图
@@ -21,6 +27,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > LEMAS‑TTS is a multilingual zero‑shot text‑to‑speech system, supporting 10 languages:  Chinese Engli...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [hexgrad/kokoro](https://github.com/hexgrad/kokoro) to [IuvenisSapiens/kokoro-official](https://github.com/IuvenisSapiens/kokoro-official)
   > https://hf.co/hexgrad/Kokoro-82M
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [High-Logic/Genie-TTS](https://github.com/High-Logic/Genie-TTS)
+  > GPT-SoVITS ONNX Inference Engine & Model Converter
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
@@ -29,6 +37,18 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Dynamic Instrumentation Tool Platform
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [momo5502/gameoverlay](https://github.com/momo5502/gameoverlay)
   > 🎮 GameOverlay using CEF with support for common rendering backends
+
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [wesm/msgvault](https://github.com/wesm/msgvault)
+  > Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message...
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [boulder-on/JPassport](https://github.com/boulder-on/JPassport)
+  > JPassport
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ptaru/VidPreview](https://github.com/ptaru/VidPreview)
+  > A QuickLook extension for macOS that enables native video preview in Finder for formats not natively...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ptaru/VidCore](https://github.com/ptaru/VidCore)
+  > A video decoding and rendering framework for macOS built on FFmpeg and Metal.
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
@@ -41,6 +61,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent E...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnWeber/httpyac](https://github.com/AnWeber/httpyac)
   > Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wesm/msgvault](https://github.com/wesm/msgvault)
+  > Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nats-io/nats.js](https://github.com/nats-io/nats.js)
@@ -56,5 +78,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-02 15:41:05 UTC*
+*Last updated at 2026-02-02 16:48:37 UTC*
 *Historical records are stored in the `archive` directory.*
