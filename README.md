@@ -19,6 +19,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > LEMAS‑TTS is a multilingual zero‑shot text‑to‑speech system, supporting 10 languages:  Chinese Engli...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [LEMAS-Project/LEMAS-TTS](https://github.com/LEMAS-Project/LEMAS-TTS) to [IuvenisSapiens/LEMAS-TTS](https://github.com/IuvenisSapiens/LEMAS-TTS)
   > LEMAS‑TTS is a multilingual zero‑shot text‑to‑speech system, supporting 10 languages:  Chinese Engli...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [hexgrad/kokoro](https://github.com/hexgrad/kokoro) to [IuvenisSapiens/kokoro-official](https://github.com/IuvenisSapiens/kokoro-official)
+  > https://hf.co/hexgrad/Kokoro-82M
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
@@ -46,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-02 11:38:57 UTC*
+*Last updated at 2026-02-02 13:10:36 UTC*
 *Historical records are stored in the `archive` directory.*
