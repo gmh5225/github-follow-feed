@@ -11,6 +11,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ekwek1/soprano](https://github.com/ekwek1/soprano)
   > Soprano: Instant, Ultra-Realistic Text-to-Speech
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FunAudioLLM/Fun-Audio-Chat](https://github.com/FunAudioLLM/Fun-Audio-Chat)
+  > Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio)
+  > The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-A...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
@@ -20,7 +24,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [momo5502/gameoverlay](https://github.com/momo5502/gameoverlay)
   > 🎮 GameOverlay using CEF with support for common rendering backends
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [nats-io/nats.js](https://github.com/nats-io/nats.js)
+  > JavaScript client for Node.js, Bun, Deno and browser for NATS, the cloud native messaging system
+
 
 ---
-*Last updated at 2026-02-02 02:38:43 UTC*
+*Last updated at 2026-02-02 05:01:08 UTC*
 *Historical records are stored in the `archive` directory.*
