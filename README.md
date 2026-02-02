@@ -27,8 +27,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nats-io/nats.js](https://github.com/nats-io/nats.js)
   > JavaScript client for Node.js, Bun, Deno and browser for NATS, the cloud native messaging system
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs)
+  > The filesystem for agents.
 
 
 ---
-*Last updated at 2026-02-02 05:01:08 UTC*
+*Last updated at 2026-02-02 07:08:03 UTC*
 *Historical records are stored in the `archive` directory.*
