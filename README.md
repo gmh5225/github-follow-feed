@@ -34,6 +34,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
   > Rembg is a tool to remove images background
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lynaghk/vibe](https://github.com/lynaghk/vibe)
+  > Easy Linux virtual machine on MacOS to sandbox LLM agents.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nats-io/nats.js](https://github.com/nats-io/nats.js)
   > JavaScript client for Node.js, Bun, Deno and browser for NATS, the cloud native messaging system
@@ -48,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-02 13:10:36 UTC*
+*Last updated at 2026-02-02 14:46:02 UTC*
 *Historical records are stored in the `archive` directory.*
