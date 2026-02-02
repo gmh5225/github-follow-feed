@@ -15,6 +15,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Fun-Audio-Chat is a Large Audio Language Model built for natural, low-latency voice interactions.
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio)
   > The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-A...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [LEMAS-Project/LEMAS-TTS](https://github.com/LEMAS-Project/LEMAS-TTS)
+  > LEMAS‑TTS is a multilingual zero‑shot text‑to‑speech system, supporting 10 languages:  Chinese Engli...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [LEMAS-Project/LEMAS-TTS](https://github.com/LEMAS-Project/LEMAS-TTS) to [IuvenisSapiens/LEMAS-TTS](https://github.com/IuvenisSapiens/LEMAS-TTS)
+  > LEMAS‑TTS is a multilingual zero‑shot text‑to‑speech system, supporting 10 languages:  Chinese Engli...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
@@ -23,6 +27,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Dynamic Instrumentation Tool Platform
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [momo5502/gameoverlay](https://github.com/momo5502/gameoverlay)
   > 🎮 GameOverlay using CEF with support for common rendering backends
+
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
+  > Rembg is a tool to remove images background
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nats-io/nats.js](https://github.com/nats-io/nats.js)
@@ -38,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-02 10:55:00 UTC*
+*Last updated at 2026-02-02 11:38:57 UTC*
 *Historical records are stored in the `archive` directory.*
