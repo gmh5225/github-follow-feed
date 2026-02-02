@@ -32,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [High-Logic/Genie-TTS](https://github.com/High-Logic/Genie-TTS)
   > GPT-SoVITS ONNX Inference Engine & Model Converter
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [DownWithUp/WarbirdExamples](https://github.com/DownWithUp/WarbirdExamples)
+  > An example of how to use Microsoft Windows Warbird technology
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [thebabush/llvm-jutsu](https://github.com/thebabush/llvm-jutsu)
   > Anti-LLM obfuscation via finger counting 
@@ -51,6 +55,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A QuickLook extension for macOS that enables native video preview in Finder for formats not natively...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ptaru/VidCore](https://github.com/ptaru/VidCore)
   > A video decoding and rendering framework for macOS built on FFmpeg and Metal.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Linaro/tinyBLAS](https://github.com/Linaro/tinyBLAS)
+  > A fork of OpenBLAS with Armv8-A SVE (Scalable Vector Extension) support
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [danielgatis/rembg](https://github.com/danielgatis/rembg)
@@ -73,6 +79,20 @@ Today's public activity from users I follow (updated every 15 minutes).
   > The filesystem for agents.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [durable-streams/durable-streams](https://github.com/durable-streams/durable-streams)
   > The open protocol for real-time sync to client applications
+- 🍴 👤 [niieani](https://github.com/niieani) Forked [oxc-project/oxc](https://github.com/oxc-project/oxc) to [niieani/oxc](https://github.com/niieani/oxc)
+  > ⚓ A collection of high-performance JavaScript tools.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mzhaom/claude-cli-protocol](https://github.com/mzhaom/claude-cli-protocol)
+  > Protocol documentation for the Claude Code CLI
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi)
+  > Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow)
+  > Open-source TypeScript framework for building durable, resumable workflows.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills)
+  > Agent skills for building and evaluating apps against official design guidelines. 300+ actionable ru...
+
+### [tmr232](https://github.com/tmr232)
+- 🌟 👤 [tmr232](https://github.com/tmr232) Starred [leotaku/kojirou](https://github.com/leotaku/kojirou)
+  > Generate perfectly formatted Kindle e-books from MangaDex manga
 
 ### [tomdee](https://github.com/tomdee)
 - 🌟 👤 [tomdee](https://github.com/tomdee) Starred [pulumi/pulumi-aws](https://github.com/pulumi/pulumi-aws)
@@ -80,5 +100,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-02 17:42:04 UTC*
+*Last updated at 2026-02-02 23:33:19 UTC*
 *Historical records are stored in the `archive` directory.*
