@@ -57,8 +57,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS ...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)
   > Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [unplugin/unplugin-isolated-decl](https://github.com/unplugin/unplugin-isolated-decl)
+  > ⚡️ A blazing-fast tool for generating isolated declarations.
 
 
 ---
-*Last updated at 2026-02-03 21:39:48 UTC*
+*Last updated at 2026-02-03 22:34:55 UTC*
 *Historical records are stored in the `archive` directory.*
