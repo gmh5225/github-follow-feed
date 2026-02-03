@@ -25,6 +25,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Liquid4All/liquid-audio](https://github.com/Liquid4All/liquid-audio)
   > Liquid Audio - Speech-to-Speech audio models by Liquid AI
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
+  > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Daniel-Lobo/WineHooks](https://github.com/Daniel-Lobo/WineHooks)
 
@@ -34,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-03 09:49:59 UTC*
+*Last updated at 2026-02-03 10:46:48 UTC*
 *Historical records are stored in the `archive` directory.*
