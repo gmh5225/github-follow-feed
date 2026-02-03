@@ -37,6 +37,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)
   > Advancing Open-source World Models
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MaskRay/pr-shadow](https://github.com/MaskRay/pr-shadow)
+  > Maintain a shadow branch for GitHub PRs that never requires force-pushing
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Daniel-Lobo/WineHooks](https://github.com/Daniel-Lobo/WineHooks)
 
@@ -52,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-03 19:08:44 UTC*
+*Last updated at 2026-02-03 20:42:54 UTC*
 *Historical records are stored in the `archive` directory.*
