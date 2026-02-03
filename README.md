@@ -25,6 +25,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Liquid4All/liquid-audio](https://github.com/Liquid4All/liquid-audio)
   > Liquid Audio - Speech-to-Speech audio models by Liquid AI
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [openclaw/openclaw](https://github.com/openclaw/openclaw) to [NielsRogge/openclaw](https://github.com/NielsRogge/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
   > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
@@ -38,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-03 10:46:48 UTC*
+*Last updated at 2026-02-03 11:38:17 UTC*
 *Historical records are stored in the `archive` directory.*
