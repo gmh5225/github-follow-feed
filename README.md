@@ -28,7 +28,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Daniel-Lobo/WineHooks](https://github.com/Daniel-Lobo/WineHooks)
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
+  > 🪓 Run Background Tasks at Scale
+
 
 ---
-*Last updated at 2026-02-03 05:54:01 UTC*
+*Last updated at 2026-02-03 06:58:45 UTC*
 *Historical records are stored in the `archive` directory.*
