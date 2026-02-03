@@ -33,6 +33,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
   > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)
+  > Advancing Open-source World Models
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Daniel-Lobo/WineHooks](https://github.com/Daniel-Lobo/WineHooks)
 
@@ -42,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-03 11:38:17 UTC*
+*Last updated at 2026-02-03 13:11:41 UTC*
 *Historical records are stored in the `archive` directory.*
