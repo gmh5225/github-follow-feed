@@ -43,8 +43,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)
   > 🪓 Run Background Tasks at Scale
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Dicklesworthstone/beads_rust](https://github.com/Dicklesworthstone/beads_rust)
+  > A fast Rust port of Steve Yegge's beads - a local-first, non-invasive issue tracker for git reposito...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [cameroncooke/XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP)
+  > A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)
+  > Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format).
 
 
 ---
-*Last updated at 2026-02-03 15:54:57 UTC*
+*Last updated at 2026-02-03 16:59:10 UTC*
 *Historical records are stored in the `archive` directory.*
