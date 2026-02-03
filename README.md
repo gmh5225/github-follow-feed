@@ -33,6 +33,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
   > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [Brooooooklyn/keyring-node](https://github.com/Brooooooklyn/keyring-node)
+  > https://github.com/hwchen/keyring-rs Node.js binding via https://napi.rs. Including 100% compatible ...
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Robbyant/lingbot-world](https://github.com/Robbyant/lingbot-world)
   > Advancing Open-source World Models
@@ -56,5 +60,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-03 20:42:54 UTC*
+*Last updated at 2026-02-03 21:39:48 UTC*
 *Historical records are stored in the `archive` directory.*
