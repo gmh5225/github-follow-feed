@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > IDA Pro + ImGui
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [markusa4/satsuma](https://github.com/markusa4/satsuma)
   > static symmetry breaking for SAT
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [Data-Oriented-House/PortableBuildTools](https://github.com/Data-Oriented-House/PortableBuildTools)
+  > Portable VS Build Tools installer
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Owl4444/jsdeob-workbench](https://github.com/Owl4444/jsdeob-workbench)
@@ -51,6 +53,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Automatic bisection for LLVM issues
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dtcxzyw/llvm-apr-benchmark](https://github.com/dtcxzyw/llvm-apr-benchmark)
   > A Large-Scale Automated Program Repair Benchmark of Real-World LLVM Middle-End Bugs
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [glassroom/sata_attention](https://github.com/glassroom/sata_attention)
+  > Reference implementation of "Self-Attention at Constant Cost per Token via Symmetry-Aware Taylor App...
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
@@ -63,8 +67,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5)
   > The most powerful local music generation model that outperforms most commercial alternatives
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
+  > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [angristan/netclode](https://github.com/angristan/netclode)
+  > Self hosted personal coding agent with k3s + kata containers + cloud hypervisor microVMs + claude co...
 
 
 ---
-*Last updated at 2026-02-04 16:56:07 UTC*
+*Last updated at 2026-02-04 17:51:54 UTC*
 *Historical records are stored in the `archive` directory.*
