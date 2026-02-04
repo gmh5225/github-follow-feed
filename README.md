@@ -55,6 +55,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Large-Scale Automated Program Repair Benchmark of Real-World LLVM Middle-End Bugs
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [glassroom/sata_attention](https://github.com/glassroom/sata_attention)
   > Reference implementation of "Self-Attention at Constant Cost per Token via Symmetry-Aware Taylor App...
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [rems-project/sail-tiny-arm](https://github.com/rems-project/sail-tiny-arm) to [jevinskie/sail-tiny-arm](https://github.com/jevinskie/sail-tiny-arm)
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
@@ -74,5 +75,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-04 20:40:21 UTC*
+*Last updated at 2026-02-04 21:38:26 UTC*
 *Historical records are stored in the `archive` directory.*
