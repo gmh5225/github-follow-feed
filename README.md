@@ -19,6 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [markusa4/satsuma](https://github.com/markusa4/satsuma)
   > static symmetry breaking for SAT
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage)
+  > Displays test coverage data in the sign column
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Elara6331/pcre](https://github.com/Elara6331/pcre)
   > Pure-Go port of the PCRE2 regular expression engine.
@@ -47,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-04 13:10:33 UTC*
+*Last updated at 2026-02-04 14:45:09 UTC*
 *Historical records are stored in the `archive` directory.*
