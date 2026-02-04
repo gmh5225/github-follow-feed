@@ -11,6 +11,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) to [CrackerCat/ReSukiSU](https://github.com/CrackerCat/ReSukiSU)
   > Kernel-based Android Root Solution,forked from sukisu
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [br4ndn/warbird-example](https://github.com/br4ndn/warbird-example)
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [HexilionLabs/AltSys](https://github.com/HexilionLabs/AltSys)
   > KPP bypass with alternative syscall pipeline
@@ -19,9 +22,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [markusa4/satsuma](https://github.com/markusa4/satsuma)
   > static symmetry breaking for SAT
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Owl4444/jsdeob-workbench](https://github.com/Owl4444/jsdeob-workbench)
+  > Reverse engineer obfuscated JavaScript visually. Chain transforms, inspect AST changes, write reusab...
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage)
   > Displays test coverage data in the sign column
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [LdDl/horizon](https://github.com/LdDl/horizon)
+  > Map matching (snapping GPS points to road graph) and routing library in Go
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [valhalla/valhalla](https://github.com/valhalla/valhalla)
+  > Open Source Routing Engine for OpenStreetMap
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Elara6331/pcre](https://github.com/Elara6331/pcre)
@@ -36,6 +47,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite ...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [banteg/crimson](https://github.com/banteg/crimson)
   > crimsonland 1.9.93 reimplementation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dtcxzyw/llvm-bisect-service](https://github.com/dtcxzyw/llvm-bisect-service)
+  > Automatic bisection for LLVM issues
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dtcxzyw/llvm-apr-benchmark](https://github.com/dtcxzyw/llvm-apr-benchmark)
+  > A Large-Scale Automated Program Repair Benchmark of Real-World LLVM Middle-End Bugs
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
@@ -51,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-04 14:45:09 UTC*
+*Last updated at 2026-02-04 15:49:48 UTC*
 *Historical records are stored in the `archive` directory.*
