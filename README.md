@@ -1,79 +1,22 @@
-# Daily GitHub Activity (2026-02-04)
+# Daily GitHub Activity (2026-02-05)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [OpenXiangShan/YuQuan](https://github.com/OpenXiangShan/YuQuan)
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU) to [CrackerCat/ReSukiSU](https://github.com/CrackerCat/ReSukiSU)
-  > Kernel-based Android Root Solution,forked from sukisu
-
-### [NUL0x4C](https://github.com/NUL0x4C)
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [br4ndn/warbird-example](https://github.com/br4ndn/warbird-example)
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [HexilionLabs/AltSys](https://github.com/HexilionLabs/AltSys)
-  > KPP bypass with alternative syscall pipeline
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [thebabush/idagui](https://github.com/thebabush/idagui)
-  > IDA Pro + ImGui
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [markusa4/satsuma](https://github.com/markusa4/satsuma)
-  > static symmetry breaking for SAT
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [Data-Oriented-House/PortableBuildTools](https://github.com/Data-Oriented-House/PortableBuildTools)
-  > Portable VS Build Tools installer
-
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Owl4444/jsdeob-workbench](https://github.com/Owl4444/jsdeob-workbench)
-  > Reverse engineer obfuscated JavaScript visually. Chain transforms, inspect AST changes, write reusab...
-
-### [goto-bus-stop](https://github.com/goto-bus-stop)
-- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage)
-  > Displays test coverage data in the sign column
-- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [LdDl/horizon](https://github.com/LdDl/horizon)
-  > Map matching (snapping GPS points to road graph) and routing library in Go
-- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [valhalla/valhalla](https://github.com/valhalla/valhalla)
-  > Open Source Routing Engine for OpenStreetMap
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Elara6331/pcre](https://github.com/Elara6331/pcre)
-  > Pure-Go port of the PCRE2 regular expression engine.
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [Elara6331/pcre](https://github.com/Elara6331/pcre) to [dip-proto/go-pcre](https://github.com/dip-proto/go-pcre)
-  > Pure-Go port of the PCRE2 regular expression engine.
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [poad42/cuda-fp8-ampere](https://github.com/poad42/cuda-fp8-ampere)
-  > IMMA-based **FP8-as-storage** GEMM experiments for Ampere (sm_86 / RTX 3090 Ti).
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp)
-  > A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite ...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [banteg/crimson](https://github.com/banteg/crimson)
-  > crimsonland 1.9.93 reimplementation
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dtcxzyw/llvm-bisect-service](https://github.com/dtcxzyw/llvm-bisect-service)
-  > Automatic bisection for LLVM issues
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dtcxzyw/llvm-apr-benchmark](https://github.com/dtcxzyw/llvm-apr-benchmark)
-  > A Large-Scale Automated Program Repair Benchmark of Real-World LLVM Middle-End Bugs
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [glassroom/sata_attention](https://github.com/glassroom/sata_attention)
-  > Reference implementation of "Self-Attention at Constant Cost per Token via Symmetry-Aware Taylor App...
-- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [rems-project/sail-tiny-arm](https://github.com/rems-project/sail-tiny-arm) to [jevinskie/sail-tiny-arm](https://github.com/jevinskie/sail-tiny-arm)
-
-### [joydo](https://github.com/joydo)
-- 🌟 👤 [joydo](https://github.com/joydo) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [mrexodia/sogen](https://github.com/mrexodia/sogen)
-  > 🪅 Windows User Space Emulator 
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5)
-  > The most powerful local music generation model that outperforms most commercial alternatives
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
-  > Your browser catches homograph attacks. Your terminal doesn't. Tirith guards the gate — intercepts s...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [angristan/netclode](https://github.com/angristan/netclode)
-  > Self hosted personal coding agent with k3s + kata containers + cloud hypervisor microVMs + claude co...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BACNext/BACNext](https://github.com/BACNext/BACNext) to [CrackerCat/BACNext](https://github.com/CrackerCat/BACNext)
+  > BACNext | bilibili API Collect Next | 本项目与 BAC 没有从属关系
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rsatan/Next.js-Exploit-Tool](https://github.com/Rsatan/Next.js-Exploit-Tool) to [CrackerCat/Next.js-Exploit-Tool](https://github.com/CrackerCat/Next.js-Exploit-Tool)
+  > Next.js-Exploit-Tool 图形化综合利用工具，基于 Go 开发，一款针对 CVE-2025-55182 的独立安全评估工具。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) to [CrackerCat/Humanizer-zh](https://github.com/CrackerCat/Humanizer-zh)
+  > Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qqliushiyu/AIxVuln_Web](https://github.com/qqliushiyu/AIxVuln_Web) to [CrackerCat/AIxVuln_Web](https://github.com/CrackerCat/AIxVuln_Web)
+  > 一个基于LLM的多Agent全流程漏洞挖掘项目，支持PHP、Java、Python、Go、Node.js等多种语言项目环境搭建、漏洞分析、漏洞验证、报告产出。支持多Agent并发高效率完成漏洞挖掘任务...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tzcnt/TooManyCooks](https://github.com/tzcnt/TooManyCooks) to [CrackerCat/TooManyCooks](https://github.com/CrackerCat/TooManyCooks)
+  > C++20 concurrency framework with no compromises. Excellent performance, powerful features, and simpl...
 
 
 ---
-*Last updated at 2026-02-04 23:33:20 UTC*
+*Last updated at 2026-02-05 02:31:45 UTC*
 *Historical records are stored in the `archive` directory.*
