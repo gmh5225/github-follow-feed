@@ -28,6 +28,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rems-project/archsem-lean](https://github.com/rems-project/archsem-lean)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [BnuuySolutions/vr2jb](https://github.com/BnuuySolutions/vr2jb)
+  > PlayStation VR2 jailbreak utility, currently only offers "recovery mode" capabilities.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dax89/QHexView](https://github.com/Dax89/QHexView)
@@ -49,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-05 19:40:42 UTC*
+*Last updated at 2026-02-05 20:39:15 UTC*
 *Historical records are stored in the `archive` directory.*
