@@ -7,6 +7,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [containers/podman](https://github.com/containers/podman)
   > Podman: A tool for managing OCI containers and pods.
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [containers/podlet](https://github.com/containers/podlet)
+  > Generate Podman Quadlet files from a Podman command, compose file, or existing object
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [containers/netavark](https://github.com/containers/netavark)
+  > Container network stack
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BACNext/BACNext](https://github.com/BACNext/BACNext) to [CrackerCat/BACNext](https://github.com/CrackerCat/BACNext)
@@ -22,5 +26,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-05 05:59:00 UTC*
+*Last updated at 2026-02-05 07:11:49 UTC*
 *Historical records are stored in the `archive` directory.*
