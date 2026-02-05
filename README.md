@@ -11,6 +11,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Generate Podman Quadlet files from a Podman command, compose file, or existing object
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [containers/netavark](https://github.com/containers/netavark)
   > Container network stack
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine)
+  > Scripts for setting up and running MSVC in Wine on Linux
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BACNext/BACNext](https://github.com/BACNext/BACNext) to [CrackerCat/BACNext](https://github.com/CrackerCat/BACNext)
@@ -24,7 +26,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tzcnt/TooManyCooks](https://github.com/tzcnt/TooManyCooks) to [CrackerCat/TooManyCooks](https://github.com/CrackerCat/TooManyCooks)
   > C++20 concurrency framework with no compromises. Excellent performance, powerful features, and simpl...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [angristan/fast-resume](https://github.com/angristan/fast-resume)
+  > Find that one coding agent session you want to get back to!
+
+### [papstuc](https://github.com/papstuc)
+- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [19h/rax](https://github.com/19h/rax)
+- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
+
 
 ---
-*Last updated at 2026-02-05 07:11:49 UTC*
+*Last updated at 2026-02-05 08:51:42 UTC*
 *Historical records are stored in the `archive` directory.*
