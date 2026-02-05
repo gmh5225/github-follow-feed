@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [angristan/fast-resume](https://github.com/angristan/fast-resume)
   > Find that one coding agent session you want to get back to!
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kizuna-ai-lab/sokuji](https://github.com/kizuna-ai-lab/sokuji)
+  > Live speech translation application built with Electron 34 and React, using OpenAI's Realtime API.
 
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [19h/rax](https://github.com/19h/rax)
@@ -36,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-05 13:12:53 UTC*
+*Last updated at 2026-02-05 14:49:34 UTC*
 *Historical records are stored in the `archive` directory.*
