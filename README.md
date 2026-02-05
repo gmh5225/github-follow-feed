@@ -26,6 +26,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tzcnt/TooManyCooks](https://github.com/tzcnt/TooManyCooks) to [CrackerCat/TooManyCooks](https://github.com/CrackerCat/TooManyCooks)
   > C++20 concurrency framework with no compromises. Excellent performance, powerful features, and simpl...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rems-project/archsem-lean](https://github.com/rems-project/archsem-lean)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [angristan/fast-resume](https://github.com/angristan/fast-resume)
   > Find that one coding agent session you want to get back to!
@@ -42,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-05 17:53:26 UTC*
+*Last updated at 2026-02-05 18:56:28 UTC*
 *Historical records are stored in the `archive` directory.*
