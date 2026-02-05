@@ -36,7 +36,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [19h/rax](https://github.com/19h/rax)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
 
+### [stevemk14ebr](https://github.com/stevemk14ebr)
+- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [BimmerGestalt/AAIdrive](https://github.com/BimmerGestalt/AAIdrive)
+  > Implementations of some Android Auto features as unofficial IDrive apps
+
 
 ---
-*Last updated at 2026-02-05 16:56:17 UTC*
+*Last updated at 2026-02-05 17:53:26 UTC*
 *Historical records are stored in the `archive` directory.*
