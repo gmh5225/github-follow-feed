@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tzcnt/TooManyCooks](https://github.com/tzcnt/TooManyCooks) to [CrackerCat/TooManyCooks](https://github.com/CrackerCat/TooManyCooks)
   > C++20 concurrency framework with no compromises. Excellent performance, powerful features, and simpl...
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler)
+  > Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rems-project/archsem-lean](https://github.com/rems-project/archsem-lean)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [BnuuySolutions/vr2jb](https://github.com/BnuuySolutions/vr2jb)
@@ -51,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-05 20:39:15 UTC*
+*Last updated at 2026-02-05 21:34:48 UTC*
 *Historical records are stored in the `archive` directory.*
