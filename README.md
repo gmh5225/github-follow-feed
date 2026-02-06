@@ -59,12 +59,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [gem5/gem5](https://github.com/gem5/gem5)
   > The official repository for the gem5 computer-system architecture simulator.
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google-coral/coralnpu](https://github.com/google-coral/coralnpu)
+  > A machine learning accelerator core designed for energy-efficient AI at the edge.
 
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🍴 👤 [quippy-dev](https://github.com/quippy-dev) Forked [openai/codex](https://github.com/openai/codex) to [quippy-dev/codex](https://github.com/quippy-dev/codex)
   > Lightweight coding agent that runs in your terminal
 
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
+  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+
 
 ---
-*Last updated at 2026-02-06 19:41:11 UTC*
+*Last updated at 2026-02-06 20:39:29 UTC*
 *Historical records are stored in the `archive` directory.*
