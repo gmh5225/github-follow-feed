@@ -39,6 +39,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kxzhu0505/rl_logic_synthesis](https://github.com/kxzhu0505/rl_logic_synthesis)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [macd/abc](https://github.com/macd/abc)
   > ABC: System for Sequential Logic Synthesis and Formal Verification
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wingo/whippet](https://github.com/wingo/whippet)
+  > A work-in-progress garbage collector for Guile
 
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🍴 👤 [quippy-dev](https://github.com/quippy-dev) Forked [openai/codex](https://github.com/openai/codex) to [quippy-dev/codex](https://github.com/quippy-dev/codex)
@@ -46,5 +48,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-06 15:45:24 UTC*
+*Last updated at 2026-02-06 16:53:35 UTC*
 *Historical records are stored in the `archive` directory.*
