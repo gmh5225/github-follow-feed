@@ -20,7 +20,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [yincongcyincong/weixin-macos](https://github.com/yincongcyincong/weixin-macos) to [Lynnette177/weixin-macos](https://github.com/Lynnette177/weixin-macos)
   > mac逆向的一些处理
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kxzhu0505/LOFMPL](https://github.com/kxzhu0505/LOFMPL)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kxzhu0505/LogicSynOpt](https://github.com/kxzhu0505/LogicSynOpt)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kxzhu0505/LSOracle_p](https://github.com/kxzhu0505/LSOracle_p)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kxzhu0505/abc_p](https://github.com/kxzhu0505/abc_p)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kxzhu0505/rl_logic_synthesis](https://github.com/kxzhu0505/rl_logic_synthesis)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [macd/abc](https://github.com/macd/abc)
+  > ABC: System for Sequential Logic Synthesis and Formal Verification
+
+### [quippy-dev](https://github.com/quippy-dev)
+- 🍴 👤 [quippy-dev](https://github.com/quippy-dev) Forked [openai/codex](https://github.com/openai/codex) to [quippy-dev/codex](https://github.com/quippy-dev/codex)
+  > Lightweight coding agent that runs in your terminal
+
 
 ---
-*Last updated at 2026-02-06 02:32:02 UTC*
+*Last updated at 2026-02-06 04:50:31 UTC*
 *Historical records are stored in the `archive` directory.*
