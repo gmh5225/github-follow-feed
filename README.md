@@ -55,6 +55,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Example implementation of Arm's Architecture Specification Language (ASL). This fork adds a flake.ni...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [IntelLabs/asl-interpreter](https://github.com/IntelLabs/asl-interpreter)
   > Interpreter and compiler for the ISA specification language "Architecture Specification Language" (A...
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [blacktop/disassegen](https://github.com/blacktop/disassegen) to [jevinskie/disassegen](https://github.com/jevinskie/disassegen)
+  > Generate arbitrary language AARCH64 disassemblers from ARMARM spec
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [utgheith/asl](https://github.com/utgheith/asl)
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [gem5/gem5](https://github.com/gem5/gem5)
@@ -72,5 +75,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-06 20:39:29 UTC*
+*Last updated at 2026-02-06 21:36:15 UTC*
 *Historical records are stored in the `archive` directory.*
