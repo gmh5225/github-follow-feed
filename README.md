@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [StrayMeteor3337/WeFriends](https://github.com/StrayMeteor3337/WeFriends) to [CrackerCat/WeFriends](https://github.com/CrackerCat/WeFriends)
   > WeFriends是一个开源、免费、安全的微信好友检测工具，快去看看有没有朋友偷偷删掉或者拉黑你
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) to [IuvenisSapiens/MMAudio](https://github.com/IuvenisSapiens/MMAudio)
+  > [CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Consensys/gnark-crypto](https://github.com/Consensys/gnark-crypto)
   > gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curv...
@@ -39,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-06 10:45:51 UTC*
+*Last updated at 2026-02-06 11:37:52 UTC*
 *Historical records are stored in the `archive` directory.*
