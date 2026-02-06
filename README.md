@@ -56,11 +56,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [IntelLabs/asl-interpreter](https://github.com/IntelLabs/asl-interpreter)
   > Interpreter and compiler for the ISA specification language "Architecture Specification Language" (A...
 
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [gem5/gem5](https://github.com/gem5/gem5)
+  > The official repository for the gem5 computer-system architecture simulator.
+
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🍴 👤 [quippy-dev](https://github.com/quippy-dev) Forked [openai/codex](https://github.com/openai/codex) to [quippy-dev/codex](https://github.com/quippy-dev/codex)
   > Lightweight coding agent that runs in your terminal
 
 
 ---
-*Last updated at 2026-02-06 18:57:44 UTC*
+*Last updated at 2026-02-06 19:41:11 UTC*
 *Historical records are stored in the `archive` directory.*
