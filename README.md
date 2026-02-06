@@ -17,6 +17,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [hkchengrex/MMAudio](https://github.com/hkchengrex/MMAudio) to [IuvenisSapiens/MMAudio](https://github.com/IuvenisSapiens/MMAudio)
   > [CVPR 2025] MMAudio: Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [kijai/ComfyUI-MMAudio](https://github.com/kijai/ComfyUI-MMAudio) to [IuvenisSapiens/ComfyUI-MMAudio](https://github.com/IuvenisSapiens/ComfyUI-MMAudio)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Kosinkadink/ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite) to [IuvenisSapiens/ComfyUI-VideoHelperSuite](https://github.com/IuvenisSapiens/ComfyUI-VideoHelperSuite)
+  > Nodes related to video workflows
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Consensys/gnark-crypto](https://github.com/Consensys/gnark-crypto)
@@ -43,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-06 13:10:35 UTC*
+*Last updated at 2026-02-06 14:43:02 UTC*
 *Historical records are stored in the `archive` directory.*
