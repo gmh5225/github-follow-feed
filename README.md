@@ -41,6 +41,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ABC: System for Sequential Logic Synthesis and Formal Verification
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [wingo/whippet](https://github.com/wingo/whippet)
   > A work-in-progress garbage collector for Guile
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cfinke/EpsteIn](https://github.com/cfinke/EpsteIn)
+  > See which of your LinkedIn connections appear in the Epstein files.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cfinke/Dropseeker](https://github.com/cfinke/Dropseeker)
+  > Transcribe podcasts to make them searchable, and then extract audio clips based on search terms.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [samuelgruetter/asl-interpreter](https://github.com/samuelgruetter/asl-interpreter)
+  > Example implementation of Arm's Architecture Specification Language (ASL)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TUM-DSE/asl-interpreter](https://github.com/TUM-DSE/asl-interpreter)
+  > Example implementation of Arm's Architecture Specification Language (ASL). This fork adds a flake.ni...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [IntelLabs/asl-interpreter](https://github.com/IntelLabs/asl-interpreter)
+  > Interpreter and compiler for the ISA specification language "Architecture Specification Language" (A...
 
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🍴 👤 [quippy-dev](https://github.com/quippy-dev) Forked [openai/codex](https://github.com/openai/codex) to [quippy-dev/codex](https://github.com/quippy-dev/codex)
@@ -48,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-06 16:53:35 UTC*
+*Last updated at 2026-02-06 17:45:08 UTC*
 *Historical records are stored in the `archive` directory.*
