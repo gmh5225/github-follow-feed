@@ -31,6 +31,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [yincongcyincong/weixin-macos](https://github.com/yincongcyincong/weixin-macos) to [Lynnette177/weixin-macos](https://github.com/Lynnette177/weixin-macos)
   > mac逆向的一些处理
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [TheQmaks/clsdumper](https://github.com/TheQmaks/clsdumper)
+  > Android Dynamic Class Dumper — dump all DEX files from running Android apps using Frida
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kxzhu0505/LOFMPL](https://github.com/kxzhu0505/LOFMPL)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [kxzhu0505/LogicSynOpt](https://github.com/kxzhu0505/LogicSynOpt)
@@ -58,5 +62,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-06 17:45:08 UTC*
+*Last updated at 2026-02-06 18:57:44 UTC*
 *Historical records are stored in the `archive` directory.*
