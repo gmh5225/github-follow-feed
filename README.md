@@ -7,6 +7,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [maharmstone/quibble](https://github.com/maharmstone/quibble)
+  > Quibble - the custom Windows bootloader
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhizhuodemao/ai-reverse-toolkit](https://github.com/zhizhuodemao/ai-reverse-toolkit) to [CrackerCat/ai-reverse-toolkit](https://github.com/CrackerCat/ai-reverse-toolkit)
@@ -58,6 +60,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [blacktop/disassegen](https://github.com/blacktop/disassegen) to [jevinskie/disassegen](https://github.com/jevinskie/disassegen)
   > Generate arbitrary language AARCH64 disassemblers from ARMARM spec
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [utgheith/asl](https://github.com/utgheith/asl)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [upa-url/upa](https://github.com/upa-url/upa)
+  > An implementation of the WHATWG URL Standard in C++
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cosmosgl/graph](https://github.com/cosmosgl/graph)
+  > GPU-accelerated force graph layout and rendering
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xd34df00d/coformat](https://github.com/0xd34df00d/coformat)
+  > Produce a clang-format file from some sample source code
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xd34df00d/you-dont-know-cpp](https://github.com/0xd34df00d/you-dont-know-cpp)
+  > and neither do I
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz)
+  > Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper...
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [gem5/gem5](https://github.com/gem5/gem5)
@@ -75,5 +87,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-06 21:36:15 UTC*
+*Last updated at 2026-02-06 22:30:06 UTC*
 *Historical records are stored in the `archive` directory.*
