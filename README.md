@@ -39,6 +39,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pydantic/monty](https://github.com/pydantic/monty)
@@ -53,6 +54,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesyste...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [beam-cloud/airstore](https://github.com/beam-cloud/airstore)
   > The filesystem for AI agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  > Spec-driven development (SDD) for AI coding assistants.
 
 ### [qop1832](https://github.com/qop1832)
 - 🍴 👤 [qop1832](https://github.com/qop1832) Forked [w00tzenheimer/blizztools](https://github.com/w00tzenheimer/blizztools) to [qop1832/blizztools](https://github.com/qop1832/blizztools)
@@ -66,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-07 19:28:29 UTC*
+*Last updated at 2026-02-07 20:33:48 UTC*
 *Historical records are stored in the `archive` directory.*
