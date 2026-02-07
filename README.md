@@ -43,6 +43,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Self hosted cloud coding agent with k3s + kata containers + cloud hypervisor microVMs + tailscale + ...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
   > Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [microsoft/litebox](https://github.com/microsoft/litebox)
+  > A security-focused library OS supporting kernel- and user-mode execution
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [The-Vibe-Company/claude-code-controller](https://github.com/The-Vibe-Company/claude-code-controller)
+  > Programmatic TypeScript API to pilot Claude Code agents via the internal teams/inbox/tasks filesyste...
 
 ### [qop1832](https://github.com/qop1832)
 - 🍴 👤 [qop1832](https://github.com/qop1832) Forked [w00tzenheimer/blizztools](https://github.com/w00tzenheimer/blizztools) to [qop1832/blizztools](https://github.com/qop1832/blizztools)
@@ -56,5 +60,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-07 14:31:08 UTC*
+*Last updated at 2026-02-07 15:30:40 UTC*
 *Historical records are stored in the `archive` directory.*
