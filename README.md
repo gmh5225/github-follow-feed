@@ -36,6 +36,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dpipstudio/noskid.today](https://github.com/dpipstudio/noskid.today)
   > Please don't talk when you don't know :]
 
+### [ggoodman](https://github.com/ggoodman)
+- 🍴 👤 [ggoodman](https://github.com/ggoodman) Forked [earendil-works/gondolin](https://github.com/earendil-works/gondolin) to [ggoodman/gondolin](https://github.com/ggoodman/gondolin)
+  > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [earendil-works/gondolin](https://github.com/earendil-works/gondolin)
+  > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
+
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [Dicklesworthstone/frankentui](https://github.com/Dicklesworthstone/frankentui)
+  > The Most Powerful, Performant, and Stylish TUI Framework on the Planet
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
@@ -69,5 +79,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-07 20:33:48 UTC*
+*Last updated at 2026-02-07 21:31:25 UTC*
 *Historical records are stored in the `archive` directory.*
