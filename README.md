@@ -50,6 +50,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/picanha](https://github.com/binsnake/picanha)
+  > [WIP] claude opus x86_64 disassembler/lifter/recompiler
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pydantic/monty](https://github.com/pydantic/monty)
@@ -79,5 +81,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-07 22:30:52 UTC*
+*Last updated at 2026-02-07 23:34:54 UTC*
 *Historical records are stored in the `archive` directory.*
