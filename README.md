@@ -36,6 +36,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dpipstudio/noskid.today](https://github.com/dpipstudio/noskid.today)
   > Please don't talk when you don't know :]
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pydantic/monty](https://github.com/pydantic/monty)
+  > A minimal, secure Python interpreter written in Rust for use by AI
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
@@ -62,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-07 18:41:37 UTC*
+*Last updated at 2026-02-07 19:28:29 UTC*
 *Historical records are stored in the `archive` directory.*
