@@ -27,12 +27,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
+- 🍴 👤 [niieani](https://github.com/niieani) Forked [angristan/netclode](https://github.com/angristan/netclode) to [niieani/netclode](https://github.com/niieani/netclode)
+  > Self hosted cloud coding agent with k3s + kata containers + cloud hypervisor microVMs + tailscale + ...
 
 ### [qop1832](https://github.com/qop1832)
 - 🍴 👤 [qop1832](https://github.com/qop1832) Forked [w00tzenheimer/blizztools](https://github.com/w00tzenheimer/blizztools) to [qop1832/blizztools](https://github.com/qop1832/blizztools)
 - 🌟 👤 [qop1832](https://github.com/qop1832) Starred [qop1832/blizztools](https://github.com/qop1832/blizztools)
 
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [keystonejs/keystone](https://github.com/keystonejs/keystone)
+  > The superpowered headless CMS for Node.js — built with GraphQL and React
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [keystone-engine/keystone](https://github.com/keystone-engine/keystone)
+  > Keystone assembler framework: Core (Arm, Arm64, Hexagon, Mips, PowerPC, Sparc, SystemZ & X86) + bind...
+
 
 ---
-*Last updated at 2026-02-07 07:35:23 UTC*
+*Last updated at 2026-02-07 08:37:59 UTC*
 *Historical records are stored in the `archive` directory.*
