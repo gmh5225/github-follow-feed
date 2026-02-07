@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A minimal, secure Python interpreter written in Rust for use by AI
 - 🍴 👤 [niieani](https://github.com/niieani) Forked [angristan/netclode](https://github.com/angristan/netclode) to [niieani/netclode](https://github.com/niieani/netclode)
   > Self hosted cloud coding agent with k3s + kata containers + cloud hypervisor microVMs + tailscale + ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [FluidInference/FluidAudio](https://github.com/FluidInference/FluidAudio)
+  > Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection...
 
 ### [qop1832](https://github.com/qop1832)
 - 🍴 👤 [qop1832](https://github.com/qop1832) Forked [w00tzenheimer/blizztools](https://github.com/w00tzenheimer/blizztools) to [qop1832/blizztools](https://github.com/qop1832/blizztools)
@@ -42,5 +44,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-07 08:37:59 UTC*
+*Last updated at 2026-02-07 09:35:44 UTC*
 *Historical records are stored in the `archive` directory.*
