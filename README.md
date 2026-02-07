@@ -11,6 +11,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [tritant/ComfyUI_Kitchen_nvfp4_Converter](https://github.com/tritant/ComfyUI_Kitchen_nvfp4_Converter)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [tritant/ComfyUI_Kitchen_nvfp4_Converter](https://github.com/tritant/ComfyUI_Kitchen_nvfp4_Converter) to [IuvenisSapiens/ComfyUI_Kitchen_nvfp4_Converter](https://github.com/IuvenisSapiens/ComfyUI_Kitchen_nvfp4_Converter)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [kijai/ComfyUI-MelBandRoFormer](https://github.com/kijai/ComfyUI-MelBandRoFormer)
+  > Mel-Band RoFormer for Music Source Separation
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [kijai/ComfyUI-MelBandRoFormer](https://github.com/kijai/ComfyUI-MelBandRoFormer) to [IuvenisSapiens/ComfyUI-MelBandRoFormer](https://github.com/IuvenisSapiens/ComfyUI-MelBandRoFormer)
+  > Mel-Band RoFormer for Music Source Separation
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pydantic/monty](https://github.com/pydantic/monty)
+  > A minimal, secure Python interpreter written in Rust for use by AI
 
 ### [qop1832](https://github.com/qop1832)
 - 🍴 👤 [qop1832](https://github.com/qop1832) Forked [w00tzenheimer/blizztools](https://github.com/w00tzenheimer/blizztools) to [qop1832/blizztools](https://github.com/qop1832/blizztools)
@@ -18,5 +26,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-07 02:27:42 UTC*
+*Last updated at 2026-02-07 04:41:26 UTC*
 *Historical records are stored in the `archive` directory.*
