@@ -30,6 +30,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [ChickenHook/ChickenHook](https://github.com/ChickenHook/ChickenHook) to [Lynnette177/ChickenHook](https://github.com/Lynnette177/ChickenHook)
   > A linux / android / MacOS hooking framework
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [backengineering/ring-1.io](https://github.com/backengineering/ring-1.io)
+  > Deobfuscation and Analysis of Ring-1.io
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [dpipstudio/noskid.today](https://github.com/dpipstudio/noskid.today)
+  > Please don't talk when you don't know :]
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pydantic/monty](https://github.com/pydantic/monty)
   > A minimal, secure Python interpreter written in Rust for use by AI
@@ -50,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-07 12:59:06 UTC*
+*Last updated at 2026-02-07 13:50:31 UTC*
 *Historical records are stored in the `archive` directory.*
