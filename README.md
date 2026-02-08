@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [binsnake/picanha](https://github.com/binsnake/picanha)
   > [WIP] claude opus x86_64 disassembler/lifter/recompiler
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Pilfer/hermes_rs](https://github.com/Pilfer/hermes_rs)
+  > Hermes bytecode disassembler and assembler
+
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [Gauntlet-AIDP/0-prework-assignment](https://github.com/Gauntlet-AIDP/0-prework-assignment) to [jakehemmerle/0-prework-assignment](https://github.com/jakehemmerle/0-prework-assignment)
 
@@ -37,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-08 17:31:45 UTC*
+*Last updated at 2026-02-08 18:42:59 UTC*
 *Historical records are stored in the `archive` directory.*
