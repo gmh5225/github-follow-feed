@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [light-and-ray/awesome-alternative-uis-for-comfyui](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui)
   > Collection of UIs for ComfyUI
 
+### [angryzor](https://github.com/angryzor)
+- 🍴 👤 [angryzor](https://github.com/angryzor) Forked [spnda/dds_image](https://github.com/spnda/dds_image) to [angryzor/dds_image](https://github.com/angryzor/dds_image)
+  > Header-only C++11/C++17 DirectDraw Surface (DDS) decoder with Vulkan helpers.
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [binsnake/picanha](https://github.com/binsnake/picanha)
   > [WIP] claude opus x86_64 disassembler/lifter/recompiler
@@ -24,6 +28,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Jonty/CamJam](https://github.com/Jonty/CamJam)
   > A near-realtime view of London from TFL's JamCams
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [notscimmy/YASS](https://github.com/notscimmy/YASS)
+  > Yet Another Sig Scanner
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GH-Rake/PatternScan](https://github.com/GH-Rake/PatternScan)
+  > PatternScan library for internal and external pattern scan
 
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [andreafioraldi/IDAngr](https://github.com/andreafioraldi/IDAngr)
@@ -41,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-08 20:34:13 UTC*
+*Last updated at 2026-02-08 21:32:01 UTC*
 *Historical records are stored in the `archive` directory.*
