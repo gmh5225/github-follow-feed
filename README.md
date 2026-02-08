@@ -17,6 +17,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [Gauntlet-AIDP/0-prework-assignment](https://github.com/Gauntlet-AIDP/0-prework-assignment) to [jakehemmerle/0-prework-assignment](https://github.com/jakehemmerle/0-prework-assignment)
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Jonty/CamJam](https://github.com/Jonty/CamJam)
+  > A near-realtime view of London from TFL's JamCams
+
 ### [papstuc](https://github.com/papstuc)
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [andreafioraldi/IDAngr](https://github.com/andreafioraldi/IDAngr)
   > Use angr in the IDA Pro debugger generating a state from the current debug session
@@ -33,5 +37,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-08 13:00:13 UTC*
+*Last updated at 2026-02-08 13:52:14 UTC*
 *Historical records are stored in the `archive` directory.*
