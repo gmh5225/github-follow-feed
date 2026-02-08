@@ -23,7 +23,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [papstuc](https://github.com/papstuc) Starred [angr/angr](https://github.com/angr/angr)
   > A powerful and user-friendly binary analysis platform!
 
+### [vitosans](https://github.com/vitosans)
+- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [roblaughter/ace-step-studio](https://github.com/roblaughter/ace-step-studio)
+  >  Local-first Suno-style music studio powered by ACE-Step 1.5.
+
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [aymericzip/intlayer](https://github.com/aymericzip/intlayer)
+  > Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit V...
+
 
 ---
-*Last updated at 2026-02-08 11:27:17 UTC*
+*Last updated at 2026-02-08 13:00:13 UTC*
 *Historical records are stored in the `archive` directory.*
