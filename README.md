@@ -7,6 +7,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [dtcxzyw/tuffy](https://github.com/dtcxzyw/tuffy)
   > An experimental optimizing compiler written by LLM
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [light-and-ray/awesome-alternative-uis-for-comfyui](https://github.com/light-and-ray/awesome-alternative-uis-for-comfyui)
+  > Collection of UIs for ComfyUI
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [binsnake/picanha](https://github.com/binsnake/picanha)
@@ -23,5 +25,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-08 05:07:31 UTC*
+*Last updated at 2026-02-08 06:57:19 UTC*
 *Historical records are stored in the `archive` directory.*
