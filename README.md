@@ -10,6 +10,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [moka-rs/moka](https://github.com/moka-rs/moka)
   > A high performance concurrent caching library for Rust
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [maplibre/maplibre-tile-spec](https://github.com/maplibre/maplibre-tile-spec)
+  > Next generation vector tiles format
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [fastly/terraform-provider-fastly](https://github.com/fastly/terraform-provider-fastly) to [dip-proto/terraform-provider-fastly](https://github.com/dip-proto/terraform-provider-fastly)
@@ -78,5 +80,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-09 17:53:00 UTC*
+*Last updated at 2026-02-09 19:22:34 UTC*
 *Historical records are stored in the `archive` directory.*
