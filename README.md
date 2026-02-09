@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw)
   > A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connect...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) to [mrexodia/pattern-bench](https://github.com/mrexodia/pattern-bench)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lilify-jp/Squre](https://github.com/lilify-jp/Squre)
+  > 🛡️ Open-source binary protection toolkit for Windows PE. Nanomite, VM protection, anti-debug, and mo...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)
@@ -36,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-09 10:12:00 UTC*
+*Last updated at 2026-02-09 11:51:09 UTC*
 *Historical records are stored in the `archive` directory.*
