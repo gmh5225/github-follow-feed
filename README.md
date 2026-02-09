@@ -7,6 +7,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lxz-jiandan/VmpEngine](https://github.com/lxz-jiandan/VmpEngine) to [CrackerCat/VmpEngine](https://github.com/CrackerCat/VmpEngine)
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [djskncxm/TraceParse](https://github.com/djskncxm/TraceParse)
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [djskncxm/TraceParse](https://github.com/djskncxm/TraceParse) to [joydo/TraceParse](https://github.com/joydo/TraceParse)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Peribunt/FindPattern](https://github.com/Peribunt/FindPattern)
   > The fastest SSE FindPattern function yet
@@ -18,11 +22,17 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A lightweight alternative to Clawdbot / OpenClaw that runs in Apple containers for security. Connect...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) to [mrexodia/pattern-bench](https://github.com/mrexodia/pattern-bench)
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)
+  > Build big projects with Claude. Chief breaks your work into tasks and runs Claude Code in a loop unt...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [macaly/almostnode](https://github.com/macaly/almostnode)
+  > Node.js in your browser. Just like that.
+
 ### [qop1832](https://github.com/qop1832)
 - 🌟 👤 [qop1832](https://github.com/qop1832) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
   > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
 
 
 ---
-*Last updated at 2026-02-09 05:05:08 UTC*
+*Last updated at 2026-02-09 07:11:41 UTC*
 *Historical records are stored in the `archive` directory.*
