@@ -7,6 +7,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lxz-jiandan/VmpEngine](https://github.com/lxz-jiandan/VmpEngine) to [CrackerCat/VmpEngine](https://github.com/CrackerCat/VmpEngine)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [fastly/terraform-provider-fastly](https://github.com/fastly/terraform-provider-fastly) to [dip-proto/terraform-provider-fastly](https://github.com/dip-proto/terraform-provider-fastly)
+  > Terraform Fastly provider
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [chipsalliance/rvdecoderdb](https://github.com/chipsalliance/rvdecoderdb)
+  > The Scala parser to parse riscv/riscv-opcodes generate
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) to [jevinskie/riscv-opcodes](https://github.com/jevinskie/riscv-opcodes)
+  > RISC-V Opcodes
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [djskncxm/TraceParse](https://github.com/djskncxm/TraceParse)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [djskncxm/TraceParse](https://github.com/djskncxm/TraceParse) to [joydo/TraceParse](https://github.com/joydo/TraceParse)
@@ -46,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-09 14:57:04 UTC*
+*Last updated at 2026-02-09 16:03:36 UTC*
 *Historical records are stored in the `archive` directory.*
