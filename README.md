@@ -68,6 +68,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Cross platform portable accelerate math library using universal intrinsics.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [simd-everywhere/simde](https://github.com/simd-everywhere/simde) to [mrexodia/simde](https://github.com/mrexodia/simde)
   > Implementations of SIMD instruction sets for systems which don't natively support them.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [IChooseYou/ReclassX](https://github.com/IChooseYou/ReclassX)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [MiniCodeMonkey/chief](https://github.com/MiniCodeMonkey/chief)
@@ -80,6 +81,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   >  OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI ...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [needle-tools/md-browse](https://github.com/needle-tools/md-browse)
   > Markdown Browser – See the web like an AI does
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [SoFriendly/chell](https://github.com/SoFriendly/chell)
+  > Chell is a workspace for vibe coding built upon the principals of tracking what the agent changes an...
 
 ### [qop1832](https://github.com/qop1832)
 - 🌟 👤 [qop1832](https://github.com/qop1832) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
@@ -95,5 +98,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-09 22:41:34 UTC*
+*Last updated at 2026-02-09 23:42:05 UTC*
 *Historical records are stored in the `archive` directory.*
