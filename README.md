@@ -7,8 +7,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lxz-jiandan/VmpEngine](https://github.com/lxz-jiandan/VmpEngine) to [CrackerCat/VmpEngine](https://github.com/CrackerCat/VmpEngine)
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [justlovemaki/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)
+  > Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI A...
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [yoheinakajima/babyagi3](https://github.com/yoheinakajima/babyagi3)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [sibyllinesoft/scurl](https://github.com/sibyllinesoft/scurl)
+  > Simple curl wrapper that converts HTML pages to sanitized markdown for agent consumption while filte...
 
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [moka-rs/moka](https://github.com/moka-rs/moka)
@@ -72,6 +78,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Remote repository management made easy
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TheAgentContextLab/OneContext](https://github.com/TheAgentContextLab/OneContext)
   >  OneContext is an Agent Self-Managed Context layer, it gives your team a unified context for AII AI ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [needle-tools/md-browse](https://github.com/needle-tools/md-browse)
+  > Markdown Browser – See the web like an AI does
 
 ### [qop1832](https://github.com/qop1832)
 - 🌟 👤 [qop1832](https://github.com/qop1832) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
@@ -87,5 +95,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-09 21:43:02 UTC*
+*Last updated at 2026-02-09 22:41:34 UTC*
 *Historical records are stored in the `archive` directory.*
