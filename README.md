@@ -7,6 +7,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lxz-jiandan/VmpEngine](https://github.com/lxz-jiandan/VmpEngine) to [CrackerCat/VmpEngine](https://github.com/CrackerCat/VmpEngine)
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [yoheinakajima/babyagi3](https://github.com/yoheinakajima/babyagi3)
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [moka-rs/moka](https://github.com/moka-rs/moka)
   > A high performance concurrent caching library for Rust
@@ -36,6 +39,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Parallelizing SMT Solving: Lazy Decomposition + Conciliation
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Sir68k/cfw-mz-rh1](https://github.com/Sir68k/cfw-mz-rh1)
   > Custom firmware for the MZ-RH1 MD Recorder
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bearcove/vixen](https://github.com/bearcove/vixen)
+  > aspiring rust build system
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [djskncxm/TraceParse](https://github.com/djskncxm/TraceParse)
@@ -82,5 +87,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-09 20:47:25 UTC*
+*Last updated at 2026-02-09 21:43:02 UTC*
 *Historical records are stored in the `archive` directory.*
