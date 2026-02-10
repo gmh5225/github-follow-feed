@@ -7,6 +7,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [BeneficialCode](https://github.com/BeneficialCode)
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [cursey/safetyhook](https://github.com/cursey/safetyhook)
   > C++23 procedure hooking library.
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [alliedmodders/metamod-source](https://github.com/alliedmodders/metamod-source)
+  > Metamod:Source - C++ Plugin Environment and Detour Library for the Source Engine
 
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [dockur/windows](https://github.com/dockur/windows)
@@ -35,5 +37,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-10 07:11:47 UTC*
+*Last updated at 2026-02-10 09:01:29 UTC*
 *Historical records are stored in the `archive` directory.*
