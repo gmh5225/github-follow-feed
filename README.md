@@ -31,11 +31,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wbenny/scfw](https://github.com/wbenny/scfw)
+  > A cross-platform C++ framework for building Windows shellcode
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass)
 
 
 ---
-*Last updated at 2026-02-10 13:24:33 UTC*
+*Last updated at 2026-02-10 15:06:39 UTC*
 *Historical records are stored in the `archive` directory.*
