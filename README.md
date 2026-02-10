@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [cursey/safetyhook](https://github.com/cursey/safetyhook)
+  > C++23 procedure hooking library.
+
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [dockur/windows](https://github.com/dockur/windows)
   > Windows inside a Docker container.
@@ -14,6 +18,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mindskip/xzs](https://github.com/mindskip/xzs) to [CrackerCat/xzs](https://github.com/CrackerCat/xzs)
   > 在线考试系统
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [elastic/detection-rules](https://github.com/elastic/detection-rules)
+
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
+  > An eBPF-powered debugger server for linux and android.
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [Satar07/edbgserver](https://github.com/Satar07/edbgserver) to [joydo/edbgserver](https://github.com/joydo/edbgserver)
+  > An eBPF-powered debugger server for linux and android.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/ReclassX](https://github.com/IChooseYou/ReclassX) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
 
@@ -22,5 +35,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-10 05:08:22 UTC*
+*Last updated at 2026-02-10 07:11:47 UTC*
 *Historical records are stored in the `archive` directory.*
