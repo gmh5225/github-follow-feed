@@ -63,11 +63,13 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Living Manual for Better Interfaces
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [DataDog/pup](https://github.com/DataDog/pup)
   > A Go-based command-line wrapper for easy interaction with Datadog APIs. Perfectly fit for an AI agen...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [tsl0922/ttyd](https://github.com/tsl0922/ttyd)
+  > Share your terminal over the web
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass)
 
 
 ---
-*Last updated at 2026-02-10 20:50:49 UTC*
+*Last updated at 2026-02-10 21:49:14 UTC*
 *Historical records are stored in the `archive` directory.*
