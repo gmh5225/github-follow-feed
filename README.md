@@ -46,10 +46,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wbenny/scfw](https://github.com/wbenny/scfw)
   > A cross-platform C++ framework for building Windows shellcode
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [nightshiftco/nightshift](https://github.com/nightshiftco/nightshift)
+  > A CLI for managing Coding Agents and their Environments
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [gillkyle/agent-tail](https://github.com/gillkyle/agent-tail)
+  > Pipe logs from all your dev servers into a single place accessible to your agents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [raphaelsalaja/userinterface-wiki](https://github.com/raphaelsalaja/userinterface-wiki)
+  > A Living Manual for Better Interfaces
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [DataDog/pup](https://github.com/DataDog/pup)
+  > A Go-based command-line wrapper for easy interaction with Datadog APIs. Perfectly fit for an AI agen...
+
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass)
 
 
 ---
-*Last updated at 2026-02-10 17:14:57 UTC*
+*Last updated at 2026-02-10 19:17:05 UTC*
 *Historical records are stored in the `archive` directory.*
