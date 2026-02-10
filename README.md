@@ -30,12 +30,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An eBPF-powered debugger server for linux and android.
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/ReclassX](https://github.com/IChooseYou/ReclassX) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
-- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [IChooseYou/ReclassX](https://github.com/IChooseYou/ReclassX)
+- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass)
 
 
 ---
-*Last updated at 2026-02-10 11:54:42 UTC*
+*Last updated at 2026-02-10 13:24:33 UTC*
 *Historical records are stored in the `archive` directory.*
