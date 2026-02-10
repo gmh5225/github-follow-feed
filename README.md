@@ -55,6 +55,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > CLI tool for interacting with the web
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aloshdenny/reverse-SynthID-text](https://github.com/aloshdenny/reverse-SynthID-text)
   > reverse engineering SynthID for text
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/idalib-dump](https://github.com/19h/idalib-dump)
+  > Terminal-based IDA disassembly, microcode and pseudocode dumper
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nightshiftco/nightshift](https://github.com/nightshiftco/nightshift)
@@ -73,5 +75,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-10 22:46:20 UTC*
+*Last updated at 2026-02-10 23:42:04 UTC*
 *Historical records are stored in the `archive` directory.*
