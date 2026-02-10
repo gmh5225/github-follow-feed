@@ -53,6 +53,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Create executable documents that demonstrate an agent's work
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/rodney](https://github.com/simonw/rodney)
   > CLI tool for interacting with the web
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aloshdenny/reverse-SynthID-text](https://github.com/aloshdenny/reverse-SynthID-text)
+  > reverse engineering SynthID for text
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nightshiftco/nightshift](https://github.com/nightshiftco/nightshift)
@@ -71,5 +73,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-10 21:49:14 UTC*
+*Last updated at 2026-02-10 22:46:20 UTC*
 *Historical records are stored in the `archive` directory.*
