@@ -20,8 +20,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mindskip/xzs](https://github.com/mindskip/xzs) to [CrackerCat/xzs](https://github.com/CrackerCat/xzs)
   > 在线考试系统
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [KoBeWi/Godot-Action-Icon](https://github.com/KoBeWi/Godot-Action-Icon)
+  > GUI node for Godot that displays the key associated with input action.
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [elastic/detection-rules](https://github.com/elastic/detection-rules)
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
+  > Web history on steroids
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [asciimoo/omnom](https://github.com/asciimoo/omnom)
+  > A web content preservation service
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [asciimoo/exrex](https://github.com/asciimoo/exrex)
+  > Irregular methods on regular expressions
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Satar07/edbgserver](https://github.com/Satar07/edbgserver)
@@ -39,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-10 15:06:39 UTC*
+*Last updated at 2026-02-10 17:14:57 UTC*
 *Historical records are stored in the `archive` directory.*
