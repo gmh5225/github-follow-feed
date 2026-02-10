@@ -27,6 +27,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [elastic/detection-rules](https://github.com/elastic/detection-rules)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) to [dip-proto/ClickHouse](https://github.com/dip-proto/ClickHouse)
+  > ClickHouse® is a real-time analytics database management system
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
   > Web history on steroids
@@ -45,6 +49,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [IChooseYou/Reclass](https://github.com/IChooseYou/Reclass) to [mrexodia/ReclassX](https://github.com/mrexodia/ReclassX)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wbenny/scfw](https://github.com/wbenny/scfw)
   > A cross-platform C++ framework for building Windows shellcode
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/showboat](https://github.com/simonw/showboat)
+  > Create executable documents that demonstrate an agent's work
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/rodney](https://github.com/simonw/rodney)
+  > CLI tool for interacting with the web
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [nightshiftco/nightshift](https://github.com/nightshiftco/nightshift)
@@ -61,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-10 19:17:05 UTC*
+*Last updated at 2026-02-10 20:50:49 UTC*
 *Historical records are stored in the `archive` directory.*
