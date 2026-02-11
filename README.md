@@ -12,11 +12,23 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/idalib-dump](https://github.com/19h/idalib-dump)
   > Terminal-based IDA disassembly, microcode and pseudocode dumper
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [intel471/coderex](https://github.com/intel471/coderex)
+  > A tool that automates regex generation for the x86 and x86-64 instruction sets
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp)
+  > PC Port of Banjo-Kazooie made using N64: Recompiled (Windows/Linux/Mac) 
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [N64Recomp/N64ModernRuntime](https://github.com/N64Recomp/N64ModernRuntime)
+  > Runtime for traditional ports or recompilations of N64 games.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)
   > Fast and streamable Excalidraw MCP App
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [eriklangille/clauntty](https://github.com/eriklangille/clauntty)
+  > iOS Terminal with native Claude Code support
 
 
 ---
-*Last updated at 2026-02-11 05:06:32 UTC*
+*Last updated at 2026-02-11 07:08:02 UTC*
 *Historical records are stored in the `archive` directory.*
