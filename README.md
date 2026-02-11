@@ -19,6 +19,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [intel471/coderex](https://github.com/intel471/coderex)
   > A tool that automates regex generation for the x86 and x86-64 instruction sets
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
+  > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 14 vulnerability techn...
 
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [consbio/mbgl-renderer](https://github.com/consbio/mbgl-renderer)
@@ -30,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [N64Recomp/N64ModernRuntime](https://github.com/N64Recomp/N64ModernRuntime)
   > Runtime for traditional ports or recompilations of N64 games.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [panteLx/easynews-plus-plus](https://github.com/panteLx/easynews-plus-plus)
+  > Easynews++ is an enhanced Easynews addon with superior performance and advanced search capabilities....
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)
   > Fast and streamable Excalidraw MCP App
@@ -38,5 +44,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-11 22:34:34 UTC*
+*Last updated at 2026-02-11 23:37:16 UTC*
 *Historical records are stored in the `archive` directory.*
