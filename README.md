@@ -16,6 +16,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [intel471/coderex](https://github.com/intel471/coderex)
   > A tool that automates regex generation for the x86 and x86-64 instruction sets
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [consbio/mbgl-renderer](https://github.com/consbio/mbgl-renderer)
+  > Static renderer for Mapbox GL
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [BanjoRecomp/BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp)
   > PC Port of Banjo-Kazooie made using N64: Recompiled (Windows/Linux/Mac) 
@@ -30,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-11 14:58:36 UTC*
+*Last updated at 2026-02-11 16:10:43 UTC*
 *Historical records are stored in the `archive` directory.*
