@@ -20,6 +20,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [goto-bus-stop/yt](https://github.com/goto-bus-stop/yt)
   > A cheeky alternative YouTube Player API implementation
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [meshcore-dev/MeshCore](https://github.com/meshcore-dev/MeshCore)
+  > A new lightweight, hybrid routing mesh protocol for packet radios
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [v-p-b/reshare](https://github.com/v-p-b/reshare)
   > Reverse engineering exchange format
@@ -39,11 +43,13 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Pre-submission compliance scanner for the Apple App Store
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem)
   > SimpleMem: Efficient Lifelong Memory for LLM Agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [brianlovin/tax-ui](https://github.com/brianlovin/tax-ui)
+  > Visualize and chat with your tax returns
 
 ### [woldann](https://github.com/woldann)
 - 🚀 👤 [woldann](https://github.com/woldann) Made [Cheatron/cheatron-native-tests](https://github.com/Cheatron/cheatron-native-tests) public
 
 
 ---
-*Last updated at 2026-02-12 17:09:31 UTC*
+*Last updated at 2026-02-12 19:13:45 UTC*
 *Historical records are stored in the `archive` directory.*
