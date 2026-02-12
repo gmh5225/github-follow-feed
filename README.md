@@ -28,6 +28,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [v-p-b/reshare](https://github.com/v-p-b/reshare)
   > Reverse engineering exchange format
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gruberb/workledger](https://github.com/gruberb/workledger)
+  > Your local first engineering notebook 
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [softwaremill/sandcat](https://github.com/softwaremill/sandcat)
   > A dev container setup that routes all container traffic through a transparent mitmproxy via WireGuar...
@@ -51,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-12 19:13:45 UTC*
+*Last updated at 2026-02-12 20:40:04 UTC*
 *Historical records are stored in the `archive` directory.*
