@@ -27,8 +27,23 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [softwaremill/sandcat](https://github.com/softwaremill/sandcat)
   > A dev container setup that routes all container traffic through a transparent mitmproxy via WireGuar...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [marcus/nightshift](https://github.com/marcus/nightshift)
+  > Nightshift uses your leftover Claude / Codex budget to surprise you with useful PRs. Love them or le...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [rudrankriyam/app-store-connect-cli-skills](https://github.com/rudrankriyam/app-store-connect-cli-skills)
+  > Skills to automate app store deployed and everything related to it using the asc cli
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [coollabsio/jean](https://github.com/coollabsio/jean)
+  > Your AI dev team, parallelized.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [callstackincubator/agent-device](https://github.com/callstackincubator/agent-device)
+  > CLI to control iOS and Android devices for AI agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [RevylAI/greenlight](https://github.com/RevylAI/greenlight)
+  > Pre-submission compliance scanner for the Apple App Store
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [aiming-lab/SimpleMem](https://github.com/aiming-lab/SimpleMem)
+  > SimpleMem: Efficient Lifelong Memory for LLM Agents
+
+### [woldann](https://github.com/woldann)
+- 🚀 👤 [woldann](https://github.com/woldann) Made [Cheatron/cheatron-native-tests](https://github.com/Cheatron/cheatron-native-tests) public
 
 
 ---
-*Last updated at 2026-02-12 15:57:52 UTC*
+*Last updated at 2026-02-12 17:09:31 UTC*
 *Historical records are stored in the `archive` directory.*
