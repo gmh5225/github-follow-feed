@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [charl-kruger/mdrip](https://github.com/charl-kruger/mdrip)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/idax](https://github.com/19h/idax)
+  > A beautiful, idiomatic and less frustrating IDA C++ SDK.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw)
@@ -37,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-13 13:10:59 UTC*
+*Last updated at 2026-02-13 14:45:07 UTC*
 *Historical records are stored in the `archive` directory.*
