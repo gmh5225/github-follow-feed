@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [19h/idax](https://github.com/19h/idax)
+  > A beautiful, idiomatic and less frustrating IDA C++ SDK.
+
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [softmatcha/softmatcha2](https://github.com/softmatcha/softmatcha2)
   > A fast and soft pattern search for trillion-scale corpora.
@@ -36,8 +40,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mbeijen/andrej-karpathy-skills-cursor-vscode](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode)
   > Andrej Karpathy skills for your Cursor or VS Code editor
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated)
+  > Curated, community-vetted Claude Code plugin marketplace
 
 
 ---
-*Last updated at 2026-02-13 14:45:07 UTC*
+*Last updated at 2026-02-13 15:48:50 UTC*
 *Historical records are stored in the `archive` directory.*
