@@ -4,8 +4,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
+  > A tool for glamorous shell scripts 🎀
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw)
+
 
 ---
-*Last updated at 2026-02-13 02:41:56 UTC*
+*Last updated at 2026-02-13 04:57:13 UTC*
 *Historical records are stored in the `archive` directory.*
