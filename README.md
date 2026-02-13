@@ -7,6 +7,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [19h/idax](https://github.com/19h/idax)
   > A beautiful, idiomatic and less frustrating IDA C++ SDK.
+- 🌟 👤 [19h](https://github.com/19h) Starred [junron/ida2py](https://github.com/junron/ida2py)
+  > An intuitive query API for IDA Pro
 
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [softmatcha/softmatcha2](https://github.com/softmatcha/softmatcha2)
@@ -45,5 +47,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-13 17:42:09 UTC*
+*Last updated at 2026-02-13 18:57:21 UTC*
 *Historical records are stored in the `archive` directory.*
