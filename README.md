@@ -47,8 +47,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [make-roro/roro-releases](https://github.com/make-roro/roro-releases)
   > Release binaries for roro app
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [charl-kruger/mdrip](https://github.com/charl-kruger/mdrip)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [knadh/oat](https://github.com/knadh/oat)
+  > Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kingbootoshi/codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator)
+  > Delegate tasks to OpenAI Codex agents via tmux sessions. Designed for Claude Code orchestration.
 
 
 ---
-*Last updated at 2026-02-13 20:45:03 UTC*
+*Last updated at 2026-02-13 21:40:46 UTC*
 *Historical records are stored in the `archive` directory.*
