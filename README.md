@@ -10,8 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mbeijen/andrej-karpathy-skills-cursor-vscode](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode)
+  > Andrej Karpathy skills for your Cursor or VS Code editor
 
 
 ---
-*Last updated at 2026-02-13 04:57:13 UTC*
+*Last updated at 2026-02-13 06:05:03 UTC*
 *Historical records are stored in the `archive` directory.*
