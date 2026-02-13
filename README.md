@@ -14,6 +14,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [charmbracelet/gum](https://github.com/charmbracelet/gum)
   > A tool for glamorous shell scripts 🎀
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [charl-kruger/mdrip](https://github.com/charl-kruger/mdrip)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mbeijen/andrej-karpathy-skills-cursor-vscode](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode)
@@ -21,5 +24,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-13 10:45:13 UTC*
+*Last updated at 2026-02-13 11:34:42 UTC*
 *Historical records are stored in the `archive` directory.*
