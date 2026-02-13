@@ -44,8 +44,11 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Andrej Karpathy skills for your Cursor or VS Code editor
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated)
   > Curated, community-vetted Claude Code plugin marketplace
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [make-roro/roro-releases](https://github.com/make-roro/roro-releases)
+  > Release binaries for roro app
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [charl-kruger/mdrip](https://github.com/charl-kruger/mdrip)
 
 
 ---
-*Last updated at 2026-02-13 18:57:21 UTC*
+*Last updated at 2026-02-13 19:47:16 UTC*
 *Historical records are stored in the `archive` directory.*
