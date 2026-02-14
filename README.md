@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [ysharma3501/LuxTTS](https://github.com/ysharma3501/LuxTTS) to [IuvenisSapiens/LuxTTS](https://github.com/IuvenisSapiens/LuxTTS)
   > A high-quality rapid TTS voice cloning model that reaches speeds of 150x realtime.
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp)
+  > A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite ...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA MCP Server
@@ -35,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-14 16:36:50 UTC*
+*Last updated at 2026-02-14 17:30:12 UTC*
 *Historical records are stored in the `archive` directory.*
