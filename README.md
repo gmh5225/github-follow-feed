@@ -18,7 +18,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blacktop/fm-rs](https://github.com/blacktop/fm-rs)
   > Rust bindings for Apple's FoundationModels.framework
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [full-stack-biz/claude-skills-toolkit](https://github.com/full-stack-biz/claude-skills-toolkit)
+  > Skills Toolkit for Claude Code
+
 
 ---
-*Last updated at 2026-02-14 06:53:07 UTC*
+*Last updated at 2026-02-14 07:37:24 UTC*
 *Historical records are stored in the `archive` directory.*
