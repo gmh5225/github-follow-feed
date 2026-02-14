@@ -21,8 +21,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [full-stack-biz/claude-skills-toolkit](https://github.com/full-stack-biz/claude-skills-toolkit)
   > Skills Toolkit for Claude Code
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [steipete/gogcli](https://github.com/steipete/gogcli)
+  > Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [skillrecordings/adr-skill](https://github.com/skillrecordings/adr-skill)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [HackingDave/btrpa-scan](https://github.com/HackingDave/btrpa-scan)
+  > Bluetooth Low Energy (BLE) scanner with Resolvable Private Address (RPA) resolution using Identity R...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench)
+  > SkillsBench evaluates how well skills work and how effective agents are at using them
 
 
 ---
-*Last updated at 2026-02-14 07:37:24 UTC*
+*Last updated at 2026-02-14 08:38:29 UTC*
 *Historical records are stored in the `archive` directory.*
