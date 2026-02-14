@@ -12,6 +12,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [fosdickio/binary_ninja_mcp](https://github.com/fosdickio/binary_ninja_mcp)
   > A Binary Ninja plugin containing an MCP server that enables seamless integration with your favorite ...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit)
+  > Swift framework to interact with JavaScript through WebAssembly.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA MCP Server
@@ -25,6 +29,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > LoRa physical layer collision decoding based on GNU Radio
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [leminlimez/Nugget](https://github.com/leminlimez/Nugget)
   > Unlock the fullest potential of your device
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/omill](https://github.com/binsnake/omill)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GitHubFoxy/pi-observational-memory](https://github.com/GitHubFoxy/pi-observational-memory)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [full-stack-biz/claude-skills-toolkit](https://github.com/full-stack-biz/claude-skills-toolkit)
@@ -43,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-14 21:29:35 UTC*
+*Last updated at 2026-02-14 22:28:58 UTC*
 *Historical records are stored in the `archive` directory.*
