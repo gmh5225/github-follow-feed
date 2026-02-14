@@ -29,10 +29,18 @@ Today's public activity from users I follow (updated every 15 minutes).
   > LoRa physical layer collision decoding based on GNU Radio
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [leminlimez/Nugget](https://github.com/leminlimez/Nugget)
   > Unlock the fullest potential of your device
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [inochisa/sg200x-initrom](https://github.com/inochisa/sg200x-initrom)
+  > Alternative initrom for SG200X/CV18XX SoCs
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel)
+  > Rust Linux-compatible kernel
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/omill](https://github.com/binsnake/omill)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GitHubFoxy/pi-observational-memory](https://github.com/GitHubFoxy/pi-observational-memory)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [imfing/jsrun](https://github.com/imfing/jsrun)
+  > Modern JavaScript runtime in Python, powered by V8 and bridged by Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cloudflare/stpyv8](https://github.com/cloudflare/stpyv8)
+  > Python 3 and JavaScript interoperability. Successor To PyV8 (https://github.com/flier/pyv8)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [full-stack-biz/claude-skills-toolkit](https://github.com/full-stack-biz/claude-skills-toolkit)
@@ -51,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-14 22:28:58 UTC*
+*Last updated at 2026-02-14 23:29:36 UTC*
 *Historical records are stored in the `archive` directory.*
