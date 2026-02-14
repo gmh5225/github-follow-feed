@@ -23,6 +23,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Rust bindings for Apple's FoundationModels.framework
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jkadbear/gr-lora](https://github.com/jkadbear/gr-lora)
   > LoRa physical layer collision decoding based on GNU Radio
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [leminlimez/Nugget](https://github.com/leminlimez/Nugget)
+  > Unlock the fullest potential of your device
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [full-stack-biz/claude-skills-toolkit](https://github.com/full-stack-biz/claude-skills-toolkit)
@@ -41,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-14 20:32:15 UTC*
+*Last updated at 2026-02-14 21:29:35 UTC*
 *Historical records are stored in the `archive` directory.*
