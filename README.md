@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > IDA Pro Docker Image
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [blacktop/fm-rs](https://github.com/blacktop/fm-rs)
   > Rust bindings for Apple's FoundationModels.framework
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jkadbear/gr-lora](https://github.com/jkadbear/gr-lora)
+  > LoRa physical layer collision decoding based on GNU Radio
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [full-stack-biz/claude-skills-toolkit](https://github.com/full-stack-biz/claude-skills-toolkit)
@@ -39,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-14 17:30:12 UTC*
+*Last updated at 2026-02-14 18:41:32 UTC*
 *Historical records are stored in the `archive` directory.*
