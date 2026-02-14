@@ -29,7 +29,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench)
   > SkillsBench evaluates how well skills work and how effective agents are at using them
 
+### [tomrus88](https://github.com/tomrus88)
+- 🌟 👤 [tomrus88](https://github.com/tomrus88) Starred [19h/idax](https://github.com/19h/idax)
+  > A beautiful, idiomatic and less frustrating IDA C++ SDK.
+
 
 ---
-*Last updated at 2026-02-14 15:31:02 UTC*
+*Last updated at 2026-02-14 16:36:50 UTC*
 *Historical records are stored in the `archive` directory.*
