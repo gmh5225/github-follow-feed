@@ -11,6 +11,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [SamuelTulach/LightHook](https://github.com/SamuelTulach/LightHook)
   > Single-header, minimalistic, cross-platform hook library written in pure C
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [librelane/librelane](https://github.com/librelane/librelane)
+  > ASIC implementation flow infrastructure, successor to OpenLane
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [KLayout/klayout](https://github.com/KLayout/klayout)
+  > KLayout Main Sources
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/mental](https://github.com/Michaelliv/mental)
   > The mental model layer for agent-written code
@@ -23,5 +29,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-15 15:30:25 UTC*
+*Last updated at 2026-02-15 16:36:50 UTC*
 *Historical records are stored in the `archive` directory.*
