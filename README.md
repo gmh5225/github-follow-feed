@@ -27,7 +27,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [glommer/cachebro](https://github.com/glommer/cachebro)
   > File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%.
 
+### [quippy-dev](https://github.com/quippy-dev)
+- 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [19h/idax](https://github.com/19h/idax)
+  > A beautiful, idiomatic and less frustrating IDA C++ SDK.
+
 
 ---
-*Last updated at 2026-02-15 16:36:50 UTC*
+*Last updated at 2026-02-15 17:29:34 UTC*
 *Historical records are stored in the `archive` directory.*
