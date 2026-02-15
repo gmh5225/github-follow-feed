@@ -26,6 +26,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [glommer/cachebro](https://github.com/glommer/cachebro)
   > File cache with diff tracking for AI coding agents. Drop-in MCP server that cuts token usage by 26%.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Infatoshi/x-cli](https://github.com/Infatoshi/x-cli)
+  > CLI for X/Twitter API v2 -- post, search, like, bookmark from your terminal
 
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [19h/idax](https://github.com/19h/idax)
@@ -33,5 +35,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-15 20:32:54 UTC*
+*Last updated at 2026-02-15 21:29:54 UTC*
 *Historical records are stored in the `archive` directory.*
