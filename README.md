@@ -11,6 +11,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dumbasPL](https://github.com/dumbasPL) Starred [SamuelTulach/LightHook](https://github.com/SamuelTulach/LightHook)
   > Single-header, minimalistic, cross-platform hook library written in pure C
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/mental](https://github.com/Michaelliv/mental)
+  > The mental model layer for agent-written code
+
 ### [niieani](https://github.com/niieani)
 - 🍴 👤 [niieani](https://github.com/niieani) Forked [oven-sh/bun](https://github.com/oven-sh/bun) to [niieani/bun](https://github.com/niieani/bun)
   > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -19,5 +23,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-15 13:01:20 UTC*
+*Last updated at 2026-02-15 14:32:33 UTC*
 *Historical records are stored in the `archive` directory.*
