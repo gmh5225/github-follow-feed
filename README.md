@@ -27,6 +27,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [steipete/summarize](https://github.com/steipete/summarize)
   > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [BakeLens/crust](https://github.com/BakeLens/crust)
+  > 🌟 Open Source AI Agent Security Infrastructure — intercepts and blocks dangerous agent behaviors bef...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mzuzak/CLAP_Attack](https://github.com/mzuzak/CLAP_Attack)
@@ -39,6 +41,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An MCP extension for Ghidra
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dannymcc/bluehood](https://github.com/dannymcc/bluehood)
   > Monitor your local neighbourhood's bluetooth activity
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Gabriella439/semantic-navigator](https://github.com/Gabriella439/semantic-navigator)
+  > Semantic project navigation
 
 ### [niieani](https://github.com/niieani)
 - 🚀 👤 [niieani](https://github.com/niieani) Made [niieani/homebrew-tap](https://github.com/niieani/homebrew-tap) public
@@ -62,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-16 17:41:05 UTC*
+*Last updated at 2026-02-16 18:51:53 UTC*
 *Historical records are stored in the `archive` directory.*
