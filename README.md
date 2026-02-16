@@ -24,6 +24,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [steipete/summarize](https://github.com/steipete/summarize)
   > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mzuzak/CLAP_Attack](https://github.com/mzuzak/CLAP_Attack)
+  > CLAP Attack: A Combined Logical and Physical Attack on Logic Obfuscation
+
 ### [niieani](https://github.com/niieani)
 - 🚀 👤 [niieani](https://github.com/niieani) Made [niieani/homebrew-tap](https://github.com/niieani/homebrew-tap) public
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [paper-design/paper-mono](https://github.com/paper-design/paper-mono)
@@ -42,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-16 14:46:52 UTC*
+*Last updated at 2026-02-16 15:45:48 UTC*
 *Historical records are stored in the `archive` directory.*
