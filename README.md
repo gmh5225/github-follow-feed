@@ -33,10 +33,20 @@ Today's public activity from users I follow (updated every 15 minutes).
   > CLAP Attack: A Combined Logical and Physical Attack on Logic Obfuscation
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit)
   > An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled bina...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jtang613/GhidrAssist](https://github.com/jtang613/GhidrAssist)
+  > An LLM extension for Ghidra to enable AI assistance in RE.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP)
+  > An MCP extension for Ghidra
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dannymcc/bluehood](https://github.com/dannymcc/bluehood)
+  > Monitor your local neighbourhood's bluetooth activity
 
 ### [niieani](https://github.com/niieani)
 - 🚀 👤 [niieani](https://github.com/niieani) Made [niieani/homebrew-tap](https://github.com/niieani/homebrew-tap) public
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [paper-design/paper-mono](https://github.com/paper-design/paper-mono)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/schematic](https://github.com/blader/schematic)
+  > Claude Code / Codex skill: reverse engineer a product & technical spec from a git branch
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [anl331/goey-toast](https://github.com/anl331/goey-toast)
+  > A gooey, morphing toast component built on Sonner with Framer Motion animations
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [aimhubio/aim](https://github.com/aimhubio/aim)
@@ -52,5 +62,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-16 16:52:34 UTC*
+*Last updated at 2026-02-16 17:41:05 UTC*
 *Historical records are stored in the `archive` directory.*
