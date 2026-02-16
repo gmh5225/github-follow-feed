@@ -20,6 +20,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [easrng/schema](https://github.com/easrng/schema)
+  > Tiny, types-first schema validation for TypeScript.
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [steipete/summarize](https://github.com/steipete/summarize)
   > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
@@ -27,6 +31,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mzuzak/CLAP_Attack](https://github.com/mzuzak/CLAP_Attack)
   > CLAP Attack: A Combined Logical and Physical Attack on Logic Obfuscation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [QuesmaOrg/BinaryAudit](https://github.com/QuesmaOrg/BinaryAudit)
+  > An open-source benchmark for evaluating AI agents' ability to find backdoors hidden in compiled bina...
 
 ### [niieani](https://github.com/niieani)
 - 🚀 👤 [niieani](https://github.com/niieani) Made [niieani/homebrew-tap](https://github.com/niieani/homebrew-tap) public
@@ -46,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-16 15:45:48 UTC*
+*Last updated at 2026-02-16 16:52:34 UTC*
 *Historical records are stored in the `archive` directory.*
