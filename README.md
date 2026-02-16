@@ -30,6 +30,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [BakeLens/crust](https://github.com/BakeLens/crust)
   > 🌟 Open Source AI Agent Security Infrastructure — intercepts and blocks dangerous agent behaviors bef...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
+  > 🤖 WebMCP
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mzuzak/CLAP_Attack](https://github.com/mzuzak/CLAP_Attack)
   > CLAP Attack: A Combined Logical and Physical Attack on Logic Obfuscation
@@ -66,5 +70,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-16 21:33:44 UTC*
+*Last updated at 2026-02-16 22:34:09 UTC*
 *Historical records are stored in the `archive` directory.*
