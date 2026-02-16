@@ -12,9 +12,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Marlamin](https://github.com/Marlamin) Starred [steipete/steipete.me](https://github.com/steipete/steipete.me)
   > My personal website.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Pnut-GGG/findmy-cache-decryptor](https://github.com/Pnut-GGG/findmy-cache-decryptor)
+  > FindMy Cache Decryptor is a reverse-engineered tool that decrypts cached data files from Apple's Fin...
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
+
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [steipete/summarize](https://github.com/steipete/summarize)
+  > Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 
 ### [niieani](https://github.com/niieani)
 - 🚀 👤 [niieani](https://github.com/niieani) Made [niieani/homebrew-tap](https://github.com/niieani/homebrew-tap) public
@@ -34,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-16 07:10:26 UTC*
+*Last updated at 2026-02-16 08:55:45 UTC*
 *Historical records are stored in the `archive` directory.*
