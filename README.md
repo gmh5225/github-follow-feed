@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) to [CrackerCat/phantom-frida](https://github.com/CrackerCat/phantom-frida)
+  > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [voltropy/volt](https://github.com/voltropy/volt)
   > Coding agent with lossless context management
@@ -15,8 +19,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kbravh/obsidian-tweet-to-markdown](https://github.com/kbravh/obsidian-tweet-to-markdown)
   > An Obsidian.md plugin to save tweets as Markdown files.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MikeVeerman/tool-calling-benchmark](https://github.com/MikeVeerman/tool-calling-benchmark)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sipeed/picoclaw](https://github.com/sipeed/picoclaw)
+  > Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/gondolin](https://github.com/earendil-works/gondolin)
+  > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [prateekmedia/claude-agent-sdk-pi](https://github.com/prateekmedia/claude-agent-sdk-pi)
+  > Claude agent sdk as a provider for pi
 
 
 ---
-*Last updated at 2026-02-17 06:01:56 UTC*
+*Last updated at 2026-02-17 07:52:33 UTC*
 *Historical records are stored in the `archive` directory.*
