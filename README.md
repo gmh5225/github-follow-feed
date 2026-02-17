@@ -39,12 +39,15 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [prateekmedia/claude-agent-sdk-pi](https://github.com/prateekmedia/claude-agent-sdk-pi)
   > Claude agent sdk as a provider for pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
+  > Property-based testing for web UIs, autonomously exploring and validating correctness properties, fi...
 
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [zyantific/zydis](https://github.com/zyantific/zydis)
   > Fast and lightweight x86/x86-64 disassembler and code generation library
+- 🚀 👤 [woldann](https://github.com/woldann) Made [Cheatron/cheatron-native-mock](https://github.com/Cheatron/cheatron-native-mock) public
 
 
 ---
-*Last updated at 2026-02-17 11:42:17 UTC*
+*Last updated at 2026-02-17 13:14:04 UTC*
 *Historical records are stored in the `archive` directory.*
