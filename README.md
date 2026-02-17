@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) to [CrackerCat/phantom-frida](https://github.com/CrackerCat/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [facebook/mariana-trench](https://github.com/facebook/mariana-trench)
+  > A security focused static analysis tool for Android and Java applications.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [voltropy/volt](https://github.com/voltropy/volt)
   > Coding agent with lossless context management
@@ -28,7 +32,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [prateekmedia/claude-agent-sdk-pi](https://github.com/prateekmedia/claude-agent-sdk-pi)
   > Claude agent sdk as a provider for pi
 
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [zyantific/zydis](https://github.com/zyantific/zydis)
+  > Fast and lightweight x86/x86-64 disassembler and code generation library
+
 
 ---
-*Last updated at 2026-02-17 09:55:38 UTC*
+*Last updated at 2026-02-17 10:52:57 UTC*
 *Historical records are stored in the `archive` directory.*
