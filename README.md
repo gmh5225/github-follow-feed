@@ -20,6 +20,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [facebook/mariana-trench](https://github.com/facebook/mariana-trench)
   > A security focused static analysis tool for Android and Java applications.
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [phyzhenli/DRiLLS](https://github.com/phyzhenli/DRiLLS)
+  > DRiLLS: Deep Reinforcement Learning for Logic Synthesis Optimization (ASPDAC'20)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [matteyeux/IDArling](https://github.com/matteyeux/IDArling)
+  > Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [voltropy/volt](https://github.com/voltropy/volt)
   > Coding agent with lossless context management
@@ -48,6 +54,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
   > Property-based testing for web UIs, autonomously exploring and validating correctness properties, fi...
 
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [cachix/devenv](https://github.com/cachix/devenv)
+  > Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
+
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [zyantific/zydis](https://github.com/zyantific/zydis)
   > Fast and lightweight x86/x86-64 disassembler and code generation library
@@ -55,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-17 17:06:37 UTC*
+*Last updated at 2026-02-17 19:03:30 UTC*
 *Historical records are stored in the `archive` directory.*
