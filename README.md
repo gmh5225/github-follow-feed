@@ -51,6 +51,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Make You Happy!
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
   > Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscra...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [matteyeux/IDArling](https://github.com/matteyeux/IDArling)
+  > Collaborative Reverse Engineering plugin for IDA Pro & Hex-Rays
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elysiajs/arona](https://github.com/elysiajs/arona)
+  > Elysia AI doc search
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
@@ -67,5 +71,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-17 20:42:56 UTC*
+*Last updated at 2026-02-17 21:40:43 UTC*
 *Historical records are stored in the `archive` directory.*
