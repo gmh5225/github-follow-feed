@@ -8,6 +8,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida) to [CrackerCat/phantom-frida](https://github.com/CrackerCat/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [liquidhelium/tanim](https://github.com/liquidhelium/tanim)
+  > Make your animation in typst
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [liquidhelium/tanim](https://github.com/liquidhelium/tanim) to [IuvenisSapiens/tanim](https://github.com/IuvenisSapiens/tanim)
+  > Make your animation in typst
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [fallible-algebra/bevy_typst_textures](https://github.com/fallible-algebra/bevy_typst_textures)
+  > Integrating typst as a texture generator for Bevy
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [facebook/mariana-trench](https://github.com/facebook/mariana-trench)
   > A security focused static analysis tool for Android and Java applications.
@@ -38,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-17 10:52:57 UTC*
+*Last updated at 2026-02-17 11:42:17 UTC*
 *Historical records are stored in the `archive` directory.*
