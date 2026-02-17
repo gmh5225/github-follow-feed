@@ -41,6 +41,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Claude agent sdk as a provider for pi
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
   > Property-based testing for web UIs, autonomously exploring and validating correctness properties, fi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
+  > Make You Happy!
 
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [zyantific/zydis](https://github.com/zyantific/zydis)
@@ -49,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-17 13:14:04 UTC*
+*Last updated at 2026-02-17 14:51:58 UTC*
 *Historical records are stored in the `archive` directory.*
