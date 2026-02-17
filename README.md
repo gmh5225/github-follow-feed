@@ -44,6 +44,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
   > Make You Happy!
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
+  > Property-based testing for web UIs, autonomously exploring and validating correctness properties, fi...
+
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [zyantific/zydis](https://github.com/zyantific/zydis)
   > Fast and lightweight x86/x86-64 disassembler and code generation library
@@ -51,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-17 15:57:24 UTC*
+*Last updated at 2026-02-17 17:06:37 UTC*
 *Historical records are stored in the `archive` directory.*
