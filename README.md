@@ -49,6 +49,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Property-based testing for web UIs, autonomously exploring and validating correctness properties, fi...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HappyIDA/HappyIDA](https://github.com/HappyIDA/HappyIDA)
   > Make You Happy!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ultrafunkamsterdam/nodriver](https://github.com/ultrafunkamsterdam/nodriver)
+  > Successor of Undetected-Chromedriver. Providing a blazing fast framework for web automation, webscra...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
@@ -65,5 +67,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-17 19:03:30 UTC*
+*Last updated at 2026-02-17 20:42:56 UTC*
 *Historical records are stored in the `archive` directory.*
