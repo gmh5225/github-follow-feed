@@ -15,6 +15,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ZLUDA's fork of LLVM
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [a-mcego/granite](https://github.com/a-mcego/granite)
+  > Granite is a PC emulator written in C++23
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [PaulSolt/DocSetQuery](https://github.com/PaulSolt/DocSetQuery)
@@ -25,5 +27,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-18 13:15:28 UTC*
+*Last updated at 2026-02-18 14:50:46 UTC*
 *Historical records are stored in the `archive` directory.*
