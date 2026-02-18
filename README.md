@@ -7,8 +7,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vosen/llvm-project](https://github.com/vosen/llvm-project)
   > ZLUDA's fork of LLVM
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 
 ---
-*Last updated at 2026-02-18 02:37:41 UTC*
+*Last updated at 2026-02-18 04:57:36 UTC*
 *Historical records are stored in the `archive` directory.*
