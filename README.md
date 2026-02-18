@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)
   > A free and open source instant messaging and VoIP platform built for friends, groups, and communitie...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [hiddify/Hiddify-Manager](https://github.com/hiddify/Hiddify-Manager)
+  > Multi-user anti-filtering panel, with an effortless installation and supporting more than 20 protoco...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vosen/llvm-project](https://github.com/vosen/llvm-project)
   > ZLUDA's fork of LLVM
@@ -66,5 +70,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-18 21:39:13 UTC*
+*Last updated at 2026-02-18 22:38:08 UTC*
 *Historical records are stored in the `archive` directory.*
