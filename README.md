@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [wuji66dde/jshook-reverse-tool](https://github.com/wuji66dde/jshook-reverse-tool)
+  > AI-powered JavaScript reverse engineering too
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [wuji66dde/jshook-reverse-tool](https://github.com/wuji66dde/jshook-reverse-tool) to [IuvenisSapiens/jshook-reverse-tool](https://github.com/IuvenisSapiens/jshook-reverse-tool)
+  > AI-powered JavaScript reverse engineering too
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vosen/llvm-project](https://github.com/vosen/llvm-project)
   > ZLUDA's fork of LLVM
@@ -19,5 +25,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-18 11:42:09 UTC*
+*Last updated at 2026-02-18 13:15:28 UTC*
 *Historical records are stored in the `archive` directory.*
