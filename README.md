@@ -45,15 +45,24 @@ Today's public activity from users I follow (updated every 15 minutes).
   > The On-Line Encyclopedia of Boolean Functions
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [msoeken/alice](https://github.com/msoeken/alice)
   > C++ command shell library
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db) to [jevinskie/riscv-unified-db](https://github.com/jevinskie/riscv-unified-db)
+  > Monorepo containing a machine-readable database of the RISC-V specification and artifact generation ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [EmbarkStudios/crash-handling](https://github.com/EmbarkStudios/crash-handling)
+  > Collection of crates to deal with crashes
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Augani/shiori](https://github.com/Augani/shiori)
+  > A fast, lightweight, GPU-accelerated code editor for macOS built in Rust
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [PaulSolt/DocSetQuery](https://github.com/PaulSolt/DocSetQuery)
   > Tooling for Agents to Create Markdown Documentation from DocSet Bundles
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)
 
 ### [woldann](https://github.com/woldann)
 - 🚀 👤 [woldann](https://github.com/woldann) Made [Cheatron/cheatron-win32-ext](https://github.com/Cheatron/cheatron-win32-ext) public
 
 
 ---
-*Last updated at 2026-02-18 17:13:32 UTC*
+*Last updated at 2026-02-18 19:01:54 UTC*
 *Historical records are stored in the `archive` directory.*
