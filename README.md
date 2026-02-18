@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [wuji66dde/jshook-reverse-tool](https://github.com/wuji66dde/jshook-reverse-tool) to [IuvenisSapiens/jshook-reverse-tool](https://github.com/IuvenisSapiens/jshook-reverse-tool)
   > AI-powered JavaScript reverse engineering too
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)
+  > A free and open source instant messaging and VoIP platform built for friends, groups, and communitie...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [vosen/llvm-project](https://github.com/vosen/llvm-project)
   > ZLUDA's fork of LLVM
@@ -27,5 +31,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-18 14:50:46 UTC*
+*Last updated at 2026-02-18 15:56:59 UTC*
 *Historical records are stored in the `archive` directory.*
