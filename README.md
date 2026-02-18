@@ -58,11 +58,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [PaulSolt/DocSetQuery](https://github.com/PaulSolt/DocSetQuery)
   > Tooling for Agents to Create Markdown Documentation from DocSet Bundles
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [DataExpert-io/ai-engineer-handbook](https://github.com/DataExpert-io/ai-engineer-handbook)
+  > All the links, books, and creators you need to follow to stay up to date with AI!
 
 ### [woldann](https://github.com/woldann)
 - 🚀 👤 [woldann](https://github.com/woldann) Made [Cheatron/cheatron-win32-ext](https://github.com/Cheatron/cheatron-win32-ext) public
 
 
 ---
-*Last updated at 2026-02-18 19:01:54 UTC*
+*Last updated at 2026-02-18 20:46:12 UTC*
 *Historical records are stored in the `archive` directory.*
