@@ -22,11 +22,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cs-au-dk/MONA](https://github.com/cs-au-dk/MONA)
   > MONA - a decision procedure for monadic second-order logic on finite strings and trees
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)
+  > Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/portless](https://github.com/vercel-labs/portless)
   > Replace port numbers with stable, named .localhost URLs. For humans and agents.
 
 
 ---
-*Last updated at 2026-02-19 19:02:32 UTC*
+*Last updated at 2026-02-19 20:38:06 UTC*
 *Historical records are stored in the `archive` directory.*
