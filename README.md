@@ -27,12 +27,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [facebookresearch/omnilingual-asr](https://github.com/facebookresearch/omnilingual-asr)
   > Omnilingual ASR Open-Source Multilingual SpeechRecognition for 1600+ Languages
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [POPFD/orion](https://github.com/POPFD/orion)
+  > Messing around with Zynq-7000 PL & PS
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/portless](https://github.com/vercel-labs/portless)
   > Replace port numbers with stable, named .localhost URLs. For humans and agents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [cirruslabs/tart](https://github.com/cirruslabs/tart)
+  > macOS and Linux VMs on Apple Silicon to use in CI and other automations
 
 
 ---
-*Last updated at 2026-02-19 22:36:33 UTC*
+*Last updated at 2026-02-19 23:34:40 UTC*
 *Historical records are stored in the `archive` directory.*
