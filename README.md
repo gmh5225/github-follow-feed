@@ -7,6 +7,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [sigwl/AiDA](https://github.com/sigwl/AiDA)
   > An AI-powered assistant for IDA 9.0+ to accelerate reverse engineering of C++ games.
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [binsnake/omill](https://github.com/binsnake/omill)
+  > Binary lifter and deobfuscator using remill for x86_64 Windows binaries
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix)
@@ -32,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-19 21:38:02 UTC*
+*Last updated at 2026-02-19 22:36:33 UTC*
 *Historical records are stored in the `archive` directory.*
