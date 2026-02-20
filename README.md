@@ -22,15 +22,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [koniksedy/Z3-in-NFA-reduction](https://github.com/koniksedy/Z3-in-NFA-reduction)
   > Reduction of the size of NFA using SAT solver Z3
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
-  >  State-of-the-art TTS model under 25MB 😻 
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)
-  > Fast, Sharp & Reliable Agentic Intelligence
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bsergean/autoroute](https://github.com/bsergean/autoroute)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Mbed-TLS/mbedtls](https://github.com/Mbed-TLS/mbedtls) to [mrexodia/mbedtls](https://github.com/mrexodia/mbedtls)
-  > An open source, portable, easy to use, readable and flexible TLS library, and reference implementati...
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [botiverse/agent-vault](https://github.com/botiverse/agent-vault)
   > Keep your secrets hidden from AI agents.
@@ -47,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-20 11:36:23 UTC*
+*Last updated at 2026-02-20 13:08:54 UTC*
 *Historical records are stored in the `archive` directory.*
