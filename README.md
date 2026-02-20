@@ -58,8 +58,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose)
+  > Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized appl...
 
 
 ---
-*Last updated at 2026-02-20 21:30:21 UTC*
+*Last updated at 2026-02-20 22:31:39 UTC*
 *Historical records are stored in the `archive` directory.*
