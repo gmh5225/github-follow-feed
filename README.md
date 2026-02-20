@@ -22,6 +22,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [koniksedy/Z3-in-NFA-reduction](https://github.com/koniksedy/Z3-in-NFA-reduction)
   > Reduction of the size of NFA using SAT solver Z3
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS)
+  >  State-of-the-art TTS model under 25MB 😻 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stepfun-ai/Step-3.5-Flash](https://github.com/stepfun-ai/Step-3.5-Flash)
+  > Fast, Sharp & Reliable Agentic Intelligence
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bsergean/autoroute](https://github.com/bsergean/autoroute)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [botiverse/agent-vault](https://github.com/botiverse/agent-vault)
   > Keep your secrets hidden from AI agents.
@@ -32,7 +39,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [krzysztofzablocki/Inject](https://github.com/krzysztofzablocki/Inject)
   > Hot Reloading for Swift applications! 
 
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
+  > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+
 
 ---
-*Last updated at 2026-02-20 07:08:11 UTC*
+*Last updated at 2026-02-20 08:49:22 UTC*
 *Historical records are stored in the `archive` directory.*
