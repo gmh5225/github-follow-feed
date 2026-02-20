@@ -38,6 +38,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > VHDL and Verilog/SV IDE: state machine viewer, linter, documentation, snippets... and more! 
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ganeshgore/spydrnet](https://github.com/ganeshgore/spydrnet)
   > A flexible framework for analyzing and transforming FPGA netlists. Official repository.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gittower/git-flow-next](https://github.com/gittower/git-flow-next)
+  > A modern reimplementation of git-flow in Go that offers greater flexibility while maintaining backwa...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [botiverse/agent-vault](https://github.com/botiverse/agent-vault)
@@ -55,5 +57,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-20 18:55:24 UTC*
+*Last updated at 2026-02-20 19:38:59 UTC*
 *Historical records are stored in the `archive` directory.*
