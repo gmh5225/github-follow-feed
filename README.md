@@ -16,6 +16,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [nodejs/merve](https://github.com/nodejs/merve)
   > A fast C++ lexer for extracting named exports from CommonJS modules. This library performs static an...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [koniksedy/MaMONAta](https://github.com/koniksedy/MaMONAta)
+  > Combination of Mata and MONA libraries
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [koniksedy/Z3-in-NFA-reduction](https://github.com/koniksedy/Z3-in-NFA-reduction)
+  > Reduction of the size of NFA using SAT solver Z3
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [botiverse/agent-vault](https://github.com/botiverse/agent-vault)
   > Keep your secrets hidden from AI agents.
@@ -26,5 +32,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-20 04:50:42 UTC*
+*Last updated at 2026-02-20 05:57:26 UTC*
 *Historical records are stored in the `archive` directory.*
