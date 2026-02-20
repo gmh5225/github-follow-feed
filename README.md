@@ -33,6 +33,11 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Boolean circuit minimizer
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ltentrup/caqe](https://github.com/ltentrup/caqe)
   > CAQE is a solver for quantified Boolean formulas
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TerosTechnology/teroshdl-examples](https://github.com/TerosTechnology/teroshdl-examples)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [TerosTechnology/vscode-terosHDL](https://github.com/TerosTechnology/vscode-terosHDL)
+  > VHDL and Verilog/SV IDE: state machine viewer, linter, documentation, snippets... and more! 
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ganeshgore/spydrnet](https://github.com/ganeshgore/spydrnet)
+  > A flexible framework for analyzing and transforming FPGA netlists. Official repository.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [botiverse/agent-vault](https://github.com/botiverse/agent-vault)
@@ -50,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-20 17:41:02 UTC*
+*Last updated at 2026-02-20 18:55:24 UTC*
 *Historical records are stored in the `archive` directory.*
