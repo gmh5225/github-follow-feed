@@ -51,11 +51,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [krzysztofzablocki/Inject](https://github.com/krzysztofzablocki/Inject)
   > Hot Reloading for Swift applications! 
 
+### [papstuc](https://github.com/papstuc)
+- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [cursey/sdkgenny](https://github.com/cursey/sdkgenny)
+  > A library for generating C++ compatible SDKs
+
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 
 
 ---
-*Last updated at 2026-02-20 20:38:33 UTC*
+*Last updated at 2026-02-20 21:30:21 UTC*
 *Historical records are stored in the `archive` directory.*
