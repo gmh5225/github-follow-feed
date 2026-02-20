@@ -27,6 +27,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Reduction of the size of NFA using SAT solver Z3
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [brevzin/ctp](https://github.com/brevzin/ctp)
   > Extending support for class types as constant template parameters with reflection
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gwdueck/cirkit](https://github.com/gwdueck/cirkit)
+  > A circuit toolkit
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [botiverse/agent-vault](https://github.com/botiverse/agent-vault)
@@ -44,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-20 14:42:45 UTC*
+*Last updated at 2026-02-20 15:41:02 UTC*
 *Historical records are stored in the `archive` directory.*
