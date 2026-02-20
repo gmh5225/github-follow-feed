@@ -12,6 +12,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [battlecook/vscode-omni-viewer](https://github.com/battlecook/vscode-omni-viewer) to [IuvenisSapiens/vscode-omni-viewer](https://github.com/IuvenisSapiens/vscode-omni-viewer)
   > A comprehensive audio, image, video, CSV, and JSONL viewer extension for VSCode and Cursor.
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [nodejs/merve](https://github.com/nodejs/merve)
+  > A fast C++ lexer for extracting named exports from CommonJS modules. This library performs static an...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [botiverse/agent-vault](https://github.com/botiverse/agent-vault)
   > Keep your secrets hidden from AI agents.
@@ -22,5 +26,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-20 02:31:47 UTC*
+*Last updated at 2026-02-20 04:50:42 UTC*
 *Historical records are stored in the `archive` directory.*
