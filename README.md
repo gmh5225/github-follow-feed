@@ -29,8 +29,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > One command to resume any AI coding session. Codex • Claude • Copilot • Gemini • OpenCode
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)
   > Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signin...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [krzysztofzablocki/Inject](https://github.com/krzysztofzablocki/Inject)
+  > Hot Reloading for Swift applications! 
 
 
 ---
-*Last updated at 2026-02-20 05:57:26 UTC*
+*Last updated at 2026-02-20 07:08:11 UTC*
 *Historical records are stored in the `archive` directory.*
