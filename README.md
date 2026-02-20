@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [EloiStree/2026_02_20_godot_gaming_nes_300](https://github.com/EloiStree/2026_02_20_godot_gaming_nes_300)
+  > Save
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [misskacie/plotsy-3d](https://github.com/misskacie/plotsy-3d)
   > 3D Plotting Package for Typst using CeTZ. Similar functionality to pgfplots for LaTeX.
@@ -21,6 +25,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Combination of Mata and MONA libraries
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [koniksedy/Z3-in-NFA-reduction](https://github.com/koniksedy/Z3-in-NFA-reduction)
   > Reduction of the size of NFA using SAT solver Z3
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [brevzin/ctp](https://github.com/brevzin/ctp)
+  > Extending support for class types as constant template parameters with reflection
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [botiverse/agent-vault](https://github.com/botiverse/agent-vault)
@@ -38,5 +44,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-20 13:08:54 UTC*
+*Last updated at 2026-02-20 14:42:45 UTC*
 *Historical records are stored in the `archive` directory.*
