@@ -18,6 +18,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Rprop/And64InlineHook](https://github.com/Rprop/And64InlineHook)
   > Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [EthanArbuckle/unredact-private-os_logs](https://github.com/EthanArbuckle/unredact-private-os_logs)
+  > An explanation on unredacting iOS's <private> os_log privacy mechanism
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
   > A PyTorch native platform for training generative AI models
@@ -40,6 +44,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > CompChomper is a framework for measuring how LLMs perform at code completion.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Davidyz/VectorCode](https://github.com/Davidyz/VectorCode)
   > A code repository indexing tool to supercharge your LLM experience.
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [huggingface/transformers](https://github.com/huggingface/transformers) to [jevinskie/transformers](https://github.com/jevinskie/transformers)
+  > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
@@ -50,6 +56,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Multi-agent communication extension for pi coding agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/sparse](https://github.com/cristeigabriela/sparse)
   > Parse Microsoft' Windows SDK API documentation (MSDN) fast, and locally! Export to stable JSON forma...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [expend20/shifting-codes-python-port](https://github.com/expend20/shifting-codes-python-port)
+  > Shifting.Codes
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mikker/Poof](https://github.com/mikker/Poof)
@@ -60,6 +68,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/humanizer](https://github.com/blader/humanizer)
   > Claude Code skill that removes signs of AI-generated writing from text
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [trieloff/ai-aligned-git](https://github.com/trieloff/ai-aligned-git)
+  > Git, aligned for autonomous AI Coding Agents
 
 ### [snipe](https://github.com/snipe)
 - 🌟 👤 [snipe](https://github.com/snipe) Starred [OWASP/cornucopia](https://github.com/OWASP/cornucopia)
@@ -75,5 +85,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 20:30:28 UTC*
+*Last updated at 2026-02-21 21:28:16 UTC*
 *Historical records are stored in the `archive` directory.*
