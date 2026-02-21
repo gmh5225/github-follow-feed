@@ -17,6 +17,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
   > A PyTorch native platform for training generative AI models
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dpfried/incoder](https://github.com/dpfried/incoder)
+  > Generative model for code infilling and synthesis
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
@@ -28,7 +30,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)
   >  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously hand...
 
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [ROCm/amdgpu](https://github.com/ROCm/amdgpu) to [woct0rdho/amdgpu](https://github.com/woct0rdho/amdgpu)
+  > AMDGPU Driver with KFD used by the ROCm project. Also contains the current Linux Kernel that matches...
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) to [woct0rdho/rocm-systems](https://github.com/woct0rdho/rocm-systems)
+  > super repo for rocm systems projects
+
 
 ---
-*Last updated at 2026-02-21 04:40:02 UTC*
+*Last updated at 2026-02-21 05:45:59 UTC*
 *Historical records are stored in the `archive` directory.*
