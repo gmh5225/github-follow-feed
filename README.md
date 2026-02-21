@@ -27,6 +27,11 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A graph library using modern C++ features (e.g., C++20 ranges) to be as efficient and user-friendly ...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fhamonic/mippp](https://github.com/fhamonic/mippp)
   > Header-only C++26 library for modeling Mixed Integer Programs with multiple solver backends
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Ravenslofty/nightcore](https://github.com/Ravenslofty/nightcore)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jw1912/bullet](https://github.com/jw1912/bullet)
+  > Specialised ML Library
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Ravenslofty/glassworks](https://github.com/Ravenslofty/glassworks)
+  > how the glassworks glass works
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
@@ -41,6 +46,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > macOS text snippet expander
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)
   >  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously hand...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
+  > Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/humanizer](https://github.com/blader/humanizer)
+  > Claude Code skill that removes signs of AI-generated writing from text
 
 ### [snipe](https://github.com/snipe)
 - 🌟 👤 [snipe](https://github.com/snipe) Starred [OWASP/cornucopia](https://github.com/OWASP/cornucopia)
@@ -56,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 16:35:51 UTC*
+*Last updated at 2026-02-21 17:29:28 UTC*
 *Historical records are stored in the `archive` directory.*
