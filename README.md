@@ -22,6 +22,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dpfried/human-eval](https://github.com/dpfried/human-eval)
   > Code for the paper "Evaluating Large Language Models Trained on Code"
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MindCode-4/code-2](https://github.com/MindCode-4/code-2)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xtaruhi/wavefst](https://github.com/0xtaruhi/wavefst)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fhamonic/melon](https://github.com/fhamonic/melon)
+  > A graph library using modern C++ features (e.g., C++20 ranges) to be as efficient and user-friendly ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fhamonic/mippp](https://github.com/fhamonic/mippp)
+  > Header-only C++26 library for modeling Mixed Integer Programs with multiple solver backends
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
@@ -51,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 15:30:05 UTC*
+*Last updated at 2026-02-21 16:35:51 UTC*
 *Historical records are stored in the `archive` directory.*
