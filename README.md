@@ -19,6 +19,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A PyTorch native platform for training generative AI models
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dpfried/incoder](https://github.com/dpfried/incoder)
   > Generative model for code infilling and synthesis
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [dpfried/human-eval](https://github.com/dpfried/human-eval)
+  > Code for the paper "Evaluating Large Language Models Trained on Code"
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MindCode-4/code-2](https://github.com/MindCode-4/code-2)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
@@ -38,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 05:45:59 UTC*
+*Last updated at 2026-02-21 06:50:30 UTC*
 *Historical records are stored in the `archive` directory.*
