@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
   > Rezi — TypeScript TUI, Near-Native Performance. Powered by deterministic C engine.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [addrianyy/ios_packager](https://github.com/addrianyy/ios_packager)
+  > Package and sign iOS applications
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-messenger](https://github.com/nicobailon/pi-messenger)
+  > Multi-agent communication extension for pi coding agent
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mikker/Poof](https://github.com/mikker/Poof)
@@ -36,6 +40,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [snipe](https://github.com/snipe)
 - 🌟 👤 [snipe](https://github.com/snipe) Starred [OWASP/cornucopia](https://github.com/OWASP/cornucopia)
   > The source files and tools needed to build the OWASP Cornucopia decks in various languages
+- 🌟 👤 [snipe](https://github.com/snipe) Starred [mitchellh/vouch](https://github.com/mitchellh/vouch)
+  > A community trust management system based on explicit vouches to participate.
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [ROCm/amdgpu](https://github.com/ROCm/amdgpu) to [woct0rdho/amdgpu](https://github.com/woct0rdho/amdgpu)
@@ -45,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 10:31:19 UTC*
+*Last updated at 2026-02-21 11:27:11 UTC*
 *Historical records are stored in the `archive` directory.*
