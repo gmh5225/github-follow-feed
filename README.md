@@ -32,6 +32,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Specialised ML Library
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Ravenslofty/glassworks](https://github.com/Ravenslofty/glassworks)
   > how the glassworks glass works
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [trailofbits/CompChomper](https://github.com/trailofbits/CompChomper)
+  > CompChomper is a framework for measuring how LLMs perform at code completion.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RtlZeroMemory/Rezi](https://github.com/RtlZeroMemory/Rezi)
@@ -65,5 +67,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 17:29:28 UTC*
+*Last updated at 2026-02-21 18:41:47 UTC*
 *Historical records are stored in the `archive` directory.*
