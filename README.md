@@ -33,6 +33,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator)
   >  Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously hand...
 
+### [snipe](https://github.com/snipe)
+- 🌟 👤 [snipe](https://github.com/snipe) Starred [OWASP/cornucopia](https://github.com/OWASP/cornucopia)
+  > The source files and tools needed to build the OWASP Cornucopia decks in various languages
+
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [ROCm/amdgpu](https://github.com/ROCm/amdgpu) to [woct0rdho/amdgpu](https://github.com/woct0rdho/amdgpu)
   > AMDGPU Driver with KFD used by the ROCm project. Also contains the current Linux Kernel that matches...
@@ -41,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 08:37:16 UTC*
+*Last updated at 2026-02-21 09:34:45 UTC*
 *Historical records are stored in the `archive` directory.*
