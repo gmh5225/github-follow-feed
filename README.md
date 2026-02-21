@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [sihooleebd/typCAS](https://github.com/sihooleebd/typCAS) to [IuvenisSapiens/typCAS](https://github.com/IuvenisSapiens/typCAS)
   > A lightweight Computer Algebra System (CAS) written in pure Typst.
 
+### [Lynnette177](https://github.com/Lynnette177)
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Rprop/And64InlineHook](https://github.com/Rprop/And64InlineHook)
+  > Lightweight ARMv8-A(ARM64, AArch64, Little-Endian) Inline Hook Library for Android C/C++
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [pytorch/torchtitan](https://github.com/pytorch/torchtitan)
   > A PyTorch native platform for training generative AI models
@@ -26,5 +30,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 02:26:01 UTC*
+*Last updated at 2026-02-21 04:40:02 UTC*
 *Historical records are stored in the `archive` directory.*
