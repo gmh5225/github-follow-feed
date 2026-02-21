@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [EloiStree](https://github.com/EloiStree)
+- 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [godotengine/godot](https://github.com/godotengine/godot) to [EloiStree/fork_godot](https://github.com/EloiStree/fork_godot)
+  > Godot Engine – Multi-platform 2D and 3D game engine
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [sihooleebd/typCAS](https://github.com/sihooleebd/typCAS)
   > A lightweight Computer Algebra System (CAS) written in pure Typst.
@@ -44,6 +48,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Package and sign iOS applications
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-messenger](https://github.com/nicobailon/pi-messenger)
   > Multi-agent communication extension for pi coding agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/sparse](https://github.com/cristeigabriela/sparse)
+  > Parse Microsoft' Windows SDK API documentation (MSDN) fast, and locally! Export to stable JSON forma...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mikker/Poof](https://github.com/mikker/Poof)
@@ -69,5 +75,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-21 19:28:38 UTC*
+*Last updated at 2026-02-21 20:30:28 UTC*
 *Historical records are stored in the `archive` directory.*
