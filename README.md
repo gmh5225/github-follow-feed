@@ -19,8 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 将 Qwen3-TTS 的 LLM 部分导出为 GGUF，用 llama.cpp 进行加速推理。后者支持 Vulkan 和 Cuda 加速。
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [HaujetZhao/Qwen3-TTS-GGUF](https://github.com/HaujetZhao/Qwen3-TTS-GGUF) to [IuvenisSapiens/Qwen3-TTS-GGUF](https://github.com/IuvenisSapiens/Qwen3-TTS-GGUF)
   > 将 Qwen3-TTS 的 LLM 部分导出为 GGUF，用 llama.cpp 进行加速推理。后者支持 Vulkan 和 Cuda 加速。
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [wanaigc/ComfyUI-Qwen3-TTS](https://github.com/wanaigc/ComfyUI-Qwen3-TTS)
+  > Qwen3-TTS 支持 10 种主要语言（中文、英文、日文、韩文、德文、法文、俄文、葡萄牙文、西班牙文和意大利文）以及多种方言音色
 
 
 ---
-*Last updated at 2026-02-22 02:37:23 UTC*
+*Last updated at 2026-02-22 04:52:48 UTC*
 *Historical records are stored in the `archive` directory.*
