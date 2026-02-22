@@ -71,6 +71,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > The following repository is for reproducing the results of the paper "Strengthening Relaxed Decision...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [optframe/optframe](https://github.com/optframe/optframe)
   > OptFrame - C++17/C++20/C++23 Optimization Framework in Single or Multi-Objective. Supports classic m...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [optframe/pyoptframe](https://github.com/optframe/pyoptframe)
+  > Python bindings for OptFrame C++ Functional Core
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tombi-toml/tombi](https://github.com/tombi-toml/tombi)
@@ -91,5 +93,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-22 20:32:56 UTC*
+*Last updated at 2026-02-22 21:29:38 UTC*
 *Historical records are stored in the `archive` directory.*
