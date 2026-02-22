@@ -34,6 +34,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [HttpRafa/modflared](https://github.com/HttpRafa/modflared)
   > Automatically connects you to a Cloudflare tunnel without having to install cloudflared separately.
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [superhq-ai/shuru](https://github.com/superhq-ai/shuru)
+  > A local-first microVM sandbox for running AI agents safely on macOS
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ahamez/libsdd](https://github.com/ahamez/libsdd)
   > A generic C++14 library for Hierarchical Set Decision Diagrams.
@@ -86,6 +90,33 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Create "fly-throughs" in 3d visualization
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HolyLab/CachedArrays.jl](https://github.com/HolyLab/CachedArrays.jl)
   > Arrays that cache elements in leading dimensions
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gamma-opt/DecisionProgramming.jl](https://github.com/gamma-opt/DecisionProgramming.jl)
+  > DecisionProgramming.jl is a Julia package for solving multi-stage decision problems under uncertaint...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [denismaua/AlgebraicDecisionDiagrams.jl](https://github.com/denismaua/AlgebraicDecisionDiagrams.jl)
+  > Algebraic Decision Diagrams Package for Julia
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rschwarz/Diderot.jl](https://github.com/rschwarz/Diderot.jl)
+  > Decision Diagrams for Discrete Optimization - Generic Julia Implementation
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [RenatoGeh/BDD.jl](https://github.com/RenatoGeh/BDD.jl)
+  > Binary Decision Diagrams package for Julia.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [sisl/ExprRules.jl](https://github.com/sisl/ExprRules.jl)
+  > Functions for declaring and working with grammars and expression trees in Julia.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JuliaGraphs/Graphs.jl](https://github.com/JuliaGraphs/Graphs.jl)
+  > An optimized graphs package for the Julia programming language
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JuliaGraphs/IGraphs.jl](https://github.com/JuliaGraphs/IGraphs.jl)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JuliaSymbolics/SymbolicSMT.jl](https://github.com/JuliaSymbolics/SymbolicSMT.jl)
+  > Symbolic SMT solving for Julia using Z3 on Symbolics.jl expressions
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [SciML/ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl)
+  > An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MakieOrg/Makie.jl](https://github.com/MakieOrg/Makie.jl)
+  > Interactive data visualizations and plotting in Julia
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JuliaGizmos/Observables.jl](https://github.com/JuliaGizmos/Observables.jl)
+  > observable refs
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [SciML/Optimization.jl](https://github.com/SciML/Optimization.jl)
+  > Mathematical Optimization in Julia. Local, global, gradient-based and derivative-free. Linear, Quadr...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [SciML/SymbolicAnalysis.jl](https://github.com/SciML/SymbolicAnalysis.jl)
+  > Symbolics-based function property propagation for optimization
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ztangent/Julog.jl](https://github.com/ztangent/Julog.jl)
+  > A Julia package for Prolog-style logic programming.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tombi-toml/tombi](https://github.com/tombi-toml/tombi)
@@ -108,5 +139,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-22 22:29:47 UTC*
+*Last updated at 2026-02-22 23:31:35 UTC*
 *Historical records are stored in the `archive` directory.*
