@@ -22,10 +22,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [wanaigc/ComfyUI-Qwen3-TTS](https://github.com/wanaigc/ComfyUI-Qwen3-TTS)
   > Qwen3-TTS 支持 10 种主要语言（中文、英文、日文、韩文、德文、法文、俄文、葡萄牙文、西班牙文和意大利文）以及多种方言音色
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tombi-toml/tombi](https://github.com/tombi-toml/tombi)
+  > TOML Formatter / Linter / Language Server
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [tamasfe/taplo](https://github.com/tamasfe/taplo) to [mrexodia/taplo](https://github.com/mrexodia/taplo)
+  > A TOML toolkit written in Rust
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [dnakov/litter](https://github.com/dnakov/litter)
 
 
 ---
-*Last updated at 2026-02-22 11:26:07 UTC*
+*Last updated at 2026-02-22 12:59:54 UTC*
 *Historical records are stored in the `archive` directory.*
