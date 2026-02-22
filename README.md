@@ -73,6 +73,19 @@ Today's public activity from users I follow (updated every 15 minutes).
   > OptFrame - C++17/C++20/C++23 Optimization Framework in Single or Multi-Objective. Supports classic m...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [optframe/pyoptframe](https://github.com/optframe/pyoptframe)
   > Python bindings for OptFrame C++ Functional Core
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mnafar/Clustering-Based-Variable-Ordering-Framework-for-Relaxed-DDs](https://github.com/mnafar/Clustering-Based-Variable-Ordering-Framework-for-Relaxed-DDs)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JuliaStats/Clustering.jl](https://github.com/JuliaStats/Clustering.jl)
+  > A Julia package for data clustering
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [JuliaStats/Distances.jl](https://github.com/JuliaStats/Distances.jl)
+  > A Julia package for evaluating distances (metrics) between vectors.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [KristofferC/NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl)
+  > High performance nearest neighbor data structures (KDTree and BallTree) and algorithms for Julia.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HolyLab/ClusteringBenchmarks.jl](https://github.com/HolyLab/ClusteringBenchmarks.jl)
+  > Data sets and metrics to evaluate clustering algorithms
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HolyLab/FlyThroughPaths.jl](https://github.com/HolyLab/FlyThroughPaths.jl)
+  > Create "fly-throughs" in 3d visualization
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HolyLab/CachedArrays.jl](https://github.com/HolyLab/CachedArrays.jl)
+  > Arrays that cache elements in leading dimensions
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tombi-toml/tombi](https://github.com/tombi-toml/tombi)
@@ -83,6 +96,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > tdd skill for coding agents 
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1rgs/nanocode](https://github.com/1rgs/nanocode)
   > Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [redthing1/gdbstub_cpp](https://github.com/redthing1/gdbstub_cpp)
+  > modern gdbstub/rsp server library
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [dnakov/litter](https://github.com/dnakov/litter)
@@ -93,5 +108,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-22 21:29:38 UTC*
+*Last updated at 2026-02-22 22:29:47 UTC*
 *Historical records are stored in the `archive` directory.*
