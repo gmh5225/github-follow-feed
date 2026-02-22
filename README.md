@@ -27,6 +27,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > TOML Formatter / Linter / Language Server
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [tamasfe/taplo](https://github.com/tamasfe/taplo) to [mrexodia/taplo](https://github.com/mrexodia/taplo)
   > A TOML toolkit written in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mfranzon/tdd](https://github.com/mfranzon/tdd)
+  > tdd skill for coding agents 
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [dnakov/litter](https://github.com/dnakov/litter)
@@ -37,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-22 14:30:55 UTC*
+*Last updated at 2026-02-22 15:30:17 UTC*
 *Historical records are stored in the `archive` directory.*
