@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [cellebrite-labs/sandblaster](https://github.com/cellebrite-labs/sandblaster)
   > Reversing the Apple sandbox
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [HttpRafa/modflared](https://github.com/HttpRafa/modflared)
+  > Automatically connects you to a Cloudflare tunnel without having to install cloudflared separately.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ahamez/libsdd](https://github.com/ahamez/libsdd)
   > A generic C++14 library for Hierarchical Set Decision Diagrams.
@@ -61,6 +65,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 🏔 SAT solver wrappers for Rust
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mnafar/BDD_VariableOrdering_NodeSelection-MISP-](https://github.com/mnafar/BDD_VariableOrdering_NodeSelection-MISP-)
   > The following repository is for reproducing the results of the paper "Strengthening Relaxed Decision...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [optframe/optframe](https://github.com/optframe/optframe)
+  > OptFrame - C++17/C++20/C++23 Optimization Framework in Single or Multi-Objective. Supports classic m...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tombi-toml/tombi](https://github.com/tombi-toml/tombi)
@@ -81,5 +87,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-22 17:29:11 UTC*
+*Last updated at 2026-02-22 18:42:04 UTC*
 *Historical records are stored in the `archive` directory.*
