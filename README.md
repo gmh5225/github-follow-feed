@@ -96,6 +96,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/evals](https://github.com/openai/evals)
   > Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, ...
 
 ### [quippy-dev](https://github.com/quippy-dev)
 - 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
@@ -103,5 +105,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-23 21:51:58 UTC*
+*Last updated at 2026-02-23 22:47:20 UTC*
 *Historical records are stored in the `archive` directory.*
