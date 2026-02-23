@@ -30,10 +30,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, ...
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [openemr/openemr](https://github.com/openemr/openemr) to [jakehemmerle/openemr](https://github.com/jakehemmerle/openemr)
+  > The most popular open source electronic health records and medical practice management solution.
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [sgenoud/replicad](https://github.com/sgenoud/replicad)
   > The library to build browser based 3D models with code.
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [huggingface/skills](https://github.com/huggingface/skills)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling)
+  > 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale ...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [clojurewasm/zwasm](https://github.com/clojurewasm/zwasm)
+  > A fast, spec-compliant WebAssembly runtime written in Zig
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [clojurewasm/ClojureWasm](https://github.com/clojurewasm/ClojureWasm)
+  > An independent Clojure runtime implemented in Zig, optimized for high-performance native execution a...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jmejia8/Metaheuristics.jl](https://github.com/jmejia8/Metaheuristics.jl)
@@ -55,6 +65,24 @@ Today's public activity from users I follow (updated every 15 minutes).
   > m1n1, but adapted to run windows (aka with a GIC emulator)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GaloisInc/eng](https://github.com/GaloisInc/eng)
   > Engineering assistant tool with enhanced RDE capabilities.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gipsyh/cudd-rs](https://github.com/gipsyh/cudd-rs)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gipsyh/fvbench](https://github.com/gipsyh/fvbench)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gipsyh/bitwuzla-rs](https://github.com/gipsyh/bitwuzla-rs)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gipsyh/kissat-rs](https://github.com/gipsyh/kissat-rs)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mario33881/vscode-blif](https://github.com/mario33881/vscode-blif)
+  > BLIF (SIS' Berkeley Logic Interchange Format) highlight and autocomplete extension for Visual Studio...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mario33881/siswrapper](https://github.com/mario33881/siswrapper)
+  > SIS (circuit simulator and optimizer) wrapper for Python
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mario33881/betterSIS](https://github.com/mario33881/betterSIS)
+  > The modern shell for SIS (the circuit simulator and optimizer)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cispa/TACO](https://github.com/cispa/TACO)
+  > TACO Model Checker for Threshold Automata
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cispa/StackWarp](https://github.com/cispa/StackWarp)
+  > Proof-of-concept for the paper "StackWarp: Breaking AMD SEV-SNP Integrity via Deterministic Stack-Po...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cispa/LLCSliceReversing](https://github.com/cispa/LLCSliceReversing)
+  > Artifact for the IEEE S&P 2025 paper: "Rapid Reversing of Non-Linear CPU Cache Slice Functions: Unlo...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [daemontus/sylvan-sys](https://github.com/daemontus/sylvan-sys)
+  > Low-level Rust bindings for the Sylvan parallel decision diagram library.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [williballenthin/pizza](https://github.com/williballenthin/pizza)
@@ -71,5 +99,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-23 17:04:01 UTC*
+*Last updated at 2026-02-23 19:14:59 UTC*
 *Historical records are stored in the `archive` directory.*
