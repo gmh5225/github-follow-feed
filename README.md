@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [janosh/diagrams](https://github.com/janosh/diagrams) to [IuvenisSapiens/diagrams](https://github.com/IuvenisSapiens/diagrams)
   > Diagrams of concepts in physics/chemistry/ML
 
+### [awgil](https://github.com/awgil)
+- 🍴 👤 [awgil](https://github.com/awgil) Forked [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp) to [awgil/GWToolboxpp](https://github.com/awgil/GWToolboxpp)
+  > Tools for Guild Wars players
+
 ### [geohot](https://github.com/geohot)
 - 🍴 👤 [geohot](https://github.com/geohot) Forked [dagrejs/dagre](https://github.com/dagrejs/dagre) to [geohot/dagre](https://github.com/geohot/dagre)
   > Directed graph layout for JavaScript
@@ -29,6 +33,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [sgenoud/replicad](https://github.com/sgenoud/replicad)
   > The library to build browser based 3D models with code.
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [huggingface/skills](https://github.com/huggingface/skills)
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jmejia8/Metaheuristics.jl](https://github.com/jmejia8/Metaheuristics.jl)
@@ -66,5 +71,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-23 15:51:47 UTC*
+*Last updated at 2026-02-23 17:04:01 UTC*
 *Historical records are stored in the `archive` directory.*
