@@ -42,6 +42,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jmejia8/GroupOptim.jl](https://github.com/jmejia8/GroupOptim.jl)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jmejia8/BilevelHeuristics.jl](https://github.com/jmejia8/BilevelHeuristics.jl)
   > Metaheuristics for solving bilevel optimization problems.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [keszocze/abo](https://github.com/keszocze/abo)
+  > Another BDD Optimization
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [keszocze/sas](https://github.com/keszocze/sas)
+  > Symmetry-based Approximate Synthesis
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [graphine27/m1n1_windows](https://github.com/graphine27/m1n1_windows)
+  > m1n1, but adapted to run windows (aka with a GIC emulator)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [GaloisInc/eng](https://github.com/GaloisInc/eng)
+  > Engineering assistant tool with enhanced RDE capabilities.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [williballenthin/pizza](https://github.com/williballenthin/pizza)
@@ -52,7 +60,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/evals](https://github.com/openai/evals)
   > Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 
+### [quippy-dev](https://github.com/quippy-dev)
+- 🌟 👤 [quippy-dev](https://github.com/quippy-dev) Starred [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux)
+  > Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+
 
 ---
-*Last updated at 2026-02-23 14:52:40 UTC*
+*Last updated at 2026-02-23 15:51:47 UTC*
 *Historical records are stored in the `archive` directory.*
