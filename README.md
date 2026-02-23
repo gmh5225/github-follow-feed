@@ -18,6 +18,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [awgil](https://github.com/awgil) Forked [gwdevhub/GWToolboxpp](https://github.com/gwdevhub/GWToolboxpp) to [awgil/GWToolboxpp](https://github.com/awgil/GWToolboxpp)
   > Tools for Guild Wars players
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [bootleg/ret-sync](https://github.com/bootleg/ret-sync)
+  > ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2...
+
 ### [geohot](https://github.com/geohot)
 - 🍴 👤 [geohot](https://github.com/geohot) Forked [dagrejs/dagre](https://github.com/dagrejs/dagre) to [geohot/dagre](https://github.com/geohot/dagre)
   > Directed graph layout for JavaScript
@@ -99,5 +103,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-23 20:51:07 UTC*
+*Last updated at 2026-02-23 21:51:58 UTC*
 *Historical records are stored in the `archive` directory.*
