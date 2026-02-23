@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [mitsuhiko/pi-codemode-mcp](https://github.com/mitsuhiko/pi-codemode-mcp)
   > An experimental way to connect MCPs to Pi using Code
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [espennilsen/pilot](https://github.com/espennilsen/pilot)
+  > A desktop coding agent with a GUI. Electron + React app powered by Anthropic's Claude — chat-driven ...
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
@@ -105,5 +107,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-23 22:47:20 UTC*
+*Last updated at 2026-02-23 23:37:09 UTC*
 *Historical records are stored in the `archive` directory.*
