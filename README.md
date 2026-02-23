@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, ...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [sgenoud/replicad](https://github.com/sgenoud/replicad)
+  > The library to build browser based 3D models with code.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jmejia8/Metaheuristics.jl](https://github.com/jmejia8/Metaheuristics.jl)
   > High-performance metaheuristics for optimization coded purely in Julia.
@@ -50,5 +54,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-23 13:15:55 UTC*
+*Last updated at 2026-02-23 14:52:40 UTC*
 *Historical records are stored in the `archive` directory.*
