@@ -12,6 +12,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [mitsuhiko/pi-codemode-mcp](https://github.com/mitsuhiko/pi-codemode-mcp)
   > An experimental way to connect MCPs to Pi using Code
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, ...
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jmejia8/Metaheuristics.jl](https://github.com/jmejia8/Metaheuristics.jl)
   > High-performance metaheuristics for optimization coded purely in Julia.
@@ -31,5 +35,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-23 08:56:07 UTC*
+*Last updated at 2026-02-23 10:02:37 UTC*
 *Historical records are stored in the `archive` directory.*
