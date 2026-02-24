@@ -30,9 +30,21 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [ssoelvsten/cudd](https://github.com/ssoelvsten/cudd) to [jevinskie/cudd](https://github.com/jevinskie/cudd)
   > CUDD: CU Decision Diagram package - with CMake and extended C++
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
+  > AI-powered reverse-engineering of Rosetta (2 for Linux)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents)
   > Pixel office.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [CleverCloud/mdr](https://github.com/CleverCloud/mdr)
+  > a very light rust based markdown reader with support of mermaid (web, native, TUI). vibe coded 
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Makisuo/maple](https://github.com/Makisuo/maple)
+  > OpenTelemetry observability platform
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [dadbodgeoff/drift](https://github.com/dadbodgeoff/drift)
+  > Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [proximasan/tadpole-studio](https://github.com/proximasan/tadpole-studio)
+  > Easy to use AI music generation UI for local models with QoL features
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [0xnobody/vmpdump](https://github.com/0xnobody/vmpdump)
@@ -40,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 07:53:18 UTC*
+*Last updated at 2026-02-24 08:55:48 UTC*
 *Historical records are stored in the `archive` directory.*
