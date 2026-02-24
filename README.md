@@ -32,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [daaximus/windows-feature-ids](https://github.com/daaximus/windows-feature-ids)
   > Windows Feature IDs for review, diffing, etc., across multiple versions of Windows. Will be continuo...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [cirosantilli/china-dictatorship](https://github.com/cirosantilli/china-dictatorship)
+  > 反中共政治宣传库。Anti Chinese government propaganda. 住在中国真名用户的网友请别给星星，不然你要被警察请喝茶。常见问答集，新闻集和饭店和音乐建议。卐习万岁卐。冠状病...
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff)
   > These are commands I use with agents, mostly Claude
@@ -86,5 +90,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 22:38:33 UTC*
+*Last updated at 2026-02-24 23:37:10 UTC*
 *Historical records are stored in the `archive` directory.*
