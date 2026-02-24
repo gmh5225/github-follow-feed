@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Zero-Tang/NoirVisor](https://github.com/Zero-Tang/NoirVisor)
+  > The Grimoire Hypervisor solution for x86 Processors with experimental nested virtualization support....
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [inclusionAI/Ming-omni-tts](https://github.com/inclusionAI/Ming-omni-tts)
   > Ming-omni-tts: A Simple and Efficient Unified Generation of Speech, Music, and Sound with Precise Co...
@@ -36,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 06:02:18 UTC*
+*Last updated at 2026-02-24 07:53:18 UTC*
 *Historical records are stored in the `archive` directory.*
