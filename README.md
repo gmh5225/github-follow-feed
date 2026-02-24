@@ -32,7 +32,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
-  > AI-powered reverse-engineering of Rosetta (2 for Linux)
+  > AI-powered reverse-engineering of Rosetta (2 for Linux). Disclaimer: due to the user agreement, I wi...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents)
@@ -52,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 08:55:48 UTC*
+*Last updated at 2026-02-24 09:58:15 UTC*
 *Historical records are stored in the `archive` directory.*
