@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [momo5502/levo](https://github.com/momo5502/levo)
   > 🪁 AOT binary translation toolchain
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [daaximus/windows-feature-ids](https://github.com/daaximus/windows-feature-ids)
+  > Windows Feature IDs for review, diffing, etc., across multiple versions of Windows. Will be continuo...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench)
@@ -55,6 +57,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Codebase intelligence for AI. Detects patterns & conventions + remembers decisions across sessions. ...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [proximasan/tadpole-studio](https://github.com/proximasan/tadpole-studio)
   > Easy to use AI music generation UI for local models with QoL features
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [niri-wm/niri](https://github.com/niri-wm/niri)
+  > A scrollable-tiling Wayland compositor.
 
 ### [wanttobeno](https://github.com/wanttobeno)
 - 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [0xnobody/vmpdump](https://github.com/0xnobody/vmpdump)
@@ -66,5 +70,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 16:03:47 UTC*
+*Last updated at 2026-02-24 17:58:43 UTC*
 *Historical records are stored in the `archive` directory.*
