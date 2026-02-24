@@ -26,7 +26,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [ssoelvsten/cudd](https://github.com/ssoelvsten/cudd) to [jevinskie/cudd](https://github.com/jevinskie/cudd)
   > CUDD: CU Decision Diagram package - with CMake and extended C++
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents)
+  > Pixel office.
+
+### [wanttobeno](https://github.com/wanttobeno)
+- 🌟 👤 [wanttobeno](https://github.com/wanttobeno) Starred [0xnobody/vmpdump](https://github.com/0xnobody/vmpdump)
+  > A dynamic VMP dumper and import fixer, powered by VTIL.
+
 
 ---
-*Last updated at 2026-02-24 02:34:41 UTC*
+*Last updated at 2026-02-24 04:55:35 UTC*
 *Historical records are stored in the `archive` directory.*
