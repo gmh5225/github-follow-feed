@@ -41,6 +41,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
   > AI-powered reverse-engineering of Rosetta (2 for Linux). Disclaimer: due to the user agreement, I wi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenVPN/openvpn3-indicator](https://github.com/OpenVPN/openvpn3-indicator)
+  > Simple GTK indicator GUI for OpenVPN 3 Linux
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents)
@@ -64,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 13:16:49 UTC*
+*Last updated at 2026-02-24 14:55:07 UTC*
 *Historical records are stored in the `archive` directory.*
