@@ -49,6 +49,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Simple Argument Parser for C++
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [momalab/e3](https://github.com/momalab/e3)
   > E3: Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [MatthieuMichon/aoc-rtl](https://github.com/MatthieuMichon/aoc-rtl)
+  > Advent of Code on FPGA
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [omritriki/espresso-py](https://github.com/omritriki/espresso-py)
+  > A clean, modular implementation of the Espresso algorithm for Boolean function minimization, includi...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
@@ -82,5 +86,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 21:40:09 UTC*
+*Last updated at 2026-02-24 22:38:33 UTC*
 *Historical records are stored in the `archive` directory.*
