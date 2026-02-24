@@ -47,6 +47,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A simple to use, composable, command line parser for C++ 11 and beyond
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [morrisfranken/argparse](https://github.com/morrisfranken/argparse)
   > A Simple Argument Parser for C++
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [momalab/e3](https://github.com/momalab/e3)
+  > E3: Encrypt-Everything-Everywhere framework for compiling C++ programs with encrypted operands.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
@@ -78,5 +80,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 19:14:31 UTC*
+*Last updated at 2026-02-24 20:41:49 UTC*
 *Historical records are stored in the `archive` directory.*
