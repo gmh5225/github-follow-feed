@@ -22,9 +22,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
   > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [slow-groovin/mitmproxy-llm-better-view](https://github.com/slow-groovin/mitmproxy-llm-better-view)
+  > LLM API Request/Response Visualization in mitmweb
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [momo5502/levo](https://github.com/momo5502/levo)
   > 🪁 AOT binary translation toolchain
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench)
+  > SkillsBench evaluates how well skills work and how effective agents are at using them
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [ssoelvsten/cudd](https://github.com/ssoelvsten/cudd) to [jevinskie/cudd](https://github.com/jevinskie/cudd)
@@ -52,5 +60,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 09:58:15 UTC*
+*Last updated at 2026-02-24 10:59:05 UTC*
 *Historical records are stored in the `archive` directory.*
