@@ -32,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [daaximus/windows-feature-ids](https://github.com/daaximus/windows-feature-ids)
   > Windows Feature IDs for review, diffing, etc., across multiple versions of Windows. Will be continuo...
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [mitsuhiko/agent-stuff](https://github.com/mitsuhiko/agent-stuff)
+  > These are commands I use with agents, mostly Claude
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [benchflow-ai/skillsbench](https://github.com/benchflow-ai/skillsbench)
   > SkillsBench evaluates how well skills work and how effective agents are at using them
@@ -39,6 +43,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [ssoelvsten/cudd](https://github.com/ssoelvsten/cudd) to [jevinskie/cudd](https://github.com/jevinskie/cudd)
   > CUDD: CU Decision Diagram package - with CMake and extended C++
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bfgroup/Lyra](https://github.com/bfgroup/Lyra)
+  > A simple to use, composable, command line parser for C++ 11 and beyond
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [morrisfranken/argparse](https://github.com/morrisfranken/argparse)
+  > A Simple Argument Parser for C++
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
@@ -70,5 +78,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-24 17:58:43 UTC*
+*Last updated at 2026-02-24 19:14:31 UTC*
 *Historical records are stored in the `archive` directory.*
