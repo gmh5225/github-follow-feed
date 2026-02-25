@@ -43,6 +43,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [microsoft/HvLoader](https://github.com/microsoft/HvLoader)
   > HvLoader.efi is an EFI application for loading an external hypervisor loader
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [Swival/swival](https://github.com/Swival/swival) to [jedisct1/swival](https://github.com/jedisct1/swival)
+  > A small, powerful, open-source CLI coding agent that works with open models.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [compnerd/dft](https://github.com/compnerd/dft)
   > Debug Fetch Tool
@@ -75,5 +79,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-25 21:39:12 UTC*
+*Last updated at 2026-02-25 22:38:48 UTC*
 *Historical records are stored in the `archive` directory.*
