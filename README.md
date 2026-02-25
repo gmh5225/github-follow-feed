@@ -11,6 +11,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kindness-Kismet/ImgKit-Scuti](https://github.com/Kindness-Kismet/ImgKit-Scuti) to [CrackerCat/ImgKit-Scuti](https://github.com/CrackerCat/ImgKit-Scuti)
   > 超级镜像提取打包工具，支持 EROFS EXT4 F2FS SUPER，UY Scuti 的继承者
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🍴 👤 [NUL0x4C](https://github.com/NUL0x4C) Forked [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2) to [NUL0x4C/MaldevAcademyLdr.2](https://github.com/NUL0x4C/MaldevAcademyLdr.2)
+  > RunPE implementation with multiple evasive techniques (2)
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
   > Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -25,10 +29,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
   > Comparison between open source PI agent and closed source Claude Code agent
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [glommer/codemogger](https://github.com/glommer/codemogger)
+  > Codemogger is a code indexing library and MCP server for AI coding agents
+
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) to [woct0rdho/dataclaw](https://github.com/woct0rdho/dataclaw)
 
 
 ---
-*Last updated at 2026-02-25 07:54:47 UTC*
+*Last updated at 2026-02-25 08:56:10 UTC*
 *Historical records are stored in the `archive` directory.*
