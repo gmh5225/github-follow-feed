@@ -11,6 +11,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kindness-Kismet/ImgKit-Scuti](https://github.com/Kindness-Kismet/ImgKit-Scuti) to [CrackerCat/ImgKit-Scuti](https://github.com/CrackerCat/ImgKit-Scuti)
   > 超级镜像提取打包工具，支持 EROFS EXT4 F2FS SUPER，UY Scuti 的继承者
 
+### [Fatmike-GH](https://github.com/Fatmike-GH)
+- 🌟 👤 [Fatmike-GH](https://github.com/Fatmike-GH) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
+  > Public repository of 2026 crackmes.one CTF RE challenge
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts)
   > Real-time text-to-speech with Qwen3-TTS
@@ -40,6 +44,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Debug Fetch Tool
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [compnerd/VirtualTerminal](https://github.com/compnerd/VirtualTerminal)
   > A Performance-Focused Terminal Rendering Framework
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [uim/sigscheme](https://github.com/uim/sigscheme)
+  > A R5RS Scheme interpreter for embedded use
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
@@ -55,5 +61,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-25 16:08:52 UTC*
+*Last updated at 2026-02-25 18:01:50 UTC*
 *Historical records are stored in the `archive` directory.*
