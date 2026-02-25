@@ -39,6 +39,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [tue-mps/videomt](https://github.com/tue-mps/videomt) to [NielsRogge/videomt](https://github.com/NielsRogge/videomt)
   > [CVPR 2026] Official code and models for Video Encoder-only Mask Transformer (VidEoMT).
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [microsoft/HvLoader](https://github.com/microsoft/HvLoader)
+  > HvLoader.efi is an EFI application for loading an external hypervisor loader
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [compnerd/dft](https://github.com/compnerd/dft)
   > Debug Fetch Tool
@@ -63,5 +67,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-25 19:50:23 UTC*
+*Last updated at 2026-02-25 20:40:31 UTC*
 *Historical records are stored in the `archive` directory.*
