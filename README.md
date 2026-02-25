@@ -55,17 +55,25 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
   > Comparison between open source PI agent and closed source Claude Code agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [petergpt/bullshit-benchmark](https://github.com/petergpt/bullshit-benchmark)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Danukeru/KLINIKAL](https://github.com/Danukeru/KLINIKAL)
+  > Proxy DLL for winsock2, backed with an embedded go-wireguard instance. No tunnel driver required.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [glommer/codemogger](https://github.com/glommer/codemogger)
   > Codemogger is a code indexing library and MCP server for AI coding agents
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)
   > Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context wi...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Dicklesworthstone/agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup)
+  > Bootstraps a fresh Ubuntu VPS into a complete multi-agent AI development environment in 30 minutes: ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox)
+  > OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs,...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [bnomei/nereid](https://github.com/bnomei/nereid)
+  > Create and explore Mermaid diagrams in collaboration with AI agents (TUI + MCP Server)
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) to [woct0rdho/dataclaw](https://github.com/woct0rdho/dataclaw)
 
 
 ---
-*Last updated at 2026-02-25 20:40:31 UTC*
+*Last updated at 2026-02-25 21:39:12 UTC*
 *Historical records are stored in the `archive` directory.*
