@@ -55,11 +55,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [glommer/codemogger](https://github.com/glommer/codemogger)
   > Codemogger is a code indexing library and MCP server for AI coding agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mgechev/skills-best-practices](https://github.com/mgechev/skills-best-practices)
+  > Write professional-grade skills for agents, validate them using LLMs, and maintain a lean context wi...
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [peteromallet/dataclaw](https://github.com/peteromallet/dataclaw) to [woct0rdho/dataclaw](https://github.com/woct0rdho/dataclaw)
 
 
 ---
-*Last updated at 2026-02-25 18:01:50 UTC*
+*Last updated at 2026-02-25 19:50:23 UTC*
 *Historical records are stored in the `archive` directory.*
