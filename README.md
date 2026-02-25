@@ -8,6 +8,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Qonfused/OSX-Hyper-V](https://github.com/Qonfused/OSX-Hyper-V) to [CrackerCat/OSX-Hyper-V](https://github.com/CrackerCat/OSX-Hyper-V)
   > OpenCore configuration for running macOS on Windows Hyper-V.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [rls1004/exploitation](https://github.com/rls1004/exploitation) to [CrackerCat/exploitation-rls1004](https://github.com/CrackerCat/exploitation-rls1004)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kindness-Kismet/ImgKit-Scuti](https://github.com/Kindness-Kismet/ImgKit-Scuti) to [CrackerCat/ImgKit-Scuti](https://github.com/CrackerCat/ImgKit-Scuti)
+  > 超级镜像提取打包工具，支持 EROFS EXT4 F2FS SUPER，UY Scuti 的继承者
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
@@ -24,5 +26,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-25 04:56:44 UTC*
+*Last updated at 2026-02-25 06:06:20 UTC*
 *Historical records are stored in the `archive` directory.*
