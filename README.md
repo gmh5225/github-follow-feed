@@ -11,6 +11,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kindness-Kismet/ImgKit-Scuti](https://github.com/Kindness-Kismet/ImgKit-Scuti) to [CrackerCat/ImgKit-Scuti](https://github.com/CrackerCat/ImgKit-Scuti)
   > 超级镜像提取打包工具，支持 EROFS EXT4 F2FS SUPER，UY Scuti 的继承者
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts)
+  > Real-time text-to-speech with Qwen3-TTS
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) to [IuvenisSapiens/faster-qwen3-tts](https://github.com/IuvenisSapiens/faster-qwen3-tts)
+  > Real-time text-to-speech with Qwen3-TTS
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🍴 👤 [NUL0x4C](https://github.com/NUL0x4C) Forked [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2) to [NUL0x4C/MaldevAcademyLdr.2](https://github.com/NUL0x4C/MaldevAcademyLdr.2)
   > RunPE implementation with multiple evasive techniques (2)
@@ -39,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-25 11:42:05 UTC*
+*Last updated at 2026-02-25 13:16:19 UTC*
 *Historical records are stored in the `archive` directory.*
