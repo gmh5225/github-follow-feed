@@ -23,7 +23,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [NielsRogge](https://github.com/NielsRogge)
 - 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [tue-mps/videomt](https://github.com/tue-mps/videomt) to [NielsRogge/videomt](https://github.com/NielsRogge/videomt)
-  > Official code and models for Video Encoder-only Mask Transformer (VidEoMT). CVPR 2026
+  > [CVPR 2026] Official code and models for Video Encoder-only Mask Transformer (VidEoMT). CVPR 2026
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [disler/pi-vs-claude-code](https://github.com/disler/pi-vs-claude-code)
@@ -39,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-25 10:01:22 UTC*
+*Last updated at 2026-02-25 11:42:05 UTC*
 *Historical records are stored in the `archive` directory.*
