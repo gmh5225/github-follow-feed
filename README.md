@@ -19,6 +19,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, suppor...
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) to [IuvenisSapiens/Qwen3-ASR](https://github.com/IuvenisSapiens/Qwen3-ASR)
   > Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, suppor...
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Soul-AILab/SoulX-FlashHead](https://github.com/Soul-AILab/SoulX-FlashHead)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [HM-RunningHub/ComfyUI_RH_FlashHead](https://github.com/HM-RunningHub/ComfyUI_RH_FlashHead)
+  > This is a ComfyUI plugin for https://github.com/Soul-AILab/SoulX-FlashHead
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
@@ -70,6 +73,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Open-source Agent Operating System
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp)
   > MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swi...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [hamelsmu/research-council](https://github.com/hamelsmu/research-council)
 
 ### [werew](https://github.com/werew)
 - 🌟 👤 [werew](https://github.com/werew) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
@@ -77,5 +81,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-26 17:09:18 UTC*
+*Last updated at 2026-02-26 18:58:32 UTC*
 *Historical records are stored in the `archive` directory.*
