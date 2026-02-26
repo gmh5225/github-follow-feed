@@ -29,11 +29,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [gmh5225/opendataloader-pdf](https://github.com/gmh5225/opendataloader-pdf)
   > PDF Parsing for RAG — Convert to Markdown & JSON, Fast, Local, No GPU
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [SimonZeng7108/efficientsam3](https://github.com/SimonZeng7108/efficientsam3) to [NielsRogge/efficientsam3](https://github.com/NielsRogge/efficientsam3)
+  > EfficientSAM3 compresses SAM3 into lightweight, edge-friendly models via progressive knowledge disti...
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [claration/runtimectl](https://github.com/claration/runtimectl)
   > Generate Objective-C headers from dyld_shared_cache images.
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [claration/runtimectl](https://github.com/claration/runtimectl) to [NyaMisty/runtimectl](https://github.com/NyaMisty/runtimectl)
   > Generate Objective-C headers from dyld_shared_cache images.
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [CatThird/March7thAssistantExtender](https://github.com/CatThird/March7thAssistantExtender)
+  > March7thAssistantExtender(三月七助手拓展包)
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [LowLevelSys/physmem_remapper](https://github.com/LowLevelSys/physmem_remapper)
@@ -42,6 +48,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [pberba/applescript-decompiler](https://github.com/pberba/applescript-decompiler)
   > A decompiler for run-only applescripts
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [CheckPointSW/Nodejs-Tracer](https://github.com/CheckPointSW/Nodejs-Tracer)
 
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [TanStack/hotkeys](https://github.com/TanStack/hotkeys)
@@ -81,5 +88,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-26 18:58:32 UTC*
+*Last updated at 2026-02-26 19:48:53 UTC*
 *Historical records are stored in the `archive` directory.*
