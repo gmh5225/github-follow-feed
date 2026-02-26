@@ -81,6 +81,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp)
   > MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swi...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [hamelsmu/research-council](https://github.com/hamelsmu/research-council)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx)
+  > OpenAI and Anthropic compatible server for Apple Silicon. Run LLMs and vision-language models (Llama...
 
 ### [werew](https://github.com/werew)
 - 🌟 👤 [werew](https://github.com/werew) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
@@ -88,5 +90,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-26 20:42:43 UTC*
+*Last updated at 2026-02-26 21:36:26 UTC*
 *Historical records are stored in the `archive` directory.*
