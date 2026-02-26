@@ -13,6 +13,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > FireRedASR2S WebUI 生产级改造版 - 工业级全栈语音识别系统 | 科哥二次开发
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [IuvenisSapiens/FireRedASR2S-webui-WebUI](https://github.com/IuvenisSapiens/FireRedASR2S-webui-WebUI)
   > FireRedASR2S WebUI 生产级改造版 - 工业级全栈语音识别系统 | 科哥二次开发
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [kegeai888/FireRedASR2S-webui-WebUI](https://github.com/kegeai888/FireRedASR2S-webui-WebUI)
+  > FireRedASR2S WebUI 生产级改造版 - 工业级全栈语音识别系统 | 科哥二次开发
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
+  > Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, suppor...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR) to [IuvenisSapiens/Qwen3-ASR](https://github.com/IuvenisSapiens/Qwen3-ASR)
+  > Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, suppor...
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
@@ -46,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-26 08:55:21 UTC*
+*Last updated at 2026-02-26 09:56:13 UTC*
 *Historical records are stored in the `archive` directory.*
