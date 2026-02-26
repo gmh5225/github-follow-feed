@@ -40,9 +40,21 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [pberba/applescript-decompiler](https://github.com/pberba/applescript-decompiler)
   > A decompiler for run-only applescripts
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [TanStack/hotkeys](https://github.com/TanStack/hotkeys)
+  > Type-Safe keyboard shortcuts library with awesome devtools
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk)
   > Python bindings for access to the on-device model at the core of Apple Intelligence through the Foun...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+  > PDF Parsing for RAG — Convert to Markdown & JSON, Fast, Local, No GPU
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist)
+  > Filter list for uBlock Origin to block website features that use Generative AI
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ftilmann/latexdiff](https://github.com/ftilmann/latexdiff)
+  > Compares two latex files and marks up significant differences between them. Releases on www.ctan.org...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)
@@ -52,5 +64,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-26 13:17:21 UTC*
+*Last updated at 2026-02-26 14:51:50 UTC*
 *Historical records are stored in the `archive` directory.*
