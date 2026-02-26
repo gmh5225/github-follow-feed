@@ -49,6 +49,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Python bindings for access to the on-device model at the core of Apple Intelligence through the Foun...
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parsing for RAG — Convert to Markdown & JSON, Fast, Local, No GPU
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [pion/webrtc](https://github.com/pion/webrtc)
+  > Pure Go implementation of the WebRTC API
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Stevoisiak/Stevos-GenAI-Blocklist](https://github.com/Stevoisiak/Stevos-GenAI-Blocklist)
@@ -62,7 +64,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp)
   > MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swi...
 
+### [werew](https://github.com/werew)
+- 🌟 👤 [werew](https://github.com/werew) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
+
 
 ---
-*Last updated at 2026-02-26 14:51:50 UTC*
+*Last updated at 2026-02-26 15:57:27 UTC*
 *Historical records are stored in the `archive` directory.*
