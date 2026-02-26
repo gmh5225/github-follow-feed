@@ -58,6 +58,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ftilmann/latexdiff](https://github.com/ftilmann/latexdiff)
   > Compares two latex files and marks up significant differences between them. Releases on www.ctan.org...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [matburt/meeting-notes-handler](https://github.com/matburt/meeting-notes-handler)
+  > A Python CLI tool for automatically fetching and organizing Google Meet meeting notes from Google Ca...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wh1te4ever/super-tart-vphone](https://github.com/wh1te4ever/super-tart-vphone)
+  > tart, but with custom AVPBooter ROM, serial I/O, DFU mode, GDB debugging (port 8000), SEP debugging ...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)
   > Open-source Agent Operating System
@@ -70,5 +77,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-26 15:57:27 UTC*
+*Last updated at 2026-02-26 17:09:18 UTC*
 *Historical records are stored in the `archive` directory.*
