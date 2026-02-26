@@ -4,6 +4,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S)
+  > FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. ...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [FireRedTeam/FireRedASR2S](https://github.com/FireRedTeam/FireRedASR2S) to [IuvenisSapiens/FireRedASR2S](https://github.com/IuvenisSapiens/FireRedASR2S)
+  > FireRedASR2S is a SOTA Industrial-Grade All-in-One ASR system with ASR, VAD, LID, and Punc modules. ...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [kegeai888/FireRedASR2S-webui-WebUI](https://github.com/kegeai888/FireRedASR2S-webui-WebUI) to [IuvenisSapiens/FireRedASR2S-webui-WebUI](https://github.com/IuvenisSapiens/FireRedASR2S-webui-WebUI)
+  > FireRedASR2S WebUI 生产级改造版 - 工业级全栈语音识别系统 | 科哥二次开发
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [IuvenisSapiens/FireRedASR2S-webui-WebUI](https://github.com/IuvenisSapiens/FireRedASR2S-webui-WebUI)
+  > FireRedASR2S WebUI 生产级改造版 - 工业级全栈语音识别系统 | 科哥二次开发
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Inokinoki/attesor](https://github.com/Inokinoki/attesor)
   > AI-powered reverse-engineering of Rosetta (2 for Linux). Disclaimer: due to the user agreement, I wi...
@@ -31,8 +41,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)
   > Open-source Agent Operating System
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kimsungwhee/apple-docs-mcp](https://github.com/kimsungwhee/apple-docs-mcp)
+  > MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swi...
 
 
 ---
-*Last updated at 2026-02-26 07:53:05 UTC*
+*Last updated at 2026-02-26 08:55:21 UTC*
 *Historical records are stored in the `archive` directory.*
