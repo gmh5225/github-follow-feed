@@ -32,8 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Hypernetworks that update LLMs to remember factual information
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
   > A cross-version Python bytecode decompiler
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fortio/terminal](https://github.com/fortio/terminal)
+  > 2 libraries + utilities: readline style command history and terminal drawing/images, fps calculator
 
 
 ---
-*Last updated at 2026-02-27 21:33:41 UTC*
+*Last updated at 2026-02-27 22:28:45 UTC*
 *Historical records are stored in the `archive` directory.*
