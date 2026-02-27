@@ -11,8 +11,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > This is a ComfyUI plugin for https://huggingface.co/spaces/Soul-AILab/SoulX-Singer
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [HM-RunningHub/ComfyUI_RH_SoulX-Singer](https://github.com/HM-RunningHub/ComfyUI_RH_SoulX-Singer) to [IuvenisSapiens/ComfyUI_RH_SoulX-Singer](https://github.com/IuvenisSapiens/ComfyUI_RH_SoulX-Singer)
   > This is a ComfyUI plugin for https://huggingface.co/spaces/Soul-AILab/SoulX-Singer
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [T-S-Liang/SDPose-OOD](https://github.com/T-S-Liang/SDPose-OOD)
+  > The official implementation of SDPose: Exploiting Diffusion Priors for Out-of-Domain and Robust Pose...
+
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pi0/pi-vscode](https://github.com/pi0/pi-vscode)
+  > Minimal VS Code extension for PI Coding Agent.
+- 🍴 👤 [ggoodman](https://github.com/ggoodman) Forked [pi0/pi-vscode](https://github.com/pi0/pi-vscode) to [ggoodman/pi-vscode](https://github.com/ggoodman/pi-vscode)
+  > Minimal VS Code extension for PI Coding Agent.
 
 
 ---
-*Last updated at 2026-02-27 02:30:31 UTC*
+*Last updated at 2026-02-27 04:48:42 UTC*
 *Historical records are stored in the `archive` directory.*
