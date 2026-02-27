@@ -30,8 +30,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora)
   > Hypernetworks that update LLMs to remember factual information
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6)
+  > A cross-version Python bytecode decompiler
 
 
 ---
-*Last updated at 2026-02-27 20:33:50 UTC*
+*Last updated at 2026-02-27 21:33:41 UTC*
 *Historical records are stored in the `archive` directory.*
