@@ -23,7 +23,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [ggoodman](https://github.com/ggoodman) Forked [pi0/pi-vscode](https://github.com/pi0/pi-vscode) to [ggoodman/pi-vscode](https://github.com/ggoodman/pi-vscode)
   > Minimal VS Code extension for PI Coding Agent.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SakanaAI/doc-to-lora](https://github.com/SakanaAI/doc-to-lora)
+  > Hypernetworks that update LLMs to remember factual information
+
 
 ---
-*Last updated at 2026-02-27 09:49:33 UTC*
+*Last updated at 2026-02-27 10:43:07 UTC*
 *Historical records are stored in the `archive` directory.*
