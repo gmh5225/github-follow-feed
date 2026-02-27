@@ -14,6 +14,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [T-S-Liang/SDPose-OOD](https://github.com/T-S-Liang/SDPose-OOD)
   > The official implementation of SDPose: Exploiting Diffusion Priors for Out-of-Domain and Robust Pose...
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pi0/pi-vscode](https://github.com/pi0/pi-vscode)
   > Minimal VS Code extension for PI Coding Agent.
@@ -22,5 +25,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-27 08:49:34 UTC*
+*Last updated at 2026-02-27 09:49:33 UTC*
 *Historical records are stored in the `archive` directory.*
