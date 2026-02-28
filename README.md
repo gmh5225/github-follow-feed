@@ -33,12 +33,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A proposal for a new streams API
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [benjitaylor/agentation](https://github.com/benjitaylor/agentation)
   > The visual feedback tool for agents.
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pasky/muaddib](https://github.com/pasky/muaddib)
+  > Multi-user AI assistant and agent
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/Shogun](https://github.com/guyinatuxedo/Shogun)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tigerabrodi/neiro](https://github.com/tigerabrodi/neiro)
   > Audio processing for TypeScript. Chainable, immutable, serverless-ready.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
+  > Agent harness to make your slop code well-engineered and beautiful.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [thedaviddias/skill-check](https://github.com/thedaviddias/skill-check)
@@ -46,5 +50,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-28 15:28:11 UTC*
+*Last updated at 2026-02-28 16:32:17 UTC*
 *Historical records are stored in the `archive` directory.*
