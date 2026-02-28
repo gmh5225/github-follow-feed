@@ -25,6 +25,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [strivexjun/XAntiDebug](https://github.com/strivexjun/XAntiDebug)
   > VMProtect 3.x Anti-debug Method Improved
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [faratech/bsod-analyzer](https://github.com/faratech/bsod-analyzer)
+  > AI-powered BSOD crash dump analyzer using Google Gemini
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [endojs/endo](https://github.com/endojs/endo)
@@ -47,8 +49,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [thedaviddias/skill-check](https://github.com/thedaviddias/skill-check)
   > Linter for agent skill files
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 
 
 ---
-*Last updated at 2026-02-28 18:39:14 UTC*
+*Last updated at 2026-02-28 19:24:45 UTC*
 *Historical records are stored in the `archive` directory.*
