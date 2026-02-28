@@ -46,6 +46,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
   > Agent harness to make your slop code well-engineered and beautiful.
 
+### [n0ncetonic](https://github.com/n0ncetonic)
+- 🌟 👤 [n0ncetonic](https://github.com/n0ncetonic) Starred [projectM-visualizer/projectm](https://github.com/projectM-visualizer/projectm)
+  > projectM - Cross-platform Music Visualization Library. Open-source and Milkdrop-compatible.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [thedaviddias/skill-check](https://github.com/thedaviddias/skill-check)
   > Linter for agent skill files
@@ -54,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-28 19:24:45 UTC*
+*Last updated at 2026-02-28 20:31:05 UTC*
 *Historical records are stored in the `archive` directory.*
