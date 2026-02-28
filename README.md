@@ -13,6 +13,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > conversion script for WAN/QWEN to nvfp4
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [jorismak/convert_nvfp4](https://github.com/jorismak/convert_nvfp4) to [IuvenisSapiens/convert_nvfp4](https://github.com/IuvenisSapiens/convert_nvfp4)
   > conversion script for WAN/QWEN to nvfp4
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [ludwig-austermann/typst-timetable](https://github.com/ludwig-austermann/typst-timetable)
+  > A typst template for timetables
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [ludwig-austermann/typst-timetable](https://github.com/ludwig-austermann/typst-timetable) to [IuvenisSapiens/typst-timetable](https://github.com/IuvenisSapiens/typst-timetable)
+  > A typst template for timetables
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [rebane2001/x86CSS](https://github.com/rebane2001/x86CSS)
@@ -34,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-28 13:39:47 UTC*
+*Last updated at 2026-02-28 14:27:07 UTC*
 *Historical records are stored in the `archive` directory.*
