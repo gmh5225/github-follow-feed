@@ -25,6 +25,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/Shogun](https://github.com/guyinatuxedo/Shogun)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tigerabrodi/neiro](https://github.com/tigerabrodi/neiro)
+  > Audio processing for TypeScript. Chainable, immutable, serverless-ready.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [thedaviddias/skill-check](https://github.com/thedaviddias/skill-check)
@@ -32,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-28 09:31:27 UTC*
+*Last updated at 2026-02-28 10:28:37 UTC*
 *Historical records are stored in the `archive` directory.*
