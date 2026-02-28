@@ -26,6 +26,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [strivexjun/XAntiDebug](https://github.com/strivexjun/XAntiDebug)
   > VMProtect 3.x Anti-debug Method Improved
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [endojs/endo](https://github.com/endojs/endo)
+  > Endo is a distributed secure JavaScript sandbox, based on SES
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [jasnell/new-streams](https://github.com/jasnell/new-streams)
+  > A proposal for a new streams API
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [benjitaylor/agentation](https://github.com/benjitaylor/agentation)
+  > The visual feedback tool for agents.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/Shogun](https://github.com/guyinatuxedo/Shogun)
@@ -38,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-28 14:27:07 UTC*
+*Last updated at 2026-02-28 15:28:11 UTC*
 *Historical records are stored in the `archive` directory.*
