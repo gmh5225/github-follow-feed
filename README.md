@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [jorismak/convert_nvfp4](https://github.com/jorismak/convert_nvfp4) to [IuvenisSapiens/convert_nvfp4](https://github.com/IuvenisSapiens/convert_nvfp4)
   > conversion script for WAN/QWEN to nvfp4
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [rebane2001/x86CSS](https://github.com/rebane2001/x86CSS)
+  > x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [strivexjun/XAntiDebug](https://github.com/strivexjun/XAntiDebug)
   > VMProtect 3.x Anti-debug Method Improved
@@ -28,5 +32,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-02-28 08:35:17 UTC*
+*Last updated at 2026-02-28 09:31:27 UTC*
 *Historical records are stored in the `archive` directory.*
