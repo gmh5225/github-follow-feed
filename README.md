@@ -22,7 +22,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/nightmare](https://github.com/guyinatuxedo/nightmare)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guyinatuxedo/Shogun](https://github.com/guyinatuxedo/Shogun)
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [thedaviddias/skill-check](https://github.com/thedaviddias/skill-check)
+  > Linter for agent skill files
+
 
 ---
-*Last updated at 2026-02-28 02:20:06 UTC*
+*Last updated at 2026-02-28 04:18:08 UTC*
 *Historical records are stored in the `archive` directory.*
