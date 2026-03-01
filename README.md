@@ -40,6 +40,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > canonical libwebsockets.org networking library
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [francescoalemanno/raijin-mono](https://github.com/francescoalemanno/raijin-mono)
   > Raijin is an AI-powered terminal assistant in Go, with a fast TUI, multi-provider LLM support, and b...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless)
+  > Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [arikw/chrome-extensions-reloader](https://github.com/arikw/chrome-extensions-reloader)
@@ -49,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-01 13:44:14 UTC*
+*Last updated at 2026-03-01 14:28:50 UTC*
 *Historical records are stored in the `archive` directory.*
