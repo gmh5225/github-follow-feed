@@ -19,6 +19,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [0avx/augur](https://github.com/0avx/augur)
   > Riot Vanguard streamed module to PE converter. Resolves hashed imports, reconstructs sections, and w...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [ProxymanApp/atlantis-android](https://github.com/ProxymanApp/atlantis-android)
+  > Capture HTTP/HTTPS traffic from Android apps and send to Proxyman for debugging.
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [kexuejin/crabshell](https://github.com/kexuejin/crabshell)
+  > Android APK/AAB hardening toolkit with Rust packer, encrypted DEX/native payload, and shell runtime ...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ARahim3/unsloth-mlx](https://github.com/ARahim3/unsloth-mlx)
   > Bringing the Unsloth experience to Mac users via Apple's MLX framework
@@ -37,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-01 11:25:00 UTC*
+*Last updated at 2026-03-01 12:58:19 UTC*
 *Historical records are stored in the `archive` directory.*
