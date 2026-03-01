@@ -12,6 +12,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PalmDevs/covalent](https://github.com/PalmDevs/covalent) to [CrackerCat/covalent](https://github.com/CrackerCat/covalent)
   > 🔗 An elegant Android modification framework for React Native apps
 
+### [Lynnette177](https://github.com/Lynnette177)
+- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [0avx/augur](https://github.com/0avx/augur)
   > Riot Vanguard streamed module to PE converter. Resolves hashed imports, reconstructs sections, and w...
@@ -19,6 +22,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ARahim3/unsloth-mlx](https://github.com/ARahim3/unsloth-mlx)
   > Bringing the Unsloth experience to Mac users via Apple's MLX framework
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tryingET/pi-server](https://github.com/tryingET/pi-server)
+  > Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets)
+  > canonical libwebsockets.org networking library
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [arikw/chrome-extensions-reloader](https://github.com/arikw/chrome-extensions-reloader)
@@ -28,5 +37,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-01 10:30:18 UTC*
+*Last updated at 2026-03-01 11:25:00 UTC*
 *Historical records are stored in the `archive` directory.*
