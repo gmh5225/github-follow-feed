@@ -26,6 +26,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Capture HTTP/HTTPS traffic from Android apps and send to Proxyman for debugging.
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [kexuejin/crabshell](https://github.com/kexuejin/crabshell)
   > Android APK/AAB hardening toolkit with Rust packer, encrypted DEX/native payload, and shell runtime ...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
+  > Agent harness to make your slop code well-engineered and beautiful.
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ARahim3/unsloth-mlx](https://github.com/ARahim3/unsloth-mlx)
@@ -42,8 +44,15 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A chrome extension for reloading unpacked extensions
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/theorist](https://github.com/blader/theorist)
   > A Codex/Claude skill that maintains per-repo operating theory documents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)
+  > The open-source dashboard for AI agent orchestration. Manage agent fleets, track tasks, monitor cost...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ForLoopCodes/contextplus](https://github.com/ForLoopCodes/contextplus)
+  > Semantic Intelligence for Large-Scale Engineering. Context+ is an MCP server designed for developers...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [parcadei/llm-tldr](https://github.com/parcadei/llm-tldr)
+  > 95% token savings. 155x faster queries. 16 languages.  LLMs can't read your entire codebase. TLDR ex...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [douglance/devsql](https://github.com/douglance/devsql)
 
 
 ---
-*Last updated at 2026-03-01 21:27:55 UTC*
+*Last updated at 2026-03-01 22:29:17 UTC*
 *Historical records are stored in the `archive` directory.*
