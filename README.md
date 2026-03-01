@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [CircuitCoder/pixivdwn](https://github.com/CircuitCoder/pixivdwn)
   > Incremental crawler/downloader for Pixiv
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PalmDevs/covalent](https://github.com/PalmDevs/covalent) to [CrackerCat/covalent](https://github.com/CrackerCat/covalent)
+  > 🔗 An elegant Android modification framework for React Native apps
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [0avx/augur](https://github.com/0avx/augur)
   > Riot Vanguard streamed module to PE converter. Resolves hashed imports, reconstructs sections, and w...
@@ -19,8 +23,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [arikw/chrome-extensions-reloader](https://github.com/arikw/chrome-extensions-reloader)
   > A chrome extension for reloading unpacked extensions
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [blader/theorist](https://github.com/blader/theorist)
+  > A Codex/Claude skill that maintains per-repo operating theory documents.
 
 
 ---
-*Last updated at 2026-03-01 06:58:10 UTC*
+*Last updated at 2026-03-01 07:38:18 UTC*
 *Historical records are stored in the `archive` directory.*
