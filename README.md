@@ -37,18 +37,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [joydo/vphone-cli](https://github.com/joydo/vphone-cli)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tryingET/pi-server](https://github.com/tryingET/pi-server)
-  > Session multiplexer for pi-coding-agent — WebSocket + stdio, the protocol IS the architecture
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [warmcat/libwebsockets](https://github.com/warmcat/libwebsockets)
-  > canonical libwebsockets.org networking library
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [francescoalemanno/raijin-mono](https://github.com/francescoalemanno/raijin-mono)
-  > Raijin is an AI-powered terminal assistant in Go, with a fast TUI, multi-provider LLM support, and b...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless)
-  > Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MxIris-Reverse-Engineering/RuntimeViewer](https://github.com/MxIris-Reverse-Engineering/RuntimeViewer)
-  > Objective-C & Swift Runtime Viewer for macOS and iOS
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [arikw/chrome-extensions-reloader](https://github.com/arikw/chrome-extensions-reloader)
   > A chrome extension for reloading unpacked extensions
@@ -57,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-01 20:32:56 UTC*
+*Last updated at 2026-03-01 21:27:55 UTC*
 *Historical records are stored in the `archive` directory.*
