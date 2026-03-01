@@ -28,6 +28,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [ARahim3/unsloth-mlx](https://github.com/ARahim3/unsloth-mlx)
   > Bringing the Unsloth experience to Mac users via Apple's MLX framework
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [emi0x7d1/claco](https://github.com/emi0x7d1/claco)
+  > A proof-of-concept for a tos-compliant Claude Code proxy
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
@@ -51,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-01 15:28:47 UTC*
+*Last updated at 2026-03-01 16:34:52 UTC*
 *Historical records are stored in the `archive` directory.*
