@@ -18,6 +18,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [0avx/augur](https://github.com/0avx/augur)
   > Riot Vanguard streamed module to PE converter. Resolves hashed imports, reconstructs sections, and w...
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/ByePg](https://github.com/can1357/ByePg)
+  > Defeating Patchguard universally for Windows 8, Windows 8.1 and all versions of Windows 10 regardles...
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [ProxymanApp/atlantis-android](https://github.com/ProxymanApp/atlantis-android)
@@ -55,5 +57,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-01 19:26:28 UTC*
+*Last updated at 2026-03-01 20:32:56 UTC*
 *Historical records are stored in the `archive` directory.*
