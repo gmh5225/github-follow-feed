@@ -11,6 +11,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Get 10X more out of Claude Code, Codex or any coding agent
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Hyphaed/vmware-vmmon-vmnet-linux-6.17.x](https://github.com/Hyphaed/vmware-vmmon-vmnet-linux-6.17.x) to [CrackerCat/vmware-vmmon-vmnet-linux-6.17.x](https://github.com/CrackerCat/vmware-vmmon-vmnet-linux-6.17.x)
   > VMware Workstation modules patches for Linux kernel 6.17.x
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker) to [CrackerCat/VMPacker](https://github.com/CrackerCat/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [guheng-re/unflat](https://github.com/guheng-re/unflat) to [CrackerCat/unflat](https://github.com/CrackerCat/unflat)
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [yangwenbo99/touying2video](https://github.com/yangwenbo99/touying2video) to [IuvenisSapiens/touying2video](https://github.com/IuvenisSapiens/touying2video)
@@ -23,10 +26,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [komrad36/CRC](https://github.com/komrad36/CRC)
   > Fastest CRC32 for x86, Intel and AMD, + comprehensive derivation and discussion of various approache...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [plp13/qman](https://github.com/plp13/qman)
+  > A more modern man page viewer for our terminals
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtang613/IDAssist](https://github.com/jtang613/IDAssist)
   > AI-Powered Reverse Engineering Plugin for IDA Pro
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)
+  > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, d...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [harshayburadkar/clut-chrome-extension](https://github.com/harshayburadkar/clut-chrome-extension)
@@ -38,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-02 07:06:52 UTC*
+*Last updated at 2026-03-02 08:52:57 UTC*
 *Historical records are stored in the `archive` directory.*
