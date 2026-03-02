@@ -49,6 +49,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Fastest CRC32 for x86, Intel and AMD, + comprehensive derivation and discussion of various approache...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [plp13/qman](https://github.com/plp13/qman)
   > A more modern man page viewer for our terminals
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [regehr/claudes-c-compiler](https://github.com/regehr/claudes-c-compiler)
+  > Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtang613/IDAssist](https://github.com/jtang613/IDAssist)
@@ -78,5 +80,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-02 20:43:00 UTC*
+*Last updated at 2026-03-02 21:41:53 UTC*
 *Historical records are stored in the `archive` directory.*
