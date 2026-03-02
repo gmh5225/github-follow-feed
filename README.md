@@ -65,6 +65,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Bringing the Unsloth experience to Mac users via Apple's MLX framework
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake)
   > High-performance GraphRAG inspired from LightRag written in Rust
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
+  > Bash for Agents
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) to [woct0rdho/ComfyUI_frontend](https://github.com/woct0rdho/ComfyUI_frontend)
@@ -72,5 +74,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-02 17:50:27 UTC*
+*Last updated at 2026-03-02 18:55:51 UTC*
 *Historical records are stored in the `archive` directory.*
