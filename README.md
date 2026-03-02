@@ -79,6 +79,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Lightweight MCP server for Ghidra-based reverse engineering with iOS, Linux, and game file support
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
   > WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitor...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lochie/web-haptics](https://github.com/lochie/web-haptics)
+  > Haptic feedback for the mobile web
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [maderix/ANE](https://github.com/maderix/ANE)
+  > Training neural networks on Apple Neural Engine via reverse-engineered private APIs
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/safe-mmio](https://github.com/google/safe-mmio)
@@ -90,5 +94,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-02 22:32:38 UTC*
+*Last updated at 2026-03-02 23:31:12 UTC*
 *Historical records are stored in the `archive` directory.*
