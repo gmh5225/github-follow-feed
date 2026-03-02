@@ -16,7 +16,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [komrad36/CRC](https://github.com/komrad36/CRC)
   > Fastest CRC32 for x86, Intel and AMD, + comprehensive derivation and discussion of various approache...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [harshayburadkar/clut-chrome-extension](https://github.com/harshayburadkar/clut-chrome-extension)
+  > Chrome extension to switch between last used tabs easily using shortcut. This extension tries to mim...
+
 
 ---
-*Last updated at 2026-03-02 04:51:31 UTC*
+*Last updated at 2026-03-02 05:55:50 UTC*
 *Historical records are stored in the `archive` directory.*
