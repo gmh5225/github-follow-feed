@@ -12,7 +12,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Zulko/moviepy](https://github.com/Zulko/moviepy)
   > Video editing with Python
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [komrad36/CRC](https://github.com/komrad36/CRC)
+  > Fastest CRC32 for x86, Intel and AMD, + comprehensive derivation and discussion of various approache...
+
 
 ---
-*Last updated at 2026-03-02 02:33:21 UTC*
+*Last updated at 2026-03-02 04:51:31 UTC*
 *Historical records are stored in the `archive` directory.*
