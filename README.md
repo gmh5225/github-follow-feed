@@ -22,6 +22,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A generative speech model for daily dialogue.
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Zulko/moviepy](https://github.com/Zulko/moviepy)
   > Video editing with Python
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) to [IuvenisSapiens/Awesome-Marp](https://github.com/IuvenisSapiens/Awesome-Marp)
+  > 🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [sjtug/touying-sjtu](https://github.com/sjtug/touying-sjtu)
+  > 基于 Touying 的上海交通大学 Typst 幻灯片模板 (Typst Slide Theme for SJTU Based on Touying)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [sjtug/touying-sjtu](https://github.com/sjtug/touying-sjtu) to [IuvenisSapiens/touying-sjtu](https://github.com/IuvenisSapiens/touying-sjtu)
+  > 基于 Touying 的上海交通大学 Typst 幻灯片模板 (Typst Slide Theme for SJTU Based on Touying)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [sjtug/modern-sjtu-thesis](https://github.com/sjtug/modern-sjtu-thesis)
+  > 上海交通大学学位论文 Typst 模板 (SJTU Thesis Typst Template)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [sjtug/modern-sjtu-thesis](https://github.com/sjtug/modern-sjtu-thesis) to [IuvenisSapiens/modern-sjtu-thesis](https://github.com/IuvenisSapiens/modern-sjtu-thesis)
+  > 上海交通大学学位论文 Typst 模板 (SJTU Thesis Typst Template)
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [komrad36/CRC](https://github.com/komrad36/CRC)
@@ -45,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-02 08:52:57 UTC*
+*Last updated at 2026-03-02 09:56:03 UTC*
 *Historical records are stored in the `archive` directory.*
