@@ -4,6 +4,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huanchong-99/GitCortex](https://github.com/huanchong-99/GitCortex) to [CrackerCat/GitCortex](https://github.com/CrackerCat/GitCortex)
+  > GitCortex is an AI-driven multi-terminal task orchestration platform that enables multiple AI coding...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) to [CrackerCat/vibe-kanban](https://github.com/CrackerCat/vibe-kanban)
+  > Get 10X more out of Claude Code, Codex or any coding agent
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Hyphaed/vmware-vmmon-vmnet-linux-6.17.x](https://github.com/Hyphaed/vmware-vmmon-vmnet-linux-6.17.x) to [CrackerCat/vmware-vmmon-vmnet-linux-6.17.x](https://github.com/CrackerCat/vmware-vmmon-vmnet-linux-6.17.x)
+  > VMware Workstation modules patches for Linux kernel 6.17.x
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [yangwenbo99/touying2video](https://github.com/yangwenbo99/touying2video) to [IuvenisSapiens/touying2video](https://github.com/IuvenisSapiens/touying2video)
   > Converting a typst presentation (by touying) to a presentation video with AI voice over.
@@ -16,11 +24,19 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [komrad36/CRC](https://github.com/komrad36/CRC)
   > Fastest CRC32 for x86, Intel and AMD, + comprehensive derivation and discussion of various approache...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtang613/IDAssist](https://github.com/jtang613/IDAssist)
+  > AI-Powered Reverse Engineering Plugin for IDA Pro
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [harshayburadkar/clut-chrome-extension](https://github.com/harshayburadkar/clut-chrome-extension)
   > Chrome extension to switch between last used tabs easily using shortcut. This extension tries to mim...
 
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) to [woct0rdho/ComfyUI_frontend](https://github.com/woct0rdho/ComfyUI_frontend)
+  > Official front-end implementation of ComfyUI
+
 
 ---
-*Last updated at 2026-03-02 05:55:50 UTC*
+*Last updated at 2026-03-02 07:06:52 UTC*
 *Historical records are stored in the `archive` directory.*
