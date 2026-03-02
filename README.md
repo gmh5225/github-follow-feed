@@ -51,10 +51,20 @@ Today's public activity from users I follow (updated every 15 minutes).
   > AI-Powered Reverse Engineering Plugin for IDA Pro
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer)
   > Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, d...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-boomerang](https://github.com/nicobailon/pi-boomerang)
+  > Token-efficient autonomous task execution with context collapse for pi coding agent
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [harshayburadkar/clut-chrome-extension](https://github.com/harshayburadkar/clut-chrome-extension)
   > Chrome extension to switch between last used tabs easily using shortcut. This extension tries to mim...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil)
+  > AI-native design editor. Open-source Figma alternative.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [eliheuer/img2bez](https://github.com/eliheuer/img2bez)
+  > Autotrace raster images to bezier contours — Rust library and CLI tool 
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune)
+  > Bringing the Unsloth experience to Mac users via Apple's MLX framework
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake)
+  > High-performance GraphRAG inspired from LightRag written in Rust
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) to [woct0rdho/ComfyUI_frontend](https://github.com/woct0rdho/ComfyUI_frontend)
@@ -62,5 +72,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-02 16:55:30 UTC*
+*Last updated at 2026-03-02 17:50:27 UTC*
 *Historical records are stored in the `archive` directory.*
