@@ -33,6 +33,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [sjtug/modern-sjtu-thesis](https://github.com/sjtug/modern-sjtu-thesis) to [IuvenisSapiens/modern-sjtu-thesis](https://github.com/IuvenisSapiens/modern-sjtu-thesis)
   > 上海交通大学学位论文 Typst 模板 (SJTU Thesis Typst Template)
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [huggingface/skills](https://github.com/huggingface/skills) to [NielsRogge/skills](https://github.com/NielsRogge/skills)
+
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [cristicbz/serde_describe](https://github.com/cristicbz/serde_describe)
+  > Make non-self-describing serde formats behave like self-describing ones.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [komrad36/CRC](https://github.com/komrad36/CRC)
   > Fastest CRC32 for x86, Intel and AMD, + comprehensive derivation and discussion of various approache...
@@ -55,5 +62,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-02 14:48:37 UTC*
+*Last updated at 2026-03-02 15:46:57 UTC*
 *Historical records are stored in the `archive` directory.*
