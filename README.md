@@ -73,6 +73,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > High-performance GraphRAG inspired from LightRag written in Rust
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
   > Bash for Agents
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Use-Tusk/fence](https://github.com/Use-Tusk/fence)
+  > Lightweight, container-free sandbox for running commands with network and filesystem restrictions
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [johnzfitch/pyghidra-lite](https://github.com/johnzfitch/pyghidra-lite)
+  > Lightweight MCP server for Ghidra-based reverse engineering with iOS, Linux, and game file support
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose)
+  > WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitor...
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [google/safe-mmio](https://github.com/google/safe-mmio)
+  > A Rust library crate with types for safe MMIO device access
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) to [woct0rdho/ComfyUI_frontend](https://github.com/woct0rdho/ComfyUI_frontend)
@@ -80,5 +90,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-02 21:41:53 UTC*
+*Last updated at 2026-03-02 22:32:38 UTC*
 *Historical records are stored in the `archive` directory.*
