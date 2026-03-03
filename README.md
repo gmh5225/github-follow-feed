@@ -15,6 +15,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRed-OCR](https://github.com/FireRedTeam/FireRed-OCR)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit)
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [intelxed/xed](https://github.com/intelxed/xed)
+  > The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64...
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [NickTikhonov/shuo](https://github.com/NickTikhonov/shuo)
   > sub-500ms latency phone agent orchestration
@@ -23,5 +27,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-03 05:53:31 UTC*
+*Last updated at 2026-03-03 06:59:13 UTC*
 *Historical records are stored in the `archive` directory.*
