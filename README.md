@@ -31,6 +31,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [intelxed/xed](https://github.com/intelxed/xed)
   > The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp)
+  > Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 to...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [payatu/BugBazaar](https://github.com/payatu/BugBazaar)
+  > Android BugBazaar: Your mobile appsec playground to Explore, Exploit, Excel
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [NickTikhonov/shuo](https://github.com/NickTikhonov/shuo)
   > sub-500ms latency phone agent orchestration
@@ -65,5 +71,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-03 21:38:21 UTC*
+*Last updated at 2026-03-03 22:34:25 UTC*
 *Historical records are stored in the `archive` directory.*
