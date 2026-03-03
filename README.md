@@ -11,14 +11,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) to [CrackerCat/MinecraftConsoles](https://github.com/CrackerCat/MinecraftConsoles)
   > A certain block game
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRed-OCR](https://github.com/FireRedTeam/FireRed-OCR)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [FireRedTeam/FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit)
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [shivammehta25/Matcha-TTS](https://github.com/shivammehta25/Matcha-TTS) to [IuvenisSapiens/Matcha-TTS](https://github.com/IuvenisSapiens/Matcha-TTS)
-  > [ICASSP 2024] 🍵 Matcha-TTS: A fast TTS architecture with conditional flow matching
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Soul-AILab/SoulX-FlashHead](https://github.com/Soul-AILab/SoulX-FlashHead) to [IuvenisSapiens/SoulX-FlashHead](https://github.com/IuvenisSapiens/SoulX-FlashHead)
-  > SoulX-FlashHead: A unified 1.3B-parameter framework designed for high-fidelity, infinite-length, and...
-
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [intelxed/xed](https://github.com/intelxed/xed)
   > The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64...
@@ -28,6 +20,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > sub-500ms latency phone agent orchestration
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [kcosr/codemap](https://github.com/kcosr/codemap)
   > Codemap generates a compact, token-aware map of a codebase: files, symbols, and markdown structure. ...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [kevin-he-01/vroomssl](https://github.com/kevin-he-01/vroomssl)
+  > [Research prototype: DO NOT USE in production!] A modification of BoringSSL using VROOM for modular ...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [gerardkieffer/Besser-Pinned-Tabs-Chrome](https://github.com/gerardkieffer/Besser-Pinned-Tabs-Chrome)
@@ -39,5 +35,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-03 09:50:28 UTC*
+*Last updated at 2026-03-03 10:46:26 UTC*
 *Historical records are stored in the `archive` directory.*
