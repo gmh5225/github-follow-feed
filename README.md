@@ -43,6 +43,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xboxoneresearch/libaspect2](https://github.com/xboxoneresearch/libaspect2)
   > Software for ASPECT2-PCB
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-design-deck](https://github.com/nicobailon/pi-design-deck)
+  > Visual design deck for presenting multi-slide options with high-fidelity previews
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [gerardkieffer/Besser-Pinned-Tabs-Chrome](https://github.com/gerardkieffer/Besser-Pinned-Tabs-Chrome)
   > The extension enhances the browsing experience by safeguarding pinned tabs and intelligently handlin...
@@ -53,5 +57,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-03 15:51:38 UTC*
+*Last updated at 2026-03-03 16:55:29 UTC*
 *Historical records are stored in the `archive` directory.*
