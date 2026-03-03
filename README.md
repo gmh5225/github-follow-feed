@@ -23,6 +23,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [Atten4Vis/LW-DETR](https://github.com/Atten4Vis/LW-DETR) to [NielsRogge/LW-DETR](https://github.com/NielsRogge/LW-DETR)
+  > This repository is an official implementation of the paper "LW-DETR: A Transformer Replacement to YO...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [intelxed/xed](https://github.com/intelxed/xed)
   > The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64...
@@ -36,6 +40,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [kevin-he-01/vroomssl](https://github.com/kevin-he-01/vroomssl)
   > [Research prototype: DO NOT USE in production!] A modification of BoringSSL using VROOM for modular ...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [johnmai-dev/ANE-LM](https://github.com/johnmai-dev/ANE-LM)
+  > LLM inference on Apple Neural Engine (ANE) 
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xboxoneresearch/ASPECT2-PCB](https://github.com/xboxoneresearch/ASPECT2-PCB)
@@ -57,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-03 20:37:50 UTC*
+*Last updated at 2026-03-03 21:38:21 UTC*
 *Historical records are stored in the `archive` directory.*
