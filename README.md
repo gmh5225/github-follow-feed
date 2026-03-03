@@ -25,7 +25,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [kcosr/codemap](https://github.com/kcosr/codemap)
   > Codemap generates a compact, token-aware map of a codebase: files, symbols, and markdown structure. ...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [gerardkieffer/Besser-Pinned-Tabs-Chrome](https://github.com/gerardkieffer/Besser-Pinned-Tabs-Chrome)
+  > The extension enhances the browsing experience by safeguarding pinned tabs and intelligently handlin...
+
 
 ---
-*Last updated at 2026-03-03 06:59:13 UTC*
+*Last updated at 2026-03-03 07:49:37 UTC*
 *Historical records are stored in the `archive` directory.*
