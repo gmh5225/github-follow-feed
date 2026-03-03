@@ -7,6 +7,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [19h](https://github.com/19h)
 - 🌟 👤 [19h](https://github.com/19h) Starred [ben-l909/endeavour](https://github.com/ben-l909/endeavour)
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+  > Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma,...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [smartcmd/MinecraftConsoles](https://github.com/smartcmd/MinecraftConsoles) to [CrackerCat/MinecraftConsoles](https://github.com/CrackerCat/MinecraftConsoles)
   > A certain block game
@@ -49,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-03 13:07:57 UTC*
+*Last updated at 2026-03-03 14:50:05 UTC*
 *Historical records are stored in the `archive` directory.*
