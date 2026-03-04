@@ -88,6 +88,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [a1ien/rusb](https://github.com/a1ien/rusb)
   > A safe Rust wrapper for libusb.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RD945/hypervisor-crack-audit](https://github.com/RD945/hypervisor-crack-audit)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [B1u3B01t/design-playground](https://github.com/B1u3B01t/design-playground)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
@@ -95,5 +98,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-04 18:57:39 UTC*
+*Last updated at 2026-03-04 19:41:57 UTC*
 *Historical records are stored in the `archive` directory.*
