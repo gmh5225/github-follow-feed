@@ -48,6 +48,38 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hansiglaser/ezusb-firmware](https://github.com/hansiglaser/ezusb-firmware)
   > Firmware skeleton for the Cypress EZ-USB microcontroller
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [marsohod4you/jtag_hw_mbftdi_blaster](https://github.com/marsohod4you/jtag_hw_mbftdi_blaster)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [syntacore/snippy](https://github.com/syntacore/snippy)
+  > llvm-snippy instruction sequence generator
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/prolog](https://github.com/howerj/prolog)
+  > A toy prolog interpreter
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/ngram](https://github.com/howerj/ngram)
+  > Print out a list of ngrams for a file; works on binary data as well as text
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/subleq-cpp](https://github.com/howerj/subleq-cpp)
+  > C++ implementation of SUBLEQ interpreter
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/subleq-perl](https://github.com/howerj/subleq-perl)
+  > Perl N-Bit SUBLEQ interpreter with an eForth image
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/subleq-python](https://github.com/howerj/subleq-python)
+  > Python N-Bit SUBLEQ Interpreter with eForth image
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/lfsr-vhdl](https://github.com/howerj/lfsr-vhdl)
+  > An implementation of a CPU that uses a Linear Feedback Shift Register as a Program Counter instead o...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/lfsr](https://github.com/howerj/lfsr)
+  > A VM that uses LFSR instead of a normal program counter that runs Forth
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/liblisp](https://github.com/howerj/liblisp)
+  > liblisp; a lisp interpreter that can be used as a library written in c99
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/lzp](https://github.com/howerj/lzp)
+  > LZP Data compression CODEC
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [viveris/uMTP-Responder](https://github.com/viveris/uMTP-Responder)
+  > Lightweight USB Media Transfer Protocol (MTP) responder daemon for GNU/Linux
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [viveris/tty0tty](https://github.com/viveris/tty0tty)
+  > Null modem emulator
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tanriol/libftdi1-sys](https://github.com/tanriol/libftdi1-sys)
+  > FFI bindings for libftdi1
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tanriol/ftdi-rs](https://github.com/tanriol/ftdi-rs)
+  > A Rust wrapper over libftdi1 library for FTDI devices
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [artyom-poptsov/guile-smc](https://github.com/artyom-poptsov/guile-smc)
+  > GNU Guile State Machine Compiler
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [artyom-poptsov/kb](https://github.com/artyom-poptsov/kb)
+  > avp's programming knolwedge base.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [B1u3B01t/design-playground](https://github.com/B1u3B01t/design-playground)
@@ -56,5 +88,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-04 16:53:45 UTC*
+*Last updated at 2026-03-04 17:43:01 UTC*
 *Historical records are stored in the `archive` directory.*
