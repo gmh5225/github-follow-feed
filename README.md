@@ -16,6 +16,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
   > A TLS reverse proxy with SNI multiplexing in Go
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [mgonto/executive-assistant-skills](https://github.com/mgonto/executive-assistant-skills)
   > Make OpenClaw the best executive assistant in the world and fire your human one like me
@@ -80,6 +85,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > GNU Guile State Machine Compiler
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [artyom-poptsov/kb](https://github.com/artyom-poptsov/kb)
   > avp's programming knolwedge base.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [a1ien/rusb](https://github.com/a1ien/rusb)
+  > A safe Rust wrapper for libusb.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [B1u3B01t/design-playground](https://github.com/B1u3B01t/design-playground)
@@ -88,5 +95,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-04 17:43:01 UTC*
+*Last updated at 2026-03-04 18:57:39 UTC*
 *Historical records are stored in the `archive` directory.*
