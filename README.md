@@ -39,9 +39,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
   > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [1nakatan/EEG_electrodes_with_coiled-spring_prongs](https://github.com/1nakatan/EEG_electrodes_with_coiled-spring_prongs)
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [initsecret/cryptography-run](https://github.com/initsecret/cryptography-run)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/symphony](https://github.com/openai/symphony)
@@ -51,5 +56,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-05 11:37:27 UTC*
+*Last updated at 2026-03-05 13:11:00 UTC*
 *Historical records are stored in the `archive` directory.*
