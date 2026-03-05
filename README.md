@@ -1,108 +1,36 @@
-# Daily GitHub Activity (2026-03-04)
+# Daily GitHub Activity (2026-03-05)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [tauri-apps/wry](https://github.com/tauri-apps/wry)
-  > Cross-platform WebView library in Rust for Tauri.
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [openclaw/openclaw](https://github.com/openclaw/openclaw)
-  > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-
-### [Lynnette177](https://github.com/Lynnette177)
-- 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate)
-  > A self-hosted data logger for your Tesla  🚘 [main maintainer=@JakobLichterfeld]
-
-### [NyaMisty](https://github.com/NyaMisty)
-- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [inconshreveable/slt](https://github.com/inconshreveable/slt) to [NyaMisty/slt](https://github.com/NyaMisty/slt)
-  > A TLS reverse proxy with SNI multiplexing in Go
-
-### [eybisi](https://github.com/eybisi)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
-- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
-  > ARM64 ELF Virtual Machine Protection System
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vam876/FastBurp](https://github.com/vam876/FastBurp) to [CrackerCat/FastBurp](https://github.com/CrackerCat/FastBurp)
+  > FastBurp 是一款专为网络安全测试和Web开发设计的浏览器扩展工具。它通过利用Chrome浏览器的原生调试API，实现了无需额外安装证书进行HTTPS流量拦截、修改和重放，并结合AI技术提供智能...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vam876/FastMonitor](https://github.com/vam876/FastMonitor) to [CrackerCat/FastMonitor](https://github.com/CrackerCat/FastMonitor)
+  > FastMonitor是一款基于golang开发的网络流量监控与威胁检测工具，集成了数据包分析、进程关联、会话流统计、威胁检测分析、地理位置可视化等功能于一体。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vam876/FastWLAT](https://github.com/vam876/FastWLAT) to [CrackerCat/FastWLAT](https://github.com/CrackerCat/FastWLAT)
+  > FastWLAT (Fast Web Log Analysis Tool) 是基于 Electron + Vue 3 构建的跨平台高性能 Web 日志分析工具，支持本地内存模式与 Redis 分布式处...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vam876/FastNmap](https://github.com/vam876/FastNmap) to [CrackerCat/FastNmap](https://github.com/CrackerCat/FastNmap)
+  > 集成资产定期监控功能的Nmap图形化扫描工具，让“扫描之王”Nmap使用更加简单。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vam876/FastWinLog](https://github.com/vam876/FastWinLog) to [CrackerCat/FastWinLog](https://github.com/CrackerCat/FastWinLog)
+  > 一款集成AI辅助分析功能的Windows日志安全分析工具
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [gal2xy/VMLifter](https://github.com/gal2xy/VMLifter) to [CrackerCat/VMLifter](https://github.com/CrackerCat/VMLifter)
+  > VMLifter 是一个基于指令执行轨迹的语义提升工具，专注于值依赖驱动的程序语义重建。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [miunasu/IDA-Skill](https://github.com/miunasu/IDA-Skill) to [CrackerCat/IDA-Skill](https://github.com/CrackerCat/IDA-Skill)
+  > 使用skill让 AI Agent 像安全分析师一样分析恶意样本 | AI Agent skill for automated malware analysis using IDA Pro
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc) to [CrackerCat/qualcomm_gbl_exploit_poc](https://github.com/CrackerCat/qualcomm_gbl_exploit_poc)
+  > Unlocking qualcomm bootloader via gbl exploit.
 
 ### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [mgonto/executive-assistant-skills](https://github.com/mgonto/executive-assistant-skills)
-  > Make OpenClaw the best executive assistant in the world and fire your human one like me
-
-### [goto-bus-stop](https://github.com/goto-bus-stop)
-- 🍴 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Forked [aembke/fred.rs](https://github.com/aembke/fred.rs) to [goto-bus-stop/fred.rs](https://github.com/goto-bus-stop/fred.rs)
-  > An async client for Valkey and Redis
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [purdue-cap/DryadSynth](https://github.com/purdue-cap/DryadSynth)
-  > A SyGuS Solver
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [adamwalker/clash-utils](https://github.com/adamwalker/clash-utils)
-  > A collection of reusable Clash designs/examples
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HexHive/truman](https://github.com/HexHive/truman)
-  > Code of Truman: Constructing Device Behavior Models from OS Drivers to Fuzz Virtual Devices (NDSS 20...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HexHive/liberator](https://github.com/HexHive/liberator)
-  > Liberating Libraries through Automated Fuzz Driver Generation: Striking a Balance Without Consumer C...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HexHive/taemu](https://github.com/HexHive/taemu)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HexHive/Igor](https://github.com/HexHive/Igor)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HexHive/beanpod_fiasco](https://github.com/HexHive/beanpod_fiasco)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HexHive/NASS](https://github.com/HexHive/NASS)
-  > Fuzzing All Native Android System Services with Interface Awareness and Coverage
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [adamwalker/fpga-hashmap](https://github.com/adamwalker/fpga-hashmap)
-  > An on-chip RAM based FPGA hashmap
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [adamwalker/ftdi-jtag](https://github.com/adamwalker/ftdi-jtag)
-  > Experiments with the MPSSE engine on an FTDI chip
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tow3rs/jtag-mpsse-blaster](https://github.com/tow3rs/jtag-mpsse-blaster)
-  > Use an MPSSE FTDI device as a JTAG interface in Quartus tools
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [j-marjanovic/ezusb-uart](https://github.com/j-marjanovic/ezusb-uart)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [hansiglaser/ezusb-firmware](https://github.com/hansiglaser/ezusb-firmware)
-  > Firmware skeleton for the Cypress EZ-USB microcontroller
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [marsohod4you/jtag_hw_mbftdi_blaster](https://github.com/marsohod4you/jtag_hw_mbftdi_blaster)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [syntacore/snippy](https://github.com/syntacore/snippy)
-  > llvm-snippy instruction sequence generator
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/prolog](https://github.com/howerj/prolog)
-  > A toy prolog interpreter
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/ngram](https://github.com/howerj/ngram)
-  > Print out a list of ngrams for a file; works on binary data as well as text
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/subleq-cpp](https://github.com/howerj/subleq-cpp)
-  > C++ implementation of SUBLEQ interpreter
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/subleq-perl](https://github.com/howerj/subleq-perl)
-  > Perl N-Bit SUBLEQ interpreter with an eForth image
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/subleq-python](https://github.com/howerj/subleq-python)
-  > Python N-Bit SUBLEQ Interpreter with eForth image
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/lfsr-vhdl](https://github.com/howerj/lfsr-vhdl)
-  > An implementation of a CPU that uses a Linear Feedback Shift Register as a Program Counter instead o...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/lfsr](https://github.com/howerj/lfsr)
-  > A VM that uses LFSR instead of a normal program counter that runs Forth
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/liblisp](https://github.com/howerj/liblisp)
-  > liblisp; a lisp interpreter that can be used as a library written in c99
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [howerj/lzp](https://github.com/howerj/lzp)
-  > LZP Data compression CODEC
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [viveris/uMTP-Responder](https://github.com/viveris/uMTP-Responder)
-  > Lightweight USB Media Transfer Protocol (MTP) responder daemon for GNU/Linux
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [viveris/tty0tty](https://github.com/viveris/tty0tty)
-  > Null modem emulator
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tanriol/libftdi1-sys](https://github.com/tanriol/libftdi1-sys)
-  > FFI bindings for libftdi1
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [tanriol/ftdi-rs](https://github.com/tanriol/ftdi-rs)
-  > A Rust wrapper over libftdi1 library for FTDI devices
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [artyom-poptsov/guile-smc](https://github.com/artyom-poptsov/guile-smc)
-  > GNU Guile State Machine Compiler
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [artyom-poptsov/kb](https://github.com/artyom-poptsov/kb)
-  > avp's programming knolwedge base.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [a1ien/rusb](https://github.com/a1ien/rusb)
-  > A safe Rust wrapper for libusb.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [adamwalker/syntcomp](https://github.com/adamwalker/syntcomp)
-  > Synthesis competition entry
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RD945/hypervisor-crack-audit](https://github.com/RD945/hypervisor-crack-audit)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
+  > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
 
 ### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [B1u3B01t/design-playground](https://github.com/B1u3B01t/design-playground)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
-  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/symphony](https://github.com/openai/symphony)
+  > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
 
 
 ---
-*Last updated at 2026-03-04 23:35:23 UTC*
+*Last updated at 2026-03-05 02:31:22 UTC*
 *Historical records are stored in the `archive` directory.*
