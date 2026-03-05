@@ -22,6 +22,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc) to [CrackerCat/qualcomm_gbl_exploit_poc](https://github.com/CrackerCat/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [PKU-YuanGroup/Helios](https://github.com/PKU-YuanGroup/Helios)
+  > Helios: Real Real-Time Long Video Generation Model
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mrd0x/BITB](https://github.com/mrd0x/BITB)
   > Browser In The Browser (BITB) Templates
@@ -31,10 +35,6 @@ Today's public activity from users I follow (updated every 15 minutes).
   > deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [jinqians/snell.sh](https://github.com/jinqians/snell.sh)
   > SNELL V4/V5 一键安装脚本，支持Debian/Ubuntu/Centos/Alpine
-
-### [NielsRogge](https://github.com/NielsRogge)
-- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [roboflow/notebooks](https://github.com/roboflow/notebooks) to [NielsRogge/roboflow-notebooks](https://github.com/NielsRogge/roboflow-notebooks)
-  > A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everyth...
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
@@ -51,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-05 09:51:42 UTC*
+*Last updated at 2026-03-05 10:47:15 UTC*
 *Historical records are stored in the `archive` directory.*
