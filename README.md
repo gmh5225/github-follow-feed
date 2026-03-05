@@ -62,6 +62,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)
   > Library for building powerful interactive command line applications in Python
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nimble-code/Spin](https://github.com/nimble-code/Spin)
+  > Explicit state logic model checking tool -- 2002 winner of the ACM System Software Award.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [nimble-code/Cobra](https://github.com/nimble-code/Cobra)
+  > An interactive (fast) static source code analyzer
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev)
@@ -79,5 +83,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-05 20:41:51 UTC*
+*Last updated at 2026-03-05 21:40:52 UTC*
 *Historical records are stored in the `archive` directory.*
