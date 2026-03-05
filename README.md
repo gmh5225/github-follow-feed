@@ -36,6 +36,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [jinqians/snell.sh](https://github.com/jinqians/snell.sh)
   > SNELL V4/V5 一键安装脚本，支持Debian/Ubuntu/Centos/Alpine
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [user23333/ce_sync](https://github.com/user23333/ce_sync)
+  > ret-sync for Cheat Engine
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
   > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
@@ -44,6 +48,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [1nakatan/EEG_electrodes_with_coiled-spring_prongs](https://github.com/1nakatan/EEG_electrodes_with_coiled-spring_prongs)
+- 🚀 👤 [jakehemmerle](https://github.com/jakehemmerle) Made [jakehemmerle/Ultracortex](https://github.com/jakehemmerle/Ultracortex) public
+  > Files related to the ultracortex, the OpenBCI 3D-printable EEG headset currently under development
+- 🚀 👤 [jakehemmerle](https://github.com/jakehemmerle) Made [jakehemmerle/EEG_electrodes_with_coiled-spring_prongs](https://github.com/jakehemmerle/EEG_electrodes_with_coiled-spring_prongs) public
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [initsecret/cryptography-run](https://github.com/initsecret/cryptography-run)
@@ -56,5 +63,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-05 14:51:30 UTC*
+*Last updated at 2026-03-05 15:54:55 UTC*
 *Historical records are stored in the `archive` directory.*
