@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [19h](https://github.com/19h)
+- 🌟 👤 [19h](https://github.com/19h) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
+  > A reverse-engineering agent for IDA Pro and Binary Ninja
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vam876/FastBurp](https://github.com/vam876/FastBurp) to [CrackerCat/FastBurp](https://github.com/CrackerCat/FastBurp)
   > FastBurp 是一款专为网络安全测试和Web开发设计的浏览器扩展工具。它通过利用Chrome浏览器的原生调试API，实现了无需额外安装证书进行HTTPS流量拦截、修改和重放，并结合AI技术提供智能...
@@ -69,7 +73,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [jul-sh/iosevka-charon](https://github.com/jul-sh/iosevka-charon)
   > Iosevka Charon is a quasi-proportional font excellent for technical writing and dense UI. Iosevka Ch...
 
+### [papstuc](https://github.com/papstuc)
+- 🌟 👤 [papstuc](https://github.com/papstuc) Starred [libtero/idaguides](https://github.com/libtero/idaguides)
+  > indent guides plugin for hex-rays decompiler
+
 
 ---
-*Last updated at 2026-03-05 18:08:42 UTC*
+*Last updated at 2026-03-05 19:54:56 UTC*
 *Historical records are stored in the `archive` directory.*
