@@ -22,15 +22,26 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc) to [CrackerCat/qualcomm_gbl_exploit_poc](https://github.com/CrackerCat/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [matteyeux/coruna](https://github.com/matteyeux/coruna)
+  > deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [jinqians/snell.sh](https://github.com/jinqians/snell.sh)
+  > SNELL V4/V5 一键安装脚本，支持Debian/Ubuntu/Centos/Alpine
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
   > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [1nakatan/EEG_electrodes_with_coiled-spring_prongs](https://github.com/1nakatan/EEG_electrodes_with_coiled-spring_prongs)
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/symphony](https://github.com/openai/symphony)
   > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [jul-sh/iosevka-charon](https://github.com/jul-sh/iosevka-charon)
+  > Iosevka Charon is a quasi-proportional font excellent for technical writing and dense UI. Iosevka Ch...
 
 
 ---
-*Last updated at 2026-03-05 02:31:22 UTC*
+*Last updated at 2026-03-05 04:47:55 UTC*
 *Historical records are stored in the `archive` directory.*
