@@ -55,6 +55,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [initsecret/cryptography-run](https://github.com/initsecret/cryptography-run)
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [prompt-toolkit/python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)
+  > Library for building powerful interactive command line applications in Python
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnswerDotAI/nbdev](https://github.com/AnswerDotAI/nbdev)
+  > Create delightful software with Jupyter Notebooks
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [openai/symphony](https://github.com/openai/symphony)
   > Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage ...
@@ -63,5 +71,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-05 15:54:55 UTC*
+*Last updated at 2026-03-05 18:08:42 UTC*
 *Historical records are stored in the `archive` directory.*
