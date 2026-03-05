@@ -32,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [jinqians/snell.sh](https://github.com/jinqians/snell.sh)
   > SNELL V4/V5 一键安装脚本，支持Debian/Ubuntu/Centos/Alpine
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [roboflow/notebooks](https://github.com/roboflow/notebooks) to [NielsRogge/roboflow-notebooks](https://github.com/NielsRogge/roboflow-notebooks)
+  > A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everyth...
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [googleworkspace/cli](https://github.com/googleworkspace/cli)
   > Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, ...
@@ -47,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-05 08:51:40 UTC*
+*Last updated at 2026-03-05 09:51:42 UTC*
 *Historical records are stored in the `archive` directory.*
