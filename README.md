@@ -22,6 +22,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc) to [CrackerCat/qualcomm_gbl_exploit_poc](https://github.com/CrackerCat/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mrd0x/BITB](https://github.com/mrd0x/BITB)
+  > Browser In The Browser (BITB) Templates
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [matteyeux/coruna](https://github.com/matteyeux/coruna)
   > deobfuscated JS and blobs from https://b27[.]icu, first attempt at using claude
@@ -43,5 +47,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-05 05:52:31 UTC*
+*Last updated at 2026-03-05 06:59:08 UTC*
 *Historical records are stored in the `archive` directory.*
