@@ -31,11 +31,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [fjh658/ida-pro-mcp](https://github.com/fjh658/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [blepping](https://github.com/blepping)
+- 🌟 👤 [blepping](https://github.com/blepping) Starred [madebyollin/taehv](https://github.com/madebyollin/taehv)
+  > Tiny AutoEncoder for Hunyuan Video (and other video models)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
   > GLM-OCR: Accurate ×  Fast × Comprehensive
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaydotsee/pdfx](https://github.com/jaydotsee/pdfx)
   > 🚀 Fast, intelligent PDF converter powered by Vision Language Models Convert PDFs to Markdown, HTML, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/vibe-re](https://github.com/0xeb/vibe-re)
+  > A collection of vibe reverse engineered binaries and malware (for educational purposes only)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
@@ -49,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-06 19:37:04 UTC*
+*Last updated at 2026-03-06 20:37:20 UTC*
 *Historical records are stored in the `archive` directory.*
