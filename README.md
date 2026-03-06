@@ -19,7 +19,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) to [IuvenisSapiens/faster-qwen3-tts](https://github.com/IuvenisSapiens/faster-qwen3-tts)
   > Real-time text-to-speech with Qwen3-TTS
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
+  > Fractals is a recursive task orchestrator for agent swarm
+
 
 ---
-*Last updated at 2026-03-06 02:29:28 UTC*
+*Last updated at 2026-03-06 04:45:11 UTC*
 *Historical records are stored in the `archive` directory.*
