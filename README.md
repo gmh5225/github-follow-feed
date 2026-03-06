@@ -19,6 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) to [IuvenisSapiens/faster-qwen3-tts](https://github.com/IuvenisSapiens/faster-qwen3-tts)
   > Real-time text-to-speech with Qwen3-TTS
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld) to [NielsRogge/OSWorld](https://github.com/NielsRogge/OSWorld)
+  > [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environ...
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [fjh658/ida-pro-mcp](https://github.com/fjh658/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -26,6 +30,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenHands/critic-rubrics](https://github.com/OpenHands/critic-rubrics)
   > Official repo for paper "A Rubric-Supervised Critic from Sparse Real-World Outcomes". Type-safe func...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
+  > Benowin Blanc — Windows through a detective's lens.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
@@ -33,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-06 11:34:07 UTC*
+*Last updated at 2026-03-06 13:06:13 UTC*
 *Historical records are stored in the `archive` directory.*
