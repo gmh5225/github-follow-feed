@@ -19,11 +19,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [andimarafioti/faster-qwen3-tts](https://github.com/andimarafioti/faster-qwen3-tts) to [IuvenisSapiens/faster-qwen3-tts](https://github.com/IuvenisSapiens/faster-qwen3-tts)
   > Real-time text-to-speech with Qwen3-TTS
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [fjh658/ida-pro-mcp](https://github.com/fjh658/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
   > Fractals is a recursive task orchestrator for agent swarm
 
 
 ---
-*Last updated at 2026-03-06 08:44:12 UTC*
+*Last updated at 2026-03-06 09:46:07 UTC*
 *Historical records are stored in the `archive` directory.*
