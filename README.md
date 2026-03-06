@@ -32,12 +32,20 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Official repo for paper "A Rubric-Supervised Critic from Sparse Real-World Outcomes". Type-safe func...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
   > Benowin Blanc — Windows through a detective's lens.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
+  > A reverse-engineering agent for IDA Pro and Binary Ninja
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [groundswellaudio/weave](https://github.com/groundswellaudio/weave)
+  > declarative C++ GUI library
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
   > Fractals is a recursive task orchestrator for agent swarm
 
+### [schinckel](https://github.com/schinckel)
+- 🍴 👤 [schinckel](https://github.com/schinckel) Forked [hacs/default](https://github.com/hacs/default) to [schinckel/hacs-default](https://github.com/schinckel/hacs-default)
+  > The home of the default HACS repositories.
+
 
 ---
-*Last updated at 2026-03-06 13:06:13 UTC*
+*Last updated at 2026-03-06 14:41:02 UTC*
 *Historical records are stored in the `archive` directory.*
