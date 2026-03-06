@@ -40,6 +40,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
   > Fractals is a recursive task orchestrator for agent swarm
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [arklexai/arksim](https://github.com/arklexai/arksim)
+  > Know how your agent performs before it goes live.
 
 ### [schinckel](https://github.com/schinckel)
 - 🍴 👤 [schinckel](https://github.com/schinckel) Forked [hacs/default](https://github.com/hacs/default) to [schinckel/hacs-default](https://github.com/schinckel/hacs-default)
@@ -47,5 +49,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-06 17:38:51 UTC*
+*Last updated at 2026-03-06 18:54:02 UTC*
 *Historical records are stored in the `archive` directory.*
