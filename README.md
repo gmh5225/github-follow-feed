@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [KNSoft/KNSoft.SlimDetours](https://github.com/KNSoft/KNSoft.SlimDetours)
+  > An improved Detours.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AYssu/libscan](https://github.com/AYssu/libscan) to [CrackerCat/libscan](https://github.com/CrackerCat/libscan)
   > FastScan内核对接动态库，实现内核切换，配合内核扫描使用
@@ -27,16 +31,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [fjh658/ida-pro-mcp](https://github.com/fjh658/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenHands/critic-rubrics](https://github.com/OpenHands/critic-rubrics)
-  > Official repo for paper "A Rubric-Supervised Critic from Sparse Real-World Outcomes". Type-safe func...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bb](https://github.com/cristeigabriela/bb)
-  > Benowin Blanc — Windows through a detective's lens.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
-  > A reverse-engineering agent for IDA Pro and Binary Ninja
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [groundswellaudio/weave](https://github.com/groundswellaudio/weave)
-  > declarative C++ GUI library
-
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
   > Fractals is a recursive task orchestrator for agent swarm
@@ -47,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-06 14:41:02 UTC*
+*Last updated at 2026-03-06 15:42:07 UTC*
 *Historical records are stored in the `archive` directory.*
