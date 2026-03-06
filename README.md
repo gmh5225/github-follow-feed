@@ -31,6 +31,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [fjh658/ida-pro-mcp](https://github.com/fjh658/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR)
+  > GLM-OCR: Accurate ×  Fast × Comprehensive
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TinyAGI/fractals](https://github.com/TinyAGI/fractals)
   > Fractals is a recursive task orchestrator for agent swarm
@@ -41,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-06 15:42:07 UTC*
+*Last updated at 2026-03-06 16:49:58 UTC*
 *Historical records are stored in the `archive` directory.*
