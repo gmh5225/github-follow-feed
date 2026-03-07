@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [ieviev/resharp](https://github.com/ieviev/resharp)
+  > RE# - A high-performance, automata based regex engine with first-class support for intersection and ...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) to [CrackerCat/wechat-db-decrypt-macos](https://github.com/CrackerCat/wechat-db-decrypt-macos)
   > macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
@@ -66,6 +70,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)
   > Fast, collaborative live terminal sharing over the web
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)
+  > AI agents running research on single-GPU nanochat training automatically
 
 ### [nicmunroe](https://github.com/nicmunroe)
 - 🍴 👤 [nicmunroe](https://github.com/nicmunroe) Forked [crossplane/crossplane](https://github.com/crossplane/crossplane) to [nicmunroe/crossplane](https://github.com/nicmunroe/crossplane)
@@ -74,6 +80,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ankittk/peek](https://github.com/ankittk/peek)
   > The Process Intelligence Tool for Linux
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [cyxzdev/Uncodixfy](https://github.com/cyxzdev/Uncodixfy)
+  > the holly uncodexify instructions - letting GPT create uncodexified UI
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [TinyCC/tinycc](https://github.com/TinyCC/tinycc) to [woct0rdho/tinycc](https://github.com/woct0rdho/tinycc)
@@ -81,5 +89,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-07 20:31:16 UTC*
+*Last updated at 2026-03-07 21:26:37 UTC*
 *Historical records are stored in the `archive` directory.*
