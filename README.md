@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [devos50/astana](https://github.com/devos50/astana)
   > A string deobfuscator for Android applications using backwards program slicing
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [unjs/md4x](https://github.com/unjs/md4x)
+  > 📄 Fast and small markdown parser and renderer
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust)
   > Common Expression Language interpreter written in Rust
@@ -54,6 +58,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Get the main content of any page as Markdown.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [needle-tools/md-browse](https://github.com/needle-tools/md-browse)
   > Markdown Browser – See the web like an AI does
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ZhangHanDong/claude-code-api-rs](https://github.com/ZhangHanDong/claude-code-api-rs)
+  > A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ekzhang/sshx](https://github.com/ekzhang/sshx)
+  > Fast, collaborative live terminal sharing over the web
 
 ### [nicmunroe](https://github.com/nicmunroe)
 - 🍴 👤 [nicmunroe](https://github.com/nicmunroe) Forked [crossplane/crossplane](https://github.com/crossplane/crossplane) to [nicmunroe/crossplane](https://github.com/nicmunroe/crossplane)
@@ -65,5 +73,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-07 17:26:08 UTC*
+*Last updated at 2026-03-07 18:40:17 UTC*
 *Historical records are stored in the `archive` directory.*
