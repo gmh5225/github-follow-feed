@@ -16,6 +16,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [Dicklesworthstone/mcp_agent_mail_rust](https://github.com/Dicklesworthstone/mcp_agent_mail_rust) to [jakehemmerle/mcp_agent_mail_rust](https://github.com/jakehemmerle/mcp_agent_mail_rust)
   > Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisor...
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP)
+  > MCP Server for Ghidra
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
   > Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent typ...
@@ -34,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-07 08:37:17 UTC*
+*Last updated at 2026-03-07 09:33:55 UTC*
 *Historical records are stored in the `archive` directory.*
