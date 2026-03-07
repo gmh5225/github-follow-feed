@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anakryiko/wprof](https://github.com/anakryiko/wprof) to [CrackerCat/wprof](https://github.com/CrackerCat/wprof)
   > High-performance system-wide BPF-based workload tracer with Perfetto-backed trace visualization.
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust)
+  > Common Expression Language interpreter written in Rust
+
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [Dicklesworthstone/mcp_agent_mail_rust](https://github.com/Dicklesworthstone/mcp_agent_mail_rust)
   > Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisor...
@@ -35,6 +39,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Local Twitter/X bookmark organizer with AI categorization and mindmap visualization
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arklexai/arksim](https://github.com/arklexai/arksim)
   > Know how your agent performs before it goes live.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
+  > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
+  > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
 
 ### [nicmunroe](https://github.com/nicmunroe)
 - 🍴 👤 [nicmunroe](https://github.com/nicmunroe) Forked [crossplane/crossplane](https://github.com/crossplane/crossplane) to [nicmunroe/crossplane](https://github.com/nicmunroe/crossplane)
@@ -46,5 +54,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-07 10:28:50 UTC*
+*Last updated at 2026-03-07 11:24:40 UTC*
 *Historical records are stored in the `archive` directory.*
