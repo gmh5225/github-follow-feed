@@ -10,6 +10,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anakryiko/wprof](https://github.com/anakryiko/wprof) to [CrackerCat/wprof](https://github.com/CrackerCat/wprof)
   > High-performance system-wide BPF-based workload tracer with Perfetto-backed trace visualization.
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [Dicklesworthstone/mcp_agent_mail_rust](https://github.com/Dicklesworthstone/mcp_agent_mail_rust)
+  > Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisor...
+- 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [Dicklesworthstone/mcp_agent_mail_rust](https://github.com/Dicklesworthstone/mcp_agent_mail_rust) to [jakehemmerle/mcp_agent_mail_rust](https://github.com/jakehemmerle/mcp_agent_mail_rust)
+  > Rust MCP server for multi-agent coordination: 34 tools, Git-backed archive, SQLite indexing, advisor...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
   > Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent typ...
@@ -28,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-07 04:24:08 UTC*
+*Last updated at 2026-03-07 05:40:11 UTC*
 *Historical records are stored in the `archive` directory.*
