@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anakryiko/wprof](https://github.com/anakryiko/wprof) to [CrackerCat/wprof](https://github.com/CrackerCat/wprof)
   > High-performance system-wide BPF-based workload tracer with Perfetto-backed trace visualization.
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [eversinc33/drvtrace](https://github.com/eversinc33/drvtrace)
+  > WinDbg plugin to trace module transitions from a debugged driver.
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [devos50/astana](https://github.com/devos50/astana)
   > A string deobfuscator for Android applications using backwards program slicing
@@ -67,11 +71,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [nicmunroe](https://github.com/nicmunroe) Forked [crossplane/crossplane](https://github.com/crossplane/crossplane) to [nicmunroe/crossplane](https://github.com/nicmunroe/crossplane)
   > The Cloud Native Control Plane
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ankittk/peek](https://github.com/ankittk/peek)
+  > The Process Intelligence Tool for Linux
+
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [TinyCC/tinycc](https://github.com/TinyCC/tinycc) to [woct0rdho/tinycc](https://github.com/woct0rdho/tinycc)
   > Unofficial mirror of mob development branch
 
 
 ---
-*Last updated at 2026-03-07 19:25:58 UTC*
+*Last updated at 2026-03-07 20:31:16 UTC*
 *Historical records are stored in the `archive` directory.*
