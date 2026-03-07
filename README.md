@@ -43,6 +43,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
   > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/chernobog](https://github.com/19h/chernobog)
+  > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
 
 ### [nicmunroe](https://github.com/nicmunroe)
 - 🍴 👤 [nicmunroe](https://github.com/nicmunroe) Forked [crossplane/crossplane](https://github.com/crossplane/crossplane) to [nicmunroe/crossplane](https://github.com/nicmunroe/crossplane)
@@ -54,5 +57,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-07 11:24:40 UTC*
+*Last updated at 2026-03-07 12:56:57 UTC*
 *Historical records are stored in the `archive` directory.*
