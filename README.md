@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anakryiko/wprof](https://github.com/anakryiko/wprof) to [CrackerCat/wprof](https://github.com/CrackerCat/wprof)
   > High-performance system-wide BPF-based workload tracer with Perfetto-backed trace visualization.
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [devos50/astana](https://github.com/devos50/astana)
+  > A string deobfuscator for Android applications using backwards program slicing
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [cel-rust/cel-rust](https://github.com/cel-rust/cel-rust)
   > Common Expression Language interpreter written in Rust
@@ -46,6 +50,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [19h/chernobog](https://github.com/19h/chernobog)
   > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kepano/defuddle](https://github.com/kepano/defuddle)
+  > Get the main content of any page as Markdown.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [needle-tools/md-browse](https://github.com/needle-tools/md-browse)
+  > Markdown Browser – See the web like an AI does
 
 ### [nicmunroe](https://github.com/nicmunroe)
 - 🍴 👤 [nicmunroe](https://github.com/nicmunroe) Forked [crossplane/crossplane](https://github.com/crossplane/crossplane) to [nicmunroe/crossplane](https://github.com/nicmunroe/crossplane)
@@ -57,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-07 14:28:44 UTC*
+*Last updated at 2026-03-07 15:28:42 UTC*
 *Historical records are stored in the `archive` directory.*
