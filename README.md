@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Thearas/wechat-db-decrypt-macos](https://github.com/Thearas/wechat-db-decrypt-macos) to [CrackerCat/wechat-db-decrypt-macos](https://github.com/CrackerCat/wechat-db-decrypt-macos)
+  > macOS arm64 微信 4.1 数据库解密，只在最新的微信 4.1.2.241 测试过，不支持4.0 以下版本
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anakryiko/wprof](https://github.com/anakryiko/wprof) to [CrackerCat/wprof](https://github.com/CrackerCat/wprof)
+  > High-performance system-wide BPF-based workload tracer with Perfetto-backed trace visualization.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
   > Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent typ...
@@ -16,7 +22,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [nicmunroe](https://github.com/nicmunroe) Forked [crossplane/crossplane](https://github.com/crossplane/crossplane) to [nicmunroe/crossplane](https://github.com/nicmunroe/crossplane)
   > The Cloud Native Control Plane
 
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [TinyCC/tinycc](https://github.com/TinyCC/tinycc) to [woct0rdho/tinycc](https://github.com/woct0rdho/tinycc)
+  > Unofficial mirror of mob development branch
+
 
 ---
-*Last updated at 2026-03-07 02:23:16 UTC*
+*Last updated at 2026-03-07 04:24:08 UTC*
 *Historical records are stored in the `archive` directory.*
