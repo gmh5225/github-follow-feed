@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Eveheeero/fireman](https://github.com/Eveheeero/fireman)
+  > Decompiler written in rust inspired by snowman (2026 03 WIP)
+
 ### [MaxtorCoder](https://github.com/MaxtorCoder)
 - 🍴 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Forked [wowdev/DBCD](https://github.com/wowdev/DBCD) to [MaxtorCoder/DBCD](https://github.com/MaxtorCoder/DBCD)
   > C# library for reading DBC/DB2 database files from World of Warcraft 
@@ -28,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sanket9225/Easynews_as_indexer](https://github.com/Sanket9225/Easynews_as_indexer)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iceblinker/usenetstreamer](https://github.com/iceblinker/usenetstreamer)
   > Privacy-focused Stremio addon for Usenet streaming via Prowlarr/NZBDav. Forked from the original w/ ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kantord/blogtato](https://github.com/kantord/blogtato)
+  > A CLI RSS/Atom feed reader inspired by Taskwarrior
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt)
+  > Vulnerability detection framework by Binarly's REsearch team
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
@@ -52,5 +60,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-08 15:28:52 UTC*
+*Last updated at 2026-03-08 16:35:00 UTC*
 *Historical records are stored in the `archive` directory.*
