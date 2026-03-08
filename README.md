@@ -4,9 +4,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [MaxtorCoder](https://github.com/MaxtorCoder)
+- 🍴 👤 [MaxtorCoder](https://github.com/MaxtorCoder) Forked [wowdev/DBCD](https://github.com/wowdev/DBCD) to [MaxtorCoder/DBCD](https://github.com/MaxtorCoder/DBCD)
+  > C# library for reading DBC/DB2 database files from World of Warcraft 
+
 ### [NielsRogge](https://github.com/NielsRogge)
 - 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [column-tax/tax-calc-bench](https://github.com/column-tax/tax-calc-bench) to [NielsRogge/tax-calc-bench](https://github.com/NielsRogge/tax-calc-bench)
   > Code & data for TaxCalcBench
+
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pi0/mdshot](https://github.com/pi0/mdshot)
+  > Render beautiful screenshots from Markdown. Powered by Takumi and MD4x.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
@@ -37,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-08 12:58:33 UTC*
+*Last updated at 2026-03-08 13:45:53 UTC*
 *Historical records are stored in the `archive` directory.*
