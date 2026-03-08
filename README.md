@@ -16,6 +16,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [pi0/mdshot](https://github.com/pi0/mdshot)
   > Render beautiful screenshots from Markdown. Powered by Takumi and MD4x.
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [ddd/req2proto](https://github.com/ddd/req2proto)
+  > Tool for reversing Google internal protobuf definitions
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
@@ -45,5 +49,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-08 13:45:53 UTC*
+*Last updated at 2026-03-08 14:29:27 UTC*
 *Historical records are stored in the `archive` directory.*
