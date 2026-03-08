@@ -27,6 +27,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [idleberg/vscode-jxa](https://github.com/idleberg/vscode-jxa)
   > Language syntax and snippets for JXA
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [animeshbchowdhury/GraphML_capstone](https://github.com/animeshbchowdhury/GraphML_capstone)
+  > Course on graph machin learning.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jayurbain/GraphMachineLearning](https://github.com/jayurbain/GraphMachineLearning)
+  > Course on graph machin learning.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
@@ -42,6 +46,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Vulnerability detection framework by Binarly's REsearch team
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
   > Unlocking qualcomm bootloader via gbl exploit.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seekbytes/ptxNinja](https://github.com/seekbytes/ptxNinja)
+  > Binary Ninja plugin for reverse engineering PTX -- the virtual instruction set architecture of CUDA-...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
@@ -66,5 +72,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-08 19:27:44 UTC*
+*Last updated at 2026-03-08 20:32:36 UTC*
 *Historical records are stored in the `archive` directory.*
