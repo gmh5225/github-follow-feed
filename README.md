@@ -24,6 +24,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [ddd/req2proto](https://github.com/ddd/req2proto)
   > Tool for reversing Google internal protobuf definitions
 
+### [jedisct1](https://github.com/jedisct1)
+- 🚀 👤 [jedisct1](https://github.com/jedisct1) Made [jedisct1/js-fast](https://github.com/jedisct1/js-fast) public
+  > FAST cipher implementation in JavaScript.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [idleberg/vscode-jxa](https://github.com/idleberg/vscode-jxa)
   > Language syntax and snippets for JXA
@@ -79,5 +83,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-08 22:29:09 UTC*
+*Last updated at 2026-03-08 23:29:41 UTC*
 *Historical records are stored in the `archive` directory.*
