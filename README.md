@@ -25,6 +25,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ARM64 ELF Virtual Machine Protection System
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/ubifix](https://github.com/LeoChen-CoreMind/ubifix)
   > CRC32 Collision Repair Tool - Efficient 4-byte patch search for CRC32 value repair
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sanket9225/Easynews_as_indexer](https://github.com/Sanket9225/Easynews_as_indexer)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iceblinker/usenetstreamer](https://github.com/iceblinker/usenetstreamer)
+  > Privacy-focused Stremio addon for Usenet streaming via Prowlarr/NZBDav. Forked from the original w/ ...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
@@ -49,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-08 14:29:27 UTC*
+*Last updated at 2026-03-08 15:28:52 UTC*
 *Historical records are stored in the `archive` directory.*
