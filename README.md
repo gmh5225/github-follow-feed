@@ -31,6 +31,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Course on graph machin learning.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jayurbain/GraphMachineLearning](https://github.com/jayurbain/GraphMachineLearning)
   > Course on graph machin learning.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [universal-ctags/libreadtags](https://github.com/universal-ctags/libreadtags)
+  > A library for reading tags files
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
@@ -57,6 +59,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ahmadawais/chartli](https://github.com/ahmadawais/chartli)
   > CLI that turns plain numbers into terminal charts. ascii, spark, bars, columns, heatmap, unicode, br...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [penso/arbor](https://github.com/penso/arbor)
+  > Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [riteshshukla04/agent-skills](https://github.com/riteshshukla04/agent-skills)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [PasqualeVittoriosi/swift-accessibility-skill](https://github.com/PasqualeVittoriosi/swift-accessibility-skill)
+  > Agent Skill for accessibility across SwiftUI, UIKit, and AppKit. Covers all 9 App Store Nutrition La...
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
@@ -72,5 +79,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-08 21:28:37 UTC*
+*Last updated at 2026-03-08 22:29:09 UTC*
 *Historical records are stored in the `archive` directory.*
