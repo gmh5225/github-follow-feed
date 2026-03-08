@@ -24,6 +24,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [ddd/req2proto](https://github.com/ddd/req2proto)
   > Tool for reversing Google internal protobuf definitions
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [idleberg/vscode-jxa](https://github.com/idleberg/vscode-jxa)
+  > Language syntax and snippets for JXA
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
   > ARM64 ELF Virtual Machine Protection System
@@ -36,6 +40,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A CLI RSS/Atom feed reader inspired by Taskwarrior
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vulhunt-re/vulhunt](https://github.com/vulhunt-re/vulhunt)
   > Vulnerability detection framework by Binarly's REsearch team
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hicode002/qualcomm_gbl_exploit_poc](https://github.com/hicode002/qualcomm_gbl_exploit_poc)
+  > Unlocking qualcomm bootloader via gbl exploit.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
@@ -60,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-08 17:27:07 UTC*
+*Last updated at 2026-03-08 18:40:50 UTC*
 *Historical records are stored in the `archive` directory.*
