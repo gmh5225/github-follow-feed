@@ -12,7 +12,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [streamlit/streamlit](https://github.com/streamlit/streamlit)
   > Streamlit — A faster way to build and share data apps.
 
+### [tkmru](https://github.com/tkmru)
+- 🌟 👤 [tkmru](https://github.com/tkmru) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+
 
 ---
-*Last updated at 2026-03-08 06:51:16 UTC*
+*Last updated at 2026-03-08 07:33:50 UTC*
 *Historical records are stored in the `archive` directory.*
