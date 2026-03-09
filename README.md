@@ -12,6 +12,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [csimide/cuti](https://github.com/csimide/cuti)
   > Cuti: A simple typst package simulates fake bold / fake italic characters. | Cuti：在 typst 中便捷使用伪粗体/伪...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [rigmar/HexRaysPyTools](https://github.com/rigmar/HexRaysPyTools)
+  > Ida Pro plugin
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
 
@@ -21,6 +25,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
+
+### [maskelihileci](https://github.com/maskelihileci)
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [memN0ps/illusion-rs](https://github.com/memN0ps/illusion-rs)
+  > Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
@@ -33,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-09 14:56:24 UTC*
+*Last updated at 2026-03-09 16:04:25 UTC*
 *Historical records are stored in the `archive` directory.*
