@@ -30,6 +30,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
 
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [a16z/jolt](https://github.com/a16z/jolt)
+  > The simplest and most extensible zkVM. Fast and fully open source from a16z crypto and friends. ⚡
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [robtaylor/abc](https://github.com/robtaylor/abc)
+  > ABC: System for Sequential Logic Synthesis and Formal Verification
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [g1mv/sharc](https://github.com/g1mv/sharc)
+  > Simple Highspeed Archiver
+
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [memN0ps/illusion-rs](https://github.com/memN0ps/illusion-rs)
   > Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)
@@ -49,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-09 19:45:56 UTC*
+*Last updated at 2026-03-09 20:39:36 UTC*
 *Historical records are stored in the `archive` directory.*
