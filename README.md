@@ -12,6 +12,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [csimide/cuti](https://github.com/csimide/cuti)
   > Cuti: A simple typst package simulates fake bold / fake italic characters. | Cuti：在 typst 中便捷使用伪粗体/伪...
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/QRSteganography](https://github.com/Maldev-Academy/QRSteganography) public
+  > Encodes arbitrary data into one or more QR code PNGs and decodes them back as a form of steganograph...
+
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [rigmar/HexRaysPyTools](https://github.com/rigmar/HexRaysPyTools)
   > Ida Pro plugin
@@ -39,7 +43,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
   > Open-source orchestration for zero-human companies
 
+### [vitosans](https://github.com/vitosans)
+- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [wildminder/awesome-ltx2](https://github.com/wildminder/awesome-ltx2)
+  > All available LTX-2 models, encoders, workflows, LoRAs for ComfyUI
+
 
 ---
-*Last updated at 2026-03-09 16:04:25 UTC*
+*Last updated at 2026-03-09 17:49:44 UTC*
 *Historical records are stored in the `archive` directory.*
