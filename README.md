@@ -15,13 +15,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [RhysSullivan/executor](https://github.com/RhysSullivan/executor)
+
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
-
-### [jedisct1](https://github.com/jedisct1)
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [jackwener/twitter-cli](https://github.com/jackwener/twitter-cli)
-  > A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [guheng-re/unflat](https://github.com/guheng-re/unflat)
@@ -34,5 +33,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-09 13:14:22 UTC*
+*Last updated at 2026-03-09 14:56:24 UTC*
 *Historical records are stored in the `archive` directory.*
