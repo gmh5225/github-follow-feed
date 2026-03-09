@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [GodotVR/godot-xr-tools](https://github.com/GodotVR/godot-xr-tools)
+  > Support scenes for AR and VR in Godot
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [csimide/cuti](https://github.com/csimide/cuti)
   > Cuti: A simple typst package simulates fake bold / fake italic characters. | Cuti：在 typst 中便捷使用伪粗体/伪...
@@ -30,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-09 10:55:10 UTC*
+*Last updated at 2026-03-09 11:37:19 UTC*
 *Historical records are stored in the `archive` directory.*
