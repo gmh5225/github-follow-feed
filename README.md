@@ -15,7 +15,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
   > 📚 从零开始的大语言模型原理与实践教程
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+  > Open-source orchestration for zero-human companies
+
 
 ---
-*Last updated at 2026-03-09 06:02:16 UTC*
+*Last updated at 2026-03-09 07:51:44 UTC*
 *Historical records are stored in the `archive` directory.*
