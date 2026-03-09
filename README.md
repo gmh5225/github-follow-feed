@@ -23,6 +23,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [androguard/dex-decompiler](https://github.com/androguard/dex-decompiler)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [androguard/dex-bytecode](https://github.com/androguard/dex-bytecode)
+  > DEX bytecode disassembler and assembler
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [androguard/dex-parser](https://github.com/androguard/dex-parser)
+  > DEX-Parser: The Scalpel for Dalvik Executables
+
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [RhysSullivan/executor](https://github.com/RhysSullivan/executor)
 
@@ -39,6 +48,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ABC: System for Sequential Logic Synthesis and Formal Verification
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [g1mv/sharc](https://github.com/g1mv/sharc)
   > Simple Highspeed Archiver
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jdperos/chrono-cross-decomp](https://github.com/jdperos/chrono-cross-decomp)
+  > A 100% matching Chrono Cross decompilation, based on the Radical Dreamers version
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jdperos/psyq-version-finder](https://github.com/jdperos/psyq-version-finder)
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [memN0ps/illusion-rs](https://github.com/memN0ps/illusion-rs)
@@ -59,5 +71,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-09 21:37:38 UTC*
+*Last updated at 2026-03-09 22:34:22 UTC*
 *Historical records are stored in the `archive` directory.*
