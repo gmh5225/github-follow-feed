@@ -44,7 +44,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
   > Annotate and review coding agent plans visually, share with your team, send feedback to agents with ...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [vincentkoc/slacrawl](https://github.com/vincentkoc/slacrawl)
+  > cli terminal app for slack with sqlite backend
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
+
+### [vitosans](https://github.com/vitosans)
+- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [luxdelux7/ComfyUI-Forbidden-Vision](https://github.com/luxdelux7/ComfyUI-Forbidden-Vision)
+  > Face restoration and enhancement suite for ComfyUI, with custom-trained models built for AI-generate...
+
 
 ---
-*Last updated at 2026-03-10 19:41:35 UTC*
+*Last updated at 2026-03-10 20:39:35 UTC*
 *Historical records are stored in the `archive` directory.*
