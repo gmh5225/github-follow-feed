@@ -18,8 +18,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > ARM64 动态指令 trace 离线向后切片分析器
 - 🍴 👤 [joydo](https://github.com/joydo) Forked [imj01y/trace-slice](https://github.com/imj01y/trace-slice) to [joydo/trace-slice](https://github.com/joydo/trace-slice)
   > ARM64 动态指令 trace 离线向后切片分析器
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
 
 
 ---
-*Last updated at 2026-03-10 07:47:59 UTC*
+*Last updated at 2026-03-10 08:51:41 UTC*
 *Historical records are stored in the `archive` directory.*
