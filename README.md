@@ -39,8 +39,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fareedfauzi/PseudoNote](https://github.com/fareedfauzi/PseudoNote)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mr-karan/hodor](https://github.com/mr-karan/hodor)
   > Agentic code reviewer for GitHub PRs and GitLab MRs. Multi-step reasoning with autonomous tool orche...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jundot/omlx](https://github.com/jundot/omlx)
+  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
+  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
+  > Annotate and review coding agent plans visually, share with your team, send feedback to agents with ...
 
 
 ---
-*Last updated at 2026-03-10 14:54:18 UTC*
+*Last updated at 2026-03-10 16:03:54 UTC*
 *Historical records are stored in the `archive` directory.*
