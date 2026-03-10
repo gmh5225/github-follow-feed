@@ -11,6 +11,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [kevinmuoz/ida-theme-explorer](https://github.com/kevinmuoz/ida-theme-explorer)
   > Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized and more)
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [hoxxep/rapidhash](https://github.com/hoxxep/rapidhash)
+  > An extremely fast, high-quality, non-cryptographic hash function. Platform independent compile-time ...
+
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato)
   > Another Windows Local Privilege Escalation from Service Account to System
@@ -56,5 +64,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-10 21:33:30 UTC*
+*Last updated at 2026-03-10 22:33:48 UTC*
 *Historical records are stored in the `archive` directory.*
