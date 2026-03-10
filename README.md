@@ -16,6 +16,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato)
   > Another Windows Local Privilege Escalation from Service Account to System
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [x86matthew/DOSVisor](https://github.com/x86matthew/DOSVisor)
+  > x86 Real-Mode MS-DOS Emulator using Windows Hypervisor Platform
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [x86matthew/InstrumentationCallbackSyscallLogger](https://github.com/x86matthew/InstrumentationCallbackSyscallLogger)
+  > A simple proof-of-concept Windows syscall logger using the NT instrumentation callback mechanism.
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
+  > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [always-further/nono](https://github.com/always-further/nono) to [Swival/nono](https://github.com/Swival/nono)
@@ -31,5 +37,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-10 09:51:33 UTC*
+*Last updated at 2026-03-10 10:47:23 UTC*
 *Historical records are stored in the `archive` directory.*
