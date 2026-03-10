@@ -35,7 +35,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [anthropics/skills](https://github.com/anthropics/skills)
   > Public repository for Agent Skills
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fareedfauzi/PseudoNote](https://github.com/fareedfauzi/PseudoNote)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mr-karan/hodor](https://github.com/mr-karan/hodor)
+  > Agentic code reviewer for GitHub PRs and GitLab MRs. Multi-step reasoning with autonomous tool orche...
+
 
 ---
-*Last updated at 2026-03-10 13:12:00 UTC*
+*Last updated at 2026-03-10 14:54:18 UTC*
 *Historical records are stored in the `archive` directory.*
