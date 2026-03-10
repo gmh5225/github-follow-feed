@@ -13,6 +13,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [kevinmuoz/ida-theme-explorer](https://github.com/kevinmuoz/ida-theme-explorer)
   > Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized and more)
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato)
+  > Another Windows Local Privilege Escalation from Service Account to System
+
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [always-further/nono](https://github.com/always-further/nono) to [Swival/nono](https://github.com/Swival/nono)
+  > Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure k...
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [imj01y/trace-slice](https://github.com/imj01y/trace-slice)
   > ARM64 动态指令 trace 离线向后切片分析器
@@ -23,5 +31,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-10 08:51:41 UTC*
+*Last updated at 2026-03-10 09:51:33 UTC*
 *Historical records are stored in the `archive` directory.*
