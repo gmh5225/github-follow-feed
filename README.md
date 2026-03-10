@@ -13,7 +13,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [kevinmuoz/ida-theme-explorer](https://github.com/kevinmuoz/ida-theme-explorer)
   > Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized and more)
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [imj01y/trace-slice](https://github.com/imj01y/trace-slice)
+  > ARM64 动态指令 trace 离线向后切片分析器
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [imj01y/trace-slice](https://github.com/imj01y/trace-slice) to [joydo/trace-slice](https://github.com/joydo/trace-slice)
+  > ARM64 动态指令 trace 离线向后切片分析器
+
 
 ---
-*Last updated at 2026-03-10 05:50:21 UTC*
+*Last updated at 2026-03-10 06:57:27 UTC*
 *Historical records are stored in the `archive` directory.*
