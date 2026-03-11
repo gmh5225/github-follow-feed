@@ -37,6 +37,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > IDA Domain API - Python interface for IDA Pro reverse engineering platform
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bassimeledath/dispatch](https://github.com/bassimeledath/dispatch)
   > A Claude Code skill that 10x's your effective context window by dispatching tasks to background AI w...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahsaso/my-pi](https://github.com/noahsaso/my-pi)
+  > my pi!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CopilotKit/llmock](https://github.com/CopilotKit/llmock)
+  > Deterministic mock LLM server for testing *across processes* — fixture-based routing with SSE stream...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)
@@ -45,8 +49,16 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Orchestrate opencode agents inside Discord. Each opencode project is a Discord channel. Start sessio...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
   > Agent harness to make your slop code well-engineered and beautiful.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [andrewyng/context-hub](https://github.com/andrewyng/context-hub)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [mem9-ai/mem9](https://github.com/mem9-ai/mem9)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [bergside/typeui.sh](https://github.com/bergside/typeui.sh)
+  > Design system skills for agentic tools
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [superhq-ai/shuru](https://github.com/superhq-ai/shuru)
+  > A local-first microVM sandbox for running AI agents safely on macOS
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [IronTony/voltrn-cli](https://github.com/IronTony/voltrn-cli)
+  > 📱🚀A POWERFUL CLI tool to quickly scaffold React Native and Expo TypeScript projects with best practi...
 
 
 ---
-*Last updated at 2026-03-11 11:36:49 UTC*
+*Last updated at 2026-03-11 13:11:43 UTC*
 *Historical records are stored in the `archive` directory.*
