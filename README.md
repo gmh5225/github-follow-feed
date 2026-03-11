@@ -23,6 +23,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [lj7788/GoClaw](https://github.com/lj7788/GoClaw)
   >  🦀ZeroClaw平替   🦀 零开销，零妥协，100% Go
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [lj7788/GoClaw](https://github.com/lj7788/GoClaw) to [IuvenisSapiens/GoClaw](https://github.com/IuvenisSapiens/GoClaw)
+  >  🦀ZeroClaw平替   🦀 零开销，零妥协，100% Go
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [katexochen/dumpasn1](https://github.com/katexochen/dumpasn1)
@@ -40,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 09:50:23 UTC*
+*Last updated at 2026-03-11 10:47:21 UTC*
 *Historical records are stored in the `archive` directory.*
