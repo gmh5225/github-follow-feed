@@ -58,7 +58,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [IronTony/voltrn-cli](https://github.com/IronTony/voltrn-cli)
   > 📱🚀A POWERFUL CLI tool to quickly scaffold React Native and Expo TypeScript projects with best practi...
 
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [Cheatron/cheatron-nthread](https://github.com/Cheatron/cheatron-nthread)
+  > Non-invasive x64 Windows thread hijacking library — seize control of existing threads without shellc...
+
 
 ---
-*Last updated at 2026-03-11 14:51:49 UTC*
+*Last updated at 2026-03-11 15:54:08 UTC*
 *Historical records are stored in the `archive` directory.*
