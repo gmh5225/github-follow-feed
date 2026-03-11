@@ -31,6 +31,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [fastly/fastly-agent-toolkit](https://github.com/fastly/fastly-agent-toolkit) to [dip-proto/fastly-agent-toolkit](https://github.com/dip-proto/fastly-agent-toolkit)
   > Fastly skills for AI Agents.
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [Swival/skillscheck](https://github.com/Swival/skillscheck)
+  > A linter for SKILL.md files.
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [katexochen/dumpasn1](https://github.com/katexochen/dumpasn1)
@@ -74,5 +76,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 18:58:41 UTC*
+*Last updated at 2026-03-11 19:45:58 UTC*
 *Historical records are stored in the `archive` directory.*
