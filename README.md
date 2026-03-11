@@ -16,6 +16,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) to [CrackerCat/wechat-decrypt](https://github.com/CrackerCat/wechat-decrypt)
   > WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time m...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [mg-chao/paddle-ocr-rs](https://github.com/mg-chao/paddle-ocr-rs) to [IuvenisSapiens/paddle-ocr-rs](https://github.com/IuvenisSapiens/paddle-ocr-rs)
+  > Use Rust to call Paddle OCR models via ONNX Runtime for image text recognition.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [katexochen/dumpasn1](https://github.com/katexochen/dumpasn1)
+  > display and debug ASN.1 data [mirror]
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-domain](https://github.com/HexRaysSA/ida-domain)
   > IDA Domain API - Python interface for IDA Pro reverse engineering platform
@@ -24,5 +32,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 02:27:09 UTC*
+*Last updated at 2026-03-11 04:46:25 UTC*
 *Historical records are stored in the `archive` directory.*
