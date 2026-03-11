@@ -59,6 +59,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A local-first microVM sandbox for running AI agents safely on macOS
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [IronTony/voltrn-cli](https://github.com/IronTony/voltrn-cli)
   > 📱🚀A POWERFUL CLI tool to quickly scaffold React Native and Expo TypeScript projects with best practi...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [zachlatta/freeflow](https://github.com/zachlatta/freeflow)
+  > Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc
 
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [Cheatron/cheatron-nthread](https://github.com/Cheatron/cheatron-nthread)
@@ -66,5 +68,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 16:58:23 UTC*
+*Last updated at 2026-03-11 17:54:54 UTC*
 *Historical records are stored in the `archive` directory.*
