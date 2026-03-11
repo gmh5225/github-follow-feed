@@ -31,6 +31,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [katexochen/dumpasn1](https://github.com/katexochen/dumpasn1)
   > display and debug ASN.1 data [mirror]
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [define-private-public/PSRayTracing](https://github.com/define-private-public/PSRayTracing)
+  > A (modern) C++ implementation of the Peter Shirley Ray Tracing mini-books (https://raytracing.github...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-domain](https://github.com/HexRaysSA/ida-domain)
@@ -64,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 15:54:08 UTC*
+*Last updated at 2026-03-11 16:58:23 UTC*
 *Historical records are stored in the `archive` directory.*
