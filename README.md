@@ -54,6 +54,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tintinweb/pi-supervisor](https://github.com/tintinweb/pi-supervisor)
   > A Pi-Agent extension that supervises the coding agent and steers it toward a defined outcome. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [friendlymatthew/gabagool](https://github.com/friendlymatthew/gabagool)
+  > Snapshotable WebAssembly interpreter from scratch
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)
@@ -79,5 +81,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 22:31:32 UTC*
+*Last updated at 2026-03-11 23:31:08 UTC*
 *Historical records are stored in the `archive` directory.*
