@@ -19,6 +19,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [mg-chao/paddle-ocr-rs](https://github.com/mg-chao/paddle-ocr-rs) to [IuvenisSapiens/paddle-ocr-rs](https://github.com/IuvenisSapiens/paddle-ocr-rs)
   > Use Rust to call Paddle OCR models via ONNX Runtime for image text recognition.
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) to [IuvenisSapiens/zeroclaw](https://github.com/IuvenisSapiens/zeroclaw)
+  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [katexochen/dumpasn1](https://github.com/katexochen/dumpasn1)
@@ -30,7 +32,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bassimeledath/dispatch](https://github.com/bassimeledath/dispatch)
   > A Claude Code skill that 10x's your effective context window by dispatching tasks to background AI w...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)
+  > end to end app store screenshot creation using AI
+
 
 ---
-*Last updated at 2026-03-11 07:00:41 UTC*
+*Last updated at 2026-03-11 08:50:49 UTC*
 *Historical records are stored in the `archive` directory.*
