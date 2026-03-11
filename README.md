@@ -28,6 +28,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) to [IuvenisSapiens/goclaw](https://github.com/IuvenisSapiens/goclaw)
   > Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, ...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [fastly/fastly-agent-toolkit](https://github.com/fastly/fastly-agent-toolkit) to [dip-proto/fastly-agent-toolkit](https://github.com/dip-proto/fastly-agent-toolkit)
+  > Fastly skills for AI Agents.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [katexochen/dumpasn1](https://github.com/katexochen/dumpasn1)
   > display and debug ASN.1 data [mirror]
@@ -43,6 +47,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > my pi!
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CopilotKit/llmock](https://github.com/CopilotKit/llmock)
   > Deterministic mock LLM server for testing *across processes* — fixture-based routing with SSE stream...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tlehman/litprog-skill](https://github.com/tlehman/litprog-skill)
+  > Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)
@@ -68,5 +74,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 17:54:54 UTC*
+*Last updated at 2026-03-11 18:58:41 UTC*
 *Historical records are stored in the `archive` directory.*
