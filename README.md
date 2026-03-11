@@ -51,6 +51,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Deterministic mock LLM server for testing *across processes* — fixture-based routing with SSE stream...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tlehman/litprog-skill](https://github.com/tlehman/litprog-skill)
   > Literate programming skill for agent harnesses like Claude Code, OpenCode and Hermes Agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tintinweb/pi-supervisor](https://github.com/tintinweb/pi-supervisor)
+  > A Pi-Agent extension that supervises the coding agent and steers it toward a defined outcome. 
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)
@@ -76,5 +78,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 20:38:46 UTC*
+*Last updated at 2026-03-11 21:37:54 UTC*
 *Historical records are stored in the `archive` directory.*
