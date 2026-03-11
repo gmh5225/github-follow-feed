@@ -23,8 +23,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [lj7788/GoClaw](https://github.com/lj7788/GoClaw)
   >  🦀ZeroClaw平替   🦀 零开销，零妥协，100% Go
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [lj7788/GoClaw](https://github.com/lj7788/GoClaw) to [IuvenisSapiens/GoClaw](https://github.com/IuvenisSapiens/GoClaw)
-  >  🦀ZeroClaw平替   🦀 零开销，零妥协，100% Go
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw)
+  > Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, ...
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [nextlevelbuilder/goclaw](https://github.com/nextlevelbuilder/goclaw) to [IuvenisSapiens/goclaw](https://github.com/IuvenisSapiens/goclaw)
+  > Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, ...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [katexochen/dumpasn1](https://github.com/katexochen/dumpasn1)
@@ -39,8 +41,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ParthJadhav/app-store-screenshots](https://github.com/ParthJadhav/app-store-screenshots)
   > end to end app store screenshot creation using AI
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [remorses/kimaki](https://github.com/remorses/kimaki)
+  > Orchestrate opencode agents inside Discord. Each opencode project is a Discord channel. Start sessio...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [peteromallet/desloppify](https://github.com/peteromallet/desloppify)
+  > Agent harness to make your slop code well-engineered and beautiful.
 
 
 ---
-*Last updated at 2026-03-11 10:47:21 UTC*
+*Last updated at 2026-03-11 11:36:49 UTC*
 *Historical records are stored in the `archive` directory.*
