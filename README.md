@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Use Rust to call Paddle OCR models via ONNX Runtime for image text recognition.
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) to [IuvenisSapiens/zeroclaw](https://github.com/IuvenisSapiens/zeroclaw)
   > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [lj7788/GoClaw](https://github.com/lj7788/GoClaw)
+  >  🦀ZeroClaw平替   🦀 零开销，零妥协，100% Go
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [katexochen/dumpasn1](https://github.com/katexochen/dumpasn1)
@@ -38,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-11 08:50:49 UTC*
+*Last updated at 2026-03-11 09:50:23 UTC*
 *Historical records are stored in the `archive` directory.*
