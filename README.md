@@ -1,68 +1,28 @@
-# Daily GitHub Activity (2026-03-10)
+# Daily GitHub Activity (2026-03-11)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [19h](https://github.com/19h)
-- 🚀 👤 [19h](https://github.com/19h) Made [19h/dazhbog-gamayun](https://github.com/19h/dazhbog-gamayun) public
-
-### [BeneficialCode](https://github.com/BeneficialCode)
-- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [kevinmuoz/ida-theme-explorer](https://github.com/kevinmuoz/ida-theme-explorer)
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [p1g3/dingwave](https://github.com/p1g3/dingwave) to [CrackerCat/dingwave](https://github.com/CrackerCat/dingwave)
+  > 钉钉数据库解密工具，支持 WEB UI 展示 | DingTalk Database Decryption Tool with Web UI Visualization.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DDOneApps/FakeCall](https://github.com/DDOneApps/FakeCall) to [CrackerCat/FakeCall](https://github.com/CrackerCat/FakeCall)
+  > An Open Source App to simulate incoming calls on Android. Designed in Material 3 UI with Monet suppo...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/ida-theme-explorer](https://github.com/kevinmuoz/ida-theme-explorer) to [CrackerCat/ida-theme-explorer](https://github.com/CrackerCat/ida-theme-explorer)
   > Install and browse 100+ community themes for IDA Pro (Dracula, Monokai, Solarized and more)
-
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [hoxxep/rapidhash](https://github.com/hoxxep/rapidhash)
-  > An extremely fast, high-quality, non-cryptographic hash function. Platform independent compile-time ...
-
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
-  > Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
-
-### [NUL0x4C](https://github.com/NUL0x4C)
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [antonioCoco/RoguePotato](https://github.com/antonioCoco/RoguePotato)
-  > Another Windows Local Privilege Escalation from Service Account to System
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [x86matthew/DOSVisor](https://github.com/x86matthew/DOSVisor)
-  > x86 Real-Mode MS-DOS Emulator using Windows Hypervisor Platform
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [x86matthew/InstrumentationCallbackSyscallLogger](https://github.com/x86matthew/InstrumentationCallbackSyscallLogger)
-  > A simple proof-of-concept Windows syscall logger using the NT instrumentation callback mechanism.
-- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
-  > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
-
-### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [always-further/nono](https://github.com/always-further/nono) to [Swival/nono](https://github.com/Swival/nono)
-  > Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure k...
-
-### [joydo](https://github.com/joydo)
-- 🌟 👤 [joydo](https://github.com/joydo) Starred [imj01y/trace-slice](https://github.com/imj01y/trace-slice)
-  > ARM64 动态指令 trace 离线向后切片分析器
-- 🍴 👤 [joydo](https://github.com/joydo) Forked [imj01y/trace-slice](https://github.com/imj01y/trace-slice) to [joydo/trace-slice](https://github.com/joydo/trace-slice)
-  > ARM64 动态指令 trace 离线向后切片分析器
-- 🌟 👤 [joydo](https://github.com/joydo) Starred [anthropics/skills](https://github.com/anthropics/skills)
-  > Public repository for Agent Skills
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/binwalk-reversing-plugin](https://github.com/kevinmuoz/binwalk-reversing-plugin) to [CrackerCat/binwalk-reversing-plugin](https://github.com/CrackerCat/binwalk-reversing-plugin)
+  > Binwalk plugin for IDA Pro and Binary Ninja
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ylytdeng/wechat-decrypt](https://github.com/ylytdeng/wechat-decrypt) to [CrackerCat/wechat-decrypt](https://github.com/CrackerCat/wechat-decrypt)
+  > WeChat 4.0 database decryptor - extract keys from memory, decrypt SQLCipher 4 databases, real-time m...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fareedfauzi/PseudoNote](https://github.com/fareedfauzi/PseudoNote)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mr-karan/hodor](https://github.com/mr-karan/hodor)
-  > Agentic code reviewer for GitHub PRs and GitLab MRs. Multi-step reasoning with autonomous tool orche...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jundot/omlx](https://github.com/jundot/omlx)
-  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [P4nda0s/IDA-NO-MCP](https://github.com/P4nda0s/IDA-NO-MCP)
-  > Say goodbye to the complex, verbose, and laggy interaction mode of IDA Pro MCP
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [backnotprop/plannotator](https://github.com/backnotprop/plannotator)
-  > Annotate and review coding agent plans visually, share with your team, send feedback to agents with ...
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [vincentkoc/slacrawl](https://github.com/vincentkoc/slacrawl)
-  > cli terminal app for slack with sqlite backend
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
-  > Claude Code skill to support Android app's reverse engineering
-
-### [vitosans](https://github.com/vitosans)
-- 🌟 👤 [vitosans](https://github.com/vitosans) Starred [luxdelux7/ComfyUI-Forbidden-Vision](https://github.com/luxdelux7/ComfyUI-Forbidden-Vision)
-  > Face restoration and enhancement suite for ComfyUI, with custom-trained models built for AI-generate...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-domain](https://github.com/HexRaysSA/ida-domain)
+  > IDA Domain API - Python interface for IDA Pro reverse engineering platform
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bassimeledath/dispatch](https://github.com/bassimeledath/dispatch)
+  > A Claude Code skill that 10x's your effective context window by dispatching tasks to background AI w...
 
 
 ---
-*Last updated at 2026-03-10 23:32:32 UTC*
+*Last updated at 2026-03-11 02:27:09 UTC*
 *Historical records are stored in the `archive` directory.*
