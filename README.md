@@ -53,8 +53,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > The primary source code repository for Macaulay2, a system for computing in commutative algebra, alg...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Singular/Singular](https://github.com/Singular/Singular)
   > sources for the Singular computer algebra system
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [subbdue/systemverilog.io](https://github.com/subbdue/systemverilog.io)
+  > Code used in
 
 
 ---
-*Last updated at 2026-03-12 19:00:17 UTC*
+*Last updated at 2026-03-12 20:40:45 UTC*
 *Historical records are stored in the `archive` directory.*
