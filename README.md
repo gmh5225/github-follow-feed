@@ -29,11 +29,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
 
+### [blepping](https://github.com/blepping)
+- 🌟 👤 [blepping](https://github.com/blepping) Starred [madebyollin/taehv](https://github.com/madebyollin/taehv)
+  > Tiny AutoEncoder for Hunyuan Video (and other video models)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gui-dos/DiaBLE](https://github.com/gui-dos/DiaBLE)
   > Diabetes: test the FreeStyle Libre and Dexcom glucose sensors via BLE and NFC.
 
 
 ---
-*Last updated at 2026-03-12 11:34:49 UTC*
+*Last updated at 2026-03-12 13:11:32 UTC*
 *Historical records are stored in the `archive` directory.*
