@@ -25,6 +25,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [symgraph/IDAssist](https://github.com/symgraph/IDAssist) to [CrackerCat/IDAssist](https://github.com/CrackerCat/IDAssist)
   > AI-Powered Reverse Engineering Plugin for IDA Pro
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [niklas2902/py4godot](https://github.com/niklas2902/py4godot)
+  > Python scripting for Godot. This GDExtension plugin allows you to use Python like GDScript, accessin...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tanweai/pua](https://github.com/tanweai/pua)
   > 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。You are a P8-level engineer who once had high hop...
@@ -45,5 +49,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-12 14:54:22 UTC*
+*Last updated at 2026-03-12 16:03:26 UTC*
 *Historical records are stored in the `archive` directory.*
