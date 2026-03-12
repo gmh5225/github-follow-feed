@@ -46,8 +46,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gui-dos/DiaBLE](https://github.com/gui-dos/DiaBLE)
   > Diabetes: test the FreeStyle Libre and Dexcom glucose sensors via BLE and NFC.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cocoa-official/CoCoALib](https://github.com/cocoa-official/CoCoALib)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Macaulay2/M2](https://github.com/Macaulay2/M2)
+  > The primary source code repository for Macaulay2, a system for computing in commutative algebra, alg...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Singular/Singular](https://github.com/Singular/Singular)
+  > sources for the Singular computer algebra system
 
 
 ---
-*Last updated at 2026-03-12 16:03:26 UTC*
+*Last updated at 2026-03-12 17:51:45 UTC*
 *Historical records are stored in the `archive` directory.*
