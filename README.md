@@ -59,8 +59,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [vitosans](https://github.com/vitosans)
 - 🌟 👤 [vitosans](https://github.com/vitosans) Starred [cubiq/Mellon](https://github.com/cubiq/Mellon)
   > Speak Friend and Enter
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [yuvraj108c/ComfyUI-Rife-Tensorrt](https://github.com/yuvraj108c/ComfyUI-Rife-Tensorrt) to [ComfyAssets/ComfyUI-Rife-Tensorrt](https://github.com/ComfyAssets/ComfyUI-Rife-Tensorrt)
+  > Ultra fast frame interpolation using Rife Tensorrt inside ComfyUI
 
 
 ---
-*Last updated at 2026-03-12 22:31:06 UTC*
+*Last updated at 2026-03-12 23:32:36 UTC*
 *Historical records are stored in the `archive` directory.*
