@@ -33,11 +33,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [blepping](https://github.com/blepping) Starred [madebyollin/taehv](https://github.com/madebyollin/taehv)
   > Tiny AutoEncoder for Hunyuan Video (and other video models)
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+  > Lightpanda: the headless browser designed for AI and automation
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [lightpanda-io/zig-js-runtime](https://github.com/lightpanda-io/zig-js-runtime)
+  > Add a JS runtime in your Zig project
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [gui-dos/DiaBLE](https://github.com/gui-dos/DiaBLE)
   > Diabetes: test the FreeStyle Libre and Dexcom glucose sensors via BLE and NFC.
 
 
 ---
-*Last updated at 2026-03-12 13:11:32 UTC*
+*Last updated at 2026-03-12 14:54:22 UTC*
 *Historical records are stored in the `archive` directory.*
