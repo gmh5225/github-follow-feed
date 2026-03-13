@@ -19,6 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [xenitV1/lemma](https://github.com/xenitV1/lemma)
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [doctorguile/caradoc](https://github.com/doctorguile/caradoc)
+  > A PDF parser and validator
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [always-further/nono](https://github.com/always-further/nono)
   > Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure k...
@@ -59,5 +63,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-13 20:40:37 UTC*
+*Last updated at 2026-03-13 21:37:40 UTC*
 *Historical records are stored in the `archive` directory.*
