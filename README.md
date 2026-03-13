@@ -39,6 +39,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [folk-js/allio](https://github.com/folk-js/allio)
   > Experimental system to expose accessibility trees as read-write interfaces and augment existing apps...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [altunenes/parakeet-rs](https://github.com/altunenes/parakeet-rs)
+  > very fast speech-to-text, diarization, streaming (even in CPU) with NVIDIA Parakeet in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [flightlesstux/prompt-caching](https://github.com/flightlesstux/prompt-caching)
+  > Automatic prompt caching for Claude Code. Cuts token costs by up to 90% on repeated file reads, bug ...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit)
@@ -69,5 +73,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-13 22:32:50 UTC*
+*Last updated at 2026-03-13 23:34:03 UTC*
 *Historical records are stored in the `archive` directory.*
