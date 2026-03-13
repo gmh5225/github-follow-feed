@@ -43,12 +43,19 @@ Today's public activity from users I follow (updated every 15 minutes).
   > The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, sh...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [pretyflaco/meetscribe](https://github.com/pretyflaco/meetscribe)
   > Fully local meeting transcription with speaker diarization, AI summaries, and PDF output
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
+  > A powerful meta-prompting, context engineering and spec-driven development system that enables agent...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [us/crw](https://github.com/us/crw)
+  > ⚡Lightweight Firecrawl alternative in Rust — 91.5% coverage, 5x faster, 3MB RAM.    Web scraper & cr...
 
 ### [tmr232](https://github.com/tmr232)
 - 🌟 👤 [tmr232](https://github.com/tmr232) Starred [rabbit19981023/yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)
   > The fastest converter to add furigana(readings) to Japanese epub eBooks
+- 🍴 👤 [tmr232](https://github.com/tmr232) Forked [rabbit19981023/yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook) to [tmr232/yomigana-ebook](https://github.com/tmr232/yomigana-ebook)
+  > The fastest converter to add furigana(readings) to Japanese epub eBooks
 
 
 ---
-*Last updated at 2026-03-13 18:50:19 UTC*
+*Last updated at 2026-03-13 19:34:22 UTC*
 *Historical records are stored in the `archive` directory.*
