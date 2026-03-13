@@ -22,6 +22,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [always-further/nono](https://github.com/always-further/nono)
   > Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure k...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
+  > The world's first agentic reverse engineer.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit)
@@ -35,5 +37,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-13 08:49:19 UTC*
+*Last updated at 2026-03-13 09:44:45 UTC*
 *Historical records are stored in the `archive` directory.*
