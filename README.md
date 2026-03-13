@@ -36,8 +36,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Michaelliv/pi-generative-ui](https://github.com/Michaelliv/pi-generative-ui)
   > Claude.ai's generative UI — reverse-engineered, rebuilt for pi. Interactive HTML/SVG widgets in nati...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [hyperspaceai/agi](https://github.com/hyperspaceai/agi)
+  > The first distributed AGI system. Thousands of autonomous AI agents collaboratively train models, sh...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [pretyflaco/meetscribe](https://github.com/pretyflaco/meetscribe)
+  > Fully local meeting transcription with speaker diarization, AI summaries, and PDF output
 
 
 ---
-*Last updated at 2026-03-13 13:09:40 UTC*
+*Last updated at 2026-03-13 14:48:22 UTC*
 *Historical records are stored in the `archive` directory.*
