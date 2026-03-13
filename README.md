@@ -24,6 +24,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Secure, kernel-enforced sandbox CLI and SDKs for AI agents. Capability-based isolation with secure k...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
   > The world's first agentic reverse engineer.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vxcozy/tome](https://github.com/vxcozy/tome)
+  > Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit)
@@ -37,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-13 11:35:05 UTC*
+*Last updated at 2026-03-13 13:09:40 UTC*
 *Historical records are stored in the `archive` directory.*
