@@ -48,6 +48,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [us/crw](https://github.com/us/crw)
   > ⚡Lightweight Firecrawl alternative in Rust — 91.5% coverage, 5x faster, 3MB RAM.    Web scraper & cr...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [panphora/overtype](https://github.com/panphora/overtype)
+  > The markdown editor that's just a textarea https://overtype.dev
 
 ### [tmr232](https://github.com/tmr232)
 - 🌟 👤 [tmr232](https://github.com/tmr232) Starred [rabbit19981023/yomigana-ebook](https://github.com/rabbit19981023/yomigana-ebook)
@@ -57,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-13 19:34:22 UTC*
+*Last updated at 2026-03-13 20:40:37 UTC*
 *Historical records are stored in the `archive` directory.*
