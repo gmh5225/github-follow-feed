@@ -16,12 +16,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra)
   > Abracadabra 魔曰，古文风文本加密工具
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [hjanuschka/pi-multi-pass](https://github.com/hjanuschka/pi-multi-pass)
+  > Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, C...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [xenitV1/lemma](https://github.com/xenitV1/lemma)
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [doctorguile/caradoc](https://github.com/doctorguile/caradoc)
   > A PDF parser and validator
+- 🍴 👤 [jevinskie](https://github.com/jevinskie) Forked [RTimothyEdwards/magic](https://github.com/RTimothyEdwards/magic) to [jevinskie/magic](https://github.com/jevinskie/magic)
+  > Magic VLSI Layout Tool
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [always-further/nono](https://github.com/always-further/nono)
@@ -63,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-13 21:37:40 UTC*
+*Last updated at 2026-03-13 22:32:50 UTC*
 *Historical records are stored in the `archive` directory.*
