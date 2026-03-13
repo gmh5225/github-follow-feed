@@ -26,6 +26,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > The world's first agentic reverse engineer.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vxcozy/tome](https://github.com/vxcozy/tome)
   > Beautiful documentation that doesn't cost a fortune. Open-source Mintlify alternative.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [upper-up/meta-lobbying-and-other-findings](https://github.com/upper-up/meta-lobbying-and-other-findings)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [mariusdjen/vpskit](https://github.com/mariusdjen/vpskit)
@@ -43,5 +44,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-13 16:47:31 UTC*
+*Last updated at 2026-03-13 17:39:01 UTC*
 *Historical records are stored in the `archive` directory.*
