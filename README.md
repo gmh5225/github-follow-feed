@@ -8,6 +8,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [godot-rust/gdext](https://github.com/godot-rust/gdext)
   > Rust bindings for Godot 4
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra)
+  > Abracadabra 魔曰，古文风文本加密工具
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [xenitV1/lemma](https://github.com/xenitV1/lemma)
 
@@ -17,5 +21,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-13 05:52:45 UTC*
+*Last updated at 2026-03-13 07:00:59 UTC*
 *Historical records are stored in the `archive` directory.*
