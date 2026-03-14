@@ -18,6 +18,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [pab1it0/awesome-a2a](https://github.com/pab1it0/awesome-a2a) to [Swival/awesome-a2a](https://github.com/Swival/awesome-a2a)
+  > Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place. 
+
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [slowmist/openclaw-security-practice-guide](https://github.com/slowmist/openclaw-security-practice-guide)
+  > This guide is designed for OpenClaw itself (Agent-facing), not as a traditional human-only hardening...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
   > Autonomous experiment loop extension for pi
@@ -38,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-14 13:02:35 UTC*
+*Last updated at 2026-03-14 14:33:54 UTC*
 *Historical records are stored in the `archive` directory.*
