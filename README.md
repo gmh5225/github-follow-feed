@@ -33,6 +33,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
   > Autonomous experiment loop extension for pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [calesennett/pi-codex-fast](https://github.com/calesennett/pi-codex-fast)
+  > pi extension that enables priority service tier for OpenAI/OpenAI Codex requests.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
@@ -47,8 +49,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Development at the speed of light
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
   > Knowledge Engine for AI Agent Memory in 6 lines of code
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [CommanderApp/commander](https://github.com/CommanderApp/commander)
+  > macOS interface for Claude Code and Codex with built-in diffs, git workflow, and worktrees - prompt,...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [webadderall/Recordly](https://github.com/webadderall/Recordly)
+  > A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to you...
 
 
 ---
-*Last updated at 2026-03-14 19:31:02 UTC*
+*Last updated at 2026-03-14 20:34:25 UTC*
 *Historical records are stored in the `archive` directory.*
