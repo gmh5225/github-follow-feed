@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [fred-lede/ollama-webui](https://github.com/fred-lede/ollama-webui) to [IuvenisSapiens/ollama-webui](https://github.com/IuvenisSapiens/ollama-webui)
+  > Chatting with Local or Remote Ollama on Windows Using Gradio. 使用Gradio在Windows與本地或遠端的Ollama進行聊天
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
@@ -30,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-14 09:38:13 UTC*
+*Last updated at 2026-03-14 10:33:43 UTC*
 *Historical records are stored in the `archive` directory.*
