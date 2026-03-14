@@ -35,6 +35,15 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Autonomous experiment loop extension for pi
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [calesennett/pi-codex-fast](https://github.com/calesennett/pi-codex-fast)
   > pi extension that enables priority service tier for OpenAI/OpenAI Codex requests.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RamXX/zettelvault](https://github.com/RamXX/zettelvault)
+  > Transform an Obsidian vault into PARA + Zettelkasten structure using DSPy and RLM
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/vmtrace](https://github.com/momo5502/vmtrace)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [uxlfoundation/oneTBB](https://github.com/uxlfoundation/oneTBB)
+  > oneAPI Threading Building Blocks (oneTBB)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NaC-L/corrosion](https://github.com/NaC-L/corrosion)
+  > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/levo](https://github.com/momo5502/levo)
+  > 🪁 AOT binary translation toolchain
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
@@ -56,5 +65,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-14 20:34:25 UTC*
+*Last updated at 2026-03-14 21:30:59 UTC*
 *Historical records are stored in the `archive` directory.*
