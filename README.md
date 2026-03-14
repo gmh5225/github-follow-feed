@@ -23,8 +23,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Hundreds of models & providers. One command to find what runs on your hardware.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
   > CLI-Anything: Making ALL Software Agent-Native
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+  > Development at the speed of light
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
+  > Knowledge Engine for AI Agent Memory in 6 lines of code
 
 
 ---
-*Last updated at 2026-03-14 04:46:06 UTC*
+*Last updated at 2026-03-14 05:50:44 UTC*
 *Historical records are stored in the `archive` directory.*
