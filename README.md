@@ -44,6 +44,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Marrying Rust and CMake - Easy Rust and C/C++ Integration!
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/levo](https://github.com/momo5502/levo)
   > 🪁 AOT binary translation toolchain
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sfikas/medical-imaging-datasets](https://github.com/sfikas/medical-imaging-datasets)
+  > A list of Medical imaging datasets.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [z64me/invivo-cbct](https://github.com/z64me/invivo-cbct) to [mrexodia/invivo-cbct](https://github.com/mrexodia/invivo-cbct)
+  > open source Invivo CBCT scan (.inv file) viewer
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [vercel-labs/json-render](https://github.com/vercel-labs/json-render)
@@ -65,5 +69,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-14 22:31:50 UTC*
+*Last updated at 2026-03-14 23:32:33 UTC*
 *Historical records are stored in the `archive` directory.*
