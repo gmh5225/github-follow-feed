@@ -55,8 +55,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [AytuncYildizli/reprompter](https://github.com/AytuncYildizli/reprompter)
   > Your prompt sucks. Let's fix that. Interactive interview → structured prompt → quality scored → read...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [tsgonest/tsgonest](https://github.com/tsgonest/tsgonest)
+  > a compiler for nestjs that does validation, openapi, sdk and more
 
 
 ---
-*Last updated at 2026-03-15 22:33:39 UTC*
+*Last updated at 2026-03-15 23:34:20 UTC*
 *Historical records are stored in the `archive` directory.*
