@@ -22,6 +22,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
+  > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [momo5502/vmtrace](https://github.com/momo5502/vmtrace)
+  > 🔬 Guest execution and tracing using the Windows Hypervisor Platform
+
 ### [kijai](https://github.com/kijai)
 - 🍴 👤 [kijai](https://github.com/kijai) Forked [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) to [kijai/ComfyUI_frontend](https://github.com/kijai/ComfyUI_frontend)
   > Official front-end implementation of ComfyUI
@@ -44,5 +50,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-15 16:37:30 UTC*
+*Last updated at 2026-03-15 17:32:52 UTC*
 *Historical records are stored in the `archive` directory.*
