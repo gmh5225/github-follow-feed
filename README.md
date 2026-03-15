@@ -35,6 +35,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dsidlo/FlexiTTS](https://github.com/dsidlo/FlexiTTS)
+  > A simple powerful workflow for Text to AudioBook creation. Uses realistic AI Voices via Qwen3-TTS wi...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [AytuncYildizli/reprompter](https://github.com/AytuncYildizli/reprompter)
@@ -42,5 +44,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-15 13:03:21 UTC*
+*Last updated at 2026-03-15 14:35:29 UTC*
 *Historical records are stored in the `archive` directory.*
