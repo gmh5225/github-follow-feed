@@ -22,11 +22,19 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DCC-BS/docling-glm-ocr](https://github.com/DCC-BS/docling-glm-ocr)
+  > A docling plugin to integrate a remote hosted GLM-OCR OCR model into docling
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ArctykDev/obsidian-project-planner](https://github.com/ArctykDev/obsidian-project-planner)
+  > A beautiful, Microsoft Premium Planner style plugin for Obsidian
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
+  > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [AytuncYildizli/reprompter](https://github.com/AytuncYildizli/reprompter)
   > Your prompt sucks. Let's fix that. Interactive interview → structured prompt → quality scored → read...
 
 
 ---
-*Last updated at 2026-03-15 10:35:13 UTC*
+*Last updated at 2026-03-15 11:30:56 UTC*
 *Historical records are stored in the `archive` directory.*
