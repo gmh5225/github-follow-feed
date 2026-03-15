@@ -22,6 +22,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
+### [kijai](https://github.com/kijai)
+- 🍴 👤 [kijai](https://github.com/kijai) Forked [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) to [kijai/ComfyUI_frontend](https://github.com/kijai/ComfyUI_frontend)
+  > Official front-end implementation of ComfyUI
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DCC-BS/docling-glm-ocr](https://github.com/DCC-BS/docling-glm-ocr)
   > A docling plugin to integrate a remote hosted GLM-OCR OCR model into docling
@@ -29,6 +33,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A beautiful, Microsoft Premium Planner style plugin for Obsidian
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
   > Stealth-focused Intel VT-x hypervisor base (EAC/BE/ACs/AVs).
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+  > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [AytuncYildizli/reprompter](https://github.com/AytuncYildizli/reprompter)
@@ -36,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-15 11:30:56 UTC*
+*Last updated at 2026-03-15 13:03:21 UTC*
 *Historical records are stored in the `archive` directory.*
