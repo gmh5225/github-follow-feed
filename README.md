@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [memN0ps/doublepulsar-rs](https://github.com/memN0ps/doublepulsar-rs)
+  > Rusty DoublePulsar - Cobalt Strike User-Defined Reflective Loader (UDRL) in Rust (Codename: DoublePu...
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [zer0condition/Ophion](https://github.com/zer0condition/Ophion)
@@ -43,6 +45,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dsidlo/FlexiTTS](https://github.com/dsidlo/FlexiTTS)
   > A simple powerful workflow for Text to AudioBook creation. Uses realistic AI Voices via Qwen3-TTS wi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rweijnen/MDView](https://github.com/rweijnen/MDView)
+  > Markdown viewer - Total Commander Lister plugin and standalone executable
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [AytuncYildizli/reprompter](https://github.com/AytuncYildizli/reprompter)
@@ -50,5 +54,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-15 17:32:52 UTC*
+*Last updated at 2026-03-15 18:46:20 UTC*
 *Historical records are stored in the `archive` directory.*
