@@ -31,6 +31,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 🔬 Guest execution and tracing using the Windows Hypervisor Platform
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [rchiossi/dexterity](https://github.com/rchiossi/dexterity)
+  > Dex manipulation library
 
 ### [kijai](https://github.com/kijai)
 - 🍴 👤 [kijai](https://github.com/kijai) Forked [Comfy-Org/ComfyUI_frontend](https://github.com/Comfy-Org/ComfyUI_frontend) to [kijai/ComfyUI_frontend](https://github.com/kijai/ComfyUI_frontend)
@@ -56,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-15 21:32:12 UTC*
+*Last updated at 2026-03-15 22:33:39 UTC*
 *Historical records are stored in the `archive` directory.*
