@@ -16,6 +16,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [Life4gal/adworld.xctf-REVERSE](https://github.com/Life4gal/adworld.xctf-REVERSE) to [Lynnette177/adworld.xctf-REVERSE](https://github.com/Lynnette177/adworld.xctf-REVERSE)
   > 攻防世界逆向题
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose)
+  > Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized appl...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [fail0verflow/prosperous](https://github.com/fail0verflow/prosperous)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki)
@@ -43,6 +47,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm)
   > Optimizing inference proxy for LLMs
+- 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [npow/kompact](https://github.com/npow/kompact)
+  > LLM context compression proxy — 40-70% token savings, zero code changes
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [jonesphillip/sharehtml](https://github.com/jonesphillip/sharehtml)
@@ -52,7 +58,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Infatoshi/OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel)
   > For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, C...
 
+### [woldann](https://github.com/woldann)
+- 🚀 👤 [woldann](https://github.com/woldann) Made [Cheatron/cheatron-cli](https://github.com/Cheatron/cheatron-cli) public
+
 
 ---
-*Last updated at 2026-03-16 13:23:35 UTC*
+*Last updated at 2026-03-16 15:05:03 UTC*
 *Historical records are stored in the `archive` directory.*
