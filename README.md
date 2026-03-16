@@ -26,6 +26,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Hardening code obfuscation against automated attacks
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [softsec-unh/MBA-Blast](https://github.com/softsec-unh/MBA-Blast)
   > MBA-Blast is a tool for simplification of MBA expressions.
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
+  > Extract Windows credentials directly from VM memory snapshots and virtual disks
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [xxDark/SSVM](https://github.com/xxDark/SSVM)
+  > Java VM running on a JVM
 
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [rolldown/tsdown](https://github.com/rolldown/tsdown)
@@ -35,6 +41,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🚀 👤 [haofanwang](https://github.com/haofanwang) Made [libtv-labs/libtv-skills](https://github.com/libtv-labs/libtv-skills) public
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Justin0504/Aegis](https://github.com/Justin0504/Aegis)
   > Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, ki...
+
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [Hijack-Poker/tech-assignment](https://github.com/Hijack-Poker/tech-assignment) to [jakehemmerle/tech-assignment-2](https://github.com/jakehemmerle/tech-assignment-2)
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [vercel-labs/skills](https://github.com/vercel-labs/skills) to [dip-proto/skills](https://github.com/dip-proto/skills)
@@ -72,5 +81,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-16 21:45:36 UTC*
+*Last updated at 2026-03-16 22:39:19 UTC*
 *Historical records are stored in the `archive` directory.*
