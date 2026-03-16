@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [OpenByteDev/dll-syringe](https://github.com/OpenByteDev/dll-syringe)
+  > A windows dll injection library written in rust.
+
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [Life4gal/adworld.xctf-REVERSE](https://github.com/Life4gal/adworld.xctf-REVERSE) to [Lynnette177/adworld.xctf-REVERSE](https://github.com/Lynnette177/adworld.xctf-REVERSE)
   > 攻防世界逆向题
@@ -15,8 +19,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [softsec-unh/MBA-Blast](https://github.com/softsec-unh/MBA-Blast)
   > MBA-Blast is a tool for simplification of MBA expressions.
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [rolldown/tsdown](https://github.com/rolldown/tsdown)
+  > The elegant bundler for libraries powered by Rolldown
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🚀 👤 [haofanwang](https://github.com/haofanwang) Made [libtv-labs/libtv-skills](https://github.com/libtv-labs/libtv-skills) public
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [Justin0504/Aegis](https://github.com/Justin0504/Aegis)
+  > Runtime policy enforcement for AI agents. Cryptographic audit trail, human-in-the-loop approvals, ki...
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [vercel-labs/skills](https://github.com/vercel-labs/skills) to [dip-proto/skills](https://github.com/dip-proto/skills)
@@ -36,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-16 09:02:54 UTC*
+*Last updated at 2026-03-16 10:57:49 UTC*
 *Historical records are stored in the `archive` directory.*
