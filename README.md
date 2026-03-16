@@ -43,12 +43,19 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Neol00/zramroot](https://github.com/Neol00/zramroot)
   > zramroot is a collection of init scripts that allows your Linux system to operate entirely from RAM....
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [adamgreig/zynq7000-qspi-flash-algorithm](https://github.com/adamgreig/zynq7000-qspi-flash-algorithm)
 
 ### [maskelihileci](https://github.com/maskelihileci)
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [algorithmicsuperintelligence/optillm](https://github.com/algorithmicsuperintelligence/optillm)
   > Optimizing inference proxy for LLMs
 - 🌟 👤 [maskelihileci](https://github.com/maskelihileci) Starred [npow/kompact](https://github.com/npow/kompact)
   > LLM context compression proxy — 40-70% token savings, zero code changes
+- 🍴 👤 [maskelihileci](https://github.com/maskelihileci) Forked [npow/kompact](https://github.com/npow/kompact) to [maskelihileci/kompact](https://github.com/maskelihileci/kompact)
+  > LLM context compression proxy — 40-70% token savings, zero code changes
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz)
+  > Extract Windows credentials directly from VM memory snapshots and virtual disks
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [jonesphillip/sharehtml](https://github.com/jonesphillip/sharehtml)
@@ -57,11 +64,13 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Vector dithering tool for web and Adobe Illustrator
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Infatoshi/OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel)
   > For people who get distracted by agents. A native Rust/GPUI control plane for running Claude Code, C...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)
+  > GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph...
 
 ### [woldann](https://github.com/woldann)
 - 🚀 👤 [woldann](https://github.com/woldann) Made [Cheatron/cheatron-cli](https://github.com/Cheatron/cheatron-cli) public
 
 
 ---
-*Last updated at 2026-03-16 20:42:41 UTC*
+*Last updated at 2026-03-16 21:45:36 UTC*
 *Historical records are stored in the `archive` directory.*
