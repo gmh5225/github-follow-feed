@@ -25,9 +25,17 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/Coruna-Tweaks-Collection](https://github.com/zeroxjf/Coruna-Tweaks-Collection) to [CrackerCat/Coruna-Tweaks-Collection](https://github.com/CrackerCat/Coruna-Tweaks-Collection)
   > Standalone tweak dylibs for the Coruna exploit chain (iOS 13-17.2.1) — FloatingDock & Cylinder, no s...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [MIStatlE/math-to-ml-](https://github.com/MIStatlE/math-to-ml-) to [IuvenisSapiens/math-to-ml-](https://github.com/IuvenisSapiens/math-to-ml-)
+  > Curated roadmap & resource hub for Machine Learning Theory ― structured learning paths, course outli...
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus)
   > Header-only TOML config file parser and serializer for C++17.
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [xvirobotics/metabot](https://github.com/xvirobotics/metabot)
@@ -43,5 +51,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-17 15:01:38 UTC*
+*Last updated at 2026-03-17 17:07:17 UTC*
 *Historical records are stored in the `archive` directory.*
