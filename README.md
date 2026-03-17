@@ -33,6 +33,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus)
   > Header-only TOML config file parser and serializer for C++17.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [accidentalrebel/claude-skill-session-retrospective](https://github.com/accidentalrebel/claude-skill-session-retrospective)
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [obra/superpowers](https://github.com/obra/superpowers)
   > An agentic skills framework & software development methodology that works.
@@ -48,8 +51,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)
   > Load secrets from 1Password into your GitHub Actions jobs
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [HazAT/glimpse](https://github.com/HazAT/glimpse)
+  > Native macOS micro-UI for scripts and agents — sub-50ms WKWebView windows with bidirectional JSON co...
 
 
 ---
-*Last updated at 2026-03-17 17:07:17 UTC*
+*Last updated at 2026-03-17 19:08:52 UTC*
 *Historical records are stored in the `archive` directory.*
