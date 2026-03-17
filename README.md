@@ -48,6 +48,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [jj-vcs/jj](https://github.com/jj-vcs/jj)
   > A Git-compatible VCS that is both simple and powerful
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw)
+  > TinyClaw is a team of personal agents that collaborate with each other
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)
   > Load secrets from 1Password into your GitHub Actions jobs
@@ -56,5 +60,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-17 19:08:52 UTC*
+*Last updated at 2026-03-17 20:45:02 UTC*
 *Historical records are stored in the `archive` directory.*
