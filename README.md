@@ -51,14 +51,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TinyAGI/tinyclaw](https://github.com/TinyAGI/tinyclaw)
   > TinyClaw is a team of personal agents that collaborate with each other
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+  > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)
   > Load secrets from 1Password into your GitHub Actions jobs
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [HazAT/glimpse](https://github.com/HazAT/glimpse)
   > Native macOS micro-UI for scripts and agents — sub-50ms WKWebView windows with bidirectional JSON co...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [makenotion/skills](https://github.com/makenotion/skills)
+  > Notion skills for agents
 
 
 ---
-*Last updated at 2026-03-17 20:45:02 UTC*
+*Last updated at 2026-03-17 21:42:21 UTC*
 *Historical records are stored in the `archive` directory.*
