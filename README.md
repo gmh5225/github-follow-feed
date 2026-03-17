@@ -53,6 +53,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > TinyClaw is a team of personal agents that collaborate with each other
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint)
+  > The awesome document factory
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mstingl/md2weasypdf](https://github.com/mstingl/md2weasypdf)
+  > Generate PDFs from Markdown Documents using Custom Layouts
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [1Password/load-secrets-action](https://github.com/1Password/load-secrets-action)
@@ -64,5 +68,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-17 22:38:15 UTC*
+*Last updated at 2026-03-17 23:37:11 UTC*
 *Historical records are stored in the `archive` directory.*
