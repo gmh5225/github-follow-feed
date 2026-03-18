@@ -20,6 +20,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [loongclaw-ai/loongclaw](https://github.com/loongclaw-ai/loongclaw)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [haofanwang/productarena-cli](https://github.com/haofanwang/productarena-cli)
+
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) to [dip-proto/chatterbox](https://github.com/dip-proto/chatterbox)
+  > SoTA open-source TTS
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -35,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-18 13:23:30 UTC*
+*Last updated at 2026-03-18 15:08:15 UTC*
 *Historical records are stored in the `archive` directory.*
