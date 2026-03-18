@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) to [dip-proto/chatterbox](https://github.com/dip-proto/chatterbox)
   > SoTA open-source TTS
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -45,6 +47,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > PDF extraction that checks its own work. #2 reading order accuracy — zero AI, zero GPU, zero cost.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
   > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rofl0r/microsocks](https://github.com/rofl0r/microsocks)
+  > tiny, portable SOCKS5 server with very moderate resource usage
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/pizza](https://github.com/williballenthin/pizza) to [mrexodia/pizza](https://github.com/mrexodia/pizza)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
@@ -52,5 +57,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-18 21:39:28 UTC*
+*Last updated at 2026-03-18 22:36:48 UTC*
 *Historical records are stored in the `archive` directory.*
