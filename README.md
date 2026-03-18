@@ -19,7 +19,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [L4ys/LazyIDA](https://github.com/L4ys/LazyIDA)
+  > Make your IDA Lazy!
+
 
 ---
-*Last updated at 2026-03-18 08:56:30 UTC*
+*Last updated at 2026-03-18 10:02:47 UTC*
 *Historical records are stored in the `archive` directory.*
