@@ -46,7 +46,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
   > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
+  > A skill file for removing AI tells from prose
+
 
 ---
-*Last updated at 2026-03-18 19:07:46 UTC*
+*Last updated at 2026-03-18 20:42:25 UTC*
 *Historical records are stored in the `archive` directory.*
