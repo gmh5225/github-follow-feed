@@ -12,11 +12,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
   > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [loongclaw-ai/loongclaw](https://github.com/loongclaw-ai/loongclaw)
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
 
 ---
-*Last updated at 2026-03-18 07:07:10 UTC*
+*Last updated at 2026-03-18 08:56:30 UTC*
 *Historical records are stored in the `archive` directory.*
