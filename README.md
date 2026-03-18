@@ -17,6 +17,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
   > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
+  > The world's first agentic reverse engineer.
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
@@ -57,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-18 22:36:48 UTC*
+*Last updated at 2026-03-18 23:34:26 UTC*
 *Historical records are stored in the `archive` directory.*
