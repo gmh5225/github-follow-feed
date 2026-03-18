@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [asukaminato0721/quicker-rs](https://github.com/asukaminato0721/quicker-rs)
+  > https://getquicker.net/ but in rust, build for linux, use egui.
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [NVIDIA-Maxine/nvidia-vfx-python-samples](https://github.com/NVIDIA-Maxine/nvidia-vfx-python-samples)
   > Sample apps demonstrating the usage of python bindings for the NVIDIA Video Effects SDK
@@ -37,8 +41,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > This repository contains an IDA processor for loading and disassembling compiled yara rules.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
   > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NameetP/pdfmux](https://github.com/NameetP/pdfmux)
+  > PDF extraction that checks its own work. #2 reading order accuracy — zero AI, zero GPU, zero cost.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
+  > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 
 
 ---
-*Last updated at 2026-03-18 17:07:25 UTC*
+*Last updated at 2026-03-18 19:07:46 UTC*
 *Historical records are stored in the `archive` directory.*
