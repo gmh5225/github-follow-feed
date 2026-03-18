@@ -28,8 +28,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [L4ys/LazyIDA](https://github.com/L4ys/LazyIDA)
   > Make your IDA Lazy!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milankovo/YaraVM](https://github.com/milankovo/YaraVM)
+  > This repository contains an IDA processor for loading and disassembling compiled yara rules.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
+  > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
 
 
 ---
-*Last updated at 2026-03-18 11:49:33 UTC*
+*Last updated at 2026-03-18 13:23:30 UTC*
 *Historical records are stored in the `archive` directory.*
