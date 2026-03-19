@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [chn-lee-yumi/MaterialSearch-core](https://github.com/chn-lee-yumi/MaterialSearch-core)
   > Core Python library for MaterialSearch project.
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [faster-cpython/benchmarking-public](https://github.com/faster-cpython/benchmarking-public)
+  > A public mirror of our benchmarking runner repository
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
   > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
@@ -37,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-19 09:52:11 UTC*
+*Last updated at 2026-03-19 10:48:14 UTC*
 *Historical records are stored in the `archive` directory.*
