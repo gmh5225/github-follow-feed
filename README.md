@@ -1,63 +1,29 @@
-# Daily GitHub Activity (2026-03-18)
+# Daily GitHub Activity (2026-03-19)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [asukaminato0721/quicker-rs](https://github.com/asukaminato0721/quicker-rs)
-  > https://getquicker.net/ but in rust, build for linux, use egui.
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace) to [CrackerCat/GumTrace](https://github.com/CrackerCat/GumTrace)
+  > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/WebKit-NavigationAPI-SOP-Bypass](https://github.com/zeroxjf/WebKit-NavigationAPI-SOP-Bypass) to [CrackerCat/WebKit-NavigationAPI-SOP-Bypass](https://github.com/CrackerCat/WebKit-NavigationAPI-SOP-Bypass)
+  > WebKit NavigateEvent.canIntercept SOP bypass via cross-port interception — iOS 26.3.1 BSI (CVE-2026-...
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [NVIDIA-Maxine/nvidia-vfx-python-samples](https://github.com/NVIDIA-Maxine/nvidia-vfx-python-samples)
-  > Sample apps demonstrating the usage of python bindings for the NVIDIA Video Effects SDK
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [NVIDIA-Maxine/nvidia-vfx-python-samples](https://github.com/NVIDIA-Maxine/nvidia-vfx-python-samples) to [IuvenisSapiens/nvidia-vfx-python-samples](https://github.com/IuvenisSapiens/nvidia-vfx-python-samples)
-  > Sample apps demonstrating the usage of python bindings for the NVIDIA Video Effects SDK
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
-  > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
-  > The world's first agentic reverse engineer.
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
+  > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
 
 ### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
-  > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [loongclaw-ai/loongclaw](https://github.com/loongclaw-ai/loongclaw)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [haofanwang/productarena-cli](https://github.com/haofanwang/productarena-cli)
-
-### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) to [dip-proto/chatterbox](https://github.com/dip-proto/chatterbox)
-  > SoTA open-source TTS
-- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
-  > OpenShell is the safe, private runtime for autonomous AI agents.
-
-### [joydo](https://github.com/joydo)
-- 🌟 👤 [joydo](https://github.com/joydo) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
-  > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec)
+  > Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No c...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [L4ys/LazyIDA](https://github.com/L4ys/LazyIDA)
-  > Make your IDA Lazy!
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milankovo/YaraVM](https://github.com/milankovo/YaraVM)
-  > This repository contains an IDA processor for loading and disassembling compiled yara rules.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
-  > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NameetP/pdfmux](https://github.com/NameetP/pdfmux)
-  > PDF extraction that checks its own work. #2 reading order accuracy — zero AI, zero GPU, zero cost.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot)
-  > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rofl0r/microsocks](https://github.com/rofl0r/microsocks)
-  > tiny, portable SOCKS5 server with very moderate resource usage
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/pizza](https://github.com/williballenthin/pizza) to [mrexodia/pizza](https://github.com/mrexodia/pizza)
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
-  > A skill file for removing AI tells from prose
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gmuxapp/gmux](https://github.com/gmuxapp/gmux)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/unbun](https://github.com/can1357/unbun)
+  > Python utility for extracting Bun standalone JS bundles.
 
 
 ---
-*Last updated at 2026-03-18 23:34:26 UTC*
+*Last updated at 2026-03-19 02:40:10 UTC*
 *Historical records are stored in the `archive` directory.*
