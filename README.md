@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/WebKit-NavigationAPI-SOP-Bypass](https://github.com/zeroxjf/WebKit-NavigationAPI-SOP-Bypass) to [CrackerCat/WebKit-NavigationAPI-SOP-Bypass](https://github.com/CrackerCat/WebKit-NavigationAPI-SOP-Bypass)
   > WebKit NavigateEvent.canIntercept SOP bypass via cross-port interception — iOS 26.3.1 BSI (CVE-2026-...
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [chn-lee-yumi/MaterialSearch-core](https://github.com/chn-lee-yumi/MaterialSearch-core)
+  > Core Python library for MaterialSearch project.
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
   > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
@@ -33,5 +37,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-19 08:50:59 UTC*
+*Last updated at 2026-03-19 09:52:11 UTC*
 *Historical records are stored in the `archive` directory.*
