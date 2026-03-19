@@ -52,6 +52,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gmuxapp/gmux](https://github.com/gmuxapp/gmux)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/unbun](https://github.com/can1357/unbun)
   > Python utility for extracting Bun standalone JS bundles.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
+  > OpenClaw-RL: Train any agent simply by talking
 
 ### [vitosans](https://github.com/vitosans)
 - 🍴 👤 [vitosans](https://github.com/vitosans) Forked [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) to [vitosans/OpenAlice](https://github.com/vitosans/OpenAlice)
@@ -59,5 +61,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-19 15:58:35 UTC*
+*Last updated at 2026-03-19 17:07:44 UTC*
 *Historical records are stored in the `archive` directory.*
