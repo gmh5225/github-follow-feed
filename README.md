@@ -18,6 +18,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec)
   > Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No c...
 
+### [joydo](https://github.com/joydo)
+- 🌟 👤 [joydo](https://github.com/joydo) Starred [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace)
+  > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace) to [joydo/GumTrace](https://github.com/joydo/GumTrace)
+  > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [imj01y/trace-ui](https://github.com/imj01y/trace-ui) to [joydo/trace-ui](https://github.com/joydo/trace-ui)
+  > 高性能 ARM64 执行 trace 可视化分析工具
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gmuxapp/gmux](https://github.com/gmuxapp/gmux)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/unbun](https://github.com/can1357/unbun)
@@ -25,5 +33,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-19 06:03:43 UTC*
+*Last updated at 2026-03-19 07:50:06 UTC*
 *Historical records are stored in the `archive` directory.*
