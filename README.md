@@ -29,6 +29,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [iliazintchenko/agent-sat](https://github.com/iliazintchenko/agent-sat)
   > Agent learns to become the worlds top expert on SAT
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mohsenzakeri/Movi](https://github.com/mohsenzakeri/Movi)
+  > Fast, Cache-Efficient, and Scalable Queries on Pangenomes
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jermp/sshash-lite](https://github.com/jermp/sshash-lite)
+  > K-mer membership queries in compressed space.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jermp/sshash](https://github.com/jermp/sshash)
+  > 📖 🧬 SSHash is a compressed, associative, exact, and weighted dictionary for k-mers.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [COMBINE-lab/sshash-rs](https://github.com/COMBINE-lab/sshash-rs)
+  > A Rust implementation of SSHash
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace)
@@ -45,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-19 13:16:06 UTC*
+*Last updated at 2026-03-19 14:53:23 UTC*
 *Historical records are stored in the `archive` directory.*
