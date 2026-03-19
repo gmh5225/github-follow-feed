@@ -62,6 +62,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)
   > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [joemccann/x-bookmarks-pipeline](https://github.com/joemccann/x-bookmarks-pipeline)
+  > A multi-LLM Python pipeline that fetches your X (Twitter) bookmarks, classifies them by category, ex...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)
+  > Collaborator is a place to build with agents.
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [abarth/impression](https://github.com/abarth/impression)
@@ -73,5 +77,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-19 19:04:45 UTC*
+*Last updated at 2026-03-19 20:43:14 UTC*
 *Historical records are stored in the `archive` directory.*
