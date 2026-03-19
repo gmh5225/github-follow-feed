@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [AsierRF](https://github.com/AsierRF)
+- 🌟 👤 [AsierRF](https://github.com/AsierRF) Starred [AsierRF/SecureJS](https://github.com/AsierRF/SecureJS)
+  > SecureJS: Secure the JavaScript execution in the client device
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lidongyooo/GumTrace](https://github.com/lidongyooo/GumTrace) to [CrackerCat/GumTrace](https://github.com/CrackerCat/GumTrace)
   > 基于 Frida Gum (Stalker) 引擎的 ARM64 动态指令追踪工具，支持 Android 和 iOS 平台。
@@ -77,5 +81,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-19 20:43:14 UTC*
+*Last updated at 2026-03-19 21:40:26 UTC*
 *Historical records are stored in the `archive` directory.*
