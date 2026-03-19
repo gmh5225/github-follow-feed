@@ -21,6 +21,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [mrphrazer/agentic-malware-analysis](https://github.com/mrphrazer/agentic-malware-analysis)
   > Agentic malware analysis environment with MCP-connected disassemblers, RE tooling, and structured wo...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [baksmali/smali](https://github.com/baksmali/smali)
+  > smali and baksmali - release artifacts for all versions (v3 by @google, v2 and v1 by @JesusFreke)
 
 ### [ggoodman](https://github.com/ggoodman)
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec)
@@ -51,7 +53,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [can1357/unbun](https://github.com/can1357/unbun)
   > Python utility for extracting Bun standalone JS bundles.
 
+### [vitosans](https://github.com/vitosans)
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) to [vitosans/OpenAlice](https://github.com/vitosans/OpenAlice)
+  > File-driven AI trading agent engine for crypto and securities markets
+
 
 ---
-*Last updated at 2026-03-19 14:53:23 UTC*
+*Last updated at 2026-03-19 15:58:35 UTC*
 *Historical records are stored in the `archive` directory.*
