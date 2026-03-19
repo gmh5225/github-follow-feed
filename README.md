@@ -62,6 +62,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Python utility for extracting Bun standalone JS bundles.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
   > OpenClaw-RL: Train any agent simply by talking
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
+  > A fast, helpful, and open-source document parser
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)
@@ -70,6 +72,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A multi-LLM Python pipeline that fetches your X (Twitter) bookmarks, classifies them by category, ex...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)
   > Collaborator is a place to build with agents.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)
+  > An open-source background agents coding system
 
 ### [pwnall](https://github.com/pwnall)
 - 🌟 👤 [pwnall](https://github.com/pwnall) Starred [abarth/impression](https://github.com/abarth/impression)
@@ -81,5 +85,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-19 21:40:26 UTC*
+*Last updated at 2026-03-19 22:33:44 UTC*
 *Historical records are stored in the `archive` directory.*
