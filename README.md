@@ -28,6 +28,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec)
   > Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No c...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
+  > A fast, helpful, and open-source document parser
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [iliazintchenko/agent-sat](https://github.com/iliazintchenko/agent-sat)
   > Agent learns to become the worlds top expert on SAT
@@ -55,11 +59,19 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Gen-Verse/OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL)
   > OpenClaw-RL: Train any agent simply by talking
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)
+  > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
+
+### [pwnall](https://github.com/pwnall)
+- 🌟 👤 [pwnall](https://github.com/pwnall) Starred [abarth/impression](https://github.com/abarth/impression)
+  > Digital impressionism
+
 ### [vitosans](https://github.com/vitosans)
 - 🍴 👤 [vitosans](https://github.com/vitosans) Forked [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice) to [vitosans/OpenAlice](https://github.com/vitosans/OpenAlice)
   > File-driven AI trading agent engine for crypto and securities markets
 
 
 ---
-*Last updated at 2026-03-19 17:07:44 UTC*
+*Last updated at 2026-03-19 19:04:45 UTC*
 *Historical records are stored in the `archive` directory.*
