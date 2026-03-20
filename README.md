@@ -8,6 +8,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [KlingAIResearch/X-Dub](https://github.com/KlingAIResearch/X-Dub)
   > Try X-Dub to sync any character in a video with any audio you like | Official repository for "From I...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp)
+  > 为 AI Agent 设计的 JS 逆向 MCP Server，内置反检测，基于 chrome-devtools-mcp 重构 | JS reverse engineering MCP server ...
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [buzzer-re/Rikugan](https://github.com/buzzer-re/Rikugan)
+  > A reverse-engineering agent for IDA Pro and Binary Ninja
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
@@ -29,7 +35,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [gastownhall/gascity](https://github.com/gastownhall/gascity) to [jakehemmerle/gascity](https://github.com/jakehemmerle/gascity)
   > Orchestration-builder SDK for multi-agent coding workflows
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [joelhooks/effectts-skills](https://github.com/joelhooks/effectts-skills)
+  > ⚡ Effect-TS v4 agent skill — services, layers, schemas, errors, testing, HTTP, CLI, config
+
 
 ---
-*Last updated at 2026-03-20 07:03:53 UTC*
+*Last updated at 2026-03-20 08:49:56 UTC*
 *Historical records are stored in the `archive` directory.*
