@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [EloiStree](https://github.com/EloiStree)
+- 🍴 👤 [EloiStree](https://github.com/EloiStree) Forked [3P0D/EDU_G_LPChararacterShowroom](https://github.com/3P0D/EDU_G_LPChararacterShowroom) to [EloiStree/fork_2026_03_15_godot_gaming_300_3pod](https://github.com/EloiStree/fork_2026_03_15_godot_gaming_300_3pod)
+  > project template for a small exercise in integrating assets into a given pipeline.
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [KlingAIResearch/X-Dub](https://github.com/KlingAIResearch/X-Dub)
   > Try X-Dub to sync any character in a video with any audio you like | Official repository for "From I...
@@ -41,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-20 08:49:56 UTC*
+*Last updated at 2026-03-20 09:49:50 UTC*
 *Historical records are stored in the `archive` directory.*
