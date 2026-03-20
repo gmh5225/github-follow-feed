@@ -46,6 +46,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn)
   > Tiny process execution for humans — a better child_process
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MaliNamNam/pi-phone](https://github.com/MaliNamNam/pi-phone)
+  >  A phone-first remote UI for Pi that lets you drive a real Pi session from your phone.  pi-phone sta...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [joelhooks/effectts-skills](https://github.com/joelhooks/effectts-skills)
@@ -53,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-20 14:48:53 UTC*
+*Last updated at 2026-03-20 15:49:09 UTC*
 *Historical records are stored in the `archive` directory.*
