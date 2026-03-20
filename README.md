@@ -68,6 +68,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   >  A phone-first remote UI for Pi that lets you drive a real Pi session from your phone.  pi-phone sta...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [runablehq/mini-browser](https://github.com/runablehq/mini-browser)
   > An agent first browser cli
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [joelhooks/effectts-skills](https://github.com/joelhooks/effectts-skills)
@@ -75,5 +77,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-20 21:35:10 UTC*
+*Last updated at 2026-03-20 22:33:42 UTC*
 *Historical records are stored in the `archive` directory.*
