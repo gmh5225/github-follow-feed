@@ -25,6 +25,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
   > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [AnalogCyberNuke/perm_poly_tool](https://github.com/AnalogCyberNuke/perm_poly_tool)
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
@@ -77,5 +78,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-20 22:33:42 UTC*
+*Last updated at 2026-03-20 23:33:57 UTC*
 *Historical records are stored in the `archive` directory.*
