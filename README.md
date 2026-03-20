@@ -39,11 +39,19 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [jakehemmerle](https://github.com/jakehemmerle) Forked [gastownhall/gascity](https://github.com/gastownhall/gascity) to [jakehemmerle/gascity](https://github.com/jakehemmerle/gascity)
   > Orchestration-builder SDK for multi-agent coding workflows
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jonny-jhnson/MSFT_DriverBlockList](https://github.com/jonny-jhnson/MSFT_DriverBlockList)
+  > Repository of Microsoft Driver Block Lists based off of OS-builds
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn)
+  > Tiny process execution for humans — a better child_process
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [joelhooks/effectts-skills](https://github.com/joelhooks/effectts-skills)
   > ⚡ Effect-TS v4 agent skill — services, layers, schemas, errors, testing, HTTP, CLI, config
 
 
 ---
-*Last updated at 2026-03-20 11:35:28 UTC*
+*Last updated at 2026-03-20 13:09:43 UTC*
 *Historical records are stored in the `archive` directory.*
