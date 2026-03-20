@@ -27,11 +27,17 @@ Today's public activity from users I follow (updated every 15 minutes).
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Lil-House/Pyarmor-Static-Unpack-1shot](https://github.com/Lil-House/Pyarmor-Static-Unpack-1shot)
   > ✅ No execution ✅ Pyarmor 8.0 - 9.2.x (latest) ✅ Universal ✅ Statically convert obfuscated Python scr...
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [yWorks/yGuard](https://github.com/yWorks/yGuard)
+  > The open-source Java obfuscation tool working with Ant and Gradle by yWorks - the diagramming expert...
 
 ### [geohot](https://github.com/geohot)
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth)
   > OpenCode plugin that uses your existing Claude Code credentials — no separate login needed
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [dotCipher/opencode-anthropic-user-agent-plugin](https://github.com/dotCipher/opencode-anthropic-user-agent-plugin)
+
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [georust/geo-index](https://github.com/georust/geo-index)
+  > A Rust crate and Python library for packed, immutable, zero-copy spatial indexes.
 
 ### [helloobaby](https://github.com/helloobaby)
 - 🌟 👤 [helloobaby](https://github.com/helloobaby) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
@@ -46,12 +52,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jonny-jhnson/MSFT_DriverBlockList](https://github.com/jonny-jhnson/MSFT_DriverBlockList)
   > Repository of Microsoft Driver Block Lists based off of OS-builds
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mildsunrise/cffi-mkstub](https://github.com/mildsunrise/cffi-mkstub)
+  > ⚙️ Type stub generator for cffi modules
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mildsunrise/uefi_structs](https://github.com/mildsunrise/uefi_structs)
+  > ⚙️ Python library for UEFI variable manipulation
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn)
   > Tiny process execution for humans — a better child_process
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MaliNamNam/pi-phone](https://github.com/MaliNamNam/pi-phone)
   >  A phone-first remote UI for Pi that lets you drive a real Pi session from your phone.  pi-phone sta...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [runablehq/mini-browser](https://github.com/runablehq/mini-browser)
+  > An agent first browser cli
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [joelhooks/effectts-skills](https://github.com/joelhooks/effectts-skills)
@@ -59,5 +71,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-20 19:40:02 UTC*
+*Last updated at 2026-03-20 20:38:03 UTC*
 *Historical records are stored in the `archive` directory.*
