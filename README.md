@@ -37,8 +37,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Chainlift/liftkit](https://github.com/Chainlift/liftkit)
   > Components from design to production
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [remorses/lintcn](https://github.com/remorses/lintcn)
+  > The shadcn for TypeScript lint rules. Browse, pick, and copy rules into your project. Let agents wri...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [truongduy2611/app-store-preflight-skills](https://github.com/truongduy2611/app-store-preflight-skills)
+  > AI agent skill to scan iOS/macOS projects for App Store rejection patterns before submission
 
 
 ---
-*Last updated at 2026-03-21 18:42:10 UTC*
+*Last updated at 2026-03-21 19:29:11 UTC*
 *Historical records are stored in the `archive` directory.*
