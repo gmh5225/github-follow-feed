@@ -10,6 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Soul-AILab/SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast) to [IuvenisSapiens/SoulX-Podcast](https://github.com/IuvenisSapiens/SoulX-Podcast)
   > SoulX-Podcast is an inference codebase by the Soul AI team for generating high-fidelity podcasts fro...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [Eric-Song-Nop/mobvibe](https://github.com/Eric-Song-Nop/mobvibe)
+  > Just a open Claude Code Remote Control
+
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef)
@@ -35,6 +39,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, a...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deathbyknowledge/ripgit](https://github.com/deathbyknowledge/ripgit)
   > A fast, searchable, self-hosted Git remote built with Durable Objects
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [math-inc/OpenGauss](https://github.com/math-inc/OpenGauss)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling)
+  > A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascunt...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Chainlift/liftkit](https://github.com/Chainlift/liftkit)
@@ -46,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-21 21:30:03 UTC*
+*Last updated at 2026-03-21 22:30:41 UTC*
 *Historical records are stored in the `archive` directory.*
