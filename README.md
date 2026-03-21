@@ -10,6 +10,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Soul-AILab/SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast) to [IuvenisSapiens/SoulX-Podcast](https://github.com/IuvenisSapiens/SoulX-Podcast)
   > SoulX-Podcast is an inference codebase by the Soul AI team for generating high-fidelity podcasts fro...
 
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
+
 ### [geohot](https://github.com/geohot)
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth)
   > OpenCode plugin that uses your existing Claude Code credentials — no separate login needed
@@ -25,5 +28,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-21 09:37:00 UTC*
+*Last updated at 2026-03-21 10:32:28 UTC*
 *Historical records are stored in the `archive` directory.*
