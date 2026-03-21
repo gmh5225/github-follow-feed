@@ -14,6 +14,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [Ahmeth4n/renef](https://github.com/Ahmeth4n/renef)
   > mobile reverse engineering framework
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
 
 ### [geohot](https://github.com/geohot)
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth)
@@ -44,5 +46,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-21 19:29:11 UTC*
+*Last updated at 2026-03-21 20:32:55 UTC*
 *Historical records are stored in the `archive` directory.*
