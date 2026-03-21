@@ -19,6 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth)
   > OpenCode plugin that uses your existing Claude Code credentials — no separate login needed
 
+### [ggoodman](https://github.com/ggoodman)
+- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [torkbot/sledge](https://github.com/torkbot/sledge)
+  > A SQLite-backed event and work engine that stays consistent across retries, restarts, and failures.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [baochip/baochip-1x](https://github.com/baochip/baochip-1x)
   > Baochip 1x Silicon
@@ -32,5 +36,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-21 15:30:50 UTC*
+*Last updated at 2026-03-21 16:35:51 UTC*
 *Historical records are stored in the `archive` directory.*
