@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Soul-AILab/SoulX-Singer](https://github.com/Soul-AILab/SoulX-Singer) to [IuvenisSapiens/SoulX-Singer](https://github.com/IuvenisSapiens/SoulX-Singer)
+  > Official inference code for SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Soul-AILab/SoulX-Podcast](https://github.com/Soul-AILab/SoulX-Podcast) to [IuvenisSapiens/SoulX-Podcast](https://github.com/IuvenisSapiens/SoulX-Podcast)
+  > SoulX-Podcast is an inference codebase by the Soul AI team for generating high-fidelity podcasts fro...
+
 ### [geohot](https://github.com/geohot)
 - 🌟 👤 [geohot](https://github.com/geohot) Starred [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth)
   > OpenCode plugin that uses your existing Claude Code credentials — no separate login needed
@@ -19,5 +25,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-21 02:26:00 UTC*
+*Last updated at 2026-03-21 04:40:53 UTC*
 *Historical records are stored in the `archive` directory.*
