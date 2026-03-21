@@ -27,8 +27,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justram/pi-serini](https://github.com/justram/pi-serini)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thesophiaxu/contextd](https://github.com/thesophiaxu/contextd)
   > An efficient macOS app that continuously captures your screen activity, summarizes it with an LLM, a...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deathbyknowledge/ripgit](https://github.com/deathbyknowledge/ripgit)
+  > A fast, searchable, self-hosted Git remote built with Durable Objects
 
 
 ---
-*Last updated at 2026-03-21 14:31:54 UTC*
+*Last updated at 2026-03-21 15:30:50 UTC*
 *Historical records are stored in the `archive` directory.*
