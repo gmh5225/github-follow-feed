@@ -4,6 +4,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yichengup/ComfyUI-YCNodes_Toolkit](https://github.com/yichengup/ComfyUI-YCNodes_Toolkit)
+  > 主要是一些前端类的节点集合，有趣，有用
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [yichengup/ComfyUI-YCNodes_Toolkit](https://github.com/yichengup/ComfyUI-YCNodes_Toolkit) to [IuvenisSapiens/ComfyUI-YCNodes_Toolkit](https://github.com/IuvenisSapiens/ComfyUI-YCNodes_Toolkit)
+  > 主要是一些前端类的节点集合，有趣，有用
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yichengup/ComfyUI-MusicPlayerNode](https://github.com/yichengup/ComfyUI-MusicPlayerNode)
+  > MusicPlayerNode
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [yichengup/ComfyUI-MusicPlayerNode](https://github.com/yichengup/ComfyUI-MusicPlayerNode) to [IuvenisSapiens/ComfyUI-MusicPlayerNode](https://github.com/IuvenisSapiens/ComfyUI-MusicPlayerNode)
+  > MusicPlayerNode
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yichengup/ComfyUI_YC_VideoCutHelper](https://github.com/yichengup/ComfyUI_YC_VideoCutHelper)
+  > Node-based video editing template
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [yichengup/ComfyUI_YC_VideoCutHelper](https://github.com/yichengup/ComfyUI_YC_VideoCutHelper) to [IuvenisSapiens/ComfyUI_YC_VideoCutHelper](https://github.com/IuvenisSapiens/ComfyUI_YC_VideoCutHelper)
+  > Node-based video editing template
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [wong2/weixin-agent-sdk](https://github.com/wong2/weixin-agent-sdk)
 
@@ -26,6 +40,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Miscellaneous small utilities to aid in the development and reverse engineering of PCI devices.
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyrozap/thunderbolt-re](https://github.com/cyrozap/thunderbolt-re)
   > Collection of notes, documentation, and utilities related to reverse engineering the inner workings ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [fayalalebrun/SpinalVoodoo](https://github.com/fayalalebrun/SpinalVoodoo)
+  > SpinalHDL implementation of the 3dfx Voodoo Graphics GPU
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amanhij/Zikkaron](https://github.com/amanhij/Zikkaron)
@@ -50,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-22 22:30:49 UTC*
+*Last updated at 2026-03-22 23:33:32 UTC*
 *Historical records are stored in the `archive` directory.*
