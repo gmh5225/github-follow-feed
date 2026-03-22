@@ -32,6 +32,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Biologically-inspired persistent memory engine for Claude Code. 26 cognitive subsystems, Hopfield ne...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [denismrvoljak/pi-tutor](https://github.com/denismrvoljak/pi-tutor)
   > A personal tutor extension for pi that adapts to your  learning style, remembers what you're learnin...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [rweijnen/MDView](https://github.com/rweijnen/MDView) to [mrexodia/MDView](https://github.com/mrexodia/MDView)
+  > Markdown viewer - Total Commander Lister plugin and standalone executable
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [relsunkaev/effect-qb](https://github.com/relsunkaev/effect-qb)
@@ -40,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-22 15:31:09 UTC*
+*Last updated at 2026-03-22 16:36:45 UTC*
 *Historical records are stored in the `archive` directory.*
