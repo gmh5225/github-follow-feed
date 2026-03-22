@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amanhij/Zikkaron](https://github.com/amanhij/Zikkaron)
+  > Biologically-inspired persistent memory engine for Claude Code. 26 cognitive subsystems, Hopfield ne...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [relsunkaev/effect-qb](https://github.com/relsunkaev/effect-qb)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac)
@@ -11,5 +15,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-22 10:32:43 UTC*
+*Last updated at 2026-03-22 11:28:11 UTC*
 *Historical records are stored in the `archive` directory.*
