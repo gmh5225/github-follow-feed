@@ -36,13 +36,19 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Markdown viewer - Total Commander Lister plugin and standalone executable
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coctostan/pi-hashline-readmap](https://github.com/coctostan/pi-hashline-readmap)
   > A unified pi-coding-agent extension combining hash-anchored file editing with structural code maps
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenCppCoverage/OpenCppCoverage](https://github.com/OpenCppCoverage/OpenCppCoverage)
+  > OpenCppCoverage is an open source code coverage tool for C++ under Windows.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [relsunkaev/effect-qb](https://github.com/relsunkaev/effect-qb)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [blitzdotdev/blitz-mac](https://github.com/blitzdotdev/blitz-mac)
   > Blitz mac app
 
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [predict-woo/qwen3-asr.cpp](https://github.com/predict-woo/qwen3-asr.cpp) to [woct0rdho/qwen3-asr.cpp](https://github.com/woct0rdho/qwen3-asr.cpp)
+  > Implementation of Qwen3-ASR-0.6B in GGML
+
 
 ---
-*Last updated at 2026-03-22 18:43:45 UTC*
+*Last updated at 2026-03-22 19:30:33 UTC*
 *Historical records are stored in the `archive` directory.*
