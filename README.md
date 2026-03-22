@@ -14,6 +14,18 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Altera Agilex 7 PTP System Example Design
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyrozap/pcbrepair-rs](https://github.com/cyrozap/pcbrepair-rs)
   > Rust library for parsing ASUS "PCBRepair Tool" .FZ and ASRock "PCBRepair Pro" .CAE boardview files.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyrozap/usbtop-ebpf](https://github.com/cyrozap/usbtop-ebpf)
+  > A top-like tool for monitoring USB traffic using eBPF, inspired by usbtop.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyrozap/nct-sio-debug-re](https://github.com/cyrozap/nct-sio-debug-re)
+  > Reverse engineering Nuvoton's serial Port 80h protocol. Sometimes referred to as "COM_DEBUG" (ASUS),...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyrozap/GhidrAssistMCP](https://github.com/cyrozap/GhidrAssistMCP)
+  > An MCP extension for Ghidra
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyrozap/misc-llm](https://github.com/cyrozap/misc-llm)
+  > Miscellaneous LLM-related tools.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyrozap/misc-pci](https://github.com/cyrozap/misc-pci)
+  > Miscellaneous small utilities to aid in the development and reverse engineering of PCI devices.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [cyrozap/thunderbolt-re](https://github.com/cyrozap/thunderbolt-re)
+  > Collection of notes, documentation, and utilities related to reverse engineering the inner workings ...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amanhij/Zikkaron](https://github.com/amanhij/Zikkaron)
@@ -28,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-22 13:01:50 UTC*
+*Last updated at 2026-03-22 14:32:56 UTC*
 *Historical records are stored in the `archive` directory.*
