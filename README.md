@@ -59,8 +59,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [meodai/skill.color-expert](https://github.com/meodai/skill.color-expert)
   > Agent skill for color science expertise. 113 references covering color spaces, accessibility (APCA, ...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [davej/pocodex](https://github.com/davej/pocodex)
 
 
 ---
-*Last updated at 2026-03-23 17:53:49 UTC*
+*Last updated at 2026-03-23 19:01:31 UTC*
 *Historical records are stored in the `archive` directory.*
