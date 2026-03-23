@@ -19,6 +19,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A tool to detect root on Android
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [superturtlee/gbl_root_canoe](https://github.com/superturtlee/gbl_root_canoe) to [CrackerCat/gbl_root_canoe](https://github.com/CrackerCat/gbl_root_canoe)
   > 凭什么ROOT就不给用指纹支付？？？
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NoOne-hub/JSReverser-MCP](https://github.com/NoOne-hub/JSReverser-MCP) to [CrackerCat/JSReverser-MCP](https://github.com/CrackerCat/JSReverser-MCP)
+  > JSReverser-MCP 是一个面向 JavaScript 逆向分析的 MCP 工具，专门用于帮助开发者在真实浏览器环境中高效定位前端核心逻辑。它   将脚本检索、断点调试、函数 Hook、网络请...
 
 ### [Lynnette177](https://github.com/Lynnette177)
 - 🍴 👤 [Lynnette177](https://github.com/Lynnette177) Forked [htimesnine/DarkSword-RCE](https://github.com/htimesnine/DarkSword-RCE) to [Lynnette177/DarkSword-RCE](https://github.com/Lynnette177/DarkSword-RCE)
@@ -34,6 +36,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw)
   > Connect to any agents with WeChat ClawBot.
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+  > "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ashvardanian/NumWars](https://github.com/ashvardanian/NumWars)
@@ -49,5 +53,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-23 11:49:26 UTC*
+*Last updated at 2026-03-23 13:18:27 UTC*
 *Historical records are stored in the `archive` directory.*
