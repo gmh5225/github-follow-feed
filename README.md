@@ -44,6 +44,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Mixed-precision numerics benchmarks in Rust and Python - covering GEMMs, SYRKs, DOTs, and higher-lev...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jtsylve/spice-crypt](https://github.com/jtsylve/spice-crypt)
   > A Python library and CLI tool for decrypting encrypted SPICE model files, enabling engineers to use ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server ...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [OpenDriver2/PsyCross](https://github.com/OpenDriver2/PsyCross)
+  > Compatibility framework for building and running Psy-Q SDK - based Playstation games across other pl...
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)
@@ -55,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-23 15:00:09 UTC*
+*Last updated at 2026-03-23 16:06:55 UTC*
 *Historical records are stored in the `archive` directory.*
