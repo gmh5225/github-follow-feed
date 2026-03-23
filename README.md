@@ -42,6 +42,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ashvardanian/NumWars](https://github.com/ashvardanian/NumWars)
   > Mixed-precision numerics benchmarks in Rust and Python - covering GEMMs, SYRKs, DOTs, and higher-lev...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [jtsylve/spice-crypt](https://github.com/jtsylve/spice-crypt)
+  > A Python library and CLI tool for decrypting encrypted SPICE model files, enabling engineers to use ...
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [openclaw/clawhub](https://github.com/openclaw/clawhub)
@@ -53,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-23 13:18:27 UTC*
+*Last updated at 2026-03-23 15:00:09 UTC*
 *Historical records are stored in the `archive` directory.*
