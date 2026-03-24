@@ -18,6 +18,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [allthingsida/idacpp](https://github.com/allthingsida/idacpp)
+  > A C++ REPL for IDA Pro / IDA C++ SDK
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [aimardcr/dl_interceptor](https://github.com/aimardcr/dl_interceptor)
@@ -32,6 +34,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [devcontainers/cli](https://github.com/devcontainers/cli) to [mrexodia/cli](https://github.com/mrexodia/cli)
   > A reference implementation for the specification that can create and configure a dev container from ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/idacpp](https://github.com/allthingsida/idacpp)
+  > A C++ REPL for IDA Pro / IDA C++ SDK
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/clinglite](https://github.com/0xeb/clinglite)
+  > Clinglite is a lightweight C++ wrapper on top of Cling (the interactive C++ interpreter from CERN)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [navigator-zip/navigator](https://github.com/navigator-zip/navigator)
@@ -44,5 +50,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-24 21:41:59 UTC*
+*Last updated at 2026-03-24 22:37:23 UTC*
 *Historical records are stored in the `archive` directory.*
