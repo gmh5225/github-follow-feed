@@ -19,6 +19,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [aimardcr/dl_interceptor](https://github.com/aimardcr/dl_interceptor)
   > Android library to intercept ELF .init_array/.fini_array execution with pre/post callbacks. All ABIs...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
+  > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [navigator-zip/navigator](https://github.com/navigator-zip/navigator)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [adibhanna/tsm](https://github.com/adibhanna/tsm)
@@ -30,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-24 07:56:02 UTC*
+*Last updated at 2026-03-24 09:00:23 UTC*
 *Historical records are stored in the `archive` directory.*
