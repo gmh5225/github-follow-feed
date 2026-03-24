@@ -28,6 +28,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [safedep/pmg](https://github.com/safedep/pmg)
   > PMG protects developers from getting hacked by malicious open source packages. Stop the next Shai-Hu...
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [anomalyco/models.dev](https://github.com/anomalyco/models.dev)
+  > An open-source database of AI models.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
@@ -50,5 +52,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-24 22:37:23 UTC*
+*Last updated at 2026-03-24 23:36:44 UTC*
 *Historical records are stored in the `archive` directory.*
