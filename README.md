@@ -30,6 +30,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
   > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [devcontainers/cli](https://github.com/devcontainers/cli) to [mrexodia/cli](https://github.com/mrexodia/cli)
+  > A reference implementation for the specification that can create and configure a dev container from ...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [navigator-zip/navigator](https://github.com/navigator-zip/navigator)
@@ -42,5 +44,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-24 19:10:10 UTC*
+*Last updated at 2026-03-24 20:49:06 UTC*
 *Historical records are stored in the `archive` directory.*
