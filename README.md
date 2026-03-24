@@ -12,12 +12,20 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Lynnette177](https://github.com/Lynnette177) Starred [opa334/darksword-kexploit](https://github.com/opa334/darksword-kexploit)
   > iOS <=26.0.1 DarkSword Kernel Exploit reimplemented in Objective-C
 
+### [Razzue](https://github.com/Razzue)
+- 🍴 👤 [Razzue](https://github.com/Razzue) Forked [dahall/Vanara](https://github.com/dahall/Vanara) to [Razzue/Vanara](https://github.com/Razzue/Vanara)
+  > A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supp...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 
 ### [eybisi](https://github.com/eybisi)
 - 🌟 👤 [eybisi](https://github.com/eybisi) Starred [aimardcr/dl_interceptor](https://github.com/aimardcr/dl_interceptor)
   > Android library to intercept ELF .init_array/.fini_array execution with pre/post callbacks. All ABIs...
+
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [safedep/pmg](https://github.com/safedep/pmg)
+  > PMG protects developers from getting hacked by malicious open source packages. Stop the next Shai-Hu...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
@@ -34,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-24 15:03:02 UTC*
+*Last updated at 2026-03-24 17:04:33 UTC*
 *Historical records are stored in the `archive` directory.*
