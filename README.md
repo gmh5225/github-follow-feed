@@ -46,6 +46,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/bnsql](https://github.com/0xeb/bnsql)
   > SQL interface to Binary Ninja databases
 
+### [kijai](https://github.com/kijai)
+- 🍴 👤 [kijai](https://github.com/kijai) Forked [Comfy-Org/comfy-kitchen](https://github.com/Comfy-Org/comfy-kitchen) to [kijai/comfy-kitchen](https://github.com/kijai/comfy-kitchen)
+  > Fast kernel library for Diffusion inference with multiple compute backends.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
   > Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals
@@ -62,5 +66,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-25 15:04:46 UTC*
+*Last updated at 2026-03-25 17:08:39 UTC*
 *Historical records are stored in the `archive` directory.*
