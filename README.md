@@ -33,6 +33,18 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Python wrapper for xctrace export XML parsing with MCP server
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChipFlow/context-daddy](https://github.com/ChipFlow/context-daddy)
   > Context management tools for Claude Code: project manifest, repo map with duplicate detection, and l...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [allthingsida/idacpp](https://github.com/allthingsida/idacpp)
+  > A C++ REPL for IDA Pro / IDA C++ SDK
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/clinglite](https://github.com/0xeb/clinglite)
+  > Clinglite is a lightweight C++ wrapper on top of Cling (the interactive C++ interpreter from CERN)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/dwarfsql](https://github.com/0xeb/dwarfsql)
+  > SQL interface to DWARF debug info
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/clangsql](https://github.com/0xeb/clangsql)
+  > SQL interface for Clang AST databases
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/pdbsql](https://github.com/0xeb/pdbsql)
+  > PDB SQL tool
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [0xeb/bnsql](https://github.com/0xeb/bnsql)
+  > SQL interface to Binary Ninja databases
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
@@ -50,5 +62,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-25 13:21:30 UTC*
+*Last updated at 2026-03-25 15:04:46 UTC*
 *Historical records are stored in the `archive` directory.*
