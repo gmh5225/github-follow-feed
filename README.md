@@ -65,6 +65,7 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [millionco/expect](https://github.com/millionco/expect)
   > Let agents test your code in a real browser
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remote-exercise-framework/ref](https://github.com/remote-exercise-framework/ref)
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [bbarabe/HomeAssistant_SolArk](https://github.com/bbarabe/HomeAssistant_SolArk)
@@ -82,5 +83,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-25 22:41:14 UTC*
+*Last updated at 2026-03-25 23:39:51 UTC*
 *Historical records are stored in the `archive` directory.*
