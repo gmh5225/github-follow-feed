@@ -20,6 +20,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
   > An extremely fast Python linter and code formatter, written in Rust.
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
+  > Modern Docker Management, Designed for Everyone
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+  > Development at the speed of light
+
 ### [goto-bus-stop](https://github.com/goto-bus-stop)
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [metrics-rs/quanta](https://github.com/metrics-rs/quanta)
   > high-speed timing library in Rust
@@ -72,5 +78,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-25 20:44:22 UTC*
+*Last updated at 2026-03-25 21:44:51 UTC*
 *Historical records are stored in the `archive` directory.*
