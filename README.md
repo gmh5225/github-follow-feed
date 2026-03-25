@@ -60,6 +60,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [bbarabe/HomeAssistant_SolArk](https://github.com/bbarabe/HomeAssistant_SolArk)
   > HomeAssistant - SolArk Battery Inverter integration
 
+### [tmr232](https://github.com/tmr232)
+- 🚀 👤 [tmr232](https://github.com/tmr232) Made [tmr232/easy-eyes](https://github.com/tmr232/easy-eyes) public
+  > 20/20/20 timer
+
 ### [woldann](https://github.com/woldann)
 - 🌟 👤 [woldann](https://github.com/woldann) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
   > An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -68,5 +72,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-25 19:01:47 UTC*
+*Last updated at 2026-03-25 20:44:22 UTC*
 *Historical records are stored in the `archive` directory.*
