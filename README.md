@@ -20,6 +20,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
   > An extremely fast Python linter and code formatter, written in Rust.
 
+### [goto-bus-stop](https://github.com/goto-bus-stop)
+- 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [metrics-rs/quanta](https://github.com/metrics-rs/quanta)
+  > high-speed timing library in Rust
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
   > Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals
@@ -28,7 +32,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [bbarabe/HomeAssistant_SolArk](https://github.com/bbarabe/HomeAssistant_SolArk)
   > HomeAssistant - SolArk Battery Inverter integration
 
+### [woldann](https://github.com/woldann)
+- 🌟 👤 [woldann](https://github.com/woldann) Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+  > An open-source AI agent that brings the power of Gemini directly into your terminal.
+- 🍴 👤 [woldann](https://github.com/woldann) Forked [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) to [woldann/gemini-cli](https://github.com/woldann/gemini-cli)
+  > An open-source AI agent that brings the power of Gemini directly into your terminal.
+
 
 ---
-*Last updated at 2026-03-25 10:02:06 UTC*
+*Last updated at 2026-03-25 11:45:13 UTC*
 *Historical records are stored in the `archive` directory.*
