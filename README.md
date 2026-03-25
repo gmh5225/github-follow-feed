@@ -24,6 +24,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [goto-bus-stop](https://github.com/goto-bus-stop) Starred [metrics-rs/quanta](https://github.com/metrics-rs/quanta)
   > high-speed timing library in Rust
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [huggingface/hf-mount](https://github.com/huggingface/hf-mount) to [jedisct1/hf-mount-encrypted](https://github.com/jedisct1/hf-mount-encrypted)
+  > Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [robtaylor/apple-profiler](https://github.com/robtaylor/apple-profiler)
+  > Python wrapper for xctrace export XML parsing with MCP server
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [ChipFlow/context-daddy](https://github.com/ChipFlow/context-daddy)
+  > Context management tools for Claude Code: project manifest, repo map with duplicate detection, and l...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
   > Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals
@@ -40,5 +50,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-25 11:45:13 UTC*
+*Last updated at 2026-03-25 13:21:30 UTC*
 *Historical records are stored in the `archive` directory.*
