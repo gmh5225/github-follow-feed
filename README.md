@@ -20,6 +20,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
   > An extremely fast Python linter and code formatter, written in Rust.
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [aacebedo/dnsdock](https://github.com/aacebedo/dnsdock) to [NyaMisty/dnsdock](https://github.com/NyaMisty/dnsdock)
+  > DNS service discovery for Docker containers
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane)
   > Modern Docker Management, Designed for Everyone
@@ -78,5 +82,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-25 21:44:51 UTC*
+*Last updated at 2026-03-25 22:41:14 UTC*
 *Historical records are stored in the `archive` directory.*
