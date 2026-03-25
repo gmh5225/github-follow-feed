@@ -53,6 +53,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
   > Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [millionco/expect](https://github.com/millionco/expect)
+  > Let agents test your code in a real browser
 
 ### [stevemk14ebr](https://github.com/stevemk14ebr)
 - 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [bbarabe/HomeAssistant_SolArk](https://github.com/bbarabe/HomeAssistant_SolArk)
@@ -66,5 +68,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-25 17:08:39 UTC*
+*Last updated at 2026-03-25 19:01:47 UTC*
 *Historical records are stored in the `archive` directory.*
