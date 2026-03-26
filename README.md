@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [ptsouchlos/modern-cv](https://github.com/ptsouchlos/modern-cv)
+  > A modern resume template written in Typst, inspired by Awesome-CV
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF) to [CrackerCat/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/CrackerCat/CVE-2026-20687-AppleSEPKeyStore-UAF)
   > CVE-2026-20687: AppleSEPKeyStore Use-After-Free — iOS/macOS kernel vulnerability (patched in 26.4)
@@ -39,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-26 22:35:38 UTC*
+*Last updated at 2026-03-26 23:37:16 UTC*
 *Historical records are stored in the `archive` directory.*
