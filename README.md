@@ -29,6 +29,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating pr...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nico/demumble](https://github.com/nico/demumble)
   > A better c++filt and a better undname.exe, in one binary.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mrphrazer/binary-cartography](https://github.com/mrphrazer/binary-cartography)
+  > Technical webinars on reverse engineering, malware analysis, and software protection.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmg-egg/slides-harness-engineering-with-pi](https://github.com/dmg-egg/slides-harness-engineering-with-pi)
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
@@ -36,5 +39,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-26 21:36:03 UTC*
+*Last updated at 2026-03-26 22:35:38 UTC*
 *Historical records are stored in the `archive` directory.*
