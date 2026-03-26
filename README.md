@@ -7,8 +7,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF) to [CrackerCat/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/CrackerCat/CVE-2026-20687-AppleSEPKeyStore-UAF)
   > CVE-2026-20687: AppleSEPKeyStore Use-After-Free — iOS/macOS kernel vulnerability (patched in 26.4)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FxxkLocation/FxxkLocaion](https://github.com/FxxkLocation/FxxkLocaion) to [CrackerCat/FxxkLocaion](https://github.com/CrackerCat/FxxkLocaion)
-  > 绕过Fakelocation Pro验证获取永久Pro，且绕过黑名单验证并添加GNSS Hook精准定位使其部分严格检测GPS应用接受模拟定位结果的Lsposed模块
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [t-tani/defender2yara](https://github.com/t-tani/defender2yara)
@@ -36,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-26 09:03:26 UTC*
+*Last updated at 2026-03-26 10:56:37 UTC*
 *Historical records are stored in the `archive` directory.*
