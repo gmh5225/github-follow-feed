@@ -27,12 +27,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrymunro/nelson](https://github.com/harrymunro/nelson)
   > Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating pr...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nico/demumble](https://github.com/nico/demumble)
+  > A better c++filt and a better undname.exe, in one binary.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
   > Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather...
 
+### [woldann](https://github.com/woldann)
+- 🍴 👤 [woldann](https://github.com/woldann) Forked [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) to [Cheatron/cheatron-cli](https://github.com/Cheatron/cheatron-cli)
+  > An open-source AI agent that brings the power of Gemini directly into your terminal.
+
 
 ---
-*Last updated at 2026-03-26 11:54:37 UTC*
+*Last updated at 2026-03-26 13:28:09 UTC*
 *Historical records are stored in the `archive` directory.*
