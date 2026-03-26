@@ -12,6 +12,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [t-tani/defender2yara](https://github.com/t-tani/defender2yara)
   > Convert Microsoft Defender Antivirus Signatures (VDM) into YARA rules
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [haofanwang/skills](https://github.com/haofanwang/skills)
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [13est-Wishes/Linear_Layers_by_YongchaoLi](https://github.com/13est-Wishes/Linear_Layers_by_YongchaoLi)
   > This artifact provides the optimized circuit implementations (datasets/results) for the linear layer...
@@ -34,11 +37,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
   > Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather...
 
-### [woldann](https://github.com/woldann)
-- 🍴 👤 [woldann](https://github.com/woldann) Forked [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) to [Cheatron/cheatron-cli](https://github.com/Cheatron/cheatron-cli)
-  > An open-source AI agent that brings the power of Gemini directly into your terminal.
-
 
 ---
-*Last updated at 2026-03-26 13:28:09 UTC*
+*Last updated at 2026-03-26 15:09:38 UTC*
 *Historical records are stored in the `archive` directory.*
