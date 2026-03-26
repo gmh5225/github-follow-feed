@@ -7,6 +7,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/zeroxjf/CVE-2026-20687-AppleSEPKeyStore-UAF) to [CrackerCat/CVE-2026-20687-AppleSEPKeyStore-UAF](https://github.com/CrackerCat/CVE-2026-20687-AppleSEPKeyStore-UAF)
   > CVE-2026-20687: AppleSEPKeyStore Use-After-Free — iOS/macOS kernel vulnerability (patched in 26.4)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FxxkLocation/FxxkLocaion](https://github.com/FxxkLocation/FxxkLocaion) to [CrackerCat/FxxkLocaion](https://github.com/CrackerCat/FxxkLocaion)
+  > 绕过Fakelocation Pro验证获取永久Pro，且绕过黑名单验证并添加GNSS Hook精准定位使其部分严格检测GPS应用接受模拟定位结果的Lsposed模块
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [t-tani/defender2yara](https://github.com/t-tani/defender2yara)
+  > Convert Microsoft Defender Antivirus Signatures (VDM) into YARA rules
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [13est-Wishes/Linear_Layers_by_YongchaoLi](https://github.com/13est-Wishes/Linear_Layers_by_YongchaoLi)
@@ -16,11 +22,19 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HexRaysSA/ida-sdk](https://github.com/HexRaysSA/ida-sdk)
   > This repository offers an open-source C++ SDK bindings for IDA, enabling custom plugin development a...
 
+### [joydo](https://github.com/joydo)
+- 🍴 👤 [joydo](https://github.com/joydo) Forked [Aar0n3906/Taint-Rev-Trace](https://github.com/Aar0n3906/Taint-Rev-Trace) to [joydo/Taint-Rev-Trace](https://github.com/joydo/Taint-Rev-Trace)
+  > 支持MCP调用的ARM Trace污点追踪与条件搜索工具，集成可视化UI、ARM64污点追踪分析与大文件Trace搜索。
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrymunro/nelson](https://github.com/harrymunro/nelson)
   > Coordinate agent teams in Claude Code using a Royal Navy inspired command structure and operating pr...
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)
+  > Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather...
+
 
 ---
-*Last updated at 2026-03-26 05:10:14 UTC*
+*Last updated at 2026-03-26 07:16:11 UTC*
 *Historical records are stored in the `archive` directory.*
