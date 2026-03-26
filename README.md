@@ -12,9 +12,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [t-tani/defender2yara](https://github.com/t-tani/defender2yara)
   > Convert Microsoft Defender Antivirus Signatures (VDM) into YARA rules
 
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [haofanwang/skills](https://github.com/haofanwang/skills)
-
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [13est-Wishes/Linear_Layers_by_YongchaoLi](https://github.com/13est-Wishes/Linear_Layers_by_YongchaoLi)
   > This artifact provides the optimized circuit implementations (datasets/results) for the linear layer...
@@ -39,5 +36,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-26 15:09:38 UTC*
+*Last updated at 2026-03-26 17:08:18 UTC*
 *Historical records are stored in the `archive` directory.*
