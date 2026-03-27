@@ -12,6 +12,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🚀 👤 [EloiStree](https://github.com/EloiStree) Made [EloiStree/2026_03_23_gdp_github_api_utility](https://github.com/EloiStree/2026_03_23_gdp_github_api_utility) public
   > Godot Script to make GitHub interaction like download the issues
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) to [IuvenisSapiens/arxiv-latex-cleaner](https://github.com/IuvenisSapiens/arxiv-latex-cleaner)
+  > arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) to [IuvenisSapiens/tinymist](https://github.com/IuvenisSapiens/tinymist)
+  > Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB)
+  > An open-source Simplified Chinese font derived from Klee One.
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [takushun-wu/WenYuanFonts](https://github.com/takushun-wu/WenYuanFonts)
+  > 一种更加适合简体中文情景及其TeX领域的开源中文字体。/A more suitable open-source Chinese font collection for Simplified Chine...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
@@ -63,5 +73,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-27 22:37:46 UTC*
+*Last updated at 2026-03-27 23:37:54 UTC*
 *Historical records are stored in the `archive` directory.*
