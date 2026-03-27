@@ -32,6 +32,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
   > 🖍️ Convert anything to markdown. Mark it.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itigges22/ATLAS](https://github.com/itigges22/ATLAS)
+  > Adaptive Test-time Learning and Autonomous Specialization
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
@@ -43,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-27 13:16:38 UTC*
+*Last updated at 2026-03-27 14:55:35 UTC*
 *Historical records are stored in the `archive` directory.*
