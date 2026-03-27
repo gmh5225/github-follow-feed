@@ -20,11 +20,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [joernio/joern](https://github.com/joernio/joern)
   > Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code prop...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)
+
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP)
   >  Feishu / Lark 飞书文档与任务管理工具，支持 MCP 服务器和 CLI + Skill 两种使用方式，可无缝集成 Cursor、Claude Code、Cline 等 AI 编码工具
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
+  > 🖍️ Convert anything to markdown. Mark it.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
@@ -36,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-27 10:01:35 UTC*
+*Last updated at 2026-03-27 11:44:34 UTC*
 *Historical records are stored in the `archive` directory.*
