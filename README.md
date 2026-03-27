@@ -15,6 +15,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [P4nda0s/reverse-skills](https://github.com/P4nda0s/reverse-skills)
   > Reverse engineering skills for Claude Code | 逆向工程 Claude Code Skills 插件
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [ShiftLeftSecurity/codepropertygraph](https://github.com/ShiftLeftSecurity/codepropertygraph)
+  > Code Property Graph: specification, query language, and utilities
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [joernio/joern](https://github.com/joernio/joern)
+  > Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code prop...
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
@@ -27,8 +31,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 🖍️ Convert anything to markdown. Mark it.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [LucasHJin/vit](https://github.com/LucasHJin/vit)
   > Git for video editing.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher)
+  > A lightweight Python tool to clean AI refusal responses from Codex CLI session files
 
 
 ---
-*Last updated at 2026-03-27 05:11:15 UTC*
+*Last updated at 2026-03-27 07:15:22 UTC*
 *Historical records are stored in the `archive` directory.*
