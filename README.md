@@ -46,6 +46,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Adaptive Test-time Learning and Autonomous Specialization
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
   > Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deplo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zensical/zensical](https://github.com/zensical/zensical)
+  > A modern static site generator by the Material for MkDocs team
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pr0me/xtride](https://github.com/pr0me/xtride)
+  > Source code for XTRIDE: "Practical Type Inference: High-Throughput Recovery of Real-World Structures...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
@@ -59,5 +63,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-27 21:40:17 UTC*
+*Last updated at 2026-03-27 22:37:46 UTC*
 *Historical records are stored in the `archive` directory.*
