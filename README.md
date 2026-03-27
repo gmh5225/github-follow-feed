@@ -44,6 +44,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 🖍️ Convert anything to markdown. Mark it.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [itigges22/ATLAS](https://github.com/itigges22/ATLAS)
   > Adaptive Test-time Learning and Autonomous Specialization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deplo...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Michaelliv/markit](https://github.com/Michaelliv/markit)
@@ -57,5 +59,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-27 20:44:34 UTC*
+*Last updated at 2026-03-27 21:40:17 UTC*
 *Historical records are stored in the `archive` directory.*
