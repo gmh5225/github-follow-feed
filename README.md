@@ -20,8 +20,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [joernio/joern](https://github.com/joernio/joern)
   > Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code prop...
 
+### [NielsRogge](https://github.com/NielsRogge)
+- 🍴 👤 [NielsRogge](https://github.com/NielsRogge) Forked [facebookresearch/sam3](https://github.com/facebookresearch/sam3) to [NielsRogge/sam3](https://github.com/NielsRogge/sam3)
+  > The repository provides code for running inference and finetuning with the Meta Segment Anything Mod...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [TheTom/turboquant_plus](https://github.com/TheTom/turboquant_plus)
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrexodia/logging-proxy](https://github.com/mrexodia/logging-proxy)
+  > High performance reverse proxy for logging LLM traces (OpenRouter/LiteLLM)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [mrexodia/x86-real-mode-bootloader](https://github.com/mrexodia/x86-real-mode-bootloader)
+  > Boot loader and emulator for real mode written in C/Python.
 
 ### [joydo](https://github.com/joydo)
 - 🌟 👤 [joydo](https://github.com/joydo) Starred [badlogic/pi-mono](https://github.com/badlogic/pi-mono)
@@ -42,8 +52,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Git for video editing.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ryfineZ/codex-session-patcher](https://github.com/ryfineZ/codex-session-patcher)
   > A lightweight Python tool to clean AI refusal responses from Codex CLI session files
+- 🍴 👤 [niieani](https://github.com/niieani) Forked [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) to [niieani/agent-browser](https://github.com/niieani/agent-browser)
+  > Browser automation CLI for AI agents
 
 
 ---
-*Last updated at 2026-03-27 19:01:37 UTC*
+*Last updated at 2026-03-27 20:44:34 UTC*
 *Historical records are stored in the `archive` directory.*
