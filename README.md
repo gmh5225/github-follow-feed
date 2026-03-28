@@ -39,9 +39,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
   > A fast, native macOS database client with built-in AI assistant.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep)
-  > A path query language over JSON documents.
+  > A path query language for JSON, YAML, TOML, and other serialization formats.
 
 
 ---
-*Last updated at 2026-03-28 18:49:27 UTC*
+*Last updated at 2026-03-28 19:33:23 UTC*
 *Historical records are stored in the `archive` directory.*
