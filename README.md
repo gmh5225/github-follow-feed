@@ -10,7 +10,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono)
   > Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [larksuite/cli](https://github.com/larksuite/cli)
+
 
 ---
-*Last updated at 2026-03-28 06:02:39 UTC*
+*Last updated at 2026-03-28 07:46:35 UTC*
 *Historical records are stored in the `archive` directory.*
