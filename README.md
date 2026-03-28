@@ -29,6 +29,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [RazrFalcon/roxmltree](https://github.com/RazrFalcon/roxmltree)
   > Represent an XML document as a read-only tree.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [rust-scraper/ego-tree](https://github.com/rust-scraper/ego-tree)
+  > Vec-backed ID-tree
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)
@@ -53,5 +55,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-28 21:34:48 UTC*
+*Last updated at 2026-03-28 22:34:28 UTC*
 *Historical records are stored in the `archive` directory.*
