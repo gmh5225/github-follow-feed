@@ -21,6 +21,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [jorismak/convert_nvfp4](https://github.com/jorismak/convert_nvfp4)
   > conversion script for WAN/QWEN to nvfp4
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yfyang007/RealRestorer](https://github.com/yfyang007/RealRestorer)
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [ethanfel/ComfyUI-Prismaudio](https://github.com/ethanfel/ComfyUI-Prismaudio) to [IuvenisSapiens/ComfyUI-Prismaudio](https://github.com/IuvenisSapiens/ComfyUI-Prismaudio)
+
+### [eybisi](https://github.com/eybisi)
+- 🌟 👤 [eybisi](https://github.com/eybisi) Starred [terminalsin/javaswan-java-decompiler](https://github.com/terminalsin/javaswan-java-decompiler)
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [larksuite/cli](https://github.com/larksuite/cli)
@@ -52,8 +56,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A path query language for JSON, YAML, TOML, and other serialization formats.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [gbasin/dejank](https://github.com/gbasin/dejank)
   > Detect and diagnose visual jank in React UIs — static analysis of 18 anti-patterns + runtime investi...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [AvdLee/Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill)
+  > An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and ...
 
 
 ---
-*Last updated at 2026-03-28 22:34:28 UTC*
+*Last updated at 2026-03-28 23:36:15 UTC*
 *Historical records are stored in the `archive` directory.*
