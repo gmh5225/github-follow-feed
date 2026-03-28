@@ -4,6 +4,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lsnbm/Linux-android-arm64](https://github.com/lsnbm/Linux-android-arm64) to [CrackerCat/Linux-android-arm64](https://github.com/CrackerCat/Linux-android-arm64)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [banteg/bn](https://github.com/banteg/bn) to [CrackerCat/bn](https://github.com/CrackerCat/bn)
+  > binary ninja cli for agents
+
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif)
   > Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
@@ -12,8 +17,9 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [larksuite/cli](https://github.com/larksuite/cli)
+  > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
 
 
 ---
-*Last updated at 2026-03-28 07:46:35 UTC*
+*Last updated at 2026-03-28 08:47:25 UTC*
 *Historical records are stored in the `archive` directory.*
