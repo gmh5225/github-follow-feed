@@ -26,6 +26,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > A command-line tool for Lark/Feishu Open Platform — built for humans and AI Agents. Covers core busi...
 
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [RazrFalcon/roxmltree](https://github.com/RazrFalcon/roxmltree)
+  > Represent an XML document as a read-only tree.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)
   > 🧻 Local-first CLI for Obsidian vaults. Operates directly on markdown files — no Obsidian app require...
@@ -35,6 +39,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A cross-platform (C99/C++11) process library
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [svkozak/pi-acp](https://github.com/svkozak/pi-acp)
   > ACP adapter for pi coding agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dariushoule/x64dbg-rippy](https://github.com/dariushoule/x64dbg-rippy)
+  > AI reverse engineering assistant for x64dbg. Embeds a chat panel directly in the debugger with tool-...
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
@@ -42,8 +48,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A fast, native macOS database client with built-in AI assistant.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep)
   > A path query language for JSON, YAML, TOML, and other serialization formats.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [gbasin/dejank](https://github.com/gbasin/dejank)
+  > Detect and diagnose visual jank in React UIs — static analysis of 18 anti-patterns + runtime investi...
 
 
 ---
-*Last updated at 2026-03-28 20:36:46 UTC*
+*Last updated at 2026-03-28 21:34:48 UTC*
 *Historical records are stored in the `archive` directory.*
