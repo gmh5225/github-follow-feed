@@ -33,6 +33,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [playday3008/GhidraClangPoweredParse](https://github.com/playday3008/GhidraClangPoweredParse)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [daandemeyer/reproc](https://github.com/daandemeyer/reproc)
   > A cross-platform (C99/C++11) process library
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [svkozak/pi-acp](https://github.com/svkozak/pi-acp)
+  > ACP adapter for pi coding agent
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
@@ -43,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-28 19:33:23 UTC*
+*Last updated at 2026-03-28 20:36:46 UTC*
 *Historical records are stored in the `archive` directory.*
