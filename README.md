@@ -27,8 +27,18 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/napkin](https://github.com/Michaelliv/napkin)
   > 🧻 Local-first CLI for Obsidian vaults. Operates directly on markdown files — no Obsidian app require...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [playday3008/GhidraClangPoweredParse](https://github.com/playday3008/GhidraClangPoweredParse)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [daandemeyer/reproc](https://github.com/daandemeyer/reproc)
+  > A cross-platform (C99/C++11) process library
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [chenglou/pretext](https://github.com/chenglou/pretext)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [TableProApp/TablePro](https://github.com/TableProApp/TablePro)
+  > A fast, native macOS database client with built-in AI assistant.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [micahkepe/jsongrep](https://github.com/micahkepe/jsongrep)
+  > A path query language over JSON documents.
 
 
 ---
-*Last updated at 2026-03-28 15:36:03 UTC*
+*Last updated at 2026-03-28 16:39:44 UTC*
 *Historical records are stored in the `archive` directory.*
