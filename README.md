@@ -18,6 +18,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [adobe-fonts/source-han-mono](https://github.com/adobe-fonts/source-han-mono)
   > Source Han Mono | 思源等宽 | 思源等寬 | 思源等寬 香港 | 源ノ等幅 | 본모노
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [jorismak/convert_nvfp4](https://github.com/jorismak/convert_nvfp4)
+  > conversion script for WAN/QWEN to nvfp4
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [yfyang007/RealRestorer](https://github.com/yfyang007/RealRestorer)
 
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [larksuite/cli](https://github.com/larksuite/cli)
@@ -40,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-28 16:39:44 UTC*
+*Last updated at 2026-03-28 17:34:19 UTC*
 *Historical records are stored in the `archive` directory.*
