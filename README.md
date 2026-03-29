@@ -7,6 +7,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [Chaoses-Ib](https://github.com/Chaoses-Ib)
 - 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [WildByDesign/ImmersiveUX](https://github.com/WildByDesign/ImmersiveUX)
   > Immersive UX is for Windows 11 and allows enabling DWM features on Win32 apps and much more.
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [Chaoses-Ib/ib-hook](https://github.com/Chaoses-Ib/ib-hook)
+  > Windows binary and system hooking Rust/C libraries
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/3LayersPersistence](https://github.com/Maldev-Academy/3LayersPersistence) public
@@ -32,5 +34,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-29 16:40:44 UTC*
+*Last updated at 2026-03-29 17:36:12 UTC*
 *Historical records are stored in the `archive` directory.*
