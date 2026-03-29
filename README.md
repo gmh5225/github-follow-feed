@@ -25,6 +25,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Stream components for Amaranth
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [paulusmack/microwatt](https://github.com/paulusmack/microwatt)
   > A tiny Open POWER ISA softcore written in VHDL 2008
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [IsaacRudich/ImplicitDDs.jl](https://github.com/IsaacRudich/ImplicitDDs.jl)
+  > Exact MIP solver using decision diagram relaxations instead of LP relaxations.
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [meodai/heerich](https://github.com/meodai/heerich)
@@ -38,5 +40,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-29 19:35:37 UTC*
+*Last updated at 2026-03-29 20:38:31 UTC*
 *Historical records are stored in the `archive` directory.*
