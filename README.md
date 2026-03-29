@@ -4,8 +4,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-The users you follow have no public activity today that matches the filter criteria.
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) to [woct0rdho/causal-conv1d](https://github.com/woct0rdho/causal-conv1d)
+  > Causal depthwise conv1d in CUDA, with a PyTorch interface
+
 
 ---
-*Last updated at 2026-03-29 05:15:09 UTC*
+*Last updated at 2026-03-29 07:10:41 UTC*
 *Historical records are stored in the `archive` directory.*
