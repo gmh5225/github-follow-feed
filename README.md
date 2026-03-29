@@ -14,6 +14,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/3LayersPersistence](https://github.com/Maldev-Academy/3LayersPersistence) public
   > Demonstrating 3 persistence layers from a single EXE, that converts itself into proxy DLLs at runtim...
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [symbolicsoft/crucible](https://github.com/symbolicsoft/crucible) to [jedisct1/crucible](https://github.com/jedisct1/crucible)
+  > Cryptographic implementation conformance testing harness for ML-KEM and ML-DSA.
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lambdaconcept/lambdalib](https://github.com/lambdaconcept/lambdalib)
   > Lambdalib is a collection of lib/tools for amaranth-hdl
@@ -34,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-29 18:51:05 UTC*
+*Last updated at 2026-03-29 19:35:37 UTC*
 *Historical records are stored in the `archive` directory.*
