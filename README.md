@@ -15,6 +15,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [lambdaconcept/lambdalib](https://github.com/lambdaconcept/lambdalib)
   > Lambdalib is a collection of lib/tools for amaranth-hdl
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [zyp/katsuo-stream](https://github.com/zyp/katsuo-stream)
+  > Stream components for Amaranth
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [paulusmack/microwatt](https://github.com/paulusmack/microwatt)
+  > A tiny Open POWER ISA softcore written in VHDL 2008
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [meodai/heerich](https://github.com/meodai/heerich)
+  > Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dep...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [samirpatil2000/Buffer](https://github.com/samirpatil2000/Buffer)
+  > Buffer is a open-source lightweight, privacy-focused clipboard manager for macOS with searchable his...
 
 ### [woct0rdho](https://github.com/woct0rdho)
 - 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [Dao-AILab/causal-conv1d](https://github.com/Dao-AILab/causal-conv1d) to [woct0rdho/causal-conv1d](https://github.com/woct0rdho/causal-conv1d)
@@ -22,5 +32,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-29 15:36:57 UTC*
+*Last updated at 2026-03-29 16:40:44 UTC*
 *Historical records are stored in the `archive` directory.*
