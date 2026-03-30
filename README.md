@@ -34,7 +34,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HPAI-BSC/TuRTLe](https://github.com/HPAI-BSC/TuRTLe)
   > TuRTLe: A Unified Evaluation of LLMs for RTL Generation 🐢 (MLCAD 2025)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [agentlogs/agentlogs](https://github.com/agentlogs/agentlogs)
+  > Collaboration in the age of agentic engineering
+
 
 ---
-*Last updated at 2026-03-30 19:05:47 UTC*
+*Last updated at 2026-03-30 20:52:07 UTC*
 *Historical records are stored in the `archive` directory.*
