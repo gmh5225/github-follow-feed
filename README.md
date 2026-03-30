@@ -12,6 +12,14 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
   > Review-first terminal diff viewer for agentic coders
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)
+  > Collaborator is a place to create with agents.
+
+### [jakehemmerle](https://github.com/jakehemmerle)
+- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [psychopy/psychopy](https://github.com/psychopy/psychopy)
+  > For running psychology and neuroscience experiments
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [libevent/libevent](https://github.com/libevent/libevent)
   > Event notification library
@@ -23,8 +31,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Kodi for Original Xbox
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [greg7mdp/gtl](https://github.com/greg7mdp/gtl)
   > Greg's Template Library of useful classes.
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HPAI-BSC/TuRTLe](https://github.com/HPAI-BSC/TuRTLe)
+  > TuRTLe: A Unified Evaluation of LLMs for RTL Generation 🐢 (MLCAD 2025)
 
 
 ---
-*Last updated at 2026-03-30 15:08:15 UTC*
+*Last updated at 2026-03-30 17:01:30 UTC*
 *Historical records are stored in the `archive` directory.*
