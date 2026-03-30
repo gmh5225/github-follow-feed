@@ -13,8 +13,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Review-first terminal diff viewer for agentic coders
 
 ### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)
-  > Collaborator is a place to create with agents.
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
+  > Open source skills for Agent 🔥
 
 ### [jakehemmerle](https://github.com/jakehemmerle)
 - 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [psychopy/psychopy](https://github.com/psychopy/psychopy)
@@ -36,5 +36,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-30 17:01:30 UTC*
+*Last updated at 2026-03-30 19:05:47 UTC*
 *Historical records are stored in the `archive` directory.*
