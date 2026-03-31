@@ -1,44 +1,23 @@
-# Daily GitHub Activity (2026-03-30)
+# Daily GitHub Activity (2026-03-31)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sparkyniner/Netryx-Astra-V2-Geolocation-Tool](https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool) to [CrackerCat/Netryx-Astra-V2-Geolocation-Tool](https://github.com/CrackerCat/Netryx-Astra-V2-Geolocation-Tool)
-  > The world's most sophisticated street level image geolocation software
-
-### [ggoodman](https://github.com/ggoodman)
-- 🌟 👤 [ggoodman](https://github.com/ggoodman) Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
-  > Review-first terminal diff viewer for agentic coders
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
-  > Open source skills for Agent 🔥
-
-### [jakehemmerle](https://github.com/jakehemmerle)
-- 🌟 👤 [jakehemmerle](https://github.com/jakehemmerle) Starred [psychopy/psychopy](https://github.com/psychopy/psychopy)
-  > For running psychology and neuroscience experiments
-
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [libevent/libevent](https://github.com/libevent/libevent)
-  > Event notification library
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Team-Resurgent/XboxHomebrewStoreApp](https://github.com/Team-Resurgent/XboxHomebrewStoreApp)
-  > Xbox Homebrew Store App
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [Team-Resurgent/xbmc4xbox-redux](https://github.com/Team-Resurgent/xbmc4xbox-redux)
-  > XBMC is free and open source home theater/media center software and entertainment hub for Original X...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xbmc4xbox/kodi4xbox](https://github.com/xbmc4xbox/kodi4xbox)
-  > Kodi for Original Xbox
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [greg7mdp/gtl](https://github.com/greg7mdp/gtl)
-  > Greg's Template Library of useful classes.
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [HPAI-BSC/TuRTLe](https://github.com/HPAI-BSC/TuRTLe)
-  > TuRTLe: A Unified Evaluation of LLMs for RTL Generation 🐢 (MLCAD 2025)
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [agentlogs/agentlogs](https://github.com/agentlogs/agentlogs)
-  > Collaboration in the age of agentic engineering
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/libNiPass](https://github.com/niqiuqiux/libNiPass) to [CrackerCat/libNiPass](https://github.com/CrackerCat/libNiPass)
+  > some enhanced llvm pass
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/SVCMonitors](https://github.com/XiaoWaaay/SVCMonitors) to [CrackerCat/SVCMonitors](https://github.com/CrackerCat/SVCMonitors)
+  > SVC CALL Module
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/VixlDebugger](https://github.com/XiaoWaaay/VixlDebugger) to [CrackerCat/VixlDebugger](https://github.com/CrackerCat/VixlDebugger)
+  > 基于unicorn+Vixl+dobby项目的trace技术
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/frida_trace](https://github.com/XiaoWaaay/frida_trace) to [CrackerCat/frida_trace](https://github.com/CrackerCat/frida_trace)
+  > 针对arm64架构的so进行trace
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/xwTrace](https://github.com/XiaoWaaay/xwTrace) to [CrackerCat/xwTrace](https://github.com/CrackerCat/xwTrace)
+  > 基于qbdi的自用trace小工具
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/NativeSight](https://github.com/XiaoWaaay/NativeSight) to [CrackerCat/NativeSight](https://github.com/CrackerCat/NativeSight)
 
 
 ---
-*Last updated at 2026-03-30 23:40:18 UTC*
+*Last updated at 2026-03-31 02:47:01 UTC*
 *Historical records are stored in the `archive` directory.*
