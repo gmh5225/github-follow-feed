@@ -39,7 +39,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
   > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [lllyasviel/VCC](https://github.com/lllyasviel/VCC)
-  > Agents need this compiler.
+  > Compile agent conversations!
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
   > Open source skills for Agent 🔥
 
@@ -51,7 +51,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
-  > Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry
+  > Claude Code in Rust & a Breakdown of How it Works
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kettanaito/async-history-stack](https://github.com/kettanaito/async-history-stack)
@@ -66,6 +66,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [ankitvgupta/mail-app](https://github.com/ankitvgupta/mail-app)
   > Claude Code for your Inbox
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [fiveoutofnine/whatcanirun](https://github.com/fiveoutofnine/whatcanirun)
+  > Find the best models and how to run them locally.
 
 ### [vitosans](https://github.com/vitosans)
 - 🍴 👤 [vitosans](https://github.com/vitosans) Forked [nirholas/claude-code](https://github.com/nirholas/claude-code) to [vitosans/claude-code](https://github.com/vitosans/claude-code)
@@ -77,5 +79,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-31 19:08:21 UTC*
+*Last updated at 2026-03-31 20:49:27 UTC*
 *Historical records are stored in the `archive` directory.*
