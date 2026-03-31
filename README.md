@@ -23,6 +23,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 基于qbdi的自用trace小工具
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/NativeSight](https://github.com/XiaoWaaay/NativeSight) to [CrackerCat/NativeSight](https://github.com/CrackerCat/NativeSight)
 
+### [EloiStree](https://github.com/EloiStree)
+- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [nathsoupart/2025_09_15Launcher](https://github.com/nathsoupart/2025_09_15Launcher)
+  > a launcher of apk's en XR
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ShawnPana/smux](https://github.com/ShawnPana/smux)
   > tmux config with built-in terminal automation and agent-to-agent communication.
@@ -32,6 +36,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Agents need this compiler.
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
   > Open source skills for Agent 🔥
+
+### [jevinskie](https://github.com/jevinskie)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [openjdk/jmc](https://github.com/openjdk/jmc)
+  > https://openjdk.org/projects/jmc OpenJDK Mission Control, a production time profiling and diagnostic...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thegreystone/jmc-tutorial](https://github.com/thegreystone/jmc-tutorial)
+  > A hands-on-lab/tutorial for learning JDK Mission Control 7+.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
@@ -43,7 +53,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Helixar-AI/ReleaseGuard](https://github.com/Helixar-AI/ReleaseGuard)
   > ReleaseGuard is an open-source artifact policy engine and hardening suite. It scans, transforms, obf...
 
+### [vitosans](https://github.com/vitosans)
+- 🍴 👤 [vitosans](https://github.com/vitosans) Forked [nirholas/claude-code](https://github.com/nirholas/claude-code) to [vitosans/claude-code](https://github.com/vitosans/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
+
 
 ---
-*Last updated at 2026-03-31 15:06:35 UTC*
+*Last updated at 2026-03-31 17:03:22 UTC*
 *Historical records are stored in the `archive` directory.*
