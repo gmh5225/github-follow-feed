@@ -28,6 +28,12 @@ Today's public activity from users I follow (updated every 15 minutes).
   > tmux config with built-in terminal automation and agent-to-agent communication.
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
   > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [lllyasviel/VCC](https://github.com/lllyasviel/VCC)
+  > Agents need this compiler.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
+  > Claude Code's Source Code & Breakdown from a leaked map file in their NPM registry
 
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kettanaito/async-history-stack](https://github.com/kettanaito/async-history-stack)
@@ -37,5 +43,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-31 11:55:34 UTC*
+*Last updated at 2026-03-31 13:45:30 UTC*
 *Historical records are stored in the `archive` directory.*
