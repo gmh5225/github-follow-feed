@@ -4,6 +4,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [Chaoses-Ib](https://github.com/Chaoses-Ib)
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rustic-rs/rustic](https://github.com/rustic-rs/rustic)
+  > rustic - fast, encrypted, and deduplicated backups powered by Rust
+- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rustic-rs/rustic_core](https://github.com/rustic-rs/rustic_core)
+  > rustic_core - library for fast, encrypted, deduplicated backups that powers rustic-rs
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/libNiPass](https://github.com/niqiuqiux/libNiPass) to [CrackerCat/libNiPass](https://github.com/CrackerCat/libNiPass)
   > some enhanced llvm pass
@@ -17,7 +23,11 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 基于qbdi的自用trace小工具
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/NativeSight](https://github.com/XiaoWaaay/NativeSight) to [CrackerCat/NativeSight](https://github.com/CrackerCat/NativeSight)
 
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [kettanaito/async-history-stack](https://github.com/kettanaito/async-history-stack)
+  > Arbitrary change history management in JavaScript.
+
 
 ---
-*Last updated at 2026-03-31 05:13:42 UTC*
+*Last updated at 2026-03-31 07:22:54 UTC*
 *Historical records are stored in the `archive` directory.*
