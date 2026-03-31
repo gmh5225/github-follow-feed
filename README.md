@@ -23,11 +23,19 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 基于qbdi的自用trace小工具
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/NativeSight](https://github.com/XiaoWaaay/NativeSight) to [CrackerCat/NativeSight](https://github.com/CrackerCat/NativeSight)
 
+### [haofanwang](https://github.com/haofanwang)
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ShawnPana/smux](https://github.com/ShawnPana/smux)
+  > tmux config with built-in terminal automation and agent-to-agent communication.
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
+  > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
+
 ### [niieani](https://github.com/niieani)
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [kettanaito/async-history-stack](https://github.com/kettanaito/async-history-stack)
   > Arbitrary change history management in JavaScript.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Helixar-AI/ReleaseGuard](https://github.com/Helixar-AI/ReleaseGuard)
+  > ReleaseGuard is an open-source artifact policy engine and hardening suite. It scans, transforms, obf...
 
 
 ---
-*Last updated at 2026-03-31 07:22:54 UTC*
+*Last updated at 2026-03-31 09:06:50 UTC*
 *Historical records are stored in the `archive` directory.*
