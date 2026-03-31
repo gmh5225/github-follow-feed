@@ -27,6 +27,12 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [nathsoupart/2025_09_15Launcher](https://github.com/nathsoupart/2025_09_15Launcher)
   > a launcher of apk's en XR
 
+### [dword64](https://github.com/dword64)
+- 🍴 👤 [dword64](https://github.com/dword64) Forked [ergrelet/triton-bn](https://github.com/ergrelet/triton-bn) to [dword64/triton-bn](https://github.com/dword64/triton-bn)
+  > Binary Ninja plugin that can be used to apply Triton's dead store eliminitation pass on basic blocks...
+- 🍴 👤 [dword64](https://github.com/dword64) Forked [ergrelet/themida-spotter-bn](https://github.com/ergrelet/themida-spotter-bn) to [dword64/themida-spotter-bn](https://github.com/dword64/themida-spotter-bn)
+  > A Binary Ninja plugin to detect Themida, WinLicense and Code Virtualizer's obfuscated code locations...
+
 ### [haofanwang](https://github.com/haofanwang)
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ShawnPana/smux](https://github.com/ShawnPana/smux)
   > tmux config with built-in terminal automation and agent-to-agent communication.
@@ -52,12 +58,24 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Arbitrary change history management in JavaScript.
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [Helixar-AI/ReleaseGuard](https://github.com/Helixar-AI/ReleaseGuard)
   > ReleaseGuard is an open-source artifact policy engine and hardening suite. It scans, transforms, obf...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [productdevbook/hucre](https://github.com/productdevbook/hucre)
+  > Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere.
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth)
+  > A CLI tool to switch and manage Codex accounts
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
+  > Better Harness Tools, not merely storing the archive of leaked Claude Code but also make real things...
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [ankitvgupta/mail-app](https://github.com/ankitvgupta/mail-app)
+  > Claude Code for your Inbox
 
 ### [vitosans](https://github.com/vitosans)
 - 🍴 👤 [vitosans](https://github.com/vitosans) Forked [nirholas/claude-code](https://github.com/nirholas/claude-code) to [vitosans/claude-code](https://github.com/vitosans/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
+### [woct0rdho](https://github.com/woct0rdho)
+- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [shirou/gopsutil](https://github.com/shirou/gopsutil) to [woct0rdho/gopsutil](https://github.com/woct0rdho/gopsutil)
+  > psutil for golang
+
 
 ---
-*Last updated at 2026-03-31 17:03:22 UTC*
+*Last updated at 2026-03-31 19:08:21 UTC*
 *Historical records are stored in the `archive` directory.*
