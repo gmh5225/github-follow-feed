@@ -30,6 +30,8 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
 - 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [lllyasviel/VCC](https://github.com/lllyasviel/VCC)
   > Agents need this compiler.
+- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
+  > Open source skills for Agent 🔥
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
@@ -43,5 +45,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-03-31 13:45:30 UTC*
+*Last updated at 2026-03-31 15:06:35 UTC*
 *Historical records are stored in the `archive` directory.*
