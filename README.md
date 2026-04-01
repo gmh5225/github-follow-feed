@@ -15,6 +15,10 @@ Today's public activity from users I follow (updated every 15 minutes).
   > 解锁 MIUI 全面屏优化限制
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace) to [CrackerCat/QTrace-zgy0x01](https://github.com/CrackerCat/QTrace-zgy0x01)
   > qbdi based android arm64 trace tool
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [CrackerCat/claude-code](https://github.com/CrackerCat/claude-code)
+  > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ghostbyt3/nday-automation-ai](https://github.com/ghostbyt3/nday-automation-ai) to [CrackerCat/nday-automation-ai](https://github.com/CrackerCat/nday-automation-ai)
+  > This repository contains AI-generated analysis reports produced as part of an automated N-day resear...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Tencent/Covo-Audio](https://github.com/Tencent/Covo-Audio)
@@ -27,9 +31,16 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [dword64](https://github.com/dword64)
 - 🍴 👤 [dword64](https://github.com/dword64) Forked [vtil-project/VTIL-BinaryNinja](https://github.com/vtil-project/VTIL-BinaryNinja) to [dword64/VTIL-BinaryNinja](https://github.com/dword64/VTIL-BinaryNinja)
 
+### [jedisct1](https://github.com/jedisct1)
+- 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [justrach/codedb](https://github.com/justrach/codedb)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [justrach/codedb](https://github.com/justrach/codedb) to [dip-proto/codedb](https://github.com/dip-proto/codedb)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [no382001/forth-vm](https://github.com/no382001/forth-vm)
   > Forth VM and statically-typed s-expression compiler, written in C++ and Scryer Prolog
+
+### [michal-kapala](https://github.com/michal-kapala)
+- 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [gwentcard/gwentcard.github.io](https://github.com/gwentcard/gwentcard.github.io)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tnkuehne/gether](https://github.com/tnkuehne/gether)
@@ -47,5 +58,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-01 09:12:08 UTC*
+*Last updated at 2026-04-01 11:02:25 UTC*
 *Historical records are stored in the `archive` directory.*
