@@ -4,6 +4,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
+### [BeneficialCode](https://github.com/BeneficialCode)
+- 🌟 👤 [BeneficialCode](https://github.com/BeneficialCode) Starred [lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust)
+  > 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code ...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [taisuii/sentry](https://github.com/taisuii/sentry) to [CrackerCat/sentry](https://github.com/CrackerCat/sentry)
   > frida检测 和环境检测
@@ -48,6 +52,9 @@ Today's public activity from users I follow (updated every 15 minutes).
   > Drop-in cross-platform replacement and standalone version of the hex dump utility that comes with Vi...
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [simonomi/hexapoda](https://github.com/simonomi/hexapoda)
   > a colorful modal hex editor
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [adoptium/temurin-build](https://github.com/adoptium/temurin-build)
+  > Eclipse Temurin™ build scripts - common across all releases/versions
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [eclipse-jdt/eclipse.jdt.core](https://github.com/eclipse-jdt/eclipse.jdt.core)
 
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [gwentcard/gwentcard.github.io](https://github.com/gwentcard/gwentcard.github.io)
@@ -68,7 +75,11 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [niieani](https://github.com/niieani) Starred [polotno-project/render-tag](https://github.com/polotno-project/render-tag)
   > Render HTML string into canvas using 2d native API
 
+### [stevemk14ebr](https://github.com/stevemk14ebr)
+- 🌟 👤 [stevemk14ebr](https://github.com/stevemk14ebr) Starred [cloudflare/filterforge](https://github.com/cloudflare/filterforge)
+  > Tool for solving BPF filters and crafting packets based on these.
+
 
 ---
-*Last updated at 2026-04-01 13:45:30 UTC*
+*Last updated at 2026-04-01 15:09:26 UTC*
 *Historical records are stored in the `archive` directory.*
