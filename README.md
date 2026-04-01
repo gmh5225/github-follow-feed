@@ -14,7 +14,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Ta0ing/claude-code_evil](https://github.com/Ta0ing/claude-code_evil) to [CrackerCat/claude-code_evil](https://github.com/CrackerCat/claude-code_evil)
   > cc完整版，含手册，编译等
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [CrackerCat/claw-code](https://github.com/CrackerCat/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NEORUAA/MIUI_IME_Unlock](https://github.com/NEORUAA/MIUI_IME_Unlock) to [CrackerCat/MIUI_IME_Unlock](https://github.com/CrackerCat/MIUI_IME_Unlock)
   > 解锁 MIUI 全面屏优化限制
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace) to [CrackerCat/QTrace-zgy0x01](https://github.com/CrackerCat/QTrace-zgy0x01)
@@ -31,13 +31,6 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [NyaMisty](https://github.com/NyaMisty)
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [NyaMistyTemp/claude-code](https://github.com/NyaMistyTemp/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
-
-### [dword64](https://github.com/dword64)
-- 🍴 👤 [dword64](https://github.com/dword64) Forked [vtil-project/VTIL-BinaryNinja](https://github.com/vtil-project/VTIL-BinaryNinja) to [dword64/VTIL-BinaryNinja](https://github.com/dword64/VTIL-BinaryNinja)
-- 🍴 👤 [dword64](https://github.com/dword64) Forked [vtil-project/VTIL-Core](https://github.com/vtil-project/VTIL-Core) to [dword64/VTIL-Core](https://github.com/dword64/VTIL-Core)
-  > Virtual-machine Translation Intermediate Language
-- 🍴 👤 [dword64](https://github.com/dword64) Forked [vtil-project/VTIL-Sandbox](https://github.com/vtil-project/VTIL-Sandbox) to [dword64/VTIL-Sandbox](https://github.com/dword64/VTIL-Sandbox)
-  > User interface for inspecting and editing .vtil files based on Ultralight. (WIP)
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [justrach/codedb](https://github.com/justrach/codedb)
@@ -59,7 +52,7 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [gwentcard/gwentcard.github.io](https://github.com/gwentcard/gwentcard.github.io)
 - 🍴 👤 [michal-kapala](https://github.com/michal-kapala) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [michal-kapala/claw-code](https://github.com/michal-kapala/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+  > The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tnkuehne/gether](https://github.com/tnkuehne/gether)
@@ -81,5 +74,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-01 15:09:26 UTC*
+*Last updated at 2026-04-01 17:00:44 UTC*
 *Historical records are stored in the `archive` directory.*
