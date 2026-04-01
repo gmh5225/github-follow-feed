@@ -20,6 +20,13 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Tencent/Covo-Audio](https://github.com/Tencent/Covo-Audio)
   > Covo-Audio is a 7B-parameter end-to-end large audio language model that directly processes continuou...
 
+### [NyaMisty](https://github.com/NyaMisty)
+- 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [NyaMistyTemp/claude-code](https://github.com/NyaMistyTemp/claude-code)
+  > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
+
+### [dword64](https://github.com/dword64)
+- 🍴 👤 [dword64](https://github.com/dword64) Forked [vtil-project/VTIL-BinaryNinja](https://github.com/vtil-project/VTIL-BinaryNinja) to [dword64/VTIL-BinaryNinja](https://github.com/dword64/VTIL-BinaryNinja)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [no382001/forth-vm](https://github.com/no382001/forth-vm)
   > Forth VM and statically-typed s-expression compiler, written in C++ and Scryer Prolog
@@ -34,5 +41,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-01 05:57:03 UTC*
+*Last updated at 2026-04-01 07:46:14 UTC*
 *Historical records are stored in the `archive` directory.*
