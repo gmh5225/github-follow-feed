@@ -30,17 +30,29 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [dword64](https://github.com/dword64)
 - 🍴 👤 [dword64](https://github.com/dword64) Forked [vtil-project/VTIL-BinaryNinja](https://github.com/vtil-project/VTIL-BinaryNinja) to [dword64/VTIL-BinaryNinja](https://github.com/dword64/VTIL-BinaryNinja)
+- 🍴 👤 [dword64](https://github.com/dword64) Forked [vtil-project/VTIL-Core](https://github.com/vtil-project/VTIL-Core) to [dword64/VTIL-Core](https://github.com/dword64/VTIL-Core)
+  > Virtual-machine Translation Intermediate Language
+- 🍴 👤 [dword64](https://github.com/dword64) Forked [vtil-project/VTIL-Sandbox](https://github.com/vtil-project/VTIL-Sandbox) to [dword64/VTIL-Sandbox](https://github.com/dword64/VTIL-Sandbox)
+  > User interface for inspecting and editing .vtil files based on Ultralight. (WIP)
 
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [justrach/codedb](https://github.com/justrach/codedb)
+  > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [justrach/codedb](https://github.com/justrach/codedb) to [dip-proto/codedb](https://github.com/dip-proto/codedb)
+  > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
 
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [no382001/forth-vm](https://github.com/no382001/forth-vm)
   > Forth VM and statically-typed s-expression compiler, written in C++ and Scryer Prolog
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [xyproto/tinyxxd](https://github.com/xyproto/tinyxxd)
+  > Drop-in cross-platform replacement and standalone version of the hex dump utility that comes with Vi...
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [simonomi/hexapoda](https://github.com/simonomi/hexapoda)
+  > a colorful modal hex editor
 
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [gwentcard/gwentcard.github.io](https://github.com/gwentcard/gwentcard.github.io)
+- 🍴 👤 [michal-kapala](https://github.com/michal-kapala) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [michal-kapala/claw-code](https://github.com/michal-kapala/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tnkuehne/gether](https://github.com/tnkuehne/gether)
@@ -58,5 +70,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-01 11:02:25 UTC*
+*Last updated at 2026-04-01 13:45:30 UTC*
 *Historical records are stored in the `archive` directory.*
