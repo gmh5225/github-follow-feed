@@ -1,79 +1,26 @@
-# Daily GitHub Activity (2026-03-31)
+# Daily GitHub Activity (2026-04-01)
 
 Today's public activity from users I follow (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Chaoses-Ib](https://github.com/Chaoses-Ib)
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rustic-rs/rustic](https://github.com/rustic-rs/rustic)
-  > rustic - fast, encrypted, and deduplicated backups powered by Rust
-- 🌟 👤 [Chaoses-Ib](https://github.com/Chaoses-Ib) Starred [rustic-rs/rustic_core](https://github.com/rustic-rs/rustic_core)
-  > rustic_core - library for fast, encrypted, deduplicated backups that powers rustic-rs
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/libNiPass](https://github.com/niqiuqiux/libNiPass) to [CrackerCat/libNiPass](https://github.com/CrackerCat/libNiPass)
-  > some enhanced llvm pass
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/SVCMonitors](https://github.com/XiaoWaaay/SVCMonitors) to [CrackerCat/SVCMonitors](https://github.com/CrackerCat/SVCMonitors)
-  > SVC CALL Module
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/VixlDebugger](https://github.com/XiaoWaaay/VixlDebugger) to [CrackerCat/VixlDebugger](https://github.com/CrackerCat/VixlDebugger)
-  > 基于unicorn+Vixl+dobby项目的trace技术
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/frida_trace](https://github.com/XiaoWaaay/frida_trace) to [CrackerCat/frida_trace](https://github.com/CrackerCat/frida_trace)
-  > 针对arm64架构的so进行trace
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/xwTrace](https://github.com/XiaoWaaay/xwTrace) to [CrackerCat/xwTrace](https://github.com/CrackerCat/xwTrace)
-  > 基于qbdi的自用trace小工具
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/NativeSight](https://github.com/XiaoWaaay/NativeSight) to [CrackerCat/NativeSight](https://github.com/CrackerCat/NativeSight)
-
-### [EloiStree](https://github.com/EloiStree)
-- 🌟 👤 [EloiStree](https://github.com/EloiStree) Starred [nathsoupart/2025_09_15Launcher](https://github.com/nathsoupart/2025_09_15Launcher)
-  > a launcher of apk's en XR
-
-### [dword64](https://github.com/dword64)
-- 🍴 👤 [dword64](https://github.com/dword64) Forked [ergrelet/triton-bn](https://github.com/ergrelet/triton-bn) to [dword64/triton-bn](https://github.com/dword64/triton-bn)
-  > Binary Ninja plugin that can be used to apply Triton's dead store eliminitation pass on basic blocks...
-- 🍴 👤 [dword64](https://github.com/dword64) Forked [ergrelet/themida-spotter-bn](https://github.com/ergrelet/themida-spotter-bn) to [dword64/themida-spotter-bn](https://github.com/dword64/themida-spotter-bn)
-  > A Binary Ninja plugin to detect Themida, WinLicense and Code Virtualizer's obfuscated code locations...
-
-### [haofanwang](https://github.com/haofanwang)
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [ShawnPana/smux](https://github.com/ShawnPana/smux)
-  > tmux config with built-in terminal automation and agent-to-agent communication.
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [jackwener/opencli](https://github.com/jackwener/opencli)
-  > Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, ...
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [lllyasviel/VCC](https://github.com/lllyasviel/VCC)
-  > Compile agent conversations!
-- 🌟 👤 [haofanwang](https://github.com/haofanwang) Starred [instantX-research/skills](https://github.com/instantX-research/skills)
-  > Open source skills for Agent 🔥
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [taisuii/sentry](https://github.com/taisuii/sentry) to [CrackerCat/sentry](https://github.com/CrackerCat/sentry)
+  > frida检测
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Ta0ing/claude-code_evil](https://github.com/Ta0ing/claude-code_evil) to [CrackerCat/claude-code_evil](https://github.com/CrackerCat/claude-code_evil)
+  > cc完整版，含手册，编译等
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [instructkr/claw-code](https://github.com/instructkr/claw-code) to [CrackerCat/claw-code](https://github.com/CrackerCat/claw-code)
+  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NEORUAA/MIUI_IME_Unlock](https://github.com/NEORUAA/MIUI_IME_Unlock) to [CrackerCat/MIUI_IME_Unlock](https://github.com/CrackerCat/MIUI_IME_Unlock)
+  > 解锁 MIUI 全面屏优化限制
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zgy0x01/QTrace](https://github.com/zgy0x01/QTrace) to [CrackerCat/QTrace-zgy0x01](https://github.com/CrackerCat/QTrace-zgy0x01)
+  > qbdi based android arm64 trace tool
 
 ### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [openjdk/jmc](https://github.com/openjdk/jmc)
-  > https://openjdk.org/projects/jmc OpenJDK Mission Control, a production time profiling and diagnostic...
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thegreystone/jmc-tutorial](https://github.com/thegreystone/jmc-tutorial)
-  > A hands-on-lab/tutorial for learning JDK Mission Control 7+.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Kuberwastaken/claude-code](https://github.com/Kuberwastaken/claude-code)
-  > Claude Code in Rust & a Breakdown of How it Works
-
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [kettanaito/async-history-stack](https://github.com/kettanaito/async-history-stack)
-  > Arbitrary change history management in JavaScript.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Helixar-AI/ReleaseGuard](https://github.com/Helixar-AI/ReleaseGuard)
-  > ReleaseGuard is an open-source artifact policy engine and hardening suite. It scans, transforms, obf...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [productdevbook/hucre](https://github.com/productdevbook/hucre)
-  > Zero-dependency spreadsheet engine. Read & write XLSX, CSV, ODS. Pure TypeScript, works everywhere.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth)
-  > A CLI tool to switch and manage Codex accounts
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [instructkr/claw-code](https://github.com/instructkr/claw-code)
-  > The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after pub...
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [ankitvgupta/mail-app](https://github.com/ankitvgupta/mail-app)
-  > Claude Code for your Inbox
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [fiveoutofnine/whatcanirun](https://github.com/fiveoutofnine/whatcanirun)
-  > Find the best models and how to run them locally.
-
-### [woct0rdho](https://github.com/woct0rdho)
-- 🍴 👤 [woct0rdho](https://github.com/woct0rdho) Forked [shirou/gopsutil](https://github.com/shirou/gopsutil) to [woct0rdho/gopsutil](https://github.com/woct0rdho/gopsutil)
-  > psutil for golang
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [no382001/forth-vm](https://github.com/no382001/forth-vm)
+  > Forth VM and statically-typed s-expression compiler, written in C++ and Scryer Prolog
 
 
 ---
-*Last updated at 2026-03-31 23:38:53 UTC*
+*Last updated at 2026-04-01 03:16:50 UTC*
 *Historical records are stored in the `archive` directory.*
