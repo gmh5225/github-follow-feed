@@ -32,6 +32,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🍴 👤 [NyaMisty](https://github.com/NyaMisty) Forked [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) to [NyaMistyTemp/claude-code](https://github.com/NyaMistyTemp/claude-code)
   > 原汁原昧 Claude Code 可运行版; Bun 可编译执行版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev...
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [waryas/WaryasSWHE](https://github.com/waryas/WaryasSWHE)
+  > Usermode exploit to bypass any AC using a 0day shatter attack.
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🌟 👤 [jedisct1](https://github.com/jedisct1) Starred [justrach/codedb](https://github.com/justrach/codedb)
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
@@ -48,6 +52,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [adoptium/temurin-build](https://github.com/adoptium/temurin-build)
   > Eclipse Temurin™ build scripts - common across all releases/versions
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [eclipse-jdt/eclipse.jdt.core](https://github.com/eclipse-jdt/eclipse.jdt.core)
+- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [openjdk/jcov](https://github.com/openjdk/jcov)
+  > https://wiki.openjdk.org/display/CodeTools/jcov
 
 ### [michal-kapala](https://github.com/michal-kapala)
 - 🌟 👤 [michal-kapala](https://github.com/michal-kapala) Starred [gwentcard/gwentcard.github.io](https://github.com/gwentcard/gwentcard.github.io)
@@ -74,5 +80,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-01 17:00:44 UTC*
+*Last updated at 2026-04-01 19:09:10 UTC*
 *Historical records are stored in the `archive` directory.*
