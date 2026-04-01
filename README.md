@@ -38,8 +38,14 @@ Today's public activity from users I follow (updated every 15 minutes).
   > A Notion-like editor for your GitHub repos.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EveryInc/proof-sdk](https://github.com/EveryInc/proof-sdk)
   > Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mandiant/flare-learning-hub](https://github.com/mandiant/flare-learning-hub)
+  > Free educational content on reverse engineering and malware analysis from the FLARE team
+
+### [niieani](https://github.com/niieani)
+- 🌟 👤 [niieani](https://github.com/niieani) Starred [polotno-project/render-tag](https://github.com/polotno-project/render-tag)
+  > Render HTML string into canvas using 2d native API
 
 
 ---
-*Last updated at 2026-04-01 07:46:14 UTC*
+*Last updated at 2026-04-01 09:12:08 UTC*
 *Historical records are stored in the `archive` directory.*
