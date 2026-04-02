@@ -22,6 +22,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker)
   > Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin)
+  > A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed...
+
 ### [jedisct1](https://github.com/jedisct1)
 - 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [angt/BucketBoard](https://github.com/angt/BucketBoard) to [dip-proto/BucketBoard](https://github.com/dip-proto/BucketBoard)
   > The copypasta network
@@ -38,5 +42,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-02 10:55:57 UTC*
+*Last updated at 2026-04-02 11:51:08 UTC*
 *Historical records are stored in the `archive` directory.*
