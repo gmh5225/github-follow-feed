@@ -7,6 +7,15 @@ Today's public activity from users I follow (updated every 15 minutes).
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [milankovo/ida-search](https://github.com/milankovo/ida-search) to [CrackerCat/ida-search](https://github.com/CrackerCat/ida-search)
 
+### [IuvenisSapiens](https://github.com/IuvenisSapiens)
+- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Saganaki22/ComfyUI-LongCat-AudioDIT-TTS](https://github.com/Saganaki22/ComfyUI-LongCat-AudioDIT-TTS)
+  > ComfyUI custom nodes for LongCat-AudioDiT \ Diffusion-based Zero-Shot Text-to-Speech
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Saganaki22/ComfyUI-LongCat-AudioDIT-TTS](https://github.com/Saganaki22/ComfyUI-LongCat-AudioDIT-TTS) to [IuvenisSapiens/ComfyUI-LongCat-AudioDIT-TTS](https://github.com/IuvenisSapiens/ComfyUI-LongCat-AudioDIT-TTS)
+  > ComfyUI custom nodes for LongCat-AudioDiT \ Diffusion-based Zero-Shot Text-to-Speech
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [melMass/comfy_mtb](https://github.com/melMass/comfy_mtb) to [IuvenisSapiens/comfy_mtb](https://github.com/IuvenisSapiens/comfy_mtb)
+  > Animation oriented nodes pack for ComfyUI
+- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) to [IuvenisSapiens/ComfyUI-WanVideoWrapper](https://github.com/IuvenisSapiens/ComfyUI-WanVideoWrapper)
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thiagopbueno/pyddlib](https://github.com/thiagopbueno/pyddlib)
   > pyddlib is a Python3 library for manipulating decision diagrams.
@@ -19,5 +28,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-02 05:07:04 UTC*
+*Last updated at 2026-04-02 07:19:55 UTC*
 *Historical records are stored in the `archive` directory.*
