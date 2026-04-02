@@ -6,6 +6,8 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [milankovo/ida-search](https://github.com/milankovo/ida-search) to [CrackerCat/ida-search](https://github.com/CrackerCat/ida-search)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [veritas501/ida-hub-agent-skills](https://github.com/veritas501/ida-hub-agent-skills) to [CrackerCat/ida-hub-agent-skills](https://github.com/CrackerCat/ida-hub-agent-skills)
+  > Orchestrate multiple IDA Pro instances through a central Hub, enabling AI agents to perform complex ...
 
 ### [IuvenisSapiens](https://github.com/IuvenisSapiens)
 - 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Saganaki22/ComfyUI-LongCat-AudioDIT-TTS](https://github.com/Saganaki22/ComfyUI-LongCat-AudioDIT-TTS)
@@ -20,6 +22,10 @@ Today's public activity from users I follow (updated every 15 minutes).
 - 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker)
   > Pastebin on Cloudflare worker, with friendly CLI usage and rich features
 
+### [jedisct1](https://github.com/jedisct1)
+- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [angt/BucketBoard](https://github.com/angt/BucketBoard) to [dip-proto/BucketBoard](https://github.com/dip-proto/BucketBoard)
+  > The copypasta network
+
 ### [jevinskie](https://github.com/jevinskie)
 - 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thiagopbueno/pyddlib](https://github.com/thiagopbueno/pyddlib)
   > pyddlib is a Python3 library for manipulating decision diagrams.
@@ -32,5 +38,5 @@ Today's public activity from users I follow (updated every 15 minutes).
 
 
 ---
-*Last updated at 2026-04-02 09:03:56 UTC*
+*Last updated at 2026-04-02 10:55:57 UTC*
 *Historical records are stored in the `archive` directory.*
