@@ -1,6 +1,7 @@
 name: Hourly Digest
 
 on:
+  workflow_dispatch:
   push:
       branches:
           - "main"
@@ -16,10 +17,7 @@ on:
     # Run once every hour
     - cron: '0 * * * *'
     # Run once every hour at minute 15
-    # - cron: '15 * * * *'  
-
-  # Allow manual trigger
-  workflow_dispatch:
+    # - cron: '15 * * * *'
 
 # cancel previous workflow jobs for PRs
 concurrency:
@@ -108,3 +106,23 @@ jobs:
             echo "Push failed after 3 attempts"
             exit 1
           fi
+
+      - name: Notify Discord
+        if: success()
+        continue-on-error: true
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          REPO_HTML_URL: ${{ github.server_url }}/${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "Skipping Discord: set repository secret DISCORD_WEBHOOK_URL to enable notifications."
+            exit 0
+          fi
+          title=$(head -n1 README.md 2>/dev/null | sed 's/^# //' || echo "Daily GitHub digest")
+          payload=$(jq -nc \
+            --arg title "$title" \
+            --arg repo "$REPO_HTML_URL" \
+            --arg run "$RUN_URL" \
+            '{embeds: [{title: $title, url: $repo, description: ("[View this workflow run](" + $run + ")"), color: 5763719}]}')
+          curl -sfS -X POST -H "Content-Type: application/json" -d "$payload" "$DISCORD_WEBHOOK_URL"
