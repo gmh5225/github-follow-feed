@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
   > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia...
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
+  > [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: ...
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
   > A fast, helpful, and open-source document parser
@@ -64,6 +68,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [gildas-lormeau/single-file-cli](https://github.com/gildas-lormeau/single-file-cli)
+  > CLI tool for saving a faithful copy of a complete web page in a single HTML file (based on SingleFil...
 
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
@@ -75,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-04 13:29:10 UTC*
+*Last updated at 2026-04-04 14:16:02 UTC*
 *Historical records are stored in the `archive` directory.*
