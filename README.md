@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
   > The Context Optimization Layer for LLM Applications
 
+### [h33p](https://github.com/h33p)
+- 🍴 👤 [h33p](https://github.com/h33p) Forked [rongardF/tvdatafeed](https://github.com/rongardF/tvdatafeed) to [h33p/tvdatafeed](https://github.com/h33p/tvdatafeed)
+  > A simple TradingView historical Data Downloader
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
   > A unified library of SOTA model optimization techniques like quantization, pruning, distillation, sp...
@@ -81,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-04 14:16:02 UTC*
+*Last updated at 2026-04-04 14:39:08 UTC*
 *Historical records are stored in the `archive` directory.*
