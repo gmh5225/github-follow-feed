@@ -1,46 +1,75 @@
-# Daily GitHub Activity (2026-04-02)
+# Daily GitHub Activity (2026-04-04)
 
-Today's public activity from users I follow (updated every 15 minutes).
+Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [milankovo/ida-search](https://github.com/milankovo/ida-search) to [CrackerCat/ida-search](https://github.com/CrackerCat/ida-search)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [veritas501/ida-hub-agent-skills](https://github.com/veritas501/ida-hub-agent-skills) to [CrackerCat/ida-hub-agent-skills](https://github.com/CrackerCat/ida-hub-agent-skills)
-  > Orchestrate multiple IDA Pro instances through a central Hub, enabling AI agents to perform complex ...
+### [Coldzer0](https://github.com/Coldzer0)
+- 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
 
-### [IuvenisSapiens](https://github.com/IuvenisSapiens)
-- 🌟 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Starred [Saganaki22/ComfyUI-LongCat-AudioDIT-TTS](https://github.com/Saganaki22/ComfyUI-LongCat-AudioDIT-TTS)
-  > ComfyUI custom nodes for LongCat-AudioDiT \ Diffusion-based Zero-Shot Text-to-Speech
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [Saganaki22/ComfyUI-LongCat-AudioDIT-TTS](https://github.com/Saganaki22/ComfyUI-LongCat-AudioDIT-TTS) to [IuvenisSapiens/ComfyUI-LongCat-AudioDIT-TTS](https://github.com/IuvenisSapiens/ComfyUI-LongCat-AudioDIT-TTS)
-  > ComfyUI custom nodes for LongCat-AudioDiT \ Diffusion-based Zero-Shot Text-to-Speech
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [melMass/comfy_mtb](https://github.com/melMass/comfy_mtb) to [IuvenisSapiens/comfy_mtb](https://github.com/IuvenisSapiens/comfy_mtb)
-  > Animation oriented nodes pack for ComfyUI
-- 🍴 👤 [IuvenisSapiens](https://github.com/IuvenisSapiens) Forked [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) to [IuvenisSapiens/ComfyUI-WanVideoWrapper](https://github.com/IuvenisSapiens/ComfyUI-WanVideoWrapper)
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen)
+  > Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercia...
 
-### [NyaMisty](https://github.com/NyaMisty)
-- 🌟 👤 [NyaMisty](https://github.com/NyaMisty) Starred [SharzyL/pastebin-worker](https://github.com/SharzyL/pastebin-worker)
-  > Pastebin on Cloudflare worker, with friendly CLI usage and rich features
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
+  > A fast, helpful, and open-source document parser
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness)
+  > "OpenHarness: Open Agent Harness"
 
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin)
-  > A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed...
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [analyticalrohit/awesome-vibe-coding-guide](https://github.com/analyticalrohit/awesome-vibe-coding-guide)
+  > Become 10x Vibe Coder. Awesome Vibe Coding guide, best practices, and tips for efficient and control...
 
-### [jedisct1](https://github.com/jedisct1)
-- 🍴 👤 [jedisct1](https://github.com/jedisct1) Forked [angt/BucketBoard](https://github.com/angt/BucketBoard) to [dip-proto/BucketBoard](https://github.com/dip-proto/BucketBoard)
-  > The copypasta network
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+  > 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi...
 
-### [jevinskie](https://github.com/jevinskie)
-- 🌟 👤 [jevinskie](https://github.com/jevinskie) Starred [thiagopbueno/pyddlib](https://github.com/thiagopbueno/pyddlib)
-  > pyddlib is a Python3 library for manipulating decision diagrams.
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [ivov/lisette](https://github.com/ivov/lisette)
+  > A little language inspired by Rust that compiles to Go
 
-### [niieani](https://github.com/niieani)
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy)
-  > An egress firewall for untrusted workloads.
-- 🌟 👤 [niieani](https://github.com/niieani) Starred [wesm/middleman](https://github.com/wesm/middleman)
-  > Local-first GitHub dashboard for maintainers to triage, review, and merge PRs and issues across repo...
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
+  > The Context Optimization Layer for LLM Applications
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)
+  > A unified library of SOTA model optimization techniques like quantization, pruning, distillation, sp...
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [facebookresearch/repoprover](https://github.com/facebookresearch/repoprover)
+  > Research code base for Automatic Textbook Formalization
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
+  > 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program...
+
+### [mzakocs](https://github.com/mzakocs)
+- 🌟 👤 [mzakocs](https://github.com/mzakocs) Starred [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko)
+  > Agentic review of Linux Kernel code changes
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [YuZhouRen86/VxKex-NEXT](https://github.com/YuZhouRen86/VxKex-NEXT)
+  > Windows 7 API Extensions
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [i486/VxKex](https://github.com/i486/VxKex)
+  > Windows 7 API Extensions
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [hasherezade/pe-bear-releases](https://github.com/hasherezade/pe-bear-releases)
+  > PE-bear (builds only)
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [gildas-lormeau/single-file-core](https://github.com/gildas-lormeau/single-file-core)
+
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your ...
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [halal-beef/houston-pub](https://github.com/halal-beef/houston-pub)
+  > We had a problem - and now, publicly, a solution :)
 
 
 ---
-*Last updated at 2026-04-02 11:51:08 UTC*
+*Last updated at 2026-04-04 13:00:37 UTC*
 *Historical records are stored in the `archive` directory.*
