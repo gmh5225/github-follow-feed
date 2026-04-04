@@ -66,12 +66,10 @@ jobs:
           # Fetch latest changes before committing to reduce conflicts
           git fetch origin main
           
-          # Only add archive/ if it exists to avoid error
-          if [ -d archive ]; then
-            git add README.md archive/
-          else
-            git add README.md
-          fi
+          # Stage README, optional archive/, and custom user list if present
+          git add README.md
+          [ -d archive ] && git add archive/
+          [ -f custom_users.txt ] && git add custom_users.txt
 
           if git diff --staged --quiet; then
             echo "No new activity to commit."

@@ -20,7 +20,7 @@ PROGRESS_LOG_INTERVAL = 50
 # Read-only module-level template for README content
 README_TEMPLATE = string.Template("""# Daily GitHub Activity (${today_str})
 
-Today's public activity from users I follow (updated every 15 minutes).
+Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
@@ -104,18 +104,39 @@ class EventLineBuilder:
             return None
 
 
+def load_custom_usernames(path: pathlib.Path, logger: logging.Logger) -> typing.List[str]:
+    """
+    Load extra usernames from a repo file (one per line, # comments allowed).
+    """
+    if not path.is_file():
+        logger.debug("Custom users file %s not found; skipping.", path)
+        return []
+    logins: typing.List[str] = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#"):
+            continue
+        if line.startswith("@"):
+            line = line[1:].strip()
+        logins.append(line)
+    logger.info("Loaded %d extra login(s) from %s.", len(logins), path)
+    return logins
+
+
 class GitHubDigest:
     def __init__(
         self,
         github_token: str,
         github_username: str,
         archive_dir: str = "archive",
-        readme_file: str = "README.md"
+        readme_file: str = "README.md",
+        custom_users_file: str = "custom_users.txt",
     ):
         self.github_token: str = github_token
         self.github_username: str = github_username
         self.archive_dir: str = archive_dir
         self.readme_file: str = readme_file
+        self.custom_users_file: str = custom_users_file
         self.github: typing.Optional[github.Github] = None
         self.logger: logging.Logger = logging.getLogger(__name__)
         self.line_builder: EventLineBuilder = EventLineBuilder(self.logger)
@@ -151,12 +172,9 @@ class GitHubDigest:
         else:
             self.logger.info("README does not need to be archived.")
 
-    def get_events_from_followed_users(
-        self,
-        today_date_utc: datetime.date,
-    ) -> typing.List[typing.Any]:
+    def collect_tracked_logins(self) -> typing.List[str]:
         """
-        Get today's public activity from all users followed by the specified user.
+        Unique logins: GitHub following (users only), then custom_users.txt entries not already listed.
         """
         if self.github is None:
             raise RuntimeError("GitHub client is not initialized. Call setup_github() first.")
@@ -167,29 +185,58 @@ class GitHubDigest:
             self.logger.error("Could not fetch user '%s': %s", self.github_username, e)
             raise
 
-        following = main_user.get_following()
-        todays_events: typing.List[typing.Any] = []
-        self.logger.info("Fetching today's activity for all users followed by %s...", self.github_username)
+        seen: typing.Set[str] = set()
+        ordered: typing.List[str] = []
 
-        for followed_user in following:
-            # Skip organizations as they don't support the events API endpoint
+        for followed_user in main_user.get_following():
             if followed_user.type == "Organization":
-                self.logger.debug("  -> Skipping organization %s (organizations not supported)", followed_user.login)
+                self.logger.debug(
+                    "  -> Skipping organization %s (organizations not supported)", followed_user.login
+                )
                 continue
+            if followed_user.login not in seen:
+                seen.add(followed_user.login)
+                ordered.append(followed_user.login)
 
-            self.logger.info("  -> Fetching activity for %s...", followed_user.login)
+        custom_path = pathlib.Path(self.custom_users_file)
+        for login in load_custom_usernames(custom_path, self.logger):
+            if login not in seen:
+                seen.add(login)
+                ordered.append(login)
+
+        return ordered
+
+    def get_events_for_tracked_users(
+        self,
+        today_date_utc: datetime.date,
+    ) -> typing.List[typing.Any]:
+        """
+        Get today's public activity for following users plus custom_users.txt.
+        """
+        if self.github is None:
+            raise RuntimeError("GitHub client is not initialized. Call setup_github() first.")
+
+        logins = self.collect_tracked_logins()
+        self.logger.info("Fetching today's activity for %d tracked user(s)...", len(logins))
+
+        todays_events: typing.List[typing.Any] = []
+        for login in logins:
+            self.logger.info("  -> Fetching activity for %s...", login)
             try:
-                events = followed_user.get_events()
+                user = self.github.get_user(login)
+                if user.type == "Organization":
+                    self.logger.warning("  -> Skipping organization %s (not supported)", login)
+                    continue
+                events = user.get_events()
                 for event in events:
                     event_date = event.created_at.date()
                     if event_date < today_date_utc:
-                        break  # No more events for today for this user
+                        break
                     if event_date == today_date_utc:
                         todays_events.append(event)
             except Exception as e:
-                self.logger.warning("  -> Error fetching activity for user %s: %s", followed_user.login, e)
+                self.logger.warning("  -> Error fetching activity for user %s: %s", login, e)
 
-        # Sort all events in reverse chronological order to ensure newest events come first
         todays_events.sort(key=lambda e: e.created_at, reverse=True)
         self.logger.debug("Collected %d events for today.", len(todays_events))
         return todays_events
@@ -199,7 +246,7 @@ class GitHubDigest:
         Generate Markdown content from a list of events.
         """
         if not events:
-            return "The users you follow have no new public activity today.\n"
+            return "Tracked users (following + custom list) have no new public activity today.\n"
 
         total_events = len(events)
         self.logger.info("Processing %d events to generate markdown...", total_events)
@@ -223,7 +270,7 @@ class GitHubDigest:
 
         if not events_by_user:
             return (
-                "The users you follow have no public activity today that matches the filter criteria.\n"
+                "Tracked users have no public activity today that matches the filter criteria.\n"
             )
 
         sections = []
@@ -251,7 +298,7 @@ class GitHubDigest:
 
         self.archive_if_yesterday(yesterday_str)
 
-        todays_events = self.get_events_from_followed_users(today_utc.date())
+        todays_events = self.get_events_for_tracked_users(today_utc.date())
         self.logger.info("Found %d relevant events for today.", len(todays_events))
 
         todays_events_md = self.generate_markdown_for_events(todays_events)
@@ -304,6 +351,12 @@ def main() -> None:
         help="README file to update",
     )
     parser.add_argument(
+        "--custom-users-file",
+        type=str,
+        default="custom_users.txt",
+        help="File with extra GitHub logins to track (default: custom_users.txt)",
+    )
+    parser.add_argument(
         "--log-level",
         type=str,
         choices=["DEBUG", "INFO", "WARNING", "ERROR", "CRITICAL"],
@@ -327,6 +380,7 @@ def main() -> None:
         github_username=args.username,
         archive_dir=args.archive_dir,
         readme_file=args.readme_file,
+        custom_users_file=args.custom_users_file,
     )
 
     digest.run()
