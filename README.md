@@ -46,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)
   > 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair program...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [tjnull/leetha](https://github.com/tjnull/leetha)
+  > Passive network fingerprinting and analysis engine
+
 ### [mzakocs](https://github.com/mzakocs)
 - 🌟 👤 [mzakocs](https://github.com/mzakocs) Starred [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko)
   > Agentic review of Linux Kernel code changes
@@ -71,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-04 13:00:37 UTC*
+*Last updated at 2026-04-04 13:29:10 UTC*
 *Historical records are stored in the `archive` directory.*
