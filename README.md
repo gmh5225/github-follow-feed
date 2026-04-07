@@ -108,6 +108,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [solod-dev/solod](https://github.com/solod-dev/solod)
   > A subset of Go that translates to C
 
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)
+  > Library for reducing tail latency in RAM reads
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [cursey/x64-virtualizer-rs](https://github.com/cursey/x64-virtualizer-rs)
   > x86-64 virtualizing obfuscator written in Rust
@@ -177,5 +181,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-07 19:31:07 UTC*
+*Last updated at 2026-04-07 20:19:46 UTC*
 *Historical records are stored in the `archive` directory.*
