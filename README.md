@@ -52,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [enovella/Duck-Detector-Refactoring](https://github.com/enovella/Duck-Detector-Refactoring)
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [py2many/py2many](https://github.com/py2many/py2many)
+  > Transpiler of Python to many other languages
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/openvm-pqsig-poc](https://github.com/paradigmxyz/openvm-pqsig-poc)
   > OpenVM post-quantum signature verification PoC for leanSig
@@ -129,6 +133,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and str...
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG)
   > [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake)
+  > High-performance GraphRAG inspired from LightRag written in Rust
 
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
@@ -155,5 +161,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-07 15:24:01 UTC*
+*Last updated at 2026-04-07 16:30:39 UTC*
 *Historical records are stored in the `archive` directory.*
