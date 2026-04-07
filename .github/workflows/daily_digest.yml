@@ -14,7 +14,7 @@ on:
       branches:
           - "main"
   schedule:
-    # Run once every day
+    # Run once every hour
     - cron: '0 * * * *'
     # Run once every hour at minute 15
     # - cron: '15 * * * *'
