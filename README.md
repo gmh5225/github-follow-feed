@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [0xTriboulet/wiretap-rs](https://github.com/0xTriboulet/wiretap-rs)
   > A vibe-coded port of wiretap
 
+### [CR3Swapper](https://github.com/CR3Swapper)
+- 🌟 👤 [CR3Swapper](https://github.com/CR3Swapper) Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)
+  > Official inference framework for 1-bit LLMs
+
 ### [CalebFenton](https://github.com/CalebFenton)
 - 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -207,5 +211,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-07 22:19:07 UTC*
+*Last updated at 2026-04-07 23:19:37 UTC*
 *Historical records are stored in the `archive` directory.*
