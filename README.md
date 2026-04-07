@@ -66,6 +66,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance)
   > The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Se...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [senderend/ghostsurf](https://github.com/senderend/ghostsurf)
+  > NTLM HTTP relay tool with SOCKS proxy for browser session hijacking
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [enovella/Duck-Detector-Refactoring](https://github.com/enovella/Duck-Detector-Refactoring)
@@ -178,6 +182,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal)
+  > Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Perfo...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Sw4mpf0x/code-review-prompts](https://github.com/Sw4mpf0x/code-review-prompts)
@@ -201,5 +207,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-07 21:22:39 UTC*
+*Last updated at 2026-04-07 22:19:07 UTC*
 *Historical records are stored in the `archive` directory.*
