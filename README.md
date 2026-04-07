@@ -56,10 +56,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [py2many/py2many](https://github.com/py2many/py2many)
   > Transpiler of Python to many other languages
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/openvm-pqsig-poc](https://github.com/paradigmxyz/openvm-pqsig-poc)
-  > OpenVM post-quantum signature verification PoC for leanSig
-
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -136,6 +132,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake)
   > High-performance GraphRAG inspired from LightRag written in Rust
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ForrestFeng/imgui](https://github.com/ForrestFeng/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [senderend/ghostsurf](https://github.com/senderend/ghostsurf)
+  > NTLM HTTP relay tool with SOCKS proxy for browser session hijacking
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
+  > Model Context Protocol for WinDBG
+
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
 
@@ -161,5 +167,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-07 17:28:06 UTC*
+*Last updated at 2026-04-07 18:28:32 UTC*
 *Historical records are stored in the `archive` directory.*
