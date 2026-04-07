@@ -16,9 +16,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [HexRaysSA/plugin-repository](https://github.com/HexRaysSA/plugin-repository)
+  > public index of IDA Pro plugins
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cursey/x64-virtualizer-rs](https://github.com/cursey/x64-virtualizer-rs)
   > x86-64 virtualizing obfuscator written in Rust
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Nightmare-Eclipse/BlueHammer](https://github.com/Nightmare-Eclipse/BlueHammer)
+  > Repository hosting the bluehammer vulnerability
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/BlueHammer](https://github.com/Nightmare-Eclipse/BlueHammer) to [CrackerCat/BlueHammer](https://github.com/CrackerCat/BlueHammer)
@@ -44,7 +50,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [microsoft/agent-framework](https://github.com/microsoft/agent-framework)
   > A framework for building, orchestrating and deploying AI agents and multi-agent workflows with suppo...
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, p...
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder o...
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance)
   > The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Se...
 
@@ -157,9 +163,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Sw4mpf0x/code-review-prompts](https://github.com/Sw4mpf0x/code-review-prompts)
   > A collection of useful prompts and system prompts for security-oriented code reviews
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+  > Hundreds of models & providers. One command to find what runs on your hardware.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
-  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, p...
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder o...
 
 ### [xuhancn](https://github.com/xuhancn)
 - 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [ROCm/FlyDSL](https://github.com/ROCm/FlyDSL) to [xuhancn/FlyDSL](https://github.com/xuhancn/FlyDSL)
@@ -167,5 +177,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-07 18:28:32 UTC*
+*Last updated at 2026-04-07 19:31:07 UTC*
 *Historical records are stored in the `archive` directory.*
