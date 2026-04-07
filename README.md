@@ -12,6 +12,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [0xisk](https://github.com/0xisk) Forked [andrew-fleming/compact-contracts](https://github.com/andrew-fleming/compact-contracts) to [0xisk/compact-contracts](https://github.com/0xisk/compact-contracts)
   > OpenZeppelin Contracts written in Compact for Midnight
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Nightmare-Eclipse/BlueHammer](https://github.com/Nightmare-Eclipse/BlueHammer)
+  > Repository hosting the bluehammer vulnerability
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [hakaioffsec/coffee](https://github.com/hakaioffsec/coffee)
+  > A COFF loader made in Rust
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [I-CAN-hack/automotive](https://github.com/I-CAN-hack/automotive)
+  > Rust crate providing a variety of automotive related libraries, such as communicating with CAN inter...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [0xTriboulet/wiretap-rs](https://github.com/0xTriboulet/wiretap-rs)
+  > A vibe-coded port of wiretap
+
 ### [CalebFenton](https://github.com/CalebFenton)
 - 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -25,6 +35,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > x86-64 virtualizing obfuscator written in Rust
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Nightmare-Eclipse/BlueHammer](https://github.com/Nightmare-Eclipse/BlueHammer)
   > Repository hosting the bluehammer vulnerability
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)
+  > Library for reducing tail latency in RAM reads
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/BlueHammer](https://github.com/Nightmare-Eclipse/BlueHammer) to [CrackerCat/BlueHammer](https://github.com/CrackerCat/BlueHammer)
@@ -116,6 +128,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [cursey/x64-virtualizer-rs](https://github.com/cursey/x64-virtualizer-rs)
   > x86-64 virtualizing obfuscator written in Rust
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [steaklive/EveryRay-Rendering-Engine](https://github.com/steaklive/EveryRay-Rendering-Engine)
+  > Robust real-time rendering engine on DX11, DX12 with many advanced graphical features for quick prot...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -171,6 +187,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
   > Hundreds of models & providers. One command to find what runs on your hardware.
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [XiaomiMiMo/MiMo-V2-Flash](https://github.com/XiaomiMiMo/MiMo-V2-Flash)
+  > MiMo-V2-Flash: Efficient Reasoning, Coding, and Agentic Foundation Model
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
   > AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid). Turn any folder o...
@@ -181,5 +201,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-07 20:19:46 UTC*
+*Last updated at 2026-04-07 21:22:39 UTC*
 *Historical records are stored in the `archive` directory.*
