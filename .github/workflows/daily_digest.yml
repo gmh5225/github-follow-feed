@@ -15,7 +15,7 @@ on:
           - "main"
   schedule:
     # Run once every day
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'
     # Run once every hour at minute 15
     # - cron: '15 * * * *'
 
