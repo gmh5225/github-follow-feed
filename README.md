@@ -41,6 +41,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [D00MFist/PersistentJXA](https://github.com/D00MFist/PersistentJXA)
   > Collection of macOS persistence methods and miscellaneous tools in JXA
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
   > Audio Plugin for Audio to MIDI transcription using deep learning.
@@ -69,6 +72,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The easiest, and fastest way to run AI-generated Python code safely
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeianMao/triattention](https://github.com/WeianMao/triattention)
   > TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw lo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
+  > Lightweight TCP/IP stack with no dynamic memory allocations
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -77,8 +82,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > MCP stdio server for radare2
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant)
   > MCP server for reverse engineering tasks in Ghidra 👩‍💻
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [tobi/qmd](https://github.com/tobi/qmd)
+  > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
 
 
 ---
-*Last updated at 2026-04-08 08:35:46 UTC*
+*Last updated at 2026-04-08 09:33:39 UTC*
 *Historical records are stored in the `archive` directory.*
