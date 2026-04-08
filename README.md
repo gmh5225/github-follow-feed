@@ -102,6 +102,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [mthcht/threatcheck](https://github.com/mthcht/threatcheck)
   > ThreatCheck
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [mthcht/Masquerade-Spoofer](https://github.com/mthcht/Masquerade-Spoofer)
+  > Browser extension for full HTTP header spoofing. 1000+ User-Agent presets, Client Hints stripping, s...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
@@ -131,5 +133,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 17:32:06 UTC*
+*Last updated at 2026-04-08 18:37:03 UTC*
 *Historical records are stored in the `archive` directory.*
