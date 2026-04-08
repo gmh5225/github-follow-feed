@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [m4b/goblin](https://github.com/m4b/goblin) to [Delphos-Labs/goblin](https://github.com/Delphos-Labs/goblin)
   > An impish, cross-platform binary parsing crate, written in Rust
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [NagyD/SDLPoP](https://github.com/NagyD/SDLPoP)
+  > An open-source port of Prince of Persia, based on the disassembly of the DOS version.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
   > Lightweight TCP/IP stack with no dynamic memory allocations
@@ -19,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cryptography Toolkit
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MazX0p/mssqlbof](https://github.com/MazX0p/mssqlbof)
   > A Beacon Object File suite for Microsoft SQL Server that speaks TDS 7.4 on the wire itself
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [o-gs/dji-firmware-tools](https://github.com/o-gs/dji-firmware-tools)
+  > Tools for handling firmwares of DJI products, with focus on quadcopters.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NagyD/SDLPoP](https://github.com/NagyD/SDLPoP)
+  > An open-source port of Prince of Persia, based on the disassembly of the DOS version.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [J5now/JDex2](https://github.com/J5now/JDex2) to [CrackerCat/JDex2](https://github.com/CrackerCat/JDex2)
@@ -44,6 +52,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag)
   > Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.
+
+### [can1357](https://github.com/can1357)
+- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/pulsar-jdbc](https://github.com/can1357/pulsar-jdbc) public
 
 ### [chfast](https://github.com/chfast)
 - 🍴 👤 [chfast](https://github.com/chfast) Forked [erigontech/erigon](https://github.com/erigontech/erigon) to [chfast/erigon](https://github.com/chfast/erigon)
@@ -136,5 +147,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 20:20:49 UTC*
+*Last updated at 2026-04-08 21:23:05 UTC*
 *Historical records are stored in the `archive` directory.*
