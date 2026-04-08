@@ -45,6 +45,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag)
   > Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.
 
+### [fotoroshi](https://github.com/fotoroshi)
+- 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [xwtro0tk1t-cloud/harness](https://github.com/xwtro0tk1t-cloud/harness)
+  > Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for ...
+
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [D00MFist/PersistentJXA](https://github.com/D00MFist/PersistentJXA)
   > Collection of macOS persistence methods and miscellaneous tools in JXA
@@ -121,5 +125,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 15:38:23 UTC*
+*Last updated at 2026-04-08 16:34:50 UTC*
 *Historical records are stored in the `archive` directory.*
