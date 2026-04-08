@@ -33,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [chinapxe/sketchshot](https://github.com/chinapxe/sketchshot)
   > 我们用镜头语言构建故事板，非生成式工作流。
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+  > The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag)
   > Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.
@@ -87,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 09:33:39 UTC*
+*Last updated at 2026-04-08 10:30:32 UTC*
 *Historical records are stored in the `archive` directory.*
