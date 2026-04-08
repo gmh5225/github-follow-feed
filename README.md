@@ -45,6 +45,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag)
   > Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.
 
+### [chfast](https://github.com/chfast)
+- 🍴 👤 [chfast](https://github.com/chfast) Forked [erigontech/erigon](https://github.com/erigontech/erigon) to [chfast/erigon](https://github.com/chfast/erigon)
+  > Ethereum implementation on the efficiency frontier 
+
 ### [fotoroshi](https://github.com/fotoroshi)
 - 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [xwtro0tk1t-cloud/harness](https://github.com/xwtro0tk1t-cloud/harness)
   > Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for ...
@@ -110,6 +114,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An LLM extension for Ghidra to enable AI assistance in RE.
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper)
   > Live validation proxy tool for testing web app vulnerabilities
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [obra/superpowers](https://github.com/obra/superpowers)
+  > An agentic skills framework & software development methodology that works.
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -125,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 16:34:50 UTC*
+*Last updated at 2026-04-08 17:32:06 UTC*
 *Historical records are stored in the `archive` directory.*
