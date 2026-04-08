@@ -22,6 +22,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/Duck-ToolBox](https://github.com/eltavine/Duck-ToolBox) to [CrackerCat/Duck-ToolBox](https://github.com/CrackerCat/Duck-ToolBox)
   > KernelSU Module
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [CrackerCat/Duck-Detector-Refactoring](https://github.com/CrackerCat/Duck-Detector-Refactoring)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MrQianjinsi/agentic-metric](https://github.com/MrQianjinsi/agentic-metric) to [CrackerCat/agentic-metric](https://github.com/CrackerCat/agentic-metric)
+  > A local-only monitoring tool for AI coding agents.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Entity-Now/WJFakeLocation](https://github.com/Entity-Now/WJFakeLocation) to [CrackerCat/WJFakeLocation](https://github.com/CrackerCat/WJFakeLocation)
+  > WJFakeLocation 是一款功能强大的 Xposed 虚拟定位应用，专为 Android 13-16 系统设计。采用最新的 Jetpack Compose 和 Material Design ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FxxkLocation/xbud-web](https://github.com/FxxkLocation/xbud-web) to [CrackerCat/xbud-web](https://github.com/CrackerCat/xbud-web)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FxxkLocation/Github-direct](https://github.com/FxxkLocation/Github-direct) to [CrackerCat/Github-direct](https://github.com/CrackerCat/Github-direct)
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [chinapxe/sketchshot](https://github.com/chinapxe/sketchshot)
@@ -30,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag)
   > Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.
+
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [D00MFist/PersistentJXA](https://github.com/D00MFist/PersistentJXA)
+  > Collection of macOS persistence methods and miscellaneous tools in JXA
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
@@ -43,12 +53,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [mattakins/Pixel_Transparency](https://github.com/mattakins/Pixel_Transparency)
   > Nostalgic GBC shader for RetroArch - slang and gl versions
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+  > Open-source orchestration for zero-human companies
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jorio/gitfourchette](https://github.com/jorio/gitfourchette)
+  > The comfortable Git UI for Linux
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
   > A headless MCP server for IDA Pro 9+
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [farzaa/clicky](https://github.com/farzaa/clicky)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tjmlabs/AgentRun](https://github.com/tjmlabs/AgentRun)
   > The easiest, and fastest way to run AI-generated Python code safely
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeianMao/triattention](https://github.com/WeianMao/triattention)
+  > TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw lo...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -60,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 07:39:24 UTC*
+*Last updated at 2026-04-08 08:35:46 UTC*
 *Historical records are stored in the `archive` directory.*
