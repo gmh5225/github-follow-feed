@@ -51,6 +51,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
+  > SightHouse is a tool designed to assist reverse engineers by retrieving information and metadata fro...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
@@ -67,6 +69,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
   > Open-source orchestration for zero-human companies
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Nightmare-Eclipse/BlueHammer](https://github.com/Nightmare-Eclipse/BlueHammer)
+  > Repository hosting the bluehammer vulnerability
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jorio/gitfourchette](https://github.com/jorio/gitfourchette)
@@ -92,6 +96,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [symgraph/GhidrAssist](https://github.com/symgraph/GhidrAssist)
   > An LLM extension for Ghidra to enable AI assistance in RE.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ghostsecurity/reaper](https://github.com/ghostsecurity/reaper)
+  > Live validation proxy tool for testing web app vulnerabilities
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -107,5 +113,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 13:40:10 UTC*
+*Last updated at 2026-04-08 14:42:28 UTC*
 *Historical records are stored in the `archive` directory.*
