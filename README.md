@@ -61,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
   > SightHouse is a tool designed to assist reverse engineers by retrieving information and metadata fro...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [rooootdev/lara](https://github.com/rooootdev/lara)
+  > WIP darksword kexploit implement
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
@@ -133,5 +135,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 18:37:03 UTC*
+*Last updated at 2026-04-08 19:35:21 UTC*
 *Historical records are stored in the `archive` directory.*
