@@ -79,6 +79,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
   > Lightweight TCP/IP stack with no dynamic memory allocations
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+  > Hindsight: Agent Memory That  Learns
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+  > Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
@@ -88,8 +94,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > MCP server for reverse engineering tasks in Ghidra 👩‍💻
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [tobi/qmd](https://github.com/tobi/qmd)
   > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
+  > A powerful meta-prompting, context engineering and spec-driven development system that enables agent...
 
 
 ---
-*Last updated at 2026-04-08 11:26:34 UTC*
+*Last updated at 2026-04-08 12:31:30 UTC*
 *Historical records are stored in the `archive` directory.*
