@@ -112,6 +112,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Hindsight: Agent Memory That  Learns
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
   > Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [yearn/yETH](https://github.com/yearn/yETH)
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [symgraph/GhidrAssist](https://github.com/symgraph/GhidrAssist)
@@ -135,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 19:35:21 UTC*
+*Last updated at 2026-04-08 20:20:49 UTC*
 *Historical records are stored in the `archive` directory.*
