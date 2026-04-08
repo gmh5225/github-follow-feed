@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CalebFenton](https://github.com/CalebFenton)
+- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [m4b/goblin](https://github.com/m4b/goblin) to [CalebFenton/goblin](https://github.com/CalebFenton/goblin)
+  > An impish, cross-platform binary parsing crate, written in Rust
+- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [m4b/goblin](https://github.com/m4b/goblin) to [Delphos-Labs/goblin](https://github.com/Delphos-Labs/goblin)
+  > An impish, cross-platform binary parsing crate, written in Rust
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
   > Lightweight TCP/IP stack with no dynamic memory allocations
@@ -17,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > KernelSU Module
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/Duck-Detector-Refactoring](https://github.com/eltavine/Duck-Detector-Refactoring) to [CrackerCat/Duck-Detector-Refactoring](https://github.com/CrackerCat/Duck-Detector-Refactoring)
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zilliztech/vector-graph-rag](https://github.com/zilliztech/vector-graph-rag)
+  > Graph RAG with pure vector search, achieving SOTA performance in multi-hop reasoning scenarios.
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
   > Audio Plugin for Audio to MIDI transcription using deep learning.
@@ -27,5 +37,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 03:14:08 UTC*
+*Last updated at 2026-04-08 04:57:07 UTC*
 *Historical records are stored in the `archive` directory.*
