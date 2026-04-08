@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [grayfail/echelon](https://github.com/grayfail/echelon)
+  > O(1) amortized priority queue based on an Adaptive Ladder Queue implementation.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [codedeliveryservice/Reckless](https://github.com/codedeliveryservice/Reckless)
+  > Competitive chess engine written in Rust
+
 ### [CalebFenton](https://github.com/CalebFenton)
 - 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [m4b/goblin](https://github.com/m4b/goblin) to [CalebFenton/goblin](https://github.com/CalebFenton/goblin)
   > An impish, cross-platform binary parsing crate, written in Rust
@@ -91,6 +97,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [mattakins/Pixel_Transparency](https://github.com/mattakins/Pixel_Transparency)
   > Nostalgic GBC shader for RetroArch - slang and gl versions
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [y637F9QQ2x/NOFILTER-NFEXEC](https://github.com/y637F9QQ2x/NOFILTER-NFEXEC)
+  > Havoc C2 BOF — WFP kernel-space SYSTEM escalation + command execution with indirect syscalls, patchl...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [y637F9QQ2x/MUTESONAR](https://github.com/y637F9QQ2x/MUTESONAR)
+  > Havoc C2 BOF — host enumeration without spawning cmd.exe or PowerShell
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [blacklanternsecurity/red-run](https://github.com/blacklanternsecurity/red-run)
+  > Offensive security toolkit for Claude Code
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [whokilleddb/emulat3](https://github.com/whokilleddb/emulat3)
+  > Step through PE functions or shellcode instruction-by-instruction (amd64)
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
   > Open-source orchestration for zero-human companies
@@ -124,6 +140,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
   > Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [yearn/yETH](https://github.com/yearn/yETH)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [flashbots/priority-update-registry](https://github.com/flashbots/priority-update-registry)
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [symgraph/GhidrAssist](https://github.com/symgraph/GhidrAssist)
@@ -147,5 +164,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 21:23:05 UTC*
+*Last updated at 2026-04-08 22:20:44 UTC*
 *Historical records are stored in the `archive` directory.*
