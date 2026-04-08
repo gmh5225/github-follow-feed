@@ -39,11 +39,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [mattakins/Pixel_Transparency](https://github.com/mattakins/Pixel_Transparency)
+  > Nostalgic GBC shader for RetroArch - slang and gl versions
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
+  > A headless MCP server for IDA Pro 9+
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
 
 ---
-*Last updated at 2026-04-08 05:41:14 UTC*
+*Last updated at 2026-04-08 06:43:28 UTC*
 *Historical records are stored in the `archive` directory.*
