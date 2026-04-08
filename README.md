@@ -15,6 +15,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lightweight TCP/IP stack with no dynamic memory allocations
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h)
   > Single-header c99 accelerated float/double parsing. Port of the fast_float library.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [randombit/botan](https://github.com/randombit/botan)
+  > Cryptography Toolkit
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MazX0p/mssqlbof](https://github.com/MazX0p/mssqlbof)
+  > A Beacon Object File suite for Microsoft SQL Server that speaks TDS 7.4 on the wire itself
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [J5now/JDex2](https://github.com/J5now/JDex2) to [CrackerCat/JDex2](https://github.com/CrackerCat/JDex2)
@@ -85,6 +89,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
   > Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [symgraph/GhidrAssist](https://github.com/symgraph/GhidrAssist)
+  > An LLM extension for Ghidra to enable AI assistance in RE.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
@@ -99,5 +107,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 12:31:30 UTC*
+*Last updated at 2026-04-08 13:40:10 UTC*
 *Historical records are stored in the `archive` directory.*
