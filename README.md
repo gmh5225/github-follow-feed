@@ -58,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DamRsn/NeuralNote](https://github.com/DamRsn/NeuralNote)
   > Audio Plugin for Audio to MIDI transcription using deep learning.
 
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [PABannier/sam3.cpp](https://github.com/PABannier/sam3.cpp)
+  > Fast state-of-the-art image and video segmentation in portable C/C++
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
   > The highest-scoring AI memory system ever benchmarked. And it's free.
@@ -87,6 +91,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
   > Lightweight TCP/IP stack with no dynamic memory allocations
 
+### [mthcht](https://github.com/mthcht)
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [mthcht/threatcheck](https://github.com/mthcht/threatcheck)
+  > ThreatCheck
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
   > Hindsight: Agent Memory That  Learns
@@ -113,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-08 14:42:28 UTC*
+*Last updated at 2026-04-08 15:38:23 UTC*
 *Historical records are stored in the `archive` directory.*
