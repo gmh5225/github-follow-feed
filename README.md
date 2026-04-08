@@ -46,12 +46,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
   > A headless MCP server for IDA Pro 9+
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [farzaa/clicky](https://github.com/farzaa/clicky)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tjmlabs/AgentRun](https://github.com/tjmlabs/AgentRun)
+  > The easiest, and fastest way to run AI-generated Python code safely
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
+  > MCP stdio server for radare2
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [cyberkaida/reverse-engineering-assistant](https://github.com/cyberkaida/reverse-engineering-assistant)
+  > MCP server for reverse engineering tasks in Ghidra 👩‍💻
 
 
 ---
-*Last updated at 2026-04-08 06:43:28 UTC*
+*Last updated at 2026-04-08 07:39:24 UTC*
 *Historical records are stored in the `archive` directory.*
