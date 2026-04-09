@@ -78,6 +78,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact)
   > pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and R...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture)
+  > Find dead Python code
 
 ### [cursey](https://github.com/cursey)
 - 🌟 👤 [cursey](https://github.com/cursey) Starred [fastbuild/fastbuild](https://github.com/fastbuild/fastbuild)
@@ -126,6 +128,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
   > Self-hosted audiobook and podcast server
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [jsoma/natural-pdf](https://github.com/jsoma/natural-pdf)
+  > A friendly library for working with PDFs
+
 ### [steipete](https://github.com/steipete)
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark)
   > 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件
@@ -142,5 +148,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 20:24:46 UTC*
+*Last updated at 2026-04-09 21:22:43 UTC*
 *Historical records are stored in the `archive` directory.*
