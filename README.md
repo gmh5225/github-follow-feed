@@ -56,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dzxpert/Antigravity-System-Prompt](https://github.com/dzxpert/Antigravity-System-Prompt) to [CrackerCat/Antigravity-System-Prompt](https://github.com/CrackerCat/Antigravity-System-Prompt)
   > Antigravity under the hood
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf)
+  > Convert Nintendo Switch executable files to ELFs
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [dumbasPL/fumo_loader](https://github.com/dumbasPL/fumo_loader)
   > Fumo Loader - All in one kernel-based DLL injector
@@ -112,9 +116,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [vivisect/vivisect](https://github.com/vivisect/vivisect)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
+  > The highest-scoring AI memory system ever benchmarked. And it's free.
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [Luce-Org/luce-megakernel](https://github.com/Luce-Org/luce-megakernel)
   > Megakernel to match Apple Silicon Efficiency at 2x the Throughput on a RTX 3090
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall)
+  > This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
@@ -153,6 +166,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [chetstriker/LLMtary](https://github.com/chetstriker/LLMtary)
   > Autonomous AI-powered penetration testing platform. LLM-driven recon, vulnerability analysis, and ex...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [tw93/Waza](https://github.com/tw93/Waza)
+  > 🥷 Engineering habits you already know, turned into skills Claude can run.
 
 ### [weak1337](https://github.com/weak1337)
 - 🌟 👤 [weak1337](https://github.com/weak1337) Starred [balena/aes-whitebox](https://github.com/balena/aes-whitebox)
@@ -160,5 +175,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 22:20:27 UTC*
+*Last updated at 2026-04-09 23:21:30 UTC*
 *Historical records are stored in the `archive` directory.*
