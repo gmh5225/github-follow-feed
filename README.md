@@ -7,6 +7,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [0xcpu](https://github.com/0xcpu)
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [FFRI/binja-swift-analyzer](https://github.com/FFRI/binja-swift-analyzer)
   > A Binary Ninja plugin for analyzing Swift binaries
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [FFRI/ShowProvenanceInfo](https://github.com/FFRI/ShowProvenanceInfo)
+  > A tool to show the provenance information of a file or directory
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [jamf/aftermath](https://github.com/jamf/aftermath)
+  > Aftermath is a free macOS IR framework
 
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)
@@ -77,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 08:41:42 UTC*
+*Last updated at 2026-04-09 09:37:28 UTC*
 *Historical records are stored in the `archive` directory.*
