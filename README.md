@@ -21,6 +21,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [dumbasPL/fumo_loader](https://github.com/dumbasPL/fumo_loader)
   > Fumo Loader - All in one kernel-based DLL injector
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [MazX0p/mssqlbof](https://github.com/MazX0p/mssqlbof)
+  > A Beacon Object File suite for Microsoft SQL Server that speaks TDS 7.4 on the wire itself
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [kenforthewin/atomic](https://github.com/kenforthewin/atomic)
@@ -28,9 +30,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zero2504/COMouflage](https://github.com/zero2504/COMouflage)
   > COM-based DLL Surrogate Injection
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
   > Create Reddit Videos with just✨ one command ✨
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+
+### [cursey](https://github.com/cursey)
+- 🌟 👤 [cursey](https://github.com/cursey) Starred [fastbuild/fastbuild](https://github.com/fastbuild/fastbuild)
+  > High performance build system for Windows, OSX and Linux. Supporting caching, network distribution a...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
@@ -44,5 +51,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 03:13:42 UTC*
+*Last updated at 2026-04-09 04:55:10 UTC*
 *Historical records are stored in the `archive` directory.*
