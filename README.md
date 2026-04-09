@@ -33,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > HSM library that uses wolfCrypt as it's fallback crypto
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl)
   > The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher)
+  > Native space switching on macOS with no animation
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Nitr0-G/Vmware](https://github.com/Nitr0-G/Vmware)
+  > Vmware source code for 2012.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [34306/excalibur](https://github.com/34306/excalibur) to [CrackerCat/excalibur](https://github.com/CrackerCat/excalibur)
@@ -120,6 +124,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf) to [mrexodia/nx2elf](https://github.com/mrexodia/nx2elf)
   > Convert Nintendo Switch executable files to ELFs
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [avihu28/Quantum-Safe-Bitcoin-Transactions](https://github.com/avihu28/Quantum-Safe-Bitcoin-Transactions)
+  > A way to enable Quantum Safe Bitcoin transactions that is available today. 
+
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [Entity-Now/WJFakeLocation](https://github.com/Entity-Now/WJFakeLocation)
   > WJFakeLocation 是一款功能强大的 Xposed 虚拟定位应用，专为 Android 13-16 系统设计。采用最新的 Jetpack Compose 和 Material Design ...
@@ -142,11 +150,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
   > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [chetstriker/LLMtary](https://github.com/chetstriker/LLMtary)
+  > Autonomous AI-powered penetration testing platform. LLM-driven recon, vulnerability analysis, and ex...
+
 ### [weak1337](https://github.com/weak1337)
 - 🌟 👤 [weak1337](https://github.com/weak1337) Starred [balena/aes-whitebox](https://github.com/balena/aes-whitebox)
   > WBC AES implementation in C++ using Chow and Muir papers supporting 128, 192, 256, 512, 1024, 2048 a...
 
 
 ---
-*Last updated at 2026-04-09 21:22:43 UTC*
+*Last updated at 2026-04-09 22:20:27 UTC*
 *Historical records are stored in the `archive` directory.*
