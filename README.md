@@ -86,6 +86,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intelxed/xed](https://github.com/intelxed/xed)
   > The X86 Encoder Decoder (XED), is a software library for encoding and decoding X86 (IA32 and Intel64...
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [intelpt/WindowsIntelPT](https://github.com/intelpt/WindowsIntelPT)
+  > This driver implements the Intel Processor Trace functionality in Intel Skylake architecture for Mic...
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [its-a-feature/LockSmith](https://github.com/its-a-feature/LockSmith)
@@ -93,6 +95,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [intel/ScalableVectorSearch](https://github.com/intel/ScalableVectorSearch)
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DLYuanGod/MegaTrain](https://github.com/DLYuanGod/MegaTrain)
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
@@ -132,5 +137,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 15:40:34 UTC*
+*Last updated at 2026-04-09 16:09:09 UTC*
 *Historical records are stored in the `archive` directory.*
