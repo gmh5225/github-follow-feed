@@ -17,6 +17,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🔧 AI-powered JS逆向工程 Skill —— 覆盖加密还原、混淆分析、动态Cookie、WASM逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [leezythu/maoxuan-skill](https://github.com/leezythu/maoxuan-skill) to [CrackerCat/maoxuan-skill](https://github.com/CrackerCat/maoxuan-skill)
   > 毛选.skill — 让毛泽东的思维框架帮你分析问题、制定策略、看透本质。7个核心心智模型 · 10条决策启发式 · 完整表达DNA。不是复读语录，是用他的认知框架帮你看问题。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xfffb/twisted](https://github.com/0xfffb/twisted) to [CrackerCat/twisted](https://github.com/CrackerCat/twisted)
+  > 面向浏览器的 JSVMP：将 JavaScript 编译为自定义字节码，由栈式虚拟机解释执行，配套 IR 混淆与运行时混淆和打包
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qtgolang/SunnyNet](https://github.com/qtgolang/SunnyNet) to [CrackerCat/SunnyNet](https://github.com/CrackerCat/SunnyNet)
+  > SunnyNet网络中间件
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [a121400/sunnymcptool](https://github.com/a121400/sunnymcptool) to [CrackerCat/sunnymcptool](https://github.com/CrackerCat/sunnymcptool)
+  > 基于 SunnyNet 中间件和 SunnyNetTools 抓包工具扩展的 MCP Server
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dzxpert/Antigravity-System-Prompt](https://github.com/dzxpert/Antigravity-System-Prompt) to [CrackerCat/Antigravity-System-Prompt](https://github.com/CrackerCat/Antigravity-System-Prompt)
+  > Antigravity under the hood
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [dumbasPL/fumo_loader](https://github.com/dumbasPL/fumo_loader)
@@ -34,6 +42,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
   > Create Reddit Videos with just✨ one command ✨
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [suzuki-shunsuke/pinact](https://github.com/suzuki-shunsuke/pinact)
+  > pinact is a CLI to edit GitHub Workflow and Composite action files and pin versions of Actions and R...
 
 ### [cursey](https://github.com/cursey)
 - 🌟 👤 [cursey](https://github.com/cursey) Starred [fastbuild/fastbuild](https://github.com/fastbuild/fastbuild)
@@ -59,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 05:41:14 UTC*
+*Last updated at 2026-04-09 06:43:31 UTC*
 *Historical records are stored in the `archive` directory.*
