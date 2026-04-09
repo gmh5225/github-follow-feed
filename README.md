@@ -19,6 +19,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [blackarrowsec/redteam-research](https://github.com/blackarrowsec/redteam-research)
   > Collection of PoC and offensive techniques used by the BlackArrow Red Team
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfssh](https://github.com/wolfSSL/wolfssh)
+  > wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfMQTT](https://github.com/wolfSSL/wolfMQTT)
+  > wolfMQTT is a small, fast, portable MQTT client implementation, including support for TLS 1.3.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfsentry](https://github.com/wolfSSL/wolfsentry)
+  > wolfSSL Intrusion Detection and Prevention System (IDPS)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfBoot](https://github.com/wolfSSL/wolfBoot)
+  > wolfBoot is a portable, OS-agnostic, secure bootloader for microcontrollers, supporting firmware aut...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfTPM](https://github.com/wolfSSL/wolfTPM)
+  > wolfTPM is a highly portable TPM 2.0 library, designed for embedded use.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfHSM](https://github.com/wolfSSL/wolfHSM)
+  > HSM library that uses wolfCrypt as it's fallback crypto
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wolfSSL/wolfssl](https://github.com/wolfSSL/wolfssl)
+  > The wolfSSL library is a small, fast, portable implementation of TLS/SSL for embedded devices to the...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [34306/excalibur](https://github.com/34306/excalibur) to [CrackerCat/excalibur](https://github.com/CrackerCat/excalibur)
@@ -71,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
   > SightHouse is a tool designed to assist reverse engineers by retrieving information and metadata fro...
 
+### [ri-char](https://github.com/ri-char)
+- 🌟 👤 [ri-char](https://github.com/ri-char) Starred [Entity-Now/WJFakeLocation](https://github.com/Entity-Now/WJFakeLocation)
+  > WJFakeLocation 是一款功能强大的 Xposed 虚拟定位应用，专为 Android 13-16 系统设计。采用最新的 Jetpack Compose 和 Material Design ...
+
 ### [rnk](https://github.com/rnk)
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
   > Self-hosted audiobook and podcast server
@@ -83,7 +101,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)
   > "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
 
+### [weak1337](https://github.com/weak1337)
+- 🌟 👤 [weak1337](https://github.com/weak1337) Starred [balena/aes-whitebox](https://github.com/balena/aes-whitebox)
+  > WBC AES implementation in C++ using Chow and Muir papers supporting 128, 192, 256, 512, 1024, 2048 a...
+
 
 ---
-*Last updated at 2026-04-09 11:27:46 UTC*
+*Last updated at 2026-04-09 12:35:07 UTC*
 *Historical records are stored in the `archive` directory.*
