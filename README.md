@@ -100,6 +100,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
   > SightHouse is a tool designed to assist reverse engineers by retrieving information and metadata fro...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf) to [mrexodia/nx2elf](https://github.com/mrexodia/nx2elf)
+  > Convert Nintendo Switch executable files to ELFs
+
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [Entity-Now/WJFakeLocation](https://github.com/Entity-Now/WJFakeLocation)
   > WJFakeLocation 是一款功能强大的 Xposed 虚拟定位应用，专为 Android 13-16 系统设计。采用最新的 Jetpack Compose 和 Material Design ...
@@ -124,5 +128,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 13:40:45 UTC*
+*Last updated at 2026-04-09 14:44:27 UTC*
 *Historical records are stored in the `archive` directory.*
