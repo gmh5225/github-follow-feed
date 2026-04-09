@@ -62,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
   > The open agent skills tool - npx skills
 
+### [bingmann](https://github.com/bingmann)
+- 🌟 👤 [bingmann](https://github.com/bingmann) Starred [jurplel/InstantSpaceSwitcher](https://github.com/jurplel/InstantSpaceSwitcher)
+  > Native space switching on macOS with no animation
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [kenforthewin/atomic](https://github.com/kenforthewin/atomic)
   > Self-hosted, semantically-connected personal knowledge base
@@ -102,6 +106,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [Luce-Org/luce-megakernel](https://github.com/Luce-Org/luce-megakernel)
+  > Megakernel to match Apple Silicon Efficiency at 2x the Throughput on a RTX 3090
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
   > SightHouse is a tool designed to assist reverse engineers by retrieving information and metadata fro...
@@ -134,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 19:33:29 UTC*
+*Last updated at 2026-04-09 20:24:46 UTC*
 *Historical records are stored in the `archive` directory.*
