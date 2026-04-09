@@ -45,11 +45,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
   > Docker configuration for running VLLM on dual DGX Sparks
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/sighthouse](https://github.com/quarkslab/sighthouse)
+  > SightHouse is a tool designed to assist reverse engineers by retrieving information and metadata fro...
+
+### [rnk](https://github.com/rnk)
+- 🌟 👤 [rnk](https://github.com/rnk) Starred [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf)
+  > Self-hosted audiobook and podcast server
+
 ### [steipete](https://github.com/steipete)
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark)
   > 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件
 
 
 ---
-*Last updated at 2026-04-09 04:55:10 UTC*
+*Last updated at 2026-04-09 05:41:14 UTC*
 *Historical records are stored in the `archive` directory.*
