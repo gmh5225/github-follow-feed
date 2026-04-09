@@ -3,3 +3,4 @@
 # Lines starting with # are ignored. Optional leading @ is stripped.
 
 CrackerCat
+WhiteNightShadow
