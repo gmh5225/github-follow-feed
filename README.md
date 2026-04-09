@@ -96,9 +96,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [intel/ScalableVectorSearch](https://github.com/intel/ScalableVectorSearch)
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DLYuanGod/MegaTrain](https://github.com/DLYuanGod/MegaTrain)
-
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
   > llama-benchy - llama-bench style benchmarking tool for all backends
@@ -137,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 16:09:09 UTC*
+*Last updated at 2026-04-09 16:39:32 UTC*
 *Historical records are stored in the `archive` directory.*
