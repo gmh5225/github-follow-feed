@@ -4,8 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)
+  > Library for reducing tail latency in RAM reads
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
+  > llama-benchy - llama-bench style benchmarking tool for all backends
+
 
 ---
-*Last updated at 2026-04-09 00:43:32 UTC*
+*Last updated at 2026-04-09 01:42:07 UTC*
 *Historical records are stored in the `archive` directory.*
