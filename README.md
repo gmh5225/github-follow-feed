@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)
   > Library for reducing tail latency in RAM reads
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [blackarrowsec/redteam-research](https://github.com/blackarrowsec/redteam-research)
+  > Collection of PoC and offensive techniques used by the BlackArrow Red Team
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [34306/excalibur](https://github.com/34306/excalibur) to [CrackerCat/excalibur](https://github.com/CrackerCat/excalibur)
   > excalibur is a project that use DarkSword exploit for customize your iPhone, include some feature li...
@@ -81,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 09:37:28 UTC*
+*Last updated at 2026-04-09 10:33:20 UTC*
 *Historical records are stored in the `archive` directory.*
