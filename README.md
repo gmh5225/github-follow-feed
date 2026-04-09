@@ -58,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [MazX0p/mssqlbof](https://github.com/MazX0p/mssqlbof)
   > A Beacon Object File suite for Microsoft SQL Server that speaks TDS 7.4 on the wire itself
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
+  > The open agent skills tool - npx skills
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [kenforthewin/atomic](https://github.com/kenforthewin/atomic)
   > Self-hosted, semantically-connected personal knowledge base
@@ -74,6 +78,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [cursey](https://github.com/cursey)
 - 🌟 👤 [cursey](https://github.com/cursey) Starred [fastbuild/fastbuild](https://github.com/fastbuild/fastbuild)
   > High performance build system for Windows, OSX and Linux. Supporting caching, network distribution a...
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [sashiko-dev/sashiko](https://github.com/sashiko-dev/sashiko)
+  > Agentic review of Linux Kernel code changes
+
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [its-a-feature/LockSmith](https://github.com/its-a-feature/LockSmith)
+  > ObjectiveC CLI tool for interacting with macOS Keychain
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [intel/ScalableVectorSearch](https://github.com/intel/ScalableVectorSearch)
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
@@ -100,6 +115,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)
   > "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 
 ### [weak1337](https://github.com/weak1337)
 - 🌟 👤 [weak1337](https://github.com/weak1337) Starred [balena/aes-whitebox](https://github.com/balena/aes-whitebox)
@@ -107,5 +124,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-09 12:35:07 UTC*
+*Last updated at 2026-04-09 13:40:45 UTC*
 *Historical records are stored in the `archive` directory.*
