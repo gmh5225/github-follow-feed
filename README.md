@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [FFRI/binja-swift-analyzer](https://github.com/FFRI/binja-swift-analyzer)
+  > A Binary Ninja plugin for analyzing Swift binaries
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)
   > Library for reducing tail latency in RAM reads
@@ -67,7 +71,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark)
   > 飞书官方出品的 OpenClaw 飞书/Lark Channel 插件
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam)
+  > "ClawTeam: Agent Swarm Intelligence" (One Command → Full Automation)
+
 
 ---
-*Last updated at 2026-04-09 07:40:09 UTC*
+*Last updated at 2026-04-09 08:41:42 UTC*
 *Historical records are stored in the `archive` directory.*
