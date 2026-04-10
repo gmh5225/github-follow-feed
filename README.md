@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/lightsaber](https://github.com/zeroxjf/lightsaber) to [CrackerCat/lightsaber](https://github.com/CrackerCat/lightsaber)
   > iOS 18.4-18.6.2 userland exploit chain with JS injection into SpringBoard and other processes. Deriv...
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill)
+  > 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [citusdata/pg_cron](https://github.com/citusdata/pg_cron)
   > Run periodic jobs in PostgreSQL
@@ -15,10 +19,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > reverse engineering Gemini's SynthID detection
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
   > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler)
+  > The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [xmtp/libxmtp](https://github.com/xmtp/libxmtp)
   > LibXMTP is a shared library encapsulating the core functionality of the XMTP messaging protocol, suc...
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
+  > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
@@ -26,5 +36,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 03:15:20 UTC*
+*Last updated at 2026-04-10 05:06:00 UTC*
 *Historical records are stored in the `archive` directory.*
