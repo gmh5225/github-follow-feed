@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/lightsaber](https://github.com/zeroxjf/lightsaber) to [CrackerCat/lightsaber](https://github.com/CrackerCat/lightsaber)
   > iOS 18.4-18.6.2 userland exploit chain with JS injection into SpringBoard and other processes. Deriv...
@@ -95,6 +98,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
   > WebAssembly Toolkit for Go
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit)
+  > Linux-native "fake root" for implementing rootless containers
 
 ### [mubix](https://github.com/mubix)
 - 🍴 👤 [mubix](https://github.com/mubix) Forked [Nukesor/pueue](https://github.com/Nukesor/pueue) to [mubix/pueue](https://github.com/mubix/pueue)
@@ -134,5 +139,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 18:27:01 UTC*
+*Last updated at 2026-04-10 19:24:23 UTC*
 *Historical records are stored in the `archive` directory.*
