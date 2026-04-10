@@ -37,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [arc53/fast-ebook](https://github.com/arc53/fast-ebook)
   > fast, rust based epub library for python
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
+  > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [xmtp/libxmtp](https://github.com/xmtp/libxmtp)
@@ -91,6 +93,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
+  > WebAssembly Toolkit for Go
 
 ### [mubix](https://github.com/mubix)
 - 🍴 👤 [mubix](https://github.com/mubix) Forked [Nukesor/pueue](https://github.com/Nukesor/pueue) to [mubix/pueue](https://github.com/mubix/pueue)
@@ -130,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 17:24:02 UTC*
+*Last updated at 2026-04-10 18:27:01 UTC*
 *Historical records are stored in the `archive` directory.*
