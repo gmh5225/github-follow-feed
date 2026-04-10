@@ -59,6 +59,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
   > Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly aut...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [albond/DGX_Spark_Qwen3.5-122B-A10B-AR-INT4](https://github.com/albond/DGX_Spark_Qwen3.5-122B-A10B-AR-INT4)
+  > Qwen3.5-122B-A10B on DGX Spark: 28.3 → 51 tok/s (+80%)
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🍴 👤 [hfiref0x](https://github.com/hfiref0x) Forked [andreacristaldi/DefenderRules](https://github.com/andreacristaldi/DefenderRules) to [hfiref0x/DefenderRulesPlus](https://github.com/hfiref0x/DefenderRulesPlus)
@@ -74,6 +76,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [jamesmunns](https://github.com/jamesmunns) Forked [rust-lang/rustup](https://github.com/rust-lang/rustup) to [jamesmunns/rustup](https://github.com/jamesmunns/rustup)
   > The Rust toolchain installer
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms)
+  > LM Studio CLI
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
@@ -81,6 +87,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mubix](https://github.com/mubix)
 - 🍴 👤 [mubix](https://github.com/mubix) Forked [Nukesor/pueue](https://github.com/Nukesor/pueue) to [mubix/pueue](https://github.com/mubix/pueue)
   > :stars: Manage your shell commands.
+
+### [nevillegrech](https://github.com/nevillegrech)
+- 🍴 👤 [nevillegrech](https://github.com/nevillegrech) Forked [canton-foundation/canton-dev-fund](https://github.com/canton-foundation/canton-dev-fund) to [nevillegrech/canton-dev-fund](https://github.com/nevillegrech/canton-dev-fund)
+  > Canton Development Fund proposals, reviews, and administration
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🚀 👤 [pcaversaccio](https://github.com/pcaversaccio) Made [pcaversaccio/test-spoof-commit-date](https://github.com/pcaversaccio/test-spoof-commit-date) public
@@ -108,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 14:30:37 UTC*
+*Last updated at 2026-04-10 15:24:38 UTC*
 *Historical records are stored in the `archive` directory.*
