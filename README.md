@@ -6,6 +6,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [tyfkda/xcc](https://github.com/tyfkda/xcc)
+  > Standalone C compiler/assembler/linker/libc for x86-64/aarch64/riscv64/wasm
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/lightsaber](https://github.com/zeroxjf/lightsaber) to [CrackerCat/lightsaber](https://github.com/CrackerCat/lightsaber)
@@ -93,6 +95,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
   > A private messenger for iOS.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dammyjay93/interface-design](https://github.com/Dammyjay93/interface-design)
+  > Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
+
 ### [mubix](https://github.com/mubix)
 - 🍴 👤 [mubix](https://github.com/mubix) Forked [Nukesor/pueue](https://github.com/Nukesor/pueue) to [mubix/pueue](https://github.com/mubix/pueue)
   > :stars: Manage your shell commands.
@@ -139,5 +145,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 22:17:48 UTC*
+*Last updated at 2026-04-10 23:17:44 UTC*
 *Historical records are stored in the `archive` directory.*
