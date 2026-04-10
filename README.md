@@ -115,6 +115,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history)
   > A command-line tool to generate GitHub and GitLab activity graph.
 
+### [rasbt](https://github.com/rasbt)
+- 🚀 👤 [rasbt](https://github.com/rasbt) Made [rasbt/workflow-understanding-LLM-architectures](https://github.com/rasbt/workflow-understanding-LLM-architectures) public
+  > Materials for the "My Workflow for Understanding LLM Architectures" tutorial
+
 ### [steipete](https://github.com/steipete)
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [John-Rood/claude-proxy](https://github.com/John-Rood/claude-proxy)
   > Lightweight proxy that routes Anthropic API billing through Claude Code subscriptions. Zero dependen...
@@ -139,5 +143,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 19:24:23 UTC*
+*Last updated at 2026-04-10 20:17:20 UTC*
 *Historical records are stored in the `archive` directory.*
