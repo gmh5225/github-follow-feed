@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zeroxjf/lightsaber](https://github.com/zeroxjf/lightsaber) to [CrackerCat/lightsaber](https://github.com/CrackerCat/lightsaber)
   > iOS 18.4-18.6.2 userland exploit chain with JS injection into SpringBoard and other processes. Deriv...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) to [Mr-xn/chatgpt-on-wechat](https://github.com/Mr-xn/chatgpt-on-wechat)
+  > CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长，比OpenClaw更轻量和便捷。同时支持微信、飞书、钉钉、企微...
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill)
   > 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
@@ -46,5 +50,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 06:48:38 UTC*
+*Last updated at 2026-04-10 07:40:52 UTC*
 *Historical records are stored in the `archive` directory.*
