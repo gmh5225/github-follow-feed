@@ -75,12 +75,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🚀 👤 [pcaversaccio](https://github.com/pcaversaccio) Made [pcaversaccio/test-spoof-commit-date](https://github.com/pcaversaccio/test-spoof-commit-date) public
   > Git commit date spoofing.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history)
+  > A command-line tool to generate GitHub and GitLab activity graph.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [pikvm/pikvm](https://github.com/pikvm/pikvm)
+  > Open and inexpensive DIY IP-KVM based on Raspberry Pi
+
 
 ---
-*Last updated at 2026-04-10 10:29:20 UTC*
+*Last updated at 2026-04-10 11:24:05 UTC*
 *Historical records are stored in the `archive` directory.*
