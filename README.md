@@ -64,6 +64,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/accounts](https://github.com/tempoxyz/accounts)
   > Accounts SDK for Apps and Wallets building on Tempo.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js)
+  > Convert Word documents (.docx files) to HTML
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [TheQmaks/phantom-frida](https://github.com/TheQmaks/phantom-frida)
@@ -90,16 +92,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > LM Studio CLI
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
   > A private messenger for iOS.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
-  > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-  > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eliben/watgo](https://github.com/eliben/watgo)
-  > WebAssembly Toolkit for Go
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit)
-  > Linux-native "fake root" for implementing rootless containers
 
 ### [mubix](https://github.com/mubix)
 - 🍴 👤 [mubix](https://github.com/mubix) Forked [Nukesor/pueue](https://github.com/Nukesor/pueue) to [mubix/pueue](https://github.com/mubix/pueue)
@@ -147,5 +139,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 21:17:51 UTC*
+*Last updated at 2026-04-10 22:17:48 UTC*
 *Historical records are stored in the `archive` directory.*
