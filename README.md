@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [xmtp/libxmtp](https://github.com/xmtp/libxmtp)
   > LibXMTP is a shared library encapsulating the core functionality of the XMTP messaging protocol, suc...
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [EliseZeroTwo/SEH-Helper](https://github.com/EliseZeroTwo/SEH-Helper)
+  > Binary Ninja plugin for exploring Structured Exception Handlers
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku)
   > High-performance JavaScript/TypeScript compiler and toolchain in pure Zig 🦎
@@ -79,10 +83,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms)
   > LM Studio CLI
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [signalapp/Signal-iOS](https://github.com/signalapp/Signal-iOS)
+  > A private messenger for iOS.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
 
 ### [mubix](https://github.com/mubix)
 - 🍴 👤 [mubix](https://github.com/mubix) Forked [Nukesor/pueue](https://github.com/Nukesor/pueue) to [mubix/pueue](https://github.com/mubix/pueue)
@@ -100,7 +108,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
-  > All the industrial design files for Keychron keyboards and mice. Includes CAD models (case, plate, s...
+  > Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, D...
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [tw93/Waza](https://github.com/tw93/Waza)
   > 🥷 Engineering habits you already know, turned into skills Claude can run.
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
@@ -118,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 15:24:38 UTC*
+*Last updated at 2026-04-10 16:26:10 UTC*
 *Historical records are stored in the `archive` directory.*
