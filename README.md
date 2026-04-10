@@ -45,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [yuku-toolchain/yuku](https://github.com/yuku-toolchain/yuku)
   > High-performance JavaScript/TypeScript compiler and toolchain in pure Zig 🦎
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [kuizuo/js-deobfuscator](https://github.com/kuizuo/js-deobfuscator)
+  > An automated JavaScript deobfuscation tool based on Babel AST, with an online playground, CLI, and p...
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [xorrior/macOSTools](https://github.com/xorrior/macOSTools)
@@ -80,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 09:36:06 UTC*
+*Last updated at 2026-04-10 10:29:20 UTC*
 *Historical records are stored in the `archive` directory.*
