@@ -78,6 +78,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history)
   > A command-line tool to generate GitHub and GitLab activity graph.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
+  > All the industrial design files for Keychron keyboards and mice. Includes CAD models (case, plate, s...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -85,8 +89,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [pikvm/pikvm](https://github.com/pikvm/pikvm)
   > Open and inexpensive DIY IP-KVM based on Raspberry Pi
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot)
+  > Use your Raspberry Pi as a browser-based KVM.
 
 
 ---
-*Last updated at 2026-04-10 11:24:05 UTC*
+*Last updated at 2026-04-10 12:27:34 UTC*
 *Historical records are stored in the `archive` directory.*
