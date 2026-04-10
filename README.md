@@ -106,6 +106,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [artiebits/fake-git-history](https://github.com/artiebits/fake-git-history)
   > A command-line tool to generate GitHub and GitLab activity graph.
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [John-Rood/claude-proxy](https://github.com/John-Rood/claude-proxy)
+  > Lightweight proxy that routes Anthropic API billing through Claude Code subscriptions. Zero dependen...
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Keychron/Keychron-Keyboards-Hardware-Design](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
   > Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, D...
@@ -126,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 16:26:10 UTC*
+*Last updated at 2026-04-10 17:24:02 UTC*
 *Historical records are stored in the `archive` directory.*
