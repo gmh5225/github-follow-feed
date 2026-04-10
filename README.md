@@ -64,6 +64,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hfiref0x](https://github.com/hfiref0x) Forked [andreacristaldi/DefenderRules](https://github.com/andreacristaldi/DefenderRules) to [hfiref0x/DefenderRulesPlus](https://github.com/hfiref0x/DefenderRulesPlus)
   > Tool designed to parse and analyze Microsoft Defender AV signature definition files 
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [typst/typst](https://github.com/typst/typst)
+  > A markup-based typesetting system that is powerful and easy to learn.
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
+  > My Cambridge Lecture Notes
+
+### [jamesmunns](https://github.com/jamesmunns)
+- 🍴 👤 [jamesmunns](https://github.com/jamesmunns) Forked [rust-lang/rustup](https://github.com/rust-lang/rustup) to [jamesmunns/rustup](https://github.com/jamesmunns/rustup)
+  > The Rust toolchain installer
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad)
   > Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle...
@@ -83,6 +93,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > All the industrial design files for Keychron keyboards and mice. Includes CAD models (case, plate, s...
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [tw93/Waza](https://github.com/tw93/Waza)
   > 🥷 Engineering habits you already know, turned into skills Claude can run.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -96,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-10 13:38:30 UTC*
+*Last updated at 2026-04-10 14:30:37 UTC*
 *Historical records are stored in the `archive` directory.*
