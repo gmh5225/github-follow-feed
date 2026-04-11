@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
+  > Windows Analysis and Research Toolkit
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Seyud/device_faker](https://github.com/Seyud/device_faker) to [CrackerCat/device_faker](https://github.com/CrackerCat/device_faker)
   > 自定义配置Zygisk机型伪装
@@ -42,9 +46,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)
-  > A library for building applications in a consistent and understandable way, with composition, testin...
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [romovpa/claudini](https://github.com/romovpa/claudini)
+  > Autoresearch for LLM adversarial attacks
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
+  > Windows Analysis and Research Toolkit
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64)
@@ -67,11 +73,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [scoootscooob/clawbench](https://github.com/scoootscooob/clawbench)
   > Rigorous benchmark for AI models as OpenClaw agents. Runs on HF Spaces.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp)
+  > Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore...
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [ravinahp/flights-mcp](https://github.com/ravinahp/flights-mcp)
   > An MCP server to search for flights.
 
+### [void-stack](https://github.com/void-stack)
+- 🌟 👤 [void-stack](https://github.com/void-stack) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
+
 
 ---
-*Last updated at 2026-04-11 12:21:07 UTC*
+*Last updated at 2026-04-11 13:29:53 UTC*
 *Historical records are stored in the `archive` directory.*
