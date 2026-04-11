@@ -25,10 +25,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [tmc/langchaingo](https://github.com/tmc/langchaingo)
   > LangChain for Go, the easiest way to write LLM-based programs in Go
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [Comfy-Org/desktop](https://github.com/Comfy-Org/desktop)
+  > The desktop app for ComfyUI (Windows & macOS)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [classic130/NtWarden](https://github.com/classic130/NtWarden)
   > Windows Analysis and Research Toolkit
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
@@ -61,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-11 10:16:45 UTC*
+*Last updated at 2026-04-11 11:14:58 UTC*
 *Historical records are stored in the `archive` directory.*
