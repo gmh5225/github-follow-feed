@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [vyfor/rattles](https://github.com/vyfor/rattles)
+  > 🪇 Minimal, compile-time terminal spinners for Rust
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Seyud/device_faker](https://github.com/Seyud/device_faker) to [CrackerCat/device_faker](https://github.com/CrackerCat/device_faker)
@@ -52,12 +54,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
   > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+  > Kronos: A Foundation Model for the Language of Financial Markets
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local)
+  > Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cl...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid...
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [romovpa/claudini](https://github.com/romovpa/claudini)
   > Autoresearch for LLM adversarial attacks
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)
+  > 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commem...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
@@ -87,6 +97,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp)
   > Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mseptiaan/opencode-qwencode-oauth](https://github.com/mseptiaan/opencode-qwencode-oauth)
+  > Qwen OAuth authentication plugin for OpenCode with multi-account rotation and API translation
 
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [ravinahp/flights-mcp](https://github.com/ravinahp/flights-mcp)
@@ -98,5 +110,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-11 14:18:08 UTC*
+*Last updated at 2026-04-11 15:16:16 UTC*
 *Historical records are stored in the `archive` directory.*
