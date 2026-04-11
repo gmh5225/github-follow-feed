@@ -20,6 +20,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [klezVirus/SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk)
   > PoC Implementation of a fully dynamic call stack spoofer
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [codewhitesec/SysmonEnte](https://github.com/codewhitesec/SysmonEnte)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
+
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [tmc/langchaingo](https://github.com/tmc/langchaingo)
+  > LangChain for Go, the easiest way to write LLM-based programs in Go
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [classic130/NtWarden](https://github.com/classic130/NtWarden)
@@ -42,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [imbue-ai/bouncer](https://github.com/imbue-ai/bouncer)
   > Heal your social media feeds
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [alexthecat123/LisaSourceCompilation](https://github.com/alexthecat123/LisaSourceCompilation)
+  > All the info needed to compile the Apple Lisa's operating system (LOS) from source!
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [SpecterOps/Janus](https://github.com/SpecterOps/Janus)
   > Janus analyzes C2 telemetry to surface failure patterns, operator friction, and automation opportuni...
@@ -52,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-11 09:21:09 UTC*
+*Last updated at 2026-04-11 10:16:45 UTC*
 *Historical records are stored in the `archive` directory.*
