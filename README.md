@@ -14,6 +14,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [tyfkda/xcc](https://github.com/tyfkda/xcc)
   > Standalone C compiler/assembler/linker/libc for x86-64/aarch64/riscv64/wasm
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [klezVirus/BYOUD](https://github.com/klezVirus/BYOUD)
+  > Bring your own Unwind Data Framework
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [klezVirus/SilentMoonwalk](https://github.com/klezVirus/SilentMoonwalk)
+  > PoC Implementation of a fully dynamic call stack spoofer
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64)
   > Run Microsoft Windows NTVDM (DOS) on 64bit Editions
@@ -28,5 +34,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-11 06:32:04 UTC*
+*Last updated at 2026-04-11 07:27:53 UTC*
 *Historical records are stored in the `archive` directory.*
