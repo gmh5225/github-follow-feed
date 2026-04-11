@@ -49,6 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cauethenorio/slackfmt](https://github.com/cauethenorio/slackfmt)
+  > Format and copy content to paste into Slack with styles preserved
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
@@ -78,6 +82,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)
+  > A Claude skill for developing WebGPU applications with Three.js
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64)
@@ -124,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-11 18:18:41 UTC*
+*Last updated at 2026-04-11 19:19:46 UTC*
 *Historical records are stored in the `archive` directory.*
