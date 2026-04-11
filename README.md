@@ -86,6 +86,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dgreenheck/webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)
   > A Claude skill for developing WebGPU applications with Three.js
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CSIT-SG/AETHER](https://github.com/CSIT-SG/AETHER)
+  > An AI-powered reverse-engineering copilot for assisting tedious malware analysis in IDA Pro.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64)
@@ -117,6 +119,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore...
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mseptiaan/opencode-qwencode-oauth](https://github.com/mseptiaan/opencode-qwencode-oauth)
   > Qwen OAuth authentication plugin for OpenCode with multi-account rotation and API translation
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
+  > Garry's Opinionated OpenClaw/Hermes Agent Brain
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain)
+  > A Claude Code skill that turns your Obsidian vault into a living second brain — autonomous writes, t...
 
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [ravinahp/flights-mcp](https://github.com/ravinahp/flights-mcp)
@@ -129,8 +135,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [CSIT-SG/AETHER](https://github.com/CSIT-SG/AETHER)
   > An AI-powered reverse-engineering copilot for assisting tedious malware analysis in IDA Pro.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [pydantic/pydantic-harness](https://github.com/pydantic/pydantic-harness)
+  > Batteries for your Pydantic AI agent.
 
 
 ---
-*Last updated at 2026-04-11 19:19:46 UTC*
+*Last updated at 2026-04-11 20:12:52 UTC*
 *Historical records are stored in the `archive` directory.*
