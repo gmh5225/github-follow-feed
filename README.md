@@ -67,7 +67,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [scoootscooob/clawbench](https://github.com/scoootscooob/clawbench)
   > Rigorous benchmark for AI models as OpenClaw agents. Runs on HF Spaces.
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [ravinahp/flights-mcp](https://github.com/ravinahp/flights-mcp)
+  > An MCP server to search for flights.
+
 
 ---
-*Last updated at 2026-04-11 11:14:58 UTC*
+*Last updated at 2026-04-11 12:21:07 UTC*
 *Historical records are stored in the `archive` directory.*
