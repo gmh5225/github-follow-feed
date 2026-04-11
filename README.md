@@ -65,6 +65,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
   > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid...
 
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [vxpm/lazuli](https://github.com/vxpm/lazuli) to [ioncodes/lazuli](https://github.com/ioncodes/lazuli)
+  > GameCube emulator
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [romovpa/claudini](https://github.com/romovpa/claudini)
   > Autoresearch for LLM adversarial attacks
@@ -137,8 +141,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An AI-powered reverse-engineering copilot for assisting tedious malware analysis in IDA Pro.
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [pydantic/pydantic-harness](https://github.com/pydantic/pydantic-harness)
   > Batteries for your Pydantic AI agent.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HazAT/pi-interactive-subagents](https://github.com/HazAT/pi-interactive-subagents)
+  > Interactive subagents for pi — spawn, orchestrate, and manage sub-agent sessions in cmux terminals
 
 
 ---
-*Last updated at 2026-04-11 20:12:52 UTC*
+*Last updated at 2026-04-11 21:14:40 UTC*
 *Historical records are stored in the `archive` directory.*
