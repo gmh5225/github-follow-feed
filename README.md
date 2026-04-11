@@ -18,11 +18,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [leecher1337/ntvdmx64](https://github.com/leecher1337/ntvdmx64)
   > Run Microsoft Windows NTVDM (DOS) on 64bit Editions
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [SpecterOps/Janus](https://github.com/SpecterOps/Janus)
+  > Janus analyzes C2 telemetry to surface failure patterns, operator friction, and automation opportuni...
+
 ### [steipete](https://github.com/steipete)
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [scoootscooob/clawbench](https://github.com/scoootscooob/clawbench)
   > Rigorous benchmark for AI models as OpenClaw agents. Runs on HF Spaces.
 
 
 ---
-*Last updated at 2026-04-11 03:11:44 UTC*
+*Last updated at 2026-04-11 04:45:21 UTC*
 *Historical records are stored in the `archive` directory.*
