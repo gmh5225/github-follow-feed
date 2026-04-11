@@ -25,6 +25,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PoC Implementation of a fully dynamic call stack spoofer
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [codewhitesec/SysmonEnte](https://github.com/codewhitesec/SysmonEnte)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
+  > Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Ba...
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [tmc/langchaingo](https://github.com/tmc/langchaingo)
@@ -38,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [classic130/NtWarden](https://github.com/classic130/NtWarden)
   > Windows Analysis and Research Toolkit
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [RatherLogical/winbindex-cli](https://github.com/RatherLogical/winbindex-cli)
+  > A small command-line helper for downloading Windows binaries and their matching PDBs using Winbindex...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
@@ -45,11 +50,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
   > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf)
+  > PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [romovpa/claudini](https://github.com/romovpa/claudini)
   > Autoresearch for LLM adversarial attacks
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
+  > Windows Analysis and Research Toolkit
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
 
 ### [odzhan](https://github.com/odzhan)
@@ -87,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-11 13:29:53 UTC*
+*Last updated at 2026-04-11 14:18:08 UTC*
 *Historical records are stored in the `archive` directory.*
