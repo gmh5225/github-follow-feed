@@ -44,6 +44,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [RatherLogical/winbindex-cli](https://github.com/RatherLogical/winbindex-cli)
   > A small command-line helper for downloading Windows binaries and their matching PDBs using Winbindex...
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [triskellib/triskel](https://github.com/triskellib/triskel)
+  > A graphing library for Control Flow Graphs
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
@@ -146,5 +148,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-11 22:13:11 UTC*
+*Last updated at 2026-04-11 23:15:55 UTC*
 *Historical records are stored in the `archive` directory.*
