@@ -69,6 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)
   > 同事.skill, 女娲.skill, 前任.skill… Curated list of Agent Skills centered on people, relationships, commem...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrphrazer/ghidra-headless-mcp](https://github.com/mrphrazer/ghidra-headless-mcp)
+  > Headless Ghidra MCP server — giving AI agents deep reverse-engineering capabilities.
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
@@ -81,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [felix314159/cuda-git-commit-miner](https://github.com/felix314159/cuda-git-commit-miner)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [imbue-ai/bouncer](https://github.com/imbue-ai/bouncer)
   > Heal your social media feeds
+
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [kimkulling/tiny_ui](https://github.com/kimkulling/tiny_ui)
+  > My tiny ui-lib, mostly used for simple tools and games
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [alexthecat123/LisaSourceCompilation](https://github.com/alexthecat123/LisaSourceCompilation)
@@ -108,7 +116,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [void-stack](https://github.com/void-stack) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
   > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [CSIT-SG/AETHER](https://github.com/CSIT-SG/AETHER)
+  > An AI-powered reverse-engineering copilot for assisting tedious malware analysis in IDA Pro.
+
 
 ---
-*Last updated at 2026-04-11 16:14:57 UTC*
+*Last updated at 2026-04-11 17:16:01 UTC*
 *Historical records are stored in the `archive` directory.*
