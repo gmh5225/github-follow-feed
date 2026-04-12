@@ -12,6 +12,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [usestrix/strix](https://github.com/usestrix/strix)
   > Open-source AI hackers to find and fix your app’s vulnerabilities.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [SamboyCoding/Cpp2IL](https://github.com/SamboyCoding/Cpp2IL)
+  > Work-in-progress tool to reverse unity's IL2CPP toolchain.
+- 🍴 👤 [P4nda0s](https://github.com/P4nda0s) Forked [roytu/Il2CppDumper](https://github.com/roytu/Il2CppDumper) to [P4nda0s/Il2CppDumper](https://github.com/P4nda0s/Il2CppDumper)
+  > Unity il2cpp reverse engineer
+
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -21,6 +27,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The mouse and trackpad utility for Mac.
 - 🌟 👤 [char](https://github.com/char) Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
   > DSPy: The framework for programming—not prompting—language models
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [google/jsir](https://github.com/google/jsir)
+  > Next-generation JavaScript analysis tooling
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [bytecodealliance/waffle](https://github.com/bytecodealliance/waffle)
+  > Wasm Analysis Framework For Lightweight Experiments
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [wasm-bindgen/walrus](https://github.com/wasm-bindgen/walrus)
+  > Walrus is a WebAssembly transformation library 🌊🐘
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [leonardoalt/circuit-lean-rust-ffi](https://github.com/leonardoalt/circuit-lean-rust-ffi)
@@ -64,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-12 15:19:21 UTC*
+*Last updated at 2026-04-12 16:17:08 UTC*
 *Historical records are stored in the `archive` directory.*
