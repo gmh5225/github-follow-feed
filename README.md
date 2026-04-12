@@ -61,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows Analysis and Research Toolkit
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rasta-mouse/Crystal-Loaders](https://github.com/rasta-mouse/Crystal-Loaders)
   > A small collection of Crystal Palace PIC loaders designed for use with Cobalt Strike
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
+  > Hundreds of models & providers. One command to find what runs on your hardware.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
@@ -78,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-12 16:17:08 UTC*
+*Last updated at 2026-04-12 17:16:48 UTC*
 *Historical records are stored in the `archive` directory.*
