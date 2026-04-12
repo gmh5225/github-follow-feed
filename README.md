@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sgoudelis/ground-station](https://github.com/sgoudelis/ground-station)
+  > Ground Station is all-in-one satellite monitoring suite
+
 ### [EBalloon](https://github.com/EBalloon)
 - 🌟 👤 [EBalloon](https://github.com/EBalloon) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
   > Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Ba...
@@ -74,6 +78,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iamfakeguru/claude-md](https://github.com/iamfakeguru/claude-md)
+  > Production-grade agent directives for Claude Code
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nenieiri-42Yerevan/Minishell](https://github.com/nenieiri-42Yerevan/Minishell)
@@ -91,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-12 22:14:31 UTC*
+*Last updated at 2026-04-12 23:16:42 UTC*
 *Historical records are stored in the `archive` directory.*
