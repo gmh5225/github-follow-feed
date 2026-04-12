@@ -12,7 +12,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables,...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nenieiri-42Yerevan/Minishell](https://github.com/nenieiri-42Yerevan/Minishell)
+  > This is a project about creating a simple shell (Mini bash)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
+  > Windows Analysis and Research Toolkit
+
 
 ---
-*Last updated at 2026-04-12 01:41:19 UTC*
+*Last updated at 2026-04-12 03:15:11 UTC*
 *Historical records are stored in the `archive` directory.*
