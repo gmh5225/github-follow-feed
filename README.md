@@ -8,6 +8,28 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [EBalloon](https://github.com/EBalloon) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
   > Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Ba...
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)
+  > The mouse and trackpad utility for Mac.
+- 🌟 👤 [char](https://github.com/char) Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+  > DSPy: The framework for programming—not prompting—language models
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [leonardoalt/circuit-lean-rust-ffi](https://github.com/leonardoalt/circuit-lean-rust-ffi)
+  > Verified arithmetic circuit simplifier: Lean 4 proof + Rust FFI
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mkeeter/raven](https://github.com/mkeeter/raven)
+  > An implementation of the Uxn CPU and Varvara Ordinator
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [oxidecomputer/maghemite](https://github.com/oxidecomputer/maghemite)
+  > A routing stack written in Rust.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [kyren/piccolo](https://github.com/kyren/piccolo)
+  > An experimental stackless Lua VM implemented in pure Rust
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [bkoropoff/dolang](https://github.com/bkoropoff/dolang)
+  > Do Language
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+  > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables,...
@@ -20,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-12 03:15:11 UTC*
+*Last updated at 2026-04-12 05:04:26 UTC*
 *Historical records are stored in the `archive` directory.*
