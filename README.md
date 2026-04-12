@@ -35,6 +35,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Wasm Analysis Framework For Lightweight Experiments
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [wasm-bindgen/walrus](https://github.com/wasm-bindgen/walrus)
   > Walrus is a WebAssembly transformation library 🌊🐘
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [NotDec/NotDec](https://github.com/NotDec/NotDec)
+  > a webassembly wasm decompiler and Static Analysis Framework based on llvm IR. (Work In Progress) 
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [nanash1/smart_brick](https://github.com/nanash1/smart_brick)
+  > Lego Smart Brick reverse engineered schematic
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [leonardoalt/circuit-lean-rust-ffi](https://github.com/leonardoalt/circuit-lean-rust-ffi)
@@ -80,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-12 17:16:48 UTC*
+*Last updated at 2026-04-12 18:21:24 UTC*
 *Historical records are stored in the `archive` directory.*
