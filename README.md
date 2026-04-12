@@ -30,6 +30,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
   > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
+  > Windows Analysis and Research Toolkit
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rasta-mouse/Crystal-Loaders](https://github.com/rasta-mouse/Crystal-Loaders)
+  > A small collection of Crystal Palace PIC loaders designed for use with Cobalt Strike
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs)
   > SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables,...
@@ -42,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-12 06:42:50 UTC*
+*Last updated at 2026-04-12 07:36:58 UTC*
 *Historical records are stored in the `archive` directory.*
