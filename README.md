@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An experimental stackless Lua VM implemented in pure Rust
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [bkoropoff/dolang](https://github.com/bkoropoff/dolang)
   > Do Language
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [smhanov/auth](https://github.com/smhanov/auth)
+  > Boring user authentication code for golang
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [smhanov/laconic](https://github.com/smhanov/laconic)
+  > An agentic research orchestrator for Go that is optimized to use free search & low-cost limited cont...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
@@ -48,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-12 07:36:58 UTC*
+*Last updated at 2026-04-12 08:25:03 UTC*
 *Historical records are stored in the `archive` directory.*
