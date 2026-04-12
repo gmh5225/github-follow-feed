@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [EBalloon](https://github.com/EBalloon) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
   > Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Ba...
 
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)
   > The mouse and trackpad utility for Mac.
@@ -50,7 +54,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
   > Windows Analysis and Research Toolkit
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)
+  > Headless browser automation server for AI agents to visit sites that are usually blocked
+
 
 ---
-*Last updated at 2026-04-12 09:23:43 UTC*
+*Last updated at 2026-04-12 10:20:52 UTC*
 *Historical records are stored in the `archive` directory.*
