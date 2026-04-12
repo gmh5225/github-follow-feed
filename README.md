@@ -21,6 +21,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [jyao1/rust-firmware](https://github.com/jyao1/rust-firmware)
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse)
@@ -84,7 +85,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)
   > Headless browser automation server for AI agents to visit sites that are usually blocked
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
+
 
 ---
-*Last updated at 2026-04-12 20:15:25 UTC*
+*Last updated at 2026-04-12 21:15:56 UTC*
 *Historical records are stored in the `archive` directory.*
