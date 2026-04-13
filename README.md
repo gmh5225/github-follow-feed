@@ -14,6 +14,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unison-code/unison](https://github.com/unison-code/unison)
   > Unison's source code 
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kozmer/paexec-py](https://github.com/kozmer/paexec-py)
@@ -32,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC)
   > Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireG...
+
+### [NaC-L](https://github.com/NaC-L)
+- 🌟 👤 [NaC-L](https://github.com/NaC-L) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -78,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Mathematical Expression Parser and JIT Compiler
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+
+### [farzaa](https://github.com/farzaa)
+- 🌟 👤 [farzaa](https://github.com/farzaa) Starred [hellorashid/daily](https://github.com/hellorashid/daily)
+  > A lil menu bar app for daily markdown notes
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/SharpSMBExec-Prototype](https://github.com/frkngksl/SharpSMBExec-Prototype)
@@ -142,6 +152,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mcowger/plexus](https://github.com/mcowger/plexus)
+  > Unified API gateway for multiple AI providers (OpenAI, Anthropic, Gemini, etc.). Switch models and p...
 
 ### [mshumer](https://github.com/mshumer)
 - 🚀 👤 [mshumer](https://github.com/mshumer) Made [mshumer/fabric-civics-review-20260413](https://github.com/mshumer/fabric-civics-review-20260413) public
@@ -181,6 +193,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [philo-groves/pire](https://github.com/philo-groves/pire)
   > Pi for Reverse Engineers
 
+### [void-stack](https://github.com/void-stack)
+- 🌟 👤 [void-stack](https://github.com/void-stack) Starred [LeoChen-CoreMind/VMPacker](https://github.com/LeoChen-CoreMind/VMPacker)
+  > ARM64 ELF Virtual Machine Protection System
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Dump-GUY/ZoomAllViews](https://github.com/Dump-GUY/ZoomAllViews)
   > Ctrl+Scroll font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Funct...
@@ -199,5 +215,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 20:27:38 UTC*
+*Last updated at 2026-04-13 21:23:02 UTC*
 *Historical records are stored in the `archive` directory.*
