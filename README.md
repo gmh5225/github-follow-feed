@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [CrackerCat/NtWarden](https://github.com/CrackerCat/NtWarden)
   > Windows Analysis and Research Toolkit
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xnobody/lifted](https://github.com/0xnobody/lifted) to [CrackerCat/lifted](https://github.com/CrackerCat/lifted)
+  > LLVM Infrastructure for Testing, Equivalence and Deobfuscation
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ILoveBingLu/CipherTalk](https://github.com/ILoveBingLu/CipherTalk) to [CrackerCat/CipherTalk](https://github.com/CrackerCat/CipherTalk)
+  > 本地导出微信数据，协助您完成爱的备份。
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC)
@@ -59,6 +63,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [HackingLZ/defender_overview](https://github.com/HackingLZ/defender_overview)
   > Overview of MS Defender 
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [SJ001/AI-Feynman](https://github.com/SJ001/AI-Feynman)
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
   > Official Nuvio WebOS, TizenOS Repository
@@ -70,11 +77,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)
   > The MiniZinc compiler
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [shric/midi](https://github.com/shric/midi)
@@ -106,8 +118,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Financ...
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+  > An extremely fast Python package and project manager, written in Rust.
 
 
 ---
-*Last updated at 2026-04-13 12:35:48 UTC*
+*Last updated at 2026-04-13 13:40:11 UTC*
 *Historical records are stored in the `archive` directory.*
