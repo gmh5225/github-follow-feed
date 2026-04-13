@@ -57,6 +57,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [dmaivel](https://github.com/dmaivel) Forked [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) to [dmaivel/ik_llama.cpp](https://github.com/dmaivel/ik_llama.cpp)
   > llama.cpp fork with additional SOTA quants and improved performance
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
+  > Mathematical Expression Parser and JIT Compiler
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
   > Mathematical Expression Parser and JIT Compiler
@@ -92,6 +98,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
   > Official Nuvio WebOS, TizenOS Repository
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey)
+  > Perfect Green Screen Keys made EZ!
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [alexandremendoncaalvaro/CorridorKey-Runtime](https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime)
+  > Native AI keying runtime and OFX plugin for DaVinci Resolve, built in collaboration with Corridor Di...
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JamesNyeVRGuy/CorridorKey-Cloud](https://github.com/JamesNyeVRGuy/CorridorKey-Cloud)
+  > Perfect Green Screen Keys - In the Cloud!
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [99oblivius/CorridorKey-Engine](https://github.com/99oblivius/CorridorKey-Engine)
+  > Faster Green Screen Keys — async multi-GPU inference engine for professional VFX pipelines
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC)
@@ -147,6 +163,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Dump-GUY/ZoomAllViews](https://github.com/Dump-GUY/ZoomAllViews)
   > Ctrl+Scroll font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Funct...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [camden-smallwood/ida-pdb-file-tree](https://github.com/camden-smallwood/ida-pdb-file-tree)
+  > An IDA Pro plugin that groups symbols in a source file tree based on PDB data.
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
@@ -160,5 +178,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 16:35:55 UTC*
+*Last updated at 2026-04-13 17:30:28 UTC*
 *Historical records are stored in the `archive` directory.*
