@@ -43,6 +43,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli)
   > TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Dump-GUY/ZoomAllViews](https://github.com/Dump-GUY/ZoomAllViews) to [classic130/ZoomAllViews](https://github.com/classic130/ZoomAllViews)
   > Ctrl+Scroll font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Funct...
@@ -62,6 +66,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/SharpSMBExec-Prototype](https://github.com/frkngksl/SharpSMBExec-Prototype)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/security-testbeds](https://github.com/frkngksl/security-testbeds)
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [x-tabdeveloping/turftopic](https://github.com/x-tabdeveloping/turftopic)
@@ -128,6 +136,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
   > Kronos: A Foundation Model for the Language of Financial Markets
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [lbr77/SideImpactor](https://github.com/lbr77/SideImpactor)
+  > pure frontend ipa signing page.
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [philo-groves/pire](https://github.com/philo-groves/pire)
   > Pi for Reverse Engineers
@@ -148,5 +160,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 15:37:58 UTC*
+*Last updated at 2026-04-13 16:35:55 UTC*
 *Historical records are stored in the `archive` directory.*
