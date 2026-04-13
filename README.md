@@ -18,6 +18,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kozmer/paexec-py](https://github.com/kozmer/paexec-py)
   > psexec-like remote execution using the paexec wire protocol that supports paexec and remoteexecm2 fr...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [citizenfx/fivem](https://github.com/citizenfx/fivem)
+  > The source code for the Cfx.re modification frameworks, such as FiveM and RedM, as well as FXServer.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [CrackerCat/NtWarden](https://github.com/CrackerCat/NtWarden)
@@ -54,6 +56,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
   > Mathematical Expression Parser and JIT Compiler
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [thalium/rumba](https://github.com/thalium/rumba)
+  > Cracking MBAs
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/SharpSMBExec-Prototype](https://github.com/frkngksl/SharpSMBExec-Prototype)
@@ -144,5 +148,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 14:42:38 UTC*
+*Last updated at 2026-04-13 15:37:58 UTC*
 *Historical records are stored in the `archive` directory.*
