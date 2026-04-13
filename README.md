@@ -55,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [phuongncn/asus-gx10-qwen35-speed-hack](https://github.com/phuongncn/asus-gx10-qwen35-speed-hack)
   > 4-5x faster Qwen3.5 on ASUS GX10 / DGX Spark — Hybrid INT4+FP8 + MTP via one shell script
 
+### [hfiref0x](https://github.com/hfiref0x)
+- 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [HackingLZ/defender_overview](https://github.com/HackingLZ/defender_overview)
+  > Overview of MS Defender 
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
   > Official Nuvio WebOS, TizenOS Repository
@@ -70,6 +74,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)
   > The MiniZinc compiler
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [shric/midi](https://github.com/shric/midi)
@@ -104,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 11:34:37 UTC*
+*Last updated at 2026-04-13 12:35:48 UTC*
 *Historical records are stored in the `archive` directory.*
