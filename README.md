@@ -33,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli)
   > TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Dump-GUY/ZoomAllViews](https://github.com/Dump-GUY/ZoomAllViews) to [classic130/ZoomAllViews](https://github.com/classic130/ZoomAllViews)
+  > Ctrl+Scroll font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Funct...
+
 ### [dmaivel](https://github.com/dmaivel)
 - 🍴 👤 [dmaivel](https://github.com/dmaivel) Forked [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) to [dmaivel/ik_llama.cpp](https://github.com/dmaivel/ik_llama.cpp)
   > llama.cpp fork with additional SOTA quants and improved performance
@@ -87,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 09:46:20 UTC*
+*Last updated at 2026-04-13 10:40:52 UTC*
 *Historical records are stored in the `archive` directory.*
