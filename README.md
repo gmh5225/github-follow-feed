@@ -27,6 +27,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli)
   > TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.
 
+### [dmaivel](https://github.com/dmaivel)
+- 🍴 👤 [dmaivel](https://github.com/dmaivel) Forked [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) to [dmaivel/ik_llama.cpp](https://github.com/dmaivel/ik_llama.cpp)
+  > llama.cpp fork with additional SOTA quants and improved performance
+
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [ImTheDeveloper/xero-mcp-cloudflare](https://github.com/ImTheDeveloper/xero-mcp-cloudflare)
+  > Remote MCP server for read-only Xero access on Cloudflare Workers, with federated one-shot OAuth and...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [ImTheDeveloper/freeagent-mcp-cloudflare](https://github.com/ImTheDeveloper/freeagent-mcp-cloudflare)
+  > Remote MCP server for read-only FreeAgent access on Cloudflare Workers, with federated one-shot OAut...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+  > Kronos: A Foundation Model for the Language of Financial Markets
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Dump-GUY/ZoomAllViews](https://github.com/Dump-GUY/ZoomAllViews)
   > Ctrl+Scroll font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Funct...
@@ -39,5 +51,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 05:11:53 UTC*
+*Last updated at 2026-04-13 06:58:17 UTC*
 *Historical records are stored in the `archive` directory.*
