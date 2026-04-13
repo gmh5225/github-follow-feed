@@ -36,10 +36,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Dump-GUY/ZoomAllViews](https://github.com/Dump-GUY/ZoomAllViews) to [classic130/ZoomAllViews](https://github.com/classic130/ZoomAllViews)
   > Ctrl+Scroll font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Funct...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [wudun7/pengun](https://github.com/wudun7/pengun) to [classic130/pengun](https://github.com/classic130/pengun)
+  > pg bypass for win10-win11 (learn from NP)
 
 ### [dmaivel](https://github.com/dmaivel)
 - 🍴 👤 [dmaivel](https://github.com/dmaivel) Forked [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) to [dmaivel/ik_llama.cpp](https://github.com/dmaivel/ik_llama.cpp)
   > llama.cpp fork with additional SOTA quants and improved performance
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
+  > Mathematical Expression Parser and JIT Compiler
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/SharpSMBExec-Prototype](https://github.com/frkngksl/SharpSMBExec-Prototype)
@@ -61,9 +67,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
   > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)
+  > The MiniZinc compiler
+
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [shric/midi](https://github.com/shric/midi)
   > A C++ program to read midi input and display things with Dear ImGui
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [akamai/Linux-Process-Injection](https://github.com/akamai/Linux-Process-Injection)
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [SouthBridgeAI/hankweave-runtime](https://github.com/SouthBridgeAI/hankweave-runtime)
@@ -91,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 10:40:52 UTC*
+*Last updated at 2026-04-13 11:34:37 UTC*
 *Historical records are stored in the `archive` directory.*
