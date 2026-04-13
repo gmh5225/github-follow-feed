@@ -23,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC)
   > Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireG...
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [JetBrains/teamcity-cli](https://github.com/JetBrains/teamcity-cli)
   > TeamCity from your terminal – or your AI's. Builds, logs, agents, agent terminals, queues.
@@ -30,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dmaivel](https://github.com/dmaivel)
 - 🍴 👤 [dmaivel](https://github.com/dmaivel) Forked [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) to [dmaivel/ik_llama.cpp](https://github.com/dmaivel/ik_llama.cpp)
   > llama.cpp fork with additional SOTA quants and improved performance
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
+  > Official Nuvio WebOS, TizenOS Repository
 
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [ImTheDeveloper/xero-mcp-cloudflare](https://github.com/ImTheDeveloper/xero-mcp-cloudflare)
@@ -51,5 +59,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 06:58:17 UTC*
+*Last updated at 2026-04-13 07:43:58 UTC*
 *Historical records are stored in the `archive` directory.*
