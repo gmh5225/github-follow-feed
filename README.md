@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [santifer/career-ops](https://github.com/santifer/career-ops)
   > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, bat...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+  > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 
 ### [CR3Swapper](https://github.com/CR3Swapper)
 - 🌟 👤 [CR3Swapper](https://github.com/CR3Swapper) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
@@ -78,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cracking MBAs
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
   > Mathematical Expression Parser and JIT Compiler
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [kobalicek/mathpresso](https://github.com/kobalicek/mathpresso)
@@ -102,6 +106,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Robust and fast topic models with sentence-transformers.
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)
   > Library for reducing tail latency in RAM reads
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [aaronjmars/MiroShark](https://github.com/aaronjmars/MiroShark)
+  > Universal Swarm Intelligence Engine
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [phuongncn/asus-gx10-qwen35-speed-hack](https://github.com/phuongncn/asus-gx10-qwen35-speed-hack)
@@ -120,6 +126,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
   > Official Nuvio WebOS, TizenOS Repository
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [spicylemonade/braincraft](https://github.com/spicylemonade/braincraft)
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [KolbyML/Manatan](https://github.com/KolbyML/Manatan)
@@ -215,5 +222,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 21:23:02 UTC*
+*Last updated at 2026-04-13 22:23:17 UTC*
 *Historical records are stored in the `archive` directory.*
