@@ -15,6 +15,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unison-code/unison](https://github.com/unison-code/unison)
   > Unison's source code 
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kozmer/paexec-py](https://github.com/kozmer/paexec-py)
+  > psexec-like remote execution using the paexec wire protocol that supports paexec and remoteexecm2 fr...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden) to [CrackerCat/NtWarden](https://github.com/CrackerCat/NtWarden)
   > Windows Analysis and Research Toolkit
@@ -55,9 +59,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/SharpSMBExec-Prototype](https://github.com/frkngksl/SharpSMBExec-Prototype)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/security-testbeds](https://github.com/frkngksl/security-testbeds)
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [x-tabdeveloping/turftopic](https://github.com/x-tabdeveloping/turftopic)
+  > Robust and fast topic models with sentence-transformers.
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [phuongncn/asus-gx10-qwen35-speed-hack](https://github.com/phuongncn/asus-gx10-qwen35-speed-hack)
   > 4-5x faster Qwen3.5 on ASUS GX10 / DGX Spark — Hybrid INT4+FP8 + MTP via one shell script
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  > A Claude Code plugin that automatically captures everything Claude does during your coding sessions,...
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [HackingLZ/defender_overview](https://github.com/HackingLZ/defender_overview)
@@ -69,6 +79,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
   > Official Nuvio WebOS, TizenOS Repository
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC)
@@ -94,6 +105,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [akamai/Linux-Process-Injection](https://github.com/akamai/Linux-Process-Injection)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Ostoic/chasm](https://github.com/Ostoic/chasm)
+  > Old experiments with making a C++17 x86 constexpr assembler.
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [google/magika](https://github.com/google/magika)
+  > Fast and accurate AI powered file content types detection 
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [SouthBridgeAI/hankweave-runtime](https://github.com/SouthBridgeAI/hankweave-runtime)
@@ -106,6 +123,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Remote MCP server for read-only FreeAgent access on Cloudflare Workers, with federated one-shot OAut...
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
   > Kronos: A Foundation Model for the Language of Financial Markets
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [philo-groves/pire](https://github.com/philo-groves/pire)
+  > Pi for Reverse Engineers
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Dump-GUY/ZoomAllViews](https://github.com/Dump-GUY/ZoomAllViews)
@@ -123,5 +144,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 13:40:11 UTC*
+*Last updated at 2026-04-13 14:42:38 UTC*
 *Historical records are stored in the `archive` directory.*
