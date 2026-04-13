@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/SharpSMBExec-Prototype](https://github.com/frkngksl/SharpSMBExec-Prototype)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/security-testbeds](https://github.com/frkngksl/security-testbeds)
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [phuongncn/asus-gx10-qwen35-speed-hack](https://github.com/phuongncn/asus-gx10-qwen35-speed-hack)
+  > 4-5x faster Qwen3.5 on ASUS GX10 / DGX Spark — Hybrid INT4+FP8 + MTP via one shell script
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [NuvioMedia/NuvioWeb](https://github.com/NuvioMedia/NuvioWeb)
   > Official Nuvio WebOS, TizenOS Repository
@@ -78,8 +82,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Kronos: A Foundation Model for the Language of Financial Markets
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant)
   > A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Financ...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA Pro MCP Server
 
 
 ---
-*Last updated at 2026-04-13 08:53:24 UTC*
+*Last updated at 2026-04-13 09:46:20 UTC*
 *Historical records are stored in the `archive` directory.*
