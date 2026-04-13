@@ -99,6 +99,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Official Nuvio WebOS, TizenOS Repository
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [KolbyML/Manatan](https://github.com/KolbyML/Manatan)
+  > Seamless immersion language learning for anime, manga, novels on all platforms
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [edenaion/EZ-CorridorKey](https://github.com/edenaion/EZ-CorridorKey)
   > Perfect Green Screen Keys made EZ!
@@ -139,6 +143,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [google/magika](https://github.com/google/magika)
   > Fast and accurate AI powered file content types detection 
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [candidelabs/safe-opensig](https://github.com/candidelabs/safe-opensig)
+  > The Final Word for Multisig Signing
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [SouthBridgeAI/hankweave-runtime](https://github.com/SouthBridgeAI/hankweave-runtime)
@@ -178,5 +184,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 17:30:28 UTC*
+*Last updated at 2026-04-13 18:35:56 UTC*
 *Historical records are stored in the `archive` directory.*
