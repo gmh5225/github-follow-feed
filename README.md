@@ -90,6 +90,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [x-tabdeveloping/turftopic](https://github.com/x-tabdeveloping/turftopic)
   > Robust and fast topic models with sentence-transformers.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [LaurieWired/tailslayer](https://github.com/LaurieWired/tailslayer)
+  > Library for reducing tail latency in RAM reads
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [phuongncn/asus-gx10-qwen35-speed-hack](https://github.com/phuongncn/asus-gx10-qwen35-speed-hack)
@@ -140,6 +142,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sterlingcrispin/nothing-ever-happens](https://github.com/sterlingcrispin/nothing-ever-happens)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+
+### [mshumer](https://github.com/mshumer)
+- 🚀 👤 [mshumer](https://github.com/mshumer) Made [mshumer/fabric-civics-review-20260413](https://github.com/mshumer/fabric-civics-review-20260413) public
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [shric/midi](https://github.com/shric/midi)
@@ -194,5 +199,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 19:34:44 UTC*
+*Last updated at 2026-04-13 20:27:38 UTC*
 *Historical records are stored in the `archive` directory.*
