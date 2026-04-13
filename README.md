@@ -96,6 +96,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/SharpSMBExec-Prototype](https://github.com/frkngksl/SharpSMBExec-Prototype)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [frkngksl/security-testbeds](https://github.com/frkngksl/security-testbeds)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [Octoberfest7/SilentHarvest_BOF](https://github.com/Octoberfest7/SilentHarvest_BOF)
+  > A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [thalium/rumba](https://github.com/thalium/rumba)
@@ -174,6 +176,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Ostoic/chasm](https://github.com/Ostoic/chasm)
   > Old experiments with making a C++17 x86 constexpr assembler.
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftLibXML](https://github.com/rhx/SwiftLibXML) to [frida/SwiftLibXML](https://github.com/frida/SwiftLibXML)
+  > A simple object-oriented Swift API around libxml2
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/gir2swift](https://github.com/rhx/gir2swift) to [frida/gir2swift](https://github.com/frida/gir2swift)
+  > A simple GIR parser in Swift for creating Swift types for a .gir file
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [google/magika](https://github.com/google/magika)
   > Fast and accurate AI powered file content types detection 
@@ -222,5 +230,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 22:23:17 UTC*
+*Last updated at 2026-04-13 23:23:36 UTC*
 *Historical records are stored in the `archive` directory.*
