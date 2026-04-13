@@ -53,9 +53,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [wudun7/pengun](https://github.com/wudun7/pengun) to [classic130/pengun](https://github.com/classic130/pengun)
   > pg bypass for win10-win11 (learn from NP)
 
+### [cr4zyengineer](https://github.com/cr4zyengineer)
+- 🍴 👤 [cr4zyengineer](https://github.com/cr4zyengineer) Forked [CLARATION/Impactor](https://github.com/CLARATION/Impactor) to [cr4zyengineer/Impactor](https://github.com/cr4zyengineer/Impactor)
+  > Feature rich iOS/tvOS sideloading application written in Rust.
+
 ### [dmaivel](https://github.com/dmaivel)
 - 🍴 👤 [dmaivel](https://github.com/dmaivel) Forked [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) to [dmaivel/ik_llama.cpp](https://github.com/dmaivel/ik_llama.cpp)
   > llama.cpp fork with additional SOTA quants and improved performance
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+  > Open-source orchestration for zero-human companies
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [thalium/rumba](https://github.com/thalium/rumba)
@@ -184,5 +194,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-13 18:35:56 UTC*
+*Last updated at 2026-04-13 19:34:44 UTC*
 *Historical records are stored in the `archive` directory.*
