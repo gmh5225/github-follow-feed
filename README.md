@@ -21,6 +21,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows Analysis and Research Toolkit
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Zero-Tang/whpx](https://github.com/Zero-Tang/whpx)
   > Idiomatic Rust Bindings for Windows Hypervisor Platform
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [akamai/Linux-Process-Injection](https://github.com/akamai/Linux-Process-Injection)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Nightmare-Eclipse/UnDefend](https://github.com/Nightmare-Eclipse/UnDefend)
+  > Repository hosting windows defender DOS tool
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Octoberfest7/SilentHarvest_BOF](https://github.com/Octoberfest7/SilentHarvest_BOF)
@@ -96,6 +99,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [ZIB-IOL/The-Agentic-Researcher](https://github.com/ZIB-IOL/The-Agentic-Researcher)
   > A practical framework for AI-Assisted Research in Mathematics and Machine Learning
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Introspective-Diffusion/I-DLM](https://github.com/Introspective-Diffusion/I-DLM)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
@@ -192,5 +196,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 17:32:43 UTC*
+*Last updated at 2026-04-14 18:35:30 UTC*
 *Historical records are stored in the `archive` directory.*
