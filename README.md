@@ -62,6 +62,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cool-japan/oxicuda](https://github.com/cool-japan/oxicuda)
   > OxiCUDA replaces the entire NVIDIA CUDA Toolkit software stack with type-safe, memory-safe Rust code...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)
+  > Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [fikrikarim/parlor](https://github.com/fikrikarim/parlor)
+  > On-device, real-time multimodal AI. Have natural voice and vision conversations with an AI that runs...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kevin-mizu/domloggerpp-caido](https://github.com/kevin-mizu/domloggerpp-caido)
+  > A Caido plugin to monitor, intercept, and debug JavaScript sinks based on customizable configuration...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall)
+  > This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [xaitax/TotalRecall](https://github.com/xaitax/TotalRecall) to [killvxk/TotalRecall](https://github.com/killvxk/TotalRecall)
+  > This tool extracts and displays data from the Recall feature in Windows 11, providing an easy way to...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [7onez/cti-expert](https://github.com/7onez/cti-expert)
+  > CTI Expert — Cyber Threat Intelligence & OSINT analysis skill for Claude Code. 67+ commands, 35 tech...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [alchaincyf/sun-yuchen-perspective](https://github.com/alchaincyf/sun-yuchen-perspective)
+  > 孙宇晨.skill — 注意力收割操作系统 | Justin Sun Perspective Skill for Claude Code | 由女娲.skill蒸馏
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -76,6 +90,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [agentsmd/agents.md](https://github.com/agentsmd/agents.md) to [mrexodia/agents.md](https://github.com/mrexodia/agents.md)
   > AGENTS.md — a simple, open format for guiding coding agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
@@ -87,11 +103,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs)
   > Bochs - Cross Platform x86 Emulator Project
 
 
 ---
-*Last updated at 2026-04-14 09:41:01 UTC*
+*Last updated at 2026-04-14 10:37:03 UTC*
 *Historical records are stored in the `archive` directory.*
