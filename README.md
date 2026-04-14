@@ -67,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL)
   > Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For ...
 
+### [funkemunky](https://github.com/funkemunky)
+- 🌟 👤 [funkemunky](https://github.com/funkemunky) Starred [thunderbird/thunderbird-ios](https://github.com/thunderbird/thunderbird-ios)
+  > Thunderbird for iOS – Open Source Email App for iOS
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google/magika](https://github.com/google/magika)
   > Fast and accurate AI powered file content types detection 
@@ -158,6 +162,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [lambdaclass/argentum](https://github.com/lambdaclass/argentum)
+  > Argentum Online
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
@@ -174,5 +182,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 15:33:53 UTC*
+*Last updated at 2026-04-14 16:34:25 UTC*
 *Historical records are stored in the `archive` directory.*
