@@ -29,6 +29,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Octoberfest7/SilentHarvest_BOF](https://github.com/Octoberfest7/SilentHarvest_BOF)
   > A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [akamai/Linux-Process-Injection](https://github.com/akamai/Linux-Process-Injection)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [svespalec/Faultline](https://github.com/svespalec/Faultline)
+  > Usermode thread hijacking detection via working set page fault monitoring
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [binsnake/picanha](https://github.com/binsnake/picanha)
+  > [WIP] claude opus x86_64 disassembler/lifter/recompiler
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim)
@@ -44,6 +49,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [kongkongyo/Cli-Proxy-API-Management-Center](https://github.com/kongkongyo/Cli-Proxy-API-Management-Center) to [Mr-xn/Cli-Proxy-API-Management-Center](https://github.com/Mr-xn/Cli-Proxy-API-Management-Center)
   > This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications a...
+
+### [NaC-L](https://github.com/NaC-L)
+- 🌟 👤 [NaC-L](https://github.com/NaC-L) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna)
@@ -155,6 +163,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [Defi-Cartel/salmonella](https://github.com/Defi-Cartel/salmonella)
   > Wrecking sandwich traders for fun and profit
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [google/magika](https://github.com/google/magika)
+  > Fast and accurate AI powered file content types detection 
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rotki/rotki](https://github.com/rotki/rotki)
+  > A portfolio tracking, analytics, accounting and management application that protects your privacy
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -176,6 +190,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rust rewrite of BOCHS emulator
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/pi-tutorial](https://github.com/earendil-works/pi-tutorial)
   > An experimental tutorial mode for Pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)
+  > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [malpedia/malpedia-flossed](https://github.com/malpedia/malpedia-flossed)
@@ -227,5 +244,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 22:22:35 UTC*
+*Last updated at 2026-04-14 23:23:16 UTC*
 *Historical records are stored in the `archive` directory.*
