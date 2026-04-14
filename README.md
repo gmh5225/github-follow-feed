@@ -59,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [athenasec16/CVE-2026-29923](https://github.com/athenasec16/CVE-2026-29923) to [classic130/CVE-2026-29923](https://github.com/classic130/CVE-2026-29923)
   > A newly discovered vulnerable driver, pstrip64.sys (CVE-2026-29923) allows an unprivileged user to e...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL)
+  > Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For ...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google/magika](https://github.com/google/magika)
   > Fast and accurate AI powered file content types detection 
@@ -132,6 +136,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
+### [mthcht](https://github.com/mthcht)
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [malpedia/malpedia-flossed](https://github.com/malpedia/malpedia-flossed)
+  > FLARE floss applied to all unpacked+dumped samples in Malpedia, pre-processed for further use.
+
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -160,5 +168,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 13:41:11 UTC*
+*Last updated at 2026-04-14 14:42:34 UTC*
 *Historical records are stored in the `archive` directory.*
