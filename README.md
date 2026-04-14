@@ -73,6 +73,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL)
   > Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For ...
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [rayon-rs/rayon](https://github.com/rayon-rs/rayon)
+  > Rayon: A data parallelism library for Rust
 
 ### [funkemunky](https://github.com/funkemunky)
 - 🌟 👤 [funkemunky](https://github.com/funkemunky) Starred [thunderbird/thunderbird-ios](https://github.com/thunderbird/thunderbird-ios)
@@ -95,6 +97,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [shorwood/slopc](https://github.com/shorwood/slopc)
   > A proc macro that uses an hallucination machine to write your function bodies at compile time.
+
+### [iPower](https://github.com/iPower)
+- 🌟 👤 [iPower](https://github.com/iPower) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [ZIB-IOL/The-Agentic-Researcher](https://github.com/ZIB-IOL/The-Agentic-Researcher)
@@ -138,6 +144,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
   > Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram t...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [Defi-Cartel/salmonella](https://github.com/Defi-Cartel/salmonella)
+  > Wrecking sandwich traders for fun and profit
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -153,6 +163,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AGENTS.md — a simple, open format for guiding coding agents
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [earendil-works/pi-tutorial](https://github.com/earendil-works/pi-tutorial)
+  > An experimental tutorial mode for Pi
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [malpedia/malpedia-flossed](https://github.com/malpedia/malpedia-flossed)
@@ -171,6 +183,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ck0i/claude-patcher](https://github.com/ck0i/claude-patcher)
+  > Related to my article @ https://helz.dev/blog/breaking-claude-code/
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [es3n1n/iptpp](https://github.com/es3n1n/iptpp)
+  > a bit more sane c++ wrapper around libipt
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGLib](https://github.com/rhx/SwiftGLib) to [frida/SwiftGLib](https://github.com/frida/SwiftGLib)
@@ -196,5 +212,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 18:35:30 UTC*
+*Last updated at 2026-04-14 19:36:12 UTC*
 *Historical records are stored in the `archive` directory.*
