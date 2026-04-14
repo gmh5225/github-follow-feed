@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [Blevene/structured-analysis-skill](https://github.com/Blevene/structured-analysis-skill)
+  > Rigorous Structured Analysis to equip Agents to Think like Intelligence Analysts
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+  > Production-grade engineering skills for AI coding agents.
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
   > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
@@ -23,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [naim94a/lumen](https://github.com/naim94a/lumen)
   > A private Lumina server for IDA Pro
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [1401199262/NMIStackWalk](https://github.com/1401199262/NMIStackWalk)
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [kongkongyo/Cli-Proxy-API-Management-Center](https://github.com/kongkongyo/Cli-Proxy-API-Management-Center) to [Mr-xn/Cli-Proxy-API-Management-Center](https://github.com/Mr-xn/Cli-Proxy-API-Management-Center)
+  > This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications a...
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna)
@@ -64,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [shorwood/slopc](https://github.com/shorwood/slopc)
   > A proc macro that uses an hallucination machine to write your function bodies at compile time.
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [ZIB-IOL/The-Agentic-Researcher](https://github.com/ZIB-IOL/The-Agentic-Researcher)
+  > A practical framework for AI-Assisted Research in Mathematics and Machine Learning
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
@@ -134,11 +148,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates)
+  > CLI tool for configuring and monitoring Claude Code
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio)
+  > CC Workflow Studio
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs)
   > Bochs - Cross Platform x86 Emulator Project
 
 
 ---
-*Last updated at 2026-04-14 11:29:51 UTC*
+*Last updated at 2026-04-14 12:33:51 UTC*
 *Historical records are stored in the `archive` directory.*
