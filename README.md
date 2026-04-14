@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [akamai/Linux-Process-Injection](https://github.com/akamai/Linux-Process-Injection)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim)
+  > The full Markdown editing experience in neovim
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
   > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -74,6 +78,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google/magika](https://github.com/google/magika)
   > Fast and accurate AI powered file content types detection 
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/appkit-wagmi-tempo-wallet](https://github.com/tempoxyz/appkit-wagmi-tempo-wallet)
+  > AppKit + Wagmi + Tempo Wallet Example
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [ZengboJamesWang/dgx-spark-vllm-gemma4-26b-uncensored](https://github.com/ZengboJamesWang/dgx-spark-vllm-gemma4-26b-uncensored)
@@ -162,6 +168,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGLib](https://github.com/rhx/SwiftGLib) to [frida/SwiftGLib](https://github.com/frida/SwiftGLib)
+  > A Swift wrapper around glib-2.x that is largely auto-generated from gobject-introspection
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [lambdaclass/argentum](https://github.com/lambdaclass/argentum)
   > Argentum Online
@@ -182,5 +192,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 16:34:25 UTC*
+*Last updated at 2026-04-14 17:32:43 UTC*
 *Historical records are stored in the `archive` directory.*
