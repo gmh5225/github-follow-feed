@@ -80,6 +80,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [funkemunky](https://github.com/funkemunky) Starred [thunderbird/thunderbird-ios](https://github.com/thunderbird/thunderbird-ios)
   > Thunderbird for iOS – Open Source Email App for iOS
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jumerckx/Tamagoyaki](https://github.com/jumerckx/Tamagoyaki)
+  > Bringing e-graphs to MLIR, natively.
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google/magika](https://github.com/google/magika)
   > Fast and accurate AI powered file content types detection 
@@ -156,6 +161,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [optiscaler/OptiScaler](https://github.com/optiscaler/OptiScaler)
+  > OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces nati...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dwsy/pi-session-manager](https://github.com/Dwsy/pi-session-manager)
   > Pi session manager for browsing, searching, and resuming Pi AI coding sessions. Related project: htt...
@@ -218,5 +227,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 21:24:14 UTC*
+*Last updated at 2026-04-14 22:22:35 UTC*
 *Historical records are stored in the `archive` directory.*
