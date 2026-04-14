@@ -106,6 +106,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [ZIB-IOL/The-Agentic-Researcher](https://github.com/ZIB-IOL/The-Agentic-Researcher)
   > A practical framework for AI-Assisted Research in Mathematics and Machine Learning
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Introspective-Diffusion/I-DLM](https://github.com/Introspective-Diffusion/I-DLM)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server)
+  > YantrikDB database server — wire protocol + HTTP gateway
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
@@ -192,6 +194,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGLib](https://github.com/rhx/SwiftGLib) to [frida/SwiftGLib](https://github.com/frida/SwiftGLib)
   > A Swift wrapper around glib-2.x that is largely auto-generated from gobject-introspection
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server)
+  > Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup...
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [lambdaclass/argentum](https://github.com/lambdaclass/argentum)
   > Argentum Online
@@ -212,5 +218,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 20:28:00 UTC*
+*Last updated at 2026-04-14 21:24:14 UTC*
 *Historical records are stored in the `archive` directory.*
