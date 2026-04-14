@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
+  > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
+  > Windows Analysis and Research Toolkit
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Zero-Tang/whpx](https://github.com/Zero-Tang/whpx)
+  > Idiomatic Rust Bindings for Windows Hypervisor Platform
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
   > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
@@ -36,6 +44,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dwsy/pi-session-manager](https://github.com/Dwsy/pi-session-manager)
+  > Pi session manager for browsing, searching, and resuming Pi AI coding sessions. Related project: htt...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Crokily/pi-discord-gateway](https://github.com/Crokily/pi-discord-gateway)
+  > Piscord - Lightweight Discord gateway for pi coding agent. Architecture inspired by NanoClaw.
+
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -48,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 06:48:58 UTC*
+*Last updated at 2026-04-14 07:41:27 UTC*
 *Historical records are stored in the `archive` directory.*
