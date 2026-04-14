@@ -15,6 +15,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Octoberfest7/SilentHarvest_BOF](https://github.com/Octoberfest7/SilentHarvest_BOF)
   > A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [akamai/Linux-Process-Injection](https://github.com/akamai/Linux-Process-Injection)
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
@@ -31,6 +32,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [FSecureLABS/avrop](https://github.com/FSecureLABS/avrop)
   > ROP based Movfuscator VM
 
+### [SunWeb3Sec](https://github.com/SunWeb3Sec)
+- 🌟 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Starred [BradMoonUESTC/TxAnalyzer](https://github.com/BradMoonUESTC/TxAnalyzer)
+
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [Boris-code/feapder](https://github.com/Boris-code/feapder)
   > 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpide...
@@ -40,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [noahware/winbo](https://github.com/noahware/winbo) to [classic130/winbo](https://github.com/classic130/winbo)
   > Detecting window hijacking via ETW and GDI table scanning
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [BishopFox/sliver](https://github.com/BishopFox/sliver) to [classic130/sliver](https://github.com/classic130/sliver)
+  > Adversary Emulation Framework
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [athenasec16/CVE-2026-29923](https://github.com/athenasec16/CVE-2026-29923) to [classic130/CVE-2026-29923](https://github.com/classic130/CVE-2026-29923)
+  > A newly discovered vulnerable driver, pstrip64.sys (CVE-2026-29923) allows an unprivileged user to e...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google/magika](https://github.com/google/magika)
@@ -76,6 +84,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CTI Expert — Cyber Threat Intelligence & OSINT analysis skill for Claude Code. 67+ commands, 35 tech...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [alchaincyf/sun-yuchen-perspective](https://github.com/alchaincyf/sun-yuchen-perspective)
   > 孙宇晨.skill — 注意力收割操作系统 | Justin Sun Perspective Skill for Claude Code | 由女娲.skill蒸馏
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mrphrazer/ghidra-headless-mcp](https://github.com/mrphrazer/ghidra-headless-mcp)
+  > Headless Ghidra MCP server — giving AI agents deep reverse-engineering capabilities.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xTriboulet/wiretap-rs](https://github.com/0xTriboulet/wiretap-rs)
+  > A vibe-coded port of wiretap
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill)
+  > 四柱八字命理分析
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [PlamenTSV/audits](https://github.com/PlamenTSV/audits)
+  > A collection and summary of my auditing achievements, with a doc on my private security review proce...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [runesleo/claude-code-workflow](https://github.com/runesleo/claude-code-workflow)
+  > Battle-tested Claude Code workflow template — memory management, context engineering, and task routi...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
+  > AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rixinhahaha/snip](https://github.com/rixinhahaha/snip)
+  > The visual communication layer between humans and AI agents. Capture, annotate, render diagrams, and...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
+  > Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram t...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -98,6 +123,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [open-webui/open-terminal](https://github.com/open-webui/open-terminal)
   > A computer you can curl ⚡
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [searxng/searxng](https://github.com/searxng/searxng)
+  > SearXNG is a free internet metasearch engine which aggregates results from various search services a...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [thalium/rumba](https://github.com/thalium/rumba)
@@ -113,5 +140,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 10:37:03 UTC*
+*Last updated at 2026-04-14 11:29:51 UTC*
 *Historical records are stored in the `archive` directory.*
