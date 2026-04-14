@@ -27,6 +27,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [Boris-code/feapder](https://github.com/Boris-code/feapder)
   > 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpide...
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/xuanze-skill](https://github.com/WhiteNightShadow/xuanze-skill)
+  > 选择.Skill 是一个遵循 Skill-as-Module 架构的 Python 模块，由宿主 Agent（如 Claude）通过 Python API 调用。Skill 专注于数据管理、Promp...
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [noahware/winbo](https://github.com/noahware/winbo) to [classic130/winbo](https://github.com/classic130/winbo)
+  > Detecting window hijacking via ETW and GDI table scanning
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google/magika](https://github.com/google/magika)
@@ -60,7 +66,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
 
+### [zer0condition](https://github.com/zer0condition)
+- 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs)
+  > Bochs - Cross Platform x86 Emulator Project
+
 
 ---
-*Last updated at 2026-04-14 07:41:27 UTC*
+*Last updated at 2026-04-14 08:44:20 UTC*
 *Historical records are stored in the `archive` directory.*
