@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) to [0xAX/ClickHouse](https://github.com/0xAX/ClickHouse)
+  > ClickHouse® is a real-time analytics database management system
+
 ### [0xcpu](https://github.com/0xcpu)
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [Blevene/structured-analysis-skill](https://github.com/Blevene/structured-analysis-skill)
   > Rigorous Structured Analysis to equip Agents to Think like Intelligence Analysts
@@ -147,6 +151,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A computer you can curl ⚡
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [searxng/searxng](https://github.com/searxng/searxng)
   > SearXNG is a free internet metasearch engine which aggregates results from various search services a...
+- 🍴 👤 [nulltea](https://github.com/nulltea) Forked [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) to [nulltea/edgequake](https://github.com/nulltea/edgequake)
+  > EdegQuake 🌋 High-performance GraphRAG inspired from LightRag written in Rust; Transform documents in...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [thalium/rumba](https://github.com/thalium/rumba)
@@ -168,5 +174,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-14 14:42:34 UTC*
+*Last updated at 2026-04-14 15:33:53 UTC*
 *Historical records are stored in the `archive` directory.*
