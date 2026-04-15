@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [y0v1737/chipolino](https://github.com/y0v1737/chipolino)
+  > Chip'olino - hardware & software platform for research in the field "Power Attacks"
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer) to [CrackerCat/FuseFixer](https://github.com/CrackerCat/FuseFixer)
 
@@ -44,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [pard0p/PICO-Implant](https://github.com/pard0p/PICO-Implant)
   > PICO-Implant is a Proof of Concept C2 implant built using Position-independent Code Objects (PICO) f...
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR)
+  > High-Performance Symbolic Regression in Python and Julia
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [Dump-GUY/ZoomAllViews](https://github.com/Dump-GUY/ZoomAllViews) to [williballenthin/ZoomAllViews](https://github.com/williballenthin/ZoomAllViews)
   > Ctrl+Scroll font zoom for all IDA views — Disassembly, Pseudocode, Hex View, Imports, Exports, Funct...
@@ -55,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 10:35:15 UTC*
+*Last updated at 2026-04-15 11:28:53 UTC*
 *Historical records are stored in the `archive` directory.*
