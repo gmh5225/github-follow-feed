@@ -42,9 +42,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [romainsimon/paperasse](https://github.com/romainsimon/paperasse)
   > 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 
+### [akien-mga](https://github.com/akien-mga)
+- 🌟 👤 [akien-mga](https://github.com/akien-mga) Starred [j-pastor/fairlight](https://github.com/j-pastor/fairlight)
+  > PC-Port of Fairlight programmed with Godot
+- 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [j-pastor/fairlight](https://github.com/j-pastor/fairlight) to [LibreGamesArchive/fairlight](https://github.com/LibreGamesArchive/fairlight)
+  > PC-Port of Fairlight programmed with Godot
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pipecat-ai/gradient-bang](https://github.com/pipecat-ai/gradient-bang)
   > Gradient Bang is an online multiplayer universe where you explore, trade, battle, and collaborate wi...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mkurman/tamux](https://github.com/mkurman/tamux)
+  > A terminal multiplexer and user interface (TUI) with a super-powerful agent. Tamux is the only agent...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
@@ -123,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 21:24:52 UTC*
+*Last updated at 2026-04-15 22:21:05 UTC*
 *Historical records are stored in the `archive` directory.*
