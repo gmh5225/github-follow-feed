@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [tanrikuluatahan/mimikatz](https://github.com/tanrikuluatahan/mimikatz)
   > A little tool to play with Windows security
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [midoks/mdserver-web](https://github.com/midoks/mdserver-web) to [Mr-xn/mdserver-web](https://github.com/Mr-xn/mdserver-web)
+  > Simple Linux Panel
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [P4nda0s/elf-dump-fixer](https://github.com/P4nda0s/elf-dump-fixer)
   > Android ELF .so memory dumper and fixer for rebuilding dumped libraries into analyzable ELF files.
@@ -49,6 +53,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [rbmm/Camera](https://github.com/rbmm/Camera)
+
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [horsicq/peid_widget](https://github.com/horsicq/peid_widget)
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
@@ -81,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 14:42:10 UTC*
+*Last updated at 2026-04-15 15:35:23 UTC*
 *Historical records are stored in the `archive` directory.*
