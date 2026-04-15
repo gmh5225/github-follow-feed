@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [y0v1737/chipolino](https://github.com/y0v1737/chipolino)
   > Chip'olino - hardware & software platform for research in the field "Power Attacks"
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [incursi0n/BlueSAM](https://github.com/incursi0n/BlueSAM)
+  > A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy ...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [5ec1cff/FuseFixer](https://github.com/5ec1cff/FuseFixer) to [CrackerCat/FuseFixer](https://github.com/CrackerCat/FuseFixer)
 
@@ -44,6 +48,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [skeeto/w64devkit](https://github.com/skeeto/w64devkit)
+  > Portable C and C++ Development Kit for x64 (and x86) Windows
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [skeeto/dcmake](https://github.com/skeeto/dcmake)
+  > CMake debugger
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [pard0p/PICO-Implant](https://github.com/pard0p/PICO-Implant)
   > PICO-Implant is a Proof of Concept C2 implant built using Position-independent Code Objects (PICO) f...
@@ -63,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 12:34:22 UTC*
+*Last updated at 2026-04-15 13:40:15 UTC*
 *Historical records are stored in the `archive` directory.*
