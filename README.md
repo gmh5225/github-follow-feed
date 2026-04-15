@@ -89,6 +89,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PICO-Implant is a Proof of Concept C2 implant built using Position-independent Code Objects (PICO) f...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [incursi0n/BlueSAM](https://github.com/incursi0n/BlueSAM)
   > A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy ...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [holly-hacker/EazFixer](https://github.com/holly-hacker/EazFixer)
+  > A deobfuscation tool for Eazfuscator.
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGtk](https://github.com/rhx/SwiftGtk) to [frida/SwiftGtk](https://github.com/frida/SwiftGtk)
@@ -121,5 +123,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 20:24:56 UTC*
+*Last updated at 2026-04-15 21:24:52 UTC*
 *Historical records are stored in the `archive` directory.*
