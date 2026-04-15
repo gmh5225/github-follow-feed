@@ -72,6 +72,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [pard0p/PICO-Implant](https://github.com/pard0p/PICO-Implant)
   > PICO-Implant is a Proof of Concept C2 implant built using Position-independent Code Objects (PICO) f...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [incursi0n/BlueSAM](https://github.com/incursi0n/BlueSAM)
+  > A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy ...
 
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR)
@@ -88,5 +90,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 15:35:23 UTC*
+*Last updated at 2026-04-15 16:31:33 UTC*
 *Historical records are stored in the `archive` directory.*
