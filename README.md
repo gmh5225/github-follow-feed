@@ -41,12 +41,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ulamai/ulamai](https://github.com/ulamai/ulamai)
   > UlamAI is an open-source Lean theorem prover and formalizer.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [przchojecki/agentic-erdos](https://github.com/przchojecki/agentic-erdos)
+  > Agentic workflow for tackling all open Erdos problems at once.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [raulk/omnifs](https://github.com/raulk/omnifs)
+  > the universe, mounted on your filesystem  🪐
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [madeye/mihomo-rust](https://github.com/madeye/mihomo-rust)
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🌟 👤 [hfiref0x](https://github.com/hfiref0x) Starred [rbmm/Camera](https://github.com/rbmm/Camera)
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [skeeto/w64devkit](https://github.com/skeeto/w64devkit)
@@ -73,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 13:40:15 UTC*
+*Last updated at 2026-04-15 14:42:10 UTC*
 *Historical records are stored in the `archive` directory.*
