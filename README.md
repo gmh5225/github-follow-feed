@@ -53,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Gradient Bang is an online multiplayer universe where you explore, trade, battle, and collaborate wi...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mkurman/tamux](https://github.com/mkurman/tamux)
   > A terminal multiplexer and user interface (TUI) with a super-powerful agent. Tamux is the only agent...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch)
+  > Autonomous experiment loop extension for pi
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
@@ -64,6 +66,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [brainboxdotcc/retro-rocket](https://github.com/brainboxdotcc/retro-rocket)
   > Retro Rocket BASIC Powered Operating System
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [cushycush/qml-language-server](https://github.com/cushycush/qml-language-server)
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ulamai/ulamai](https://github.com/ulamai/ulamai)
@@ -80,11 +83,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [horsicq/peid_widget](https://github.com/horsicq/peid_widget)
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [j4s0nmo0n/Soaphound.py](https://github.com/j4s0nmo0n/Soaphound.py)
+  > Bloodhound python Ingestor using ADWS
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [logangoins/SOAPy](https://github.com/logangoins/SOAPy)
+  > SOAPy is a Proof of Concept (PoC) tool for conducting offensive interaction with Active Directory We...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [RabobankRedTeam/ADWSProxy](https://github.com/RabobankRedTeam/ADWSProxy)
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [earendil-works/gondolin](https://github.com/earendil-works/gondolin) to [mrexodia/gondolin](https://github.com/mrexodia/gondolin)
+  > Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [quarkslab/whvp](https://github.com/quarkslab/whvp)
+  > PoC for a snapshot-based coverage-guided fuzzer targeting Windows kernel components
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marirs/smda-rs](https://github.com/marirs/smda-rs)
+  > SMDA is a minimalist recursive disassembler library
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [skeeto/w64devkit](https://github.com/skeeto/w64devkit)
@@ -131,5 +147,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 22:21:05 UTC*
+*Last updated at 2026-04-15 23:23:06 UTC*
 *Historical records are stored in the `archive` directory.*
