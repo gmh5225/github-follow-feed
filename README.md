@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [i12bp8/TagTinker](https://github.com/i12bp8/TagTinker)
+  > Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [y0v1737/chipolino](https://github.com/y0v1737/chipolino)
   > Chip'olino - hardware & software platform for research in the field "Power Attacks"
@@ -42,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pipecat-ai/gradient-bang](https://github.com/pipecat-ai/gradient-bang)
   > Gradient Bang is an online multiplayer universe where you explore, trade, battle, and collaborate wi...
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [brainboxdotcc/retro-rocket](https://github.com/brainboxdotcc/retro-rocket)
+  > Retro Rocket BASIC Powered Operating System
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ulamai/ulamai](https://github.com/ulamai/ulamai)
   > UlamAI is an open-source Lean theorem prover and formalizer.
@@ -75,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [incursi0n/BlueSAM](https://github.com/incursi0n/BlueSAM)
   > A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy ...
 
+### [spudgy](https://github.com/spudgy)
+- 🌟 👤 [spudgy](https://github.com/spudgy) Starred [CarlosZiegler/fullstack-start-template](https://github.com/CarlosZiegler/fullstack-start-template)
+  > This project provides a solid foundation for building modern web applications using a curated stack ...
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR)
   > High-Performance Symbolic Regression in Python and Julia
@@ -90,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 17:30:32 UTC*
+*Last updated at 2026-04-15 18:34:48 UTC*
 *Historical records are stored in the `archive` directory.*
