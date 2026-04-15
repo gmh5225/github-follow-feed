@@ -46,6 +46,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pipecat-ai/gradient-bang](https://github.com/pipecat-ai/gradient-bang)
   > Gradient Bang is an online multiplayer universe where you explore, trade, battle, and collaborate wi...
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [binsnake/seven-emulator](https://github.com/binsnake/seven-emulator)
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [jcrist/msgspec](https://github.com/jcrist/msgspec)
+  > A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and T...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [brainboxdotcc/retro-rocket](https://github.com/brainboxdotcc/retro-rocket)
   > Retro Rocket BASIC Powered Operating System
@@ -83,9 +90,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [incursi0n/BlueSAM](https://github.com/incursi0n/BlueSAM)
   > A Cobalt Strike Beacon Object File that exploits the BlueHammer vulnerability that to obtain a copy ...
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGtk](https://github.com/rhx/SwiftGtk) to [frida/SwiftGtk](https://github.com/frida/SwiftGtk)
+  > A Swift wrapper around gtk-3.x and gtk-4.x that is largely auto-generated from gobject-introspection
+
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+  > A high-throughput and memory-efficient inference and serving engine for LLMs
+
 ### [spudgy](https://github.com/spudgy)
 - 🌟 👤 [spudgy](https://github.com/spudgy) Starred [CarlosZiegler/fullstack-start-template](https://github.com/CarlosZiegler/fullstack-start-template)
   > This project provides a solid foundation for building modern web applications using a curated stack ...
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)
+  > An open source template for building cloud agents.
 
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [MilesCranmer/PySR](https://github.com/MilesCranmer/PySR)
@@ -102,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-15 18:34:48 UTC*
+*Last updated at 2026-04-15 19:36:31 UTC*
 *Historical records are stored in the `archive` directory.*
