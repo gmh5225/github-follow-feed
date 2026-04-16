@@ -44,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [david-tech-404/CocosOS](https://github.com/david-tech-404/CocosOS)
   > open-source operating-system
 
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
+  > The Red Sun vulnerability repository
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec)
   > `std::execution`, the proposed C++ framework for asynchronous and parallel programming.
@@ -60,6 +64,34 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [hfiref0x](https://github.com/hfiref0x) Made [hfiref0x/WDSigEx](https://github.com/hfiref0x/WDSigEx) public
   > Parse Windows Defender extracted signature databases, enumerate threat records, export threat chunks...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
+  > A Binary Genetic Traits Lexer Framework
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [garrytan/gbrain](https://github.com/garrytan/gbrain)
+  > Garry's Opinionated OpenClaw/Hermes Agent Brain
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Octoberfest7/SilentHarvest_BOF](https://github.com/Octoberfest7/SilentHarvest_BOF)
+  > A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [pipecat-ai/gradient-bang](https://github.com/pipecat-ai/gradient-bang)
+  > Gradient Bang is an online multiplayer universe where you explore, trade, battle, and collaborate wi...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Hacktus/jmx2rce](https://github.com/Hacktus/jmx2rce)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Hacktus/jmx2rce](https://github.com/Hacktus/jmx2rce) to [killvxk/jmx2rce](https://github.com/killvxk/jmx2rce)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server)
+  > Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)
+  > 利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [justinpbarnett/agtop](https://github.com/justinpbarnett/agtop)
+  > A Terminal User Interface for orchestrating, monitoring, and managing AI agent coding workflows.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [BlackSnufkin/CheckPlz](https://github.com/BlackSnufkin/CheckPlz)
+  > Scan files for potential threats while leveraging AMSI (Antimalware Scan Interface) and Windows Defe...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
+  > The Red Sun vulnerability repository
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [killvxk/RedSun](https://github.com/killvxk/RedSun)
+  > The Red Sun vulnerability repository
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [google/osv-scanner](https://github.com/google/osv-scanner)
+  > Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hesamsheikh/octogent](https://github.com/hesamsheikh/octogent)
+  > A thin orchestration dashboard over Claude Code for managing context, automation, and developer head...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ykjit/yk](https://github.com/ykjit/yk)
   > yk packages
@@ -70,6 +102,32 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xdrew87/Echos](https://github.com/xdrew87/Echos)
   > Echos is a stealthy C2 traffic emulator built in Rust for Red Teamers. It simulates adversarial beac...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGObject](https://github.com/rhx/SwiftGObject) to [frida/SwiftGObject](https://github.com/frida/SwiftGObject)
+  > A wrapper around gobject-2.x for the Swift Package Manager
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGdkPixbuf](https://github.com/rhx/SwiftGdkPixbuf) to [frida/SwiftGdkPixbuf](https://github.com/frida/SwiftGdkPixbuf)
+  > A Swift wrapper around GdkPixbuf-2.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGdk](https://github.com/rhx/SwiftGdk) to [frida/SwiftGdk](https://github.com/frida/SwiftGdk)
+  > A Swift wrapper around gdk-3.x and gdk-4.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftPango](https://github.com/rhx/SwiftPango) to [frida/SwiftPango](https://github.com/frida/SwiftPango)
+  > A Swift wrapper around pango-1.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftCairo](https://github.com/rhx/SwiftCairo) to [frida/SwiftCairo](https://github.com/frida/SwiftCairo)
+  > A Swift wrapper around cairo-1.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGraphene](https://github.com/rhx/SwiftGraphene) to [frida/SwiftGraphene](https://github.com/frida/SwiftGraphene)
+  > A Swift wrapper around graphene-1.x that is largely auto-generated from gobject-introspection.
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftAtk](https://github.com/rhx/SwiftAtk) to [frida/SwiftAtk](https://github.com/frida/SwiftAtk)
+  > A Swift wrapper around atk-1.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftHarfBuzz](https://github.com/rhx/SwiftHarfBuzz) to [frida/SwiftHarfBuzz](https://github.com/frida/SwiftHarfBuzz)
+  > A Swift wrapper around harfbuzz-4.x that is largely auto-generated from gobject-introspection.
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGsk](https://github.com/rhx/SwiftGsk) to [frida/SwiftGsk](https://github.com/frida/SwiftGsk)
+  > A Swift wrapper around gsk-4.x that is largely auto-generated from gobject-introspection.
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftPangoCairo](https://github.com/rhx/SwiftPangoCairo) to [frida/SwiftPangoCairo](https://github.com/frida/SwiftPangoCairo)
+  > A Swift wrapper around pangocairo-1.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGModule](https://github.com/rhx/SwiftGModule) to [frida/SwiftGModule](https://github.com/frida/SwiftGModule)
+  > A Swift wrapper around gmodule-2.x that is largely auto-generated from gobject-introspection
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGIO](https://github.com/rhx/SwiftGIO) to [frida/SwiftGIO](https://github.com/frida/SwiftGIO)
+  > A wrapper around gio-2.x for the Swift Package Manager
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [saltstack/salt](https://github.com/saltstack/salt)
@@ -87,5 +145,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 12:35:44 UTC*
+*Last updated at 2026-04-16 13:41:38 UTC*
 *Historical records are stored in the `archive` directory.*
