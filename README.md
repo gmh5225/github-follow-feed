@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [google-research/camel-prompt-injection](https://github.com/google-research/camel-prompt-injection)
   > Code for the paper "Defeating Prompt Injections by Design"
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [netnr/kms](https://github.com/netnr/kms) to [classic130/kms](https://github.com/classic130/kms)
+  > KMS 激活服务，slmgr 命令激活 Windows 系统、Office
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TheUltimateFoxOS/horizon](https://github.com/TheUltimateFoxOS/horizon)
   > Rewrite of the FoxOS kernel
@@ -63,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [saltstack/salt](https://github.com/saltstack/salt)
   > Software to automate the management and configuration of infrastructure and applications at scale.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [rpm-software-management/dnf](https://github.com/rpm-software-management/dnf)
+  > Package manager based on libdnf and libsolv. Replaces YUM.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5)
+  > Next-generation RPM package management system
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [ykjit/yk](https://github.com/ykjit/yk)
@@ -70,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 07:41:12 UTC*
+*Last updated at 2026-04-16 08:44:36 UTC*
 *Historical records are stored in the `archive` directory.*
