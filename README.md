@@ -23,6 +23,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
   > The Red Sun vulnerability repository
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [DylanDavis1/DSCourier](https://github.com/DylanDavis1/DSCourier)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [CrackerCat/RedSun](https://github.com/CrackerCat/RedSun)
@@ -79,10 +80,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Zones are private blockchains anchored to Tempo, with native support for confidential balances and t...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [lfglabs-dev/verity](https://github.com/lfglabs-dev/verity)
   > Formally verified smart contracts gives mathematical certainty across all inputs and execution paths...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [redixhumayun/simpledb](https://github.com/redixhumayun/simpledb)
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🚀 👤 [hfiref0x](https://github.com/hfiref0x) Made [hfiref0x/WDSigEx](https://github.com/hfiref0x/WDSigEx) public
   > Parse Windows Defender extracted signature databases, enumerate threat records, export threat chunks...
+
+### [hugsy](https://github.com/hugsy)
+- 🍴 👤 [hugsy](https://github.com/hugsy) Forked [0vercl0k/addr-symbolizer-rs](https://github.com/0vercl0k/addr-symbolizer-rs) to [hugsy/addr-symbolizer-rs](https://github.com/hugsy/addr-symbolizer-rs)
+  > A KISS Rust crate to symbolize function addresses using Windows PDB files
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
@@ -139,6 +145,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk)
   > Firmware Analysis Tool
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [thefLink/Hunt-Weird-Syscalls](https://github.com/thefLink/Hunt-Weird-Syscalls)
+  > ETW based POC to identify direct and indirect syscalls
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGObject](https://github.com/rhx/SwiftGObject) to [frida/SwiftGObject](https://github.com/frida/SwiftGObject)
@@ -190,5 +198,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 18:36:05 UTC*
+*Last updated at 2026-04-16 19:34:14 UTC*
 *Historical records are stored in the `archive` directory.*
