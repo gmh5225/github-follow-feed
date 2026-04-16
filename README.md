@@ -18,6 +18,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [Fischsalat/IDAExecFunctionsImporter](https://github.com/Fischsalat/IDAExecFunctionsImporter)
 - 🌟 👤 [54](https://github.com/54) Starred [thalium/rumba](https://github.com/thalium/rumba)
   > Cracking MBAs
+- 🌟 👤 [54](https://github.com/54) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [CrackerCat/RedSun](https://github.com/CrackerCat/RedSun)
@@ -44,6 +45,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > GPUfs - File system support for NVIDIA GPUs
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr)
   > A Rust compiler backend targeting CIL(.NET IR) and C. 
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA/cuda-tile](https://github.com/NVIDIA/cuda-tile)
+  > CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kerne...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Devsh-Graphics-Programming/Nabla](https://github.com/Devsh-Graphics-Programming/Nabla)
+  > Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ykjit/yk](https://github.com/ykjit/yk)
@@ -51,11 +56,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xataio/xata](https://github.com/xataio/xata)
   > Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [saltstack/salt](https://github.com/saltstack/salt)
+  > Software to automate the management and configuration of infrastructure and applications at scale.
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [ykjit/yk](https://github.com/ykjit/yk)
   > yk packages
 
 
 ---
-*Last updated at 2026-04-16 05:08:39 UTC*
+*Last updated at 2026-04-16 06:49:58 UTC*
 *Historical records are stored in the `archive` directory.*
