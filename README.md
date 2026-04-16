@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [google-research/camel-prompt-injection](https://github.com/google-research/camel-prompt-injection)
   > Code for the paper "Defeating Prompt Injections by Design"
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
+  > The Red Sun vulnerability repository
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [netnr/kms](https://github.com/netnr/kms) to [classic130/kms](https://github.com/classic130/kms)
   > KMS 激活服务，slmgr 命令激活 Windows 系统、Office
@@ -73,6 +77,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/zones](https://github.com/tempoxyz/zones)
   > Zones are private blockchains anchored to Tempo, with native support for confidential balances and t...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [lfglabs-dev/verity](https://github.com/lfglabs-dev/verity)
+  > Formally verified smart contracts gives mathematical certainty across all inputs and execution paths...
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🚀 👤 [hfiref0x](https://github.com/hfiref0x) Made [hfiref0x/WDSigEx](https://github.com/hfiref0x/WDSigEx) public
@@ -182,5 +188,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 16:41:32 UTC*
+*Last updated at 2026-04-16 17:36:57 UTC*
 *Historical records are stored in the `archive` directory.*
