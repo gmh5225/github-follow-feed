@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cracking MBAs
 - 🌟 👤 [54](https://github.com/54) Starred [packmad/fprem-anti-emulation](https://github.com/packmad/fprem-anti-emulation)
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
+  > The Red Sun vulnerability repository
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [CrackerCat/RedSun](https://github.com/CrackerCat/RedSun)
   > The Red Sun vulnerability repository
@@ -37,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > KMS 激活服务，slmgr 命令激活 Windows 系统、Office
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [oxfemale/KillChain](https://github.com/oxfemale/KillChain) to [classic130/KillChain](https://github.com/classic130/KillChain)
   > Kernel Process Termination Tool ( CVE-2026-0828 exploit)
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [argotorg/solcore](https://github.com/argotorg/solcore)
+  > experimental solidity compiler
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TheUltimateFoxOS/horizon](https://github.com/TheUltimateFoxOS/horizon)
@@ -59,6 +67,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kerne...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Devsh-Graphics-Programming/Nabla](https://github.com/Devsh-Graphics-Programming/Nabla)
   > Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/zones](https://github.com/tempoxyz/zones)
+  > Zones are private blockchains anchored to Tempo, with native support for confidential balances and t...
 
 ### [hfiref0x](https://github.com/hfiref0x)
 - 🚀 👤 [hfiref0x](https://github.com/hfiref0x) Made [hfiref0x/WDSigEx](https://github.com/hfiref0x/WDSigEx) public
@@ -91,6 +101,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Vulnerability scanner written in Go which uses the data provided by https://osv.dev
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hesamsheikh/octogent](https://github.com/hesamsheikh/octogent)
   > A thin orchestration dashboard over Claude Code for managing context, automation, and developer head...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)
+  > #1 Persistent memory for AI coding agents based on real-world benchmarks
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ZhangHanDong/mempal](https://github.com/ZhangHanDong/mempal)
+  > AI Agent Memory
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cailllev/EDR-Introspection](https://github.com/cailllev/EDR-Introspection)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cailllev/Decondition-Enumerator](https://github.com/cailllev/Decondition-Enumerator)
+  > some research on EDR deconditioning
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [thefLink/Hunt-Weird-Syscalls](https://github.com/thefLink/Hunt-Weird-Syscalls)
+  > ETW based POC to identify direct and indirect syscalls
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ykjit/yk](https://github.com/ykjit/yk)
@@ -143,7 +162,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [ykjit/yk](https://github.com/ykjit/yk)
   > yk packages
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [ente0/mcpstrike](https://github.com/ente0/mcpstrike)
+  > MCP server + Ollama-driven autonomous penetration testing client. Connects LLMs to security tools (n...
+
 
 ---
-*Last updated at 2026-04-16 13:41:38 UTC*
+*Last updated at 2026-04-16 14:44:39 UTC*
 *Historical records are stored in the `archive` directory.*
