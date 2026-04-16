@@ -56,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xataio/xata](https://github.com/xataio/xata)
   > Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xdrew87/Echos](https://github.com/xdrew87/Echos)
+  > Echos is a stealthy C2 traffic emulator built in Rust for Red Teamers. It simulates adversarial beac...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [saltstack/salt](https://github.com/saltstack/salt)
   > Software to automate the management and configuration of infrastructure and applications at scale.
@@ -66,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 06:49:58 UTC*
+*Last updated at 2026-04-16 07:41:12 UTC*
 *Historical records are stored in the `archive` directory.*
