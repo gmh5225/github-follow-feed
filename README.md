@@ -137,6 +137,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xdrew87/Echos](https://github.com/xdrew87/Echos)
   > Echos is a stealthy C2 traffic emulator built in Rust for Red Teamers. It simulates adversarial beac...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk)
+  > Firmware Analysis Tool
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [rhx/SwiftGObject](https://github.com/rhx/SwiftGObject) to [frida/SwiftGObject](https://github.com/frida/SwiftGObject)
@@ -188,5 +190,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 17:36:57 UTC*
+*Last updated at 2026-04-16 18:36:05 UTC*
 *Historical records are stored in the `archive` directory.*
