@@ -35,6 +35,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [netnr/kms](https://github.com/netnr/kms) to [classic130/kms](https://github.com/classic130/kms)
   > KMS 激活服务，slmgr 命令激活 Windows 系统、Office
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [oxfemale/KillChain](https://github.com/oxfemale/KillChain) to [classic130/KillChain](https://github.com/classic130/KillChain)
+  > Kernel Process Termination Tool ( CVE-2026-0828 exploit)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [TheUltimateFoxOS/horizon](https://github.com/TheUltimateFoxOS/horizon)
@@ -54,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Devsh-Graphics-Programming/Nabla](https://github.com/Devsh-Graphics-Programming/Nabla)
   > Vulkan, OptiX and CUDA Interoperation Modular Rendering Library and Framework for PC/Linux/Android
 
+### [hfiref0x](https://github.com/hfiref0x)
+- 🚀 👤 [hfiref0x](https://github.com/hfiref0x) Made [hfiref0x/WDSigEx](https://github.com/hfiref0x/WDSigEx) public
+  > Parse Windows Defender extracted signature databases, enumerate threat records, export threat chunks...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ykjit/yk](https://github.com/ykjit/yk)
   > yk packages
@@ -63,6 +69,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xdrew87/Echos](https://github.com/xdrew87/Echos)
   > Echos is a stealthy C2 traffic emulator built in Rust for Red Teamers. It simulates adversarial beac...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [saltstack/salt](https://github.com/saltstack/salt)
@@ -80,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 10:37:49 UTC*
+*Last updated at 2026-04-16 11:30:45 UTC*
 *Historical records are stored in the `archive` directory.*
