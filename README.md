@@ -71,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Package manager based on libdnf and libsolv. Replaces YUM.
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [rpm-software-management/dnf5](https://github.com/rpm-software-management/dnf5)
   > Next-generation RPM package management system
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pcaversaccio/safe-tx-hashes-util-qubes](https://github.com/pcaversaccio/safe-tx-hashes-util-qubes)
+  > A Qubes OS Salt configuration for building a minimal, reproducible template VM providing the `safe-t...
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [ykjit/yk](https://github.com/ykjit/yk)
@@ -78,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 08:44:36 UTC*
+*Last updated at 2026-04-16 09:40:26 UTC*
 *Historical records are stored in the `archive` directory.*
