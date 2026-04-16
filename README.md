@@ -176,7 +176,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [ente0/mcpstrike](https://github.com/ente0/mcpstrike)
   > MCP server + Ollama-driven autonomous penetration testing client. Connects LLMs to security tools (n...
 
+### [zodiacon](https://github.com/zodiacon)
+- 🌟 👤 [zodiacon](https://github.com/zodiacon) Starred [microsoft/WinDbg-Feedback](https://github.com/microsoft/WinDbg-Feedback)
+  > Public issue and feedback tracking for WinDbg Preview.
+
 
 ---
-*Last updated at 2026-04-16 15:41:04 UTC*
+*Last updated at 2026-04-16 16:41:32 UTC*
 *Historical records are stored in the `archive` directory.*
