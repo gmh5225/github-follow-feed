@@ -56,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
   > The Red Sun vulnerability repository
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec)
   > `std::execution`, the proposed C++ framework for asynchronous and parallel programming.
@@ -117,6 +121,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xataio/xata](https://github.com/xataio/xata)
   > Open source, cloud native, Postgres platform with copy-on-write branching and scale-to-zero
 
+### [mthcht](https://github.com/mthcht)
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [abusech/URLhaus](https://github.com/abusech/URLhaus)
+  > Open platform for sharing malware distribution sites
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [abusech/MalwareBazaar](https://github.com/abusech/MalwareBazaar)
+  > Open platform for sharing confirmed Malware samples
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xdrew87/Echos](https://github.com/xdrew87/Echos)
   > Echos is a stealthy C2 traffic emulator built in Rust for Red Teamers. It simulates adversarial beac...
@@ -168,5 +178,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-16 14:44:39 UTC*
+*Last updated at 2026-04-16 15:41:04 UTC*
 *Historical records are stored in the `archive` directory.*
