@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [classic130/RedSun](https://github.com/classic130/RedSun)
   > The Red Sun vulnerability repository
 
+### [h33p](https://github.com/h33p)
+- 🍴 👤 [h33p](https://github.com/h33p) Forked [jpopesculian/reqwest-eventsource](https://github.com/jpopesculian/reqwest-eventsource) to [h33p/reqwest-eventsource](https://github.com/h33p/reqwest-eventsource)
+  > Helper to build an Eventsource using reqwest
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
@@ -38,9 +42,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [caverav/flutterdec](https://github.com/caverav/flutterdec)
   > The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseu...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Octoberfest7/SilentHarvest_BOF](https://github.com/Octoberfest7/SilentHarvest_BOF)
+  > A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
   > A Binary Genetic Traits Lexer Framework
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing)
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [Nehboro/nehboro](https://github.com/Nehboro/nehboro)
@@ -64,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 07:41:32 UTC*
+*Last updated at 2026-04-17 08:44:45 UTC*
 *Historical records are stored in the `archive` directory.*
