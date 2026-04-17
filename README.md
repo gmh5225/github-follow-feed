@@ -9,6 +9,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The DCE/RPC / MS-RPC Codegen/Client for Go
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
   > A Binary Genetic Traits Lexer Framework
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
+  > Gopacket is a clean implementation of Impacket, a library intended for working with network protocol...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [garinasset/leak-check](https://github.com/garinasset/leak-check) to [CrackerCat/leak-check](https://github.com/CrackerCat/leak-check)
@@ -97,6 +99,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr)
   > An Optical Character Recognition (OCR) and Document Layout Analysis library written in Rust.
+- 🍴 👤 [nulltea](https://github.com/nulltea) Forked [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr) to [nulltea/oar-ocr](https://github.com/nulltea/oar-ocr)
+  > An Optical Character Recognition (OCR) and Document Layout Analysis library written in Rust.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [zboralski/agx](https://github.com/zboralski/agx)
@@ -144,5 +148,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 20:20:56 UTC*
+*Last updated at 2026-04-17 21:21:46 UTC*
 *Historical records are stored in the `archive` directory.*
