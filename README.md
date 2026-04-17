@@ -45,6 +45,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [GainSec/AutoProber](https://github.com/GainSec/AutoProber)
   > Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapp...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [worldcoin/human-in-the-loop](https://github.com/worldcoin/human-in-the-loop)
 
 ### [guttir14](https://github.com/guttir14)
 - 🍴 👤 [guttir14](https://github.com/guttir14) Forked [cloudflare/quiche](https://github.com/cloudflare/quiche) to [guttir14/quiche](https://github.com/guttir14/quiche)
@@ -143,5 +144,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 18:26:54 UTC*
+*Last updated at 2026-04-17 19:30:20 UTC*
 *Historical records are stored in the `archive` directory.*
