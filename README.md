@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [classic130/RedSun](https://github.com/classic130/RedSun)
   > The Red Sun vulnerability repository
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box)
+  > A toolkit for managing Play Integrity & System Environment
+
 ### [h33p](https://github.com/h33p)
 - 🍴 👤 [h33p](https://github.com/h33p) Forked [jpopesculian/reqwest-eventsource](https://github.com/jpopesculian/reqwest-eventsource) to [h33p/reqwest-eventsource](https://github.com/h33p/reqwest-eventsource)
   > Helper to build an Eventsource using reqwest
@@ -57,6 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [Nehboro/nehboro](https://github.com/Nehboro/nehboro)
   > Browser extension blocking scam and phishing pages
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)
+  > Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [daytonaio/daytona](https://github.com/daytonaio/daytona)
   > Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -75,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 08:44:45 UTC*
+*Last updated at 2026-04-17 09:39:52 UTC*
 *Historical records are stored in the `archive` directory.*
