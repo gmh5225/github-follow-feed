@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [CrackerCat/hermes-agent](https://github.com/CrackerCat/hermes-agent)
   > The agent that grows with you
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [vfsfitvnm/frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
+  > A Frida module to dump, trace or hijack any IL2CPP application at runtime, without needing the globa...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [joeyespo/grip](https://github.com/joeyespo/grip)
   > Preview GitHub README.md files locally before committing them.
@@ -17,6 +21,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mco-org/squad](https://github.com/mco-org/squad)
+  > Multi-AI agent terminal collaboration tool
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [nikaiw/VMkatz](https://github.com/nikaiw/VMkatz) to [killvxk/VMkatz](https://github.com/killvxk/VMkatz)
+  > Extract Windows credentials directly from VM memory snapshots and virtual disks
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
@@ -36,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 05:07:58 UTC*
+*Last updated at 2026-04-17 06:49:34 UTC*
 *Historical records are stored in the `archive` directory.*
