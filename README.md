@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [CrackerCat/hermes-agent](https://github.com/CrackerCat/hermes-agent)
   > The agent that grows with you
 
+### [Deputation](https://github.com/Deputation)
+- 🚀 👤 [Deputation](https://github.com/Deputation) Made [Deputation/deep-learning](https://github.com/Deputation/deep-learning) public
+  > A small deep learning framework written in C++ using no libraries outside of the standard one for le...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [vfsfitvnm/frida-il2cpp-bridge](https://github.com/vfsfitvnm/frida-il2cpp-bridge)
   > A Frida module to dump, trace or hijack any IL2CPP application at runtime, without needing the globa...
@@ -75,6 +79,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [Nehboro/nehboro](https://github.com/Nehboro/nehboro)
   > Browser extension blocking scam and phishing pages
 
+### [nulltea](https://github.com/nulltea)
+- 🍴 👤 [nulltea](https://github.com/nulltea) Forked [open-webui/open-webui](https://github.com/open-webui/open-webui) to [nulltea/open-webui](https://github.com/nulltea/open-webui)
+  > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)
   > Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B...
@@ -99,5 +107,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 11:25:53 UTC*
+*Last updated at 2026-04-17 12:32:32 UTC*
 *Historical records are stored in the `archive` directory.*
