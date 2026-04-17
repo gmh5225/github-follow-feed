@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [oiweiwei/go-msrpc](https://github.com/oiweiwei/go-msrpc)
   > The DCE/RPC / MS-RPC Codegen/Client for Go
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
+  > A Binary Genetic Traits Lexer Framework
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [garinasset/leak-check](https://github.com/garinasset/leak-check) to [CrackerCat/leak-check](https://github.com/CrackerCat/leak-check)
@@ -109,6 +111,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
   > Production-grade engineering skills for AI coding agents.
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [thevinter/styli.sh](https://github.com/thevinter/styli.sh)
+  > A CLI tool for easy wallpaper management and image fetching
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [saurabhan/Wallhaven-dl](https://github.com/saurabhan/Wallhaven-dl)
+  > A wallhaven scraper which downloads all the wallpapers form alpha.wallhaven.cc 
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [daytonaio/daytona](https://github.com/daytonaio/daytona)
   > Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
@@ -127,5 +135,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 15:30:09 UTC*
+*Last updated at 2026-04-17 16:27:10 UTC*
 *Historical records are stored in the `archive` directory.*
