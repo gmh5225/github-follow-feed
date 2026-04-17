@@ -97,6 +97,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr)
   > An Optical Character Recognition (OCR) and Document Layout Analysis library written in Rust.
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [zboralski/agx](https://github.com/zboralski/agx)
+  > agx: disassembler, assembler, and emulator for Apple M3-M5 / A18-A19 GPUs
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pcaversaccio/test-spoof-commit-date](https://github.com/pcaversaccio/test-spoof-commit-date)
   > Git commit date spoofing.
@@ -139,5 +143,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 17:23:45 UTC*
+*Last updated at 2026-04-17 18:26:54 UTC*
 *Historical records are stored in the `archive` directory.*
