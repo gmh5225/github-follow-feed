@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box)
   > A toolkit for managing Play Integrity & System Environment
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [GainSec/AutoProber](https://github.com/GainSec/AutoProber)
+  > Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapp...
+
 ### [h33p](https://github.com/h33p)
 - 🍴 👤 [h33p](https://github.com/h33p) Forked [jpopesculian/reqwest-eventsource](https://github.com/jpopesculian/reqwest-eventsource) to [h33p/reqwest-eventsource](https://github.com/h33p/reqwest-eventsource)
   > Helper to build an Eventsource using reqwest
@@ -86,6 +90,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pcaversaccio/test-spoof-commit-date](https://github.com/pcaversaccio/test-spoof-commit-date)
   > Git commit date spoofing.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [morpho-org/metamorpho](https://github.com/morpho-org/metamorpho)
+  > MetaMorpho
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [GRVYDEV/marky](https://github.com/GRVYDEV/marky)
+  > A lightweight easy to use markdown viewer
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [tailscale/tsidp](https://github.com/tailscale/tsidp)
+  > A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
 
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)
@@ -111,5 +123,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 13:38:49 UTC*
+*Last updated at 2026-04-17 14:34:28 UTC*
 *Historical records are stored in the `archive` directory.*
