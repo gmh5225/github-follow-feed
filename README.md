@@ -45,6 +45,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Extract Windows credentials directly from VM memory snapshots and virtual disks
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [caverav/flutterdec](https://github.com/caverav/flutterdec)
   > The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseu...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ErebusEnigma/context-memory](https://github.com/ErebusEnigma/context-memory)
+  > Persistent, searchable context storage across Claude Code sessions using SQLite + FTS5
+
+### [lazyparser](https://github.com/lazyparser)
+- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [google-ai-edge/LiteRT](https://github.com/google-ai-edge/LiteRT) to [rv2036/rvspoc-S2601-litert](https://github.com/rv2036/rvspoc-S2601-litert)
+  > LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenA...
+- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [rv2036/rvspoc-S2602-llama](https://github.com/rv2036/rvspoc-S2602-llama)
+  > LLM inference in C/C++
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Octoberfest7/SilentHarvest_BOF](https://github.com/Octoberfest7/SilentHarvest_BOF)
@@ -64,6 +72,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)
   > Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+  > Production-grade engineering skills for AI coding agents.
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [daytonaio/daytona](https://github.com/daytonaio/daytona)
@@ -83,5 +93,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 09:39:52 UTC*
+*Last updated at 2026-04-17 10:33:25 UTC*
 *Historical records are stored in the `archive` directory.*
