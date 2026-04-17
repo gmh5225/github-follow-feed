@@ -31,6 +31,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [joeyespo/grip](https://github.com/joeyespo/grip)
   > Preview GitHub README.md files locally before committing them.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [wh0amitz/TailVNC](https://github.com/wh0amitz/TailVNC)
+  > Tailscale-based Windows VNC persistence tool with Session 0 isolation bypass, embedding a full WireG...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun) to [classic130/RedSun](https://github.com/classic130/RedSun)
@@ -92,6 +94,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [nulltea](https://github.com/nulltea)
 - 🍴 👤 [nulltea](https://github.com/nulltea) Forked [open-webui/open-webui](https://github.com/open-webui/open-webui) to [nulltea/open-webui](https://github.com/nulltea/open-webui)
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr)
+  > An Optical Character Recognition (OCR) and Document Layout Analysis library written in Rust.
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pcaversaccio/test-spoof-commit-date](https://github.com/pcaversaccio/test-spoof-commit-date)
@@ -135,5 +139,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 16:27:10 UTC*
+*Last updated at 2026-04-17 17:23:45 UTC*
 *Historical records are stored in the `archive` directory.*
