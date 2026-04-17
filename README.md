@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [GainSec/AutoProber](https://github.com/GainSec/AutoProber)
   > Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapp...
 
+### [guttir14](https://github.com/guttir14)
+- 🍴 👤 [guttir14](https://github.com/guttir14) Forked [cloudflare/quiche](https://github.com/cloudflare/quiche) to [guttir14/quiche](https://github.com/guttir14/quiche)
+  > 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+
 ### [h33p](https://github.com/h33p)
 - 🍴 👤 [h33p](https://github.com/h33p) Forked [jpopesculian/reqwest-eventsource](https://github.com/jpopesculian/reqwest-eventsource) to [h33p/reqwest-eventsource](https://github.com/h33p/reqwest-eventsource)
   > Helper to build an Eventsource using reqwest
@@ -123,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 14:34:28 UTC*
+*Last updated at 2026-04-17 15:30:09 UTC*
 *Historical records are stored in the `archive` directory.*
