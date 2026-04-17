@@ -118,6 +118,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Tool to build & run portable, lightweight, self-contained virtual machines.
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)
   > Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B...
@@ -148,5 +152,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 22:19:11 UTC*
+*Last updated at 2026-04-17 23:20:29 UTC*
 *Historical records are stored in the `archive` directory.*
