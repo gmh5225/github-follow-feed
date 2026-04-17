@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [oiweiwei/go-msrpc](https://github.com/oiweiwei/go-msrpc)
+  > The DCE/RPC / MS-RPC Codegen/Client for Go
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [garinasset/leak-check](https://github.com/garinasset/leak-check) to [CrackerCat/leak-check](https://github.com/CrackerCat/leak-check)
   > 个人信息 “泄漏” 检测接口
@@ -64,6 +68,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ucb-bar/berkeley-softfloat-3](https://github.com/ucb-bar/berkeley-softfloat-3)
+  > SoftFloat release 3
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [Nehboro/nehboro](https://github.com/Nehboro/nehboro)
@@ -93,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-17 10:33:25 UTC*
+*Last updated at 2026-04-17 11:25:53 UTC*
 *Historical records are stored in the `archive` directory.*
