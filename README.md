@@ -76,6 +76,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [DylanDavis1/DSCourier](https://github.com/DylanDavis1/DSCourier)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
+  > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
@@ -140,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 22:14:34 UTC*
+*Last updated at 2026-04-18 23:16:58 UTC*
 *Historical records are stored in the `archive` directory.*
