@@ -110,6 +110,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A CI/CD Red Team Framework for demonstrating Build Pipeline security risks.
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB)
   > OpenKB: Open LLM Knowledge Base
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing)
 
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -129,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 17:17:58 UTC*
+*Last updated at 2026-04-18 18:21:55 UTC*
 *Historical records are stored in the `archive` directory.*
