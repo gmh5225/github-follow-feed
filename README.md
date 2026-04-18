@@ -48,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui)
+  > Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Troja...
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [dying-will-bullet/shlex](https://github.com/dying-will-bullet/shlex)
   > Split a string into shell words, like Python's shlex. Written in Zig
@@ -76,6 +80,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
   > A Mac OS X bootloader for the Nintendo Wii.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
+  > General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [notsnakesilent/VMPStatic](https://github.com/notsnakesilent/VMPStatic)
@@ -132,5 +140,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 21:16:22 UTC*
+*Last updated at 2026-04-18 22:14:34 UTC*
 *Historical records are stored in the `archive` directory.*
