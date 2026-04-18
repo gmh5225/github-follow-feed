@@ -8,6 +8,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
 
+### [Cr0a3](https://github.com/Cr0a3)
+- 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [0xMarcio/cve](https://github.com/0xMarcio/cve)
+  > Latest CVEs with their Proof of Concept exploits.
+- 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [Chocapikk/CVE-2026-21858](https://github.com/Chocapikk/CVE-2026-21858)
+  > n8n Ni8mare - Unauthenticated Arbitrary File Read to RCE Chain (CVSS 10.0)
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
   > ArduPlane, ArduCopter, ArduRover, ArduSub source
@@ -23,6 +29,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A collection of awesome projects using PicGo.
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP)
   > 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare...
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [ionescu007/winipt](https://github.com/ionescu007/winipt)
+  > The Windows Library for Intel Process Trace (WinIPT) is a project that leverages the new Intel Proce...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [ionescu007/SimpleVisor](https://github.com/ionescu007/SimpleVisor)
+  > SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least am...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [ionescu007/lxss](https://github.com/ionescu007/lxss)
+  > Fun with the Windows Subsystem for Linux (WSL/LXSS)
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide)
@@ -63,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 11:18:27 UTC*
+*Last updated at 2026-04-18 12:22:25 UTC*
 *Historical records are stored in the `archive` directory.*
