@@ -46,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [char](https://github.com/char) Starred [dying-will-bullet/shlex](https://github.com/dying-will-bullet/shlex)
   > Split a string into shell words, like Python's shlex. Written in Zig
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
+  > An analysis and static deobfuscation of codedefender.io protected samples. 
+
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [Nova-Hunting/nova-rules-helper](https://github.com/Nova-Hunting/nova-rules-helper)
   > Agent Skill for Nova Rules
@@ -61,9 +65,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
   > A Mac OS X bootloader for the Nintendo Wii.
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [notsnakesilent/VMPStatic](https://github.com/notsnakesilent/VMPStatic)
+  > A static VMProtect unpacker for PE files, supports VMProtect 1.x–3.x and rebuilding unpacked PE imag...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Octoberfest7/SilentHarvest_BOF](https://github.com/Octoberfest7/SilentHarvest_BOF)
+  > A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ck0i/Cloakwork](https://github.com/ck0i/Cloakwork)
+  > An advanced singular header-only C++20 obfuscation library with encryption and polymorphism.
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [moezakura/mux-pod](https://github.com/moezakura/mux-pod)
   > A mobile-first tmux client over SSH. Control your terminal sessions from your phone.
+
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [esp-rs/espflash](https://github.com/esp-rs/espflash)
+  > Serial flasher utility for Espressif SoCs and modules based on esptool.py
 
 ### [secretsquirrel](https://github.com/secretsquirrel)
 - 🌟 👤 [secretsquirrel](https://github.com/secretsquirrel) Starred [frank2/limbos-gate](https://github.com/frank2/limbos-gate)
@@ -75,7 +91,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
   > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
 
+### [tklengyel](https://github.com/tklengyel)
+- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [datalab-to/chandra](https://github.com/datalab-to/chandra)
+  > OCR model that handles complex tables, forms, handwriting with full layout.
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery)
+  > A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locall...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [datalab-to/surya](https://github.com/datalab-to/surya)
+  > OCR, layout analysis, reading order, table recognition in 90+ languages
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
+  > Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
+  > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic...
+
 
 ---
-*Last updated at 2026-04-18 12:22:25 UTC*
+*Last updated at 2026-04-18 13:32:48 UTC*
 *Historical records are stored in the `archive` directory.*
