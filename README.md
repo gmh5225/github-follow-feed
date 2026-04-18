@@ -49,6 +49,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [dying-will-bullet/shlex](https://github.com/dying-will-bullet/shlex)
   > Split a string into shell words, like Python's shlex. Written in Zig
+- 🍴 👤 [char](https://github.com/char) Forked [dying-will-bullet/shlex](https://github.com/dying-will-bullet/shlex) to [char/shlex](https://github.com/char/shlex)
+  > Split a string into shell words, like Python's shlex. Written in Zig
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -119,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 15:19:55 UTC*
+*Last updated at 2026-04-18 16:18:20 UTC*
 *Historical records are stored in the `archive` directory.*
