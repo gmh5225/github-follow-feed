@@ -84,6 +84,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Cobalt Strike BOF implementation of the SilentHarvest registry dumping technique
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ck0i/Cloakwork](https://github.com/ck0i/Cloakwork)
   > An advanced singular header-only C++20 obfuscation library with encryption and polymorphism.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0Chencc/clawgod](https://github.com/0Chencc/clawgod)
+  > This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the offic...
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [GNOME/gtk](https://github.com/GNOME/gtk) to [frida/gtk](https://github.com/frida/gtk)
@@ -130,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 20:16:15 UTC*
+*Last updated at 2026-04-18 21:16:22 UTC*
 *Historical records are stored in the `archive` directory.*
