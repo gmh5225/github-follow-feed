@@ -54,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [Nova-Hunting/nova-rules-helper](https://github.com/Nova-Hunting/nova-rules-helper)
   > Agent Skill for Nova Rules
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Tool to build & run portable, lightweight, self-contained virtual machines.
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [wuwangzhang1216/abliterix](https://github.com/wuwangzhang1216/abliterix)
   > Automated alignment adjustment for LLMs — direct steering, LoRA, and MoE expert-granular abliteratio...
@@ -109,5 +113,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 13:32:48 UTC*
+*Last updated at 2026-04-18 14:20:58 UTC*
 *Historical records are stored in the `archive` directory.*
