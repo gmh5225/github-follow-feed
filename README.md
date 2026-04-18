@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
   > ArduPlane, ArduCopter, ArduRover, ArduSub source
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [awesomekling/perfect](https://github.com/awesomekling/perfect)
+  > Web analysis tool for Linux perf profiles
 
 ### [Iizerd](https://github.com/Iizerd)
 - 🌟 👤 [Iizerd](https://github.com/Iizerd) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -83,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ck0i/Cloakwork](https://github.com/ck0i/Cloakwork)
   > An advanced singular header-only C++20 obfuscation library with encryption and polymorphism.
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [GNOME/gtk](https://github.com/GNOME/gtk) to [frida/gtk](https://github.com/frida/gtk)
+  > Read-only mirror of https://gitlab.gnome.org/GNOME/gtk
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [moezakura/mux-pod](https://github.com/moezakura/mux-pod)
   > A mobile-first tmux client over SSH. Control your terminal sessions from your phone.
@@ -102,6 +108,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [boostsecurityio/smokedmeat](https://github.com/boostsecurityio/smokedmeat)
   > A CI/CD Red Team Framework for demonstrating Build Pipeline security risks.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [VectifyAI/OpenKB](https://github.com/VectifyAI/OpenKB)
+  > OpenKB: Open LLM Knowledge Base
 
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -121,5 +129,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 16:18:20 UTC*
+*Last updated at 2026-04-18 17:17:58 UTC*
 *Historical records are stored in the `archive` directory.*
