@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot)
   > ArduPlane, ArduCopter, ArduRover, ArduSub source
 
+### [Iizerd](https://github.com/Iizerd)
+- 🌟 👤 [Iizerd](https://github.com/Iizerd) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
+  > An analysis and static deobfuscation of codedefender.io protected samples. 
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [raskolnikov90/Beatrice.py](https://github.com/raskolnikov90/Beatrice.py)
   > Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion
@@ -94,6 +98,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An MCP extension for Ghidra
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
   > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [boostsecurityio/smokedmeat](https://github.com/boostsecurityio/smokedmeat)
+  > A CI/CD Red Team Framework for demonstrating Build Pipeline security risks.
 
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -113,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 14:20:58 UTC*
+*Last updated at 2026-04-18 15:19:55 UTC*
 *Historical records are stored in the `archive` directory.*
