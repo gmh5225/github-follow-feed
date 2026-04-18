@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
   > A Mac OS X bootloader for the Nintendo Wii.
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [moezakura/mux-pod](https://github.com/moezakura/mux-pod)
+  > A mobile-first tmux client over SSH. Control your terminal sessions from your phone.
+
 ### [secretsquirrel](https://github.com/secretsquirrel)
 - 🌟 👤 [secretsquirrel](https://github.com/secretsquirrel) Starred [frank2/limbos-gate](https://github.com/frank2/limbos-gate)
   > Hell's Gate, but make it 32-bit!
@@ -39,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-18 09:23:27 UTC*
+*Last updated at 2026-04-18 10:20:53 UTC*
 *Historical records are stored in the `archive` directory.*
