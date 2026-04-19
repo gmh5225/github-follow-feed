@@ -37,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
   > A virtual monitor for screen sharing
+- 🌟 👤 [char](https://github.com/char) Starred [aanderse/trix](https://github.com/aanderse/trix)
+  > trick yourself into flakes
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ghostvectoracademy/DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter) to [classic130/DLLHijackHunter](https://github.com/classic130/DLLHijackHunter)
@@ -71,6 +73,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [icedevml/tinypki](https://github.com/icedevml/tinypki)
   > Live index of all X.509 Certificates in Step CA queryable via GUI and API, easy human onboarding wit...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sctg-development/sctgdesk-server](https://github.com/sctg-development/sctgdesk-server)
+  > Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for s...
+
+### [n01e0](https://github.com/n01e0)
+- 🌟 👤 [n01e0](https://github.com/n01e0) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
@@ -97,5 +105,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-19 17:17:37 UTC*
+*Last updated at 2026-04-19 18:22:22 UTC*
 *Historical records are stored in the `archive` directory.*
