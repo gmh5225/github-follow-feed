@@ -7,6 +7,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [KuwaitiSt/Astral_Projection](https://github.com/KuwaitiSt/Astral_Projection)
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
+  > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [CrackerCat/ptehooker](https://github.com/CrackerCat/ptehooker)
 
@@ -23,6 +27,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [SunWeb3Sec](https://github.com/SunWeb3Sec)
 - 🍴 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Forked [apache/logging-log4j2](https://github.com/apache/logging-log4j2) to [SunWeb3Sec/logging-log4j2](https://github.com/SunWeb3Sec/logging-log4j2)
   > Apache Log4j is a versatile, feature-rich, efficient logging API and backend for Java.
+
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [Stengo/DeskPad](https://github.com/Stengo/DeskPad)
+  > A virtual monitor for screen sharing
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [ghostvectoracademy/DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter) to [classic130/DLLHijackHunter](https://github.com/classic130/DLLHijackHunter)
+  > Automated DLL Hijacking Discovery, Validation, and Confirmation. Turning local misconfigurations int...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [mlhher/late](https://github.com/mlhher/late)
@@ -46,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-19 10:20:23 UTC*
+*Last updated at 2026-04-19 11:18:52 UTC*
 *Historical records are stored in the `archive` directory.*
