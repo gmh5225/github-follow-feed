@@ -79,6 +79,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Live index of all X.509 Certificates in Step CA queryable via GUI and API, easy human onboarding wit...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sctg-development/sctgdesk-server](https://github.com/sctg-development/sctgdesk-server)
   > Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lllyasviel/VCC](https://github.com/lllyasviel/VCC)
+  > Compile agent conversations!
 
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -116,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-19 21:16:52 UTC*
+*Last updated at 2026-04-19 22:15:33 UTC*
 *Historical records are stored in the `archive` directory.*
