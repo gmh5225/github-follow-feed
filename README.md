@@ -53,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🎴 Yu-Gi-Oh! Card Gallery
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [bryankeller/wiiMac](https://github.com/bryankeller/wiiMac)
   > A Mac OS X bootloader for the Nintendo Wii.
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [vroonhof/opensteuerauszug](https://github.com/vroonhof/opensteuerauszug)
+  > Tool to generate swiss e-steuerauszug from banking exports
 
 ### [khang06](https://github.com/khang06)
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [GensokyoClub/th06](https://github.com/GensokyoClub/th06) to [khang06/th06](https://github.com/khang06/th06)
@@ -61,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
   > The ultimate Yugioh database.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [icedevml/tinypki](https://github.com/icedevml/tinypki)
+  > Live index of all X.509 Certificates in Step CA queryable via GUI and API, easy human onboarding wit...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
@@ -79,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-19 15:20:28 UTC*
+*Last updated at 2026-04-19 16:18:28 UTC*
 *Historical records are stored in the `archive` directory.*
