@@ -66,7 +66,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
   > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
+  > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [KuwaitiSt/Astral_Projection](https://github.com/KuwaitiSt/Astral_Projection)
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [jtesta/rainbowcrackalack](https://github.com/jtesta/rainbowcrackalack)
+  > Rainbow table generation & lookup tools.  Make Rainbow Tables Great Again!
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [senderend/ghostsurf](https://github.com/senderend/ghostsurf)
+  > NTLM HTTP relay tool with SOCKS proxy for browser session hijacking
+
 
 ---
-*Last updated at 2026-04-19 14:20:27 UTC*
+*Last updated at 2026-04-19 15:20:28 UTC*
 *Historical records are stored in the `archive` directory.*
