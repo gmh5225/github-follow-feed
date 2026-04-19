@@ -7,6 +7,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [KuwaitiSt/Astral_Projection](https://github.com/KuwaitiSt/Astral_Projection)
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [CrackerCat/ptehooker](https://github.com/CrackerCat/ptehooker)
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [intel/libipt](https://github.com/intel/libipt)
   > libipt - an Intel(R) Processor Trace decoder library
@@ -25,7 +28,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [GensokyoClub/th06](https://github.com/GensokyoClub/th06) to [khang06/th06](https://github.com/khang06/th06)
   > Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
+  > The ultimate Yugioh database.
+
 
 ---
-*Last updated at 2026-04-19 08:29:25 UTC*
+*Last updated at 2026-04-19 09:23:15 UTC*
 *Historical records are stored in the `archive` directory.*
