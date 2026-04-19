@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [CrackerCat/ptehooker](https://github.com/CrackerCat/ptehooker)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kasnria001/qualcomm_noavb_exploit_common](https://github.com/kasnria001/qualcomm_noavb_exploit_common) to [CrackerCat/qualcomm_noavb_exploit_common](https://github.com/CrackerCat/qualcomm_noavb_exploit_common)
+  > Unlocking Bootloader via noavb exploit (still in progress)
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [tw93/Waza](https://github.com/tw93/Waza)
@@ -56,7 +58,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
   > The ultimate Yugioh database.
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
+  > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
+
 
 ---
-*Last updated at 2026-04-19 11:18:52 UTC*
+*Last updated at 2026-04-19 12:22:25 UTC*
 *Historical records are stored in the `archive` directory.*
