@@ -60,6 +60,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [GensokyoClub/th06](https://github.com/GensokyoClub/th06) to [khang06/th06](https://github.com/khang06/th06)
   > Decompilation of 東方紅魔郷　～ the Embodiment of Scarlet Devil (1.02h)
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ghostvectoracademy/DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter)
+  > Automated DLL Hijacking Discovery, Validation, and Confirmation. Turning local misconfigurations int...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
   > The ultimate Yugioh database.
@@ -72,6 +76,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
   > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [voipmonitor/rtx6kpro](https://github.com/voipmonitor/rtx6kpro)
+  > RTX 6000 Pro Wiki — Running Large LLMs (Qwen3.5-397B, Kimi-K2.5, GLM-5) on PCIe GPUs without NVLink
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
   > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
@@ -83,7 +91,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [senderend/ghostsurf](https://github.com/senderend/ghostsurf)
   > NTLM HTTP relay tool with SOCKS proxy for browser session hijacking
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason)
+  > Main game repository for Beyond All Reason.
+
 
 ---
-*Last updated at 2026-04-19 16:18:28 UTC*
+*Last updated at 2026-04-19 17:17:37 UTC*
 *Historical records are stored in the `archive` directory.*
