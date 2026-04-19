@@ -14,6 +14,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [intel/libipt](https://github.com/intel/libipt)
   > libipt - an Intel(R) Processor Trace decoder library
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [icedevml/tinypki](https://github.com/icedevml/tinypki)
+  > Live index of all X.509 Certificates in Step CA queryable via GUI and API, easy human onboarding wit...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [CrackerCat/ptehooker](https://github.com/CrackerCat/ptehooker)
@@ -51,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [mlhher/late](https://github.com/mlhher/late)
   > Orchestrate an AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral ...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/katana](https://github.com/projectdiscovery/katana)
+  > A next-generation crawling and spidering framework.
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [iconmaster5326/YGOJSON](https://github.com/iconmaster5326/YGOJSON)
@@ -81,6 +85,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rendez-vous server, API server and web console for Rustdesk 100% in Rust ( integrated version, for s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lllyasviel/VCC](https://github.com/lllyasviel/VCC)
   > Compile agent conversations!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MineDojo/Voyager](https://github.com/MineDojo/Voyager)
+  > An Open-Ended Embodied Agent with Large Language Models
 
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -118,5 +124,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-19 22:15:33 UTC*
+*Last updated at 2026-04-19 23:17:55 UTC*
 *Historical records are stored in the `archive` directory.*
