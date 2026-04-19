@@ -10,6 +10,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [intel/libipt](https://github.com/intel/libipt)
   > libipt - an Intel(R) Processor Trace decoder library
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [repnz/etw-providers-docs](https://github.com/repnz/etw-providers-docs)
+  > Document ETW providers
 
 ### [SunWeb3Sec](https://github.com/SunWeb3Sec)
 - 🍴 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Forked [apache/logging-log4j2](https://github.com/apache/logging-log4j2) to [SunWeb3Sec/logging-log4j2](https://github.com/SunWeb3Sec/logging-log4j2)
@@ -25,5 +27,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-19 07:37:34 UTC*
+*Last updated at 2026-04-19 08:29:25 UTC*
 *Historical records are stored in the `archive` directory.*
