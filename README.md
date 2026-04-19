@@ -11,6 +11,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
   > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [intel/libipt](https://github.com/intel/libipt)
+  > libipt - an Intel(R) Processor Trace decoder library
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaokanghub/ptehooker](https://github.com/xiaokanghub/ptehooker) to [CrackerCat/ptehooker](https://github.com/CrackerCat/ptehooker)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kasnria001/qualcomm_noavb_exploit_common](https://github.com/kasnria001/qualcomm_noavb_exploit_common) to [CrackerCat/qualcomm_noavb_exploit_common](https://github.com/CrackerCat/qualcomm_noavb_exploit_common)
@@ -64,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-19 12:22:25 UTC*
+*Last updated at 2026-04-19 13:32:05 UTC*
 *Historical records are stored in the `archive` directory.*
