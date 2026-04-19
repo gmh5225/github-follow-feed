@@ -44,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ghostvectoracademy/DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter) to [classic130/DLLHijackHunter](https://github.com/classic130/DLLHijackHunter)
   > Automated DLL Hijacking Discovery, Validation, and Confirmation. Turning local misconfigurations int...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [google/highway](https://github.com/google/highway)
+  > Performance-portable, length-agnostic SIMD with runtime dispatch
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [mlhher/late](https://github.com/mlhher/late)
   > Orchestrate an AI dev team on 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral ...
@@ -84,6 +88,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
   > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [0xeb/fastmcpp](https://github.com/0xeb/fastmcpp)
+  > C++ port of the fastmcp Python library
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [voipmonitor/rtx6kpro](https://github.com/voipmonitor/rtx6kpro)
   > RTX 6000 Pro Wiki — Running Large LLMs (Qwen3.5-397B, Kimi-K2.5, GLM-5) on PCIe GPUs without NVLink
@@ -103,7 +111,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [beyond-all-reason/Beyond-All-Reason](https://github.com/beyond-all-reason/Beyond-All-Reason)
   > Main game repository for Beyond All Reason.
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [anthnykr/codex-voice](https://github.com/anthnykr/codex-voice)
+
 
 ---
-*Last updated at 2026-04-19 20:16:55 UTC*
+*Last updated at 2026-04-19 21:16:52 UTC*
 *Historical records are stored in the `archive` directory.*
