@@ -80,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Software Reliability & Correctness Skills
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [pashov/skills](https://github.com/pashov/skills)
   > Pashov Audit Group Skills
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
+  > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -97,11 +99,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [n00py/Outpacket](https://github.com/n00py/Outpacket)
   > This cheatsheet maps common impacket workflows to their modern alternatives 
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
+  > Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
 
 ---
-*Last updated at 2026-04-20 14:41:52 UTC*
+*Last updated at 2026-04-20 15:37:49 UTC*
 *Historical records are stored in the `archive` directory.*
