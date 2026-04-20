@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > Open-source AI hackers to find and fix your app’s vulnerabilities.
+
 ### [0xisk](https://github.com/0xisk)
 - 🍴 👤 [0xisk](https://github.com/0xisk) Forked [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) to [0xisk/MacTahoe-gtk-theme](https://github.com/0xisk/MacTahoe-gtk-theme)
   > MacOS Tahoe theme for gtk desktops
@@ -135,5 +139,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 19:30:58 UTC*
+*Last updated at 2026-04-20 20:21:07 UTC*
 *Historical records are stored in the `archive` directory.*
