@@ -71,6 +71,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Low-latency machine code generation
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [teabound/rophi](https://github.com/teabound/rophi)
   > Injecting code by recompiling shellcode into a ROP chain.
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [wyattferguson/chip8-emulator](https://github.com/wyattferguson/chip8-emulator)
+  > Chip-8 Emulator in Python
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
@@ -147,5 +153,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 21:23:19 UTC*
+*Last updated at 2026-04-20 22:22:52 UTC*
 *Historical records are stored in the `archive` directory.*
