@@ -69,6 +69,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [asmjit/asmjit](https://github.com/asmjit/asmjit) to [es3n1n/asmjit](https://github.com/es3n1n/asmjit)
   > Low-latency machine code generation
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [teabound/rophi](https://github.com/teabound/rophi)
+  > Injecting code by recompiling shellcode into a ROP chain.
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
@@ -119,6 +121,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
+  > An analysis and static deobfuscation of codedefender.io protected samples. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [teabound/rophi](https://github.com/teabound/rophi)
+  > Injecting code by recompiling shellcode into a ROP chain.
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws)
   > This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
@@ -139,5 +147,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 20:21:07 UTC*
+*Last updated at 2026-04-20 21:23:19 UTC*
 *Historical records are stored in the `archive` directory.*
