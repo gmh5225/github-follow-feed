@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [classic130/OpenMythos](https://github.com/classic130/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [asmjit/asmjit](https://github.com/asmjit/asmjit) to [es3n1n/asmjit](https://github.com/es3n1n/asmjit)
+  > Low-latency machine code generation
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
   > Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
@@ -83,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 11:36:25 UTC*
+*Last updated at 2026-04-20 12:38:03 UTC*
 *Historical records are stored in the `archive` directory.*
