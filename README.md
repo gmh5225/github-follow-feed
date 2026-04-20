@@ -4,9 +4,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xisk](https://github.com/0xisk)
+- 🍴 👤 [0xisk](https://github.com/0xisk) Forked [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) to [0xisk/MacTahoe-gtk-theme](https://github.com/0xisk/MacTahoe-gtk-theme)
+  > MacOS Tahoe theme for gtk desktops
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)
+  > Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-ove...
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol)
@@ -36,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [classic130/OpenMythos](https://github.com/classic130/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
+### [cr4zyengineer](https://github.com/cr4zyengineer)
+- 🌟 👤 [cr4zyengineer](https://github.com/cr4zyengineer) Starred [ProjectNyxian/LLVM-On-iOS](https://github.com/ProjectNyxian/LLVM-On-iOS)
+  > LLVM, but easy to build and use in iOS projects
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [asmjit/asmjit](https://github.com/asmjit/asmjit) to [es3n1n/asmjit](https://github.com/es3n1n/asmjit)
   > Low-latency machine code generation
@@ -46,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
+  > An analysis and static deobfuscation of codedefender.io protected samples. 
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
 
 ### [killvxk](https://github.com/killvxk)
@@ -87,5 +103,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 12:38:03 UTC*
+*Last updated at 2026-04-20 13:41:17 UTC*
 *Historical records are stored in the `archive` directory.*
