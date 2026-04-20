@@ -8,6 +8,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [0xisk](https://github.com/0xisk) Forked [vinceliuice/MacTahoe-gtk-theme](https://github.com/vinceliuice/MacTahoe-gtk-theme) to [0xisk/MacTahoe-gtk-theme](https://github.com/0xisk/MacTahoe-gtk-theme)
   > MacOS Tahoe theme for gtk desktops
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Chubek/Scheesim](https://github.com/Chubek/Scheesim)
+  > A circuit simulator written in Rust, able to solve linear, non-linear, dynamic, AC/DC/Transient Anal...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Harnesser/tiny-spice-rs](https://github.com/Harnesser/tiny-spice-rs)
+  > Tiny SPICE circuit simulator written in Rust.
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
@@ -115,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 16:35:01 UTC*
+*Last updated at 2026-04-20 17:29:24 UTC*
 *Historical records are stored in the `archive` directory.*
