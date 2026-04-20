@@ -74,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [z0r0z/multisig](https://github.com/z0r0z/multisig)
+  > a minimal multisig with EIP-712 signing
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
@@ -131,5 +135,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 18:30:41 UTC*
+*Last updated at 2026-04-20 19:30:58 UTC*
 *Historical records are stored in the `archive` directory.*
