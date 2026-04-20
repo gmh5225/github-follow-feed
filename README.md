@@ -21,6 +21,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [0vercl0k/kdmp-parser-rs](https://github.com/0vercl0k/kdmp-parser-rs)
   > A KISS Rust crate to parse Windows kernel crash-dumps created by Windows & its debugger.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [sensepost/pipetap](https://github.com/sensepost/pipetap)
+  > A Windows Named Pipe Multi-tool / Proxy
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [zer0condition/BusterCall](https://github.com/zer0condition/BusterCall)
+  > "Bypassing" HVCI via donor PFN swaps to modify read-only code pages. Call chained kernel functions (...
 
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -90,6 +96,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [z0r0z/multisig](https://github.com/z0r0z/multisig)
   > a minimal multisig with EIP-712 signing
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
@@ -137,6 +147,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws)
   > This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
+  > Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [n00py/Outpacket](https://github.com/n00py/Outpacket)
   > This cheatsheet maps common impacket workflows to their modern alternatives 
@@ -147,11 +161,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [docmancer/docmancer](https://github.com/docmancer/docmancer)
   > Give your AI coding agents documentation superpowers. Fetch, embed, and query any public docs locall...
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [blacktop/ipsw](https://github.com/blacktop/ipsw)
+  > iOS/macOS Research Swiss Army Knife
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
 
 ---
-*Last updated at 2026-04-20 22:22:52 UTC*
+*Last updated at 2026-04-20 23:22:03 UTC*
 *Historical records are stored in the `archive` directory.*
