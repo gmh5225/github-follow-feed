@@ -73,11 +73,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws)
   > This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [n00py/Outpacket](https://github.com/n00py/Outpacket)
+  > This cheatsheet maps common impacket workflows to their modern alternatives 
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
   > Rust rewrite of BOCHS emulator
 
 
 ---
-*Last updated at 2026-04-20 10:42:03 UTC*
+*Last updated at 2026-04-20 11:36:25 UTC*
 *Historical records are stored in the `archive` directory.*
