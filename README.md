@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A circuit simulator written in Rust, able to solve linear, non-linear, dynamic, AC/DC/Transient Anal...
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Harnesser/tiny-spice-rs](https://github.com/Harnesser/tiny-spice-rs)
   > Tiny SPICE circuit simulator written in Rust.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [0vercl0k/kdmp-parser-rs](https://github.com/0vercl0k/kdmp-parser-rs)
+  > A KISS Rust crate to parse Windows kernel crash-dumps created by Windows & its debugger.
 
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -43,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🦊 Anti-detect browser
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/camoufox-reverse](https://github.com/WhiteNightShadow/camoufox-reverse)
   > 🦊 反检测浏览器 | 逆向工程分支 — SpiderMonkey 引擎层属性访问追踪（JSVMP 不可检测）
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [marshallrichards/turbodrone](https://github.com/marshallrichards/turbodrone)
+  > reverse engineering the best-selling drones on Amazon to control programmatically
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [whokilleddb/PSI_BOF](https://github.com/whokilleddb/PSI_BOF) to [classic130/PSI_BOF](https://github.com/classic130/PSI_BOF)
@@ -96,6 +104,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -121,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 17:29:24 UTC*
+*Last updated at 2026-04-20 18:30:41 UTC*
 *Historical records are stored in the `archive` directory.*
