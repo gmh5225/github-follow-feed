@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [build-server-protocol/build-server-protocol](https://github.com/build-server-protocol/build-server-protocol)
+  > Protocol for IDEs and build tools to communicate about compile, run, test, debug and more.
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI)
   > CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security too...
@@ -25,6 +29,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🦊 Anti-detect browser
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/camoufox-reverse](https://github.com/WhiteNightShadow/camoufox-reverse)
   > 🦊 反检测浏览器 | 逆向工程分支 — SpiderMonkey 引擎层属性访问追踪（JSVMP 不可检测）
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [whokilleddb/PSI_BOF](https://github.com/whokilleddb/PSI_BOF) to [classic130/PSI_BOF](https://github.com/classic130/PSI_BOF)
+  >  A BOF designed to inspect processes memory and addresses
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [classic130/OpenMythos](https://github.com/classic130/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
@@ -63,7 +73,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws)
   > This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
 
+### [zer0condition](https://github.com/zer0condition)
+- 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
+  > Rust rewrite of BOCHS emulator
+
 
 ---
-*Last updated at 2026-04-20 09:45:47 UTC*
+*Last updated at 2026-04-20 10:42:03 UTC*
 *Historical records are stored in the `archive` directory.*
