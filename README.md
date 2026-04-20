@@ -82,6 +82,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Pashov Audit Group Skills
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mandiant/gopacket](https://github.com/mandiant/gopacket)
   > Gopacket is a clean Go implementation of Impacket, a library intended for working with network proto...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Openclaw-Metis/cc-designer](https://github.com/Openclaw-Metis/cc-designer)
+  > HTML design artifact generator for Claude Code: deck, prototype, animation, wireframe, canvas
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal)
+  > FinceptTerminal is a modern finance application offering advanced market analytics, investment resea...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -102,6 +106,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
   > Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [docmancer/docmancer](https://github.com/docmancer/docmancer)
+  > Give your AI coding agents documentation superpowers. Fetch, embed, and query any public docs locall...
 
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [r3bb1t/rusty_box](https://github.com/r3bb1t/rusty_box)
@@ -109,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 15:37:49 UTC*
+*Last updated at 2026-04-20 16:35:01 UTC*
 *Historical records are stored in the `archive` directory.*
