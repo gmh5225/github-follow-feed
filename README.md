@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/camoufox-reverse](https://github.com/WhiteNightShadow/camoufox-reverse)
   > 🦊 反检测浏览器 | 逆向工程分支 — SpiderMonkey 引擎层属性访问追踪（JSVMP 不可检测）
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alvinreal/awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai)
+  > Curated list of the best truly open-source AI projects, models, tools, and infrastructure.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
@@ -61,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-20 08:56:38 UTC*
+*Last updated at 2026-04-20 09:45:47 UTC*
 *Historical records are stored in the `archive` directory.*
