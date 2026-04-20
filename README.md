@@ -33,6 +33,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ghostvectoracademy/DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter)
+  > Automated DLL Hijacking Discovery, Validation, and Confirmation. Turning local misconfigurations int...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [smallnest/autoresearch](https://github.com/smallnest/autoresearch)
+  > autoresearch for software development
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [ghostvectoracademy/DLLHijackHunter](https://github.com/ghostvectoracademy/DLLHijackHunter) to [killvxk/DLLHijackHunter](https://github.com/killvxk/DLLHijackHunter)
+  > Automated DLL Hijacking Discovery, Validation, and Confirmation. Turning local misconfigurations int...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
+  > A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [workersio/spec](https://github.com/workersio/spec)
+  > Software Reliability & Correctness Skills
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [pashov/skills](https://github.com/pashov/skills)
+  > Pashov Audit Group Skills
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
@@ -42,7 +55,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [LayerZero-Labs/gasolina-aws](https://github.com/LayerZero-Labs/gasolina-aws)
+  > This repository provides Infrastructure-As-Code (IAC) for installing Gasolina on AWS via CDK.
+
 
 ---
-*Last updated at 2026-04-20 07:44:35 UTC*
+*Last updated at 2026-04-20 08:56:38 UTC*
 *Historical records are stored in the `archive` directory.*
