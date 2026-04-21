@@ -16,6 +16,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [CrackerCat/OpenMythos](https://github.com/CrackerCat/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
+### [Obsidian200](https://github.com/Obsidian200)
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
+  > 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance)
+  > The ultimate collection of high-fidelity Seedance 2.0 prompts and Seedance AI resources. Discover Se...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lima-vm/lima](https://github.com/lima-vm/lima)
   > Linux virtual machines, with a focus on running containers
@@ -38,9 +44,37 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [init4tech/storage-benches](https://github.com/init4tech/storage-benches)
   > Storage layer benchmarks for signet vs reth
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
+  > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [BishopFox/cloudfox](https://github.com/BishopFox/cloudfox)
+  > Automating situational awareness for cloud penetration tests.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
+  > Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0ca/BoxPwnr](https://github.com/0ca/BoxPwnr)
+  > A modular framework for benchmarking LLMs and agentic strategies on security challenges across HackT...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MinishLab/model2vec-rs](https://github.com/MinishLab/model2vec-rs)
+  > Official Rust Implementation of Model2Vec
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [elkentaro/sharkbot](https://github.com/elkentaro/sharkbot)
+  > AI assistant for wireshark
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [stormshield/HiveSwarming](https://github.com/stormshield/HiveSwarming)
+  > Convert .reg to registry hive and reciprocally, without elevation
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [elkentaro/sharkbot](https://github.com/elkentaro/sharkbot) to [killvxk/sharkbot](https://github.com/killvxk/sharkbot)
+  > AI assistant for wireshark
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DylanDavis1/DSCourier](https://github.com/DylanDavis1/DSCourier)
+  > DSCourier is a proof-of-concept that uses the WinGet Configuration COM API to apply DSC configuratio...
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [knostic/OpenAnt](https://github.com/knostic/OpenAnt)
   > OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defender...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [six2dez/drift](https://github.com/six2dez/drift)
+  > Security AI helper for Caido: pipes your local Claude Code / Gemini / Codex / Copilot CLI through 18...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
@@ -68,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 12:35:35 UTC*
+*Last updated at 2026-04-21 13:41:04 UTC*
 *Historical records are stored in the `archive` directory.*
