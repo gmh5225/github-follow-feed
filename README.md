@@ -113,6 +113,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [VoidChecksum/void-patcher-cc](https://github.com/VoidChecksum/void-patcher-cc)
   > 77 reverse-engineered hardening patches for Anthropic Claude Code v2.1.114 — kills refusal gates, AU...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [vxunderground/VX-API](https://github.com/vxunderground/VX-API)
+  > Collection of various malicious functionality to aid in malware development
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -134,7 +136,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [vaivaswatha/pliron](https://github.com/vaivaswatha/pliron)
   > An Extensible Compiler IR Framework
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+  > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+
 
 ---
-*Last updated at 2026-04-21 22:21:41 UTC*
+*Last updated at 2026-04-21 23:19:42 UTC*
 *Historical records are stored in the `archive` directory.*
