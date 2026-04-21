@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [CrackerCat/OpenMythos](https://github.com/CrackerCat/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lima-vm/lima](https://github.com/lima-vm/lima)
   > Linux virtual machines, with a focus on running containers
@@ -20,5 +24,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 00:56:51 UTC*
+*Last updated at 2026-04-21 01:43:09 UTC*
 *Historical records are stored in the `archive` directory.*
