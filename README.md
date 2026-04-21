@@ -51,6 +51,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > My personal directory of skills, straight from my .claude directory.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [windirstat/windirstat](https://github.com/windirstat/windirstat)
+  > WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows
 
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
@@ -66,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 11:31:49 UTC*
+*Last updated at 2026-04-21 12:35:35 UTC*
 *Historical records are stored in the `archive` directory.*
