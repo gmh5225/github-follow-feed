@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera) to [classic130/ephemera](https://github.com/classic130/ephemera)
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [google/oss-fuzz](https://github.com/google/oss-fuzz)
+  > OSS-Fuzz - continuous fuzzing for open source software.
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [teabound/rophi](https://github.com/teabound/rophi)
   > Injecting code by recompiling shellcode into a ROP chain.
@@ -42,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 06:50:27 UTC*
+*Last updated at 2026-04-21 07:41:58 UTC*
 *Historical records are stored in the `archive` directory.*
