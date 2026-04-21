@@ -34,17 +34,29 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [init4tech/storage-benches](https://github.com/init4tech/storage-benches)
   > Storage layer benchmarks for signet vs reth
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [knostic/OpenAnt](https://github.com/knostic/OpenAnt)
+  > OpenAnt from Knostic is an open source LLM-based vulnerability discovery product that helps defender...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Q00/ouroboros](https://github.com/Q00/ouroboros)
   > Stop prompting. Start specifying.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
   > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
+### [ri-char](https://github.com/ri-char)
+- 🌟 👤 [ri-char](https://github.com/ri-char) Starred [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow)
+  > WeFlow - 一个本地的微信聊天记录导出和年度报告应用
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [scosman/pelicans_riding_bicycles](https://github.com/scosman/pelicans_riding_bicycles)
   > This is a collection of the best SVG images of pelicans riding bicycles.
 
+### [vaivaswatha](https://github.com/vaivaswatha)
+- 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [vaivaswatha/pliron](https://github.com/vaivaswatha/pliron)
+  > An Extensible Compiler IR Framework
+
 
 ---
-*Last updated at 2026-04-21 07:41:58 UTC*
+*Last updated at 2026-04-21 08:48:05 UTC*
 *Historical records are stored in the `archive` directory.*
