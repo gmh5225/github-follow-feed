@@ -8,9 +8,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [postmemetic/Duke-RT](https://github.com/postmemetic/Duke-RT)
+  > Ray-traced rendering for the Raze engine, and, specifically, Duke 3D. Forked from the Build engine p...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [teabound/rophi](https://github.com/teabound/rophi)
+  > Injecting code by recompiling shellcode into a ROP chain.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [riyaneel/Tachyon](https://github.com/riyaneel/Tachyon)
+  > Tachyon, Inter-Process Communication primitive.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos) to [CrackerCat/OpenMythos](https://github.com/CrackerCat/OpenMythos)
@@ -102,5 +110,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 13:41:04 UTC*
+*Last updated at 2026-04-21 14:42:50 UTC*
 *Historical records are stored in the `archive` directory.*
