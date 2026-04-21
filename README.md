@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lima-vm/lima](https://github.com/lima-vm/lima)
   > Linux virtual machines, with a focus on running containers
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [ArcaneNibble/awawausb](https://github.com/ArcaneNibble/awawausb)
+  > WebUSB for fopses
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera) to [classic130/ephemera](https://github.com/classic130/ephemera)
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
@@ -126,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 19:33:57 UTC*
+*Last updated at 2026-04-21 20:25:15 UTC*
 *Historical records are stored in the `archive` directory.*
