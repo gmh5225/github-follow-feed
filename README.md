@@ -52,6 +52,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [init4tech/storage-benches](https://github.com/init4tech/storage-benches)
   > Storage layer benchmarks for signet vs reth
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)
+  > Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpr...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+  > An open-source AI agent that lives in your terminal.
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
@@ -90,6 +98,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
   > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
+### [mthcht](https://github.com/mthcht)
+- 🍴 👤 [mthcht](https://github.com/mthcht) Forked [darkreader/darkreader](https://github.com/darkreader/darkreader) to [mthcht/darkreader-enhanced](https://github.com/mthcht/darkreader-enhanced)
+  > Dark Reader Chrome and Firefox extension
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > My personal directory of skills, straight from my .claude directory.
@@ -110,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 14:42:50 UTC*
+*Last updated at 2026-04-21 15:37:22 UTC*
 *Historical records are stored in the `archive` directory.*
