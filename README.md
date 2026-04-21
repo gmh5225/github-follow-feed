@@ -108,6 +108,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mthcht](https://github.com/mthcht) Forked [darkreader/darkreader](https://github.com/darkreader/darkreader) to [mthcht/darkreader-enhanced](https://github.com/mthcht/darkreader-enhanced)
   > Dark Reader Chrome and Firefox extension
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [VoidChecksum/void-patcher-cc](https://github.com/VoidChecksum/void-patcher-cc)
+  > 77 reverse-engineered hardening patches for Anthropic Claude Code v2.1.114 — kills refusal gates, AU...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > My personal directory of skills, straight from my .claude directory.
@@ -130,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 21:21:44 UTC*
+*Last updated at 2026-04-21 22:21:41 UTC*
 *Historical records are stored in the `archive` directory.*
