@@ -46,7 +46,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [spectrelang/spectre](https://github.com/spectrelang/spectre)
-  > Spectre Programming Language.
+  > Spectre programming language
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [init4tech/storage-benches](https://github.com/init4tech/storage-benches)
@@ -126,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 18:33:50 UTC*
+*Last updated at 2026-04-21 19:33:57 UTC*
 *Historical records are stored in the `archive` directory.*
