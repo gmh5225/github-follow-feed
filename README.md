@@ -44,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [spectrelang/spectre](https://github.com/spectrelang/spectre)
+  > Spectre Programming Language.
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [init4tech/storage-benches](https://github.com/init4tech/storage-benches)
   > Storage layer benchmarks for signet vs reth
@@ -79,6 +83,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AI assistant for wireshark
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DylanDavis1/DSCourier](https://github.com/DylanDavis1/DSCourier)
   > DSCourier is a proof-of-concept that uses the WinGet Configuration COM API to apply DSC configuratio...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MoonshotAI/FlashKDA](https://github.com/MoonshotAI/FlashKDA)
+  > FlashKDA: high-performance Kimi Delta Attention kernels
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [knostic/OpenAnt](https://github.com/knostic/OpenAnt)
@@ -111,6 +117,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [scosman/pelicans_riding_bicycles](https://github.com/scosman/pelicans_riding_bicycles)
   > This is a collection of the best SVG images of pelicans riding bicycles.
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+  > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
 
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [vaivaswatha/pliron](https://github.com/vaivaswatha/pliron)
@@ -118,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-21 17:28:47 UTC*
+*Last updated at 2026-04-21 18:33:50 UTC*
 *Historical records are stored in the `archive` directory.*
