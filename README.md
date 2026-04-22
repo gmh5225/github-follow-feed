@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [buter-chkalova/rvbbit-arsenal](https://github.com/buter-chkalova/rvbbit-arsenal) to [classic130/rvbbit-arsenal](https://github.com/classic130/rvbbit-arsenal)
   > The Ultimate Offense & Defense Duality – Linux Kernel Rootkit and Its Perfect Cure
 
+### [cr4zyengineer](https://github.com/cr4zyengineer)
+- 🌟 👤 [cr4zyengineer](https://github.com/cr4zyengineer) Starred [ProjectNyxian/FridaCodeManager](https://github.com/ProjectNyxian/FridaCodeManager)
+  > Code/Compile/Install iOS Apps with an App on iOS
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
   > MimIR is my Intermediate Representation
@@ -111,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 20:26:54 UTC*
+*Last updated at 2026-04-22 21:24:14 UTC*
 *Historical records are stored in the `archive` directory.*
