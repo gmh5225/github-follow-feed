@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xisk](https://github.com/0xisk)
+- 🍴 👤 [0xisk](https://github.com/0xisk) Forked [riccardoperra/better-comments-for-github](https://github.com/riccardoperra/better-comments-for-github) to [0xisk/scribe](https://github.com/0xisk/scribe)
+  > The browser extension that completely replaces the GitHub comment box to a powerful rich markdown ed...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jakobfriedl/tgt-monitor-bof](https://github.com/jakobfriedl/tgt-monitor-bof)
   > Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as th...
@@ -30,9 +34,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [buter-chkalova/rvbbit-arsenal](https://github.com/buter-chkalova/rvbbit-arsenal) to [classic130/rvbbit-arsenal](https://github.com/classic130/rvbbit-arsenal)
   > The Ultimate Offense & Defense Duality – Linux Kernel Rootkit and Its Perfect Cure
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
+  > MimIR is my Intermediate Representation
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Radarr/Radarr](https://github.com/Radarr/Radarr)
   > Movie organizer/manager for usenet and torrent users.
+
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [ecomaikgolf/codex-copr](https://github.com/ecomaikgolf/codex-copr) to [funkemunky/codex-copr](https://github.com/funkemunky/codex-copr)
+  > codex copr
 
 ### [h33p](https://github.com/h33p)
 - 🍴 👤 [h33p](https://github.com/h33p) Forked [multikernel/sandlock](https://github.com/multikernel/sandlock) to [h33p/sandlock](https://github.com/h33p/sandlock)
@@ -44,6 +56,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
   > Multi-Joint dynamics with Contact. A general purpose physics simulator.
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [s-b-repo/rustsploit](https://github.com/s-b-repo/rustsploit)
+  > orgininaly this was a rewrite of routersploit rebuild in rust but it has grown and started shaping i...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [s-b-repo/rustsploit](https://github.com/s-b-repo/rustsploit) to [killvxk/rustsploit](https://github.com/killvxk/rustsploit)
+  > orgininaly this was a rewrite of routersploit rebuild in rust but it has grown and started shaping i...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jakobfriedl/tgt-monitor-bof](https://github.com/jakobfriedl/tgt-monitor-bof)
@@ -71,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 13:40:07 UTC*
+*Last updated at 2026-04-22 14:41:08 UTC*
 *Historical records are stored in the `archive` directory.*
