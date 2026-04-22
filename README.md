@@ -24,17 +24,34 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [i12bp8/TagTinker](https://github.com/i12bp8/TagTinker)
   > Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [0xbartita/h1-asset-fetcher](https://github.com/0xbartita/h1-asset-fetcher) to [classic130/h1-asset-fetcher](https://github.com/classic130/h1-asset-fetcher)
+  > Fetch, download, and decompile Android/iOS/Exe assets from HackerOne bug bounty programs
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [buter-chkalova/rvbbit-arsenal](https://github.com/buter-chkalova/rvbbit-arsenal) to [classic130/rvbbit-arsenal](https://github.com/classic130/rvbbit-arsenal)
+  > The Ultimate Offense & Defense Duality – Linux Kernel Rootkit and Its Perfect Cure
+
 ### [h33p](https://github.com/h33p)
 - 🍴 👤 [h33p](https://github.com/h33p) Forked [multikernel/sandlock](https://github.com/multikernel/sandlock) to [h33p/sandlock](https://github.com/h33p/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no root.
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [google-research/reasoning-bank](https://github.com/google-research/reasoning-bank)
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jakobfriedl/tgt-monitor-bof](https://github.com/jakobfriedl/tgt-monitor-bof)
   > Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as th...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
+  > MimIR is my Intermediate Representation
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [BleachDev/pacefors](https://github.com/BleachDev/pacefors)
   > Website that tracks/visualizes Forsens Minecraft Speedruns
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+  > A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [steipete](https://github.com/steipete)
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [openclaw/esp-openclaw-node](https://github.com/openclaw/esp-openclaw-node)
@@ -42,5 +59,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 08:45:54 UTC*
+*Last updated at 2026-04-22 09:41:10 UTC*
 *Historical records are stored in the `archive` directory.*
