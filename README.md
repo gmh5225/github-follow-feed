@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
   > MimIR is my Intermediate Representation
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [Colton1skees/Dna](https://github.com/Colton1skees/Dna)
+  > LLVM based static binary analysis framework 
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Radarr/Radarr](https://github.com/Radarr/Radarr)
   > Movie organizer/manager for usenet and torrent users.
@@ -89,6 +93,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
   > A high-throughput and memory-efficient inference and serving engine for LLMs
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [idesis-gmbh/GitHubExperiments](https://github.com/idesis-gmbh/GitHubExperiments)
+  >  Experiments with GitHub event data 
+
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [github/spec-kit](https://github.com/github/spec-kit)
+  > 💫 Toolkit to help you get started with Spec-Driven Development
+
 ### [tklengyel](https://github.com/tklengyel)
 - 🍴 👤 [tklengyel](https://github.com/tklengyel) Forked [openbmc/bmcweb](https://github.com/openbmc/bmcweb) to [tklengyel/bmcweb](https://github.com/tklengyel/bmcweb)
   > A do everything Redfish, KVM, GUI, and DBus webserver for OpenBMC
@@ -99,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 19:35:00 UTC*
+*Last updated at 2026-04-22 20:26:54 UTC*
 *Historical records are stored in the `archive` directory.*
