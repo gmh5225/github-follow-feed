@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext) to [CrackerCat/windbg-decompile-ext](https://github.com/CrackerCat/windbg-decompile-ext)
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [NikolayS/pgque](https://github.com/NikolayS/pgque)
+  > PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)
   > A lightweight carousel library with fluid motion and great swipe precision.
@@ -57,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Radarr/Radarr](https://github.com/Radarr/Radarr)
   > Movie organizer/manager for usenet and torrent users.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [drhelius/Geargrafx](https://github.com/drhelius/Geargrafx)
+  > PC Engine / TurboGrafx-16 / SuperGrafx / PCE CD-ROM² emulator, debugger, and embedded MCP server for...
 
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [ecomaikgolf/codex-copr](https://github.com/ecomaikgolf/codex-copr) to [funkemunky/codex-copr](https://github.com/funkemunky/codex-copr)
@@ -95,6 +101,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
   > MimIR is my Intermediate Representation
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local)
+  > Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 t...
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [BleachDev/pacefors](https://github.com/BleachDev/pacefors)
   > Website that tracks/visualizes Forsens Minecraft Speedruns
@@ -121,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 22:22:48 UTC*
+*Last updated at 2026-04-22 23:23:54 UTC*
 *Historical records are stored in the `archive` directory.*
