@@ -41,10 +41,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jakobfriedl/tgt-monitor-bof](https://github.com/jakobfriedl/tgt-monitor-bof)
   > Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as th...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
-  > MimIR is my Intermediate Representation
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [BleachDev/pacefors](https://github.com/BleachDev/pacefors)
   > Website that tracks/visualizes Forsens Minecraft Speedruns
@@ -59,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 09:41:10 UTC*
+*Last updated at 2026-04-22 10:37:52 UTC*
 *Historical records are stored in the `archive` directory.*
