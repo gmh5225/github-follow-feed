@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jakobfriedl/tgt-monitor-bof](https://github.com/jakobfriedl/tgt-monitor-bof)
   > Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as th...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AnyDSL/MimIR](https://github.com/AnyDSL/MimIR)
+  > MimIR is my Intermediate Representation
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [BleachDev/pacefors](https://github.com/BleachDev/pacefors)
   > Website that tracks/visualizes Forsens Minecraft Speedruns
@@ -53,7 +57,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [openclaw/esp-openclaw-node](https://github.com/openclaw/esp-openclaw-node)
   > ESP OpenClaw Node
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [VoidNullable/lific](https://github.com/VoidNullable/lific)
+  > Local-first, lightweight issue tracker. Single Rust binary, SQLite-backed, MCP-native.
+
 
 ---
-*Last updated at 2026-04-22 11:30:45 UTC*
+*Last updated at 2026-04-22 12:34:05 UTC*
 *Historical records are stored in the `archive` directory.*
