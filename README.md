@@ -30,12 +30,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [buter-chkalova/rvbbit-arsenal](https://github.com/buter-chkalova/rvbbit-arsenal) to [classic130/rvbbit-arsenal](https://github.com/classic130/rvbbit-arsenal)
   > The Ultimate Offense & Defense Duality – Linux Kernel Rootkit and Its Perfect Cure
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Radarr/Radarr](https://github.com/Radarr/Radarr)
+  > Movie organizer/manager for usenet and torrent users.
+
 ### [h33p](https://github.com/h33p)
 - 🍴 👤 [h33p](https://github.com/h33p) Forked [multikernel/sandlock](https://github.com/multikernel/sandlock) to [h33p/sandlock](https://github.com/h33p/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no root.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [google-research/reasoning-bank](https://github.com/google-research/reasoning-bank)
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
+  > Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jakobfriedl/tgt-monitor-bof](https://github.com/jakobfriedl/tgt-monitor-bof)
@@ -63,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 12:34:05 UTC*
+*Last updated at 2026-04-22 13:40:07 UTC*
 *Historical records are stored in the `archive` directory.*
