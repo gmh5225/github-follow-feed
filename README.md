@@ -16,6 +16,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext) to [CrackerCat/windbg-decompile-ext](https://github.com/CrackerCat/windbg-decompile-ext)
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [davidjerleke/embla-carousel](https://github.com/davidjerleke/embla-carousel)
+  > A lightweight carousel library with fluid motion and great swipe precision.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nolimits4web/swiper](https://github.com/nolimits4web/swiper)
+  > Most modern mobile touch slider with hardware accelerated transitions
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [i12bp8/TagTinker](https://github.com/i12bp8/TagTinker)
+  > Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
+
 ### [h33p](https://github.com/h33p)
 - 🍴 👤 [h33p](https://github.com/h33p) Forked [multikernel/sandlock](https://github.com/multikernel/sandlock) to [h33p/sandlock](https://github.com/h33p/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no root.
@@ -26,5 +34,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 03:15:00 UTC*
+*Last updated at 2026-04-22 05:05:30 UTC*
 *Historical records are stored in the `archive` directory.*
