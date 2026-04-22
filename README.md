@@ -28,11 +28,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [h33p](https://github.com/h33p) Forked [multikernel/sandlock](https://github.com/multikernel/sandlock) to [h33p/sandlock](https://github.com/h33p/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no root.
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jakobfriedl/tgt-monitor-bof](https://github.com/jakobfriedl/tgt-monitor-bof)
+  > Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as th...
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [BleachDev/pacefors](https://github.com/BleachDev/pacefors)
   > Website that tracks/visualizes Forsens Minecraft Speedruns
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [espressif/esp-openclaw-node](https://github.com/espressif/esp-openclaw-node)
+  > ESP OpenClaw Node
+
 
 ---
-*Last updated at 2026-04-22 05:05:30 UTC*
+*Last updated at 2026-04-22 06:49:48 UTC*
 *Historical records are stored in the `archive` directory.*
