@@ -8,6 +8,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [0xisk](https://github.com/0xisk) Forked [riccardoperra/better-comments-for-github](https://github.com/riccardoperra/better-comments-for-github) to [0xisk/scribe](https://github.com/0xisk/scribe)
   > The browser extension that completely replaces the GitHub comment box to a powerful rich markdown ed...
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [fitzgen/safe-gc](https://github.com/fitzgen/safe-gc)
+  > A garbage collection library for Rust with zero unsafe code
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [kyren/gc-arena](https://github.com/kyren/gc-arena)
+  > Incremental garbage collection from safe Rust
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jakobfriedl/tgt-monitor-bof](https://github.com/jakobfriedl/tgt-monitor-bof)
   > Async BOF implementation of 'Rubeus monitor' to detect and automatically extract Kerberos TGTs as th...
@@ -115,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-22 21:24:14 UTC*
+*Last updated at 2026-04-22 22:22:48 UTC*
 *Historical records are stored in the `archive` directory.*
