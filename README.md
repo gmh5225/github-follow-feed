@@ -50,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [gh0stkey/opf-privacy-filter](https://github.com/gh0stkey/opf-privacy-filter)
   > Docker service for OpenAI Privacy Filter (PII redaction API)
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
@@ -76,7 +80,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [run-llama/liteparse](https://github.com/run-llama/liteparse) to [simonw/liteparse](https://github.com/simonw/liteparse)
   > A fast, helpful, and open-source document parser
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [vincentkoc/notcrawl](https://github.com/vincentkoc/notcrawl)
+  > Local-first Notion crawler into SQLite and normalized Markdown
+
 
 ---
-*Last updated at 2026-04-23 17:37:59 UTC*
+*Last updated at 2026-04-23 18:36:21 UTC*
 *Historical records are stored in the `archive` directory.*
