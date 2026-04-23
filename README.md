@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/MedExploitation](https://github.com/JoasASantos/MedExploitation)
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)
+  > 🍌 World's largest Nano Banana Pro prompt library — 10,000+ curated prompts with preview images, 16 l...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Infisical/agent-vault](https://github.com/Infisical/agent-vault)
   > A HTTP credential proxy and vault for AI agents
@@ -99,12 +103,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Build and query a graph database representation of source code
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [notsnakesilent/VMPStatic](https://github.com/notsnakesilent/VMPStatic)
+  > A static VMProtect unpacker for PE files, supports VMProtect 1.x–3.x and rebuilding unpacked PE imag...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-claude-plugins](https://github.com/HexRaysSA/ida-claude-plugins)
+  > IDA Claude Code Plugins
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
   > 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
   > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [nickbax/wannacry_monero_tracing](https://github.com/nickbax/wannacry_monero_tracing)
 
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [Tylous/FaceDancer](https://github.com/Tylous/FaceDancer)
@@ -119,6 +128,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [steipete](https://github.com/steipete)
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [pwrdrvr/ghcrawl](https://github.com/pwrdrvr/ghcrawl)
   > Terminal UI and local CLI for crawling GitHub issues and pull requests, generating embeddings, and c...
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [pwrdrvr/openclaw-codex-app-server](https://github.com/pwrdrvr/openclaw-codex-app-server)
+  > OpenClaw plugin that brings Codex to Telegram and Discord via the Codex App Server protocol.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [berabuddies/agentflow](https://github.com/berabuddies/agentflow)
@@ -126,5 +137,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 22:21:44 UTC*
+*Last updated at 2026-04-23 23:23:55 UTC*
 *Historical records are stored in the `archive` directory.*
