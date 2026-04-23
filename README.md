@@ -41,6 +41,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) to [mrexodia/lucebox-hub](https://github.com/mrexodia/lucebox-hub)
+  > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
+  > 🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
+  > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [Tylous/FaceDancer](https://github.com/Tylous/FaceDancer)
@@ -54,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 12:33:33 UTC*
+*Last updated at 2026-04-23 13:40:28 UTC*
 *Historical records are stored in the `archive` directory.*
