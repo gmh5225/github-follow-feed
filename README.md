@@ -8,6 +8,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang)
   > Open-source Agent Operating System
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter)
+  > An execution engine for Wireshark-like filters
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [geeknoid/cargo-aprz](https://github.com/geeknoid/cargo-aprz)
+  > A cargo tool to appraise the quality of Rust dependencies.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux) to [CrackerCat/mcp-termux](https://github.com/CrackerCat/mcp-termux)
   > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
@@ -19,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Infisical/agent-vault](https://github.com/Infisical/agent-vault)
   > A HTTP credential proxy and vault for AI agents
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mrdoob/three.js](https://github.com/mrdoob/three.js)
+  > JavaScript 3D Library.
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [elkentaro/sharkbot](https://github.com/elkentaro/sharkbot) to [classic130/sharkbot](https://github.com/classic130/sharkbot)
@@ -37,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/schelk](https://github.com/tempoxyz/schelk)
   > Fast filesystem snapshot and rollback tool for benchmarking
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [stripe/mpp-rb](https://github.com/stripe/mpp-rb)
+  > Ruby SDK for the Machine Payments Protocol
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
@@ -49,10 +59,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [gh0stkey/opf-privacy-filter](https://github.com/gh0stkey/opf-privacy-filter)
   > Docker service for OpenAI Privacy Filter (PII redaction API)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [berabuddies/agentflow](https://github.com/berabuddies/agentflow)
+  > Orchestrate thousands of agents and harnesses as a graph programatically
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
   > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
@@ -86,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 18:36:21 UTC*
+*Last updated at 2026-04-23 19:35:56 UTC*
 *Historical records are stored in the `archive` directory.*
