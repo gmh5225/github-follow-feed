@@ -14,6 +14,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [geeknoid/cargo-aprz](https://github.com/geeknoid/cargo-aprz)
   > A cargo tool to appraise the quality of Rust dependencies.
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Cryptifier/rsa-avalanche](https://github.com/Cryptifier/rsa-avalanche)
+  > Proof of concept vulnerability in RSA using side-channel partial message recovery.
+
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651)
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Octoberfest7/DSCourier_BOF](https://github.com/Octoberfest7/DSCourier_BOF)
+  > BOF POC of the DSCourier project / invoking WinGet via COM
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux) to [CrackerCat/mcp-termux](https://github.com/CrackerCat/mcp-termux)
@@ -101,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 20:28:26 UTC*
+*Last updated at 2026-04-23 21:22:54 UTC*
 *Historical records are stored in the `archive` directory.*
