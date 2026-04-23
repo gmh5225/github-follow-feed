@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Fast passive subdomain enumeration tool.
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei)
   > Nuclei is a fast, customizable vulnerability scanner powered by the global security community and bu...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go)
+  > Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single...
 
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [Tylous/FaceDancer](https://github.com/Tylous/FaceDancer)
@@ -30,5 +32,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 05:08:10 UTC*
+*Last updated at 2026-04-23 06:50:35 UTC*
 *Historical records are stored in the `archive` directory.*
