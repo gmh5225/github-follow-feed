@@ -12,6 +12,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Infisical/agent-vault](https://github.com/Infisical/agent-vault)
   > A HTTP credential proxy and vault for AI agents
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [elkentaro/sharkbot](https://github.com/elkentaro/sharkbot) to [classic130/sharkbot](https://github.com/classic130/sharkbot)
+  > AI assistant for wireshark
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Kookiejarz/Auto_XDP](https://github.com/Kookiejarz/Auto_XDP) to [classic130/Auto_XDP](https://github.com/classic130/Auto_XDP)
+  > A lightweight eBPF/XDP firewall with automatic traffic control. Bypasses the Linux kernel stack for ...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
   > Fast passive subdomain enumeration tool.
@@ -32,5 +38,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 06:50:35 UTC*
+*Last updated at 2026-04-23 07:42:23 UTC*
 *Historical records are stored in the `archive` directory.*
