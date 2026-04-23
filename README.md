@@ -28,11 +28,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [browser-use/browser-harness](https://github.com/browser-use/browser-harness)
-  > Self-healing browser harness that enables LLMs to complete any task.
+  > Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
-### [dtcxzyw](https://github.com/dtcxzyw)
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [tummychow/git-absorb](https://github.com/tummychow/git-absorb)
-  > git commit --fixup, but automatic
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)
+  > A collection of modern/faster/saner alternatives to common unix commands.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/schelk](https://github.com/tempoxyz/schelk)
+  > Fast filesystem snapshot and rollback tool for benchmarking
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
@@ -42,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go)
   > Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [gh0stkey/opf-privacy-filter](https://github.com/gh0stkey/opf-privacy-filter)
+  > Docker service for OpenAI Privacy Filter (PII redaction API)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
@@ -49,6 +57,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
@@ -68,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 14:54:41 UTC*
+*Last updated at 2026-04-23 16:42:29 UTC*
 *Historical records are stored in the `archive` directory.*
