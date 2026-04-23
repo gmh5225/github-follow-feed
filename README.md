@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux) to [CrackerCat/mcp-termux](https://github.com/CrackerCat/mcp-termux)
   > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [delphinus/md-render.nvim](https://github.com/delphinus/md-render.nvim)
+  > A Markdown rendering engine for Neovim — rich formatting, tables, images, video, Mermaid diagrams
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Infisical/agent-vault](https://github.com/Infisical/agent-vault)
   > A HTTP credential proxy and vault for AI agents
@@ -43,6 +47,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub) to [mrexodia/lucebox-hub](https://github.com/mrexodia/lucebox-hub)
   > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/windbg-decompile-ext](https://github.com/kernullist/windbg-decompile-ext)
+  > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
@@ -62,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 13:40:28 UTC*
+*Last updated at 2026-04-23 14:54:41 UTC*
 *Historical records are stored in the `archive` directory.*
