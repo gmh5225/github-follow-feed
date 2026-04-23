@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go)
   > Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Luce-Org/lucebox-hub](https://github.com/Luce-Org/lucebox-hub)
+  > Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [Tylous/FaceDancer](https://github.com/Tylous/FaceDancer)
   > FaceDancer is an exploitation tool aimed at creating hijackable, proxy-based DLLs by taking advantag...
@@ -50,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-23 09:42:16 UTC*
+*Last updated at 2026-04-23 10:39:08 UTC*
 *Historical records are stored in the `archive` directory.*
