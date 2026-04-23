@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A cargo tool to appraise the quality of Rust dependencies.
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Cryptifier/rsa-avalanche](https://github.com/Cryptifier/rsa-avalanche)
   > Proof of concept vulnerability in RSA using side-channel partial message recovery.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [librasn/rasn](https://github.com/librasn/rasn)
+  > A Safe #[no_std] ASN.1 Codec Framework
 
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651)
@@ -27,9 +29,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux) to [CrackerCat/mcp-termux](https://github.com/CrackerCat/mcp-termux)
   > MCP RE v7.0 — Android逆向工程一体化MCP服务器 | 73个工具 | stackplz eBPF + paradise内存 + radare2静态分析 | ARM64 Root
 
+### [DavidXanatos](https://github.com/DavidXanatos)
+- 🍴 👤 [DavidXanatos](https://github.com/DavidXanatos) Forked [TheMorpheus407/RepoLens](https://github.com/TheMorpheus407/RepoLens) to [Useful-Stuff/RepoLens](https://github.com/Useful-Stuff/RepoLens)
+  > Multi-lens code audit tool — 280 expert AI agents for code review, security testing, and infrastruct...
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [delphinus/md-render.nvim](https://github.com/delphinus/md-render.nvim)
   > A Markdown rendering engine for Neovim — rich formatting, tables, images, video, Mermaid diagrams
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/MedExploitation](https://github.com/JoasASantos/MedExploitation)
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Infisical/agent-vault](https://github.com/Infisical/agent-vault)
@@ -107,7 +116,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [run-llama/liteparse](https://github.com/run-llama/liteparse) to [simonw/liteparse](https://github.com/simonw/liteparse)
   > A fast, helpful, and open-source document parser
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [pwrdrvr/ghcrawl](https://github.com/pwrdrvr/ghcrawl)
+  > Terminal UI and local CLI for crawling GitHub issues and pull requests, generating embeddings, and c...
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [berabuddies/agentflow](https://github.com/berabuddies/agentflow)
+  > Orchestrate thousands of agents and harnesses as a graph programatically
+
 
 ---
-*Last updated at 2026-04-23 21:22:54 UTC*
+*Last updated at 2026-04-23 22:21:44 UTC*
 *Historical records are stored in the `archive` directory.*
