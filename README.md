@@ -13,6 +13,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An execution engine for Wireshark-like filters
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [geeknoid/cargo-aprz](https://github.com/geeknoid/cargo-aprz)
   > A cargo tool to appraise the quality of Rust dependencies.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Cryptifier/rsa-avalanche](https://github.com/Cryptifier/rsa-avalanche)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PhoenixHairpin/mcp-termux](https://github.com/PhoenixHairpin/mcp-termux) to [CrackerCat/mcp-termux](https://github.com/CrackerCat/mcp-termux)
@@ -79,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > WinDbg x64 extension that disassembles live functions and uses an LLM to produce verified pseudocode...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [huggingface/ml-intern](https://github.com/huggingface/ml-intern)
@@ -96,11 +99,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [run-llama/liteparse](https://github.com/run-llama/liteparse) to [simonw/liteparse](https://github.com/simonw/liteparse)
   > A fast, helpful, and open-source document parser
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [vincentkoc/notcrawl](https://github.com/vincentkoc/notcrawl)
-  > Local-first Notion crawler into SQLite and normalized Markdown
-
 
 ---
-*Last updated at 2026-04-23 19:35:56 UTC*
+*Last updated at 2026-04-23 20:28:26 UTC*
 *Historical records are stored in the `archive` directory.*
