@@ -25,7 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser)
   > Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of maskin...
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [smersh1307n2/ESPB](https://github.com/smersh1307n2/ESPB)
+
 
 ---
-*Last updated at 2026-04-24 10:39:50 UTC*
+*Last updated at 2026-04-24 11:32:11 UTC*
 *Historical records are stored in the `archive` directory.*
