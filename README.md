@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ariya/FastLZ](https://github.com/ariya/FastLZ)
+  > Small & portable byte-aligned LZ77 compression
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fatalSec/AndroGhostInjector](https://github.com/fatalSec/AndroGhostInjector) to [CrackerCat/AndroGhostInjector](https://github.com/CrackerCat/AndroGhostInjector)
   > Undetectable Android library injector powered by eBPF. Zero-ptrace execution via executable caves wi...
@@ -37,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
+
+### [keowu](https://github.com/keowu)
+- 🌟 👤 [keowu](https://github.com/keowu) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [klsecservices/PhantomRPC](https://github.com/klsecservices/PhantomRPC)
@@ -80,7 +88,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [google/skills](https://github.com/google/skills)
   > Agent Skills for Google products and technologies
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [multica-ai/multica](https://github.com/multica-ai/multica)
+  > The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, trac...
+
 
 ---
-*Last updated at 2026-04-24 22:21:29 UTC*
+*Last updated at 2026-04-24 23:20:29 UTC*
 *Historical records are stored in the `archive` directory.*
