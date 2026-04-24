@@ -70,7 +70,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [smersh1307n2/ESPB](https://github.com/smersh1307n2/ESPB)
 
+### [simonw](https://github.com/simonw)
+- 🍴 👤 [simonw](https://github.com/simonw) Forked [openai/skills](https://github.com/openai/skills) to [simonw/skills-1](https://github.com/simonw/skills-1)
+  > Skills Catalog for Codex
+
 
 ---
-*Last updated at 2026-04-24 18:23:22 UTC*
+*Last updated at 2026-04-24 19:24:24 UTC*
 *Historical records are stored in the `archive` directory.*
