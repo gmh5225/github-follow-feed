@@ -23,6 +23,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [klsecservices/PhantomRPC](https://github.com/klsecservices/PhantomRPC)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [whokilleddb/BeaconHTTPSniff](https://github.com/whokilleddb/BeaconHTTPSniff)
+  > Where are these payloads beaconing to?
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [whokilleddb/BeaconHTTPSniff](https://github.com/whokilleddb/BeaconHTTPSniff) to [killvxk/BeaconHTTPSniff](https://github.com/killvxk/BeaconHTTPSniff)
+  > Where are these payloads beaconing to?
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ANYLNK/KSLDBYOVDARK](https://github.com/ANYLNK/KSLDBYOVDARK)
+  > Abusing Some Defects in KSLD Ark driver
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)
+  > Kronos: A Foundation Model for the Language of Financial Markets
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MadAppGang/claudish](https://github.com/MadAppGang/claudish)
+  > Claude Code. Any Model. The most powerful AI coding agent now speaks every language.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF)
+  > Beacon Object File to Enable Chrome DevTools Protocol (CDP)
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [casey/just](https://github.com/casey/just)
   > 🤖 Just a command runner
@@ -34,5 +51,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-24 14:41:09 UTC*
+*Last updated at 2026-04-24 15:33:25 UTC*
 *Historical records are stored in the `archive` directory.*
