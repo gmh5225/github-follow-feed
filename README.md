@@ -16,6 +16,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 5G模组高级后台
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [salokrwhite/OplusEdlTool](https://github.com/salokrwhite/OplusEdlTool) to [CrackerCat/OplusEdlTool](https://github.com/CrackerCat/OplusEdlTool)
   > A tool for OPLUS devices EDL operations
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jyotidwi/FuseFixer-](https://github.com/jyotidwi/FuseFixer-) to [CrackerCat/FuseHide](https://github.com/CrackerCat/FuseHide)
+  > （本模块属于仿制品）感谢5ec1cff佬提供的原型模块作为参考喵
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
@@ -70,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-24 17:26:14 UTC*
+*Last updated at 2026-04-24 18:23:22 UTC*
 *Historical records are stored in the `archive` directory.*
