@@ -66,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🤖 Just a command runner
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
   > 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Tencent-Hunyuan/HY-Motion-1.0](https://github.com/Tencent-Hunyuan/HY-Motion-1.0)
+  > HY-Motion model for 3D human motion or 3D character animation generation. 
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [smersh1307n2/ESPB](https://github.com/smersh1307n2/ESPB)
@@ -76,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-24 19:24:24 UTC*
+*Last updated at 2026-04-24 20:22:32 UTC*
 *Historical records are stored in the `archive` directory.*
