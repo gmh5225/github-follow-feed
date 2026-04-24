@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Vozec/CVE-2026-41651](https://github.com/Vozec/CVE-2026-41651) to [classic130/CVE-2026-41651](https://github.com/classic130/CVE-2026-41651)
 
@@ -21,14 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [launchbadge/sqlx](https://github.com/launchbadge/sqlx)
   > 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chiefautism/privacy-parser](https://github.com/chiefautism/privacy-parser)
-  > Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of maskin...
-
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [smersh1307n2/ESPB](https://github.com/smersh1307n2/ESPB)
 
 
 ---
-*Last updated at 2026-04-24 12:33:45 UTC*
+*Last updated at 2026-04-24 13:39:17 UTC*
 *Historical records are stored in the `archive` directory.*
