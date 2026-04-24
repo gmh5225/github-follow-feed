@@ -4,6 +4,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fatalSec/AndroGhostInjector](https://github.com/fatalSec/AndroGhostInjector) to [CrackerCat/AndroGhostInjector](https://github.com/CrackerCat/AndroGhostInjector)
+  > Undetectable Android library injector powered by eBPF. Zero-ptrace execution via executable caves wi...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ggggmllll/AndProxyDemo](https://github.com/ggggmllll/AndProxyDemo) to [CrackerCat/AndProxyDemo](https://github.com/CrackerCat/AndProxyDemo)
+  > Android library for intercepting Binder transactions and system calls via GOT hook and seccomp, enab...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ggggmllll/elf-patcher](https://github.com/ggggmllll/elf-patcher) to [CrackerCat/elf-patcher](https://github.com/CrackerCat/elf-patcher)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kindness-Kismet/UY-Scuti](https://github.com/Kindness-Kismet/UY-Scuti) to [CrackerCat/UY-Scuti](https://github.com/CrackerCat/UY-Scuti)
+  > 一个集成工具，旨在将提取、打包和修改 Android img 的功能集成到一个工具中。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1orz/project-cpe](https://github.com/1orz/project-cpe) to [CrackerCat/project-cpe](https://github.com/CrackerCat/project-cpe)
+  > 5G模组高级后台
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [salokrwhite/OplusEdlTool](https://github.com/salokrwhite/OplusEdlTool) to [CrackerCat/OplusEdlTool](https://github.com/CrackerCat/OplusEdlTool)
+  > A tool for OPLUS devices EDL operations
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
@@ -39,6 +52,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF)
   > Beacon Object File to Enable Chrome DevTools Protocol (CDP)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [InsForge/InsForge](https://github.com/InsForge/InsForge)
+  > Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dmaynor/apple-vuln-research](https://github.com/dmaynor/apple-vuln-research)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nexu-io/auto-github-contributor](https://github.com/nexu-io/auto-github-contributor)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Viewfin-Labs/slop-check](https://github.com/Viewfin-Labs/slop-check)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Viewfin-Labs/slop-check](https://github.com/Viewfin-Labs/slop-check) to [killvxk/slop-check](https://github.com/killvxk/slop-check)
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [casey/just](https://github.com/casey/just)
@@ -51,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-24 15:33:25 UTC*
+*Last updated at 2026-04-24 16:28:55 UTC*
 *Historical records are stored in the `archive` directory.*
