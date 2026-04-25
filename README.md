@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sailay1996/vss-fr2system](https://github.com/sailay1996/vss-fr2system)
+  > test
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dreamland-blog/KSU-Rust-Frida](https://github.com/dreamland-blog/KSU-Rust-Frida) to [CrackerCat/KSU-Rust-Frida](https://github.com/CrackerCat/KSU-Rust-Frida)
   > KFM
@@ -18,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [JannisKirschner](https://github.com/JannisKirschner)
 - 🍴 👤 [JannisKirschner](https://github.com/JannisKirschner) Forked [AI-Security-Bootcamp/aisb-sg](https://github.com/AI-Security-Bootcamp/aisb-sg) to [JannisKirschner/aisb-sg](https://github.com/JannisKirschner/aisb-sg)
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [jsacco/NTKernelWalkerLib](https://github.com/jsacco/NTKernelWalkerLib)
+  > NTKernelWalkerLib is a self contained library for resolving kernel offsets from user mode. It wraps ...
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -72,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 11:20:57 UTC*
+*Last updated at 2026-04-25 12:24:27 UTC*
 *Historical records are stored in the `archive` directory.*
