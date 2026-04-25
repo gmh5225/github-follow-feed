@@ -104,6 +104,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [ultibohub/Core](https://github.com/ultibohub/Core)
   > Ultibo Core
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [praetorian-inc/turnt](https://github.com/praetorian-inc/turnt)
+  > A tool designed for smuggling interactive command and control traffic through legitimate TURN server...
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [knifesec/kCaddy](https://github.com/knifesec/kCaddy)
   > Malleable Caddy Redirector
@@ -130,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 22:15:55 UTC*
+*Last updated at 2026-04-25 23:19:11 UTC*
 *Historical records are stored in the `archive` directory.*
