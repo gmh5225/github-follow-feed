@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 0 Click RCE exploit for CVE-2026-34159 Lama.cpp RPC server
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [AsuNa-jp/TLGMapper](https://github.com/AsuNa-jp/TLGMapper) to [classic130/TLGMapper](https://github.com/classic130/TLGMapper)
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+  > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [tenstorrent/tt-lang](https://github.com/tenstorrent/tt-lang)
   > A Python-based Domain-Specific Language (DSL) for authoring custom operations on Tenstorrent hardwar...
@@ -49,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A small, powerful, open-source CLI coding agent that works with open models.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zblurx/dploot](https://github.com/zblurx/dploot)
   > DPAPI looting remotely and locally in Python
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [travitch/ql-grep](https://github.com/travitch/ql-grep)
@@ -60,7 +66,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [knifesec/kCaddy](https://github.com/knifesec/kCaddy)
   > Malleable Caddy Redirector
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
+  > General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san...
+
 
 ---
-*Last updated at 2026-04-25 10:21:57 UTC*
+*Last updated at 2026-04-25 11:20:57 UTC*
 *Historical records are stored in the `archive` directory.*
