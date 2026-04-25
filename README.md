@@ -70,10 +70,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [tenstorrent/tt-lang](https://github.com/tenstorrent/tt-lang)
   > A Python-based Domain-Specific Language (DSL) for authoring custom operations on Tenstorrent hardwar...
 
-### [mgeeky](https://github.com/mgeeky)
-- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [whokilleddb/BeaconHTTPSniff](https://github.com/whokilleddb/BeaconHTTPSniff)
-  > Where are these payloads beaconing to?
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
   > Token-efficient MCP adapter for Pi coding agent
@@ -126,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 20:19:00 UTC*
+*Last updated at 2026-04-25 21:17:46 UTC*
 *Historical records are stored in the `archive` directory.*
