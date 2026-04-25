@@ -73,10 +73,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [xboot/xboot](https://github.com/xboot/xboot)
   > The extensible bootloader for embedded system with application engine, write once, run everywhere.
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [ultibohub/Core](https://github.com/ultibohub/Core)
+  > Ultibo Core
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [knifesec/kCaddy](https://github.com/knifesec/kCaddy)
   > Malleable Caddy Redirector
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the next-gen IDE for building with coding agents
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
@@ -90,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 14:22:53 UTC*
+*Last updated at 2026-04-25 15:21:03 UTC*
 *Historical records are stored in the `archive` directory.*
