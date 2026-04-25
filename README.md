@@ -22,6 +22,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide)
+  > Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to p...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+  > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [casp3r0x0/CVE-2026-34159](https://github.com/casp3r0x0/CVE-2026-34159) to [classic130/CVE-2026-34159](https://github.com/classic130/CVE-2026-34159)
@@ -50,7 +56,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [GaloisInc/language-sleigh](https://github.com/GaloisInc/language-sleigh)
   > A parser for the Sleigh language, which is used to represent ISA semantics in Ghidra
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [knifesec/kCaddy](https://github.com/knifesec/kCaddy)
+  > Malleable Caddy Redirector
+
 
 ---
-*Last updated at 2026-04-25 09:25:38 UTC*
+*Last updated at 2026-04-25 10:21:57 UTC*
 *Historical records are stored in the `archive` directory.*
