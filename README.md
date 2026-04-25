@@ -8,6 +8,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
 
+### [CalebFenton](https://github.com/CalebFenton)
+- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [unicorn-engine/unicorn-engine-rs](https://github.com/unicorn-engine/unicorn-engine-rs) to [Delphos-Labs/unicorn-engine-rs](https://github.com/Delphos-Labs/unicorn-engine-rs)
+  > The rust bindings for Unicorn Engine
+- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) to [Delphos-Labs/unicorn](https://github.com/Delphos-Labs/unicorn)
+  > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sailay1996/vss-fr2system](https://github.com/sailay1996/vss-fr2system)
   > test
@@ -42,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 0 Click RCE exploit for CVE-2026-34159 Lama.cpp RPC server
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [AsuNa-jp/TLGMapper](https://github.com/AsuNa-jp/TLGMapper) to [classic130/TLGMapper](https://github.com/classic130/TLGMapper)
 
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [luka2272/mesa-cachyos-fedora](https://github.com/luka2272/mesa-cachyos-fedora) to [funkemunky/mesa-cachyos-fedora](https://github.com/funkemunky/mesa-cachyos-fedora)
+  > Trying to build cachyos mesa for fedora
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
   > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
@@ -63,6 +73,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > DPAPI looting remotely and locally in Python
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [travitch/ql-grep](https://github.com/travitch/ql-grep)
@@ -94,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 16:19:54 UTC*
+*Last updated at 2026-04-25 17:19:56 UTC*
 *Historical records are stored in the `archive` directory.*
