@@ -16,9 +16,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [casp3r0x0/CVE-2026-34159](https://github.com/casp3r0x0/CVE-2026-34159) to [classic130/CVE-2026-34159](https://github.com/classic130/CVE-2026-34159)
+  > 0 Click RCE exploit for CVE-2026-34159 Lama.cpp RPC server
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [AsuNa-jp/TLGMapper](https://github.com/AsuNa-jp/TLGMapper) to [classic130/TLGMapper](https://github.com/classic130/TLGMapper)
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [tenstorrent/tt-lang](https://github.com/tenstorrent/tt-lang)
   > A Python-based Domain-Specific Language (DSL) for authoring custom operations on Tenstorrent hardwar...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
+  > Token-efficient MCP adapter for Pi coding agent
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [travitch/ql-grep](https://github.com/travitch/ql-grep)
@@ -28,5 +37,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 05:41:36 UTC*
+*Last updated at 2026-04-25 06:41:04 UTC*
 *Historical records are stored in the `archive` directory.*
