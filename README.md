@@ -16,6 +16,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PurCL/RepoAudit](https://github.com/PurCL/RepoAudit) to [CrackerCat/RepoAudit](https://github.com/CrackerCat/RepoAudit)
   > An autonomous LLM-agent for large-scale, repository-level code auditing
 
+### [JannisKirschner](https://github.com/JannisKirschner)
+- 🍴 👤 [JannisKirschner](https://github.com/JannisKirschner) Forked [AI-Security-Bootcamp/aisb-sg](https://github.com/AI-Security-Bootcamp/aisb-sg) to [JannisKirschner/aisb-sg](https://github.com/JannisKirschner/aisb-sg)
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
@@ -28,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [tenstorrent/tt-lang](https://github.com/tenstorrent/tt-lang)
   > A Python-based Domain-Specific Language (DSL) for authoring custom operations on Tenstorrent hardwar...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [whokilleddb/BeaconHTTPSniff](https://github.com/whokilleddb/BeaconHTTPSniff)
+  > Where are these payloads beaconing to?
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
@@ -45,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 08:28:41 UTC*
+*Last updated at 2026-04-25 09:25:38 UTC*
 *Historical records are stored in the `archive` directory.*
