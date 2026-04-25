@@ -77,8 +77,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
   > General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+  > 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)
+  > Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coor...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
+  > from vibe coding to agentic engineering - practice makes claude perfect
 
 
 ---
-*Last updated at 2026-04-25 12:24:27 UTC*
+*Last updated at 2026-04-25 13:34:46 UTC*
 *Historical records are stored in the `archive` directory.*
