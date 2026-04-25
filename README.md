@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [jsacco/NTKernelWalkerLib](https://github.com/jsacco/NTKernelWalkerLib)
   > NTKernelWalkerLib is a self contained library for resolving kernel offsets from user mode. It wraps ...
 
+### [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD)
+- 🌟 👤 [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD) Starred [llvm/llvm-project](https://github.com/llvm/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
@@ -51,6 +55,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [luka2272/mesa-cachyos-fedora](https://github.com/luka2272/mesa-cachyos-fedora) to [funkemunky/mesa-cachyos-fedora](https://github.com/funkemunky/mesa-cachyos-fedora)
   > Trying to build cachyos mesa for fedora
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) to [funkemunky/noctalia-shell](https://github.com/funkemunky/noctalia-shell)
+  > A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mitchellh/vouch](https://github.com/mitchellh/vouch)
@@ -100,6 +106,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [stablyai/orca](https://github.com/stablyai/orca)
   > Orca is the next-gen IDE for building with coding agents
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [itsc0c0/flipsay](https://github.com/itsc0c0/flipsay)
+  > Turn your flipper into an mini SDR!
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [machinarii/hypervibe](https://github.com/machinarii/hypervibe)
+  > One-handed vibe coding using Apple TV Remote, customizable buttons and gestures.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [alexzhang13/rlm](https://github.com/alexzhang13/rlm)
   > General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san...
@@ -112,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 18:22:44 UTC*
+*Last updated at 2026-04-25 19:23:10 UTC*
 *Historical records are stored in the `archive` directory.*
