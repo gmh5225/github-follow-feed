@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dreamland-blog/KSU-Rust-Frida](https://github.com/dreamland-blog/KSU-Rust-Frida) to [CrackerCat/KSU-Rust-Frida](https://github.com/CrackerCat/KSU-Rust-Frida)
   > KFM
@@ -28,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
   > Token-efficient MCP adapter for Pi coding agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Swival/swival](https://github.com/Swival/swival)
+  > A small, powerful, open-source CLI coding agent that works with open models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zblurx/dploot](https://github.com/zblurx/dploot)
+  > DPAPI looting remotely and locally in Python
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [travitch/ql-grep](https://github.com/travitch/ql-grep)
@@ -37,5 +45,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 06:41:04 UTC*
+*Last updated at 2026-04-25 07:36:39 UTC*
 *Historical records are stored in the `archive` directory.*
