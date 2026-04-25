@@ -66,6 +66,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
   > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [mtuomi/SecondReality](https://github.com/mtuomi/SecondReality)
+  > Source code and data of Second Reality by Future Crew in 1993
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [tenstorrent/tt-lang](https://github.com/tenstorrent/tt-lang)
   > A Python-based Domain-Specific Language (DSL) for authoring custom operations on Tenstorrent hardwar...
@@ -83,6 +87,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
   > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pooler/cpuminer](https://github.com/pooler/cpuminer)
+  > CPU miner for Litecoin and Bitcoin
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [travitch/ql-grep](https://github.com/travitch/ql-grep)
@@ -122,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 21:17:46 UTC*
+*Last updated at 2026-04-25 22:15:55 UTC*
 *Historical records are stored in the `archive` directory.*
