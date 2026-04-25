@@ -70,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [GaloisInc/language-sleigh](https://github.com/GaloisInc/language-sleigh)
   > A parser for the Sleigh language, which is used to represent ISA semantics in Ghidra
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [xboot/xboot](https://github.com/xboot/xboot)
+  > The extensible bootloader for embedded system with application engine, write once, run everywhere.
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [knifesec/kCaddy](https://github.com/knifesec/kCaddy)
   > Malleable Caddy Redirector
@@ -86,5 +90,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 13:34:46 UTC*
+*Last updated at 2026-04-25 14:22:53 UTC*
 *Historical records are stored in the `archive` directory.*
