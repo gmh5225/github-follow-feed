@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dreamland-blog/KSU-Rust-Frida](https://github.com/dreamland-blog/KSU-Rust-Frida) to [CrackerCat/KSU-Rust-Frida](https://github.com/CrackerCat/KSU-Rust-Frida)
+  > KFM
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec) to [CrackerCat/tiny-dec](https://github.com/CrackerCat/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
   > A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemi...
@@ -20,5 +26,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 03:12:53 UTC*
+*Last updated at 2026-04-25 04:56:32 UTC*
 *Historical records are stored in the `archive` directory.*
