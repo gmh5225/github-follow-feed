@@ -9,6 +9,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > KFM
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec) to [CrackerCat/tiny-dec](https://github.com/CrackerCat/tiny-dec)
   > A tiny educational decompiler that helps people understand how decompilation works.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PurCL/RepoAudit](https://github.com/PurCL/RepoAudit) to [CrackerCat/RepoAudit](https://github.com/CrackerCat/RepoAudit)
+  > An autonomous LLM-agent for large-scale, repository-level code auditing
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [farion1231/cc-switch](https://github.com/farion1231/cc-switch)
@@ -26,5 +28,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 04:56:32 UTC*
+*Last updated at 2026-04-25 05:41:36 UTC*
 *Historical records are stored in the `archive` directory.*
