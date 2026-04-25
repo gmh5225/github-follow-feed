@@ -8,15 +8,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
 
-### [CalebFenton](https://github.com/CalebFenton)
-- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [unicorn-engine/unicorn-engine-rs](https://github.com/unicorn-engine/unicorn-engine-rs) to [Delphos-Labs/unicorn-engine-rs](https://github.com/Delphos-Labs/unicorn-engine-rs)
-  > The rust bindings for Unicorn Engine
-- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) to [Delphos-Labs/unicorn](https://github.com/Delphos-Labs/unicorn)
-  > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
-
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sailay1996/vss-fr2system](https://github.com/sailay1996/vss-fr2system)
   > test
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [enetx/surf](https://github.com/enetx/surf)
+  > SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerpri...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dreamland-blog/KSU-Rust-Frida](https://github.com/dreamland-blog/KSU-Rust-Frida) to [CrackerCat/KSU-Rust-Frida](https://github.com/CrackerCat/KSU-Rust-Frida)
@@ -48,9 +44,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 0 Click RCE exploit for CVE-2026-34159 Lama.cpp RPC server
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [AsuNa-jp/TLGMapper](https://github.com/AsuNa-jp/TLGMapper) to [classic130/TLGMapper](https://github.com/classic130/TLGMapper)
 
+### [crtdll](https://github.com/crtdll)
+- 🍴 👤 [crtdll](https://github.com/crtdll) Forked [edde746/plezy](https://github.com/edde746/plezy) to [crtdll/plezy](https://github.com/crtdll/plezy)
+  > Modern cross-platform Plex client built with Flutter
+
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [luka2272/mesa-cachyos-fedora](https://github.com/luka2272/mesa-cachyos-fedora) to [funkemunky/mesa-cachyos-fedora](https://github.com/funkemunky/mesa-cachyos-fedora)
   > Trying to build cachyos mesa for fedora
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mitchellh/vouch](https://github.com/mitchellh/vouch)
+  > A community trust management system based on explicit vouches to participate.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
@@ -108,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-25 17:19:56 UTC*
+*Last updated at 2026-04-25 18:22:44 UTC*
 *Historical records are stored in the `archive` directory.*
