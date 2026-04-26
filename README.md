@@ -12,14 +12,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) to [classic130/hackerone-reports](https://github.com/classic130/hackerone-reports)
   > Top disclosed reports from HackerOne
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
+  > Interactive web dashboard to monitor and analyze your coding agent API costs.
+
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
   > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [google/skills](https://github.com/google/skills)
+  > Agent Skills for Google products and technologies
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/restart-ida](https://github.com/milankovo/restart-ida)
 
 
 ---
-*Last updated at 2026-04-26 08:35:16 UTC*
+*Last updated at 2026-04-26 09:26:25 UTC*
 *Historical records are stored in the `archive` directory.*
