@@ -4,9 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
+  > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rasta-mouse/atomic-bofs](https://github.com/rasta-mouse/atomic-bofs)
   > Atomic test units for BOF execution
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [msuhanov/regf](https://github.com/msuhanov/regf)
+  > Windows registry file format specification
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [roothide/Developer](https://github.com/roothide/Developer)
@@ -78,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Static-Analyzer-Factory/static-analyzer-factory](https://github.com/Static-Analyzer-Factory/static-analyzer-factory)
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread)
+  > RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                  ...
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
   > AdaptixC2 is a highly modular advanced redteam toolkit
@@ -89,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-26 22:17:39 UTC*
+*Last updated at 2026-04-26 23:20:19 UTC*
 *Historical records are stored in the `archive` directory.*
