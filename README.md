@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [vladko312/SSTImap](https://github.com/vladko312/SSTImap)
   > Automatic SSTI detection tool with interactive interface
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
   > Interactive web dashboard to monitor and analyze your coding agent API costs.
@@ -79,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-26 17:20:17 UTC*
+*Last updated at 2026-04-26 18:23:34 UTC*
 *Historical records are stored in the `archive` directory.*
