@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs)
   > A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
+- 🌟 👤 [char](https://github.com/char) Starred [jeffvli/feishin](https://github.com/jeffvli/feishin)
+  > A modern self-hosted music player.
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) to [classic130/hackerone-reports](https://github.com/classic130/hackerone-reports)
@@ -83,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-26 18:23:34 UTC*
+*Last updated at 2026-04-26 19:24:04 UTC*
 *Historical records are stored in the `archive` directory.*
