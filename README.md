@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [arajay/7d2d](https://github.com/arajay/7d2d)
   > 7 Days to Die: Mod Collection and Custom Modlets
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [jasonwhite/rudolfs](https://github.com/jasonwhite/rudolfs)
+  > A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) to [classic130/hackerone-reports](https://github.com/classic130/hackerone-reports)
   > Top disclosed reports from HackerOne
@@ -64,6 +68,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Static-Analyzer-Factory/static-analyzer-factory](https://github.com/Static-Analyzer-Factory/static-analyzer-factory)
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [Adaptix-Framework/AdaptixC2](https://github.com/Adaptix-Framework/AdaptixC2)
+  > AdaptixC2 is a highly modular advanced redteam toolkit
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/restart-ida](https://github.com/milankovo/restart-ida)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM)
@@ -71,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-26 15:21:34 UTC*
+*Last updated at 2026-04-26 16:21:10 UTC*
 *Historical records are stored in the `archive` directory.*
