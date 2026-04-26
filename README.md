@@ -14,6 +14,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [sailay1996/vss-fr2system](https://github.com/sailay1996/vss-fr2system) to [classic130/vss-fr2system](https://github.com/classic130/vss-fr2system)
   > test
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash)
+  > Lossless abliteration of Qwen3.6-27B with NVFP4 hardware quantization for DGX Spark / Blackwell. BF1...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [AEON-7/Qwen3.6-NVFP4-DFlash](https://github.com/AEON-7/Qwen3.6-NVFP4-DFlash)
+  > Qwen3.6-35B-A3B-heretic NVFP4 + DFlash speculative decoding on DGX Spark (GB10/sm_121a). Source-buil...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
   > Interactive web dashboard to monitor and analyze your coding agent API costs.
@@ -26,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Qwen3.6-27B on dual RTX 3090 — TP=2 recipe, vLLM nightly, MTP + fp8 KV, validated for concurrent ser...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
   > A tiny educational decompiler that helps people understand how decompilation works.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) to [mrexodia/python-github-backup](https://github.com/mrexodia/python-github-backup)
+  > backup a github user or organization
 
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
@@ -40,8 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/restart-ida](https://github.com/milankovo/restart-ida)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM)
+  > MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe f...
 
 
 ---
-*Last updated at 2026-04-26 12:26:19 UTC*
+*Last updated at 2026-04-26 13:35:38 UTC*
 *Historical records are stored in the `archive` directory.*
