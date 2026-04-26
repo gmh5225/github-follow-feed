@@ -35,10 +35,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [google/skills](https://github.com/google/skills)
   > Agent Skills for Google products and technologies
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Static-Analyzer-Factory/static-analyzer-factory](https://github.com/Static-Analyzer-Factory/static-analyzer-factory)
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/restart-ida](https://github.com/milankovo/restart-ida)
 
 
 ---
-*Last updated at 2026-04-26 11:20:51 UTC*
+*Last updated at 2026-04-26 12:26:19 UTC*
 *Historical records are stored in the `archive` directory.*
