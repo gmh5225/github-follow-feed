@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [roothide/Developer](https://github.com/roothide/Developer)
+  > document for tweak Developers
+
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [arajay/7d2d](https://github.com/arajay/7d2d)
   > 7 Days to Die: Mod Collection and Custom Modlets
@@ -19,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lossless abliteration of Qwen3.6-27B with NVFP4 hardware quantization for DGX Spark / Blackwell. BF1...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [AEON-7/Qwen3.6-NVFP4-DFlash](https://github.com/AEON-7/Qwen3.6-NVFP4-DFlash)
   > Qwen3.6-35B-A3B-heretic NVFP4 + DFlash speculative decoding on DGX Spark (GB10/sm_121a). Source-buil...
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [epinna/tplmap](https://github.com/epinna/tplmap)
+  > Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [vladko312/SSTImap](https://github.com/vladko312/SSTImap)
+  > Automatic SSTI detection tool with interactive interface
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
@@ -34,6 +42,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A tiny educational decompiler that helps people understand how decompilation works.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [josegonzalez/python-github-backup](https://github.com/josegonzalez/python-github-backup) to [mrexodia/python-github-backup](https://github.com/mrexodia/python-github-backup)
   > backup a github user or organization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mitsuhiko/pi-draw](https://github.com/mitsuhiko/pi-draw)
+  > For when you want to draw something for the clanker
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [IgorWarzocha/pi-auto-reasoning-tool](https://github.com/IgorWarzocha/pi-auto-reasoning-tool)
+  > A tool that allows the agent to change its reasoning levels.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HQarroum/docker-android](https://github.com/HQarroum/docker-android)
+  > 🤖 A minimal and customizable Docker image running the Android emulator as a service.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maziyarpanahi/openmed](https://github.com/maziyarpanahi/openmed)
+  > open-source healthcare ai
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)
+  > Tools for merging pretrained large language models.
 
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
@@ -53,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-26 14:22:08 UTC*
+*Last updated at 2026-04-26 15:21:34 UTC*
 *Historical records are stored in the `archive` directory.*
