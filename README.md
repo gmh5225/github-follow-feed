@@ -16,6 +16,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
   > Interactive web dashboard to monitor and analyze your coding agent API costs.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/qwen36-27b-single-3090](https://github.com/noonghunna/qwen36-27b-single-3090)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/qwen36-dual-3090](https://github.com/noonghunna/qwen36-dual-3090)
+  > Qwen3.6-27B on dual RTX 3090 — TP=2 recipe, vLLM nightly, MTP + fp8 KV, validated for concurrent ser...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
+
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
   > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
@@ -29,5 +36,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-26 09:26:25 UTC*
+*Last updated at 2026-04-26 10:22:54 UTC*
 *Historical records are stored in the `archive` directory.*
