@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Modern Intel Firmware Tool and Library
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [ShaneBreazeale/rsleigh](https://github.com/ShaneBreazeale/rsleigh)
   > pure-Rust SLEIGH-driven multi-arch decoder/lifter with an experimental decompiler and malware-analys...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [msuhanov/regf](https://github.com/msuhanov/regf)
+  > Windows registry file format specification
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
@@ -35,13 +37,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
   > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [imputnet/helium](https://github.com/imputnet/helium)
+  > Private, fast, and honest web browser
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Agent Skills for real engineers. Straight from my .claude directory.
+  > Skills for Real Engineers. Straight from my .claude directory.
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
   > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [browser-use/video-use](https://github.com/browser-use/video-use)
+  > Edit videos with coding agents
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
@@ -90,7 +100,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Agent Skills for real engineers. Straight from my .claude directory.
+  > Skills for Real Engineers. Straight from my .claude directory.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [changliu98/manifold](https://github.com/changliu98/manifold)
@@ -154,8 +164,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > MalAPI Hunter is an IDA Pro plugin for static malware analysis that detects, classifies, and highlig...
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [nixerr/ida_scripts](https://github.com/nixerr/ida_scripts)
   > Scripts were written by me
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit)
+  > Your feedback loop with the agent
 
 
 ---
-*Last updated at 2026-04-27 15:41:59 UTC*
+*Last updated at 2026-04-27 16:40:42 UTC*
 *Historical records are stored in the `archive` directory.*
