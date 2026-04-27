@@ -142,6 +142,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > test
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [sailay1996/vss-fr2system](https://github.com/sailay1996/vss-fr2system) to [killvxk/vss-fr2system](https://github.com/killvxk/vss-fr2system)
   > test
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [pandaadir05/snoop](https://github.com/pandaadir05/snoop)
+  > A modern syscall tracer built on eBPF. Think strace, but with a real TUI, smart filters, TLS decrypt...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cytostack/openwolf](https://github.com/cytostack/openwolf)
+  > Sharper context. Fewer tokens. Open-source middleware for Claude Code.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jakobfriedl/BenevolentLoader](https://github.com/jakobfriedl/BenevolentLoader)
+  > Shellcode loader using direct syscalls via Hell's Gate and payload encryption.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kitlangton/ghui](https://github.com/kitlangton/ghui)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [kitlangton/ghui](https://github.com/kitlangton/ghui) to [killvxk/ghui](https://github.com/killvxk/ghui)
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [leanEthereum/leanMultisig](https://github.com/leanEthereum/leanMultisig)
@@ -236,5 +244,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-27 20:32:43 UTC*
+*Last updated at 2026-04-27 21:29:14 UTC*
 *Historical records are stored in the `archive` directory.*
