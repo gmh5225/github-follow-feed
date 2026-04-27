@@ -20,6 +20,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
+  > A powerful little TUI framework 🏗
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [kanidm/kanidm](https://github.com/kanidm/kanidm)
@@ -38,6 +40,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AI-driven vulnerability discovery and live validation
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [enki-kr/CVE-2026-32223-USBPrint-Exploit](https://github.com/enki-kr/CVE-2026-32223-USBPrint-Exploit) to [killvxk/CVE-2026-32223-USBPrint-Exploit](https://github.com/killvxk/CVE-2026-32223-USBPrint-Exploit)
   > Proof-of-Concept exploit for CVE-2026-32223
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
+  > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [OraclesTech/guardian-sdk](https://github.com/OraclesTech/guardian-sdk)
+  > Ethicore Engine™ is an AI safety, ethics, and compliance platform. This repo consists of the open-so...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [webxos/phalanx](https://github.com/webxos/phalanx)
+  > Kali Linux Polyglot Harness for Autonomous Pentesting/Cyber Security
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Thoxy67/zig-pe](https://github.com/Thoxy67/zig-pe)
+  > Reflective PE loader written in Zig. Loads and executes native and .NET PE files directly from memor...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [leanEthereum/leanMultisig](https://github.com/leanEthereum/leanMultisig)
@@ -57,6 +69,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Pi coding agent extension that routes bash commands through rtk for LLM token savings.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf)
   > Convert Nintendo Switch executable files to ELFs
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/binsync](https://github.com/binsync/binsync) to [mrexodia/binsync](https://github.com/mrexodia/binsync)
+  > A reversing plugin for cross-decompiler collaboration, built on git. 
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
@@ -76,6 +90,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts)
   > uBlock Origin filter list to hide YouTube Shorts
 
+### [romainthomas](https://github.com/romainthomas)
+- 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [pypa/manylinux](https://github.com/pypa/manylinux)
+  > Python wheels that work on any linux (almost)
+
 ### [td512](https://github.com/td512)
 - 🌟 👤 [td512](https://github.com/td512) Starred [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
   > A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and str...
@@ -94,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-27 10:46:19 UTC*
+*Last updated at 2026-04-27 11:38:57 UTC*
 *Historical records are stored in the `archive` directory.*
