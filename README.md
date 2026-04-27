@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [msuhanov/regf](https://github.com/msuhanov/regf)
   > Windows registry file format specification
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
   > x64 PE bin2bin obfuscator which doesn't add a section to the binary
@@ -45,10 +49,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
   > Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, ...
 
-### [dcbuild3r](https://github.com/dcbuild3r)
-- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-  > Skills for Real Engineers. Straight from my .claude directory.
-
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
   > x64 PE bin2bin obfuscator which doesn't add a section to the binary
@@ -56,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [BoredDevNL/BoredOS](https://github.com/BoredDevNL/BoredOS)
   > A modern x86_64 hobbyist operating system built from the ground up.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [browser-use/video-use](https://github.com/browser-use/video-use)
@@ -115,6 +119,28 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context wi...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
   > Turn Claude Code into your offensive security research assistant. Specialized AI subagents for autho...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hakaioffsec/CVE-2026-33725](https://github.com/hakaioffsec/CVE-2026-33725)
+  > Exploit for CVE-2026-33725 - Remote Code Execution and Arbitrary File Read via H2 JDBC INIT Injectio...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [hakaioffsec/CVE-2026-33725](https://github.com/hakaioffsec/CVE-2026-33725) to [killvxk/CVE-2026-33725](https://github.com/killvxk/CVE-2026-33725)
+  > Exploit for CVE-2026-33725 - Remote Code Execution and Arbitrary File Read via H2 JDBC INIT Injectio...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [yaojingang/GEOFlow](https://github.com/yaojingang/GEOFlow)
+  > Open-source GEO content production system with AI tasks, review workflow, and publishing.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit)
+  > DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [boratanrikulu/gecit](https://github.com/boratanrikulu/gecit) to [killvxk/gecit](https://github.com/killvxk/gecit)
+  > DPI bypass tool - eBPF on Linux, TUN on macOS/Windows.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [stainlu/openclaw-managed-agents](https://github.com/stainlu/openclaw-managed-agents)
+  > OpenClaw Managed Agents — the open alternative to Claude Managed Agents & ChatGPT Workspace Agents. ...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming) to [killvxk/Spiritual-Spell-Red-Teaming](https://github.com/killvxk/Spiritual-Spell-Red-Teaming)
+  > A repo for jailbreaking various LLMs, mainly Claude
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [casp3r0x0/CVE-2026-34159](https://github.com/casp3r0x0/CVE-2026-34159)
+  > 0 Click RCE exploit for CVE-2026-34159 Lama.cpp RPC server
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [casp3r0x0/CVE-2026-34159](https://github.com/casp3r0x0/CVE-2026-34159) to [killvxk/CVE-2026-34159](https://github.com/killvxk/CVE-2026-34159)
+  > 0 Click RCE exploit for CVE-2026-34159 Lama.cpp RPC server
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sailay1996/vss-fr2system](https://github.com/sailay1996/vss-fr2system)
+  > test
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [sailay1996/vss-fr2system](https://github.com/sailay1996/vss-fr2system) to [killvxk/vss-fr2system](https://github.com/killvxk/vss-fr2system)
+  > test
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [leanEthereum/leanMultisig](https://github.com/leanEthereum/leanMultisig)
@@ -173,6 +199,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [gijsdev/ublock-hide-yt-shorts](https://github.com/gijsdev/ublock-hide-yt-shorts)
   > uBlock Origin filter list to hide YouTube Shorts
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
 ### [romainthomas](https://github.com/romainthomas)
 - 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [pypa/manylinux](https://github.com/pypa/manylinux)
   > Python wheels that work on any linux (almost)
@@ -205,5 +235,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-27 18:38:27 UTC*
+*Last updated at 2026-04-27 19:37:34 UTC*
 *Historical records are stored in the `archive` directory.*
