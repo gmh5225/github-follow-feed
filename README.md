@@ -49,6 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
   > Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, ...
 
+### [akien-mga](https://github.com/akien-mga)
+- 🌟 👤 [akien-mga](https://github.com/akien-mga) Starred [allenwp/godot-resource-remaps](https://github.com/allenwp/godot-resource-remaps)
+  > Editor export plugin for Godot that allows remapping resources by feature.
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
   > x64 PE bin2bin obfuscator which doesn't add a section to the binary
@@ -244,5 +248,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-27 21:29:14 UTC*
+*Last updated at 2026-04-27 22:24:23 UTC*
 *Historical records are stored in the `archive` directory.*
