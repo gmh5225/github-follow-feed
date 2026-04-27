@@ -8,6 +8,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [facebookexperimental/allocative](https://github.com/facebookexperimental/allocative)
+  > Library and proc macro to analyze memory usage of data structures in rust.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [ArthurHeymans/rflasher](https://github.com/ArthurHeymans/rflasher)
+  > Blazing fast SPI NOR flash programming
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [platform-system-interface/intel_fw](https://github.com/platform-system-interface/intel_fw)
+  > Modern Intel Firmware Tool and Library
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [ShaneBreazeale/rsleigh](https://github.com/ShaneBreazeale/rsleigh)
+  > pure-Rust SLEIGH-driven multi-arch decoder/lifter with an experimental decompiler and malware-analys...
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Andrea-lyz/Scene-Port-Hider-by-eBPF](https://github.com/Andrea-lyz/Scene-Port-Hider-by-eBPF) to [CrackerCat/Scene-Port-Hider-by-eBPF](https://github.com/CrackerCat/Scene-Port-Hider-by-eBPF)
   > 隐藏Scene运行时的端口
@@ -24,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Agent Skills for real engineers. Straight from my .claude directory.
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
@@ -62,6 +80,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Reflective PE loader written in Zig. Loads and executes native and .NET PE files directly from memor...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [president-xd/revula](https://github.com/president-xd/revula)
+  > A fully functional and production-grade reverse engineering MCP Server
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [GGPrompts/my-plugins](https://github.com/GGPrompts/my-plugins)
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [leanEthereum/leanMultisig](https://github.com/leanEthereum/leanMultisig)
@@ -129,8 +150,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [jmamda/OpenTrace](https://github.com/jmamda/OpenTrace)
   > A local reverse proxy that records every LLM request/response to SQLite. No cloud, no data leaving y...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [malfav/MalAPI-Hunter](https://github.com/malfav/MalAPI-Hunter)
+  > MalAPI Hunter is an IDA Pro plugin for static malware analysis that detects, classifies, and highlig...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [nixerr/ida_scripts](https://github.com/nixerr/ida_scripts)
+  > Scripts were written by me
 
 
 ---
-*Last updated at 2026-04-27 14:47:46 UTC*
+*Last updated at 2026-04-27 15:41:59 UTC*
 *Historical records are stored in the `archive` directory.*
