@@ -17,11 +17,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [kanidm/kanidm](https://github.com/kanidm/kanidm)
+  > Kanidm: A simple, secure, and fast identity management platform
+
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [leanEthereum/leanMultisig](https://github.com/leanEthereum/leanMultisig)
+  > Minimal zkVM, targeting aggregation of hash-based signatures.
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
   > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [machinezone/IXWebSocket](https://github.com/machinezone/IXWebSocket)
   > websocket and http client and server library, with TLS support and very few dependencies
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jpillora/sshd-lite](https://github.com/jpillora/sshd-lite)
+  > A feature-light sshd(8) for Windows, Mac, and Linux written in Go
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jpillora/go-tcp-proxy](https://github.com/jpillora/go-tcp-proxy)
+  > A small TCP proxy written in Go
 
 ### [pathtofile](https://github.com/pathtofile)
 - 🍴 👤 [pathtofile](https://github.com/pathtofile) Forked [jtang613/gdb-mcp](https://github.com/jtang613/gdb-mcp) to [pathtofile/gdb-mcp](https://github.com/pathtofile/gdb-mcp)
@@ -43,7 +55,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [tower120/hi_sparse_bitset](https://github.com/tower120/hi_sparse_bitset)
   > Hierarchical sparse bitset
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [jmamda/OpenTrace](https://github.com/jmamda/OpenTrace)
+  > A local reverse proxy that records every LLM request/response to SQLite. No cloud, no data leaving y...
+
 
 ---
-*Last updated at 2026-04-27 07:08:03 UTC*
+*Last updated at 2026-04-27 09:01:25 UTC*
 *Historical records are stored in the `archive` directory.*
