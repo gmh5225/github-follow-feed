@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [imputnet/helium](https://github.com/imputnet/helium)
   > Private, fast, and honest web browser
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)
+  > Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, ...
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
@@ -58,6 +62,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Edit videos with coding agents
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [dirac-run/dirac](https://github.com/dirac-run/dirac)
   > Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs othe...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [timescale/tigerfs](https://github.com/timescale/tigerfs)
+  > Mount PostgreSQL as a filesystem. Build apps with files, explore databases with ls and cat.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
@@ -99,6 +105,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [president-xd/revula](https://github.com/president-xd/revula)
   > A fully functional and production-grade reverse engineering MCP Server
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [GGPrompts/my-plugins](https://github.com/GGPrompts/my-plugins)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [leodido/traffico](https://github.com/leodido/traffico)
+  > Shape your traffic the BPF way
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nteract/desktop](https://github.com/nteract/desktop)
+  > We're back! Now firing notebooks out of a t-shirt gun.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [intentguarddemo/IntentGuardDemo](https://github.com/intentguarddemo/IntentGuardDemo)
+  > IntentGuard Demo
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [graykode/abtop](https://github.com/graykode/abtop)
+  > Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context wi...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
+  > Turn Claude Code into your offensive security research assistant. Specialized AI subagents for autho...
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [leanEthereum/leanMultisig](https://github.com/leanEthereum/leanMultisig)
@@ -107,6 +123,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
@@ -130,6 +150,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mthcht](https://github.com/mthcht)
 - 🍴 👤 [mthcht](https://github.com/mthcht) Forked [merill/microsoft-info](https://github.com/merill/microsoft-info) to [mthcht/microsoft-info](https://github.com/mthcht/microsoft-info)
   > Repository hosting a static list of Microsoft First party apps and Graph permissions that's updated ...
+
+### [noahware](https://github.com/noahware)
+- 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
@@ -181,5 +205,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-27 17:36:20 UTC*
+*Last updated at 2026-04-27 18:38:27 UTC*
 *Historical records are stored in the `archive` directory.*
