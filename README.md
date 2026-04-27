@@ -228,6 +228,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [td512](https://github.com/td512) Starred [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
   > A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and str...
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [0xagentkitchen/CookTap](https://github.com/0xagentkitchen/CookTap)
+  > Terminal Typing Game while AI Agents Cook
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [maillab/cloud-mail](https://github.com/maillab/cloud-mail)
   > A Cloudflare-based email service  | 基于 Cloudflare 的邮箱服务  | Cloudflare Email 邮箱 Mail
@@ -246,7 +250,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit)
   > Your feedback loop with the agent
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye)
+  >   Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symboli...
+
 
 ---
-*Last updated at 2026-04-27 22:24:23 UTC*
+*Last updated at 2026-04-27 23:25:24 UTC*
 *Historical records are stored in the `archive` directory.*
