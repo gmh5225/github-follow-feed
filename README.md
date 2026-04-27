@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
+  > The open source coding agent.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Andrea-lyz/Scene-Port-Hider-by-eBPF](https://github.com/Andrea-lyz/Scene-Port-Hider-by-eBPF) to [CrackerCat/Scene-Port-Hider-by-eBPF](https://github.com/CrackerCat/Scene-Port-Hider-by-eBPF)
   > 隐藏Scene运行时的端口
@@ -17,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
   > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Agent Skills for real engineers. Straight from my .claude directory.
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
@@ -26,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [kanidm/kanidm](https://github.com/kanidm/kanidm)
   > Kanidm: A simple, secure, and fast identity management platform
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [mrexodia/binsync](https://github.com/mrexodia/binsync)
+  > A reversing plugin for cross-decompiler collaboration, built on git. 
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [Swival/security-audits](https://github.com/Swival/security-audits)
@@ -72,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/binsync](https://github.com/binsync/binsync) to [mrexodia/binsync](https://github.com/mrexodia/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
 
+### [mthcht](https://github.com/mthcht)
+- 🍴 👤 [mthcht](https://github.com/mthcht) Forked [merill/microsoft-info](https://github.com/merill/microsoft-info) to [mthcht/microsoft-info](https://github.com/mthcht/microsoft-info)
+  > Repository hosting a static list of Microsoft First party apps and Graph permissions that's updated ...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
   > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
@@ -94,6 +110,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [romainthomas](https://github.com/romainthomas) Starred [pypa/manylinux](https://github.com/pypa/manylinux)
   > Python wheels that work on any linux (almost)
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [therealcoiffeur/GhostReconRev](https://github.com/therealcoiffeur/GhostReconRev)
+  > Complete revamp of GhostRecon and FrontRecon into a single pipeline boosted by AI and DAST tools.
+
 ### [td512](https://github.com/td512)
 - 🌟 👤 [td512](https://github.com/td512) Starred [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg)
   > A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and str...
@@ -112,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-27 11:38:57 UTC*
+*Last updated at 2026-04-27 12:46:13 UTC*
 *Historical records are stored in the `archive` directory.*
