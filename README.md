@@ -49,9 +49,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
   > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [BoredDevNL/BoredOS](https://github.com/BoredDevNL/BoredOS)
+  > A modern x86_64 hobbyist operating system built from the ground up.
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [browser-use/video-use](https://github.com/browser-use/video-use)
   > Edit videos with coding agents
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [dirac-run/dirac](https://github.com/dirac-run/dirac)
+  > Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs othe...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
@@ -102,6 +108,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > Coding Agent Harness
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [changliu98/manifold](https://github.com/changliu98/manifold)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s-arash/ascent](https://github.com/s-arash/ascent)
@@ -114,6 +124,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Convert Nintendo Switch executable files to ELFs
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/binsync](https://github.com/binsync/binsync) to [mrexodia/binsync](https://github.com/mrexodia/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
 
 ### [mthcht](https://github.com/mthcht)
 - 🍴 👤 [mthcht](https://github.com/mthcht) Forked [merill/microsoft-info](https://github.com/merill/microsoft-info) to [mthcht/microsoft-info](https://github.com/mthcht/microsoft-info)
@@ -169,5 +181,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-27 16:40:42 UTC*
+*Last updated at 2026-04-27 17:36:20 UTC*
 *Historical records are stored in the `archive` directory.*
