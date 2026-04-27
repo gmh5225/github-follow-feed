@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NaC-L](https://github.com/NaC-L) Starred [unrustled-jimmies/CodeDefenderAnalysis](https://github.com/unrustled-jimmies/CodeDefenderAnalysis)
   > An analysis and static deobfuscation of codedefender.io protected samples. 
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)
+  > Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
@@ -21,9 +25,38 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [kanidm/kanidm](https://github.com/kanidm/kanidm)
   > Kanidm: A simple, secure, and fast identity management platform
 
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [Swival/security-audits](https://github.com/Swival/security-audits)
+  > Reports from automated security audits made by Swival.
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DeepBitsTechnology/claude-plugins](https://github.com/DeepBitsTechnology/claude-plugins)
+  > This project  equips Claude Code with advanced binary analysis capabilities for tasks such as incide...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [enki-kr/CVE-2026-32223-USBPrint-Exploit](https://github.com/enki-kr/CVE-2026-32223-USBPrint-Exploit)
+  > Proof-of-Concept exploit for CVE-2026-32223
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kpolley/redai](https://github.com/kpolley/redai)
+  > AI-driven vulnerability discovery and live validation
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [enki-kr/CVE-2026-32223-USBPrint-Exploit](https://github.com/enki-kr/CVE-2026-32223-USBPrint-Exploit) to [killvxk/CVE-2026-32223-USBPrint-Exploit](https://github.com/killvxk/CVE-2026-32223-USBPrint-Exploit)
+  > Proof-of-Concept exploit for CVE-2026-32223
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [leanEthereum/leanMultisig](https://github.com/leanEthereum/leanMultisig)
   > Minimal zkVM, targeting aggregation of hash-based signatures.
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Agent Skills for real engineers. Straight from my .claude directory.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [changliu98/manifold](https://github.com/changliu98/manifold)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s-arash/ascent](https://github.com/s-arash/ascent)
+  > Logic programming in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sherif-fanous/pi-rtk](https://github.com/sherif-fanous/pi-rtk)
+  > Pi coding agent extension that routes bash commands through rtk for LLM token savings.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shuffle2/nx2elf](https://github.com/shuffle2/nx2elf)
+  > Convert Nintendo Switch executable files to ELFs
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
@@ -61,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-27 09:01:25 UTC*
+*Last updated at 2026-04-27 10:46:19 UTC*
 *Historical records are stored in the `archive` directory.*
