@@ -22,6 +22,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [char](https://github.com/char) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
   > A JavaScript implementation of a web browser without its graphical user interface
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [jeremytregunna/foldb](https://github.com/jeremytregunna/foldb)
+  > The database that is a log, and all operations are `fold(log)`.
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)
+  > Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
   > All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Expl...
@@ -32,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 05:15:41 UTC*
+*Last updated at 2026-04-28 07:07:34 UTC*
 *Historical records are stored in the `archive` directory.*
