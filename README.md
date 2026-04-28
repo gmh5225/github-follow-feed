@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye) to [classic130/DrvEye](https://github.com/classic130/DrvEye)
   >   Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symboli...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [eliben/watgo](https://github.com/eliben/watgo)
+  > WebAssembly Toolkit for Go
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [jeremytregunna/foldb](https://github.com/jeremytregunna/foldb)
   > The database that is a log, and all operations are `fold(log)`.
@@ -41,6 +45,30 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [F2u0a0d3/goodboy-framework](https://github.com/F2u0a0d3/goodboy-framework)
+  > 15-stage Windows malware development & analysis course in Rust. Red team builds it, blue team detect...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [F2u0a0d3/goodboy-framework](https://github.com/F2u0a0d3/goodboy-framework) to [killvxk/goodboy-framework](https://github.com/killvxk/goodboy-framework)
+  > 15-stage Windows malware development & analysis course in Rust. Red team builds it, blue team detect...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [i014n/RightHand-Persistence](https://github.com/i014n/RightHand-Persistence)
+  > COM Windows Persistence Technique
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [codexstar69/bug-hunter](https://github.com/codexstar69/bug-hunter)
+  > Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+  > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sigcli/sigcli](https://github.com/sigcli/sigcli)
+  > The authentication CLI & Proxy for AI agents. Give agents access, not your credentials.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tim-hub/powerball-harness](https://github.com/tim-hub/powerball-harness)
+  > A claude code harness flow, autonomous Plan→Work→Review Cycle 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [val1813/kaiwu](https://github.com/val1813/kaiwu)
+  > 本地开源模型部署器，一键部署，支持各类系统，主流模型。
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Waariss/OblivionToken](https://github.com/Waariss/OblivionToken)
+  > M365 Conditional Access Policy Bypass OST (Offensive Tooling)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Azure/Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
+  > Cloud-native SIEM for intelligent security analytics for your entire enterprise.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [BaddKharma/redStack](https://github.com/BaddKharma/redStack)
+  > Boot-to-Breach red team lab on AWS. Mythic, Sliver, and Havoc C2 behind a production-style Apache re...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [boku7/venom](https://github.com/boku7/venom)
+  > Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
@@ -55,11 +83,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [libnet/nemesis](https://github.com/libnet/nemesis)
   > A command-line network packet crafting and injection utility
 
+### [reveny](https://github.com/reveny)
+- 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Habit-Tracker](https://github.com/reveny/Android-Habit-Tracker) public
+  > A minimalist Android habit tracker app
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
   > A headless MCP server for IDA Pro 9+
 
 
 ---
-*Last updated at 2026-04-28 09:00:24 UTC*
+*Last updated at 2026-04-28 10:47:52 UTC*
 *Historical records are stored in the `archive` directory.*
