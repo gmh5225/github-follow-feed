@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [KeServiceDescriptorTable/vulnerable-drivers](https://github.com/KeServiceDescriptorTable/vulnerable-drivers)
   > vulnerable drivers for windows machines.
 
+### [brockelmore](https://github.com/brockelmore)
+- 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lab-401/icopy-x](https://github.com/lab-401/icopy-x)
   > iCopy-X Open Source UI & Firmware
@@ -37,6 +41,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye) to [classic130/DrvEye](https://github.com/classic130/DrvEye)
   >   Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symboli...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [atheonxyz/verity](https://github.com/atheonxyz/verity)
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [0x11DFE/file-unpumper](https://github.com/0x11DFE/file-unpumper)
   > Tool that can be used to trim useless things from a PE file such as the things a file pumper would a...
@@ -46,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [siderolabs/talos](https://github.com/siderolabs/talos)
   > Talos Linux is a modern Linux distribution built for Kubernetes.
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
+  > Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 language...
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [eliben/watgo](https://github.com/eliben/watgo)
@@ -131,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 16:44:32 UTC*
+*Last updated at 2026-04-28 17:39:24 UTC*
 *Historical records are stored in the `archive` directory.*
