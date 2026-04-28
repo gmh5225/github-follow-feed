@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [0x11DFE/file-unpumper](https://github.com/0x11DFE/file-unpumper) to [enovella/file-unpumper](https://github.com/enovella/file-unpumper)
   > Tool that can be used to trim useless things from a PE file such as the things a file pumper would a...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [siderolabs/talos](https://github.com/siderolabs/talos)
+  > Talos Linux is a modern Linux distribution built for Kubernetes.
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [eliben/watgo](https://github.com/eliben/watgo)
   > WebAssembly Toolkit for Go
@@ -98,6 +102,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [markoglasgow/gemma_crackme_tutorial](https://github.com/markoglasgow/gemma_crackme_tutorial)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eshard/TTA-CTF](https://github.com/eshard/TTA-CTF)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/libbs](https://github.com/binsync/libbs) to [mrexodia/libbs](https://github.com/mrexodia/libbs)
   > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
 
@@ -120,5 +125,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 15:00:08 UTC*
+*Last updated at 2026-04-28 15:56:26 UTC*
 *Historical records are stored in the `archive` directory.*
