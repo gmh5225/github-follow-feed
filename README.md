@@ -25,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lab-401/icopy-x](https://github.com/lab-401/icopy-x)
   > iCopy-X Open Source UI & Firmware
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
@@ -114,6 +116,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Habit-Tracker](https://github.com/reveny/Android-Habit-Tracker) public
   > A minimalist Android habit tracker app
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [deeleeramone/PyWry](https://github.com/deeleeramone/PyWry)
+  > PyWry is a cross-platform app factory, rendering engine and UI toolkit for Python that produces nati...
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [anomalyco/opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
@@ -125,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 15:56:26 UTC*
+*Last updated at 2026-04-28 16:44:32 UTC*
 *Historical records are stored in the `archive` directory.*
