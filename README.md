@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [KeServiceDescriptorTable/vulnerable-drivers](https://github.com/KeServiceDescriptorTable/vulnerable-drivers)
   > vulnerable drivers for windows machines.
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lab-401/icopy-x](https://github.com/lab-401/icopy-x)
+  > iCopy-X Open Source UI & Firmware
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
   > A JavaScript implementation of a web browser without its graphical user interface
@@ -31,9 +35,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye) to [classic130/DrvEye](https://github.com/classic130/DrvEye)
   >   Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symboli...
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [0x11DFE/file-unpumper](https://github.com/0x11DFE/file-unpumper)
+  > Tool that can be used to trim useless things from a PE file such as the things a file pumper would a...
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [0x11DFE/file-unpumper](https://github.com/0x11DFE/file-unpumper) to [enovella/file-unpumper](https://github.com/enovella/file-unpumper)
+  > Tool that can be used to trim useless things from a PE file such as the things a file pumper would a...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [eliben/watgo](https://github.com/eliben/watgo)
   > WebAssembly Toolkit for Go
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [rayobyte-data/rayobrowse](https://github.com/rayobyte-data/rayobrowse)
+  > Stealth Chromium browser for large-scale web scraping.
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [jeremytregunna/foldb](https://github.com/jeremytregunna/foldb)
@@ -46,6 +60,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
   > All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Expl...
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
+  > Open-Source Frontier Voice AI
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills)
@@ -82,6 +98,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [markoglasgow/gemma_crackme_tutorial](https://github.com/markoglasgow/gemma_crackme_tutorial)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/libbs](https://github.com/binsync/libbs) to [mrexodia/libbs](https://github.com/mrexodia/libbs)
+  > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [libnet/nemesis](https://github.com/libnet/nemesis)
@@ -102,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 12:49:08 UTC*
+*Last updated at 2026-04-28 15:00:08 UTC*
 *Historical records are stored in the `archive` directory.*
