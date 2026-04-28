@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr0a3](https://github.com/Cr0a3)
+- 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
+  > ALL IN ONE Hacking Tool For Hackers
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WsttXm/RiskEngine](https://github.com/WsttXm/RiskEngine) to [CrackerCat/RiskEngine](https://github.com/CrackerCat/RiskEngine)
   > A mobile security risk control solution including an SDK and a management platform.
@@ -13,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ARM64 ELF static GOT hook patcher - pure C shellcode, config-driven, ASLR-safe
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NativeStar/js-hooker](https://github.com/NativeStar/js-hooker) to [CrackerCat/js-hooker](https://github.com/CrackerCat/js-hooker)
   > 一个轻量、简洁的 适用于浏览器环境的JavaScript Hook库 A lightweight JavaScript hooking library for browser environments
+
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+  > A JavaScript implementation of a web browser without its graphical user interface
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts)
@@ -24,5 +32,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 03:17:34 UTC*
+*Last updated at 2026-04-28 05:15:41 UTC*
 *Historical records are stored in the `archive` directory.*
