@@ -35,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > iCopy-X Open Source UI & Firmware
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
   > Warp is an agentic development environment, born out of the terminal.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [verona-team/verona-atlas](https://github.com/verona-team/verona-atlas)
+  > Verona bug bashes your product like a human
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [droneforge/nimbus_sdk](https://github.com/droneforge/nimbus_sdk)
+  > The Official Nimbus SDK 
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
@@ -138,6 +142,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [libnet/nemesis](https://github.com/libnet/nemesis)
   > A command-line network packet crafting and injection utility
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+  > 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI...
+
 ### [reveny](https://github.com/reveny)
 - 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Habit-Tracker](https://github.com/reveny/Android-Habit-Tracker) public
   > A minimalist Android habit tracker app
@@ -145,6 +153,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [deeleeramone/PyWry](https://github.com/deeleeramone/PyWry)
   > PyWry is a cross-platform app factory, rendering engine and UI toolkit for Python that produces nati...
+
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [brunoborges/ghx](https://github.com/brunoborges/ghx)
+  > GitHub CLI Cache Proxy. Caching daemon for the gh CLI to prevent API rate limiting.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [anomalyco/opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python)
@@ -161,5 +173,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 20:36:17 UTC*
+*Last updated at 2026-04-28 21:30:26 UTC*
 *Historical records are stored in the `archive` directory.*
