@@ -49,6 +49,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Git hooks made easy 🐶 woof!
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn)
   > Work seamlessly with partial mocks in TypeScript.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit)
+  > A framework for managing and maintaining multi-language pre-commit hooks.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks)
+  > Some out-of-the-box hooks for pre-commit
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit)
+  > A pre-commit hook for Ruff.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [biomejs/pre-commit](https://github.com/biomejs/pre-commit)
+  > Biome's pre-commit hooks. 
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rhysd/actionlint](https://github.com/rhysd/actionlint)
+  > :octocat: Static checker for GitHub Actions workflow files
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged)
+  > 🚫💩 — Run tasks like formatters and linters against staged git files
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [facebook/flow](https://github.com/facebook/flow)
+  > Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
@@ -103,6 +117,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Expl...
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
   > Open-Source Frontier Voice AI
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [entropylost/amitabha](https://github.com/entropylost/amitabha)
+  > Reference implementation of Holographic Radiance Cascades
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [vibeshotclub/vsc-skills](https://github.com/vibeshotclub/vsc-skills)
@@ -141,12 +157,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, Ope...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [codexstar69/bug-hunter](https://github.com/codexstar69/bug-hunter)
   > Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus)
+  > Put up to 8 AI models on every coding task — blind spots surface before you ship. Claude Code plugin...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [markoglasgow/gemma_crackme_tutorial](https://github.com/markoglasgow/gemma_crackme_tutorial)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eshard/TTA-CTF](https://github.com/eshard/TTA-CTF)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsync/libbs](https://github.com/binsync/libbs) to [mrexodia/libbs](https://github.com/mrexodia/libbs)
   > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [r3bb1t/llvmkit](https://github.com/r3bb1t/llvmkit)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [libnet/nemesis](https://github.com/libnet/nemesis)
@@ -185,5 +204,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 22:27:02 UTC*
+*Last updated at 2026-04-28 23:25:44 UTC*
 *Historical records are stored in the `archive` directory.*
