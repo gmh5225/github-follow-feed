@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [sumant1122/Nucleus](https://github.com/sumant1122/Nucleus)
+  > A high-performance, minimalistic container engine in Rust.
+
 ### [Cr0a3](https://github.com/Cr0a3)
 - 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool)
   > ALL IN ONE Hacking Tool For Hackers
@@ -39,7 +43,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [klsecservices/PhantomRPC](https://github.com/klsecservices/PhantomRPC) to [classic130/PhantomRPC](https://github.com/classic130/PhantomRPC)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye) to [classic130/DrvEye](https://github.com/classic130/DrvEye)
-  >   Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symboli...
+  > Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic ...
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [atheonxyz/verity](https://github.com/atheonxyz/verity)
@@ -113,6 +117,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [boku7/venom](https://github.com/boku7/venom)
   > Venom C2 is a dependency‑free Python3 Command & Control framework for redteam persistence
 
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [davidjefferies-stellar/exile-cpp](https://github.com/davidjefferies-stellar/exile-cpp)
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
   > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
@@ -154,5 +161,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 19:38:16 UTC*
+*Last updated at 2026-04-28 20:36:17 UTC*
 *Historical records are stored in the `archive` directory.*
