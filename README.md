@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [KeServiceDescriptorTable/vulnerable-drivers](https://github.com/KeServiceDescriptorTable/vulnerable-drivers)
   > vulnerable drivers for windows machines.
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [Jitendex/Jitendex](https://github.com/Jitendex/Jitendex)
+  > A free, offline, and openly licensed Japanese-to-English dictionary. Updates monthly!
+
 ### [brockelmore](https://github.com/brockelmore)
 - 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
   > Warp is an agentic development environment, born out of the terminal.
@@ -39,6 +43,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Verona bug bashes your product like a human
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [droneforge/nimbus_sdk](https://github.com/droneforge/nimbus_sdk)
   > The Official Nimbus SDK 
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [typicode/husky](https://github.com/typicode/husky)
+  > Git hooks made easy 🐶 woof!
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [total-typescript/shoehorn](https://github.com/total-typescript/shoehorn)
+  > Work seamlessly with partial mocks in TypeScript.
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
@@ -162,6 +172,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [anomalyco/opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
   > A collection of 100+ specialized Claude Code subagents covering a wide range of development use case...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
 
 ### [void-stack](https://github.com/void-stack)
 - 🌟 👤 [void-stack](https://github.com/void-stack) Starred [m-bain/whisperX](https://github.com/m-bain/whisperX)
@@ -173,5 +185,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 21:30:26 UTC*
+*Last updated at 2026-04-28 22:27:02 UTC*
 *Historical records are stored in the `archive` directory.*
