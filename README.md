@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NativeStar/js-hooker](https://github.com/NativeStar/js-hooker) to [CrackerCat/js-hooker](https://github.com/CrackerCat/js-hooker)
   > 一个轻量、简洁的 适用于浏览器环境的JavaScript Hook库 A lightweight JavaScript hooking library for browser environments
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [KeServiceDescriptorTable/vulnerable-drivers](https://github.com/KeServiceDescriptorTable/vulnerable-drivers)
+  > vulnerable drivers for windows machines.
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
   > A JavaScript implementation of a web browser without its graphical user interface
@@ -89,6 +93,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [anomalyco/opencode-sdk-python](https://github.com/anomalyco/opencode-sdk-python)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
+  > A collection of 100+ specialized Claude Code subagents covering a wide range of development use case...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
@@ -96,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-28 11:39:39 UTC*
+*Last updated at 2026-04-28 12:49:08 UTC*
 *Historical records are stored in the `archive` directory.*
