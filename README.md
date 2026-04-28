@@ -46,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
   > Warp is an agentic development environment, born out of the terminal.
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🚀 👤 [dtcxzyw](https://github.com/dtcxzyw) Made [dtcxzyw/agent-detector](https://github.com/dtcxzyw/agent-detector) public
+  > An agent detector for Rust CLI applications
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [0x11DFE/file-unpumper](https://github.com/0x11DFE/file-unpumper)
   > Tool that can be used to trim useless things from a PE file such as the things a file pumper would a...
@@ -114,6 +118,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
   > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, Ope...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [codexstar69/bug-hunter](https://github.com/codexstar69/bug-hunter)
+  > Adversarial AI bug hunter with auto-fix skill for Claude Code, Cursor, Codex CLI, GitHub Copilot CLI...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [markoglasgow/gemma_crackme_tutorial](https://github.com/markoglasgow/gemma_crackme_tutorial)
@@ -138,11 +144,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
   > A collection of 100+ specialized Claude Code subagents covering a wide range of development use case...
 
+### [void-stack](https://github.com/void-stack)
+- 🌟 👤 [void-stack](https://github.com/void-stack) Starred [m-bain/whisperX](https://github.com/m-bain/whisperX)
+  > WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [jtsylve/ida-mcp](https://github.com/jtsylve/ida-mcp)
   > A headless MCP server for IDA Pro 9+
 
 
 ---
-*Last updated at 2026-04-28 18:42:32 UTC*
+*Last updated at 2026-04-28 19:38:16 UTC*
 *Historical records are stored in the `archive` directory.*
