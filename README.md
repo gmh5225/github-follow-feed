@@ -124,6 +124,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP)
   > ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [cursor/cookbook](https://github.com/cursor/cookbook)
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [remorses/kimaki](https://github.com/remorses/kimaki)
   > all opencode features deeply integrated inside Discord. each project is a channel. each session a th...
@@ -146,5 +149,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 19:38:31 UTC*
+*Last updated at 2026-04-29 20:33:32 UTC*
 *Historical records are stored in the `archive` directory.*
