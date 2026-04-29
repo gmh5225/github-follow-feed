@@ -50,6 +50,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [carlovalenti/TRiP](https://github.com/carlovalenti/TRiP)
   > A complete transformer engine in C — inference, training, chat, vision.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [hchenqi/ViewDesign](https://github.com/hchenqi/ViewDesign)
+  > A C++ GUI library
 
 ### [fotoroshi](https://github.com/fotoroshi)
 - 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
@@ -127,5 +129,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 15:47:14 UTC*
+*Last updated at 2026-04-29 16:40:37 UTC*
 *Historical records are stored in the `archive` directory.*
