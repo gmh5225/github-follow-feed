@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xisk](https://github.com/0xisk)
+- 🍴 👤 [0xisk](https://github.com/0xisk) Forked [input-output-hk/lace](https://github.com/input-output-hk/lace) to [0xisk/lace](https://github.com/0xisk/lace)
+  > The Lace Wallet.
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye)
   > Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic ...
@@ -16,6 +20,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [LongWayHomie/PolyEngine](https://github.com/LongWayHomie/PolyEngine)
   > PolyEngine is an evasive PE packer designed for CTF challenges and low-level Windows security educat...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/msquic](https://github.com/microsoft/msquic)
+  > Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
@@ -33,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Th3Spl/IoCreateDriver](https://github.com/Th3Spl/IoCreateDriver) to [classic130/IoCreateDriver](https://github.com/classic130/IoCreateDriver)
   > IoCreateDriver Implementation, it can be useful if you're trying to bypass anticheats
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [plankevm/plank-monorepo](https://github.com/plankevm/plank-monorepo)
+  > The home of the Plank Compiler and Sensei IR, its language agnostic EVM IR & backend.
+
 ### [dretax](https://github.com/dretax)
 - 🌟 👤 [dretax](https://github.com/dretax) Starred [3F/netfx4sdk](https://github.com/3F/netfx4sdk)
   > Developer Packs (SDKs) NETFX 4.X+ Visual Studio / MSBuild / other modern tools
@@ -45,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
   > Warp is an agentic development environment, born out of the terminal.
 
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [CachyOS/copr-linux-cachyos](https://github.com/CachyOS/copr-linux-cachyos) to [funkemunky/copr-linux-cachyos](https://github.com/funkemunky/copr-linux-cachyos)
+  > CachyOS Packages for Fedora
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk)
   > 3D BIM IFC Viewer SDK for AEC engineering applications. Open Source JavaScript Toolkit based on pure...
@@ -56,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mitsuhiko/pi-draw](https://github.com/mitsuhiko/pi-draw)
   > For when you want to draw something for the clanker
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mweidner037/articulated](https://github.com/mweidner037/articulated)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tldraw/tldraw](https://github.com/tldraw/tldraw)
+  > very good whiteboard infinite canvas SDK
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
+  > Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent typ...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SeraphimSerapis/vllm-tune](https://github.com/SeraphimSerapis/vllm-tune)
@@ -68,6 +86,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill)
+  > The windbg skill gives AI the ability to execute WinDbg commands. Typical use cases include kernel d...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [plankevm/plank-monorepo](https://github.com/plankevm/plank-monorepo)
@@ -99,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 13:41:11 UTC*
+*Last updated at 2026-04-29 14:53:20 UTC*
 *Historical records are stored in the `archive` directory.*
