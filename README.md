@@ -12,6 +12,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) to [CrackerCat/ai-mobile-reverse-skills](https://github.com/CrackerCat/ai-mobile-reverse-skills)
   > 面向移动安全分析场景的 6 阶段总控 Skill。用于统一调度 APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付流程。支持 JADX MCP、Burp/...
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [LongWayHomie/PolyEngine](https://github.com/LongWayHomie/PolyEngine)
+  > PolyEngine is an evasive PE packer designed for CTF challenges and low-level Windows security educat...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
+  > 🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bas...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [safishamsi/graphify](https://github.com/safishamsi/graphify)
+  > AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, Ope...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
+  > Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
+  > Free, simple, fast interactive diagrams for any GitHub repository
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [petgraph/petgraph](https://github.com/petgraph/petgraph)
+  > Graph data structure library for Rust.
+
 ### [dretax](https://github.com/dretax)
 - 🌟 👤 [dretax](https://github.com/dretax) Starred [3F/netfx4sdk](https://github.com/3F/netfx4sdk)
   > Developer Packs (SDKs) NETFX 4.X+ Visual Studio / MSBuild / other modern tools
@@ -32,6 +48,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > For when you want to draw something for the clanker
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mweidner037/articulated](https://github.com/mweidner037/articulated)
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SeraphimSerapis/vllm-tune](https://github.com/SeraphimSerapis/vllm-tune)
+  > vLLM Tune consolidates MoE and FP8 dense GEMM kernel tuning into a single command
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [plankevm/plank-monorepo](https://github.com/plankevm/plank-monorepo)
+  > The home of the Plank Compiler and Sensei IR, its language agnostic EVM IR & backend.
+
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
@@ -45,8 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
   > Turn Claude Code into your offensive security research assistant. Specialized AI subagents for autho...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
 
 
 ---
-*Last updated at 2026-04-29 07:02:13 UTC*
+*Last updated at 2026-04-29 08:56:09 UTC*
 *Historical records are stored in the `archive` directory.*
