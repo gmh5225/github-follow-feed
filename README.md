@@ -86,6 +86,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA)
+  > high-performance linear attention kernel library built on TileLang
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill)
@@ -107,6 +109,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [remorses/kimaki](https://github.com/remorses/kimaki)
   > all opencode features deeply integrated inside Discord. each project is a channel. each session a th...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [imnotcha0s/mips_call_analyzer](https://github.com/imnotcha0s/mips_call_analyzer)
+  > IDA Pro 9 Plugin for tracing function calls and its arguments
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bjn7/passkeyd](https://github.com/bjn7/passkeyd)
   > An Opinionated WebAuthn Authenticator Backed by a TPM
@@ -121,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 14:53:20 UTC*
+*Last updated at 2026-04-29 15:47:14 UTC*
 *Historical records are stored in the `archive` directory.*
