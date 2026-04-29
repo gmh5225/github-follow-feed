@@ -104,6 +104,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA)
   > high-performance linear attention kernel library built on TileLang
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim)
+  > Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament)
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [OAuthSentry/oauthsentry.github.io](https://github.com/OAuthSentry/oauthsentry.github.io)
@@ -126,6 +129,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [steipete](https://github.com/steipete)
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [cursor/cookbook](https://github.com/cursor/cookbook)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [gajus/global-agent](https://github.com/gajus/global-agent)
+  > Global HTTP/HTTPS proxy agent configurable using environment variables.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [remorses/kimaki](https://github.com/remorses/kimaki)
@@ -149,5 +154,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 20:33:32 UTC*
+*Last updated at 2026-04-29 21:30:39 UTC*
 *Historical records are stored in the `archive` directory.*
