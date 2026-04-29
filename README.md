@@ -27,8 +27,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bjn7/passkeyd](https://github.com/bjn7/passkeyd)
   > An Opinionated WebAuthn Authenticator Backed by a TPM
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement)
+  > 二创爆改，懒得提交给原仓库了
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [0xSteph/pentest-ai-agents](https://github.com/0xSteph/pentest-ai-agents)
+  > Turn Claude Code into your offensive security research assistant. Specialized AI subagents for autho...
 
 
 ---
-*Last updated at 2026-04-29 03:17:36 UTC*
+*Last updated at 2026-04-29 05:13:27 UTC*
 *Historical records are stored in the `archive` directory.*
