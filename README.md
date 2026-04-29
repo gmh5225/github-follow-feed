@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [0xisk](https://github.com/0xisk) Forked [input-output-hk/lace](https://github.com/input-output-hk/lace) to [0xisk/lace](https://github.com/0xisk/lace)
   > The Lace Wallet.
 
+### [Cr0a3](https://github.com/Cr0a3)
+- 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+  > Metasploit Framework
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye)
   > Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic ...
@@ -76,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > very good whiteboard infinite canvas SDK
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents)
   > Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent typ...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/ungoogled-chromium-mpp](https://github.com/tempoxyz/ungoogled-chromium-mpp)
+  > Google Chromium, sans integration with Google, plus MPP
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SeraphimSerapis/vllm-tune](https://github.com/SeraphimSerapis/vllm-tune)
@@ -90,6 +96,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QwenLM/FlashQLA](https://github.com/QwenLM/FlashQLA)
   > high-performance linear attention kernel library built on TileLang
+
+### [mthcht](https://github.com/mthcht)
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [OAuthSentry/oauthsentry.github.io](https://github.com/OAuthSentry/oauthsentry.github.io)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill)
@@ -129,5 +138,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 16:40:37 UTC*
+*Last updated at 2026-04-29 17:38:25 UTC*
 *Historical records are stored in the `archive` directory.*
