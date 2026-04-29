@@ -11,6 +11,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) to [CrackerCat/ai-mobile-reverse-skills](https://github.com/CrackerCat/ai-mobile-reverse-skills)
   > 面向移动安全分析场景的 6 阶段总控 Skill。用于统一调度 APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付流程。支持 JADX MCP、Burp/...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Mengz3/Hookers](https://github.com/Mengz3/Hookers) to [CrackerCat/Hookers](https://github.com/CrackerCat/Hookers)
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [LongWayHomie/PolyEngine](https://github.com/LongWayHomie/PolyEngine)
@@ -27,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Free, simple, fast interactive diagrams for any GitHub repository
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [petgraph/petgraph](https://github.com/petgraph/petgraph)
   > Graph data structure library for Rust.
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Th3Spl/IoCreateDriver](https://github.com/Th3Spl/IoCreateDriver) to [classic130/IoCreateDriver](https://github.com/classic130/IoCreateDriver)
+  > IoCreateDriver Implementation, it can be useful if you're trying to bypass anticheats
 
 ### [dretax](https://github.com/dretax)
 - 🌟 👤 [dretax](https://github.com/dretax) Starred [3F/netfx4sdk](https://github.com/3F/netfx4sdk)
@@ -52,6 +57,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SeraphimSerapis/vllm-tune](https://github.com/SeraphimSerapis/vllm-tune)
   > vLLM Tune consolidates MoE and FP8 dense GEMM kernel tuning into a single command
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
+  > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [plankevm/plank-monorepo](https://github.com/plankevm/plank-monorepo)
   > The home of the Plank Compiler and Sensei IR, its language agnostic EVM IR & backend.
@@ -74,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 08:56:09 UTC*
+*Last updated at 2026-04-29 09:50:18 UTC*
 *Historical records are stored in the `archive` directory.*
