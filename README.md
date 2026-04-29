@@ -107,6 +107,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tencent/AngelSlim](https://github.com/Tencent/AngelSlim)
   > Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FeSens/auto-arch-tournament](https://github.com/FeSens/auto-arch-tournament)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marizperoj/mps-talkie](https://github.com/marizperoj/mps-talkie)
+  > Apple MPS-only inference for Talkie 13B
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [OAuthSentry/oauthsentry.github.io](https://github.com/OAuthSentry/oauthsentry.github.io)
@@ -154,5 +156,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 21:30:39 UTC*
+*Last updated at 2026-04-29 22:26:47 UTC*
 *Historical records are stored in the `archive` directory.*
