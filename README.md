@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 面向移动安全分析场景的 6 阶段总控 Skill。用于统一调度 APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付流程。支持 JADX MCP、Burp/...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Mengz3/Hookers](https://github.com/Mengz3/Hookers) to [CrackerCat/Hookers](https://github.com/CrackerCat/Hookers)
 
+### [DavidXanatos](https://github.com/DavidXanatos)
+- 🍴 👤 [DavidXanatos](https://github.com/DavidXanatos) Forked [tandasat/SimpleSvm](https://github.com/tandasat/SimpleSvm) to [Useful-Stuff/SimpleSvm](https://github.com/Useful-Stuff/SimpleSvm)
+  > A minimalistic educational hypervisor for Windows on AMD processors.
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [LongWayHomie/PolyEngine](https://github.com/LongWayHomie/PolyEngine)
   > PolyEngine is an evasive PE packer designed for CTF challenges and low-level Windows security educat...
@@ -87,6 +91,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SeraphimSerapis/vllm-tune](https://github.com/SeraphimSerapis/vllm-tune)
   > vLLM Tune consolidates MoE and FP8 dense GEMM kernel tuning into a single command
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+  > TradingAgents: Multi-Agents LLM Financial Trading Framework
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [westfox-5/GhidraMetrics](https://github.com/westfox-5/GhidraMetrics)
   > A Ghidra plugin for native code metrics
@@ -138,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 18:41:05 UTC*
+*Last updated at 2026-04-29 19:38:31 UTC*
 *Historical records are stored in the `archive` directory.*
