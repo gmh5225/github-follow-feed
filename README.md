@@ -37,6 +37,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dretax](https://github.com/dretax) Starred [3F/netfx4sdk](https://github.com/3F/netfx4sdk)
   > Developer Packs (SDKs) NETFX 4.X+ Visual Studio / MSBuild / other modern tools
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [carlovalenti/TRiP](https://github.com/carlovalenti/TRiP)
+  > A complete transformer engine in C — inference, training, chat, vision.
+
 ### [fotoroshi](https://github.com/fotoroshi)
 - 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
   > Warp is an agentic development environment, born out of the terminal.
@@ -73,9 +77,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
-  > Warp is an agentic development environment, born out of the terminal.
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [hery-torrado/KernelESP](https://github.com/hery-torrado/KernelESP)
+  > ESP8266 UNIX-like control system with serial shell, web UI, automation, mail alerts and diagnostics
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [remorses/kimaki](https://github.com/remorses/kimaki)
+  > all opencode features deeply integrated inside Discord. each project is a channel. each session a th...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bjn7/passkeyd](https://github.com/bjn7/passkeyd)
@@ -91,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 11:37:13 UTC*
+*Last updated at 2026-04-29 12:46:11 UTC*
 *Historical records are stored in the `archive` directory.*
