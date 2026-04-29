@@ -57,6 +57,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [SeraphimSerapis/vllm-tune](https://github.com/SeraphimSerapis/vllm-tune)
   > vLLM Tune consolidates MoE and FP8 dense GEMM kernel tuning into a single command
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [westfox-5/GhidraMetrics](https://github.com/westfox-5/GhidraMetrics)
+  > A Ghidra plugin for native code metrics
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smallworld-re/smallworld](https://github.com/smallworld-re/smallworld)
   > SmallWorld is an environment for streamlined harnessing of binary code for the purpose of dynamic an...
@@ -68,6 +72,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
+
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bjn7/passkeyd](https://github.com/bjn7/passkeyd)
@@ -83,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-29 10:43:19 UTC*
+*Last updated at 2026-04-29 11:37:13 UTC*
 *Historical records are stored in the `archive` directory.*
