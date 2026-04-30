@@ -16,6 +16,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Crihexe/copy-fail-tiny-elf-CVE-2026-31431](https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431)
   > Minimal no-libc Linux x86_64 ELF PoC build for Copy Fail (CVE-2026-31431)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [wavestone-cdt/dyode](https://github.com/wavestone-cdt/dyode)
+  > A low-cost, DIY data diode for ICS
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qq703048949/event_replay](https://github.com/qq703048949/event_replay) to [CrackerCat/event_replay](https://github.com/CrackerCat/event_replay)
@@ -52,6 +54,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take s...
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)
   > Autonomous Hacking Agent for Red Team
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Plaaasma/FlashQLA-Blackwell](https://github.com/Plaaasma/FlashQLA-Blackwell)
+  > FlashQLA TileLang GDN kernels ported to NVIDIA Blackwell consumer (GB10 / DGX Spark)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
@@ -110,6 +114,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 每天早上打开通知，高质量论文摘要已经为你准备好 Ciallo～(∠・ω< )⌒☆
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cch123/open-agent-room](https://github.com/cch123/open-agent-room)
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/Percivalll/Copy-Fail-CVE-2026-31431-Kubernetes-PoC)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [mrexodia/llama.cpp](https://github.com/mrexodia/llama.cpp)
   > LLM inference in C/C++
@@ -130,17 +137,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
   > Translate the video from one language to another and embed dubbing & subtitles.
 
-### [pgoodman](https://github.com/pgoodman)
-- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
-  > Warp is an agentic development environment, born out of the terminal.
-
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
   >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
-
-### [swisskyrepo](https://github.com/swisskyrepo)
-- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
-  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
 
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [ossf/oss-crs](https://github.com/ossf/oss-crs)
@@ -158,5 +157,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-30 15:41:29 UTC*
+*Last updated at 2026-04-30 16:39:48 UTC*
 *Historical records are stored in the `archive` directory.*
