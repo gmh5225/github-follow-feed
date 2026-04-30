@@ -11,12 +11,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qq703048949/event_replay](https://github.com/qq703048949/event_replay) to [CrackerCat/event_replay](https://github.com/CrackerCat/event_replay)
-  > 触屏事件重放
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vwww-droid/Mira](https://github.com/vwww-droid/Mira) to [CrackerCat/Mira](https://github.com/CrackerCat/Mira)
-  > AI-Powered Runtime Mobile App Risk Analysis (iOS & Android)
-
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [i014n/RightHand-Persistence](https://github.com/i014n/RightHand-Persistence)
@@ -29,6 +23,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [stripe/link-cli](https://github.com/stripe/link-cli)
   > Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every ...
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [reilabs/sunspot](https://github.com/reilabs/sunspot)
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
@@ -80,6 +75,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrphrazer](https://github.com/mrphrazer) Starred [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL)
 - 🍴 👤 [mrphrazer](https://github.com/mrphrazer) Forked [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL) to [mrphrazer/bincodeql](https://github.com/mrphrazer/bincodeql)
 
+### [n01e0](https://github.com/n01e0)
+- 🍴 👤 [n01e0](https://github.com/n01e0) Forked [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) to [n01e0/sandbox-runtime](https://github.com/n01e0/sandbox-runtime)
+  > A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary process...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -104,5 +103,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-30 09:51:01 UTC*
+*Last updated at 2026-04-30 10:42:47 UTC*
 *Historical records are stored in the `archive` directory.*
