@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [Logflare/logflare](https://github.com/Logflare/logflare) to [0xAX/logflare](https://github.com/0xAX/logflare)
+  > Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, ...
+
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [guttir14/UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25)
 - 🌟 👤 [54](https://github.com/54) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
@@ -27,6 +31,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [RaphaelIT7/VPhysics-Jolt](https://github.com/RaphaelIT7/VPhysics-Jolt) to [ZehMatt/VPhysics-Jolt](https://github.com/ZehMatt/VPhysics-Jolt)
   > Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [RaphaelIT7/mini-source-sdk](https://github.com/RaphaelIT7/mini-source-sdk) to [ZehMatt/mini-source-sdk](https://github.com/ZehMatt/mini-source-sdk)
+  > A minified version of Source SDK with support for VS 2022
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
@@ -152,5 +158,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-30 14:50:52 UTC*
+*Last updated at 2026-04-30 15:41:29 UTC*
 *Historical records are stored in the `archive` directory.*
