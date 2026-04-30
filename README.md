@@ -10,6 +10,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Crihexe/copy-fail-tiny-elf-CVE-2026-31431](https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431)
+  > Minimal no-libc Linux x86_64 ELF PoC build for Copy Fail (CVE-2026-31431)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qq703048949/event_replay](https://github.com/qq703048949/event_replay) to [CrackerCat/event_replay](https://github.com/CrackerCat/event_replay)
@@ -22,9 +24,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [i014n/RightHand-Persistence](https://github.com/i014n/RightHand-Persistence)
   > COM Windows Persistence Technique
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [RaphaelIT7/VPhysics-Jolt](https://github.com/RaphaelIT7/VPhysics-Jolt) to [ZehMatt/VPhysics-Jolt](https://github.com/ZehMatt/VPhysics-Jolt)
+  > Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
   > A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+### [cr4zyengineer](https://github.com/cr4zyengineer)
+- 🌟 👤 [cr4zyengineer](https://github.com/cr4zyengineer) Starred [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer)
+  > An app that lets you open .car files and browse/extract their images.
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [stripe/link-cli](https://github.com/stripe/link-cli)
@@ -122,6 +132,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
   >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
+  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
+
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [ossf/oss-crs](https://github.com/ossf/oss-crs)
   > oss-crs
@@ -132,7 +146,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
   > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
 
+### [zompi2](https://github.com/zompi2)
+- 🌟 👤 [zompi2](https://github.com/zompi2) Starred [mike-ward/VSColorOutput64](https://github.com/mike-ward/VSColorOutput64)
+  > Visual Studio extension that adds color highlighting to Visual Studio's Build and Debug Output Windo...
+
 
 ---
-*Last updated at 2026-04-30 13:41:49 UTC*
+*Last updated at 2026-04-30 14:50:52 UTC*
 *Historical records are stored in the `archive` directory.*
