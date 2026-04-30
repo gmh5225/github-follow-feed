@@ -4,24 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [0xAX](https://github.com/0xAX)
-- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [Logflare/logflare](https://github.com/Logflare/logflare) to [0xAX/logflare](https://github.com/0xAX/logflare)
-  > Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, ...
-
-### [54](https://github.com/54)
-- 🌟 👤 [54](https://github.com/54) Starred [guttir14/UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25)
-- 🌟 👤 [54](https://github.com/54) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
-
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Crihexe/copy-fail-tiny-elf-CVE-2026-31431](https://github.com/Crihexe/copy-fail-tiny-elf-CVE-2026-31431)
   > Minimal no-libc Linux x86_64 ELF PoC build for Copy Fail (CVE-2026-31431)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [wavestone-cdt/dyode](https://github.com/wavestone-cdt/dyode)
   > A low-cost, DIY data diode for ICS
-
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [tw93/Kami](https://github.com/tw93/Kami)
-  > 👩‍🚒 Good content deserves good paper.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qq703048949/event_replay](https://github.com/qq703048949/event_replay) to [CrackerCat/event_replay](https://github.com/CrackerCat/event_replay)
@@ -44,28 +32,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [RaphaelIT7/mini-source-sdk](https://github.com/RaphaelIT7/mini-source-sdk) to [ZehMatt/mini-source-sdk](https://github.com/ZehMatt/mini-source-sdk)
   > A minified version of Source SDK with support for VS 2022
 
-### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
-  > A scalable, distributed, collaborative, document-graph database, for the realtime web
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [codegen-sh/graph-sitter](https://github.com/codegen-sh/graph-sitter)
-  > Scriptable interface to a powerful, multi-lingual language server
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx)
-  > A high performance Python graph library implemented in Rust.
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
-  > Coding Agent Harness
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cogniumhq/circle-ir](https://github.com/cogniumhq/circle-ir)
-  > SAST/Static analyzer
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cogniumhq/cognium](https://github.com/cogniumhq/cognium)
-  > cognium cli
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [IBM/tree-sitter-codeviews](https://github.com/IBM/tree-sitter-codeviews)
-  > Extract and combine multiple source code views using tree-sitter
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mediar-ai/terminator](https://github.com/mediar-ai/terminator)
-  > playwright for windows computer use 
-
-### [cr4zyengineer](https://github.com/cr4zyengineer)
-- 🌟 👤 [cr4zyengineer](https://github.com/cr4zyengineer) Starred [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer)
-  > An app that lets you open .car files and browse/extract their images.
-
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [stripe/link-cli](https://github.com/stripe/link-cli)
   > Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every ...
@@ -74,22 +40,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [afshinm/zerobox](https://github.com/afshinm/zerobox)
   > Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any comman...
-
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
-  >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [zml/zml](https://github.com/zml/zml)
-  > Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
-
-### [hackcatml](https://github.com/hackcatml)
-- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
-  > CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take s...
-- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)
-  > Autonomous Hacking Agent for Red Team
-- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [Plaaasma/FlashQLA-Blackwell](https://github.com/Plaaasma/FlashQLA-Blackwell)
-  > FlashQLA TileLang GDN kernels ported to NVIDIA Blackwell consumer (GB10 / DGX Spark)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
@@ -155,10 +105,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [mrexodia/llama.cpp](https://github.com/mrexodia/llama.cpp)
   > LLM inference in C/C++
 
-### [mrphrazer](https://github.com/mrphrazer)
-- 🌟 👤 [mrphrazer](https://github.com/mrphrazer) Starred [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL)
-- 🍴 👤 [mrphrazer](https://github.com/mrphrazer) Forked [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL) to [mrphrazer/bincodeql](https://github.com/mrphrazer/bincodeql)
-
 ### [n01e0](https://github.com/n01e0)
 - 🍴 👤 [n01e0](https://github.com/n01e0) Forked [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) to [n01e0/sandbox-runtime](https://github.com/n01e0/sandbox-runtime)
   > A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary process...
@@ -171,37 +117,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm)
   > WebAssembly Smart Contracts for the Cosmos SDK
 
-### [petercunha](https://github.com/petercunha)
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
-  > Translate the video from one language to another and embed dubbing & subtitles.
-
-### [pgoodman](https://github.com/pgoodman)
-- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
-  > Warp is an agentic development environment, born out of the terminal.
-
-### [reveny](https://github.com/reveny)
-- 🌟 👤 [reveny](https://github.com/reveny) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
-  >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
-
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
   > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
-
-### [tklengyel](https://github.com/tklengyel)
-- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [ossf/oss-crs](https://github.com/ossf/oss-crs)
-  > oss-crs
-- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [AIxCyberChallenge/sherpa](https://github.com/AIxCyberChallenge/sherpa)
-  > Security Harness Engineering for Robust Program Analysis
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
   > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
 
-### [zompi2](https://github.com/zompi2)
-- 🌟 👤 [zompi2](https://github.com/zompi2) Starred [mike-ward/VSColorOutput64](https://github.com/mike-ward/VSColorOutput64)
-  > Visual Studio extension that adds color highlighting to Visual Studio's Build and Debug Output Windo...
-
 
 ---
-*Last updated at 2026-04-30 21:27:46 UTC*
+*Last updated at 2026-04-30 22:25:34 UTC*
 *Historical records are stored in the `archive` directory.*
