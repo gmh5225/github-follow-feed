@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [0xAX](https://github.com/0xAX)
-- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [Logflare/logflare](https://github.com/Logflare/logflare) to [0xAX/logflare](https://github.com/0xAX/logflare)
-  > Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, ...
-
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [guttir14/UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25)
 - 🌟 👤 [54](https://github.com/54) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
@@ -48,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [stripe/link-cli](https://github.com/stripe/link-cli)
   > Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every ...
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [reilabs/sunspot](https://github.com/reilabs/sunspot)
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [zml/zml](https://github.com/zml/zml)
+  > Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/playwright-cli](https://github.com/microsoft/playwright-cli)
@@ -125,10 +125,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrphrazer](https://github.com/mrphrazer) Starred [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL)
 - 🍴 👤 [mrphrazer](https://github.com/mrphrazer) Forked [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL) to [mrphrazer/bincodeql](https://github.com/mrphrazer/bincodeql)
 
-### [n01e0](https://github.com/n01e0)
-- 🍴 👤 [n01e0](https://github.com/n01e0) Forked [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) to [n01e0/sandbox-runtime](https://github.com/n01e0/sandbox-runtime)
-  > A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary process...
-
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -137,15 +133,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
   > Translate the video from one language to another and embed dubbing & subtitles.
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
   >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
 
-### [tklengyel](https://github.com/tklengyel)
-- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [ossf/oss-crs](https://github.com/ossf/oss-crs)
-  > oss-crs
-- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [AIxCyberChallenge/sherpa](https://github.com/AIxCyberChallenge/sherpa)
-  > Security Harness Engineering for Robust Program Analysis
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
+  > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
@@ -157,5 +155,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-30 16:39:48 UTC*
+*Last updated at 2026-04-30 17:37:18 UTC*
 *Historical records are stored in the `archive` directory.*
