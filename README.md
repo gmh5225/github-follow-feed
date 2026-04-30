@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [Logflare/logflare](https://github.com/Logflare/logflare) to [0xAX/logflare](https://github.com/0xAX/logflare)
+  > Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, ...
+
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [guttir14/UnrealDumper-4.25](https://github.com/guttir14/UnrealDumper-4.25)
 - 🌟 👤 [54](https://github.com/54) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
@@ -35,6 +39,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb)
   > A scalable, distributed, collaborative, document-graph database, for the realtime web
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [codegen-sh/graph-sitter](https://github.com/codegen-sh/graph-sitter)
+  > Scriptable interface to a powerful, multi-lingual language server
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx)
+  > A high performance Python graph library implemented in Rust.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > Coding Agent Harness
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cogniumhq/circle-ir](https://github.com/cogniumhq/circle-ir)
+  > SAST/Static analyzer
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cogniumhq/cognium](https://github.com/cogniumhq/cognium)
+  > cognium cli
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [IBM/tree-sitter-codeviews](https://github.com/IBM/tree-sitter-codeviews)
+  > Extract and combine multiple source code views using tree-sitter
 
 ### [cr4zyengineer](https://github.com/cr4zyengineer)
 - 🌟 👤 [cr4zyengineer](https://github.com/cr4zyengineer) Starred [insidegui/AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer)
@@ -44,6 +60,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [stripe/link-cli](https://github.com/stripe/link-cli)
   > Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every ...
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [reilabs/sunspot](https://github.com/reilabs/sunspot)
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [afshinm/zerobox](https://github.com/afshinm/zerobox)
+  > Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any comman...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [zml/zml](https://github.com/zml/zml)
@@ -125,9 +145,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrphrazer](https://github.com/mrphrazer) Starred [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL)
 - 🍴 👤 [mrphrazer](https://github.com/mrphrazer) Forked [tosanjay/BinCodeQL](https://github.com/tosanjay/BinCodeQL) to [mrphrazer/bincodeql](https://github.com/mrphrazer/bincodeql)
 
+### [n01e0](https://github.com/n01e0)
+- 🍴 👤 [n01e0](https://github.com/n01e0) Forked [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) to [n01e0/sandbox-runtime](https://github.com/n01e0/sandbox-runtime)
+  > A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary process...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
   > TradingAgents: Multi-Agents LLM Financial Trading Framework
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [CosmWasm/cosmwasm](https://github.com/CosmWasm/cosmwasm)
+  > WebAssembly Smart Contracts for the Cosmos SDK
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)
@@ -145,6 +173,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)
   > Agent skills for solving CTF challenges - web exploitation, binary pwn, crypto, reverse engineering,...
 
+### [tklengyel](https://github.com/tklengyel)
+- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [ossf/oss-crs](https://github.com/ossf/oss-crs)
+  > oss-crs
+- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [AIxCyberChallenge/sherpa](https://github.com/AIxCyberChallenge/sherpa)
+  > Security Harness Engineering for Robust Program Analysis
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
   > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
@@ -155,5 +189,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-04-30 17:37:18 UTC*
+*Last updated at 2026-04-30 18:40:47 UTC*
 *Historical records are stored in the `archive` directory.*
