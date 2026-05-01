@@ -50,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [badsectorlabs/ludus](https://github.com/badsectorlabs/ludus)
   > [GITLAB MIRROR] Ludus is a system to build easy to use cyber environments for testing and developmen...
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [tseli0s/DragonWare](https://github.com/tseli0s/DragonWare)
+  > Microkernel-based lightweight x86 operating system in C23.
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [wallds/NoVmpy](https://github.com/wallds/NoVmpy)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [vtil-project/VTIL-NativeLifters](https://github.com/vtil-project/VTIL-NativeLifters)
@@ -63,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 16:27:41 UTC*
+*Last updated at 2026-05-01 17:28:23 UTC*
 *Historical records are stored in the `archive` directory.*
