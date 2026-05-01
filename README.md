@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings)
   > Transcription of Tim Paterson's DOS printouts.
 
+### [TheCruZ](https://github.com/TheCruZ)
+- 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [waryas/xign_poc_april_2026](https://github.com/waryas/xign_poc_april_2026)
+  > Use XIGNCODE3 driver to cheat
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/pyright](https://github.com/microsoft/pyright)
   > Static Type Checker for Python
@@ -55,5 +59,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 14:32:03 UTC*
+*Last updated at 2026-05-01 15:28:32 UTC*
 *Historical records are stored in the `archive` directory.*
