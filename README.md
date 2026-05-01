@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/pyright](https://github.com/microsoft/pyright)
   > Static Type Checker for Python
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
+  > primitive parallel-formant speech synth in the browser
+
 ### [chfast](https://github.com/chfast)
 - 🌟 👤 [chfast](https://github.com/chfast) Starred [Consensys/teku](https://github.com/Consensys/teku)
   > 🚀 Open-source Ethereum consensus client written in Java
@@ -51,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 13:39:41 UTC*
+*Last updated at 2026-05-01 14:32:03 UTC*
 *Historical records are stored in the `archive` directory.*
