@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings)
   > Transcription of Tim Paterson's DOS printouts.
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/pyright](https://github.com/microsoft/pyright)
+  > Static Type Checker for Python
+
 ### [chfast](https://github.com/chfast)
 - 🌟 👤 [chfast](https://github.com/chfast) Starred [Consensys/teku](https://github.com/Consensys/teku)
   > 🚀 Open-source Ethereum consensus client written in Java
@@ -43,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 10:37:38 UTC*
+*Last updated at 2026-05-01 11:31:13 UTC*
 *Historical records are stored in the `archive` directory.*
