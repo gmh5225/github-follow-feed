@@ -70,6 +70,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
   >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [manhvn135/wah](https://github.com/manhvn135/wah)
+  > 🌐 Interpret WebAssembly 3.0 in a single C header file, offering compact and portable support for the...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lifthrasiir/wah](https://github.com/lifthrasiir/wah)
+  > WebAssembly interpreter in a Header (WAH)
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [badsectorlabs/ludus](https://github.com/badsectorlabs/ludus)
   > [GITLAB MIRROR] Ludus is a system to build easy to use cyber environments for testing and developmen...
@@ -84,6 +90,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/inaturalist-clumper](https://github.com/simonw/inaturalist-clumper) public
   > Group iNaturalist sightings into clumps
 
+### [wbenny](https://github.com/wbenny)
+- 🍴 👤 [wbenny](https://github.com/wbenny) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [wbenny/llvm-project](https://github.com/wbenny/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [wallds/NoVmpy](https://github.com/wallds/NoVmpy)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [vtil-project/VTIL-NativeLifters](https://github.com/vtil-project/VTIL-NativeLifters)
@@ -97,5 +107,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 22:23:40 UTC*
+*Last updated at 2026-05-01 23:24:17 UTC*
 *Historical records are stored in the `archive` directory.*
