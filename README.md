@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [sinwindie/OSINT](https://github.com/sinwindie/OSINT)
+  > Collections of tools and methods created to aid in OSINT collection
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings)
   > Transcription of Tim Paterson's DOS printouts.
@@ -19,6 +23,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/pyright](https://github.com/microsoft/pyright)
   > Static Type Checker for Python
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Exocija/ZetaLib](https://github.com/Exocija/ZetaLib)
+  > 🌙 ZetaLib - The only AI Library you need
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server)
+  > Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [LongWayHomie/PolyEngine](https://github.com/LongWayHomie/PolyEngine)
+  > PolyEngine is an evasive PE packer designed for CTF challenges and low-level Windows security educat...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [thatsme/giulia](https://github.com/thatsme/giulia)
+  > A persistent, local-first AI development daemon built in Elixir/OTP. AST-level code intelligence, Pr...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [steipete/ghcrawl](https://github.com/steipete/ghcrawl)
+  > Terminal UI and local CLI for crawling GitHub issues and pull requests, generating embeddings, and c...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zerx-lab/warp](https://github.com/zerx-lab/warp)
+  > OpenWarp is a free version of the open source client based on warp
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
@@ -53,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [badsectorlabs/ludus](https://github.com/badsectorlabs/ludus)
   > [GITLAB MIRROR] Ludus is a system to build easy to use cyber environments for testing and developmen...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [awakecoding/ttd-mcp](https://github.com/awakecoding/ttd-mcp)
+  > Time Travel Debugging (TTD) MCP Server
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [tseli0s/DragonWare](https://github.com/tseli0s/DragonWare)
@@ -75,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 18:33:38 UTC*
+*Last updated at 2026-05-01 19:33:50 UTC*
 *Historical records are stored in the `archive` directory.*
