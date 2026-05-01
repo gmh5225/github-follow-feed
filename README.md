@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [TheWover/donut](https://github.com/TheWover/donut) to [hzqst/donut-pe-fork](https://github.com/hzqst/donut-pe-fork)
   > Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ThatTotallyRealMyth/Impacket-IoCs](https://github.com/ThatTotallyRealMyth/Impacket-IoCs)
+  > This repo contains the results of an internal re-write of impacket I undertook at my current company...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
   >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
@@ -39,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 09:41:11 UTC*
+*Last updated at 2026-05-01 10:37:38 UTC*
 *Historical records are stored in the `archive` directory.*
