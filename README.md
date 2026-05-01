@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
   >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [badsectorlabs/ludus](https://github.com/badsectorlabs/ludus)
+  > [GITLAB MIRROR] Ludus is a system to build easy to use cyber environments for testing and developmen...
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [wallds/NoVmpy](https://github.com/wallds/NoVmpy)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [vtil-project/VTIL-NativeLifters](https://github.com/vtil-project/VTIL-NativeLifters)
@@ -47,5 +51,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 11:31:13 UTC*
+*Last updated at 2026-05-01 12:32:51 UTC*
 *Historical records are stored in the `archive` directory.*
