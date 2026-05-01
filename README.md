@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [waryas/xign_poc_april_2026](https://github.com/waryas/xign_poc_april_2026)
   > Use XIGNCODE3 driver to cheat
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)
+  > An orchestrated sub agent dev team powered by claude code
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/pyright](https://github.com/microsoft/pyright)
   > Static Type Checker for Python
@@ -54,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [tseli0s/DragonWare](https://github.com/tseli0s/DragonWare)
   > Microkernel-based lightweight x86 operating system in C23.
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/inaturalist-clumper](https://github.com/simonw/inaturalist-clumper) public
+  > Group iNaturalist sightings into clumps
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [wallds/NoVmpy](https://github.com/wallds/NoVmpy)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [vtil-project/VTIL-NativeLifters](https://github.com/vtil-project/VTIL-NativeLifters)
@@ -67,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 17:28:23 UTC*
+*Last updated at 2026-05-01 18:33:38 UTC*
 *Historical records are stored in the `archive` directory.*
