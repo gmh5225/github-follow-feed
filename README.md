@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [NVIDIA-RTX/RTXPT](https://github.com/NVIDIA-RTX/RTXPT) to [hzqst/RTXPT-fork](https://github.com/hzqst/RTXPT-fork)
   > Real-time path tracing library and sample
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
+  >  A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted cod...
+
 ### [zer0condition](https://github.com/zer0condition)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [wallds/NoVmpy](https://github.com/wallds/NoVmpy)
 - 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [vtil-project/VTIL-NativeLifters](https://github.com/vtil-project/VTIL-NativeLifters)
@@ -25,5 +29,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 05:24:20 UTC*
+*Last updated at 2026-05-01 07:06:39 UTC*
 *Historical records are stored in the `archive` directory.*
