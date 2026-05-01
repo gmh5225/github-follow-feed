@@ -41,6 +41,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [tgies/klattsch](https://github.com/tgies/klattsch)
   > primitive parallel-formant speech synth in the browser
+- 🌟 👤 [char](https://github.com/char) Starred [xit-vcs/xitdb](https://github.com/xit-vcs/xitdb)
+  > an immutable database for zig
 
 ### [chfast](https://github.com/chfast)
 - 🌟 👤 [chfast](https://github.com/chfast) Starred [Consensys/teku](https://github.com/Consensys/teku)
@@ -95,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 21:23:43 UTC*
+*Last updated at 2026-05-01 22:23:40 UTC*
 *Historical records are stored in the `archive` directory.*
