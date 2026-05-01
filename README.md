@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [DOS-History/Paterson-Listings](https://github.com/DOS-History/Paterson-Listings)
+  > Transcription of Tim Paterson's DOS printouts.
+
+### [chfast](https://github.com/chfast)
+- 🌟 👤 [chfast](https://github.com/chfast) Starred [Consensys/teku](https://github.com/Consensys/teku)
+  > 🚀 Open-source Ethereum consensus client written in Java
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🍴 👤 [hackcatml](https://github.com/hackcatml) Forked [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) to [hackcatml/openclaude](https://github.com/hackcatml/openclaude)
   > runs anywhere. uses anything
@@ -11,6 +19,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [NVIDIA-RTX/RTXPT](https://github.com/NVIDIA-RTX/RTXPT) to [hzqst/RTXPT-fork](https://github.com/hzqst/RTXPT-fork)
   > Real-time path tracing library and sample
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [TheWover/donut](https://github.com/TheWover/donut) to [hzqst/donut-pe-fork](https://github.com/hzqst/donut-pe-fork)
+  > Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [enovella/TEE-reversing](https://github.com/enovella/TEE-reversing)
@@ -29,5 +39,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 07:06:39 UTC*
+*Last updated at 2026-05-01 08:49:08 UTC*
 *Historical records are stored in the `archive` directory.*
