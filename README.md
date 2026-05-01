@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [TheWover/donut](https://github.com/TheWover/donut) to [hzqst/donut-pe-fork](https://github.com/hzqst/donut-pe-fork)
   > Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files...
 
+### [jamesmunns](https://github.com/jamesmunns)
+- 🍴 👤 [jamesmunns](https://github.com/jamesmunns) Forked [bearcove/tracey](https://github.com/bearcove/tracey) to [jamesmunns/tracey](https://github.com/jamesmunns/tracey)
+  > CLI, Web, LSP, and MCP toolkit to measure spec coverage in Rust codebases
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ThatTotallyRealMyth/Impacket-IoCs](https://github.com/ThatTotallyRealMyth/Impacket-IoCs)
   > This repo contains the results of an internal re-write of impacket I undertook at my current company...
@@ -59,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-01 15:28:32 UTC*
+*Last updated at 2026-05-01 16:27:41 UTC*
 *Historical records are stored in the `archive` directory.*
