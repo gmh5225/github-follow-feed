@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > DWM Overlay without write .text
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [VollRagm/lpmapper](https://github.com/VollRagm/lpmapper)
   > A mapper that maps shellcode into loaded large page drivers
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ThatTotallyRealMyth/Impacket-IoCs](https://github.com/ThatTotallyRealMyth/Impacket-IoCs)
+  > This repo contains the results of an internal re-write of impacket I undertook at my current company...
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Encoded14/void-extra](https://github.com/Encoded14/void-extra)
@@ -31,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [andreisss/KslDump](https://github.com/andreisss/KslDump) to [classic130/KslDump](https://github.com/classic130/KslDump)
   > KslDump — Why bring your own knife when Defender already left one in the kitchen?
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [staarblitz/hxposed](https://github.com/staarblitz/hxposed)
+  > Expose your kernel like you mean it
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/lib0xc](https://github.com/microsoft/lib0xc)
@@ -98,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-02 20:19:13 UTC*
+*Last updated at 2026-05-02 21:20:20 UTC*
 *Historical records are stored in the `archive` directory.*
