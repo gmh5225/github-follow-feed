@@ -16,6 +16,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [VollRagm/lpmapper](https://github.com/VollRagm/lpmapper)
   > A mapper that maps shellcode into loaded large page drivers
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
+  > Typescript/React Library for AI Chat💬🚀
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [documenso/documenso](https://github.com/documenso/documenso)
+  > The Open Source DocuSign Alternative.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [andreisss/KslDump](https://github.com/andreisss/KslDump) to [classic130/KslDump](https://github.com/classic130/KslDump)
   > KslDump — Why bring your own knife when Defender already left one in the kitchen?
@@ -33,6 +39,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [lifthrasiir/wah](https://github.com/lifthrasiir/wah)
   > WebAssembly interpreter in a Header (WAH)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
+  > Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agn...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix)
+  > This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
+  > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
@@ -48,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-02 14:26:13 UTC*
+*Last updated at 2026-05-02 15:22:23 UTC*
 *Historical records are stored in the `archive` directory.*
