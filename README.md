@@ -9,6 +9,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A simple CUDA FFT spectrum tool
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [provos/ironcurtain](https://github.com/provos/ironcurtain)
   > A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironc...
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [0xeb/libghidra](https://github.com/0xeb/libghidra)
+  > SDK for automating Ghidra from Python, Rust, and C++. Decompile, rename, annotate, inspect symbols/t...
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Yukin02/Dwm-Overlay](https://github.com/Yukin02/Dwm-Overlay)
@@ -60,7 +62,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
   > Python Command-Line Ghidra MCP
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [BishopFox/otto-support](https://github.com/BishopFox/otto-support)
+  > An implementation of a vulnerable MCP server using mcp-go
+
 
 ---
-*Last updated at 2026-05-02 15:22:23 UTC*
+*Last updated at 2026-05-02 16:23:24 UTC*
 *Historical records are stored in the `archive` directory.*
