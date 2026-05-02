@@ -46,6 +46,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Sambigeara/pollen](https://github.com/Sambigeara/pollen)
+  > Distributed WASM runtime. Workloads place themselves over a zero-trust mesh. One static binary.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [plankevm/plank-monorepo](https://github.com/plankevm/plank-monorepo)
+  > The home of the Plank Compiler and Sensei IR, its language agnostic EVM IR & backend.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [yusukebe/workers-routes](https://github.com/yusukebe/workers-routes)
+  > A file-based routing framework for Cloudflare Workers
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [sinameraji/kimiflare](https://github.com/sinameraji/kimiflare)
+  > Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [stripe/link-cli](https://github.com/stripe/link-cli)
+  > Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every ...
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
@@ -84,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-02 18:27:10 UTC*
+*Last updated at 2026-05-02 19:28:24 UTC*
 *Historical records are stored in the `archive` directory.*
