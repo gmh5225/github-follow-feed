@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [andreisss/KslDump](https://github.com/andreisss/KslDump) to [classic130/KslDump](https://github.com/classic130/KslDump)
+  > KslDump — Why bring your own knife when Defender already left one in the kitchen?
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Verified-zkEVM/evm-asm](https://github.com/Verified-zkEVM/evm-asm)
 
@@ -11,7 +15,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into ...
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
+  > Python Command-Line Ghidra MCP
+
 
 ---
-*Last updated at 2026-05-02 03:15:36 UTC*
+*Last updated at 2026-05-02 05:09:39 UTC*
 *Historical records are stored in the `archive` directory.*
