@@ -83,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/LLVMSharp](https://github.com/Colton1skees/LLVMSharp) to [mrexodia/LLVMSharp](https://github.com/mrexodia/LLVMSharp)
   > LLVM bindings for .NET Standard written in C# using ClangSharp
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [fraqioui/minishell](https://github.com/fraqioui/minishell)
+  > Creating your own shell
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
@@ -104,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-02 21:20:20 UTC*
+*Last updated at 2026-05-02 22:19:20 UTC*
 *Historical records are stored in the `archive` directory.*
