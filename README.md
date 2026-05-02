@@ -72,6 +72,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
   > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/TritonTranslator](https://github.com/Colton1skees/TritonTranslator) to [mrexodia/TritonTranslator](https://github.com/mrexodia/TritonTranslator)
+  > Standalone static version of Triton's x86/x64 translator
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Colton1skees/LLVMSharp](https://github.com/Colton1skees/LLVMSharp) to [mrexodia/LLVMSharp](https://github.com/mrexodia/LLVMSharp)
+  > LLVM bindings for .NET Standard written in C# using ClangSharp
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
@@ -94,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-02 19:28:24 UTC*
+*Last updated at 2026-05-02 20:19:13 UTC*
 *Historical records are stored in the `archive` directory.*
