@@ -25,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NVIDIA/TileGym](https://github.com/NVIDIA/TileGym)
   > Helpful kernel tutorials, examples and SKILLs for tile-based GPU programming
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
+  > Sandboxie Plus & Classic
 
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
@@ -32,5 +34,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-02 08:39:53 UTC*
+*Last updated at 2026-05-02 09:32:22 UTC*
 *Historical records are stored in the `archive` directory.*
