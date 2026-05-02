@@ -19,11 +19,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [lifthrasiir/wah](https://github.com/lifthrasiir/wah)
   > WebAssembly interpreter in a Header (WAH)
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NVIDIA/TileGym](https://github.com/NVIDIA/TileGym)
+  > Helpful kernel tutorials, examples and SKILLs for tile-based GPU programming
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
   > Python Command-Line Ghidra MCP
 
 
 ---
-*Last updated at 2026-05-02 07:39:18 UTC*
+*Last updated at 2026-05-02 08:39:53 UTC*
 *Historical records are stored in the `archive` directory.*
