@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [andreisss/KslDump](https://github.com/andreisss/KslDump) to [classic130/KslDump](https://github.com/classic130/KslDump)
   > KslDump — Why bring your own knife when Defender already left one in the kitchen?
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/lib0xc](https://github.com/microsoft/lib0xc)
+  > Safe(ish) C programming library
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Verified-zkEVM/evm-asm](https://github.com/Verified-zkEVM/evm-asm)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
@@ -65,8 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [BishopFox/otto-support](https://github.com/BishopFox/otto-support)
   > An implementation of a vulnerable MCP server using mcp-go
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies)
+  > Reverse proxies cheatsheet
 
 
 ---
-*Last updated at 2026-05-02 16:23:24 UTC*
+*Last updated at 2026-05-02 17:22:21 UTC*
 *Historical records are stored in the `archive` directory.*
