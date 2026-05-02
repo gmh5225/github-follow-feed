@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Minecraft-Radiance/Radiance](https://github.com/Minecraft-Radiance/Radiance)
+  > Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tra...
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [mebrown47/CUDA_spectrum](https://github.com/mebrown47/CUDA_spectrum)
   > A simple CUDA FFT spectrum tool
@@ -62,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Moonshot's open-weight Kimi running on your own Cloudflare account. No middleman.
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [stripe/link-cli](https://github.com/stripe/link-cli)
   > Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every ...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pasky/pi-side-agents](https://github.com/pasky/pi-side-agents)
+  > Dynamically spin off side agents in their own tmux windows and git worktrees
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
@@ -108,5 +114,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-02 22:19:20 UTC*
+*Last updated at 2026-05-02 23:21:47 UTC*
 *Historical records are stored in the `archive` directory.*
