@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [VollRagm/lpmapper](https://github.com/VollRagm/lpmapper)
   > A mapper that maps shellcode into loaded large page drivers
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Encoded14/void-extra](https://github.com/Encoded14/void-extra)
+  > XBPS template files and binaries for Void Linux (Hyprland, Zen-browser, etc.)
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)
   > Typescript/React Library for AI Chat💬🚀
@@ -32,10 +36,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [microsoft/lib0xc](https://github.com/microsoft/lib0xc)
   > Safe(ish) C programming library
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [praydog/REFramework](https://github.com/praydog/REFramework)
+  > Mod loader, scripting platform, and VR support for all RE Engine games
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Verified-zkEVM/evm-asm](https://github.com/Verified-zkEVM/evm-asm)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
   > 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade ...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
@@ -74,5 +84,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-02 17:22:21 UTC*
+*Last updated at 2026-05-02 18:27:10 UTC*
 *Historical records are stored in the `archive` directory.*
