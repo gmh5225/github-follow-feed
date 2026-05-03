@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Kudaes/Puzzle](https://github.com/Kudaes/Puzzle)
+  > Set of PoC to abuse Windows minifilters functionality
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [exefer/ns-emu-mod-downloader](https://github.com/exefer/ns-emu-mod-downloader)
   > A cross-platform command-line Switch emulator mod downloader.
@@ -15,12 +19,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [heckmon/roxum-ide](https://github.com/heckmon/roxum-ide)
   > A minimal and powerful IDE/Code editor for Android
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [vixhal-baraiya/microgpt-c](https://github.com/vixhal-baraiya/microgpt-c)
+  > The most atomic way to train and inference a GPT in pure, dependency-free C
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🍴 👤 [JoasASantos](https://github.com/JoasASantos) Forked [HackerSec-Projects/agent-benchmarks](https://github.com/HackerSec-Projects/agent-benchmarks) to [JoasASantos/agent-benchmarks](https://github.com/JoasASantos/agent-benchmarks)
 
 ### [NaC-L](https://github.com/NaC-L)
 - 🍴 👤 [NaC-L](https://github.com/NaC-L) Forked [r3bb1t/llvmkit](https://github.com/r3bb1t/llvmkit) to [NaC-L/llvmkit](https://github.com/NaC-L/llvmkit)
+
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor)
+  > A free, open-source, and cross-platform iDevice management tool
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web)
@@ -47,6 +57,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [bluecmd/learn-sky130](https://github.com/bluecmd/learn-sky130)
   > Learning to do things with the Skywater 130nm process
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mattleong/pi-better-openai](https://github.com/mattleong/pi-better-openai)
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -70,6 +81,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispEmbed](https://github.com/CrispStrobe/CrispEmbed)
   > Lightweight text embedding inference via ggml in pure C++: XLM-R/Qwen3/Gemma/MPNet/etc
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeaOfNodes/Simple-Cpp](https://github.com/SeaOfNodes/Simple-Cpp)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BlackBeltTechnology/pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard)
+  > Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  > Spec-driven development (SDD) for AI coding assistants.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [wwh1004/bof-template-ng](https://github.com/wwh1004/bof-template-ng)
@@ -87,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-03 20:20:03 UTC*
+*Last updated at 2026-05-03 21:21:41 UTC*
 *Historical records are stored in the `archive` directory.*
