@@ -16,6 +16,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [heckmon/roxum-ide](https://github.com/heckmon/roxum-ide)
   > A minimal and powerful IDE/Code editor for Android
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🍴 👤 [JoasASantos](https://github.com/JoasASantos) Forked [HackerSec-Projects/agent-benchmarks](https://github.com/HackerSec-Projects/agent-benchmarks) to [JoasASantos/agent-benchmarks](https://github.com/JoasASantos/agent-benchmarks)
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [arriemeijer-creator/AeroJAX](https://github.com/arriemeijer-creator/AeroJAX)
   > AeroJAX: A differentiable, structure-preserving framework for real-time flow simulation, control, an...
@@ -31,6 +34,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > control your applications using pi-coding-agent. fully invisible.
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gin66/tui-logger](https://github.com/gin66/tui-logger)
   > Logger and Widget for rust's ratatui crate
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nuts-rice/moq_vr_rs](https://github.com/nuts-rice/moq_vr_rs)
+  > Experiment in serving VR through MoQ
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+  > Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [bluecmd/learn-sky130](https://github.com/bluecmd/learn-sky130)
+  > Learning to do things with the Skywater 130nm process
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
@@ -57,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-03 16:23:15 UTC*
+*Last updated at 2026-05-03 17:22:29 UTC*
 *Historical records are stored in the `archive` directory.*
