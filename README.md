@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [hzqst](https://github.com/hzqst)
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [xaitax/NTSleuth](https://github.com/xaitax/NTSleuth)
+  > Comprehensive Windows Syscall Extraction & Analysis Framework
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Caerii/VisuaML](https://github.com/Caerii/VisuaML)
   > Visual Machine Learning editor on the web
@@ -47,8 +51,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR)
   > C++ ggml runtime hub for multilingual ASR models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispEmbed](https://github.com/CrispStrobe/CrispEmbed)
+  > Lightweight text embedding inference via ggml in pure C++: XLM-R/Qwen3/Gemma/MPNet/etc
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeaOfNodes/Simple-Cpp](https://github.com/SeaOfNodes/Simple-Cpp)
 
 
 ---
-*Last updated at 2026-05-03 13:36:49 UTC*
+*Last updated at 2026-05-03 14:25:34 UTC*
 *Historical records are stored in the `archive` directory.*
