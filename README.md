@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [NaC-L](https://github.com/NaC-L)
 - 🍴 👤 [NaC-L](https://github.com/NaC-L) Forked [r3bb1t/llvmkit](https://github.com/r3bb1t/llvmkit) to [NaC-L/llvmkit](https://github.com/NaC-L/llvmkit)
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bring-shrubbery/ml-sharp-web](https://github.com/bring-shrubbery/ml-sharp-web)
+  > Web playground to create Gaussian Splats using Apple's ml-sharp model.
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [arriemeijer-creator/AeroJAX](https://github.com/arriemeijer-creator/AeroJAX)
   > AeroJAX: A differentiable, structure-preserving framework for real-time flow simulation, control, an...
@@ -67,13 +71,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lightweight text embedding inference via ggml in pure C++: XLM-R/Qwen3/Gemma/MPNet/etc
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeaOfNodes/Simple-Cpp](https://github.com/SeaOfNodes/Simple-Cpp)
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [wwh1004/bof-template-ng](https://github.com/wwh1004/bof-template-ng)
+  > Next-Generation BOF Template | BOF Linter | Obj Rewriter
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
   > Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, explo...
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [0xeb/libghidra](https://github.com/0xeb/libghidra)
   > SDK for automating Ghidra from Python, Rust, and C++. Decompile, rename, annotate, inspect symbols/t...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [thtskaran/claude-code-analysis](https://github.com/thtskaran/claude-code-analysis)
+  > We read all 512K lines of Claude Code's accidentally exposed source. 82 docs, 15 diagrams, every sub...
+
 
 ---
-*Last updated at 2026-05-03 19:28:12 UTC*
+*Last updated at 2026-05-03 20:20:03 UTC*
 *Historical records are stored in the `archive` directory.*
