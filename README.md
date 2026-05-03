@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Cloud-Architekt](https://github.com/Cloud-Architekt) Forked [maester365/maester](https://github.com/maester365/maester) to [Cloud-Architekt/maester](https://github.com/Cloud-Architekt/maester)
   > Maester is a PowerShell based test automation framework to help you stay in control of your Microsof...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [heckmon/roxum-ide](https://github.com/heckmon/roxum-ide)
+  > A minimal and powerful IDE/Code editor for Android
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [arriemeijer-creator/AeroJAX](https://github.com/arriemeijer-creator/AeroJAX)
   > AeroJAX: A differentiable, structure-preserving framework for real-time flow simulation, control, an...
@@ -40,7 +44,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [badsectorlabs/copyfail-go](https://github.com/badsectorlabs/copyfail-go)
   > A Go implementation of copyfail (CVE-2026-31431)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR)
+  > C++ ggml runtime hub for multilingual ASR models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1...
+
 
 ---
-*Last updated at 2026-05-03 12:28:47 UTC*
+*Last updated at 2026-05-03 13:36:49 UTC*
 *Historical records are stored in the `archive` directory.*
