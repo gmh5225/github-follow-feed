@@ -64,7 +64,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lightweight text embedding inference via ggml in pure C++: XLM-R/Qwen3/Gemma/MPNet/etc
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeaOfNodes/Simple-Cpp](https://github.com/SeaOfNodes/Simple-Cpp)
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+  > Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, explo...
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [0xeb/libghidra](https://github.com/0xeb/libghidra)
+  > SDK for automating Ghidra from Python, Rust, and C++. Decompile, rename, annotate, inspect symbols/t...
+
 
 ---
-*Last updated at 2026-05-03 17:22:29 UTC*
+*Last updated at 2026-05-03 18:27:18 UTC*
 *Historical records are stored in the `archive` directory.*
