@@ -8,10 +8,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Kudaes/Puzzle](https://github.com/Kudaes/Puzzle)
   > Set of PoC to abuse Windows minifilters functionality
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [exefer/ns-emu-mod-downloader](https://github.com/exefer/ns-emu-mod-downloader)
-  > A cross-platform command-line Switch emulator mod downloader.
-
 ### [Cloud-Architekt](https://github.com/Cloud-Architekt)
 - 🍴 👤 [Cloud-Architekt](https://github.com/Cloud-Architekt) Forked [maester365/maester](https://github.com/maester365/maester) to [Cloud-Architekt/maester](https://github.com/Cloud-Architekt/maester)
   > Maester is a PowerShell based test automation framework to help you stay in control of your Microsof...
@@ -85,6 +81,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)
   > Spec-driven development (SDD) for AI coding assistants.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
+  > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xeb/libghidra](https://github.com/0xeb/libghidra)
+  > SDK for automating Ghidra from Python, Rust, and C++. Decompile, rename, annotate, inspect symbols/t...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [wwh1004/bof-template-ng](https://github.com/wwh1004/bof-template-ng)
@@ -102,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-03 21:21:41 UTC*
+*Last updated at 2026-05-03 22:20:25 UTC*
 *Historical records are stored in the `archive` directory.*
