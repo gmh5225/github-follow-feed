@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [containers/bubblewrap](https://github.com/containers/bubblewrap)
+  > Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman2](https://github.com/d-kfmnn/talisman2)
 
@@ -28,6 +32,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [terrapkg/packages](https://github.com/terrapkg/packages) to [funkemunky/packages](https://github.com/funkemunky/packages)
   > Monorepo for Terra Packages
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [cursey/kananlib](https://github.com/cursey/kananlib)
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [alexellis/k3sup](https://github.com/alexellis/k3sup)
@@ -109,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 19:39:25 UTC*
+*Last updated at 2026-05-04 20:37:18 UTC*
 *Historical records are stored in the `archive` directory.*
