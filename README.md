@@ -28,6 +28,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > bootstrap K3s over SSH in < 60s 🚀
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
   > An open source harness for generating CAD models
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [dimforge/rapier.js](https://github.com/dimforge/rapier.js)
+  > Official JavaScript bindings for the Rapier physics engine.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [dimforge/rapier](https://github.com/dimforge/rapier)
+  > 2D and 3D physics engines focused on performance.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [leonardoalt/evm-smith](https://github.com/leonardoalt/evm-smith)
+  > A framework for AI systems to write EVM bytecode and prove it safe, built on NethermindEth/EVMYulLea...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NethermindEth/EVMYulLean](https://github.com/NethermindEth/EVMYulLean)
+  > Executable formal model of the EVM and Yul in Lean 4.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [giovannosaur/CarbonRhythm](https://github.com/giovannosaur/CarbonRhythm)
@@ -42,6 +50,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [wudidike/pentest_skill](https://github.com/wudidike/pentest_skill)
   > Black-box web penetration testing automation framework for AI Agents
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [blackarrowsec/talks](https://github.com/blackarrowsec/talks)
+  > Public talks, workshops and research presentations from BlackArrow
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
@@ -67,6 +77,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Kudaes/Puzzle](https://github.com/Kudaes/Puzzle)
   > Set of PoC to abuse Windows minifilters functionality
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [antichainalysis/xmr-churner](https://github.com/antichainalysis/xmr-churner)
+  > moneroc - The proper way to churn Monero
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [radareorg/radare2](https://github.com/radareorg/radare2)
   > UNIX-like reverse engineering framework and command-line toolset
@@ -81,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 15:49:47 UTC*
+*Last updated at 2026-05-04 16:42:22 UTC*
 *Historical records are stored in the `archive` directory.*
