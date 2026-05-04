@@ -7,6 +7,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman2](https://github.com/d-kfmnn/talisman2)
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [pionxzh/wakaru](https://github.com/pionxzh/wakaru)
+  > 🔪📦 Javascript decompiler for modern frontend
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
   > bintbit is a bitvector theory SMT solver and CDCL SAT solver
@@ -18,6 +22,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5)
   > The most powerful local music generation model that outperforms almost all commercial alternatives, ...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nimbalyst/nimbalyst](https://github.com/nimbalyst/nimbalyst)
+  > Nimbalyst - visual workspace for building with Codex, Claude Code, and more
 
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [terrapkg/packages](https://github.com/terrapkg/packages) to [funkemunky/packages](https://github.com/funkemunky/packages)
@@ -103,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 18:43:57 UTC*
+*Last updated at 2026-05-04 19:39:25 UTC*
 *Historical records are stored in the `archive` directory.*
