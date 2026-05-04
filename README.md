@@ -4,6 +4,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman2](https://github.com/d-kfmnn/talisman2)
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
+  > bintbit is a bitvector theory SMT solver and CDCL SAT solver
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [android1337/brkida](https://github.com/android1337/brkida)
+  > C++ macro for x64 programs that breaks ida hex-rays decompiler tool.
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5)
+  > The most powerful local music generation model that outperforms almost all commercial alternatives, ...
+
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [terrapkg/packages](https://github.com/terrapkg/packages) to [funkemunky/packages](https://github.com/funkemunky/packages)
   > Monorepo for Terra Packages
@@ -40,6 +55,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [klsecservices/rpivot](https://github.com/klsecservices/rpivot)
   > socks4 reverse proxy for penetration testing
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Kudaes/Puzzle](https://github.com/Kudaes/Puzzle)
+  > Set of PoC to abuse Windows minifilters functionality
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [radareorg/radare2](https://github.com/radareorg/radare2)
@@ -51,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 12:47:07 UTC*
+*Last updated at 2026-05-04 13:43:52 UTC*
 *Historical records are stored in the `archive` directory.*
