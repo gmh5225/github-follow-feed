@@ -23,6 +23,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [terrapkg/packages](https://github.com/terrapkg/packages) to [funkemunky/packages](https://github.com/funkemunky/packages)
   > Monorepo for Terra Packages
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [alexellis/k3sup](https://github.com/alexellis/k3sup)
+  > bootstrap K3s over SSH in < 60s 🚀
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+  > An open source harness for generating CAD models
+
 ### [jamesmunns](https://github.com/jamesmunns)
 - 🌟 👤 [jamesmunns](https://github.com/jamesmunns) Starred [ygalanter/cannonade-pebble](https://github.com/ygalanter/cannonade-pebble)
 
@@ -68,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 13:43:52 UTC*
+*Last updated at 2026-05-04 14:52:44 UTC*
 *Historical records are stored in the `archive` directory.*
