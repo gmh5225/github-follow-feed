@@ -93,7 +93,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [califio/skills](https://github.com/califio/skills)
   > Claude Code plugins and Codex skills from Calif.io for AI-assisted security research and code auditi...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [nicobailon/pi-boomerang](https://github.com/nicobailon/pi-boomerang)
+  > Token-efficient autonomous task execution with context collapse for pi coding agent
+
 
 ---
-*Last updated at 2026-05-04 16:42:22 UTC*
+*Last updated at 2026-05-04 17:39:02 UTC*
 *Historical records are stored in the `archive` directory.*
