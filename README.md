@@ -4,8 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [codewhitesec/Lastenzug](https://github.com/codewhitesec/Lastenzug)
+  > Socks4a proxy leveraging PIC, Websockets and static obfuscation on assembly level
+
 
 ---
-*Last updated at 2026-05-04 03:18:55 UTC*
+*Last updated at 2026-05-04 05:17:54 UTC*
 *Historical records are stored in the `archive` directory.*
