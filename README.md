@@ -11,9 +11,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [d-kfmnn/talisman2](https://github.com/d-kfmnn/talisman2)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [cimgui/cimgui](https://github.com/cimgui/cimgui)
+  > c-api for imgui (https://github.com/ocornut/imgui)    Look at: https://github.com/cimgui for other w...
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [pionxzh/wakaru](https://github.com/pionxzh/wakaru)
   > 🔪📦 Javascript decompiler for modern frontend
+- 🌟 👤 [char](https://github.com/char) Starred [oxidecomputer/iddqd](https://github.com/oxidecomputer/iddqd)
+  > Maps where keys are borrowed from values.
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
@@ -81,6 +87,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > bintbit is a bitvector theory SMT solver and CDCL SAT solver
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
   > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+  > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/cobra](https://github.com/binsnake/cobra)
+  > rust port of TrailOfBits Cobra project
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shnarazk/splr](https://github.com/shnarazk/splr)
+  > A modern (trail saving, clause subsumption/vivification, learning-rate based selecting, rephrase) CD...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jix/varisat](https://github.com/jix/varisat)
+  > SAT solver written in Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chrjabs/rustsat](https://github.com/chrjabs/rustsat)
+  > This library aims to provide implementations of elements commonly used in the development on softwar...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [codewhitesec/Lastenzug](https://github.com/codewhitesec/Lastenzug)
@@ -120,5 +138,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 22:27:50 UTC*
+*Last updated at 2026-05-04 23:25:09 UTC*
 *Historical records are stored in the `archive` directory.*
