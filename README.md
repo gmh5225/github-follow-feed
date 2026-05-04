@@ -4,6 +4,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [ProjectNyxian/nyxian.app](https://github.com/ProjectNyxian/nyxian.app)
+  > Repository for Nyxian's documentation website
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
+  > Persistent autonomous goals for pi
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/bint-disasm.github.io](https://github.com/bint-disasm/bint-disasm.github.io)
+  > web frontend for the bin't binary analysis tool 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
+  > Persistent autonomous goals for pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
+  > bintbit is a bitvector theory SMT solver and CDCL SAT solver
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [codewhitesec/Lastenzug](https://github.com/codewhitesec/Lastenzug)
   > Socks4a proxy leveraging PIC, Websockets and static obfuscation on assembly level
@@ -24,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 09:58:13 UTC*
+*Last updated at 2026-05-04 10:49:22 UTC*
 *Historical records are stored in the `archive` directory.*
