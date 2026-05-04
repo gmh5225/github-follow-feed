@@ -29,6 +29,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
   > An open source harness for generating CAD models
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [giovannosaur/CarbonRhythm](https://github.com/giovannosaur/CarbonRhythm)
+
 ### [jamesmunns](https://github.com/jamesmunns)
 - 🌟 👤 [jamesmunns](https://github.com/jamesmunns) Starred [ygalanter/cannonade-pebble](https://github.com/ygalanter/cannonade-pebble)
 
@@ -72,7 +75,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [vixhal-baraiya/microgpt-c](https://github.com/vixhal-baraiya/microgpt-c)
   > The most atomic way to train and inference a GPT in pure, dependency-free C
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [califio/skills](https://github.com/califio/skills)
+  > Claude Code plugins and Codex skills from Calif.io for AI-assisted security research and code auditi...
+
 
 ---
-*Last updated at 2026-05-04 14:52:44 UTC*
+*Last updated at 2026-05-04 15:49:47 UTC*
 *Historical records are stored in the `archive` directory.*
