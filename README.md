@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [ProjectNyxian/nyxian.app](https://github.com/ProjectNyxian/nyxian.app)
   > Repository for Nyxian's documentation website
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [wudidike/pentest_skill](https://github.com/wudidike/pentest_skill)
+  > Black-box web penetration testing automation framework for AI Agents
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal)
   > Persistent autonomous goals for pi
@@ -40,5 +44,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 10:49:22 UTC*
+*Last updated at 2026-05-04 11:40:45 UTC*
 *Historical records are stored in the `archive` directory.*
