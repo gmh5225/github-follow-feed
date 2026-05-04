@@ -35,6 +35,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [cursey/kananlib](https://github.com/cursey/kananlib)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ticohq/tico](https://github.com/ticohq/tico)
+  > The first custom emulation frontend for Nintendo Switch — a controller-first, native C++ interface d...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [alexellis/k3sup](https://github.com/alexellis/k3sup)
@@ -77,6 +79,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Persistent autonomous goals for pi
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bint-disasm/binbit](https://github.com/bint-disasm/binbit)
   > bintbit is a bitvector theory SMT solver and CDCL SAT solver
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
+  > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [codewhitesec/Lastenzug](https://github.com/codewhitesec/Lastenzug)
@@ -116,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-04 20:37:18 UTC*
+*Last updated at 2026-05-04 21:30:35 UTC*
 *Historical records are stored in the `archive` directory.*
