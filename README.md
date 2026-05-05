@@ -33,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Coding agent for DeepSeek models that runs in your terminal
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
   > Coding Agent Harness
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [mksglu/context-mode](https://github.com/mksglu/context-mode)
+  > Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research)
+  >  ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [p-avital/vec-map-rs](https://github.com/p-avital/vec-map-rs)
@@ -90,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-05 17:40:23 UTC*
+*Last updated at 2026-05-05 18:42:16 UTC*
 *Historical records are stored in the `archive` directory.*
