@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [LLVMParty/smt-server](https://github.com/LLVMParty/smt-server)
   > A small SMT solving server and wire-format toolkit for bit-vector and Boolean formulas.
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [InstLatx64/InstLatx64](https://github.com/InstLatx64/InstLatx64)
+  > Copy of instlatx64.atw.hu
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
   > Coding agent for DeepSeek models that runs in your terminal
@@ -55,5 +59,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-05 12:38:40 UTC*
+*Last updated at 2026-05-05 13:43:51 UTC*
 *Historical records are stored in the `archive` directory.*
