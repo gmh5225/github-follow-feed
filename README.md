@@ -8,6 +8,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RainbowDynamix/NdisHook](https://github.com/RainbowDynamix/NdisHook)
   > Hijacking the Windows network stack from the kernel :)
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [yomidevs/yomitan](https://github.com/yomidevs/yomitan)
+  > Pop-up dictionary browser extension for language learning. Successor to Yomichan.
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [kucherenko/jscpd](https://github.com/kucherenko/jscpd)
+  > Copy/paste detector for programming source code. 
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser)
+  > Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS...
+
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) to [can1357/hindsight](https://github.com/can1357/hindsight)
   > Hindsight: Agent Memory That  Learns
@@ -104,5 +114,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-05 19:39:42 UTC*
+*Last updated at 2026-05-05 20:33:11 UTC*
 *Historical records are stored in the `archive` directory.*
