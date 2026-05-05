@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🍴 👤 [Calinou](https://github.com/Calinou) Forked [j178/prek](https://github.com/j178/prek) to [Calinou/prek](https://github.com/Calinou/prek)
+  > ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagin...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RainbowDynamix/NdisHook](https://github.com/RainbowDynamix/NdisHook)
   > Hijacking the Windows network stack from the kernel :)
@@ -37,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [YannMagnin/ayyboy-advance](https://github.com/YannMagnin/ayyboy-advance)
+  > GameBoy Advance emulator and debugger
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre)
   > Ghidra decompiler in your browser
@@ -52,6 +60,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [codemod/codemod](https://github.com/codemod/codemod)
   > The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class a...
+- 🍴 👤 [pcaversaccio](https://github.com/pcaversaccio) Forked [ApeWorX/github-action](https://github.com/ApeWorX/github-action) to [pcaversaccio/github-action](https://github.com/pcaversaccio/github-action)
+  > GitHub Actions CI File for Ape Projects
 
 ### [praeclarum](https://github.com/praeclarum)
 - 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [youssofal/MTPLX](https://github.com/youssofal/MTPLX)
@@ -59,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-05 13:43:51 UTC*
+*Last updated at 2026-05-05 15:44:37 UTC*
 *Historical records are stored in the `archive` directory.*
