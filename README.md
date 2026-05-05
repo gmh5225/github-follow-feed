@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RainbowDynamix/NdisHook](https://github.com/RainbowDynamix/NdisHook)
+  > Hijacking the Windows network stack from the kernel :)
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre) to [classic130/pyre](https://github.com/classic130/pyre)
   > Ghidra decompiler in your browser
@@ -45,7 +49,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [codemod/codemod](https://github.com/codemod/codemod)
   > The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class a...
 
+### [praeclarum](https://github.com/praeclarum)
+- 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [youssofal/MTPLX](https://github.com/youssofal/MTPLX)
+  > Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-n...
+
 
 ---
-*Last updated at 2026-05-05 11:34:45 UTC*
+*Last updated at 2026-05-05 12:38:40 UTC*
 *Historical records are stored in the `archive` directory.*
