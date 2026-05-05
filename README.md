@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
   > Coding Agent Harness
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [p-avital/vec-map-rs](https://github.com/p-avital/vec-map-rs)
+  > VecMap<K, V>: The Map API for Vec<(K, V)> (Rust)
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [biegehydra/MyersBitParallelDotnet](https://github.com/biegehydra/MyersBitParallelDotnet)
   > A high-throughput C# implementation of the Myers bit-parallel Levenshtein distance algorithm, optimi...
@@ -57,6 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
   > Token-efficient MCP adapter for Pi coding agent
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
+  > A fully syscalled C/C++ userland anti-debugging library and CLI for Windows, designed to protect sof...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [codemod/codemod](https://github.com/codemod/codemod)
   > The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class a...
@@ -76,15 +84,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [asg017/liblotus](https://github.com/asg017/liblotus)
 
-### [steipete](https://github.com/steipete)
-- 🚀 👤 [steipete](https://github.com/steipete) Made [openclaw/fs-safe](https://github.com/openclaw/fs-safe) public
-  > Race-resistant root-bounded filesystem primitives for Node.js.
-
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Mac-XK/Deobfuscator](https://github.com/Mac-XK/Deobfuscator)
   > 针对 [Hikari](https://github.com/HikariObfuscator/Hikari) LLVM 混淆器的静态分析还原工具。
 
 
 ---
-*Last updated at 2026-05-05 16:42:45 UTC*
+*Last updated at 2026-05-05 17:40:23 UTC*
 *Historical records are stored in the `archive` directory.*
