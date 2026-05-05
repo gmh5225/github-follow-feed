@@ -37,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [LLVMParty/smt-server](https://github.com/LLVMParty/smt-server)
   > A small SMT solving server and wire-format toolkit for bit-vector and Boolean formulas.
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre)
+  > Ghidra decompiler in your browser
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [InstLatx64/InstLatx64](https://github.com/InstLatx64/InstLatx64)
@@ -119,16 +121,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [asg017/liblotus](https://github.com/asg017/liblotus)
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [platformatic/regina](https://github.com/platformatic/regina)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [platformatic/platformatic](https://github.com/platformatic/platformatic)
-  > Platformatic Open Source monorepo!
-
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Mac-XK/Deobfuscator](https://github.com/Mac-XK/Deobfuscator)
   > 针对 [Hikari](https://github.com/HikariObfuscator/Hikari) LLVM 混淆器的静态分析还原工具。
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [cxasm/notepad--](https://github.com/cxasm/notepad--)
+  > 一个支持windows/linux/mac的文本编辑器，目标是做中国人自己的编辑器，来自中国。
+
 
 ---
-*Last updated at 2026-05-05 22:26:58 UTC*
+*Last updated at 2026-05-05 23:24:14 UTC*
 *Historical records are stored in the `archive` directory.*
