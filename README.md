@@ -17,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Copy/paste detector for programming source code. 
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser)
   > Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/rushstack](https://github.com/microsoft/rushstack)
+  > Monorepo for tools developed by the Rush Stack community
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nrwl/nx](https://github.com/nrwl/nx)
+  > The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales...
 
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) to [can1357/hindsight](https://github.com/can1357/hindsight)
@@ -88,6 +92,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
   > A fully syscalled C/C++ userland anti-debugging library and CLI for Windows, designed to protect sof...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+  > DSPy: The framework for programming—not prompting—language models
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [codemod/codemod](https://github.com/codemod/codemod)
@@ -114,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-05 20:33:11 UTC*
+*Last updated at 2026-05-05 21:29:18 UTC*
 *Historical records are stored in the `archive` directory.*
