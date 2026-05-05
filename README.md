@@ -4,13 +4,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🍴 👤 [Calinou](https://github.com/Calinou) Forked [j178/prek](https://github.com/j178/prek) to [Calinou/prek](https://github.com/Calinou/prek)
-  > ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagin...
-
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RainbowDynamix/NdisHook](https://github.com/RainbowDynamix/NdisHook)
   > Hijacking the Windows network stack from the kernel :)
+
+### [can1357](https://github.com/can1357)
+- 🍴 👤 [can1357](https://github.com/can1357) Forked [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) to [can1357/hindsight](https://github.com/can1357/hindsight)
+  > Hindsight: Agent Memory That  Learns
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre) to [classic130/pyre](https://github.com/classic130/pyre)
@@ -67,7 +67,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [youssofal/MTPLX](https://github.com/youssofal/MTPLX)
   > Native MTP Speculative Decoding On Apple Silicon | 2x - 2.5x decode TPS increase at temp 0.6 | MLX-n...
 
+### [retep998](https://github.com/retep998)
+- 🌟 👤 [retep998](https://github.com/retep998) Starred [iv-org/invidious](https://github.com/iv-org/invidious)
+  > Invidious is an alternative front-end to YouTube
+- 🌟 👤 [retep998](https://github.com/retep998) Starred [zedeus/nitter](https://github.com/zedeus/nitter)
+  > Alternative Twitter front-end
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [asg017/liblotus](https://github.com/asg017/liblotus)
+
+### [steipete](https://github.com/steipete)
+- 🚀 👤 [steipete](https://github.com/steipete) Made [openclaw/fs-safe](https://github.com/openclaw/fs-safe) public
+  > Race-resistant root-bounded filesystem primitives for Node.js.
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Mac-XK/Deobfuscator](https://github.com/Mac-XK/Deobfuscator)
+  > 针对 [Hikari](https://github.com/HikariObfuscator/Hikari) LLVM 混淆器的静态分析还原工具。
+
 
 ---
-*Last updated at 2026-05-05 15:44:37 UTC*
+*Last updated at 2026-05-05 16:42:45 UTC*
 *Historical records are stored in the `archive` directory.*
