@@ -16,6 +16,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [LLVMParty/smt-server](https://github.com/LLVMParty/smt-server)
   > A small SMT solving server and wire-format toolkit for bit-vector and Boolean formulas.
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+  > Coding agent for DeepSeek models that runs in your terminal
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > Coding Agent Harness
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [biegehydra/MyersBitParallelDotnet](https://github.com/biegehydra/MyersBitParallelDotnet)
   > A high-throughput C# implementation of the Myers bit-parallel Levenshtein distance algorithm, optimi...
@@ -41,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-05 10:40:46 UTC*
+*Last updated at 2026-05-05 11:34:45 UTC*
 *Historical records are stored in the `archive` directory.*
