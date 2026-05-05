@@ -66,6 +66,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [dtubbenhauer/My-TeX-files](https://github.com/dtubbenhauer/My-TeX-files)
   > This is a way to store all my TeX files
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [pyt-team/tdlbook](https://github.com/pyt-team/tdlbook)
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [YannMagnin/ayyboy-advance](https://github.com/YannMagnin/ayyboy-advance)
@@ -95,6 +96,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
   > DSPy: The framework for programming—not prompting—language models
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xMohammedHassan/morphkatz](https://github.com/0xMohammedHassan/morphkatz)
+  > Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-dif...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [codemod/codemod](https://github.com/codemod/codemod)
   > The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class a...
@@ -114,11 +119,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [asg017/liblotus](https://github.com/asg017/liblotus)
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [platformatic/regina](https://github.com/platformatic/regina)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [platformatic/platformatic](https://github.com/platformatic/platformatic)
+  > Platformatic Open Source monorepo!
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Mac-XK/Deobfuscator](https://github.com/Mac-XK/Deobfuscator)
   > 针对 [Hikari](https://github.com/HikariObfuscator/Hikari) LLVM 混淆器的静态分析还原工具。
 
 
 ---
-*Last updated at 2026-05-05 21:29:18 UTC*
+*Last updated at 2026-05-05 22:26:58 UTC*
 *Historical records are stored in the `archive` directory.*
