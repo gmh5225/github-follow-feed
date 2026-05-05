@@ -41,6 +41,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [p-avital/vec-map-rs](https://github.com/p-avital/vec-map-rs)
   > VecMap<K, V>: The Map API for Vec<(K, V)> (Rust)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
+  > Multi-Joint dynamics with Contact. A general purpose physics simulator.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [biegehydra/MyersBitParallelDotnet](https://github.com/biegehydra/MyersBitParallelDotnet)
@@ -48,6 +50,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [dtubbenhauer/My-TeX-files](https://github.com/dtubbenhauer/My-TeX-files)
+  > This is a way to store all my TeX files
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [YannMagnin/ayyboy-advance](https://github.com/YannMagnin/ayyboy-advance)
@@ -64,6 +68,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Token-efficient MCP adapter for Pi coding agent
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
   > Token-efficient MCP adapter for Pi coding agent
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre)
+  > Ghidra decompiler in your browser
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [NVIDIAGameWorks/HBAOPlus](https://github.com/NVIDIAGameWorks/HBAOPlus)
+  > HBAO+
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
@@ -94,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-05 18:42:16 UTC*
+*Last updated at 2026-05-05 19:39:42 UTC*
 *Historical records are stored in the `archive` directory.*
