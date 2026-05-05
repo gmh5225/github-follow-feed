@@ -23,9 +23,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [dannylimanseta/tinyskies](https://github.com/dannylimanseta/tinyskies)
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ant4g0nist/pyre](https://github.com/ant4g0nist/pyre)
+  > Ghidra decompiler in your browser
+
 ### [momo5502](https://github.com/momo5502)
 - 🍴 👤 [momo5502](https://github.com/momo5502) Forked [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard) to [momo5502/agent-cost-dashboard](https://github.com/momo5502/agent-cost-dashboard)
   > Interactive web dashboard to monitor and analyze your coding agent API costs.
+- 🍴 👤 [momo5502](https://github.com/momo5502) Forked [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter) to [momo5502/pi-mcp-adapter](https://github.com/momo5502/pi-mcp-adapter)
+  > Token-efficient MCP adapter for Pi coding agent
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nicobailon/pi-mcp-adapter](https://github.com/nicobailon/pi-mcp-adapter)
+  > Token-efficient MCP adapter for Pi coding agent
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [codemod/codemod](https://github.com/codemod/codemod)
@@ -33,5 +41,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-05 07:47:13 UTC*
+*Last updated at 2026-05-05 08:55:53 UTC*
 *Historical records are stored in the `archive` directory.*
