@@ -8,6 +8,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [chfast](https://github.com/chfast) Starred [conan-io/conan-py-build](https://github.com/conan-io/conan-py-build)
   > A minimal PEP 517 compliant build backend that uses Conan to build Python C/C++ extensions
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [nu1lptr0/CVE-2025-21333](https://github.com/nu1lptr0/CVE-2025-21333) to [classic130/CVE-2025-21333](https://github.com/classic130/CVE-2025-21333)
+  > LPE due to integer truncation in vskrnlintvsp.sys
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [EquiFox/KsDumper](https://github.com/EquiFox/KsDumper)
+  > Dumping processes using the power of kernel space !
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [mastercodeon314/KsDumper-11](https://github.com/mastercodeon314/KsDumper-11)
+  > A revival of the classic and legendary KsDumper
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [mastercodeon314/KsDumper-11](https://github.com/mastercodeon314/KsDumper-11) to [enovella/KsDumper-11](https://github.com/enovella/KsDumper-11)
+  > A revival of the classic and legendary KsDumper
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)
   > The All in One Framework to Build Undefeatable Scrapers
@@ -36,6 +48,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   >  GLPI vulnerabilities checking tool 
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [akazwz/hostc](https://github.com/akazwz/hostc)
   > Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rafabd1/Proteus](https://github.com/rafabd1/Proteus)
+  > Proteus is a Codex plugin and local runtime for structured, continuous vulnerability research agains...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
+  > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Static-Analyzer-Factory/static-analyzer-factory](https://github.com/Static-Analyzer-Factory/static-analyzer-factory)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [leigest519/OpenGame](https://github.com/leigest519/OpenGame)
+  > OpenGame: Open Agentic Coding for Games
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [LongWayHomie/PolyEngine](https://github.com/LongWayHomie/PolyEngine)
+  > PolyEngine is an evasive PE packer designed for CTF challenges and low-level Windows security educat...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xaitax/NTSleuth](https://github.com/xaitax/NTSleuth)
+  > Comprehensive Windows Syscall Extraction & Analysis Framework
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
+  > A fully syscalled C/C++ userland anti-debugging library and CLI for Windows, designed to protect sof...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Schich/Lucky-Spark](https://github.com/Schich/Lucky-Spark)
+  > A stealthy loader for shellcode staged with http/https like Sliver
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SilentisVox/DoomSyscalls](https://github.com/SilentisVox/DoomSyscalls)
+  > Clean Indirect Syscalls with Hook Evasion & Return Address Spoofing.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0x727/BypassPro](https://github.com/0x727/BypassPro)
+  > 对Auth/Waf 自动化bypass的burpsuite插件
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF)
@@ -54,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 09:57:42 UTC*
+*Last updated at 2026-05-06 10:49:33 UTC*
 *Historical records are stored in the `archive` directory.*
