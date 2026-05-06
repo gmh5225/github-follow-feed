@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections)
+  > 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite pl...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
+  > Coding agent for DeepSeek models that runs in your terminal
+
 ### [chfast](https://github.com/chfast)
 - 🌟 👤 [chfast](https://github.com/chfast) Starred [conan-io/conan-py-build](https://github.com/conan-io/conan-py-build)
   > A minimal PEP 517 compliant build backend that uses Conan to build Python C/C++ extensions
@@ -85,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 10:49:33 UTC*
+*Last updated at 2026-05-06 11:40:13 UTC*
 *Historical records are stored in the `archive` directory.*
