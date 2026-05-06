@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [nu1lptr0/CVE-2025-21333](https://github.com/nu1lptr0/CVE-2025-21333) to [classic130/CVE-2025-21333](https://github.com/classic130/CVE-2025-21333)
   > LPE due to integer truncation in vskrnlintvsp.sys
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [zksecurity/zkbugs](https://github.com/zksecurity/zkbugs)
+  > Reproduce ZKP vulnerabilities
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [EquiFox/KsDumper](https://github.com/EquiFox/KsDumper)
   > Dumping processes using the power of kernel space !
@@ -130,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 17:39:03 UTC*
+*Last updated at 2026-05-06 18:45:08 UTC*
 *Historical records are stored in the `archive` directory.*
