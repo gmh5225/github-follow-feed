@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
   > 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codin...
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
+  > Beads - A memory upgrade for your coding agent
+
 ### [chfast](https://github.com/chfast)
 - 🌟 👤 [chfast](https://github.com/chfast) Starred [conan-io/conan-py-build](https://github.com/conan-io/conan-py-build)
   > A minimal PEP 517 compliant build backend that uses Conan to build Python C/C++ extensions
@@ -88,7 +92,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [akazwz/hostc](https://github.com/akazwz/hostc)
   > Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rafabd1/Proteus](https://github.com/rafabd1/Proteus)
-  > Proteus is a Codex plugin and local runtime for structured, continuous vulnerability research agains...
+  > Proteus is a local runtime and assistant integration suite for structured, continuous vulnerability ...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Static-Analyzer-Factory/static-analyzer-factory](https://github.com/Static-Analyzer-Factory/static-analyzer-factory)
@@ -115,6 +119,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
   > Static analysis for GitHub Actions
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [k1ng0fn0th1ng/CrystalForge](https://github.com/k1ng0fn0th1ng/CrystalForge)
+  > AdaptixC2 default beacon agent extended to support Crystal Palace loaders.
+
 ### [rnk](https://github.com/rnk)
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
   > Streaming replication for SQLite.
@@ -134,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 18:45:08 UTC*
+*Last updated at 2026-05-06 19:39:54 UTC*
 *Historical records are stored in the `archive` directory.*
