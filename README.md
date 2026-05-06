@@ -63,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [CDL-AsTra/SaMBA](https://github.com/CDL-AsTra/SaMBA)
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
+  > eBPF-based Security Observability and Runtime Enforcement
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)
   > The All in One Framework to Build Undefeatable Scrapers
@@ -115,6 +119,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF)
   > Beacon Object File to Enable Chrome DevTools Protocol (CDP)
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
+  > Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deplo...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
   > Static analysis for GitHub Actions
@@ -130,6 +138,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [rnk](https://github.com/rnk)
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
   > Streaming replication for SQLite.
+- 🌟 👤 [rnk](https://github.com/rnk) Starred [k-arrows/clang-assert-tests](https://github.com/k-arrows/clang-assert-tests)
+  > Collection of programs that trigger Clang assertion failures, with scripts to check and track them
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
@@ -146,5 +156,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 21:30:52 UTC*
+*Last updated at 2026-05-06 22:23:47 UTC*
 *Historical records are stored in the `archive` directory.*
