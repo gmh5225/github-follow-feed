@@ -10,6 +10,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI)
   > Coding agent for DeepSeek models that runs in your terminal
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🍴 👤 [P4nda0s](https://github.com/P4nda0s) Forked [IPMegladon/frida-ios-dump](https://github.com/IPMegladon/frida-ios-dump) to [P4nda0s/frida-ios-dump](https://github.com/P4nda0s/frida-ios-dump)
+  > pull decrypted ipa from jailbreak device
+
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)
+  > "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [go-gitea/gitea](https://github.com/go-gitea/gitea)
+  > Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git h...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
+  > 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+  > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [odin-lang/Odin](https://github.com/odin-lang/Odin)
+  > Odin Programming Language
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)
+  > 232+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more codin...
+
 ### [chfast](https://github.com/chfast)
 - 🌟 👤 [chfast](https://github.com/chfast) Starred [conan-io/conan-py-build](https://github.com/conan-io/conan-py-build)
   > A minimal PEP 517 compliant build backend that uses Conan to build Python C/C++ extensions
@@ -78,6 +96,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF)
   > Beacon Object File to Enable Chrome DevTools Protocol (CDP)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
+  > Static analysis for GitHub Actions
+
 ### [rnk](https://github.com/rnk)
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
   > Streaming replication for SQLite.
@@ -91,5 +113,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 11:40:13 UTC*
+*Last updated at 2026-05-06 12:51:00 UTC*
 *Historical records are stored in the `archive` directory.*
