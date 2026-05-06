@@ -104,6 +104,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
   > Streaming replication for SQLite.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [daijro/camoufox](https://github.com/daijro/camoufox)
+  > 🦊 Anti-detect browser
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rlgrpe/camoufox-browser-cli](https://github.com/rlgrpe/camoufox-browser-cli)
+  > CLI-first browser automation powered by Camoufox, with optional MCP support
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [xunhuang123/CC-BOS](https://github.com/xunhuang123/CC-BOS)
 
@@ -113,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 12:51:00 UTC*
+*Last updated at 2026-05-06 13:43:48 UTC*
 *Historical records are stored in the `archive` directory.*
