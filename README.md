@@ -22,8 +22,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, explo...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [AmazingAng/auth2api](https://github.com/AmazingAng/auth2api)
   > Lightweight Claude OAuth to OpenAI-compatible API proxy
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Orange-Cyberdefense/glpwnme](https://github.com/Orange-Cyberdefense/glpwnme)
+  >  GLPI vulnerabilities checking tool 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [akazwz/hostc](https://github.com/akazwz/hostc)
+  > Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers.
+
+### [rnk](https://github.com/rnk)
+- 🌟 👤 [rnk](https://github.com/rnk) Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
+  > Streaming replication for SQLite.
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [xunhuang123/CC-BOS](https://github.com/xunhuang123/CC-BOS)
 
 
 ---
-*Last updated at 2026-05-06 03:18:10 UTC*
+*Last updated at 2026-05-06 05:13:52 UTC*
 *Historical records are stored in the `archive` directory.*
