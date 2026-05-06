@@ -43,6 +43,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A revival of the classic and legendary KsDumper
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [mastercodeon314/KsDumper-11](https://github.com/mastercodeon314/KsDumper-11) to [enovella/KsDumper-11](https://github.com/enovella/KsDumper-11)
   > A revival of the classic and legendary KsDumper
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
+  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng) to [enovella/d810-ng](https://github.com/enovella/d810-ng)
+  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [CDL-AsTra/SaMBA](https://github.com/CDL-AsTra/SaMBA)
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)
@@ -119,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 13:43:48 UTC*
+*Last updated at 2026-05-06 15:02:17 UTC*
 *Historical records are stored in the `archive` directory.*
