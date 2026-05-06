@@ -92,7 +92,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [akazwz/hostc](https://github.com/akazwz/hostc)
   > Localhost to the edge. Secure, fast, and zero-config edge tunnels powered by Cloudflare Workers.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rafabd1/Proteus](https://github.com/rafabd1/Proteus)
-  > Proteus is a local runtime and assistant integration suite for structured, continuous vulnerability ...
+  > Proteus is a plugin for Claude Code and Codex, plus a local runtime, for structured, continuous vuln...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [fatalSec/DaliVM](https://github.com/fatalSec/DaliVM)
   > Dalvik bytecode emulator for Android static analysis | String decryption | Multi-DEX | No Android ru...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Static-Analyzer-Factory/static-analyzer-factory](https://github.com/Static-Analyzer-Factory/static-analyzer-factory)
@@ -142,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 19:39:54 UTC*
+*Last updated at 2026-05-06 20:37:35 UTC*
 *Historical records are stored in the `archive` directory.*
