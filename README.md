@@ -123,6 +123,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [k1ng0fn0th1ng/CrystalForge](https://github.com/k1ng0fn0th1ng/CrystalForge)
   > AdaptixC2 default beacon agent extended to support Crystal Palace loaders.
 
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [cdaein/supercut](https://github.com/cdaein/supercut)
+  > Create a supercut montage video with Gemini LLM
+
 ### [rnk](https://github.com/rnk)
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
   > Streaming replication for SQLite.
@@ -142,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 20:37:35 UTC*
+*Last updated at 2026-05-06 21:30:52 UTC*
 *Historical records are stored in the `archive` directory.*
