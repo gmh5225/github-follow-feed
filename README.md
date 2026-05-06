@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NSG650/Polaris](https://github.com/NSG650/Polaris)
+  > A WIP 64-bit UNIX-like kernel
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections)
   > 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite pl...
@@ -126,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 16:39:08 UTC*
+*Last updated at 2026-05-06 17:39:03 UTC*
 *Historical records are stored in the `archive` directory.*
