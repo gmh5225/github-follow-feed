@@ -66,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
   > eBPF-based Security Observability and Runtime Enforcement
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+  > agent multiplexer that lives in your terminal.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus)
@@ -122,6 +124,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)
   > Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deplo...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
+  > 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordi...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor)
@@ -156,5 +160,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-06 22:23:47 UTC*
+*Last updated at 2026-05-06 23:25:03 UTC*
 *Historical records are stored in the `archive` directory.*
