@@ -153,9 +153,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ant4g0nist/nori](https://github.com/ant4g0nist/nori)
   > PDF/Image to Markdown converter using Claude Code leveraging vision
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [foundry-rs/foundry-core](https://github.com/foundry-rs/foundry-core)
+  > Core traits and libraries extracted from Foundry, published as crates so they can be depended on wit...
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine)
   > Scripts for setting up and running MSVC in Wine on Linux
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [we-promise/sure](https://github.com/we-promise/sure)
+  > The personal finance app for everyone (by everyone)
 
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
@@ -171,5 +179,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-07 17:39:09 UTC*
+*Last updated at 2026-05-07 18:45:20 UTC*
 *Historical records are stored in the `archive` directory.*
