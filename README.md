@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [iamtwz/yubikey-handbook-chinese](https://github.com/iamtwz/yubikey-handbook-chinese) to [CrackerCat/yubikey-handbook-chinese](https://github.com/CrackerCat/yubikey-handbook-chinese)
   > Yubikey 的使用、实验指南
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
+  > Skills: Binary deobfuscation of O-LLVM-like protected binaries
+
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [antigluten/amgi](https://github.com/antigluten/amgi)
   > An open-source, offline-first Anki-compatible iOS flashcard client with sync server support, powered...
@@ -55,6 +59,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fotoroshi](https://github.com/fotoroshi)
 - 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
   > A tiny educational decompiler that helps people understand how decompilation works.
+- 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [vercel-labs/skills](https://github.com/vercel-labs/skills)
+  > The open agent skills tool - npx skills
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
@@ -139,11 +145,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine)
   > Scripts for setting up and running MSVC in Wine on Linux
 
+### [vaivaswatha](https://github.com/vaivaswatha)
+- 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+  > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X4 e-paper display reader
 
 
 ---
-*Last updated at 2026-05-07 11:40:11 UTC*
+*Last updated at 2026-05-07 12:51:19 UTC*
 *Historical records are stored in the `archive` directory.*
