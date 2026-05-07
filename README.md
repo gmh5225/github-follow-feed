@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr0a3](https://github.com/Cr0a3)
+- 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0)
+  > v0 of Asimov, an open-source humanoid robot
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djzoom/MU5735](https://github.com/djzoom/MU5735) to [CrackerCat/MU5735](https://github.com/CrackerCat/MU5735)
   > MU5735 3D Flight Reconstruction — ADS-B + FDR data visualization (Three.js)
@@ -21,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [antigluten/amgi](https://github.com/antigluten/amgi)
   > An open-source, offline-first Anki-compatible iOS flashcard client with sync server support, powered...
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [mpvkit/MPVKit](https://github.com/mpvkit/MPVKit)
+  > mpv library for iOS, macOS, tvOS, visionOS applications
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
@@ -43,6 +49,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
   > Open-source intelligence for the global theater. Track everything from the corporate/private jets of...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ncruces/wasm2go](https://github.com/ncruces/wasm2go)
+  > A Wasm to Go translator
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
+  > A jailbreak detection bypass for modern iOS jailbreaks.
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Mister-Joe/PositiveIntent](https://github.com/Mister-Joe/PositiveIntent)
@@ -102,6 +114,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A lightweight desktop work journal with task tracking, stats, AI-powered reports, multilingual UI, t...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xiaobaidadada/filecat](https://github.com/xiaobaidadada/filecat)
   > Web File Browser Server Manager. 文件服务器、轻量级服务器管理 、内网穿透、SSH代理、终端、Docker管理、systemd 控制、Ai 助手、日志查看、CI/CD自...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [adityatelange/poc-CVE-2026-0073](https://github.com/adityatelange/poc-CVE-2026-0073) to [killvxk/poc-CVE-2026-0073](https://github.com/killvxk/poc-CVE-2026-0073)
+  > CVE-2026-0073 - ADB Wireless Mutual Authentication Bypass PoC
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
+  > A Unified Virtual Filesystem For AI Agents
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [pinksawtooth/VS_Code_dark_modern_theme](https://github.com/pinksawtooth/VS_Code_dark_modern_theme)
+  > for Ghidra GUI
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+  > AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ant4g0nist/nori](https://github.com/ant4g0nist/nori)
+  > PDF/Image to Markdown converter using Claude Code leveraging vision
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
@@ -109,5 +137,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-07 09:04:42 UTC*
+*Last updated at 2026-05-07 10:50:03 UTC*
 *Historical records are stored in the `archive` directory.*
