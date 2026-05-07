@@ -135,6 +135,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
   > A Unified Virtual Filesystem For AI Agents
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [obsidianmd/obsidian-headless](https://github.com/obsidianmd/obsidian-headless)
+  > Headless client for Obsidian Sync. Sync your vaults from the command line without the desktop app.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [pinksawtooth/VS_Code_dark_modern_theme](https://github.com/pinksawtooth/VS_Code_dark_modern_theme)
   > for Ghidra GUI
@@ -160,8 +166,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Firmware for the Xteink X4 e-paper display reader
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
   > Review-first terminal diff viewer for agentic coders
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal
 
 
 ---
-*Last updated at 2026-05-07 15:03:40 UTC*
+*Last updated at 2026-05-07 16:41:44 UTC*
 *Historical records are stored in the `archive` directory.*
