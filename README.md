@@ -71,6 +71,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. O...
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Hekbas/Luth](https://github.com/Hekbas/Luth)
   > Data-oriented C++20 game engine with a fiber-based job system and bindless Vulkan 1.3 renderer.
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [kitft/natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Mister-Joe/PositiveIntent](https://github.com/Mister-Joe/PositiveIntent)
@@ -148,6 +149,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
   > AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Hekbas/Luth](https://github.com/Hekbas/Luth)
+  > Data-oriented C++20 game engine with a fiber-based job system and bindless Vulkan 1.3 renderer.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ant4g0nist/nori](https://github.com/ant4g0nist/nori)
@@ -179,5 +182,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-07 18:45:20 UTC*
+*Last updated at 2026-05-07 19:37:24 UTC*
 *Historical records are stored in the `archive` directory.*
