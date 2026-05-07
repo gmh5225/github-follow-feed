@@ -76,6 +76,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vaivaswatha/pliron](https://github.com/vaivaswatha/pliron)
   > An Extensible Compiler IR Framework
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [modem-dev/hunk](https://github.com/modem-dev/hunk)
+  > Review-first terminal diff viewer for agentic coders
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
+  > CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, z...
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [erweixin/RaTeX](https://github.com/erweixin/RaTeX)
@@ -169,6 +173,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ant4g0nist/nori](https://github.com/ant4g0nist/nori)
   > PDF/Image to Markdown converter using Claude Code leveraging vision
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [commial/ttd-bindings](https://github.com/commial/ttd-bindings)
+  > Bindings for Microsoft WinDBG TTD
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [foundry-rs/foundry-core](https://github.com/foundry-rs/foundry-core)
   > Core traits and libraries extracted from Foundry, published as crates so they can be depended on wit...
@@ -186,6 +194,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
   > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
 
+### [wbenny](https://github.com/wbenny)
+- 🌟 👤 [wbenny](https://github.com/wbenny) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+  > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X4 e-paper display reader
@@ -196,5 +208,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-07 22:29:43 UTC*
+*Last updated at 2026-05-07 23:25:08 UTC*
 *Historical records are stored in the `archive` directory.*
