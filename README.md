@@ -8,7 +8,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djzoom/MU5735](https://github.com/djzoom/MU5735) to [CrackerCat/MU5735](https://github.com/CrackerCat/MU5735)
   > MU5735 3D Flight Reconstruction — ADS-B + FDR data visualization (Three.js)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fyrlove/r0zygisk](https://github.com/fyrlove/r0zygisk) to [CrackerCat/r0zygisk](https://github.com/CrackerCat/r0zygisk)
-  > The New Standalone implementation of Zygisk with more detection bypass technoledge
+  > The New Standalone implementation of Zygisk with more detection bypass technology
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HuangZhuoRui/LocationSpoofer](https://github.com/HuangZhuoRui/LocationSpoofer) to [CrackerCat/LocationSpoofer](https://github.com/CrackerCat/LocationSpoofer)
   > 一款虚拟定位软件，功能单一，纯定位，记得开飞行模式，然后连WI-FI，需要root以及Lsposed。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/Kasumi](https://github.com/Anatdx/Kasumi) to [CrackerCat/Kasumi](https://github.com/CrackerCat/Kasumi)
@@ -18,11 +18,31 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [iamtwz/yubikey-handbook-chinese](https://github.com/iamtwz/yubikey-handbook-chinese) to [CrackerCat/yubikey-handbook-chinese](https://github.com/CrackerCat/yubikey-handbook-chinese)
   > Yubikey 的使用、实验指南
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [antigluten/amgi](https://github.com/antigluten/amgi)
+  > An open-source, offline-first Anki-compatible iOS flashcard client with sync server support, powered...
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts)
   > GPT-Image-2 API and Prompts
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [r1n7aro/Locus](https://github.com/r1n7aro/Locus)
   > The open source Unity Dev Agent
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [0xMohammedHassan/morphkatz](https://github.com/0xMohammedHassan/morphkatz) to [classic130/morphkatz](https://github.com/classic130/morphkatz)
+  > Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-dif...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [MWR-CyberSec/VeeamDumper-BOF](https://github.com/MWR-CyberSec/VeeamDumper-BOF) to [classic130/VeeamDumper-BOF](https://github.com/classic130/VeeamDumper-BOF)
+  > A credential extraction BOF for Veeam Backup and Replication and Veeam One 
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [threatray/threat-research](https://github.com/threatray/threat-research) to [classic130/threat-research](https://github.com/classic130/threat-research)
+  > IoCs and YARA rules from Threatray's Threat Research
+
+### [cursey](https://github.com/cursey)
+- 🌟 👤 [cursey](https://github.com/cursey) Starred [higan-emu/libco](https://github.com/higan-emu/libco)
+  > libco is a cooperative multithreading library written in C89.
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
+  > Open-source intelligence for the global theater. Track everything from the corporate/private jets of...
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Mister-Joe/PositiveIntent](https://github.com/Mister-Joe/PositiveIntent)
@@ -37,8 +57,57 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Polymorphic PE rewriter for Windows x64 , rewrites binaries into semantically identical but byte-dif...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xhackerfren/ProcMon-MCP](https://github.com/0xhackerfren/ProcMon-MCP)
   > An MCP to expose process monitoring and ETW tracing functionally to AI agents to assist in security ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MWR-CyberSec/VeeamDumper-BOF](https://github.com/MWR-CyberSec/VeeamDumper-BOF)
+  > A credential extraction BOF for Veeam Backup and Replication and Veeam One 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)
+  > Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only cr...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Lu3ky13/Laravel-Livewire-Remote-Code-Execution-RCE-via-APP_KEY-Leakage](https://github.com/Lu3ky13/Laravel-Livewire-Remote-Code-Execution-RCE-via-APP_KEY-Leakage) to [killvxk/Laravel-Livewire-Remote-Code-Execution-RCE-via-APP_KEY-Leakage](https://github.com/killvxk/Laravel-Livewire-Remote-Code-Execution-RCE-via-APP_KEY-Leakage)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+  > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) to [killvxk/awesome-gpt-image-2](https://github.com/killvxk/awesome-gpt-image-2)
+  > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，370+ 个案例逆向工程，20+ 套工业级模板，持续更新中
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MrNine-666/claude-code-quickstart](https://github.com/MrNine-666/claude-code-quickstart)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [telagod/code-abyss](https://github.com/telagod/code-abyss)
+  > 为 Claude Code / Codex CLI 注入邪修人格、4种可切换输出风格与 56 篇攻防工程秘典
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [telagod/KooixMail](https://github.com/telagod/KooixMail)
+  > KooixMail — 自管临时邮箱 (Rust + React)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [caixiaoshun/claudex](https://github.com/caixiaoshun/claudex)
+  > Bridge Claude Code to ChatGPT Codex via a local Anthropic-compatible proxy.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [chaterm/Chaterm](https://github.com/chaterm/Chaterm)
+  > Open source AI terminal for cloud and infrastructure management, enabling you to deploy, troubleshoo...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [aeroxy/tunnix](https://github.com/aeroxy/tunnix)
+  > An encrypted SOCKS5/HTTP proxy tunnel over HTTP/SSE — built for environments where only plain HTTP w...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [aeroxy/tunnix](https://github.com/aeroxy/tunnix) to [killvxk/tunnix](https://github.com/killvxk/tunnix)
+  > An encrypted SOCKS5/HTTP proxy tunnel over HTTP/SSE — built for environments where only plain HTTP w...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [2234839/ai-nvr](https://github.com/2234839/ai-nvr)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [aygnep/existing-solution-finder](https://github.com/aygnep/existing-solution-finder)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [you-want/mini-cc](https://github.com/you-want/mini-cc)
+  > 🚀 一个轻量级的多语言 AI 编程智能体，内置声明式终端 UI、原生 MCP 插件生态与无缝的 Tool-Use 循环
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha)
+  > Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [star7th/link-ai](https://github.com/star7th/link-ai)
+  > 保护每一次 AI 调用的隐私安全 — 面向企业和个人的大模型安全接入网关
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [eryajf/kite-desktop](https://github.com/eryajf/kite-desktop)
+  > kite-desktop，一个基于 Wails v3 打造、面向桌面端的 K8S 多集群管理工具 🪁
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xiaochong/hi-kid](https://github.com/xiaochong/hi-kid)
+  > HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in no...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zarazhangrui/tab-out](https://github.com/zarazhangrui/tab-out)
+  > Keep tabs on your tabs. Turn your "New tabs" page into a mission control, so you can close them easi...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jrainlau/himi-recorder](https://github.com/jrainlau/himi-recorder)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [retlehs/quien](https://github.com/retlehs/quien)
+  > A better whois and domain intelligence toolkit
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [miniLV/Plexus](https://github.com/miniLV/Plexus)
+  > 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、Cursor、Gemini CLI、Qwen Code 等。 One-click loc...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dobest1024/WorkPulse](https://github.com/dobest1024/WorkPulse)
+  > A lightweight desktop work journal with task tracking, stats, AI-powered reports, multilingual UI, t...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xiaobaidadada/filecat](https://github.com/xiaobaidadada/filecat)
+  > Web File Browser Server Manager. 文件服务器、轻量级服务器管理 、内网穿透、SSH代理、终端、Docker管理、systemd 控制、Ai 助手、日志查看、CI/CD自...
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
+  > Firmware for the Xteink X4 e-paper display reader
 
 
 ---
-*Last updated at 2026-05-07 07:13:39 UTC*
+*Last updated at 2026-05-07 09:04:42 UTC*
 *Historical records are stored in the `archive` directory.*
