@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
 ### [Cr0a3](https://github.com/Cr0a3)
 - 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0)
   > v0 of Asimov, an open-source humanoid robot
@@ -69,6 +72,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vaivaswatha/pliron](https://github.com/vaivaswatha/pliron)
+  > An Extensible Compiler IR Framework
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [erweixin/RaTeX](https://github.com/erweixin/RaTeX)
@@ -189,5 +196,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-07 21:27:15 UTC*
+*Last updated at 2026-05-07 22:29:43 UTC*
 *Historical records are stored in the `archive` directory.*
