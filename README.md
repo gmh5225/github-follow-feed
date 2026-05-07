@@ -52,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ncruces/wasm2go](https://github.com/ncruces/wasm2go)
   > A Wasm to Go translator
 
+### [fotoroshi](https://github.com/fotoroshi)
+- 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec)
+  > A tiny educational decompiler that helps people understand how decompilation works.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
@@ -131,11 +135,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ant4g0nist/nori](https://github.com/ant4g0nist/nori)
   > PDF/Image to Markdown converter using Claude Code leveraging vision
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [mstorsjo/msvc-wine](https://github.com/mstorsjo/msvc-wine)
+  > Scripts for setting up and running MSVC in Wine on Linux
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X4 e-paper display reader
 
 
 ---
-*Last updated at 2026-05-07 10:50:03 UTC*
+*Last updated at 2026-05-07 11:40:11 UTC*
 *Historical records are stored in the `archive` directory.*
