@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [asimovinc/asimov-v0](https://github.com/asimovinc/asimov-v0)
   > v0 of Asimov, an open-source humanoid robot
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
+  > Copy Fail 2: Electric Boogaloo
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djzoom/MU5735](https://github.com/djzoom/MU5735) to [CrackerCat/MU5735](https://github.com/CrackerCat/MU5735)
   > MU5735 3D Flight Reconstruction — ADS-B + FDR data visualization (Three.js)
@@ -151,6 +155,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to fr...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Hekbas/Luth](https://github.com/Hekbas/Luth)
   > Data-oriented C++20 game engine with a fiber-based job system and bindless Vulkan 1.3 renderer.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [chorus-codes/chorus](https://github.com/chorus-codes/chorus)
+  > Multi-LLM peer review for code decisions. Bring your own CLI; Chorus convenes 2-4 other LLMs to revi...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ant4g0nist/nori](https://github.com/ant4g0nist/nori)
@@ -167,6 +173,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [we-promise/sure](https://github.com/we-promise/sure)
   > The personal finance app for everyone (by everyone)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
@@ -182,5 +189,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-07 20:34:26 UTC*
+*Last updated at 2026-05-07 21:27:15 UTC*
 *Historical records are stored in the `archive` directory.*
