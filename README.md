@@ -44,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) to [classic130/Vibe-Trading](https://github.com/classic130/Vibe-Trading)
   > "Vibe-Trading: Your Personal Trading Agent"
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [dcbuild3r/dcbuilder.dev](https://github.com/dcbuild3r/dcbuilder.dev)
+  > Personal site
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/fxe](https://github.com/can1357/fxe)
   > Immediate-mode app platform — an Electron alternative with real GPU graphics. C++ 2D/3D renderer wit...
@@ -72,6 +76,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stp/stp](https://github.com/stp/stp)
   > Simple Theorem Prover, an efficient SMT solver for bitvectors
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xlatbx59/Bshld](https://github.com/xlatbx59/Bshld)
+  > Devirtualizer for binaryshield
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [praetorian-inc/PortBender](https://github.com/praetorian-inc/PortBender)
@@ -100,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-08 17:38:32 UTC*
+*Last updated at 2026-05-08 18:41:05 UTC*
 *Historical records are stored in the `archive` directory.*
