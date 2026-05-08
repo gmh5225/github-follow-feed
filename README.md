@@ -88,7 +88,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash local inference engine for Metal
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [friday-platform/friday-studio](https://github.com/friday-platform/friday-studio)
+  > 🤖 AI agent runtime — shareable workspaces, MCP tools, skills, memory, and cron/webhook automations. ...
+
 
 ---
-*Last updated at 2026-05-08 15:40:25 UTC*
+*Last updated at 2026-05-08 16:39:51 UTC*
 *Historical records are stored in the `archive` directory.*
