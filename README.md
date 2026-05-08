@@ -17,6 +17,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kernullist/kn-diff-pool](https://github.com/kernullist/kn-diff-pool) to [classic130/kn-diff-pool](https://github.com/classic130/kn-diff-pool)
   > Windows kernel Big Pool snapshot/diff tool with a kernel-mode driver and a Go TUI.
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [classic130/dirtyfrag](https://github.com/classic130/dirtyfrag)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) to [classic130/Vibe-Trading](https://github.com/classic130/Vibe-Trading)
+  > "Vibe-Trading: Your Personal Trading Agent"
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [can1357/fxe](https://github.com/can1357/fxe)
+  > Immediate-mode app platform — an Electron alternative with real GPU graphics. C++ 2D/3D renderer wit...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradedb/paradedb](https://github.com/paradedb/paradedb)
@@ -26,7 +32,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash local inference engine for Metal
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [killvxk/dirtyfrag](https://github.com/killvxk/dirtyfrag)
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [praetorian-inc/PortBender](https://github.com/praetorian-inc/PortBender)
+  > TCP Port Redirection Utility
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [can1357/fxe](https://github.com/can1357/fxe)
+  > Immediate-mode app platform — an Electron alternative with real GPU graphics. C++ 2D/3D renderer wit...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Arno0x/DivertTCPconn](https://github.com/Arno0x/DivertTCPconn)
+  > A TCP packet diverter for Windows platform
+
+### [rnk](https://github.com/rnk)
+- 🌟 👤 [rnk](https://github.com/rnk) Starred [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod)
+  > MinusPod is a self-hosted server that removes ads before you ever hit play
+
 
 ---
-*Last updated at 2026-05-08 05:08:30 UTC*
+*Last updated at 2026-05-08 06:47:43 UTC*
 *Historical records are stored in the `archive` directory.*
