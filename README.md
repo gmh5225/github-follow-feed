@@ -4,6 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman)
+  > The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few cl...
+
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+  > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [NikoMalik/probemap](https://github.com/NikoMalik/probemap)
+  > simd swiss table based map
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VinsmokeSomya/Classic-Bounce](https://github.com/VinsmokeSomya/Classic-Bounce) to [CrackerCat/Classic-Bounce](https://github.com/CrackerCat/Classic-Bounce)
   > 🔴Bounce is a clone of Nokia original bounce game made with python and Pygame.
@@ -12,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoTong6666/inkmcp](https://github.com/XiaoTong6666/inkmcp) to [CrackerCat/inkmcp](https://github.com/CrackerCat/inkmcp)
   > Inkscape MCP Server - Control Inkscape through AI assistants via Model Context Protocol
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [CrackerCat/dirtyfrag](https://github.com/CrackerCat/dirtyfrag)
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools)
+  >  🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli ...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NyaMisty/ssl-kill-switch3](https://github.com/NyaMisty/ssl-kill-switch3)
@@ -46,6 +60,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [chAng-L19/codex-redteam-optin-mode](https://github.com/chAng-L19/codex-redteam-optin-mode)
   > 针对于红队攻击思维做出的red team模式(让你的codex像红队一样思考！)，可在单对话使用（可自行适配其他AI）
 
+### [malb](https://github.com/malb)
+- 🍴 👤 [malb](https://github.com/malb) Forked [jnsiemer/latticeAssumptionZoo](https://github.com/jnsiemer/latticeAssumptionZoo) to [malb/lattice-assumption-zoo](https://github.com/malb/lattice-assumption-zoo)
+  > Structured wiki for lattice-based assumptions utilised in cryptography
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
@@ -57,6 +75,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Arno0x/DivertTCPconn](https://github.com/Arno0x/DivertTCPconn)
   > A TCP packet diverter for Windows platform
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+  > Production-grade engineering skills for AI coding agents.
+
 ### [rnk](https://github.com/rnk)
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod)
   > MinusPod is a self-hosted server that removes ads before you ever hit play
@@ -67,5 +90,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-08 13:41:25 UTC*
+*Last updated at 2026-05-08 14:44:00 UTC*
 *Historical records are stored in the `archive` directory.*
