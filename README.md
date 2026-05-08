@@ -30,6 +30,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NyaMisty/ssl-kill-switch3](https://github.com/NyaMisty/ssl-kill-switch3)
   > Next Generation SSLKillSwitch with much more support!
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [yoavst/ida-ios-helper](https://github.com/yoavst/ida-ios-helper)
+  > Plugin to ease reversing iOS projects
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
@@ -67,6 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stp/stp](https://github.com/stp/stp)
+  > Simple Theorem Prover, an efficient SMT solver for bitvectors
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [praetorian-inc/PortBender](https://github.com/praetorian-inc/PortBender)
   > TCP Port Redirection Utility
@@ -94,5 +100,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-08 16:39:51 UTC*
+*Last updated at 2026-05-08 17:38:32 UTC*
 *Historical records are stored in the `archive` directory.*
