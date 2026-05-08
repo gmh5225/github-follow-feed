@@ -17,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NyaMisty/ssl-kill-switch3](https://github.com/NyaMisty/ssl-kill-switch3)
   > Next Generation SSLKillSwitch with much more support!
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+  > Lakehouse-native graph engine with git-style workflows
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kernullist/kn-diff-pool](https://github.com/kernullist/kn-diff-pool) to [classic130/kn-diff-pool](https://github.com/classic130/kn-diff-pool)
   > Windows kernel Big Pool snapshot/diff tool with a kernel-mode driver and a Go TUI.
@@ -57,7 +61,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [ttlequals0/MinusPod](https://github.com/ttlequals0/MinusPod)
   > MinusPod is a self-hosted server that removes ads before you ever hit play
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal
+
 
 ---
-*Last updated at 2026-05-08 09:42:08 UTC*
+*Last updated at 2026-05-08 10:40:15 UTC*
 *Historical records are stored in the `archive` directory.*
