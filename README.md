@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Inkscape MCP Server - Control Inkscape through AI assistants via Model Context Protocol
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [CrackerCat/dirtyfrag](https://github.com/CrackerCat/dirtyfrag)
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NyaMisty/ssl-kill-switch3](https://github.com/NyaMisty/ssl-kill-switch3)
+  > Next Generation SSLKillSwitch with much more support!
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kernullist/kn-diff-pool](https://github.com/kernullist/kn-diff-pool) to [classic130/kn-diff-pool](https://github.com/classic130/kn-diff-pool)
   > Windows kernel Big Pool snapshot/diff tool with a kernel-mode driver and a Go TUI.
@@ -35,6 +39,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag) to [killvxk/dirtyfrag](https://github.com/killvxk/dirtyfrag)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [chAng-L19/codex-redteam-optin-mode](https://github.com/chAng-L19/codex-redteam-optin-mode)
+  > 针对于红队攻击思维做出的red team模式(让你的codex像红队一样思考！)，可在单对话使用（可自行适配其他AI）
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
@@ -53,5 +59,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-08 07:39:33 UTC*
+*Last updated at 2026-05-08 08:42:16 UTC*
 *Historical records are stored in the `archive` directory.*
