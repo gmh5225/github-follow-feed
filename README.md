@@ -65,7 +65,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash local inference engine for Metal
 
+### [steipete](https://github.com/steipete)
+- 🚀 👤 [steipete](https://github.com/steipete) Made [openclaw/clickclack](https://github.com/openclaw/clickclack) public
+  > ClickClackClaw - The chat app with claws.
+
 
 ---
-*Last updated at 2026-05-08 10:40:15 UTC*
+*Last updated at 2026-05-08 11:37:36 UTC*
 *Historical records are stored in the `archive` directory.*
