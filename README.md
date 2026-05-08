@@ -55,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradedb/paradedb](https://github.com/paradedb/paradedb)
   > Simple, Elastic-quality search for Postgres
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr)
+  > Laminar - open-source observability platform purpose-built for AI agents. YC S24.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [antirez/ds4](https://github.com/antirez/ds4)
@@ -108,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-08 22:27:05 UTC*
+*Last updated at 2026-05-08 23:26:39 UTC*
 *Historical records are stored in the `archive` directory.*
