@@ -26,10 +26,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [gamous/HyperChecker](https://github.com/gamous/HyperChecker) to [CrackerCat/HyperChecker](https://github.com/CrackerCat/HyperChecker)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Sally-0000/ELF-tracker](https://github.com/Sally-0000/ELF-tracker) to [CrackerCat/ELF-tracker](https://github.com/CrackerCat/ELF-tracker)
   > 一款基于 DBI 的轻量化动态学习型运行时控制流保护工具
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Mrakorez/py2droid](https://github.com/Mrakorez/py2droid) to [CrackerCat/py2droid](https://github.com/CrackerCat/py2droid)
+  > Magisk/KernelSU/APatch module to install Python 3 on Android.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [chinleez/uap-disclosure-2026](https://github.com/chinleez/uap-disclosure-2026) to [CrackerCat/uap-disclosure-2026](https://github.com/CrackerCat/uap-disclosure-2026)
+  > 2026 年 5 月美国 UAP/UFO 解密资料中文索引 · Bilingual index of the May 2026 U.S. UAP/UFO declassified release — ...
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
   > Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x les...
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [xu-cheng/latex-docker](https://github.com/xu-cheng/latex-docker)
+  > :whale: Docker Image of TeXLive
 
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
@@ -42,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [linzzzzzz/openclip](https://github.com/linzzzzzz/openclip)
   > OpenClip - AI-powered highlight extraction for long videos (AI 驱动的长视频精彩时刻提取工具)
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [depthsecurity/PositiveIntent](https://github.com/depthsecurity/PositiveIntent)
+  > Evasive loader for .NET Framework assemblies
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
@@ -51,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-09 08:41:24 UTC*
+*Last updated at 2026-05-09 09:38:37 UTC*
 *Historical records are stored in the `archive` directory.*
