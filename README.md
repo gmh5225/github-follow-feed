@@ -51,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
+  > A git client based on the IntelliJ platform
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
   > mimalloc is a compact general purpose allocator with excellent performance.
@@ -70,6 +74,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Detector + PoC for Linux page-cache write vulnerabilities: Copy Fail (CVE-2026-31431) and Dirty Frag...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Neo23x0/Loki-RS](https://github.com/Neo23x0/Loki-RS)
   > 🐍 High-performance, multi-threaded YARA & IOC scanner
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [PentHertz/LUKSbox](https://github.com/PentHertz/LUKSbox)
+  > Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-...
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [rv2036/united-interns](https://github.com/rv2036/united-interns)
@@ -114,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-09 14:30:11 UTC*
+*Last updated at 2026-05-09 15:26:13 UTC*
 *Historical records are stored in the `archive` directory.*
