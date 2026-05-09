@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > the champagne of beta embedded databases
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [tikv/tikv](https://github.com/tikv/tikv)
   > Distributed transactional key-value database, originally created to complement TiDB
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [sgkdev/rxrpc_privesc](https://github.com/sgkdev/rxrpc_privesc)
+  > RxRPC privesc PoC without fcrypt() restrictions 
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [chinleez/eBPFDexDumper-rs](https://github.com/chinleez/eBPFDexDumper-rs) to [CrackerCat/eBPFDexDumper-rs](https://github.com/CrackerCat/eBPFDexDumper-rs)
@@ -54,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
   > A git client based on the IntelliJ platform
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [latedeployment/oci2bin](https://github.com/latedeployment/oci2bin)
+  > Convert OCI images into polyglot ELF+tar executables that run without Docker
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [playcanvas/supersplat](https://github.com/playcanvas/supersplat)
@@ -140,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-09 21:22:04 UTC*
+*Last updated at 2026-05-09 22:21:15 UTC*
 *Historical records are stored in the `archive` directory.*
