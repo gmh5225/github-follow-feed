@@ -24,6 +24,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [darbra/awesome-ai-reverse](https://github.com/darbra/awesome-ai-reverse) to [CrackerCat/awesome-ai-reverse](https://github.com/CrackerCat/awesome-ai-reverse)
   > ai reverse 一把梭
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [gamous/HyperChecker](https://github.com/gamous/HyperChecker) to [CrackerCat/HyperChecker](https://github.com/CrackerCat/HyperChecker)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Sally-0000/ELF-tracker](https://github.com/Sally-0000/ELF-tracker) to [CrackerCat/ELF-tracker](https://github.com/CrackerCat/ELF-tracker)
+  > 一款基于 DBI 的轻量化动态学习型运行时控制流保护工具
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
@@ -49,5 +51,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-09 07:40:27 UTC*
+*Last updated at 2026-05-09 08:41:24 UTC*
 *Historical records are stored in the `archive` directory.*
