@@ -15,11 +15,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ai reverse 一把梭
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [gamous/HyperChecker](https://github.com/gamous/HyperChecker) to [CrackerCat/HyperChecker](https://github.com/CrackerCat/HyperChecker)
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
+  > Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x les...
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [roborev-dev/roborev](https://github.com/roborev-dev/roborev)
   > Continuous background code review database for agents, work faster and smarter with accountability f...
 
 
 ---
-*Last updated at 2026-05-09 03:17:30 UTC*
+*Last updated at 2026-05-09 05:12:14 UTC*
 *Historical records are stored in the `archive` directory.*
