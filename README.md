@@ -59,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
   > mimalloc is a compact general purpose allocator with excellent performance.
 
+### [keowu](https://github.com/keowu)
+- 🌟 👤 [keowu](https://github.com/keowu) Starred [jonpalmisc/ida_screenshot](https://github.com/jonpalmisc/ida_screenshot)
+  > High-resolution screenshot capture plugin for IDA Pro
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)
   > Windsurf-to-OpenAI compatible API proxy
@@ -120,7 +124,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Microck/opencode-studio](https://github.com/Microck/opencode-studio)
   > web GUI for securely managing local OpenCode configuration
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [floci-io/floci](https://github.com/floci-io/floci)
-  > Light, fluffy, and always free - AWS Local Emulator 
+  > Light, fluffy, and always free - The AWS Local Emulator alternative
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
@@ -128,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-09 16:25:40 UTC*
+*Last updated at 2026-05-09 17:25:05 UTC*
 *Historical records are stored in the `archive` directory.*
