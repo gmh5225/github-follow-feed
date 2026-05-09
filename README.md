@@ -39,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [xu-cheng/latex-docker](https://github.com/xu-cheng/latex-docker)
   > :whale: Docker Image of TeXLive
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [Benjas333/sudachi-wasm333](https://github.com/Benjas333/sudachi-wasm333)
+  > WebAssembly distribution of sudachi.rs.
+
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
@@ -49,6 +53,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Chrome DevTools Protocol CLI — auto-connects to existing Chrome
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [linzzzzzz/openclip](https://github.com/linzzzzzz/openclip)
   > OpenClip - AI-powered highlight extraction for long videos (AI 驱动的长视频精彩时刻提取工具)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills)
+  > 收集整理渗透测试、漏洞扫描、代码审计、CTF、逆向、安全研究 等网络安全相关的 Skills和MCP
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [DaoYiSec/SecSkills](https://github.com/DaoYiSec/SecSkills) to [killvxk/SecSkills](https://github.com/killvxk/SecSkills)
+  > 收集整理渗透测试、漏洞扫描、代码审计、CTF、逆向、安全研究 等网络安全相关的 Skills和MCP
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [KaraZajac/DIRTYFAIL](https://github.com/KaraZajac/DIRTYFAIL) to [killvxk/DIRTYFAIL](https://github.com/killvxk/DIRTYFAIL)
+  > Detector + PoC for Linux page-cache write vulnerabilities: Copy Fail (CVE-2026-31431) and Dirty Frag...
+
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [rv2036/united-interns](https://github.com/rv2036/united-interns)
+  > Joint Recruitment and Training of Open Source Interns under the Jiachen Project
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [depthsecurity/PositiveIntent](https://github.com/depthsecurity/PositiveIntent)
@@ -61,7 +75,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [roborev-dev/roborev](https://github.com/roborev-dev/roborev)
   > Continuous background code review database for agents, work faster and smarter with accountability f...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [everywall/ladder](https://github.com/everywall/ladder)
+  > Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
+
 
 ---
-*Last updated at 2026-05-09 09:38:37 UTC*
+*Last updated at 2026-05-09 10:28:30 UTC*
 *Historical records are stored in the `archive` directory.*
