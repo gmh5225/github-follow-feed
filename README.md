@@ -100,6 +100,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [z0r0z/tacit](https://github.com/z0r0z/tacit)
   > smart contracts on bitcoin
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [0xhackerfren/ProcMon-MCP](https://github.com/0xhackerfren/ProcMon-MCP)
+  > An MCP to expose process monitoring and ETW tracing functionally to AI agents to assist in security ...
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [roborev-dev/roborev](https://github.com/roborev-dev/roborev)
   > Continuous background code review database for agents, work faster and smarter with accountability f...
@@ -113,6 +117,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Microck/opencode-studio](https://github.com/Microck/opencode-studio)
+  > web GUI for securely managing local OpenCode configuration
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [floci-io/floci](https://github.com/floci-io/floci)
+  > Light, fluffy, and always free - AWS Local Emulator 
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
@@ -120,5 +128,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-09 15:26:13 UTC*
+*Last updated at 2026-05-09 16:25:40 UTC*
 *Historical records are stored in the `archive` directory.*
