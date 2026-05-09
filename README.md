@@ -55,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DetachHead/rebased](https://github.com/DetachHead/rebased)
   > A git client based on the IntelliJ platform
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [playcanvas/supersplat](https://github.com/playcanvas/supersplat)
+  > 3D Gaussian Splat Editor
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
   > mimalloc is a compact general purpose allocator with excellent performance.
@@ -132,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-09 19:30:33 UTC*
+*Last updated at 2026-05-09 20:21:26 UTC*
 *Historical records are stored in the `archive` directory.*
