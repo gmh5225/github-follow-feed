@@ -51,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
+  > mimalloc is a compact general purpose allocator with excellent performance.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dwgx/WindsurfAPI](https://github.com/dwgx/WindsurfAPI)
   > Windsurf-to-OpenAI compatible API proxy
@@ -64,6 +68,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 收集整理渗透测试、漏洞扫描、代码审计、CTF、逆向、安全研究 等网络安全相关的 Skills和MCP
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [KaraZajac/DIRTYFAIL](https://github.com/KaraZajac/DIRTYFAIL) to [killvxk/DIRTYFAIL](https://github.com/killvxk/DIRTYFAIL)
   > Detector + PoC for Linux page-cache write vulnerabilities: Copy Fail (CVE-2026-31431) and Dirty Frag...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Neo23x0/Loki-RS](https://github.com/Neo23x0/Loki-RS)
+  > 🐍 High-performance, multi-threaded YARA & IOC scanner
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [rv2036/united-interns](https://github.com/rv2036/united-interns)
@@ -91,6 +97,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [roborev-dev/roborev](https://github.com/roborev-dev/roborev)
   > Continuous background code review database for agents, work faster and smarter with accountability f...
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [microsoft/delegate52](https://github.com/microsoft/delegate52)
+  > Code  that accompanies the paper release for "LLMs Corrupt Your Documents When You Delegate"
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [everywall/ladder](https://github.com/everywall/ladder)
@@ -100,7 +108,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
+  > Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish...
+
 
 ---
-*Last updated at 2026-05-09 13:36:33 UTC*
+*Last updated at 2026-05-09 14:30:11 UTC*
 *Historical records are stored in the `archive` directory.*
