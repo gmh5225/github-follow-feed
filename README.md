@@ -130,11 +130,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [floci-io/floci](https://github.com/floci-io/floci)
   > Light, fluffy, and always free - The AWS Local Emulator alternative
 
+### [wbenny](https://github.com/wbenny)
+- 🌟 👤 [wbenny](https://github.com/wbenny) Starred [apoc/omp-depktop](https://github.com/apoc/omp-depktop)
+  > Desktop application for interacting with oh-my-pi
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)
   > Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feish...
 
 
 ---
-*Last updated at 2026-05-09 20:21:26 UTC*
+*Last updated at 2026-05-09 21:22:04 UTC*
 *Historical records are stored in the `archive` directory.*
