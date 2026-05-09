@@ -34,6 +34,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent)
   > Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x les...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [xu-cheng/latex-docker](https://github.com/xu-cheng/latex-docker)
@@ -68,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [depthsecurity/PositiveIntent](https://github.com/depthsecurity/PositiveIntent)
   > Evasive loader for .NET Framework assemblies
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [radareorg/r2ai](https://github.com/radareorg/r2ai) to [frida/r2ai](https://github.com/frida/r2ai)
+  > LLM-based reversing for radare2
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
@@ -78,8 +84,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [everywall/ladder](https://github.com/everywall/ladder)
   > Selfhosted alternative to 12ft.io. and 1ft.io. Proxy to remove CORS headers and modify HTML
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [GH05TCREW/pentestagent](https://github.com/GH05TCREW/pentestagent)
+  > PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-tea...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
 
 
 ---
-*Last updated at 2026-05-09 10:28:30 UTC*
+*Last updated at 2026-05-09 11:23:44 UTC*
 *Historical records are stored in the `archive` directory.*
