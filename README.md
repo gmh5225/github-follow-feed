@@ -66,9 +66,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [rv2036/united-interns](https://github.com/rv2036/united-interns)
   > Joint Recruitment and Training of Open Source Interns under the Jiachen Project
 
+### [momo5502](https://github.com/momo5502)
+- 🍴 👤 [momo5502](https://github.com/momo5502) Forked [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) to [momo5502/llvm-cbe](https://github.com/momo5502/llvm-cbe)
+  > resurrected LLVM "C Backend", with improvements
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [depthsecurity/PositiveIntent](https://github.com/depthsecurity/PositiveIntent)
   > Evasive loader for .NET Framework assemblies
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/crosvm](https://github.com/google/crosvm)
+  > The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [radareorg/r2ai](https://github.com/radareorg/r2ai) to [frida/r2ai](https://github.com/frida/r2ai)
@@ -76,6 +82,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [z0r0z/tacit](https://github.com/z0r0z/tacit)
+  > smart contracts on bitcoin
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [roborev-dev/roborev](https://github.com/roborev-dev/roborev)
@@ -91,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-09 11:23:44 UTC*
+*Last updated at 2026-05-09 12:30:25 UTC*
 *Historical records are stored in the `archive` directory.*
