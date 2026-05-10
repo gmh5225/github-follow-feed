@@ -83,6 +83,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [esp-rs/awesome-esp-rust](https://github.com/esp-rs/awesome-esp-rust)
   > Curated list of resources for ESP32 development in the Rust programming language
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg)
+  > Kanji vector graphics
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [WaniKani/WanaKana](https://github.com/WaniKani/WanaKana)
+  > Javascript library for detecting and transforming between Hiragana, Katakana, and Romaji
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
   > Themida Devirt Results
@@ -146,5 +152,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 22:22:31 UTC*
+*Last updated at 2026-05-10 23:24:27 UTC*
 *Historical records are stored in the `archive` directory.*
