@@ -29,6 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [nooga/let-go](https://github.com/nooga/let-go)
   > Almost Clojure written in Go.
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [zaas2/StudyPE_2026](https://github.com/zaas2/StudyPE_2026)
+  > Modern PE/ARM/.NET analyzer and editor rebuilt with Qt 5.15
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mandiant/capa](https://github.com/mandiant/capa)
@@ -49,6 +51,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
   > a Docker + Kubernetes network trouble-shooting swiss-army container
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
+  > 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork)
+  > Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
@@ -68,19 +76,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [EkuboProtocol/huff-router](https://github.com/EkuboProtocol/huff-router)
   > Optimized router contract for Ekubo Protocol on EVM
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
-  > Open-source orchestration for zero-human companies
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [leinelissen/embedded-postgres](https://github.com/leinelissen/embedded-postgres)
-  > 🐘 A Node package that allows you to spawn a Postgresql cluster programatically.
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [antirez/ds4](https://github.com/antirez/ds4)
-  > DeepSeek 4 Flash local inference engine for Metal
-
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
   > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
 
 
 ---
-*Last updated at 2026-05-10 11:25:26 UTC*
+*Last updated at 2026-05-10 12:30:25 UTC*
 *Historical records are stored in the `archive` directory.*
