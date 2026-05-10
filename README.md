@@ -39,6 +39,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🍴 👤 [P4nda0s](https://github.com/P4nda0s) Forked [NyaMisty/ssl-kill-switch3](https://github.com/NyaMisty/ssl-kill-switch3) to [P4nda0s/ssl-kill-switch3](https://github.com/P4nda0s/ssl-kill-switch3)
   > Next Generation SSLKillSwitch with much more support!
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [ant-design/ant-design](https://github.com/ant-design/ant-design)
+  > An enterprise-class UI design language and React UI library
 
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [geekbyter/android-sec-skills](https://github.com/geekbyter/android-sec-skills)
@@ -61,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork)
   > Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [espressif/kicad-libraries](https://github.com/espressif/kicad-libraries)
+  > KiCad libraries for Espressif SoCs, modules, and DevKits.
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
@@ -94,5 +100,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 14:31:43 UTC*
+*Last updated at 2026-05-10 15:26:54 UTC*
 *Historical records are stored in the `archive` directory.*
