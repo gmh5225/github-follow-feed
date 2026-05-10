@@ -12,9 +12,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [Hendi48/Magicmida](https://github.com/Hendi48/Magicmida)
   > Themida unpacker
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dreadnode/DreadGOAD](https://github.com/dreadnode/DreadGOAD)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU) to [CrackerCat/YukiSU](https://github.com/CrackerCat/YukiSU)
   > Kernel-based Android Root Solution
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lidongyooo/AlgoKiller](https://github.com/lidongyooo/AlgoKiller) to [CrackerCat/AlgoKiller](https://github.com/CrackerCat/AlgoKiller)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lidongyooo/kpm-backtrace](https://github.com/lidongyooo/kpm-backtrace) to [CrackerCat/kpm-backtrace](https://github.com/CrackerCat/kpm-backtrace)
+  > Traceback the user stack in kernel
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lidongyooo/ARM64DBI](https://github.com/lidongyooo/ARM64DBI) to [CrackerCat/ARM64DBI](https://github.com/CrackerCat/ARM64DBI)
+  > ARM64 DBI DEMO
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lidongyooo/Claude-Trace-Taint](https://github.com/lidongyooo/Claude-Trace-Taint) to [CrackerCat/Claude-Trace-Taint](https://github.com/CrackerCat/Claude-Trace-Taint)
+  > Three Prompt, A TaintEngine
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [nooga/let-go](https://github.com/nooga/let-go)
@@ -46,11 +56,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [engdan77/mitm_youtube_repeller](https://github.com/engdan77/mitm_youtube_repeller)
   > 🤧🎦 A Man-In-The-Middle proxy for blocking YouTube videos such as shorts 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
+  > An x86-64 code virtualizer for VM based obfuscation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stuxnet147/Themida-Research](https://github.com/stuxnet147/Themida-Research)
+  > Themida 3.x research
+
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+  > Open-source orchestration for zero-human companies
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
   > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
 
 
 ---
-*Last updated at 2026-05-10 09:37:51 UTC*
+*Last updated at 2026-05-10 10:33:04 UTC*
 *Historical records are stored in the `archive` directory.*
