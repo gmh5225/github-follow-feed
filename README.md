@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mandiant/capa](https://github.com/mandiant/capa)
   > The FLARE team's open-source tool to identify capabilities in executable files.
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🍴 👤 [P4nda0s](https://github.com/P4nda0s) Forked [NyaMisty/ssl-kill-switch3](https://github.com/NyaMisty/ssl-kill-switch3) to [P4nda0s/ssl-kill-switch3](https://github.com/P4nda0s/ssl-kill-switch3)
+  > Next Generation SSLKillSwitch with much more support!
+
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [geekbyter/android-sec-skills](https://github.com/geekbyter/android-sec-skills)
   > 仅codex，其他未测试
@@ -82,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 12:30:25 UTC*
+*Last updated at 2026-05-10 13:36:54 UTC*
 *Historical records are stored in the `archive` directory.*
