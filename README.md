@@ -53,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+  > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
@@ -72,12 +74,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [espressif/kicad-libraries](https://github.com/espressif/kicad-libraries)
   > KiCad libraries for Espressif SoCs, modules, and DevKits.
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal)
+  > no_std Hardware Abstraction Layers for ESP32 microcontrollers
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
   > MacOS Web Server written entirely in ARM64 assembly
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [engdan77/mitm_youtube_repeller](https://github.com/engdan77/mitm_youtube_repeller)
   > 🤧🎦 A Man-In-The-Middle proxy for blocking YouTube videos such as shorts 
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jewlexx/discord-presence](https://github.com/jewlexx/discord-presence)
+  > Discord Rich Presence in Rust
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
@@ -111,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 17:25:38 UTC*
+*Last updated at 2026-05-10 18:28:33 UTC*
 *Historical records are stored in the `archive` directory.*
