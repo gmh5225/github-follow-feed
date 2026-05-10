@@ -46,7 +46,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [engdan77/mitm_youtube_repeller](https://github.com/engdan77/mitm_youtube_repeller)
   > 🤧🎦 A Man-In-The-Middle proxy for blocking YouTube videos such as shorts 
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
+  > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
+
 
 ---
-*Last updated at 2026-05-10 08:45:14 UTC*
+*Last updated at 2026-05-10 09:37:51 UTC*
 *Historical records are stored in the `archive` directory.*
