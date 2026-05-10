@@ -76,6 +76,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > KiCad libraries for Espressif SoCs, modules, and DevKits.
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [esp-rs/esp-hal](https://github.com/esp-rs/esp-hal)
   > no_std Hardware Abstraction Layers for ESP32 microcontrollers
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [esp-rs/awesome-esp-rust](https://github.com/esp-rs/awesome-esp-rust)
+  > Curated list of resources for ESP32 development in the Rust programming language
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
@@ -83,9 +85,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [engdan77/mitm_youtube_repeller](https://github.com/engdan77/mitm_youtube_repeller)
   > 🤧🎦 A Man-In-The-Middle proxy for blocking YouTube videos such as shorts 
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [0xeb/vibe-re](https://github.com/0xeb/vibe-re)
+  > A collection of vibe reverse engineered binaries and malware (for educational purposes only)
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jewlexx/discord-presence](https://github.com/jewlexx/discord-presence)
   > Discord Rich Presence in Rust
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [narcotic-sh/modafinil](https://github.com/narcotic-sh/modafinil)
+  > Let your agents run while your MacBook lid is closed
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
@@ -119,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 18:28:33 UTC*
+*Last updated at 2026-05-10 19:30:23 UTC*
 *Historical records are stored in the `archive` directory.*
