@@ -16,6 +16,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiSU](https://github.com/Anatdx/YukiSU) to [CrackerCat/YukiSU](https://github.com/CrackerCat/YukiSU)
   > Kernel-based Android Root Solution
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [nooga/let-go](https://github.com/nooga/let-go)
+  > Almost Clojure written in Go.
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mandiant/capa](https://github.com/mandiant/capa)
+  > The FLARE team's open-source tool to identify capabilities in executable files.
+
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [geekbyter/android-sec-skills](https://github.com/geekbyter/android-sec-skills)
   > 仅codex，其他未测试
@@ -28,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
   > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
+  > a Docker + Kubernetes network trouble-shooting swiss-army container
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
   > MacOS Web Server written entirely in ARM64 assembly
@@ -36,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 07:05:44 UTC*
+*Last updated at 2026-05-10 08:45:14 UTC*
 *Historical records are stored in the `archive` directory.*
