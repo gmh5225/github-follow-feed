@@ -60,6 +60,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
   > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
+  > Themida Devirt Results
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
   > a Docker + Kubernetes network trouble-shooting swiss-army container
@@ -127,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 19:30:23 UTC*
+*Last updated at 2026-05-10 20:22:22 UTC*
 *Historical records are stored in the `archive` directory.*
