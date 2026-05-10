@@ -83,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [esp-rs/awesome-esp-rust](https://github.com/esp-rs/awesome-esp-rust)
   > Curated list of resources for ESP32 development in the Rust programming language
 
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
+  > Themida Devirt Results
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
   > MacOS Web Server written entirely in ARM64 assembly
@@ -104,6 +108,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An x86-64 code virtualizer for VM based obfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stuxnet147/Themida-Research](https://github.com/stuxnet147/Themida-Research)
   > Themida 3.x research
+
+### [mthcht](https://github.com/mthcht)
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [xpn/Ouroboros](https://github.com/xpn/Ouroboros)
+  > A POC tool for exploring dev-tunnels
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [xpn/OktaPostExToolkit](https://github.com/xpn/OktaPostExToolkit)
 
 ### [mubix](https://github.com/mubix)
 - 🌟 👤 [mubix](https://github.com/mubix) Starred [provos/ironcurtain](https://github.com/provos/ironcurtain)
@@ -131,5 +140,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 20:22:22 UTC*
+*Last updated at 2026-05-10 21:23:12 UTC*
 *Historical records are stored in the `archive` directory.*
