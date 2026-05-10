@@ -50,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PentHertz/LUKSbox](https://github.com/PentHertz/LUKSbox)
   > Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
   > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
@@ -58,7 +62,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nicolaka/netshoot](https://github.com/nicolaka/netshoot)
   > a Docker + Kubernetes network trouble-shooting swiss-army container
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe)
-  > 💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.
+  > 💻 vibe coding 2026 | Your first modern Coding course for beginners to master step by step.
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork)
@@ -93,6 +97,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [OpenSourceMalware/PolinRider](https://github.com/OpenSourceMalware/PolinRider)
   > A detailed technical dossier on the DPRK threat actor "PolinRider"
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [corelan/mona3](https://github.com/corelan/mona3)
+  > Repository for mona v3 - Corelan's exploit dev tool for Windbg, WindbgX etc
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [romainsimon/paperasse](https://github.com/romainsimon/paperasse)
   > 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
@@ -103,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 16:25:49 UTC*
+*Last updated at 2026-05-10 17:25:38 UTC*
 *Historical records are stored in the `archive` directory.*
