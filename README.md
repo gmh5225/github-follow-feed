@@ -63,6 +63,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Detanup01/gbe_fork](https://github.com/Detanup01/gbe_fork)
   > Fork of https://gitlab.com/Mr_Goldberg/goldberg_emulator
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [espressif/kicad-libraries](https://github.com/espressif/kicad-libraries)
@@ -89,6 +90,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > DeepSeek 4 Flash local inference engine for Metal
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [EkuboProtocol/huff-router](https://github.com/EkuboProtocol/huff-router)
   > Optimized router contract for Ekubo Protocol on EVM
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [OpenSourceMalware/PolinRider](https://github.com/OpenSourceMalware/PolinRider)
+  > A detailed technical dossier on the DPRK threat actor "PolinRider"
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [romainsimon/paperasse](https://github.com/romainsimon/paperasse)
@@ -100,5 +103,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 15:26:54 UTC*
+*Last updated at 2026-05-10 16:25:49 UTC*
 *Historical records are stored in the `archive` directory.*
