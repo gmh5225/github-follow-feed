@@ -74,11 +74,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stuxnet147/Themida-Research](https://github.com/stuxnet147/Themida-Research)
   > Themida 3.x research
 
+### [mubix](https://github.com/mubix)
+- 🌟 👤 [mubix](https://github.com/mubix) Starred [provos/ironcurtain](https://github.com/provos/ironcurtain)
+  > A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironc...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash local inference engine for Metal
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [EkuboProtocol/huff-router](https://github.com/EkuboProtocol/huff-router)
   > Optimized router contract for Ekubo Protocol on EVM
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [romainsimon/paperasse](https://github.com/romainsimon/paperasse)
+  > 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
@@ -86,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 13:36:54 UTC*
+*Last updated at 2026-05-10 14:31:43 UTC*
 *Historical records are stored in the `archive` directory.*
