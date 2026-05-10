@@ -113,6 +113,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [xpn/Ouroboros](https://github.com/xpn/Ouroboros)
   > A POC tool for exploring dev-tunnels
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [xpn/OktaPostExToolkit](https://github.com/xpn/OktaPostExToolkit)
+- 🍴 👤 [mthcht](https://github.com/mthcht) Forked [ghostery/ghostery-extension](https://github.com/ghostery/ghostery-extension) to [mthcht/ghostery-extension-enhanced](https://github.com/mthcht/ghostery-extension-enhanced)
+  > Ghostery Browser Extension for Firefox, Chrome, Opera, Edge and Safari
 
 ### [mubix](https://github.com/mubix)
 - 🌟 👤 [mubix](https://github.com/mubix) Starred [provos/ironcurtain](https://github.com/provos/ironcurtain)
@@ -125,6 +127,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Optimized router contract for Ekubo Protocol on EVM
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [OpenSourceMalware/PolinRider](https://github.com/OpenSourceMalware/PolinRider)
   > A detailed technical dossier on the DPRK threat actor "PolinRider"
+
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [xai-org/grok-prompts](https://github.com/xai-org/grok-prompts)
+  > Prompts for our Grok chat assistant and the `@grok` bot on X.
 
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [corelan/mona3](https://github.com/corelan/mona3)
@@ -140,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-10 21:23:12 UTC*
+*Last updated at 2026-05-10 22:22:31 UTC*
 *Historical records are stored in the `archive` directory.*
