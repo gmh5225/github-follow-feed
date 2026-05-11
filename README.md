@@ -47,9 +47,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [backengineering/vmp2](https://github.com/backengineering/vmp2) to [enovella/vmp2](https://github.com/enovella/vmp2)
   > VMProtect2 Deobfuscation Tooling
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [decolua/9router](https://github.com/decolua/9router)
+  > Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Cl...
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [PerformanC/Treat-Wheel-Zygisk](https://github.com/PerformanC/Treat-Wheel-Zygisk)
   > The wheel to reinvent the new light.
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI)
+  > Reduce the space taken up by games and programs on disk by using native Windows APIs
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pHequals7/muesli](https://github.com/pHequals7/muesli)
@@ -103,11 +109,37 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SnailSploit/Xposure](https://github.com/SnailSploit/Xposure)
   > fully autonomous credential intelligence platform that discovers,   │ │  extracts, correlates, verif...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [1r0BIT/WinSSHound](https://github.com/1r0BIT/WinSSHound)
+  > Windows SSH Misconfiguration Discovery Tool - Map lateral movement paths through misconfigured SSH s...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [1r0BIT/WinSSHound](https://github.com/1r0BIT/WinSSHound) to [killvxk/WinSSHound](https://github.com/killvxk/WinSSHound)
+  > Windows SSH Misconfiguration Discovery Tool - Map lateral movement paths through misconfigured SSH s...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [slowmist/misteye-skills](https://github.com/slowmist/misteye-skills)
+  > misteye security check skills
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
+  > git push no-mistakes
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [orhun/ratty](https://github.com/orhun/ratty)
+  > A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [striga-ai/CVE-2026-34486](https://github.com/striga-ai/CVE-2026-34486)
+  > Apache Tomcat Tribes EncryptInterceptor fail-open bypass, unauthenticated RCE PoC
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [striga-ai/CVE-2026-34486](https://github.com/striga-ai/CVE-2026-34486) to [killvxk/CVE-2026-34486](https://github.com/killvxk/CVE-2026-34486)
+  > Apache Tomcat Tribes EncryptInterceptor fail-open bypass, unauthenticated RCE PoC
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ZeroPathAI/nifi-CVE-2026-39816-poc](https://github.com/ZeroPathAI/nifi-CVE-2026-39816-poc)
+  > POC for CVE-2026-39816 which allows NiFi users without execute code permissions to run arbitrary scr...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [ZeroPathAI/nifi-CVE-2026-39816-poc](https://github.com/ZeroPathAI/nifi-CVE-2026-39816-poc) to [killvxk/nifi-CVE-2026-39816-poc](https://github.com/killvxk/nifi-CVE-2026-39816-poc)
+  > POC for CVE-2026-39816 which allows NiFi users without execute code permissions to run arbitrary scr...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)
+  > 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi,...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [wjakob/nanobind](https://github.com/wjakob/nanobind)
   > nanobind: tiny and efficient C++/Python bindings
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Garfield1002/open_sleigh](https://github.com/Garfield1002/open_sleigh)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SwagSoftware/KisakBlack](https://github.com/SwagSoftware/KisakBlack)
+  > BLOPS Open Source Reimplementation
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SwagSoftware/Kisak-Strike](https://github.com/SwagSoftware/Kisak-Strike)
+  > 100% Open Source CSGO
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SwagSoftware/kisak-thug](https://github.com/SwagSoftware/kisak-thug)
+  > Tony Hawk's Underground
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [jonny-jhnson/EtwWatcher](https://github.com/jonny-jhnson/EtwWatcher)
@@ -120,6 +152,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [rnk](https://github.com/rnk) Forked [aristocratos/btop](https://github.com/aristocratos/btop) to [rnk/btop](https://github.com/rnk/btop)
   > A monitor of resources
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [JeffSteinbok/carapace-plugin-sdk](https://github.com/JeffSteinbok/carapace-plugin-sdk)
+  > SDK for building OpenClaw plugins — types, helpers, CLI generation
+
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [geeksonsecurity/idatips](https://github.com/geeksonsecurity/idatips)
   > IDAPython / IDC tips and tricks
@@ -130,5 +170,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-11 17:02:51 UTC*
+*Last updated at 2026-05-11 18:47:59 UTC*
 *Historical records are stored in the `archive` directory.*
