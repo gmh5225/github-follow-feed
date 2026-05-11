@@ -4,15 +4,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vsimpro/nostril](https://github.com/Vsimpro/nostril)
+  > Nostr Malware proof-of-concept repository.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MhmRdd/Isolation-Policy](https://github.com/MhmRdd/Isolation-Policy) to [CrackerCat/Isolation-Policy](https://github.com/CrackerCat/Isolation-Policy)
   > LSPosed module that denies useAppZygote for selected packages by hooking HostingRecord.usesAppZygote...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ThePedroo/Treat-Wheel-Zygisk](https://github.com/ThePedroo/Treat-Wheel-Zygisk) to [CrackerCat/Treat-Wheel-Zygisk](https://github.com/CrackerCat/Treat-Wheel-Zygisk)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PerformanC/Treat-Wheel-Zygisk](https://github.com/PerformanC/Treat-Wheel-Zygisk) to [CrackerCat/Treat-Wheel-Zygisk](https://github.com/CrackerCat/Treat-Wheel-Zygisk)
   > The wheel to reinvent the new light.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) to [CrackerCat/DirtySepolicy](https://github.com/CrackerCat/DirtySepolicy)
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TheJudge26/C-Asterisk-Alpha](https://github.com/TheJudge26/C-Asterisk-Alpha)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [qnighy/win16ne](https://github.com/qnighy/win16ne)
+  > Win16 NE (New Executable) parser & disassembler
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs)
@@ -42,8 +48,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > VMProtect2 Deobfuscation Tooling
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ThePedroo/Treat-Wheel-Zygisk](https://github.com/ThePedroo/Treat-Wheel-Zygisk)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [PerformanC/Treat-Wheel-Zygisk](https://github.com/PerformanC/Treat-Wheel-Zygisk)
   > The wheel to reinvent the new light.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pHequals7/muesli](https://github.com/pHequals7/muesli)
+  > Muesli - local meeting transcription + dictation for macOS (Granola + WisprFlow alternative)
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [luix93/DGX-Spark-ComfyUI](https://github.com/luix93/DGX-Spark-ComfyUI)
@@ -94,6 +104,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SnailSploit/Xposure](https://github.com/SnailSploit/Xposure)
   > fully autonomous credential intelligence platform that discovers,   │ │  extracts, correlates, verif...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [wjakob/nanobind](https://github.com/wjakob/nanobind)
+  > nanobind: tiny and efficient C++/Python bindings
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Garfield1002/open_sleigh](https://github.com/Garfield1002/open_sleigh)
+
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [jonny-jhnson/EtwWatcher](https://github.com/jonny-jhnson/EtwWatcher)
   > Browse and diff ETW provider snapshots across Windows builds. Backed by ETWInspector.
@@ -115,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-11 15:11:41 UTC*
+*Last updated at 2026-05-11 17:02:51 UTC*
 *Historical records are stored in the `archive` directory.*
