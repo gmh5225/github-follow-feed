@@ -28,6 +28,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [avast/retdec](https://github.com/avast/retdec)
+  > RetDec is a retargetable machine-code decompiler based on LLVM.
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [ergrelet/themida-unmutate](https://github.com/ergrelet/themida-unmutate)
+  > Static deobfuscator for Themida, WinLicense and Code Virtualizer 3.x's mutation-based obfuscation.
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [ergrelet/themida-unmutate](https://github.com/ergrelet/themida-unmutate) to [enovella/themida-unmutate](https://github.com/enovella/themida-unmutate)
+  > Static deobfuscator for Themida, WinLicense and Code Virtualizer 3.x's mutation-based obfuscation.
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [NaC-L/Mergen](https://github.com/NaC-L/Mergen)
+  > Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [NaC-L/Mergen](https://github.com/NaC-L/Mergen) to [enovella/Mergen](https://github.com/enovella/Mergen)
+  > Deobfuscation via optimization with usage of LLVM IR and parsing assembly.
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [backengineering/vmp2](https://github.com/backengineering/vmp2) to [enovella/vmp2](https://github.com/enovella/vmp2)
+  > VMProtect2 Deobfuscation Tooling
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ThePedroo/Treat-Wheel-Zygisk](https://github.com/ThePedroo/Treat-Wheel-Zygisk)
@@ -82,6 +94,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SnailSploit/Xposure](https://github.com/SnailSploit/Xposure)
   > fully autonomous credential intelligence platform that discovers,   │ │  extracts, correlates, verif...
 
+### [mthcht](https://github.com/mthcht)
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [jonny-jhnson/EtwWatcher](https://github.com/jonny-jhnson/EtwWatcher)
+  > Browse and diff ETW provider snapshots across Windows builds. Backed by ETWInspector.
+
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
@@ -89,7 +105,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [rnk](https://github.com/rnk) Forked [aristocratos/btop](https://github.com/aristocratos/btop) to [rnk/btop](https://github.com/rnk/btop)
   > A monitor of resources
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [geeksonsecurity/idatips](https://github.com/geeksonsecurity/idatips)
+  > IDAPython / IDC tips and tricks
+
+### [zompi2](https://github.com/zompi2)
+- 🌟 👤 [zompi2](https://github.com/zompi2) Starred [GameDevGrzesiek/OptimizationBible](https://github.com/GameDevGrzesiek/OptimizationBible)
+  > This repository hosts my notes regarding games optimization with focus on Unity and Unreal in partic...
+
 
 ---
-*Last updated at 2026-05-11 13:14:57 UTC*
+*Last updated at 2026-05-11 15:11:41 UTC*
 *Historical records are stored in the `archive` directory.*
