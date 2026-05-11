@@ -11,15 +11,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The wheel to reinvent the new light.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy) to [CrackerCat/DirtySepolicy](https://github.com/CrackerCat/DirtySepolicy)
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [AabyssZG/HashDump-BypassEDR](https://github.com/AabyssZG/HashDump-BypassEDR) to [classic130/HashDump-BypassEDR](https://github.com/classic130/HashDump-BypassEDR)
+  > Windows绕过EDR实现DumpHash
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ThePedroo/Treat-Wheel-Zygisk](https://github.com/ThePedroo/Treat-Wheel-Zygisk)
+  > The wheel to reinvent the new light.
+
 ### [rnk](https://github.com/rnk)
 - 🍴 👤 [rnk](https://github.com/rnk) Forked [aristocratos/btop](https://github.com/aristocratos/btop) to [rnk/btop](https://github.com/rnk/btop)
   > A monitor of resources
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [jesse-merhi/proxyline](https://github.com/jesse-merhi/proxyline)
-  > Process-global proxy routing for Node.js
-
 
 ---
-*Last updated at 2026-05-11 05:28:35 UTC*
+*Last updated at 2026-05-11 07:29:39 UTC*
 *Historical records are stored in the `archive` directory.*
