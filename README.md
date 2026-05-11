@@ -15,7 +15,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [rnk](https://github.com/rnk) Forked [aristocratos/btop](https://github.com/aristocratos/btop) to [rnk/btop](https://github.com/rnk/btop)
   > A monitor of resources
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [jesse-merhi/proxyline](https://github.com/jesse-merhi/proxyline)
+  > Process-global proxy routing for Node.js
+
 
 ---
-*Last updated at 2026-05-11 03:20:49 UTC*
+*Last updated at 2026-05-11 05:28:35 UTC*
 *Historical records are stored in the `archive` directory.*
