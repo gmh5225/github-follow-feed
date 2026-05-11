@@ -75,6 +75,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [luix93/DGX-Spark-ComfyUI](https://github.com/luix93/DGX-Spark-ComfyUI)
   > An optimized setup for running ComfyUI on DGX Spark
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [zbalkan/slmgr-ps](https://github.com/zbalkan/slmgr-ps)
+  > A drop in replacement for slmgr script
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jthack/claude-goal](https://github.com/jthack/claude-goal)
   > Codex-style /goal command for Claude Code
@@ -182,5 +186,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-11 22:29:52 UTC*
+*Last updated at 2026-05-11 23:26:16 UTC*
 *Historical records are stored in the `archive` directory.*
