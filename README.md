@@ -155,6 +155,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [jonny-jhnson/EtwWatcher](https://github.com/jonny-jhnson/EtwWatcher)
   > Browse and diff ETW provider snapshots across Windows builds. Backed by ETWInspector.
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI)
+  > Reduce the space taken up by games and programs on disk by using native Windows APIs
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)
+  > Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
 
@@ -176,5 +182,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-11 21:35:48 UTC*
+*Last updated at 2026-05-11 22:29:52 UTC*
 *Historical records are stored in the `archive` directory.*
