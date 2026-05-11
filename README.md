@@ -33,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ThePedroo/Treat-Wheel-Zygisk](https://github.com/ThePedroo/Treat-Wheel-Zygisk)
   > The wheel to reinvent the new light.
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [luix93/DGX-Spark-ComfyUI](https://github.com/luix93/DGX-Spark-ComfyUI)
+  > An optimized setup for running ComfyUI on DGX Spark
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jthack/claude-goal](https://github.com/jthack/claude-goal)
   > Codex-style /goal command for Claude Code
@@ -59,6 +63,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A git client based on the IntelliJ platform
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xcc12138/DCS-935L-HNAP-Service-CVE](https://github.com/0xcc12138/DCS-935L-HNAP-Service-CVE)
   > This vulnerability exists in the HNAP service handler of the D-Link DCS-935L firmware. An attacker c...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [AabyssZG/HashDump-BypassEDR](https://github.com/AabyssZG/HashDump-BypassEDR)
+  > Windows绕过EDR实现DumpHash
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [raskolnikov90/Beatrice.py](https://github.com/raskolnikov90/Beatrice.py)
+  > Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [KaraZajac/DIRTYFAIL](https://github.com/KaraZajac/DIRTYFAIL)
+  > Detector + PoC for Linux page-cache write vulnerabilities: Copy Fail (CVE-2026-31431) and Dirty Frag...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [sbom-tool/sbom-tools](https://github.com/sbom-tool/sbom-tools) to [killvxk/sbom-tools](https://github.com/killvxk/sbom-tools)
+  > Semantic SBOM/CBOM diff, quality scoring, and TUI analysis tool for CycloneDX/SPDX — covering compon...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xcc12138/DCS-935L-HNAP-Service-CVE](https://github.com/0xcc12138/DCS-935L-HNAP-Service-CVE) to [killvxk/DCS-935L-HNAP-Service-CVE](https://github.com/killvxk/DCS-935L-HNAP-Service-CVE)
+  > This vulnerability exists in the HNAP service handler of the D-Link DCS-935L firmware. An attacker c...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hurryingauto3/master-humanizer](https://github.com/hurryingauto3/master-humanizer)
+  > Editorial Claude Code skill that removes generic model residue from drafts while preserving meaning,...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [hurryingauto3/master-humanizer](https://github.com/hurryingauto3/master-humanizer) to [killvxk/master-humanizer](https://github.com/killvxk/master-humanizer)
+  > Editorial Claude Code skill that removes generic model residue from drafts while preserving meaning,...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wgpsec/AboutSecurity](https://github.com/wgpsec/AboutSecurity)
+  > Everything for pentest. | 渗透测试知识库，以 AI Agent 可执行的格式沉淀安全方法论。
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SnailSploit/Xposure](https://github.com/SnailSploit/Xposure)
+  > fully autonomous credential intelligence platform that discovers,   │ │  extracts, correlates, verif...
 
 ### [reveny](https://github.com/reveny)
 - 🌟 👤 [reveny](https://github.com/reveny) Starred [LSPosed/DirtySepolicy](https://github.com/LSPosed/DirtySepolicy)
@@ -69,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-11 11:12:52 UTC*
+*Last updated at 2026-05-11 13:14:57 UTC*
 *Historical records are stored in the `archive` directory.*
