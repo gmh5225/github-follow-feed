@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [qnighy/win16ne](https://github.com/qnighy/win16ne)
   > Win16 NE (New Executable) parser & disassembler
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [iv-org/invidious](https://github.com/iv-org/invidious)
+  > Invidious is an alternative front-end to YouTube
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs)
   > libgit2 bindings for Rust
@@ -50,6 +54,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [decolua/9router](https://github.com/decolua/9router)
   > Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Cl...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)
+  > Your agent writes bad React. This catches it
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [PerformanC/Treat-Wheel-Zygisk](https://github.com/PerformanC/Treat-Wheel-Zygisk)
@@ -152,10 +158,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [rnk](https://github.com/rnk) Forked [aristocratos/btop](https://github.com/aristocratos/btop) to [rnk/btop](https://github.com/rnk/btop)
   > A monitor of resources
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [JeffSteinbok/carapace-plugin-sdk](https://github.com/JeffSteinbok/carapace-plugin-sdk)
-  > SDK for building OpenClaw plugins — types, helpers, CLI generation
-
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
@@ -170,5 +172,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-11 18:47:59 UTC*
+*Last updated at 2026-05-11 19:38:45 UTC*
 *Historical records are stored in the `archive` directory.*
