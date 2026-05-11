@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [qnighy/win16ne](https://github.com/qnighy/win16ne)
   > Win16 NE (New Executable) parser & disassembler
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🚀 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Made [XaFF-XaFF/BugcheckSuppressor](https://github.com/XaFF-XaFF/BugcheckSuppressor) public
+  > HVCI/kCET-aware bugcheck suppressor PoC
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [iv-org/invidious](https://github.com/iv-org/invidious)
   > Invidious is an alternative front-end to YouTube
@@ -172,5 +176,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-11 19:38:45 UTC*
+*Last updated at 2026-05-11 20:42:17 UTC*
 *Historical records are stored in the `archive` directory.*
