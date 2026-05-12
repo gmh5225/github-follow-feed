@@ -33,6 +33,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > HVCI/kCET-aware bugcheck suppressor PoC
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [pandax381/microps-rs](https://github.com/pandax381/microps-rs)
   > Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
+  > YellowKey Bitlocker Bypass Vulnerability
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [C18Live/MyUname-kpm](https://github.com/C18Live/MyUname-kpm) to [CrackerCat/MyUname-kpm](https://github.com/CrackerCat/MyUname-kpm)
@@ -89,10 +91,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [Verified-zkEVM/ArkLib](https://github.com/Verified-zkEVM/ArkLib)
   > Formally Verified Arguments of Knowledge in Lean
 
-### [dtcxzyw](https://github.com/dtcxzyw)
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [AmrDeveloper/LLQL](https://github.com/AmrDeveloper/LLQL)
-  > LLQL is a tool that allow you to run SQL-like query with Pattern matching functions inspired by LLVM...
-
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [MolecularMatters/raw_pdb](https://github.com/MolecularMatters/raw_pdb)
   > A C++11 library for reading Microsoft Program DataBase PDB files
@@ -122,6 +120,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Downgrade attack for CVE-2025-48804
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker) to [killvxk/BitUnlocker](https://github.com/killvxk/BitUnlocker)
   > Downgrade attack for CVE-2025-48804
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/magnetar](https://github.com/0xjrx/magnetar)
+  > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/EvilRust](https://github.com/0xjrx/EvilRust)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/silk](https://github.com/0xjrx/silk)
+  > A simple PoC for executing shellcode inside a fiber, without requiring APIs such as 'CreateThread'.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/sysupdate](https://github.com/0xjrx/sysupdate)
+  > A proof-of-concept implementation emulating Linux-based trojan techniques
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xjrx/gdpoise](https://github.com/0xjrx/gdpoise)
+  > A tool to modify ELF binary headers, preventing GDB debugging while keeping the binary functional.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers](https://github.com/onhexgroup/Awesome-Search-Engines-for-Cybersecurity-Researchers)
+  > Awesome list of Search Engines for Cybersecurity Researchers
 
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [SubhrajitSain/Lunite](https://github.com/SubhrajitSain/Lunite)
@@ -138,6 +147,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wesmar/kvc](https://github.com/wesmar/kvc)
   > KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallback...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
+  > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
 
 ### [mubix](https://github.com/mubix)
 - 🌟 👤 [mubix](https://github.com/mubix) Starred [floci-io/floci](https://github.com/floci-io/floci)
@@ -168,5 +181,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-12 17:47:10 UTC*
+*Last updated at 2026-05-12 18:47:38 UTC*
 *Historical records are stored in the `archive` directory.*
