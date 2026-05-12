@@ -19,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)
+  > 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [slundi/guitarpro](https://github.com/slundi/guitarpro)
   > Parse and write Guitar pro files with this rust library
@@ -32,8 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An open-sourced programming language made in Python.
 - 🚀 👤 [mach-port-t](https://github.com/mach-port-t) Made [kobjkern/kernel](https://github.com/kobjkern/kernel) public
   > The kernel object kernel.
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [kobjkern/kernel](https://github.com/kobjkern/kernel)
+  > The kernel object kernel.
 
 
 ---
-*Last updated at 2026-05-12 03:18:39 UTC*
+*Last updated at 2026-05-12 05:22:20 UTC*
 *Historical records are stored in the `archive` directory.*
