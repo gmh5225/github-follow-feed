@@ -14,6 +14,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [robofinch/lifetime-foundry](https://github.com/robofinch/lifetime-foundry)
   > Safe interfaces for soundly transmuting lifetimes
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [XaFF-XaFF/BugcheckSuppressor](https://github.com/XaFF-XaFF/BugcheckSuppressor)
+  > HVCI/kCET-aware bugcheck suppressor PoC
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [pandax381/microps-rs](https://github.com/pandax381/microps-rs)
+  > Tiny TCP/IP protocol stack written in Rust, reimplemented from microps.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [C18Live/MyUname-kpm](https://github.com/C18Live/MyUname-kpm) to [CrackerCat/MyUname-kpm](https://github.com/CrackerCat/MyUname-kpm)
   > 基于 KernelPatch 的 KPM，用于伪造 uname 返回的内核版本号和构建时间
@@ -54,6 +60,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [qiaolei227/opendeploy](https://github.com/qiaolei227/opendeploy) to [classic130/opendeploy](https://github.com/classic130/opendeploy)
   > kingdee k3cloud erp AI agent 金蝶 云星空 实施 二开 智能体
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) to [classic130/TaskExplorer](https://github.com/classic130/TaskExplorer)
+  > Power full Task Manager
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [0xjrx/magnetar](https://github.com/0xjrx/magnetar) to [classic130/magnetar](https://github.com/classic130/magnetar)
+  > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [MolecularMatters/raw_pdb](https://github.com/MolecularMatters/raw_pdb)
@@ -93,11 +103,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mubix](https://github.com/mubix) Starred [floci-io/floci](https://github.com/floci-io/floci)
   > Light, fluffy, and always free - The AWS Local Emulator alternative
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+  > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configu...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [daniel5151/surface-dial-linux](https://github.com/daniel5151/surface-dial-linux)
   > A Linux userspace controller for the Microsoft Surface Dial. Requires Linux Kernel 4.19 or higher.
 
 
 ---
-*Last updated at 2026-05-12 11:43:21 UTC*
+*Last updated at 2026-05-12 12:54:46 UTC*
 *Historical records are stored in the `archive` directory.*
