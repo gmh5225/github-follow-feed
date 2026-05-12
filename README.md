@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Karib0u/rustinel](https://github.com/Karib0u/rustinel)
   > Open-source endpoint detection engine for Windows and Linux using ETW, eBPF, Sigma, YARA, IOCs, and ...
 
+### [CalebFenton](https://github.com/CalebFenton)
+- 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [whtsky/ocgc](https://github.com/whtsky/ocgc)
+  > OpenCode Garbage Collector. Analyze and reclaim storage used by OpenCode sessions, diffs, and snapsh...
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp)
   > MCP server for Apple Music - manage playlists, control playback, browse your library.
@@ -52,6 +56,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🍴 👤 [P4nda0s](https://github.com/P4nda0s) Forked [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) to [P4nda0s/kiro.rs](https://github.com/P4nda0s/kiro.rs)
   > A Kiro Client in Rust
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [tealbathingsuit/ellekit](https://github.com/tealbathingsuit/ellekit)
+  > yet another tweak injector / tweak hooking library for darwin systems
 
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
@@ -79,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [0xjrx/magnetar](https://github.com/0xjrx/magnetar) to [classic130/magnetar](https://github.com/classic130/magnetar)
   > A EDR bypassing shellcode loader framework for Windows 10 64bit, featuring ETW/AMSI patching, Tartar...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [Verified-zkEVM/ArkLib](https://github.com/Verified-zkEVM/ArkLib)
+  > Formally Verified Arguments of Knowledge in Lean
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [MolecularMatters/raw_pdb](https://github.com/MolecularMatters/raw_pdb)
   > A C++11 library for reading Microsoft Program DataBase PDB files
@@ -104,6 +114,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TheGreenCedar/codex-autoresearch](https://github.com/TheGreenCedar/codex-autoresearch)
   > A codex plugin for running optimization loops inside a codebase. It is useful when you have a measur...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker)
+  > Downgrade attack for CVE-2025-48804
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker) to [killvxk/BitUnlocker](https://github.com/killvxk/BitUnlocker)
+  > Downgrade attack for CVE-2025-48804
 
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [SubhrajitSain/Lunite](https://github.com/SubhrajitSain/Lunite)
@@ -136,6 +150,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [antirez/ds4](https://github.com/antirez/ds4) to [simonw/ds4](https://github.com/simonw/ds4)
   > DeepSeek 4 Flash local inference engine for Metal and CUDA
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [datasette/datasette-auth-tailscale](https://github.com/datasette/datasette-auth-tailscale)
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
@@ -149,5 +164,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-12 15:05:26 UTC*
+*Last updated at 2026-05-12 16:52:54 UTC*
 *Historical records are stored in the `archive` directory.*
