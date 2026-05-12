@@ -14,6 +14,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [robofinch/lifetime-foundry](https://github.com/robofinch/lifetime-foundry)
   > Safe interfaces for soundly transmuting lifetimes
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp)
+  > MCP server for Apple Music - manage playlists, control playback, browse your library.
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server)
+  > MCP Server for Discogs
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [XaFF-XaFF/BugcheckSuppressor](https://github.com/XaFF-XaFF/BugcheckSuppressor)
   > HVCI/kCET-aware bugcheck suppressor PoC
@@ -83,6 +89,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [helge17/tuxguitar](https://github.com/helge17/tuxguitar)
   > Open source guitar tablature editor
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [TwilitRealm/dusk](https://github.com/TwilitRealm/dusk)
+  > Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvem...
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TheGreenCedar/codex-autoresearch](https://github.com/TheGreenCedar/codex-autoresearch)
   > A codex plugin for running optimization loops inside a codebase. It is useful when you have a measur...
@@ -107,11 +117,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
   > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configu...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA Pro MCP Server
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [daniel5151/surface-dial-linux](https://github.com/daniel5151/surface-dial-linux)
   > A Linux userspace controller for the Microsoft Surface Dial. Requires Linux Kernel 4.19 or higher.
 
 
 ---
-*Last updated at 2026-05-12 12:54:46 UTC*
+*Last updated at 2026-05-12 13:44:48 UTC*
 *Historical records are stored in the `archive` directory.*
