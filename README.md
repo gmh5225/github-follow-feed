@@ -4,6 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
+  > Build a modern LLM from scratch. Every line commented. Explained like we are five.
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+  > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [robofinch/lifetime-foundry](https://github.com/robofinch/lifetime-foundry)
+  > Safe interfaces for soundly transmuting lifetimes
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [C18Live/MyUname-kpm](https://github.com/C18Live/MyUname-kpm) to [CrackerCat/MyUname-kpm](https://github.com/CrackerCat/MyUname-kpm)
   > 基于 KernelPatch 的 KPM，用于伪造 uname 返回的内核版本号和构建时间
@@ -27,9 +37,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [P4nda0s](https://github.com/P4nda0s) Forked [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) to [P4nda0s/kiro.rs](https://github.com/P4nda0s/kiro.rs)
   > A Kiro Client in Rust
 
+### [WhiteNightShadow](https://github.com/WhiteNightShadow)
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- 🍴 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [WhiteNightShadow/sub2api](https://github.com/WhiteNightShadow/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)
   > 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为...
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [qiaolei227/opendeploy](https://github.com/qiaolei227/opendeploy) to [classic130/opendeploy](https://github.com/classic130/opendeploy)
+  > kingdee k3cloud erp AI agent 金蝶 云星空 实施 二开 智能体
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
+  > Skills: Binary deobfuscation of O-LLVM-like protected binaries
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [slundi/guitarpro](https://github.com/slundi/guitarpro)
@@ -39,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [helge17/tuxguitar](https://github.com/helge17/tuxguitar)
   > Open source guitar tablature editor
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TheGreenCedar/codex-autoresearch](https://github.com/TheGreenCedar/codex-autoresearch)
+  > A codex plugin for running optimization loops inside a codebase. It is useful when you have a measur...
+
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [SubhrajitSain/Lunite](https://github.com/SubhrajitSain/Lunite)
   > An open-sourced programming language made in Python.
@@ -47,11 +75,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [kobjkern/kernel](https://github.com/kobjkern/kernel)
   > The kernel object kernel.
 
+### [mubix](https://github.com/mubix)
+- 🌟 👤 [mubix](https://github.com/mubix) Starred [floci-io/floci](https://github.com/floci-io/floci)
+  > Light, fluffy, and always free - The AWS Local Emulator alternative
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [daniel5151/surface-dial-linux](https://github.com/daniel5151/surface-dial-linux)
   > A Linux userspace controller for the Microsoft Surface Dial. Requires Linux Kernel 4.19 or higher.
 
 
 ---
-*Last updated at 2026-05-12 07:12:51 UTC*
+*Last updated at 2026-05-12 09:09:10 UTC*
 *Historical records are stored in the `archive` directory.*
