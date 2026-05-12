@@ -118,6 +118,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Using data from 1001tracklists.com and Spotify to uncover the secrets of DJing
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [helge17/tuxguitar](https://github.com/helge17/tuxguitar)
   > Open source guitar tablature editor
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [banteg/bn](https://github.com/banteg/bn)
+  > binary ninja cli for coding agents
 
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)
@@ -178,6 +180,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
   > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configu...
 
+### [rnk](https://github.com/rnk)
+- 🌟 👤 [rnk](https://github.com/rnk) Starred [buildbuddy-io/reninja](https://github.com/buildbuddy-io/reninja)
+  > Reninja: faster, more observable ninja builds
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
@@ -198,5 +204,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-12 22:33:49 UTC*
+*Last updated at 2026-05-12 23:29:58 UTC*
 *Historical records are stored in the `archive` directory.*
