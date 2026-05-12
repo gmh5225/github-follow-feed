@@ -110,7 +110,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open source guitar tablature editor
 
 ### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [TwilitRealm/dusk](https://github.com/TwilitRealm/dusk)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
   > Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvem...
 
 ### [killvxk](https://github.com/killvxk)
@@ -168,6 +168,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [antirez/ds4](https://github.com/antirez/ds4) to [simonw/ds4](https://github.com/simonw/ds4)
   > DeepSeek 4 Flash local inference engine for Metal and CUDA
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [datasette/datasette-auth-tailscale](https://github.com/datasette/datasette-auth-tailscale)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
+  > 26m function call model that runs on incredibly small devices
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
@@ -179,7 +181,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [daniel5151/surface-dial-linux](https://github.com/daniel5151/surface-dial-linux)
   > A Linux userspace controller for the Microsoft Surface Dial. Requires Linux Kernel 4.19 or higher.
 
+### [zodiacon](https://github.com/zodiacon)
+- 🌟 👤 [zodiacon](https://github.com/zodiacon) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
+  > Patching the Secure Kernel to enable debugging of VTL1 Isolated User Mode
+
 
 ---
-*Last updated at 2026-05-12 19:38:28 UTC*
+*Last updated at 2026-05-12 20:40:19 UTC*
 *Historical records are stored in the `archive` directory.*
