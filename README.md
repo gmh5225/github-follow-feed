@@ -91,6 +91,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [Verified-zkEVM/ArkLib](https://github.com/Verified-zkEVM/ArkLib)
   > Formally Verified Arguments of Knowledge in Lean
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI)
+  > Reduce the space taken up by games and programs on disk by using native Windows APIs
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [google/boringssl](https://github.com/google/boringssl)
+  > Mirror of BoringSSL
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [google/syzkaller](https://github.com/google/syzkaller)
+  > syzkaller is an unsupervised coverage-guided kernel fuzzer
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [xlatbx59/Bshld](https://github.com/xlatbx59/Bshld)
+  > Devirtualizer for binaryshield
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [MolecularMatters/raw_pdb](https://github.com/MolecularMatters/raw_pdb)
   > A C++11 library for reading Microsoft Program DataBase PDB files
@@ -173,6 +183,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Headless IDA Pro MCP Server
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
   > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)
+  > The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [daniel5151/surface-dial-linux](https://github.com/daniel5151/surface-dial-linux)
@@ -186,5 +198,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-12 21:34:40 UTC*
+*Last updated at 2026-05-12 22:33:49 UTC*
 *Historical records are stored in the `archive` directory.*
