@@ -15,9 +15,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [AabyssZG/HashDump-BypassEDR](https://github.com/AabyssZG/HashDump-BypassEDR)
   > Windows绕过EDR实现DumpHash
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus)
+  > Adversary tradecraft detection, protection, and hunting 
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
   > Skills: Binary deobfuscation of O-LLVM-like protected binaries
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🍴 👤 [P4nda0s](https://github.com/P4nda0s) Forked [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) to [P4nda0s/kiro.rs](https://github.com/P4nda0s/kiro.rs)
+  > A Kiro Client in Rust
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)
@@ -39,7 +47,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [kobjkern/kernel](https://github.com/kobjkern/kernel)
   > The kernel object kernel.
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [daniel5151/surface-dial-linux](https://github.com/daniel5151/surface-dial-linux)
+  > A Linux userspace controller for the Microsoft Surface Dial. Requires Linux Kernel 4.19 or higher.
+
 
 ---
-*Last updated at 2026-05-12 05:22:20 UTC*
+*Last updated at 2026-05-12 07:12:51 UTC*
 *Historical records are stored in the `archive` directory.*
