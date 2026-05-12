@@ -13,12 +13,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [robofinch/lifetime-foundry](https://github.com/robofinch/lifetime-foundry)
   > Safe interfaces for soundly transmuting lifetimes
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Karib0u/rustinel](https://github.com/Karib0u/rustinel)
+  > Open-source endpoint detection engine for Windows and Linux using ETW, eBPF, Sigma, YARA, IOCs, and ...
 
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [epheterson/applemusic-mcp](https://github.com/epheterson/applemusic-mcp)
   > MCP server for Apple Music - manage playlists, control playback, browse your library.
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [cswkim/discogs-mcp-server](https://github.com/cswkim/discogs-mcp-server)
   > MCP Server for Discogs
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker)
+  > Downgrade attack for CVE-2025-48804
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [XaFF-XaFF/BugcheckSuppressor](https://github.com/XaFF-XaFF/BugcheckSuppressor)
@@ -63,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rust-lang/miri](https://github.com/rust-lang/miri)
   > An interpreter for Rust's mid-level intermediate representation
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [Stenzel/newshadeofpink](https://github.com/Stenzel/newshadeofpink)
+  > Recipe for generation of pink noise
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [qiaolei227/opendeploy](https://github.com/qiaolei227/opendeploy) to [classic130/opendeploy](https://github.com/classic130/opendeploy)
   > kingdee k3cloud erp AI agent 金蝶 云星空 实施 二开 智能体
@@ -105,6 +113,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [kobjkern/kernel](https://github.com/kobjkern/kernel)
   > The kernel object kernel.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
+  > Skills: Binary deobfuscation of O-LLVM-like protected binaries
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wesmar/kvc](https://github.com/wesmar/kvc)
   > KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallback...
@@ -113,13 +125,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mubix](https://github.com/mubix) Starred [floci-io/floci](https://github.com/floci-io/floci)
   > Light, fluffy, and always free - The AWS Local Emulator alternative
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [fullptr/imrefl](https://github.com/fullptr/imrefl)
+  > An ImGui library using C++26 reflection to generate windows to easily display structs
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
   > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configu...
 
+### [simonw](https://github.com/simonw)
+- 🍴 👤 [simonw](https://github.com/simonw) Forked [antirez/ds4](https://github.com/antirez/ds4) to [simonw/ds4](https://github.com/simonw/ds4)
+  > DeepSeek 4 Flash local inference engine for Metal and CUDA
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Include...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [daniel5151/surface-dial-linux](https://github.com/daniel5151/surface-dial-linux)
@@ -127,5 +149,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-12 13:44:48 UTC*
+*Last updated at 2026-05-12 15:05:26 UTC*
 *Historical records are stored in the `archive` directory.*
