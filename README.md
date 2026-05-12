@@ -109,6 +109,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [helge17/tuxguitar](https://github.com/helge17/tuxguitar)
   > Open source guitar tablature editor
 
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [millionco/react-doctor](https://github.com/millionco/react-doctor)
+  > Your agent writes bad React. This catches it
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
   > Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvem...
@@ -164,13 +168,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
   > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configu...
 
-### [simonw](https://github.com/simonw)
-- 🍴 👤 [simonw](https://github.com/simonw) Forked [antirez/ds4](https://github.com/antirez/ds4) to [simonw/ds4](https://github.com/simonw/ds4)
-  > DeepSeek 4 Flash local inference engine for Metal and CUDA
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [datasette/datasette-auth-tailscale](https://github.com/datasette/datasette-auth-tailscale)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
-  > 26m function call model that runs on incredibly small devices
-
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
   > Headless IDA Pro MCP Server
@@ -180,6 +177,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [daniel5151/surface-dial-linux](https://github.com/daniel5151/surface-dial-linux)
   > A Linux userspace controller for the Microsoft Surface Dial. Requires Linux Kernel 4.19 or higher.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [kerogenesis/function-string-associate-extra](https://github.com/kerogenesis/function-string-associate-extra)
+  > IDA 9.3+ Function String Associate Extra Plugin
 
 ### [zodiacon](https://github.com/zodiacon)
 - 🌟 👤 [zodiacon](https://github.com/zodiacon) Starred [ReverseWarrior/IUM-Debugger](https://github.com/ReverseWarrior/IUM-Debugger)
@@ -187,5 +186,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-12 20:40:19 UTC*
+*Last updated at 2026-05-12 21:34:40 UTC*
 *Historical records are stored in the `archive` directory.*
