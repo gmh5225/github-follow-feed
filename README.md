@@ -89,6 +89,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [Verified-zkEVM/ArkLib](https://github.com/Verified-zkEVM/ArkLib)
   > Formally Verified Arguments of Knowledge in Lean
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [AmrDeveloper/LLQL](https://github.com/AmrDeveloper/LLQL)
+  > LLQL is a tool that allow you to run SQL-like query with Pattern matching functions inspired by LLVM...
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [MolecularMatters/raw_pdb](https://github.com/MolecularMatters/raw_pdb)
   > A C++11 library for reading Microsoft Program DataBase PDB files
@@ -164,5 +168,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-12 16:52:54 UTC*
+*Last updated at 2026-05-12 17:47:10 UTC*
 *Historical records are stored in the `archive` directory.*
