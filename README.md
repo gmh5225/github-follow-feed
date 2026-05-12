@@ -47,9 +47,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [liangdabiao/Seedance2-Storyboard-Generator](https://github.com/liangdabiao/Seedance2-Storyboard-Generator)
   > 一句话：试错成本越来越高，提示词的重要性从来没有像今天这样大。Seedance 2.0 Storyboard Generator 开源剧情剧本Skill工具，帮佬友一键写好剧本 - 将小说/故事转化为...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rust-lang/miri](https://github.com/rust-lang/miri)
+  > An interpreter for Rust's mid-level intermediate representation
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [qiaolei227/opendeploy](https://github.com/qiaolei227/opendeploy) to [classic130/opendeploy](https://github.com/classic130/opendeploy)
   > kingdee k3cloud erp AI agent 金蝶 云星空 实施 二开 智能体
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [MolecularMatters/raw_pdb](https://github.com/MolecularMatters/raw_pdb)
+  > A C++11 library for reading Microsoft Program DataBase PDB files
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [MolecularMatters/raw_pdb](https://github.com/MolecularMatters/raw_pdb) to [enovella/raw_pdb](https://github.com/enovella/raw_pdb)
+  > A C++11 library for reading Microsoft Program DataBase PDB files
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [P4nda0s/bin-deobf-skills](https://github.com/P4nda0s/bin-deobf-skills)
@@ -75,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [kobjkern/kernel](https://github.com/kobjkern/kernel)
   > The kernel object kernel.
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wesmar/kvc](https://github.com/wesmar/kvc)
+  > KVC enables unsigned driver loading via DSE bypass (g_CiOptions patch, skci.dll hijack, SeCiCallback...
+
 ### [mubix](https://github.com/mubix)
 - 🌟 👤 [mubix](https://github.com/mubix) Starred [floci-io/floci](https://github.com/floci-io/floci)
   > Light, fluffy, and always free - The AWS Local Emulator alternative
@@ -85,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-12 09:09:10 UTC*
+*Last updated at 2026-05-12 10:54:51 UTC*
 *Historical records are stored in the `archive` directory.*
