@@ -54,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [agentrebench/AgentRE-Bench](https://github.com/agentrebench/AgentRE-Bench)
   > AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse...
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
+  > The Red Sun vulnerability repository
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [0xPolygonHermez/zisk](https://github.com/0xPolygonHermez/zisk)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [ethereum/kohaku](https://github.com/ethereum/kohaku)
@@ -80,6 +84,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Binary Genetic Traits Lexer Framework
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [f0rki/mapping-high-level-constructs-to-llvm-ir](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
   > A guide that explains how high level programming language constructs are mapped to the LLVM intermed...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [httptoolkit/httptoolkit-android](https://github.com/httptoolkit/httptoolkit-android)
+  > Automatic Android interception & debugging with HTTP Toolkit, for Android
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
@@ -104,6 +110,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/clear-signing-erc7730-registry](https://github.com/ethereum/clear-signing-erc7730-registry)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)
+  > Warp is an agentic development environment, born out of the terminal.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [RootUp/git-fsmonitor](https://github.com/RootUp/git-fsmonitor)
+  > This is a proof-of-work for abusing "fsmonitor" against IDE.
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [trailofbits/idac](https://github.com/trailofbits/idac)
@@ -127,5 +137,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 12:57:39 UTC*
+*Last updated at 2026-05-13 13:51:23 UTC*
 *Historical records are stored in the `archive` directory.*
