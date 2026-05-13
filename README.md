@@ -137,6 +137,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler)
   > Writing a compiler in a week-end
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FutureComputing4AI/Reverse-Engineering-Function-Search](https://github.com/FutureComputing4AI/Reverse-Engineering-Function-Search)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Duntss/IDA-ZVM-Disassembler](https://github.com/Duntss/IDA-ZVM-Disassembler)
+  > Disassembler for Zeus VM custom instruction set for IDA Pro, based on OALabs one.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
@@ -165,10 +167,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [leifericf/mino](https://github.com/leifericf/mino)
   > A tiny, embeddable, REPL-friendly Lisp implemented in pure ANSI C.
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
-  > Display and control your Android device
-
 ### [zouxianyu](https://github.com/zouxianyu)
 - 🌟 👤 [zouxianyu](https://github.com/zouxianyu) Starred [solana-foundation/solana-keychain](https://github.com/solana-foundation/solana-keychain)
   > Framework-agnostic Solana transaction signing with multiple backends. Unified trait interface, async...
@@ -177,5 +175,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 18:49:00 UTC*
+*Last updated at 2026-05-13 19:38:57 UTC*
 *Historical records are stored in the `archive` directory.*
