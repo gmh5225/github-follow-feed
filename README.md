@@ -4,9 +4,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Nightmare-Eclipse/GreenPlasma](https://github.com/Nightmare-Eclipse/GreenPlasma)
+  > GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
+  > YellowKey Bitlocker Bypass Vulnerability
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Nightmare-Eclipse/GreenPlasma](https://github.com/Nightmare-Eclipse/GreenPlasma)
+  > GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) to [CrackerCat/copy-fail-CVE-2026-31431](https://github.com/CrackerCat/copy-fail-CVE-2026-31431)
@@ -107,6 +115,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [panda-re/panda](https://github.com/panda-re/panda)
   > Platform for Architecture-Neutral Dynamic Analysis
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [leifericf/mino](https://github.com/leifericf/mino)
+  > A tiny, embeddable, REPL-friendly Lisp implemented in pure ANSI C.
+
 ### [zouxianyu](https://github.com/zouxianyu)
 - 🌟 👤 [zouxianyu](https://github.com/zouxianyu) Starred [solana-foundation/solana-keychain](https://github.com/solana-foundation/solana-keychain)
   > Framework-agnostic Solana transaction signing with multiple backends. Unified trait interface, async...
@@ -115,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 11:49:53 UTC*
+*Last updated at 2026-05-13 12:57:39 UTC*
 *Historical records are stored in the `archive` directory.*
