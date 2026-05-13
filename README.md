@@ -58,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
   > The Red Sun vulnerability repository
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+  > Display and control your Android device
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [0xPolygonHermez/zisk](https://github.com/0xPolygonHermez/zisk)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [ethereum/kohaku](https://github.com/ethereum/kohaku)
@@ -156,5 +160,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 15:09:16 UTC*
+*Last updated at 2026-05-13 16:56:59 UTC*
 *Historical records are stored in the `archive` directory.*
