@@ -27,8 +27,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Python Command-Line Ghidra MCP
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [garatc/BitUnlocker](https://github.com/garatc/BitUnlocker) to [CrackerCat/BitUnlocker](https://github.com/CrackerCat/BitUnlocker)
   > Downgrade attack for CVE-2025-48804
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [g00dfe11ow/Shai-Hulud-Open-Source](https://github.com/g00dfe11ow/Shai-Hulud-Open-Source) to [CrackerCat/Shai-Hulud-Open-Source](https://github.com/CrackerCat/Shai-Hulud-Open-Source)
-  > Shai-Hulud: Here We Go Again - Let the Carnage Continue. A Gift From TeamPCP
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) to [Mr-xn/AutoGPT](https://github.com/Mr-xn/AutoGPT)
@@ -57,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [Nightmare-Eclipse/RedSun](https://github.com/Nightmare-Eclipse/RedSun)
   > The Red Sun vulnerability repository
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+  > :computer: C++ Functional Terminal User Interface. :heart:
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
@@ -99,6 +101,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
+### [hgarrereyn](https://github.com/hgarrereyn)
+- 🍴 👤 [hgarrereyn](https://github.com/hgarrereyn) Forked [squaresLab/squaresLab.github.io](https://github.com/squaresLab/squaresLab.github.io) to [hgarrereyn/squaresLab.github.io](https://github.com/hgarrereyn/squaresLab.github.io)
+  > squaresLab webpage
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
@@ -160,6 +166,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [trailofbits/idac](https://github.com/trailofbits/idac)
   > idac - IDA Pro command line tool for agents and humans
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
+  > Harbor is a framework for running agent evaluations and creating and using RL environments.
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [abiosoft/colima](https://github.com/abiosoft/colima)
+  > Container runtimes on macOS (and Linux) with minimal setup
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [xusheng6/awesome-ttd](https://github.com/xusheng6/awesome-ttd)
@@ -186,5 +196,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 20:41:29 UTC*
+*Last updated at 2026-05-13 21:37:43 UTC*
 *Historical records are stored in the `archive` directory.*
