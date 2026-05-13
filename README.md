@@ -14,6 +14,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [funkemunky](https://github.com/funkemunky) Starred [Vladush/LinuxCamPAM](https://github.com/Vladush/LinuxCamPAM)
   > Seamless face unlock for Linux. Works with any webcam; offers Windows Hello™-like convenience with o...
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
   > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
@@ -30,5 +33,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 03:19:13 UTC*
+*Last updated at 2026-05-13 05:25:46 UTC*
 *Historical records are stored in the `archive` directory.*
