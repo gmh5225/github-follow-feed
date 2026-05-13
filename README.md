@@ -67,6 +67,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > HTTP server for the Grafeo graph database. Turns Grafeo's embeddable engine into a standalone databa...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
   > Build fast web applications with Rust.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [superserve-ai/superserve](https://github.com/superserve-ai/superserve)
+  > Sandbox infrastructure for AI Agents
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PerryTS/perry](https://github.com/PerryTS/perry)
+  > A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC ...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [swc-project/swc](https://github.com/swc-project/swc)
+  > Rust-based platform for the Web
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cline/cline](https://github.com/cline/cline)
+  > Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [0xPolygonHermez/zisk](https://github.com/0xPolygonHermez/zisk)
@@ -109,6 +117,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 26m function call model that runs on incredibly small devices
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font)
+  > 开源的泛中日韩像素字体，黑体风格
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [MarkLee131/Hypervisor-Testing-Survey](https://github.com/MarkLee131/Hypervisor-Testing-Survey)
@@ -170,6 +182,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Harbor is a framework for running agent evaluations and creating and using RL environments.
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [abiosoft/colima](https://github.com/abiosoft/colima)
   > Container runtimes on macOS (and Linux) with minimal setup
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [blacktop/ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)
+  > Headless IDA Pro MCP Server
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [xusheng6/awesome-ttd](https://github.com/xusheng6/awesome-ttd)
@@ -196,5 +210,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 21:37:43 UTC*
+*Last updated at 2026-05-13 22:33:46 UTC*
 *Historical records are stored in the `archive` directory.*
