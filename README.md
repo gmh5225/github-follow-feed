@@ -61,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
   > Display and control your Android device
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [GrafeoDB/grafeo-server](https://github.com/GrafeoDB/grafeo-server)
+  > HTTP server for the Grafeo graph database. Turns Grafeo's embeddable engine into a standalone databa...
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [0xPolygonHermez/zisk](https://github.com/0xPolygonHermez/zisk)
@@ -90,9 +92,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A guide that explains how high level programming language constructs are mapped to the LLVM intermed...
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [httptoolkit/httptoolkit-android](https://github.com/httptoolkit/httptoolkit-android)
   > Automatic Android interception & debugging with HTTP Toolkit, for Android
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
+  > 26m function call model that runs on incredibly small devices
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [MarkLee131/Hypervisor-Testing-Survey](https://github.com/MarkLee131/Hypervisor-Testing-Survey)
@@ -160,5 +168,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 16:56:59 UTC*
+*Last updated at 2026-05-13 17:48:34 UTC*
 *Historical records are stored in the `archive` directory.*
