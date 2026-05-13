@@ -94,6 +94,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [MarkLee131/Hypervisor-Testing-Survey](https://github.com/MarkLee131/Hypervisor-Testing-Survey)
   > A collection of research papers on hypervisor testing.
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dPhoeniixx/dexhound](https://github.com/dPhoeniixx/dexhound)
+  > Dump DEX files from a running Android process without instrumentation
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [maxktz/opensec](https://github.com/maxktz/opensec)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection)
+  > Awesome Large Language Models for Vulnerability Detection
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [radareorg/r2garlic](https://github.com/radareorg/r2garlic)
+  > The world's fastest Android/DEX decompiler meets radare2
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [secorizon/SecorizonAI](https://github.com/secorizon/SecorizonAI)
+  > A fully automated terminal-native AI shell built for security professionals.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)
+  > AI-powered interactive 3D cell generation and exploration studio.
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
   > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
@@ -114,6 +127,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Warp is an agentic development environment, born out of the terminal.
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [RootUp/git-fsmonitor](https://github.com/RootUp/git-fsmonitor)
   > This is a proof-of-work for abusing "fsmonitor" against IDE.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [wojtekmaj/package-manager-stats](https://github.com/wojtekmaj/package-manager-stats)
+  > Script to get stats about package managers used in most popular projects on GitHub.
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [trailofbits/idac](https://github.com/trailofbits/idac)
@@ -129,6 +144,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [leifericf/mino](https://github.com/leifericf/mino)
   > A tiny, embeddable, REPL-friendly Lisp implemented in pure ANSI C.
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
+  > Display and control your Android device
+
 ### [zouxianyu](https://github.com/zouxianyu)
 - 🌟 👤 [zouxianyu](https://github.com/zouxianyu) Starred [solana-foundation/solana-keychain](https://github.com/solana-foundation/solana-keychain)
   > Framework-agnostic Solana transaction signing with multiple backends. Unified trait interface, async...
@@ -137,5 +156,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 13:51:23 UTC*
+*Last updated at 2026-05-13 15:09:16 UTC*
 *Historical records are stored in the `archive` directory.*
