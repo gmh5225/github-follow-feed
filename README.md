@@ -63,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Display and control your Android device
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [GrafeoDB/grafeo-server](https://github.com/GrafeoDB/grafeo-server)
   > HTTP server for the Grafeo graph database. Turns Grafeo's embeddable engine into a standalone databa...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [leptos-rs/leptos](https://github.com/leptos-rs/leptos)
+  > Build fast web applications with Rust.
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [0xPolygonHermez/zisk](https://github.com/0xPolygonHermez/zisk)
@@ -130,6 +132,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [oraios/serena](https://github.com/oraios/serena)
   > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE ...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
+  > A powerful meta-prompting, context engineering and spec-driven development system that enables agent...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [f0rki/mapping-high-level-constructs-to-llvm-ir](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
@@ -167,6 +171,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [leifericf/mino](https://github.com/leifericf/mino)
   > A tiny, embeddable, REPL-friendly Lisp implemented in pure ANSI C.
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [xibbon/PiSwift](https://github.com/xibbon/PiSwift)
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Duntss/IDA-ZVM-Disassembler](https://github.com/Duntss/IDA-ZVM-Disassembler)
+  > Disassembler for Zeus VM custom instruction set for IDA Pro, based on OALabs one.
+
 ### [zouxianyu](https://github.com/zouxianyu)
 - 🌟 👤 [zouxianyu](https://github.com/zouxianyu) Starred [solana-foundation/solana-keychain](https://github.com/solana-foundation/solana-keychain)
   > Framework-agnostic Solana transaction signing with multiple backends. Unified trait interface, async...
@@ -175,5 +186,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 19:38:57 UTC*
+*Last updated at 2026-05-13 20:41:29 UTC*
 *Historical records are stored in the `archive` directory.*
