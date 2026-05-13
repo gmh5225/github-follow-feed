@@ -114,6 +114,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hgarrereyn](https://github.com/hgarrereyn) Forked [squaresLab/squaresLab.github.io](https://github.com/squaresLab/squaresLab.github.io) to [hgarrereyn/squaresLab.github.io](https://github.com/hgarrereyn/squaresLab.github.io)
   > squaresLab webpage
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [cloudflare/pingora](https://github.com/cloudflare/pingora)
+  > A library for building fast, reliable and evolvable network services.
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 26m function call model that runs on incredibly small devices
@@ -152,15 +156,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE ...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2)
   > A powerful meta-prompting, context engineering and spec-driven development system that enables agent...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [f0rki/mapping-high-level-constructs-to-llvm-ir](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
-  > A guide that explains how high level programming language constructs are mapped to the LLVM intermed...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler)
-  > Writing a compiler in a week-end
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FutureComputing4AI/Reverse-Engineering-Function-Search](https://github.com/FutureComputing4AI/Reverse-Engineering-Function-Search)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Duntss/IDA-ZVM-Disassembler](https://github.com/Duntss/IDA-ZVM-Disassembler)
-  > Disassembler for Zeus VM custom instruction set for IDA Pro, based on OALabs one.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
@@ -210,5 +205,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 22:33:46 UTC*
+*Last updated at 2026-05-13 23:30:49 UTC*
 *Historical records are stored in the `archive` directory.*
