@@ -118,16 +118,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A fully automated terminal-native AI shell built for security professionals.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)
   > AI-powered interactive 3D cell generation and exploration studio.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [v12-security/pocs](https://github.com/v12-security/pocs)
+  > poc it like it's hot
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [v12-security/pocs](https://github.com/v12-security/pocs) to [killvxk/pocs-v12](https://github.com/killvxk/pocs-v12)
+  > poc it like it's hot
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
   > Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [oraios/serena](https://github.com/oraios/serena)
+  > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE ...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [f0rki/mapping-high-level-constructs-to-llvm-ir](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
   > A guide that explains how high level programming language constructs are mapped to the LLVM intermed...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ssloy/tinycompiler](https://github.com/ssloy/tinycompiler)
   > Writing a compiler in a week-end
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FutureComputing4AI/Reverse-Engineering-Function-Search](https://github.com/FutureComputing4AI/Reverse-Engineering-Function-Search)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
@@ -168,5 +177,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 17:48:34 UTC*
+*Last updated at 2026-05-13 18:49:00 UTC*
 *Historical records are stored in the `archive` directory.*
