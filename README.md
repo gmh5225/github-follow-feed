@@ -70,9 +70,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [c3rb3ru5d3d53c/binlex](https://github.com/c3rb3ru5d3d53c/binlex)
   > A Binary Genetic Traits Lexer Framework
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [f0rki/mapping-high-level-constructs-to-llvm-ir](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir)
+  > A guide that explains how high level programming language constructs are mapped to the LLVM intermed...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
+
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [MarkLee131/Hypervisor-Testing-Survey](https://github.com/MarkLee131/Hypervisor-Testing-Survey)
+  > A collection of research papers on hypervisor testing.
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)
@@ -109,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-13 10:58:02 UTC*
+*Last updated at 2026-05-13 11:49:53 UTC*
 *Historical records are stored in the `archive` directory.*
