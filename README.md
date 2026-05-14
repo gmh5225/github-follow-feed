@@ -40,6 +40,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Mefiresu/RSDKv5-Decompilation](https://github.com/Mefiresu/RSDKv5-Decompilation)
   > A complete decompilation of Retro Engine (v5) ported to the Wii
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [var77/CVE-2026-2005](https://github.com/var77/CVE-2026-2005)
+  > PoC for CVE-2026-2005
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [var77/CVE-2026-2005](https://github.com/var77/CVE-2026-2005) to [killvxk/CVE-2026-2005](https://github.com/killvxk/CVE-2026-2005)
+  > PoC for CVE-2026-2005
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -52,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 10:55:01 UTC*
+*Last updated at 2026-05-14 11:40:31 UTC*
 *Historical records are stored in the `archive` directory.*
