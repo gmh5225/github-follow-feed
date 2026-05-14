@@ -8,6 +8,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [0xisk](https://github.com/0xisk) Forked [amatya-aditya/obsidian-rss-dashboard](https://github.com/amatya-aditya/obsidian-rss-dashboard) to [0xisk/obsidian-rss-dashboard](https://github.com/0xisk/obsidian-rss-dashboard)
   > A dashboard for organizing and consuming RSS feeds, YouTube channels, and podcasts with smart taggin...
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [rust9x/rust](https://github.com/rust9x/rust)
+  > UNOFFICIAL "Tier 4" Rust target for Windows 9x/Me/NT/2000/XP/Vista.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
+  > YellowKey Bitlocker Bypass Vulnerability
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Nightmare-Eclipse/GreenPlasma](https://github.com/Nightmare-Eclipse/GreenPlasma)
+  > GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [PentHertz/LUKSbox](https://github.com/PentHertz/LUKSbox)
+  > Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-...
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [cktan/tomlc17](https://github.com/cktan/tomlc17)
   > TOML parser in C17
@@ -82,17 +92,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) to [killvxk/telegram-tt](https://github.com/killvxk/telegram-tt)
   > Telegram Web A, GPL v3
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [Cyfrin/clearsig](https://github.com/Cyfrin/clearsig)
+  > A repo to help with erc7730 and 8213
+
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
   > 26m function call model that runs on incredibly small devices
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [banteg/tokenized-strategy-vyper-mix](https://github.com/banteg/tokenized-strategy-vyper-mix)
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
-
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
-  > MCP Server for Computer Use in Windows
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [philo-groves/codex-attack](https://github.com/philo-groves/codex-attack)
@@ -119,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 17:41:12 UTC*
+*Last updated at 2026-05-14 18:46:55 UTC*
 *Historical records are stored in the `archive` directory.*
