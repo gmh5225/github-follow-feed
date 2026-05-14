@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [SerCharles/PictureEditor](https://github.com/SerCharles/PictureEditor)
   > A picture editor written in Assembly
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [f3liz-casa/sudachi-wasm](https://github.com/f3liz-casa/sudachi-wasm)
+  > WebAssembly bindings for Sudachi Japanese morphological analyzer
+
 ### [alfarom256](https://github.com/alfarom256)
 - 🌟 👤 [alfarom256](https://github.com/alfarom256) Starred [n00py/GhostLockBuster](https://github.com/n00py/GhostLockBuster)
 
@@ -35,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable teleme...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) to [classic130/YellowKey](https://github.com/classic130/YellowKey)
   > YellowKey Bitlocker Bypass Vulnerability
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [boltffi/boltffi](https://github.com/boltffi/boltffi)
+  > A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship...
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mvt-project/androidqf](https://github.com/mvt-project/androidqf)
@@ -70,13 +78,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) to [killvxk/telegram-tt](https://github.com/killvxk/telegram-tt)
   > Telegram Web A, GPL v3
 
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
+  > 26m function call model that runs on incredibly small devices
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
-
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry)
-  > See your agent think. Real-time observability dashboard for OpenClaw AI agents.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [tiann/hapi](https://github.com/tiann/hapi)
@@ -84,11 +92,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift)
   > exploit for CVE-2026-42945
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [gattaca-com/propamm](https://github.com/gattaca-com/propamm)
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [coleam00/Archon](https://github.com/coleam00/Archon)
   > The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 
 
 ---
-*Last updated at 2026-05-14 13:43:36 UTC*
+*Last updated at 2026-05-14 14:59:14 UTC*
 *Historical records are stored in the `archive` directory.*
