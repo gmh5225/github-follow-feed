@@ -86,6 +86,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [philo-groves/codex-attack](https://github.com/philo-groves/codex-attack)
+  > An Advanced Cyber Plugin for Codex
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [tiann/hapi](https://github.com/tiann/hapi)
   > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
@@ -95,11 +99,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [gattaca-com/propamm](https://github.com/gattaca-com/propamm)
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [tobi/qmd](https://github.com/tobi/qmd)
+  > mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sot...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [coleam00/Archon](https://github.com/coleam00/Archon)
   > The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 
 
 ---
-*Last updated at 2026-05-14 14:59:14 UTC*
+*Last updated at 2026-05-14 15:56:46 UTC*
 *Historical records are stored in the `archive` directory.*
