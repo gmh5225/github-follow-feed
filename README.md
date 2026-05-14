@@ -17,6 +17,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cirruslabs/tart](https://github.com/cirruslabs/tart)
   > macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Nightmare-Eclipse/GreenPlasma](https://github.com/Nightmare-Eclipse/GreenPlasma)
+  > GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [vercel-labs/quickjs-wasi](https://github.com/vercel-labs/quickjs-wasi)
+  > Snapshotable JavaScript runtime via WebAssembly. Runs QuickJS-NG compiled to WASM with the ability t...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [L-Defraiteur/lucivy](https://github.com/L-Defraiteur/lucivy)
+  >   BM25 full-text search that actually finds what you type — fuzzy substrings across   token boundari...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bytewreck/DumpGuard](https://github.com/bytewreck/DumpGuard)
+  > Proof-of-Concept tool for extracting credential material from sessions on modern Windows systems.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag)
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) to [classic130/Win11Debloat](https://github.com/classic130/Win11Debloat)
@@ -45,10 +54,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PoC for CVE-2026-2005
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [var77/CVE-2026-2005](https://github.com/var77/CVE-2026-2005) to [killvxk/CVE-2026-2005](https://github.com/killvxk/CVE-2026-2005)
   > PoC for CVE-2026-2005
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hakaioffsec/CVE-2026-4802](https://github.com/hakaioffsec/CVE-2026-4802)
+  > Arbitrary command execution on Cockpit
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [hakaioffsec/CVE-2026-4802](https://github.com/hakaioffsec/CVE-2026-4802) to [killvxk/CVE-2026-4802](https://github.com/killvxk/CVE-2026-4802)
+  > Arbitrary command execution on Cockpit
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift)
+  > exploit for CVE-2026-42945
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift) to [killvxk/Nginx-Rift](https://github.com/killvxk/Nginx-Rift)
+  > exploit for CVE-2026-42945
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt)
+  > Telegram Web A, GPL v3
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Ajaxy/telegram-tt](https://github.com/Ajaxy/telegram-tt) to [killvxk/telegram-tt](https://github.com/killvxk/telegram-tt)
+  > Telegram Web A, GPL v3
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
+
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [vivekchand/clawmetry](https://github.com/vivekchand/clawmetry)
+  > See your agent think. Real-time observability dashboard for OpenClaw AI agents.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [tiann/hapi](https://github.com/tiann/hapi)
@@ -56,7 +81,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [DepthFirstDisclosures/Nginx-Rift](https://github.com/DepthFirstDisclosures/Nginx-Rift)
   > exploit for CVE-2026-42945
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [coleam00/Archon](https://github.com/coleam00/Archon)
+  > The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+
 
 ---
-*Last updated at 2026-05-14 11:40:31 UTC*
+*Last updated at 2026-05-14 12:50:13 UTC*
 *Historical records are stored in the `archive` directory.*
