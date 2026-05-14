@@ -7,6 +7,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video)
   > 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cirruslabs/tart](https://github.com/cirruslabs/tart)
+  > macOS and Linux VMs on Apple Silicon to use in CI and other automations
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) to [classic130/Win11Debloat](https://github.com/classic130/Win11Debloat)
+  > A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable teleme...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) to [classic130/YellowKey](https://github.com/classic130/YellowKey)
+  > YellowKey Bitlocker Bypass Vulnerability
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [k3d-io/k3d](https://github.com/k3d-io/k3d)
@@ -24,5 +32,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 03:17:30 UTC*
+*Last updated at 2026-05-14 05:25:51 UTC*
 *Historical records are stored in the `archive` directory.*
