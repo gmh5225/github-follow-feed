@@ -57,6 +57,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [boltffi/boltffi](https://github.com/boltffi/boltffi)
   > A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship...
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mvt-project/androidqf](https://github.com/mvt-project/androidqf)
@@ -136,5 +138,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 19:37:37 UTC*
+*Last updated at 2026-05-14 20:37:46 UTC*
 *Historical records are stored in the `archive` directory.*
