@@ -19,6 +19,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [k3d-io/k3d](https://github.com/k3d-io/k3d)
   > Little helper to run CNCF's k3s in Docker
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [CoderLine/alphaTab](https://github.com/CoderLine/alphaTab)
+  > alphaTab is a cross platform music notation and guitar tablature rendering library.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Deep-Symmetry/dysentery](https://github.com/Deep-Symmetry/dysentery)
+  > Exploring ways to participate in a Pioneer Pro DJ Link network
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Mefiresu/RSDKv5-Decompilation](https://github.com/Mefiresu/RSDKv5-Decompilation)
+  > A complete decompilation of Retro Engine (v5) ported to the Wii
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -32,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 05:25:51 UTC*
+*Last updated at 2026-05-14 07:13:29 UTC*
 *Historical records are stored in the `archive` directory.*
