@@ -90,6 +90,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP)
+  > MCP Server for Computer Use in Windows
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [philo-groves/codex-attack](https://github.com/philo-groves/codex-attack)
   > An Advanced Cyber Plugin for Codex
@@ -115,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 16:50:03 UTC*
+*Last updated at 2026-05-14 17:41:12 UTC*
 *Historical records are stored in the `archive` directory.*
