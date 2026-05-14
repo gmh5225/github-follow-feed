@@ -107,6 +107,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [secrary](https://github.com/secrary)
+- 🌟 👤 [secrary](https://github.com/secrary) Starred [vercel-labs/zero-native](https://github.com/vercel-labs/zero-native)
+  > Build desktop + mobile apps with Zig and web UI
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [philo-groves/codex-attack](https://github.com/philo-groves/codex-attack)
   > An Advanced Cyber Plugin for Codex
@@ -132,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 18:46:55 UTC*
+*Last updated at 2026-05-14 19:37:37 UTC*
 *Historical records are stored in the `archive` directory.*
