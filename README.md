@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xisk](https://github.com/0xisk)
+- 🍴 👤 [0xisk](https://github.com/0xisk) Forked [amatya-aditya/obsidian-rss-dashboard](https://github.com/amatya-aditya/obsidian-rss-dashboard) to [0xisk/obsidian-rss-dashboard](https://github.com/0xisk/obsidian-rss-dashboard)
+  > A dashboard for organizing and consuming RSS feeds, YouTube channels, and podcasts with smart taggin...
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [cktan/tomlc17](https://github.com/cktan/tomlc17)
   > TOML parser in C17
@@ -89,6 +93,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [philo-groves/codex-attack](https://github.com/philo-groves/codex-attack)
   > An Advanced Cyber Plugin for Codex
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)
+  > A suite of plugins for legal workflows
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [tiann/hapi](https://github.com/tiann/hapi)
@@ -109,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 15:56:46 UTC*
+*Last updated at 2026-05-14 16:50:03 UTC*
 *Historical records are stored in the `archive` directory.*
