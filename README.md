@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [Nightmare-Eclipse/MiniPlasma](https://github.com/Nightmare-Eclipse/MiniPlasma)
   > CVE-2020-17103 supposedly still works 
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [fystack/mpcium](https://github.com/fystack/mpcium)
+  > Open-source MPC wallet infra. Effortlessly launch distributed crypto wallets with MPC technology in ...
+
 ### [alfarom256](https://github.com/alfarom256)
 - 🌟 👤 [alfarom256](https://github.com/alfarom256) Starred [n00py/GhostLockBuster](https://github.com/n00py/GhostLockBuster)
 
@@ -79,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > alphaTab is a cross platform music notation and guitar tablature rendering library.
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Deep-Symmetry/dysentery](https://github.com/Deep-Symmetry/dysentery)
   > Exploring ways to participate in a Pioneer Pro DJ Link network
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal)
+  > A suite of plugins for legal workflows
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Mefiresu/RSDKv5-Decompilation](https://github.com/Mefiresu/RSDKv5-Decompilation)
@@ -146,5 +154,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 21:32:38 UTC*
+*Last updated at 2026-05-14 22:30:39 UTC*
 *Historical records are stored in the `archive` directory.*
