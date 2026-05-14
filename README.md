@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey) to [classic130/YellowKey](https://github.com/classic130/YellowKey)
   > YellowKey Bitlocker Bypass Vulnerability
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mvt-project/androidqf](https://github.com/mvt-project/androidqf)
+  > androidqf (Android Quick Forensics) helps quickly gathering forensic evidence from Android devices, ...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [k3d-io/k3d](https://github.com/k3d-io/k3d)
   > Little helper to run CNCF's k3s in Docker
@@ -32,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
+  > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [tiann/hapi](https://github.com/tiann/hapi)
   > App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
@@ -40,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 07:13:29 UTC*
+*Last updated at 2026-05-14 09:07:16 UTC*
 *Historical records are stored in the `archive` directory.*
