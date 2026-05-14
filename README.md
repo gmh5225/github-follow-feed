@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [f3liz-casa/sudachi-wasm](https://github.com/f3liz-casa/sudachi-wasm)
   > WebAssembly bindings for Sudachi Japanese morphological analyzer
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [Nightmare-Eclipse/MiniPlasma](https://github.com/Nightmare-Eclipse/MiniPlasma)
+  > CVE-2020-17103 supposedly still works 
+
 ### [alfarom256](https://github.com/alfarom256)
 - 🌟 👤 [alfarom256](https://github.com/alfarom256) Starred [n00py/GhostLockBuster](https://github.com/n00py/GhostLockBuster)
 
@@ -59,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship...
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)
   > OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mvt-project/androidqf](https://github.com/mvt-project/androidqf)
@@ -138,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-14 20:37:46 UTC*
+*Last updated at 2026-05-14 21:32:38 UTC*
 *Historical records are stored in the `archive` directory.*
