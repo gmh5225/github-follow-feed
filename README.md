@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [KalyanM45/AI-Project-Gallery](https://github.com/KalyanM45/AI-Project-Gallery)
   > This Repository Contain All the Artificial Intelligence Projects such as Machine Learning, Deep Lear...
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [RobinSrimal/harbor](https://github.com/RobinSrimal/harbor)
+  > Harbor is a decentralized peer-to-peer communication protocol for offline-first apps. It lets your u...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
   > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
@@ -29,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 路线模拟，位置模拟，导航模拟，步频模拟，虚拟定位，nfc模拟
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zxcvbn001/AI-Burp-Copilot](https://github.com/zxcvbn001/AI-Burp-Copilot) to [CrackerCat/AI-Burp-Copilot](https://github.com/CrackerCat/AI-Burp-Copilot)
   > AI Burp Copilot v2 是一个基于 Burp Suite Montoya API 的 AI 辅助渗透测试插件。它的目标不是替代被动扫描器，也不是让大模型自由发挥去“猜漏洞”，而是把 Bu...
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+  > Algorithm powering the For You feed on X
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel)
@@ -63,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Automated LLVM bug reproducer reduction service
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster)
   > An image-to-world skillset for Claude.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Brentdevent/S2x](https://github.com/Brentdevent/S2x)
+  > A custom Call of Duty®: WWII client providing modding, and client-side improvements.
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)
@@ -70,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-15 16:43:48 UTC*
+*Last updated at 2026-05-15 17:37:17 UTC*
 *Historical records are stored in the `archive` directory.*
