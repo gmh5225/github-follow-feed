@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [microsoft/mimalloc](https://github.com/microsoft/mimalloc)
   > mimalloc is a compact general purpose allocator with excellent performance.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jakobfriedl/usb-monitor-bof](https://github.com/jakobfriedl/usb-monitor-bof)
+  > Async BOF that monitors USB device connect/disconnect events, reports device information and perform...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/MiniPlasma](https://github.com/Nightmare-Eclipse/MiniPlasma) to [CrackerCat/MiniPlasma](https://github.com/CrackerCat/MiniPlasma)
@@ -68,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-15 14:56:25 UTC*
+*Last updated at 2026-05-15 15:49:28 UTC*
 *Historical records are stored in the `archive` directory.*
