@@ -74,11 +74,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Brentdevent/S2x](https://github.com/Brentdevent/S2x)
   > A custom Call of Duty®: WWII client providing modding, and client-side improvements.
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [leonardoalt/evm-smith](https://github.com/leonardoalt/evm-smith)
+  > A framework for AI systems to write EVM bytecode and prove it safe, built on NethermindEth/EVMYulLea...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Nightmare-Eclipse/YellowKey](https://github.com/Nightmare-Eclipse/YellowKey)
+  > YellowKey Bitlocker Bypass Vulnerability
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [objective-see/LuLu](https://github.com/objective-see/LuLu)
+  > LuLu is the free open-source macOS firewall
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [objective-see/KnockKnock](https://github.com/objective-see/KnockKnock)
+  > Like AutoRuns ...but for macOS!
+
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [jensroth-git/raylib-esp32](https://github.com/jensroth-git/raylib-esp32)
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)
   > Desktop Companion for Hermes Agent
 
 
 ---
-*Last updated at 2026-05-15 17:37:17 UTC*
+*Last updated at 2026-05-15 18:43:14 UTC*
 *Historical records are stored in the `archive` directory.*
