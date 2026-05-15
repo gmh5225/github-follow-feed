@@ -51,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) to [classic130/blocked-sites-in-south-korea](https://github.com/classic130/blocked-sites-in-south-korea)
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm)
+  > Algorithm powering the For You feed on X
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
@@ -63,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [huggingface/nfsserve](https://github.com/huggingface/nfsserve)
   > A Rust NFS Server implementation
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [raubrey2014/mpp-java-poc](https://github.com/raubrey2014/mpp-java-poc)
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Project-CETI/wham](https://github.com/Project-CETI/wham)
+  > Codebase for "WhAM: Towards A Translative Model of Sperm Whale Vocalization" (NeurIPS 2025)
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [eSentire-Labs/surveyor](https://github.com/eSentire-Labs/surveyor)
@@ -88,11 +96,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [jensroth-git/raylib-esp32](https://github.com/jensroth-git/raylib-esp32)
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [open-circle/valibot](https://github.com/open-circle/valibot)
+  > The modular and type safe schema library for validating structural data 🤖
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop)
   > Desktop Companion for Hermes Agent
 
 
 ---
-*Last updated at 2026-05-15 20:32:36 UTC*
+*Last updated at 2026-05-15 21:28:29 UTC*
 *Historical records are stored in the `archive` directory.*
