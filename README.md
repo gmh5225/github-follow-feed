@@ -62,6 +62,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [huggingface/nfsserve](https://github.com/huggingface/nfsserve)
   > A Rust NFS Server implementation
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [raubrey2014/mpp-java-poc](https://github.com/raubrey2014/mpp-java-poc)
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [eSentire-Labs/surveyor](https://github.com/eSentire-Labs/surveyor)
@@ -93,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-15 19:37:24 UTC*
+*Last updated at 2026-05-15 20:32:36 UTC*
 *Historical records are stored in the `archive` directory.*
