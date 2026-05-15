@@ -102,6 +102,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Like AutoRuns ...but for macOS!
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [laurenceday/wildcat-git-incident](https://github.com/laurenceday/wildcat-git-incident)
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
+
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [jensroth-git/raylib-esp32](https://github.com/jensroth-git/raylib-esp32)
 
@@ -115,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-15 22:27:11 UTC*
+*Last updated at 2026-05-15 23:25:17 UTC*
 *Historical records are stored in the `archive` directory.*
