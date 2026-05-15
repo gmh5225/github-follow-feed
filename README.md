@@ -20,6 +20,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) to [classic130/blocked-sites-in-south-korea](https://github.com/classic130/blocked-sites-in-south-korea)
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
+  > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
   > Automated LLVM bug reproducer reduction service
@@ -32,17 +39,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
   > Automated LLVM bug reproducer reduction service
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
-  > Generate type-safe code from SQL
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [yuin/goldmark](https://github.com/yuin/goldmark)
-  > :trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well struc...
-
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
   > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
 
 
 ---
-*Last updated at 2026-05-15 10:54:42 UTC*
+*Last updated at 2026-05-15 11:43:53 UTC*
 *Historical records are stored in the `archive` directory.*
