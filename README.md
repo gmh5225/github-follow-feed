@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
-  > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
-
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Nightmare-Eclipse/MiniPlasma](https://github.com/Nightmare-Eclipse/MiniPlasma) to [CrackerCat/MiniPlasma](https://github.com/CrackerCat/MiniPlasma)
   > CVE-2020-17103 supposedly still works 
@@ -24,12 +20,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel)
   > Modern, fast and obfuscated VPN protocol
 
-### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
-  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [vul337/CiRCLE](https://github.com/vul337/CiRCLE)
-  > CiRCLE: Recovering Complex Data Structures in Binaries beyond Fragmentation (IEEE S&P 2026)
-
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [wpzzz/blocked-sites-in-south-korea](https://github.com/wpzzz/blocked-sites-in-south-korea) to [classic130/blocked-sites-in-south-korea](https://github.com/classic130/blocked-sites-in-south-korea)
 
@@ -37,22 +27,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
 
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
-  > Automated LLVM bug reproducer reduction service
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [huggingface/nfsserve](https://github.com/huggingface/nfsserve)
-  > A Rust NFS Server implementation
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm)
+  > Find the local LLM that actually runs — and performs best — on your hardware. Ranked by real, recenc...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [eSentire-Labs/surveyor](https://github.com/eSentire-Labs/surveyor)
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
-  > Automated LLVM bug reproducer reduction service
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster)
-  > An image-to-world skillset for Claude.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
@@ -60,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-15 12:49:19 UTC*
+*Last updated at 2026-05-15 13:41:09 UTC*
 *Historical records are stored in the `archive` directory.*
