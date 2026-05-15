@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel)
   > Modern, fast and obfuscated VPN protocol
 
+### [NaC-L](https://github.com/NaC-L)
+- 🌟 👤 [NaC-L](https://github.com/NaC-L) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
+  > Themida Devirt Results
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -83,6 +87,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Brentdevent/S2x](https://github.com/Brentdevent/S2x)
   > A custom Call of Duty®: WWII client providing modding, and client-side improvements.
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [neilsonnn/image-blaster](https://github.com/neilsonnn/image-blaster)
+  > An image-to-world skillset for Claude.
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [leonardoalt/evm-smith](https://github.com/leonardoalt/evm-smith)
   > A framework for AI systems to write EVM bytecode and prove it safe, built on NethermindEth/EVMYulLea...
@@ -92,6 +100,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > LuLu is the free open-source macOS firewall
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [objective-see/KnockKnock](https://github.com/objective-see/KnockKnock)
   > Like AutoRuns ...but for macOS!
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [laurenceday/wildcat-git-incident](https://github.com/laurenceday/wildcat-git-incident)
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [jensroth-git/raylib-esp32](https://github.com/jensroth-git/raylib-esp32)
@@ -106,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-15 21:28:29 UTC*
+*Last updated at 2026-05-15 22:27:11 UTC*
 *Historical records are stored in the `archive` directory.*
