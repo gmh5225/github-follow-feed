@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > USB Army Knife – the ultimate close access tool for penetration testers and red teamers.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [noellegazelle6/kail_location](https://github.com/noellegazelle6/kail_location) to [CrackerCat/kail_location](https://github.com/CrackerCat/kail_location)
   > 路线模拟，位置模拟，导航模拟，步频模拟，虚拟定位，nfc模拟
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zxcvbn001/AI-Burp-Copilot](https://github.com/zxcvbn001/AI-Burp-Copilot) to [CrackerCat/AI-Burp-Copilot](https://github.com/CrackerCat/AI-Burp-Copilot)
+  > AI Burp Copilot v2 是一个基于 Burp Suite Montoya API 的 AI 辅助渗透测试插件。它的目标不是替代被动扫描器，也不是让大模型自由发挥去“猜漏洞”，而是把 Bu...
 
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/roboomp](https://github.com/can1357/roboomp) public
@@ -34,5 +36,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-15 05:26:40 UTC*
+*Last updated at 2026-05-15 07:21:02 UTC*
 *Historical records are stored in the `archive` directory.*
