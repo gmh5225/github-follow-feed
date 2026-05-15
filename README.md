@@ -16,11 +16,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zxcvbn001/AI-Burp-Copilot](https://github.com/zxcvbn001/AI-Burp-Copilot) to [CrackerCat/AI-Burp-Copilot](https://github.com/CrackerCat/AI-Burp-Copilot)
   > AI Burp Copilot v2 是一个基于 Burp Suite Montoya API 的 AI 辅助渗透测试插件。它的目标不是替代被动扫描器，也不是让大模型自由发挥去“猜漏洞”，而是把 Bu...
 
-### [can1357](https://github.com/can1357)
-- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/roboomp](https://github.com/can1357/roboomp) public
-  > Self-hosted GitHub triage-and-fix bot that drives oh-my-pi (omp) to classify issues, reproduce bugs,...
-- 🌟 👤 [can1357](https://github.com/can1357) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
+  > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
+  > Automated LLVM bug reproducer reduction service
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [huggingface/nfsserve](https://github.com/huggingface/nfsserve)
@@ -30,11 +36,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [dtcxzyw/llvm-autoreduce](https://github.com/dtcxzyw/llvm-autoreduce)
   > Automated LLVM bug reproducer reduction service
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+  > Generate type-safe code from SQL
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
   > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
 
 
 ---
-*Last updated at 2026-05-15 07:21:02 UTC*
+*Last updated at 2026-05-15 09:16:01 UTC*
 *Historical records are stored in the `archive` directory.*
