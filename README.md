@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [aallan/vera](https://github.com/aallan/vera)
   > Vera: a programming language designed for LLMs to write
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
+  > Themida Devirt Results
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
@@ -92,6 +96,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > 🔥 Search, scrape, and clean the web for AI agents.
 
+### [simonw](https://github.com/simonw)
+- 🍴 👤 [simonw](https://github.com/simonw) Forked [pypi/warehouse](https://github.com/pypi/warehouse) to [simonw/warehouse](https://github.com/simonw/warehouse)
+  > The Python Package Index
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [raindrop-ai/workshop](https://github.com/raindrop-ai/workshop)
   > Give your coding agent the power to write and run agent evals.
@@ -102,5 +110,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 18:28:20 UTC*
+*Last updated at 2026-05-16 19:30:25 UTC*
 *Historical records are stored in the `archive` directory.*
