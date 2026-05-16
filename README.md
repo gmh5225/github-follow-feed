@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
+  > Claude Code skill to support Android app's reverse engineering
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
   > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
@@ -30,11 +34,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jtydhr88/ComfyUI-mesh2motion](https://github.com/jtydhr88/ComfyUI-mesh2motion)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)
+  > 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi,...
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > 🔥 Search, scrape, and clean the web for AI agents.
 
 
 ---
-*Last updated at 2026-05-16 07:42:41 UTC*
+*Last updated at 2026-05-16 08:43:25 UTC*
 *Historical records are stored in the `archive` directory.*
