@@ -8,10 +8,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)
   > Claude Code skill to support Android app's reverse engineering
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
-  > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
-
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [v12-security/pocs](https://github.com/v12-security/pocs)
   > poc it like it's hot
@@ -39,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [YGCODES1/LinuxGU-](https://github.com/YGCODES1/LinuxGU-)
   > Linux 0.11 And Gui Code ! 
+
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
+  > The programming language for agents
 
 ### [mattgodbolt](https://github.com/mattgodbolt)
 - 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [waitingforvsync/nevryon](https://github.com/waitingforvsync/nevryon)
@@ -72,6 +72,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Dec0ne/HWSyscalls](https://github.com/Dec0ne/HWSyscalls)
+  > HWSyscalls is a new method to execute indirect syscalls using HWBP, HalosGate and a synthetic trampo...
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > 🔥 Search, scrape, and clean the web for AI agents.
@@ -86,5 +90,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 14:34:23 UTC*
+*Last updated at 2026-05-16 15:28:30 UTC*
 *Historical records are stored in the `archive` directory.*
