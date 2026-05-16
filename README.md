@@ -34,6 +34,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench)
   > ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug,...
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [jasonacox/tinytuya](https://github.com/jasonacox/tinytuya)
+  > Python API and command line tool for Tuya WiFi smart devices using a direct local area network (LAN)...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya)
+  > local handling for Tuya devices
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
   > Themida Devirt Results
@@ -118,5 +124,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 22:22:14 UTC*
+*Last updated at 2026-05-16 23:24:01 UTC*
 *Historical records are stored in the `archive` directory.*
