@@ -34,10 +34,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench)
   > ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug,...
 
-### [dcbuild3r](https://github.com/dcbuild3r)
-- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [aallan/vera](https://github.com/aallan/vera)
-  > Vera: a programming language designed for LLMs to write
-
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
   > Themida Devirt Results
@@ -55,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
   > The programming language for agents
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jakobfriedl/usb-monitor-bof](https://github.com/jakobfriedl/usb-monitor-bof)
+  > Async BOF that monitors USB device connect/disconnect events, reports device information and perform...
 
 ### [mattgodbolt](https://github.com/mattgodbolt)
 - 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [waitingforvsync/nevryon](https://github.com/waitingforvsync/nevryon)
@@ -100,6 +100,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [pypi/warehouse](https://github.com/pypi/warehouse) to [simonw/warehouse](https://github.com/simonw/warehouse)
   > The Python Package Index
 
+### [spudgy](https://github.com/spudgy)
+- 🌟 👤 [spudgy](https://github.com/spudgy) Starred [compozy/compozy](https://github.com/compozy/compozy)
+  > Drive the full lifecycle of AI-assisted development — from idea to shipped code.
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [raindrop-ai/workshop](https://github.com/raindrop-ai/workshop)
   > Give your coding agent the power to write and run agent evals.
@@ -110,5 +114,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 19:30:25 UTC*
+*Last updated at 2026-05-16 20:21:57 UTC*
 *Historical records are stored in the `archive` directory.*
