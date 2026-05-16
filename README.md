@@ -37,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [YGCODES1/LinuxGU-](https://github.com/YGCODES1/LinuxGU-)
+  > Linux 0.11 And Gui Code ! 
 
 ### [mattgodbolt](https://github.com/mattgodbolt)
 - 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [waitingforvsync/nevryon](https://github.com/waitingforvsync/nevryon)
@@ -77,8 +79,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [raindrop-ai/workshop](https://github.com/raindrop-ai/workshop)
   > Give your coding agent the power to write and run agent evals.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [originsec/patchwatch](https://github.com/originsec/patchwatch)
+  > A local tool for ingesting Windows Patch Tuesday CVEs, diffing patched binaries with Ghidriff and su...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [originsec/pocsmith](https://github.com/originsec/pocsmith)
+  > Autonomous Windows POC developer from patchwatch diff reports
 
 
 ---
-*Last updated at 2026-05-16 13:36:49 UTC*
+*Last updated at 2026-05-16 14:34:23 UTC*
 *Historical records are stored in the `archive` directory.*
