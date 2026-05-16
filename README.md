@@ -11,6 +11,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [v12-security/pocs](https://github.com/v12-security/pocs)
   > poc it like it's hot
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Nightmare-Eclipse/MiniPlasma](https://github.com/Nightmare-Eclipse/MiniPlasma)
+  > CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an ...
+
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cristeigabriela/bb-viewer](https://github.com/cristeigabriela/bb-viewer) to [CrackerCat/bb-viewer](https://github.com/CrackerCat/bb-viewer)
+  > Visualize the data of bb, the Windows SDK/PHNT parser and analyzer.
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
@@ -30,5 +36,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 06:57:33 UTC*
+*Last updated at 2026-05-16 07:42:41 UTC*
 *Historical records are stored in the `archive` directory.*
