@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [markdown-viewer/skills](https://github.com/markdown-viewer/skills)
   > Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in M...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [aallan/vera](https://github.com/aallan/vera)
+  > Vera: a programming language designed for LLMs to write
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
@@ -68,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 11:27:53 UTC*
+*Last updated at 2026-05-16 12:32:44 UTC*
 *Historical records are stored in the `archive` directory.*
