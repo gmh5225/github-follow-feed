@@ -21,6 +21,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cristeigabriela/bb-viewer](https://github.com/cristeigabriela/bb-viewer) to [CrackerCat/bb-viewer](https://github.com/CrackerCat/bb-viewer)
   > Visualize the data of bb, the Windows SDK/PHNT parser and analyzer.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [v12-security/pocs](https://github.com/v12-security/pocs) to [CrackerCat/v12-security-pocs](https://github.com/CrackerCat/v12-security-pocs)
+  > poc it like it's hot
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [opendatalab/MinerU](https://github.com/opendatalab/MinerU)
@@ -38,6 +40,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jtydhr88/ComfyUI-mesh2motion](https://github.com/jtydhr88/ComfyUI-mesh2motion)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)
   > 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi,...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [vudovn/ag-kit](https://github.com/vudovn/ag-kit)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
+  > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
@@ -45,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 08:43:25 UTC*
+*Last updated at 2026-05-16 09:38:23 UTC*
 *Historical records are stored in the `archive` directory.*
