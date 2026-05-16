@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Nightmare-Eclipse/MiniPlasma](https://github.com/Nightmare-Eclipse/MiniPlasma)
   > CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an ...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Whispergate/Hecate](https://github.com/Whispergate/Hecate)
+  > A modern alternative Web-UI for the Mythic Command and Control Server
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cristeigabriela/bb-viewer](https://github.com/cristeigabriela/bb-viewer) to [CrackerCat/bb-viewer](https://github.com/CrackerCat/bb-viewer)
   > Visualize the data of bb, the Windows SDK/PHNT parser and analyzer.
@@ -39,6 +43,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [YGCODES1/LinuxGU-](https://github.com/YGCODES1/LinuxGU-)
   > Linux 0.11 And Gui Code ! 
+
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [eyre-rs/eyre](https://github.com/eyre-rs/eyre)
+  >  A trait object based error handling type for easy idiomatic error handling and reporting in Rust ap...
 
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
@@ -94,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 16:26:30 UTC*
+*Last updated at 2026-05-16 17:26:48 UTC*
 *Historical records are stored in the `archive` directory.*
