@@ -52,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [vercel-labs/zero](https://github.com/vercel-labs/zero)
   > The programming language for agents
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVlabs/Sana](https://github.com/NVlabs/Sana)
+  > SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jakobfriedl/usb-monitor-bof](https://github.com/jakobfriedl/usb-monitor-bof)
   > Async BOF that monitors USB device connect/disconnect events, reports device information and perform...
@@ -114,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 21:22:58 UTC*
+*Last updated at 2026-05-16 22:22:14 UTC*
 *Historical records are stored in the `archive` directory.*
