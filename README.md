@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [markdown-viewer/skills](https://github.com/markdown-viewer/skills)
   > Opinionated skills for AI coding agents to create stunning diagrams and visualizations directly in M...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)
+  > An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [exploitbench/exploitbench](https://github.com/exploitbench/exploitbench)
+  > ExploitBench measures how far AI agents climb, from reaching vulnerable code, to triggering the bug,...
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [aallan/vera](https://github.com/aallan/vera)
@@ -90,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-16 15:28:30 UTC*
+*Last updated at 2026-05-16 16:26:30 UTC*
 *Historical records are stored in the `archive` directory.*
