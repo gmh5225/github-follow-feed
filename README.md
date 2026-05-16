@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AdvDebug/Brovan](https://github.com/AdvDebug/Brovan)
   > Brovan is a user-mode x86_64 binary emulator for PE, ELF, memory dumps, and unrecognized file format...
 
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [waitingforvsync/nevryon](https://github.com/waitingforvsync/nevryon)
+  > Reverse-engineering of Nevryon (4th Dimension, BBC Micro, 1990) - disk extraction tools, sprite/leve...
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Nightmare-Eclipse/MiniPlasma](https://github.com/Nightmare-Eclipse/MiniPlasma)
   > CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an ...
@@ -70,7 +74,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
   > 🔥 Search, scrape, and clean the web for AI agents.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [raindrop-ai/workshop](https://github.com/raindrop-ai/workshop)
+  > Give your coding agent the power to write and run agent evals.
+
 
 ---
-*Last updated at 2026-05-16 12:32:44 UTC*
+*Last updated at 2026-05-16 13:36:49 UTC*
 *Historical records are stored in the `archive` directory.*
