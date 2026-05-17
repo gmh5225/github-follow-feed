@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [CodyCloudSrls](https://github.com/CodyCloudSrls) Starred [CodyCloudSrls/AssetManager](https://github.com/CodyCloudSrls/AssetManager)
   > Snipe-IT Fork for EU / Italian asset inventory
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [vtlmks/mkgui](https://github.com/vtlmks/mkgui)
+  > Minimal GUI toolkit for Linux (X11) and Windows (Win32). Software rendered, single-file unity build....
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [0xROOTPLS/Fritter](https://github.com/0xROOTPLS/Fritter)
   > Fritter is a heavily modified fork of TheWover and Odzhan's Donut shellcode generator.
@@ -30,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [EVV1E/waylandcraft](https://github.com/EVV1E/waylandcraft)
+  > Wayland Compositor in Minecraft
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
@@ -103,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 18:31:01 UTC*
+*Last updated at 2026-05-17 19:31:46 UTC*
 *Historical records are stored in the `archive` directory.*
