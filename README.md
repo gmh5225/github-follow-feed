@@ -23,9 +23,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool)
+  > Surfpool is where developers start their Solana journey.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [LiteSVM/litesvm-go](https://github.com/LiteSVM/litesvm-go)
+  > Go bindings for LiteSVM - a fast, in-process Solana VM for testing programs and clients in Go
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak)
   > Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mi...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [raskolnikov90/Beatrice.py](https://github.com/raskolnikov90/Beatrice.py)
+  > Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [synacktiv/GroupPolicyBackdoor](https://github.com/synacktiv/GroupPolicyBackdoor)
+  > Group Policy Objects manipulation and exploitation framework
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [P0142/LDAP-Bof-Collection](https://github.com/P0142/LDAP-Bof-Collection)
+  > Collection of many ldap bofs for domain enumeration and privilege escalation. Created for use with t...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes)
@@ -40,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 09:40:41 UTC*
+*Last updated at 2026-05-17 10:36:11 UTC*
 *Historical records are stored in the `archive` directory.*
