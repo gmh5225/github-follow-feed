@@ -98,6 +98,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [JACoders/OpenJK](https://github.com/JACoders/OpenJK)
   > Community effort to maintain and improve Jedi Academy (SP & MP) + Jedi Outcast (SP only) released by...
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [mschwager/cohesion](https://github.com/mschwager/cohesion)
+  > A tool for measuring Python class cohesion.
+
 ### [steipete](https://github.com/steipete)
 - 🍴 👤 [steipete](https://github.com/steipete) Forked [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) to [steipete/deepsec](https://github.com/steipete/deepsec)
   > Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
@@ -111,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 20:23:44 UTC*
+*Last updated at 2026-05-17 21:24:38 UTC*
 *Historical records are stored in the `archive` directory.*
