@@ -90,9 +90,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes)
   > Interactive field-aligned mesh generator
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
+  > A bin2bin code virtualizer for x86-64
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
+  > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
+
 ### [mubix](https://github.com/mubix)
 - 🌟 👤 [mubix](https://github.com/mubix) Starred [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity)
   > An overview of LLMs for cybersecurity.
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [vnmakarov/mir](https://github.com/vnmakarov/mir)
+  > A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and in...
 
 ### [praeclarum](https://github.com/praeclarum)
 - 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [JACoders/OpenJK](https://github.com/JACoders/OpenJK)
@@ -101,6 +111,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [mschwager/cohesion](https://github.com/mschwager/cohesion)
   > A tool for measuring Python class cohesion.
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [psf/pypistats.org](https://github.com/psf/pypistats.org)
+  > PyPI downloads analytics dashboard
 
 ### [steipete](https://github.com/steipete)
 - 🍴 👤 [steipete](https://github.com/steipete) Forked [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) to [steipete/deepsec](https://github.com/steipete/deepsec)
@@ -115,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 21:24:38 UTC*
+*Last updated at 2026-05-17 22:24:04 UTC*
 *Historical records are stored in the `archive` directory.*
