@@ -42,9 +42,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [P0142/LDAP-Bof-Collection](https://github.com/P0142/LDAP-Bof-Collection)
   > Collection of many ldap bofs for domain enumeration and privilege escalation. Created for use with t...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
+  > Linux payload implementing HV exploits to run a custom bootloader
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes)
   > Interactive field-aligned mesh generator
+
+### [steipete](https://github.com/steipete)
+- 🍴 👤 [steipete](https://github.com/steipete) Forked [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) to [steipete/deepsec](https://github.com/steipete/deepsec)
+  > Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [anthropics/financial-services](https://github.com/anthropics/financial-services)
@@ -55,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 10:36:11 UTC*
+*Last updated at 2026-05-17 11:31:20 UTC*
 *Historical records are stored in the `archive` directory.*
