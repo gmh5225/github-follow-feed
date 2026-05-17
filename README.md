@@ -23,6 +23,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+  > Generate type-safe code from SQL
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [TanStack/router](https://github.com/TanStack/router)
+  > 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [solana-foundation/surfpool](https://github.com/solana-foundation/surfpool)
   > Surfpool is where developers start their Solana journey.
@@ -81,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 14:37:02 UTC*
+*Last updated at 2026-05-17 15:29:10 UTC*
 *Historical records are stored in the `archive` directory.*
