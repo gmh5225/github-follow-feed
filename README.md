@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CodyCloudSrls](https://github.com/CodyCloudSrls)
+- 🌟 👤 [CodyCloudSrls](https://github.com/CodyCloudSrls) Starred [CodyCloudSrls/Codex-Memory](https://github.com/CodyCloudSrls/Codex-Memory)
+  > A persistent memory for codex, cross repo, using vector stores
+- 🌟 👤 [CodyCloudSrls](https://github.com/CodyCloudSrls) Starred [CodyCloudSrls/WPSimpleCompliance](https://github.com/CodyCloudSrls/WPSimpleCompliance)
+  > A simple compliant privacy & cookie policy plugin for wordpress
+- 🌟 👤 [CodyCloudSrls](https://github.com/CodyCloudSrls) Starred [CodyCloudSrls/AssetManager](https://github.com/CodyCloudSrls/AssetManager)
+  > Snipe-IT Fork for EU / Italian asset inventory
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [0xROOTPLS/Fritter](https://github.com/0xROOTPLS/Fritter)
   > Fritter is a heavily modified fork of TheWover and Odzhan's Donut shellcode generator.
@@ -36,6 +44,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Go bindings for LiteSVM - a fast, in-process Solana VM for testing programs and clients in Go
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
   > :mag: Quick file search & app launcher for Windows with community-made plugins
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [TryGhost/Ghost](https://github.com/TryGhost/Ghost)
+  > Independent technology for modern publishing, memberships, subscriptions and newsletters.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
+  > A GameCube/Wii emulator and debugger written in Rust.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak)
@@ -61,6 +75,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
   > Linux payload implementing HV exploits to run a custom bootloader
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
+  > A GameCube/Wii emulator and debugger written in Rust.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes)
@@ -87,5 +103,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 17:27:39 UTC*
+*Last updated at 2026-05-17 18:31:01 UTC*
 *Historical records are stored in the `archive` directory.*
