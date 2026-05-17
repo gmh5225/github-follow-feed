@@ -33,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak)
   > Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mi...
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D)
+  > [SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [raskolnikov90/Beatrice.py](https://github.com/raskolnikov90/Beatrice.py)
   > Modify machine code in binaries with alternative x64 assembly opcodes for AV evasion
@@ -50,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [wjakob/instant-meshes](https://github.com/wjakob/instant-meshes)
   > Interactive field-aligned mesh generator
 
+### [mubix](https://github.com/mubix)
+- 🌟 👤 [mubix](https://github.com/mubix) Starred [tmylla/Awesome-LLM4Cybersecurity](https://github.com/tmylla/Awesome-LLM4Cybersecurity)
+  > An overview of LLMs for cybersecurity.
+
 ### [steipete](https://github.com/steipete)
 - 🍴 👤 [steipete](https://github.com/steipete) Forked [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) to [steipete/deepsec](https://github.com/steipete/deepsec)
   > Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
@@ -63,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 11:31:20 UTC*
+*Last updated at 2026-05-17 12:31:22 UTC*
 *Historical records are stored in the `archive` directory.*
