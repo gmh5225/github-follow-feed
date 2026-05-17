@@ -28,10 +28,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Surfpool is where developers start their Solana journey.
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [LiteSVM/litesvm-go](https://github.com/LiteSVM/litesvm-go)
   > Go bindings for LiteSVM - a fast, in-process Solana VM for testing programs and clients in Go
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)
+  > :mag: Quick file search & app launcher for Windows with community-made plugins
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak)
   > Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mi...
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [wolveix/satisfactory-server](https://github.com/wolveix/satisfactory-server)
+  > A Dockerized version of the Satisfactory dedicated server
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [TencentARC/Pixal3D](https://github.com/TencentARC/Pixal3D)
@@ -75,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 13:36:52 UTC*
+*Last updated at 2026-05-17 14:37:02 UTC*
 *Historical records are stored in the `archive` directory.*
