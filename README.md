@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [CodyCloudSrls](https://github.com/CodyCloudSrls) Starred [CodyCloudSrls/AssetManager](https://github.com/CodyCloudSrls/AssetManager)
   > Snipe-IT Fork for EU / Italian asset inventory
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [0xjbb/cet-spoofing-detection](https://github.com/0xjbb/cet-spoofing-detection)
+  > Stack spoofing Detection for CET processes by comparing shadow and user stacks.
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [vtlmks/mkgui](https://github.com/vtlmks/mkgui)
   > Minimal GUI toolkit for Linux (X11) and Windows (Win32). Software rendered, single-file unity build....
@@ -127,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-17 22:24:04 UTC*
+*Last updated at 2026-05-17 23:25:23 UTC*
 *Historical records are stored in the `archive` directory.*
