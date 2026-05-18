@@ -15,6 +15,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xingguangcuican6666/eBPF_Hook](https://github.com/xingguangcuican6666/eBPF_Hook) to [CrackerCat/eBPF_Hook](https://github.com/CrackerCat/eBPF_Hook)
   > Test for eBPF of kernel
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qqq694637644/vmp----](https://github.com/qqq694637644/vmp----) to [CrackerCat/vmp----](https://github.com/CrackerCat/vmp----)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [edxeth/Shai-Hulud-Open-Source](https://github.com/edxeth/Shai-Hulud-Open-Source) to [CrackerCat/edxeth-Shai-Hulud-Open-Source](https://github.com/CrackerCat/edxeth-Shai-Hulud-Open-Source)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuKongA/LinkToWindows](https://github.com/YuKongA/LinkToWindows) to [CrackerCat/LinkToWindows](https://github.com/CrackerCat/LinkToWindows)
+  > [Zygisk] 添加完整的连接到 Windows 支持
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Yawning/obfs4](https://github.com/Yawning/obfs4)
@@ -79,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-18 13:30:16 UTC*
+*Last updated at 2026-05-18 15:13:38 UTC*
 *Historical records are stored in the `archive` directory.*
