@@ -70,6 +70,34 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
   > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn) to [killvxk/ssh-keysign-pwn](https://github.com/killvxk/ssh-keysign-pwn)
+  > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zeroxjf/lightsaber](https://github.com/zeroxjf/lightsaber)
+  > iOS 18.4-18.6.2 userland exploit chain with JS injection into SpringBoard and other processes. Deriv...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kiddo-pwn/ffffirefox](https://github.com/kiddo-pwn/ffffirefox)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kiddo-pwn/CVE-2024-50629_50631](https://github.com/kiddo-pwn/CVE-2024-50629_50631)
+  > N-day Exploit for Synology BeeStation RCE by DEVCORE (Pwn2Own 2024)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [kiddo-pwn/ffffirefox](https://github.com/kiddo-pwn/ffffirefox) to [killvxk/ffffirefox](https://github.com/killvxk/ffffirefox)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [skraft9/vulnerability-research](https://github.com/skraft9/vulnerability-research)
+  > Collection of documentation, tools, and tips related to vulnerability research.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nicram-code/HexLab](https://github.com/nicram-code/HexLab)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [nicram-code/HexLab](https://github.com/nicram-code/HexLab) to [killvxk/HexLab](https://github.com/killvxk/HexLab)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zeroxjf/BrokenBlade](https://github.com/zeroxjf/BrokenBlade)
+  > DO NOT USE ON ANY DEVICE. UNSTABLE, IN-DEVELOPMENT EXPLOIT CHAINS AND INJECTION PAYLOADS. MAY BRICK,...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [felipejfc/DarkForge](https://github.com/felipejfc/DarkForge)
+  > DarkForge is an root iOS JavaScript runtime and skill platform, powered by the DarkSword exploit cha...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [zeroxjf/BrokenBlade](https://github.com/zeroxjf/BrokenBlade) to [killvxk/BrokenBlade](https://github.com/killvxk/BrokenBlade)
+  > DO NOT USE ON ANY DEVICE. UNSTABLE, IN-DEVELOPMENT EXPLOIT CHAINS AND INJECTION PAYLOADS. MAY BRICK,...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [felipejfc/DarkForge](https://github.com/felipejfc/DarkForge) to [killvxk/DarkForge](https://github.com/killvxk/DarkForge)
+  > DarkForge is an root iOS JavaScript runtime and skill platform, powered by the DarkSword exploit cha...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [forestg11/lara](https://github.com/forestg11/lara)
+  > WIP darksword kexploit implement
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wh1te4ever/darksword-kexploit-fun](https://github.com/wh1te4ever/darksword-kexploit-fun)
+  > Building some cool stuff utilizing darksword kernel r/w exploit
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zeroxjf/cyanide-ios](https://github.com/zeroxjf/cyanide-ios)
+  > Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [asdfugil/mini-haywire](https://github.com/asdfugil/mini-haywire)
+  > A bootloader and experimentation playground for Lightning Video Adapters
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)
@@ -108,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-18 19:38:12 UTC*
+*Last updated at 2026-05-18 20:39:05 UTC*
 *Historical records are stored in the `archive` directory.*
