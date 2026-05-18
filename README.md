@@ -64,12 +64,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Multi-system emulator written in Java
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font)
   > 开源的泛中日韩像素字体，黑体风格
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [shonumi/gekko-gc-emu](https://github.com/shonumi/gekko-gc-emu)
+  > Gekko Gamecube Emulator
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xdeadbeefnetwork/ssh-keysign-pwn](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn)
+  > Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. ...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)
   > Full exploit code for CVE-2026-40369 - A Windows kernel arbitrary write vulnerability that allows br...
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [scrt/KexecDDPlus](https://github.com/scrt/KexecDDPlus)
   > Exploiting the KsecDD Windows driver through Server Silos
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
+  > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nodiuus/nocturne](https://github.com/nodiuus/nocturne)
@@ -100,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-18 18:46:46 UTC*
+*Last updated at 2026-05-18 19:38:12 UTC*
 *Historical records are stored in the `archive` directory.*
