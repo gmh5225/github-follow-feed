@@ -51,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [steipete/oracle](https://github.com/steipete/oracle)
   > Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 
+### [eliben](https://github.com/eliben)
+- 🍴 👤 [eliben](https://github.com/eliben) Forked [jax-ml/scaling-book](https://github.com/jax-ml/scaling-book) to [eliben/scaling-book](https://github.com/eliben/scaling-book)
+  > Home for "How To Scale Your Model", a short blog-style textbook about scaling LLMs on TPUs
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
   > Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer ...
@@ -58,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)
   > The universal proxy platform
+
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [simulot/immich-go](https://github.com/simulot/immich-go)
+  > An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its be...
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ArkoSammy12/jemu](https://github.com/ArkoSammy12/jemu)
@@ -136,5 +144,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-18 20:39:05 UTC*
+*Last updated at 2026-05-18 21:34:04 UTC*
 *Historical records are stored in the `archive` directory.*
