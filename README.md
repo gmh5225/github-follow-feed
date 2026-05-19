@@ -27,11 +27,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
   > Binary ninja symbolic execution library
 
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [SnenxyTengoku/copr](https://github.com/SnenxyTengoku/copr) to [funkemunky/zen-copr](https://github.com/funkemunky/zen-copr)
+  > repository containing specfiles for copr packages i maintain
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator)
   > Learning in infinite dimension with neural operators.
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo)
   > Open-source deep-learning framework for building, training, and fine-tuning deep learning models usi...
+
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
+  > A GameCube/Wii emulator and debugger written in Rust.
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [maci0/gvisor](https://github.com/maci0/gvisor)
@@ -66,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-19 13:22:53 UTC*
+*Last updated at 2026-05-19 15:15:30 UTC*
 *Historical records are stored in the `archive` directory.*
