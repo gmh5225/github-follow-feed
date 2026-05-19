@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
   > Binary ninja symbolic execution library
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
+  > Binary ninja symbolic execution library
+
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [kentaro/foldcast](https://github.com/kentaro/foldcast)
 
@@ -23,5 +27,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-19 03:19:44 UTC*
+*Last updated at 2026-05-19 05:30:45 UTC*
 *Historical records are stored in the `archive` directory.*
