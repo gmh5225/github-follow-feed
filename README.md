@@ -98,7 +98,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [andrew/pycon](https://github.com/andrew/pycon)
   > Data collection and analysis for a PyCon talk on GitHub Actions security across Python packages.
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
+  > Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
+
 
 ---
-*Last updated at 2026-05-19 20:42:26 UTC*
+*Last updated at 2026-05-19 21:38:05 UTC*
 *Historical records are stored in the `archive` directory.*
