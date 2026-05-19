@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Coldzer0](https://github.com/Coldzer0)
+- 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [Coldzer0/LuaDecompiler](https://github.com/Coldzer0/LuaDecompiler)
+  > Lua bytecode disassembler and decompiler for Lua 5.1, 5.2, 5.3, 5.4, and 5.5 binary chunks.
+
 ### [Fare9](https://github.com/Fare9)
 - 🌟 👤 [Fare9](https://github.com/Fare9) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
   > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
@@ -22,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [SaadAhla](https://github.com/SaadAhla)
 - 🌟 👤 [SaadAhla](https://github.com/SaadAhla) Starred [redteamfortress/PhantomKiller](https://github.com/redteamfortress/PhantomKiller)
   > Another BYOVD process killer. works on all EDR's. fully signed.
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
+  > Native and Compact Structured Latents for 3D Generation
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
@@ -60,6 +68,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
   > An 8-stage vulnerability-discovery agent.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports)
+  > Top disclosed reports from HackerOne
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
@@ -76,6 +86,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [nulltea](https://github.com/nulltea) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [nulltea/llama.cpp](https://github.com/nulltea/llama.cpp)
   > LLM inference in C/C++
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [azw413/Glass](https://github.com/azw413/Glass)
+  > Glass - a fast and free IDA Pro alternative
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js)
   > Protocol Buffers for JavaScript & TypeScript.
@@ -86,5 +100,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-19 17:07:23 UTC*
+*Last updated at 2026-05-19 18:47:44 UTC*
 *Historical records are stored in the `archive` directory.*
