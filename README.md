@@ -60,6 +60,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Application Kernel for Containers - macos port
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)
   > Full exploit code for CVE-2026-40369 - A Windows kernel arbitrary write vulnerability that allows br...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Hamid-K/nginx-rift-private-lab](https://github.com/Hamid-K/nginx-rift-private-lab)
+  > Private Nginx Rift ASLR lab, exploit chain, and demo recordings
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [searxng/searxng](https://github.com/searxng/searxng)
@@ -104,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-19 21:38:05 UTC*
+*Last updated at 2026-05-19 22:34:41 UTC*
 *Historical records are stored in the `archive` directory.*
