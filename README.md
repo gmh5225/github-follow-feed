@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
   > Binary ninja symbolic execution library
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
+  > An 8-stage vulnerability-discovery agent.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
   > Binary ninja symbolic execution library
@@ -27,5 +31,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-19 05:30:45 UTC*
+*Last updated at 2026-05-19 07:28:10 UTC*
 *Historical records are stored in the `archive` directory.*
