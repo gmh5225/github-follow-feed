@@ -37,6 +37,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo)
   > Open-source deep-learning framework for building, training, and fine-tuning deep learning models usi...
 
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [iced-rs/iced_aw](https://github.com/iced-rs/iced_aw) to [ioncodes/iced_aw](https://github.com/ioncodes/iced_aw)
+  > Additional widgets for the Iced GUI library
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
   > A GameCube/Wii emulator and debugger written in Rust.
@@ -49,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)
   > Full exploit code for CVE-2026-40369 - A Windows kernel arbitrary write vulnerability that allows br...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [searxng/searxng](https://github.com/searxng/searxng)
+  > SearXNG is a free internet metasearch engine which aggregates results from various search services a...
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
   > An 8-stage vulnerability-discovery agent.
@@ -56,6 +64,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ek0/bn-emu](https://github.com/ek0/bn-emu)
   > Binary ninja symbolic execution library
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)
+  > A community-supported supercharged document management system: scan, index and archive all your docu...
 
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [kentaro/foldcast](https://github.com/kentaro/foldcast)
@@ -74,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-19 15:15:30 UTC*
+*Last updated at 2026-05-19 17:07:23 UTC*
 *Historical records are stored in the `archive` directory.*
