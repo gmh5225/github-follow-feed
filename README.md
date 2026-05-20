@@ -57,6 +57,32 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [karalabe](https://github.com/karalabe) Starred [dark-bio/emulator-images](https://github.com/dark-bio/emulator-images)
   > Ark emulator proprietary images
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug)
+  > An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MaftyManicEMU/DukeX](https://github.com/MaftyManicEMU/DukeX)
+  > Xbox Emulation on iOS
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
+  > An 8-stage vulnerability-discovery agent.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [q1uf3ng/Dirty-Merge](https://github.com/q1uf3ng/Dirty-Merge)
+  > Linux kernel local privilege escalation via `skb_gro_receive()` SKBFL_SHARED_FRAG non-propagation (G...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ip-arch/NESLab](https://github.com/ip-arch/NESLab)
+  > Educational materials for Embedded systems with NES
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [q1uf3ng/Dirty-Merge](https://github.com/q1uf3ng/Dirty-Merge) to [killvxk/Dirty-Merge](https://github.com/killvxk/Dirty-Merge)
+  > Linux kernel local privilege escalation via `skb_gro_receive()` SKBFL_SHARED_FRAG non-propagation (G...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [CodeXTF2/ntdsxtract](https://github.com/CodeXTF2/ntdsxtract)
+  > Active Directory forensic framework
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [thiraphit7/coruna](https://github.com/thiraphit7/coruna)
+  > The leaked exploit toolkit for various iOS versions
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Hamid-K/nginx-rift-private-lab](https://github.com/Hamid-K/nginx-rift-private-lab) to [killvxk/nginx-rift-private-lab](https://github.com/killvxk/nginx-rift-private-lab)
+  > Private Nginx Rift ASLR lab, exploit chain, and demo recordings
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [orinimron123/CVE-2026-40369-EXPLOIT](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT) to [killvxk/CVE-2026-40369-EXPLOIT](https://github.com/killvxk/CVE-2026-40369-EXPLOIT)
+  > Full exploit code for CVE-2026-40369 - A Windows kernel arbitrary write vulnerability that allows br...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [AFLplusplus/LibAFL](https://github.com/AFLplusplus/LibAFL)
+  > Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For ...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [SnailSploit/SnailObfuscator](https://github.com/SnailSploit/SnailObfuscator) to [killvxk/SnailObfuscator](https://github.com/killvxk/SnailObfuscator)
+  > SnailObfuscator uses structurally-aware engines instead of regex string hacking:
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -68,13 +94,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mshumer](https://github.com/mshumer)
 - 🚀 👤 [mshumer](https://github.com/mshumer) Made [mshumer/visual-accuracy-review-site](https://github.com/mshumer/visual-accuracy-review-site) public
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
+  > KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers ...
+
+### [praeclarum](https://github.com/praeclarum)
+- 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [shinyquagsire23/OpenJKDF2](https://github.com/shinyquagsire23/OpenJKDF2)
+  > A cross-platform reimplementation of JKDF2 in C
+
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [openresty/luajit2](https://github.com/openresty/luajit2)
   > OpenResty's Branch of LuaJIT 2
-
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [nk3750/clawlens](https://github.com/nk3750/clawlens)
-  > Agent observability and guardrails for OpenClaw — risk scoring, audit trails, dashboard.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
@@ -86,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-20 15:13:14 UTC*
+*Last updated at 2026-05-20 17:14:35 UTC*
 *Historical records are stored in the `archive` directory.*
