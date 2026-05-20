@@ -65,6 +65,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [karalabe](https://github.com/karalabe) Starred [dark-bio/emulator-images](https://github.com/dark-bio/emulator-images)
   > Ark emulator proprietary images
 
+### [keowu](https://github.com/keowu)
+- 🌟 👤 [keowu](https://github.com/keowu) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [StephenDev0/StikDebug](https://github.com/StephenDev0/StikDebug)
   > An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.
@@ -140,5 +144,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-20 21:40:23 UTC*
+*Last updated at 2026-05-20 22:36:58 UTC*
 *Historical records are stored in the `archive` directory.*
