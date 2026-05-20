@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yunsmall/Android-Usbipdcpp](https://github.com/yunsmall/Android-Usbipdcpp) to [CrackerCat/Android-Usbipdcpp](https://github.com/CrackerCat/Android-Usbipdcpp)
   > Android USB/IP server app - share USB devices over network
 
+### [brockelmore](https://github.com/brockelmore)
+- 🚀 👤 [brockelmore](https://github.com/brockelmore) Made [concordance-co/xenon](https://github.com/concordance-co/xenon) public
+  > Mechanistic interpretability workflow platform for activation capture, analysis, interventions, and ...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
 
@@ -84,6 +88,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > SnailObfuscator uses structurally-aware engines instead of regex string hacking:
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [muneebxyz/PyObfuscator_tweeked](https://github.com/muneebxyz/PyObfuscator_tweeked)
   > PyObfuscator is a basic command line tool that allows you to obfuscate not only simple Python script...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [chaitin/MonkeyCode](https://github.com/chaitin/MonkeyCode)
+  > AI 开发平台，内置云端开发环境，并支持业内最全的顶尖大模型。无论是开发项目、做调研、写文档，还是分析数据、处理任务，打开浏览器就能随时开始，让 AI 持续帮你推进工作
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns)
+  > The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms)
+  > 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source altern...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ianho7/maptoposter-online](https://github.com/ianho7/maptoposter-online)
+  > ✨❤️‍🔥Turn the cities you love into stunning designs
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [can4hou6joeng4/boss-agent-cli](https://github.com/can4hou6joeng4/boss-agent-cli)
+  > AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rany2/edge-tts](https://github.com/rany2/edge-tts)
+  > Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Win...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [BryanHoo/FeedFuse](https://github.com/BryanHoo/FeedFuse)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [volsifly/ibus_llm_pinyin_input](https://github.com/volsifly/ibus_llm_pinyin_input)
+  > ibus使用大模型输入拼音
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iAmCorey/kooky](https://github.com/iAmCorey/kooky)
+  > A minimal modern terminal for AI coding experience — Sidebar workspaces; horizontal / vertical split...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
@@ -119,5 +140,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-20 18:59:00 UTC*
+*Last updated at 2026-05-20 19:51:36 UTC*
 *Historical records are stored in the `archive` directory.*
