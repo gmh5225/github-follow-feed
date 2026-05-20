@@ -25,6 +25,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yunsmall/Android-Usbipdcpp](https://github.com/yunsmall/Android-Usbipdcpp) to [CrackerCat/Android-Usbipdcpp](https://github.com/CrackerCat/Android-Usbipdcpp)
   > Android USB/IP server app - share USB devices over network
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [shakevsky/keybuster](https://github.com/shakevsky/keybuster)
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [biandratti/huginn-net](https://github.com/biandratti/huginn-net)
   > Multi-protocol passive fingerprinting library: TCP/HTTP (p0f-style) + TLS (JA4-style) analysis in Ru...
@@ -34,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Ark emulator
 - 🌟 👤 [karalabe](https://github.com/karalabe) Starred [dark-bio/emulator-images](https://github.com/dark-bio/emulator-images)
   > Ark emulator proprietary images
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
+  > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ### [mshumer](https://github.com/mshumer)
 - 🚀 👤 [mshumer](https://github.com/mshumer) Made [mshumer/visual-accuracy-review-site](https://github.com/mshumer/visual-accuracy-review-site) public
@@ -48,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-20 09:20:30 UTC*
+*Last updated at 2026-05-20 11:10:31 UTC*
 *Historical records are stored in the `archive` directory.*
