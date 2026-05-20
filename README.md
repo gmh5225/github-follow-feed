@@ -82,6 +82,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For ...
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [SnailSploit/SnailObfuscator](https://github.com/SnailSploit/SnailObfuscator) to [killvxk/SnailObfuscator](https://github.com/killvxk/SnailObfuscator)
   > SnailObfuscator uses structurally-aware engines instead of regex string hacking:
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [muneebxyz/PyObfuscator_tweeked](https://github.com/muneebxyz/PyObfuscator_tweeked)
+  > PyObfuscator is a basic command line tool that allows you to obfuscate not only simple Python script...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
@@ -90,9 +92,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [NoobieDog/TPM-Sniffing](https://github.com/NoobieDog/TPM-Sniffing)
   > A repo for TPM sniffing greatness
-
-### [mshumer](https://github.com/mshumer)
-- 🚀 👤 [mshumer](https://github.com/mshumer) Made [mshumer/visual-accuracy-review-site](https://github.com/mshumer/visual-accuracy-review-site) public
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [TheCruZ/kdmapper](https://github.com/TheCruZ/kdmapper)
@@ -106,6 +105,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [openresty/luajit2](https://github.com/openresty/luajit2)
   > OpenResty's Branch of LuaJIT 2
 
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [BRO3886/rem](https://github.com/BRO3886/rem)
+  > A powerful ai-native CLI tool for macOS Reminders app
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -116,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-20 17:14:35 UTC*
+*Last updated at 2026-05-20 18:59:00 UTC*
 *Historical records are stored in the `archive` directory.*
