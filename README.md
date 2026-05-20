@@ -24,7 +24,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mshumer](https://github.com/mshumer)
 - 🚀 👤 [mshumer](https://github.com/mshumer) Made [mshumer/visual-accuracy-review-site](https://github.com/mshumer/visual-accuracy-review-site) public
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 
 ---
-*Last updated at 2026-05-20 03:19:35 UTC*
+*Last updated at 2026-05-20 05:31:22 UTC*
 *Historical records are stored in the `archive` directory.*
