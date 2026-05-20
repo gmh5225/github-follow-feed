@@ -28,8 +28,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-antigravity/antigravity-cli](https://github.com/google-antigravity/antigravity-cli)
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz)
+  > OpenToonz - An open-source full-featured 2D animation creation software
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [shakevsky/keybuster](https://github.com/shakevsky/keybuster)
+
+### [henne90gen](https://github.com/henne90gen)
+- 🍴 👤 [henne90gen](https://github.com/henne90gen) Forked [kiliankoe/vvo](https://github.com/kiliankoe/vvo) to [henne90gen/vvo](https://github.com/henne90gen/vvo)
+  > 🚏🚍 A collection of links and tools regarding the VVO/DVB network
+- 🌟 👤 [henne90gen](https://github.com/henne90gen) Starred [kiliankoe/vvo](https://github.com/kiliankoe/vvo)
+  > 🚏🚍 A collection of links and tools regarding the VVO/DVB network
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [mr-karan/doggo](https://github.com/mr-karan/doggo)
+  > :dog: Command-line DNS Client for Humans. Written in Golang
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [ogham/dog](https://github.com/ogham/dog)
+  > A command-line DNS client.
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [biandratti/huginn-net](https://github.com/biandratti/huginn-net)
@@ -45,8 +61,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)
   > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [NoobieDog/TPM-Sniffing](https://github.com/NoobieDog/TPM-Sniffing)
+  > A repo for TPM sniffing greatness
+
 ### [mshumer](https://github.com/mshumer)
 - 🚀 👤 [mshumer](https://github.com/mshumer) Made [mshumer/visual-accuracy-review-site](https://github.com/mshumer/visual-accuracy-review-site) public
+
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [openresty/luajit2](https://github.com/openresty/luajit2)
+  > OpenResty's Branch of LuaJIT 2
+
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [aquaproj/aqua](https://github.com/aquaproj/aqua)
+  > Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
@@ -58,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-20 11:10:31 UTC*
+*Last updated at 2026-05-20 13:08:49 UTC*
 *Historical records are stored in the `archive` directory.*
