@@ -126,10 +126,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [openresty/luajit2](https://github.com/openresty/luajit2)
   > OpenResty's Branch of LuaJIT 2
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [BRO3886/rem](https://github.com/BRO3886/rem)
-  > A powerful ai-native CLI tool for macOS Reminders app
-
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
   > Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -140,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-20 19:51:36 UTC*
+*Last updated at 2026-05-20 20:51:15 UTC*
 *Historical records are stored in the `archive` directory.*
