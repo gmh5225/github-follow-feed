@@ -73,8 +73,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > OpenResty's Branch of LuaJIT 2
 
 ### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [aquaproj/aqua](https://github.com/aquaproj/aqua)
-  > Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update...
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [nk3750/clawlens](https://github.com/nk3750/clawlens)
+  > Agent observability and guardrails for OpenClaw — risk scoring, audit trails, dashboard.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
@@ -86,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-20 13:08:49 UTC*
+*Last updated at 2026-05-20 15:13:14 UTC*
 *Historical records are stored in the `archive` directory.*
