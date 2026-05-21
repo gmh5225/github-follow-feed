@@ -42,6 +42,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [brockelmore](https://github.com/brockelmore)
 - 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [concordance-co/xenon](https://github.com/concordance-co/xenon)
   > Mechanistic interpretability workflow platform for activation capture, analysis, interventions, and ...
+- 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [wangjiawen2013/charton](https://github.com/wangjiawen2013/charton)
+  > Grammar of Graphics in Rust
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
@@ -74,12 +76,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
   > Multiplayer, self-hosted, secure agents.
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur-acme-infra](https://github.com/paradigmxyz/centaur-acme-infra)
-  > Template GitOps infrastructure repo for deploying Centaur with an organization overlay.
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur-acme](https://github.com/paradigmxyz/centaur-acme)
   > Template organization overlay for extending Centaur with tools, workflows, skills, and sandbox guida...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Amanieu/corosensei](https://github.com/Amanieu/corosensei)
   > A fast and safe implementation of stackful coroutines in Rust
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur-acme-infra](https://github.com/paradigmxyz/centaur-acme-infra)
+  > Template GitOps infrastructure repo for deploying Centaur with an organization overlay.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
@@ -108,6 +110,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
   > 🛡️ Advanced PE obfuscation & protection detector. Scans binaries for Obfus.h signatures, anti-debug ...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [NoobieDog/TPM-Sniffing](https://github.com/NoobieDog/TPM-Sniffing) to [killvxk/TPM-Sniffing](https://github.com/killvxk/TPM-Sniffing)
+  > A repo for TPM sniffing greatness
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nettitude/CLR-Stomp](https://github.com/nettitude/CLR-Stomp)
+  > .NET CLR-Stomping
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [joshterrill/post-patch-postmortem](https://github.com/joshterrill/post-patch-postmortem)
+  > a CLI tool for analyzing Microsoft Patch Tuesday security updates. Fetches patch data from MSRC, dow...
 
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/emexDE](https://github.com/emexlab/emexDE)
@@ -176,5 +184,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-21 20:43:34 UTC*
+*Last updated at 2026-05-21 21:37:45 UTC*
 *Historical records are stored in the `archive` directory.*
