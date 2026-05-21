@@ -165,6 +165,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nettitude/CLR-Stomp](https://github.com/nettitude/CLR-Stomp)
   > .NET CLR-Stomping
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack)
+  > SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function inte...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [D7EAD/mkPIVM](https://github.com/D7EAD/mkPIVM)
+  > Generate polymorphic, position-independent virtual machines (PIVMs) from arbitrary x86/x64 shellcode...
 
 ### [oleavr](https://github.com/oleavr)
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
@@ -184,5 +190,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-21 22:35:52 UTC*
+*Last updated at 2026-05-21 23:29:24 UTC*
 *Historical records are stored in the `archive` directory.*
