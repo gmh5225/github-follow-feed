@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Coldzer0](https://github.com/Coldzer0)
+- 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
@@ -20,6 +24,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
+
+### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
+- 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [joshterrill/post-patch-postmortem](https://github.com/joshterrill/post-patch-postmortem)
+  > a CLI tool for analyzing Microsoft Patch Tuesday security updates. Fetches patch data from MSRC, dow...
+
+### [brockelmore](https://github.com/brockelmore)
+- 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [concordance-co/xenon](https://github.com/concordance-co/xenon)
+  > Mechanistic interpretability workflow platform for activation capture, analysis, interventions, and ...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Z-Proj/ZenOS](https://github.com/Z-Proj/ZenOS)
@@ -43,9 +55,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
+  > Multiplayer, self-hosted, secure agents.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur-acme-infra](https://github.com/paradigmxyz/centaur-acme-infra)
+  > Template GitOps infrastructure repo for deploying Centaur with an organization overlay.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur-acme](https://github.com/paradigmxyz/centaur-acme)
+  > Template organization overlay for extending Centaur with tools, workflows, skills, and sandbox guida...
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
   > pierre’s open source code
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nickg/nvc](https://github.com/nickg/nvc)
+  > VHDL compiler and simulator
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ab-rizk/xpcspy](https://github.com/ab-rizk/xpcspy)
@@ -62,10 +86,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [joshterrill/post-patch-postmortem](https://github.com/joshterrill/post-patch-postmortem)
   > a CLI tool for analyzing Microsoft Patch Tuesday security updates. Fetches patch data from MSRC, dow...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [416rehman/DeepZero](https://github.com/416rehman/DeepZero)
+  > Find zero-days while you sleep. DeepZero is an automated vulnerability research framework that parse...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [D7EAD/mkPIVM](https://github.com/D7EAD/mkPIVM)
+  > Generate polymorphic, position-independent virtual machines (PIVMs) from arbitrary x86/x64 shellcode...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
+  > Packer/Protector for x86-64 ELF binaries on Linux
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
@@ -87,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-21 13:22:43 UTC*
+*Last updated at 2026-05-21 15:15:32 UTC*
 *Historical records are stored in the `archive` directory.*
