@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
   > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
+  > Packer/Protector for x86-64 ELF binaries on Linux
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [5ec1cff/injectrc](https://github.com/5ec1cff/injectrc) to [CrackerCat/injectrc](https://github.com/CrackerCat/injectrc)
@@ -96,6 +98,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > VHDL compiler and simulator
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir) to [ioncodes/Ymir](https://github.com/ioncodes/Ymir)
   > Sega Saturn emulator
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ab-rizk/xpcspy](https://github.com/ab-rizk/xpcspy)
@@ -172,5 +176,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-21 19:38:48 UTC*
+*Last updated at 2026-05-21 20:43:34 UTC*
 *Historical records are stored in the `archive` directory.*
