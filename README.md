@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [concordance-co/xenon](https://github.com/concordance-co/xenon)
   > Mechanistic interpretability workflow platform for activation capture, analysis, interventions, and ...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
+  > Multiplayer, self-hosted, secure agents.
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Z-Proj/ZenOS](https://github.com/Z-Proj/ZenOS)
   > The ZenOS Operating System: x86_64 Hobby OS
@@ -80,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Simbastack-hq/framedex](https://github.com/Simbastack-hq/framedex)
+  > Framedex — a queryable knowledge base for your video archive
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nickg/nvc](https://github.com/nickg/nvc)
@@ -131,9 +139,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [n01e0](https://github.com/n01e0)
+- 🌟 👤 [n01e0](https://github.com/n01e0) Starred [qriousec/colony_agent](https://github.com/qriousec/colony_agent)
+
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nettitude/CLR-Stomp](https://github.com/nettitude/CLR-Stomp)
+  > .NET CLR-Stomping
 
 ### [oleavr](https://github.com/oleavr)
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
@@ -143,11 +158,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pnpm/pacquet](https://github.com/pnpm/pacquet)
   > The official pnpm rewrite in Rust
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [Helvesec/rmux](https://github.com/Helvesec/rmux)
-  > Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, m...
-
 
 ---
-*Last updated at 2026-05-21 17:03:22 UTC*
+*Last updated at 2026-05-21 18:47:46 UTC*
 *Historical records are stored in the `archive` directory.*
