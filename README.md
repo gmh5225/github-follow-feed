@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [5ec1cff/injectrc](https://github.com/5ec1cff/injectrc) to [CrackerCat/injectrc](https://github.com/CrackerCat/injectrc)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/android-protectors](https://github.com/aprz512/android-protectors) to [CrackerCat/android-protectors](https://github.com/CrackerCat/android-protectors)
@@ -17,11 +21,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Z-Proj/ZenOS](https://github.com/Z-Proj/ZenOS)
+  > The ZenOS Operating System: x86_64 Hobby OS
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [reubeno/brush](https://github.com/reubeno/brush)
   > 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+  > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [seifreed/skill-veil](https://github.com/seifreed/skill-veil)
@@ -35,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
   > pierre’s open source code
 
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ab-rizk/xpcspy](https://github.com/ab-rizk/xpcspy)
+  > Bidirectional XPC message interception and more. Powered by Frida
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
   > 🛡️ Advanced PE obfuscation & protection detector. Scans binaries for Obfus.h signatures, anti-debug ...
@@ -43,13 +59,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/emexDE](https://github.com/emexlab/emexDE)
   > IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel ...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [joshterrill/post-patch-postmortem](https://github.com/joshterrill/post-patch-postmortem)
+  > a CLI tool for analyzing Microsoft Patch Tuesday security updates. Fetches patch data from MSRC, dow...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [davidism/gha-update](https://github.com/davidism/gha-update) to [mrexodia/gha-update](https://github.com/mrexodia/gha-update)
-  > Update GitHub Actions version pins in GitHub workflow files.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
+  > Packer/Protector for x86-64 ELF binaries on Linux
 
 ### [mthcht](https://github.com/mthcht)
 - 🍴 👤 [mthcht](https://github.com/mthcht) Forked [nicolas-rdgs/Splunk-Power-Client](https://github.com/nicolas-rdgs/Splunk-Power-Client) to [mthcht/Splunk-Power-Client](https://github.com/mthcht/Splunk-Power-Client)
@@ -61,7 +81,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
   > Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [Helvesec/rmux](https://github.com/Helvesec/rmux)
+  > Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, m...
+
 
 ---
-*Last updated at 2026-05-21 11:13:26 UTC*
+*Last updated at 2026-05-21 13:22:43 UTC*
 *Historical records are stored in the `archive` directory.*
