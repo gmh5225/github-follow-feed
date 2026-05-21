@@ -21,6 +21,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/android-protectors](https://github.com/aprz512/android-protectors) to [CrackerCat/android-protectors](https://github.com/CrackerCat/android-protectors)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/Android-Crack](https://github.com/aprz512/Android-Crack) to [CrackerCat/Android-Crack](https://github.com/CrackerCat/Android-Crack)
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [vergamota/KslKatz](https://github.com/vergamota/KslKatz)
+  > Combining KslDump and GhostKatz to dump LSASS using no-fix KslD.sys memory read to bypass PPL. Extra...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [walkingddd/CPA-Helper](https://github.com/walkingddd/CPA-Helper) to [Mr-xn/CPA-Helper](https://github.com/Mr-xn/CPA-Helper)
+  > CPA-Helper 是面向 CLIProxyAPI 用户的本地自托管多用户管理面板，支持多用户独立 API Key、用量隔离统计、请求明细追踪、模型价格维护、可用模型查询、管理员账号管控与 Code...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
@@ -62,14 +70,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Template GitOps infrastructure repo for deploying Centaur with an organization overlay.
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur-acme](https://github.com/paradigmxyz/centaur-acme)
   > Template organization overlay for extending Centaur with tools, workflows, skills, and sandbox guida...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Amanieu/corosensei](https://github.com/Amanieu/corosensei)
+  > A fast and safe implementation of stackful coroutines in Rust
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
   > pierre’s open source code
 
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nickg/nvc](https://github.com/nickg/nvc)
   > VHDL compiler and simulator
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [StrikerX3/Ymir](https://github.com/StrikerX3/Ymir) to [ioncodes/Ymir](https://github.com/ioncodes/Ymir)
+  > Sega Saturn emulator
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ab-rizk/xpcspy](https://github.com/ab-rizk/xpcspy)
@@ -99,9 +115,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
   > Packer/Protector for x86-64 ELF binaries on Linux
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [kernelwernel/VMAware](https://github.com/kernelwernel/VMAware)
+  > Advanced VM detection library and tool
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GunshipPenguin/kiteshield](https://github.com/GunshipPenguin/kiteshield)
   > Packer/Protector for x86-64 ELF binaries on Linux
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+  > A vector index built on TurboQuant, written in Rust with Python bindings
 
 ### [mthcht](https://github.com/mthcht)
 - 🍴 👤 [mthcht](https://github.com/mthcht) Forked [nicolas-rdgs/Splunk-Power-Client](https://github.com/nicolas-rdgs/Splunk-Power-Client) to [mthcht/Splunk-Power-Client](https://github.com/mthcht/Splunk-Power-Client)
@@ -109,9 +131,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [anomalyco/opencode](https://github.com/anomalyco/opencode)
   > The open source coding agent.
 
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
+
 ### [oleavr](https://github.com/oleavr)
 - 🌟 👤 [oleavr](https://github.com/oleavr) Starred [Dadoum/Provision](https://github.com/Dadoum/Provision)
   > Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pnpm/pacquet](https://github.com/pnpm/pacquet)
+  > The official pnpm rewrite in Rust
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [Helvesec/rmux](https://github.com/Helvesec/rmux)
@@ -119,5 +149,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-21 15:15:32 UTC*
+*Last updated at 2026-05-21 17:03:22 UTC*
 *Historical records are stored in the `archive` directory.*
