@@ -9,6 +9,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/android-protectors](https://github.com/aprz512/android-protectors) to [CrackerCat/android-protectors](https://github.com/CrackerCat/android-protectors)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/Android-Crack](https://github.com/aprz512/Android-Crack) to [CrackerCat/Android-Crack](https://github.com/CrackerCat/Android-Crack)
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [seifreed/skill-veil](https://github.com/seifreed/skill-veil)
   > skill-veil is an open source static analysis and policy tool for the agent extension supply chain.
@@ -21,11 +25,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
   > 🛡️ Advanced PE obfuscation & protection detector. Scans binaries for Obfus.h signatures, anti-debug ...
 
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/emexDE](https://github.com/emexlab/emexDE)
+  > IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel ...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+
 ### [mthcht](https://github.com/mthcht)
 - 🍴 👤 [mthcht](https://github.com/mthcht) Forked [nicolas-rdgs/Splunk-Power-Client](https://github.com/nicolas-rdgs/Splunk-Power-Client) to [mthcht/Splunk-Power-Client](https://github.com/mthcht/Splunk-Power-Client)
   > ⚡ A modern, scriptable Python client to automate everyday Splunk tasks from the command line.
 
 
 ---
-*Last updated at 2026-05-21 07:32:31 UTC*
+*Last updated at 2026-05-21 09:20:14 UTC*
 *Historical records are stored in the `archive` directory.*
