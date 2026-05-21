@@ -66,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
   > A Rust decompiler built on top of angr
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
@@ -132,6 +134,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Packer/Protector for x86-64 ELF binaries on Linux
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
   > A vector index built on TurboQuant, written in Rust with Python bindings
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
 ### [mthcht](https://github.com/mthcht)
 - 🍴 👤 [mthcht](https://github.com/mthcht) Forked [nicolas-rdgs/Splunk-Power-Client](https://github.com/nicolas-rdgs/Splunk-Power-Client) to [mthcht/Splunk-Power-Client](https://github.com/mthcht/Splunk-Power-Client)
@@ -158,7 +162,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pnpm/pacquet](https://github.com/pnpm/pacquet)
   > The official pnpm rewrite in Rust
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
+  > LLVM based devirtualizer for the binaryshield software protector.
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
+  > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
+
 
 ---
-*Last updated at 2026-05-21 18:47:46 UTC*
+*Last updated at 2026-05-21 19:38:48 UTC*
 *Historical records are stored in the `archive` directory.*
