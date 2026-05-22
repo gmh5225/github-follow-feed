@@ -28,11 +28,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/ax](https://github.com/google/ax)
   > Google's open source distributed agent runtime
 
+### [crtdll](https://github.com/crtdll)
+- 🍴 👤 [crtdll](https://github.com/crtdll) Forked [edde746/bugs](https://github.com/edde746/bugs) to [crtdll/bugs](https://github.com/crtdll/bugs)
+  > Lightweight, self-hosted error tracking compatible with Sentry SDKs
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
   > LLVM based devirtualizer for the binaryshield software protector.
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
   > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
+
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/resources](https://github.com/emexlab/resources)
+  > Here are all design files and similar of emexlab
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/Runestone](https://github.com/emexlab/Runestone)
+  > 📝 Performant plain text editor for iOS with syntax highlighting, line numbers, invisible characters ...
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/tree-sitter-swift](https://github.com/emexlab/tree-sitter-swift)
+  > A tree-sitter grammar for the Swift programming language.
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/emexDE](https://github.com/emexlab/emexDE)
+  > IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel ...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
@@ -48,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lifting-bits/remill](https://github.com/lifting-bits/remill) to [mrexodia/remill](https://github.com/mrexodia/remill)
   > Library for lifting machine code to LLVM bitcode
 
+### [noahware](https://github.com/noahware)
+- 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/rendezvous](https://github.com/noahware/rendezvous)
+  > modern c++ 2D rendering framework with abstracted STL & CRT
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
   > LLVM based devirtualizer for the binaryshield software protector.
@@ -55,12 +73,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [dadevel/xwin-starterpack](https://github.com/dadevel/xwin-starterpack)
   > Windows C/C++ development environment on Linux
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [freedom7341/ApiHook](https://github.com/freedom7341/ApiHook)
+  > Small testing program for an implementation of RegisterUserApiHook.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [eladshamir/Internal-Monologue](https://github.com/eladshamir/Internal-Monologue)
+  > Internal Monologue Attack: Retrieving NTLM Hashes without Touching LSASS
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [oleavr/vphone-cli](https://github.com/oleavr/vphone-cli)
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [banteg/evm-compiler-bench](https://github.com/banteg/evm-compiler-bench)
+
+### [praeclarum](https://github.com/praeclarum)
+- 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)
+  > Wan: Open and Advanced Large-Scale Video Generative Models
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rootsecdev/relay_bible](https://github.com/rootsecdev/relay_bible)
@@ -82,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-22 19:38:24 UTC*
+*Last updated at 2026-05-22 20:39:31 UTC*
 *Historical records are stored in the `archive` directory.*
