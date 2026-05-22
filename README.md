@@ -58,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
   > Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Ba...
 
+### [mkeeter](https://github.com/mkeeter)
+- 🍴 👤 [mkeeter](https://github.com/mkeeter) Forked [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) to [mkeeter/rust-analyzer](https://github.com/mkeeter/rust-analyzer)
+  > A Rust compiler front-end for IDEs
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lifting-bits/remill](https://github.com/lifting-bits/remill) to [mrexodia/remill](https://github.com/mrexodia/remill)
   > Library for lifting machine code to LLVM bitcode
@@ -108,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-22 20:39:31 UTC*
+*Last updated at 2026-05-22 21:32:00 UTC*
 *Historical records are stored in the `archive` directory.*
