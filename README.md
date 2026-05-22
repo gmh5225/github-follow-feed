@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Bishop-333/OmegA-mod](https://github.com/Bishop-333/OmegA-mod)
-  > OmegA mod for OpenArena
-
 ### [Coldzer0](https://github.com/Coldzer0)
 - 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [HemulGM/DelphiNodeEditor](https://github.com/HemulGM/DelphiNodeEditor)
   > A full-featured, cross-platform node-based visual editor component for Delphi.
@@ -45,14 +41,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
   > LLVM based devirtualizer for the binaryshield software protector.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
+  > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [dadevel/xwin-starterpack](https://github.com/dadevel/xwin-starterpack)
+  > Windows C/C++ development environment on Linux
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [oleavr/vphone-cli](https://github.com/oleavr/vphone-cli)
-
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [shuaiyuanxx/wslc-sdk-demo](https://github.com/shuaiyuanxx/wslc-sdk-demo)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [nkzw-tech/fate](https://github.com/nkzw-tech/fate)
-  > fate is a modern data client for React.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rootsecdev/relay_bible](https://github.com/rootsecdev/relay_bible)
@@ -70,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-22 16:53:35 UTC*
+*Last updated at 2026-05-22 17:40:37 UTC*
 *Historical records are stored in the `archive` directory.*
