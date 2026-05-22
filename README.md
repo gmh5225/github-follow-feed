@@ -99,6 +99,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [praeclarum](https://github.com/praeclarum)
 - 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)
   > Wan: Open and Advanced Large-Scale Video Generative Models
+- 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [hexgrad/kokoro](https://github.com/hexgrad/kokoro)
+  > https://hf.co/hexgrad/Kokoro-82M
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rootsecdev/relay_bible](https://github.com/rootsecdev/relay_bible)
@@ -120,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-22 22:29:07 UTC*
+*Last updated at 2026-05-22 23:31:30 UTC*
 *Historical records are stored in the `archive` directory.*
