@@ -18,9 +18,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)
   > AI-powered, vision-driven UI automation for every platform.
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [luxonis/depthai](https://github.com/luxonis/depthai)
+  > DepthAI
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
   > LLVM based devirtualizer for the binaryshield software protector.
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
+  > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
@@ -40,8 +46,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
   > LLVM based devirtualizer for the binaryshield software protector.
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [oleavr/vphone-cli](https://github.com/oleavr/vphone-cli)
+
 ### [steipete](https://github.com/steipete)
 - 🌟 👤 [steipete](https://github.com/steipete) Starred [shuaiyuanxx/wslc-sdk-demo](https://github.com/shuaiyuanxx/wslc-sdk-demo)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [nkzw-tech/fate](https://github.com/nkzw-tech/fate)
+  > fate is a modern data client for React.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rootsecdev/relay_bible](https://github.com/rootsecdev/relay_bible)
@@ -59,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-22 15:11:18 UTC*
+*Last updated at 2026-05-22 16:53:35 UTC*
 *Historical records are stored in the `archive` directory.*
