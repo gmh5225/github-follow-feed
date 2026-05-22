@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/MicroSMT](https://github.com/eversinc33/MicroSMT)
   > IDA plugin for automatic deobfuscation of opaque predicates by lifting microcode to z3 for SMT reaso...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood)
+  > ❤️🪵 Radicle Heartwood Protocol & Stack (mirror)
+
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/resources](https://github.com/emexlab/resources)
   > Here are all design files and similar of emexlab
@@ -61,6 +65,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mkeeter](https://github.com/mkeeter)
 - 🍴 👤 [mkeeter](https://github.com/mkeeter) Forked [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) to [mkeeter/rust-analyzer](https://github.com/mkeeter/rust-analyzer)
   > A Rust compiler front-end for IDEs
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [valkey-io/valkey](https://github.com/valkey-io/valkey)
+  > A flexible distributed key-value database that is optimized for caching and other realtime workloads...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lifting-bits/remill](https://github.com/lifting-bits/remill) to [mrexodia/remill](https://github.com/mrexodia/remill)
@@ -112,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-22 21:32:00 UTC*
+*Last updated at 2026-05-22 22:29:07 UTC*
 *Historical records are stored in the `archive` directory.*
