@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [HemulGM/DelphiNodeEditor](https://github.com/HemulGM/DelphiNodeEditor)
   > A full-featured, cross-platform node-based visual editor component for Delphi.
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [ekipan/nictoforth](https://github.com/ekipan/nictoforth)
+  > An experiment: how much Forth can be crammed into 510 bytes?
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
@@ -17,6 +21,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [luxonis/depthai](https://github.com/luxonis/depthai)
   > DepthAI
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [antoinezambelli/forge](https://github.com/antoinezambelli/forge)
+  > A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/ax](https://github.com/google/ax)
+  > Google's open source distributed agent runtime
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
@@ -49,9 +59,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [oleavr/vphone-cli](https://github.com/oleavr/vphone-cli)
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [banteg/evm-compiler-bench](https://github.com/banteg/evm-compiler-bench)
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rootsecdev/relay_bible](https://github.com/rootsecdev/relay_bible)
   > Technical Reference to multiple relay techniques
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [xliee/ida_mask_plugin](https://github.com/xliee/ida_mask_plugin)
+  > An IDA Pro plugin for binary pattern analysis and generation, featuring ARM64 assembly-to-pattern co...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
@@ -65,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-22 17:40:37 UTC*
+*Last updated at 2026-05-22 18:46:41 UTC*
 *Historical records are stored in the `archive` directory.*
