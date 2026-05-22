@@ -15,6 +15,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
   > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rootsecdev/relay_bible](https://github.com/rootsecdev/relay_bible)
+  > Technical Reference to multiple relay techniques
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [dadevel/xwin-starterpack](https://github.com/dadevel/xwin-starterpack)
+  > Windows C/C++ development environment on Linux
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [incursi0n/GodPotatoBOF](https://github.com/incursi0n/GodPotatoBOF)
+  > Cobalt Strike BOF used to perform privilege escalation by exploiting the SeImpersonate privilege. Ba...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rootsecdev/relay_bible](https://github.com/rootsecdev/relay_bible)
@@ -26,5 +32,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-22 09:17:54 UTC*
+*Last updated at 2026-05-22 11:10:16 UTC*
 *Historical records are stored in the `archive` directory.*
