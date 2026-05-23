@@ -20,9 +20,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [redteamfortress/PhantomKiller](https://github.com/redteamfortress/PhantomKiller) to [classic130/PhantomKiller](https://github.com/classic130/PhantomKiller)
   > Another BYOVD process killer. works on all EDR's. fully signed.
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [jlebar/vir](https://github.com/jlebar/vir)
+  > A formally-verified compiler IR
+
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
   > 🛡️ Advanced PE obfuscation & protection detector. Scans binaries for Obfus.h signatures, anti-debug ...
+
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [ZivvoZ/dashx360](https://github.com/ZivvoZ/dashx360)
+  > The first ever recreation of the Xbox 360 Metro Dashboard for Windows (Tested on Windows 11)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
@@ -68,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 12:32:21 UTC*
+*Last updated at 2026-05-23 13:37:25 UTC*
 *Historical records are stored in the `archive` directory.*
