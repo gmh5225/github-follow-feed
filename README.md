@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
   > Learn it. Build it. Ship it for others.
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Brandon7CC/mac-monitor](https://github.com/Brandon7CC/mac-monitor)
+  > "The missing ProcMon for macOS": Mac Monitor records Endpoint Security events and displays them for ...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kindness-Kismet/srx_inline_hook](https://github.com/Kindness-Kismet/srx_inline_hook) to [CrackerCat/srx_inline_hook](https://github.com/CrackerCat/srx_inline_hook)
   > Rust inline hook
@@ -23,6 +27,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [jlebar/vir](https://github.com/jlebar/vir)
   > A formally-verified compiler IR
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
+  > magic-trace collects and displays high-resolution traces of what a process is doing
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [lunatic-solutions/async-wormhole](https://github.com/lunatic-solutions/async-wormhole)
 
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
@@ -76,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 13:37:25 UTC*
+*Last updated at 2026-05-23 15:30:54 UTC*
 *Historical records are stored in the `archive` directory.*
