@@ -34,6 +34,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [qriousec/colony_agent](https://github.com/qriousec/colony_agent)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [venglin/setcred](https://github.com/venglin/setcred)
   > CVE-2026-45250 - FreeBSD 14.x LPE
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [N1et/CVE-2026-46529](https://github.com/N1et/CVE-2026-46529) to [killvxk/CVE-2026-46529](https://github.com/killvxk/CVE-2026-46529)
+  > Evince/xreader/Atril RCE exploit to CVE-2026-46529  
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jianshuo/ccglass](https://github.com/jianshuo/ccglass)
+  > See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboa...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zeroxjf/AGXBarrierPanic](https://github.com/zeroxjf/AGXBarrierPanic)
+  > AGXCommandBuffer::generateMTLBarriers reachable kernel assertion via out-of-range barrier mask — iOS...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [domcyrus/rustnet](https://github.com/domcyrus/rustnet)
+  > Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandbo...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [redteamfortress/PhantomKiller](https://github.com/redteamfortress/PhantomKiller)
+  > Another BYOVD process killer. works on all EDR's. fully signed.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cipherspy/CVE-2026-42945-POC](https://github.com/cipherspy/CVE-2026-42945-POC)
+  > exploit for CVE-2026-42945
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [marcoantoniocorallo/VSA](https://github.com/marcoantoniocorallo/VSA)
@@ -54,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 10:36:52 UTC*
+*Last updated at 2026-05-23 11:31:30 UTC*
 *Historical records are stored in the `archive` directory.*
