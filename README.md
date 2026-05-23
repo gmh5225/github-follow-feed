@@ -38,6 +38,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [lunatic-solutions/async-wormhole](https://github.com/lunatic-solutions/async-wormhole)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
+  > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
 
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [hACKCASCAC/ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)
@@ -95,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 18:29:53 UTC*
+*Last updated at 2026-05-23 19:33:29 UTC*
 *Historical records are stored in the `archive` directory.*
