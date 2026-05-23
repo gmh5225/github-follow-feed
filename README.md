@@ -100,6 +100,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An LLM-powered agent for Datasette
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [datasette/datasette-agent-charts](https://github.com/datasette/datasette-agent-charts)
   > Observable Plot charts for Datasette Agent
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [genotrance/quickjs-ng](https://github.com/genotrance/quickjs-ng)
+  > Thin Python wrapper of quickjs-ng
 
 ### [zouxianyu](https://github.com/zouxianyu)
 - 🌟 👤 [zouxianyu](https://github.com/zouxianyu) Starred [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
@@ -107,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 21:24:08 UTC*
+*Last updated at 2026-05-23 22:23:29 UTC*
 *Historical records are stored in the `archive` directory.*
