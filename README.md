@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sefcom/oxidizer](https://github.com/sefcom/oxidizer) to [CrackerCat/oxidizer](https://github.com/CrackerCat/oxidizer)
   > A Rust decompiler built on top of angr
 
+### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
+- 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [devploit/nomore403](https://github.com/devploit/nomore403)
+  > 🚫 Advanced tool for security researchers to bypass 403/40X restrictions through smart techniques and...
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [redteamfortress/PhantomKiller](https://github.com/redteamfortress/PhantomKiller) to [classic130/PhantomKiller](https://github.com/classic130/PhantomKiller)
   > Another BYOVD process killer. works on all EDR's. fully signed.
@@ -87,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 15:30:54 UTC*
+*Last updated at 2026-05-23 16:27:45 UTC*
 *Historical records are stored in the `archive` directory.*
