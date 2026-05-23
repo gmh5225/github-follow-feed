@@ -35,6 +35,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [janestreet/magic-trace](https://github.com/janestreet/magic-trace)
   > magic-trace collects and displays high-resolution traces of what a process is doing
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [PerryTS/perry](https://github.com/PerryTS/perry)
+  > A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC ...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [lunatic-solutions/async-wormhole](https://github.com/lunatic-solutions/async-wormhole)
@@ -97,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 19:33:29 UTC*
+*Last updated at 2026-05-23 20:23:42 UTC*
 *Historical records are stored in the `archive` directory.*
