@@ -31,6 +31,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ⚠️ WIP: LLVM-C Python bindings with nanobind.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [N1et/CVE-2026-46529](https://github.com/N1et/CVE-2026-46529)
   > Evince/xreader/Atril RCE exploit to CVE-2026-46529  
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [qriousec/colony_agent](https://github.com/qriousec/colony_agent)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [venglin/setcred](https://github.com/venglin/setcred)
+  > CVE-2026-45250 - FreeBSD 14.x LPE
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [marcoantoniocorallo/VSA](https://github.com/marcoantoniocorallo/VSA)
@@ -51,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 09:41:19 UTC*
+*Last updated at 2026-05-23 10:36:52 UTC*
 *Historical records are stored in the `archive` directory.*
