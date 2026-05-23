@@ -72,6 +72,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cipherspy/CVE-2026-42945-POC](https://github.com/cipherspy/CVE-2026-42945-POC)
   > exploit for CVE-2026-42945
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [WilsonHuha/cbr-doc](https://github.com/WilsonHuha/cbr-doc)
+  > 网安图书馆：文档。
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [marcoantoniocorallo/VSA](https://github.com/marcoantoniocorallo/VSA)
   > Thesis project on the development of a framework for Value-Set Analysis
@@ -91,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-23 16:27:45 UTC*
+*Last updated at 2026-05-23 18:29:53 UTC*
 *Historical records are stored in the `archive` directory.*
