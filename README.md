@@ -16,6 +16,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [trailofbits/RpcInvestigator](https://github.com/trailofbits/RpcInvestigator)
   > Exploring RPC interfaces on Windows
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms) to [CrackerCat/mkpms](https://github.com/CrackerCat/mkpms)
+  > android 无痕probe 无痕hook kpm demo
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kkkbbb/rustFrida](https://github.com/kkkbbb/rustFrida) to [CrackerCat/rustFrida](https://github.com/CrackerCat/rustFrida)
+  > xxxxx
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dbalsom/x86_microcode](https://github.com/dbalsom/x86_microcode) to [CrackerCat/x86_microcode](https://github.com/CrackerCat/x86_microcode)
+  > Microcode resources for various x86 CPUs
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Seyud/uperf-dev-22.09.04](https://github.com/Seyud/uperf-dev-22.09.04) to [CrackerCat/uperf-dev-22.09.04](https://github.com/CrackerCat/uperf-dev-22.09.04)
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
   > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
@@ -44,5 +53,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-24 10:39:27 UTC*
+*Last updated at 2026-05-24 11:34:06 UTC*
 *Historical records are stored in the `archive` directory.*
