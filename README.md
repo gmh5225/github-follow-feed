@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [trailofbits/RpcInvestigator](https://github.com/trailofbits/RpcInvestigator)
   > Exploring RPC interfaces on Windows
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kunkka19xx/look](https://github.com/kunkka19xx/look)
+  > An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Rayc...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms) to [CrackerCat/mkpms](https://github.com/CrackerCat/mkpms)
   > android 无痕probe 无痕hook kpm demo
@@ -35,6 +39,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
   > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
+
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [tiawl/cimgui.zig](https://github.com/tiawl/cimgui.zig)
+  > @dearimgui packaged for @ziglang
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [ironsh/iron-proxy](https://github.com/ironsh/iron-proxy)
+  > An egress firewall for untrusted workloads.
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [nginx/docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged)
@@ -94,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-24 16:28:23 UTC*
+*Last updated at 2026-05-24 17:26:58 UTC*
 *Historical records are stored in the `archive` directory.*
