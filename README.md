@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
   > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [nginx/docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged)
+  > Unprivileged NGINX Dockerfiles
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ClickHouse/silk](https://github.com/ClickHouse/silk)
   > Fast stackful fibers with a NUMA-aware work-stealing scheduler
@@ -43,10 +47,36 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [josephrw12/cortex-c2](https://github.com/josephrw12/cortex-c2)
   > Cortex C2 is a Open source Linux C2 inspired by the void link C2 framework
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [emexlab/emexDE](https://github.com/emexlab/emexDE)
+  > IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mooofin/hypv64](https://github.com/mooofin/hypv64)
+  > RISC-V 64 hypervisor written in Rust
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [denizsafak/abogen](https://github.com/denizsafak/abogen)
+  > Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [antiboredom/ffmpeg-explorer](https://github.com/antiboredom/ffmpeg-explorer)
+  > Create and render complex ffmpeg filtergraphs in the browser.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Juwan-Hwang/Zephyr](https://github.com/Juwan-Hwang/Zephyr)
+  > Zephyr: A modern, lightweight, and secure Mihomo / Clash Meta GUI client built with Tauri and Rust.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hughfenghen/dimcut](https://github.com/hughfenghen/dimcut)
+  > DimCut is a novel editing interaction design that folds the 1D timeline into multiple rows, integrat...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue)
+  > A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid p...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor)
+  > Edit HTML files visually.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tuchg/Lucarne](https://github.com/tuchg/Lucarne)
+  > Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi, or Claude c...
 
 ### [mattgodbolt](https://github.com/mattgodbolt)
 - 🍴 👤 [mattgodbolt](https://github.com/mattgodbolt) Forked [rhgndf/rx888_stream](https://github.com/rhgndf/rx888_stream) to [mattgodbolt/rx888_stream](https://github.com/mattgodbolt/rx888_stream)
   > command line utility to stream samples from RX888
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [richardstartin/slicez](https://github.com/richardstartin/slicez)
+  > Z-layout bit-sliced index for evaluating point and range queries over unsorted numerical data
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
@@ -57,8 +87,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support,...
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
   > 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [Letenz/windows-drv-harness](https://github.com/Letenz/windows-drv-harness)
+  > About AI-driven. The test-driven inner loop for Windows kernel drivers. Automates: snapshot revert →...
 
 
 ---
-*Last updated at 2026-05-24 13:37:25 UTC*
+*Last updated at 2026-05-24 14:38:19 UTC*
 *Historical records are stored in the `archive` directory.*
