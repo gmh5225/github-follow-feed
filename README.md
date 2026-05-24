@@ -71,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ClickHouse/silk](https://github.com/ClickHouse/silk)
   > Fast stackful fibers with a NUMA-aware work-stealing scheduler
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/agents](https://github.com/cloudflare/agents)
+  > Build and deploy AI Agents on Cloudflare 
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [josephrw12/cortex-c2](https://github.com/josephrw12/cortex-c2)
@@ -100,6 +102,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mattgodbolt](https://github.com/mattgodbolt) Forked [rhgndf/rx888_stream](https://github.com/rhgndf/rx888_stream) to [mattgodbolt/rx888_stream](https://github.com/mattgodbolt/rx888_stream)
   > command line utility to stream samples from RX888
 
+### [memN0ps](https://github.com/memN0ps)
+- 🌟 👤 [memN0ps](https://github.com/memN0ps) Starred [Valthrun/Valthrun_PUBG](https://github.com/Valthrun/Valthrun_PUBG)
+  > Valthrun_PUBG an open source external read only kernel gameplay enhancer. 
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
   > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
@@ -111,6 +117,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [richardstartin/slicez](https://github.com/richardstartin/slicez)
   > Z-layout bit-sliced index for evaluating point and range queries over unsorted numerical data
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [chriscarrollsmith/taskqueue-mcp](https://github.com/chriscarrollsmith/taskqueue-mcp)
+  > MCP tool for exposing a structured task queue to guide AI agent workflows. Great for taming an over-...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
@@ -130,5 +140,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-24 21:25:05 UTC*
+*Last updated at 2026-05-24 22:26:08 UTC*
 *Historical records are stored in the `archive` directory.*
