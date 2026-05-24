@@ -65,6 +65,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Edit HTML files visually.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tuchg/Lucarne](https://github.com/tuchg/Lucarne)
   > Stop babysitting local AI agents. Just notifications, approve, and resume your Codex,Pi, or Claude c...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Hekbas/Luth](https://github.com/Hekbas/Luth)
+  > Data-oriented C++20 game engine with a fiber-based job system and bindless Vulkan 1.3 renderer.
 
 ### [mattgodbolt](https://github.com/mattgodbolt)
 - 🍴 👤 [mattgodbolt](https://github.com/mattgodbolt) Forked [rhgndf/rx888_stream](https://github.com/rhgndf/rx888_stream) to [mattgodbolt/rx888_stream](https://github.com/mattgodbolt/rx888_stream)
@@ -92,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-24 14:38:19 UTC*
+*Last updated at 2026-05-24 15:31:01 UTC*
 *Historical records are stored in the `archive` directory.*
