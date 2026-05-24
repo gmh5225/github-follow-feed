@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
   > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ClickHouse/silk](https://github.com/ClickHouse/silk)
+  > Fast stackful fibers with a NUMA-aware work-stealing scheduler
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [josephrw12/cortex-c2](https://github.com/josephrw12/cortex-c2)
   > Cortex C2 is a Open source Linux C2 inspired by the void link C2 framework
@@ -35,8 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A framework for stealthy Chromium automation with CDP Mode. Includes CAPTCHA-bypass, E2E Testing, an...
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
   > Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support,...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)
+  > 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 
 
 ---
-*Last updated at 2026-05-24 09:00:54 UTC*
+*Last updated at 2026-05-24 10:39:27 UTC*
 *Historical records are stored in the `archive` directory.*
