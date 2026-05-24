@@ -4,6 +4,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) to [0xAX/scikit-learn](https://github.com/0xAX/scikit-learn)
+  > scikit-learn: machine learning in Python
+
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [silverf0x/RpcView](https://github.com/silverf0x/RpcView)
+  > RpcView is a free tool to explore and decompile Microsoft RPC interfaces
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [cyberark/RPCMon](https://github.com/cyberark/RPCMon)
+  > RPC Monitor tool based on Event Tracing for Windows
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [trailofbits/RpcInvestigator](https://github.com/trailofbits/RpcInvestigator)
+  > Exploring RPC interfaces on Windows
+
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
+  > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [josephrw12/cortex-c2](https://github.com/josephrw12/cortex-c2)
+  > Cortex C2 is a Open source Linux C2 inspired by the void link C2 framework
+
 ### [mattgodbolt](https://github.com/mattgodbolt)
 - 🍴 👤 [mattgodbolt](https://github.com/mattgodbolt) Forked [rhgndf/rx888_stream](https://github.com/rhgndf/rx888_stream) to [mattgodbolt/rx888_stream](https://github.com/mattgodbolt/rx888_stream)
   > command line utility to stream samples from RX888
@@ -18,5 +38,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-24 07:18:24 UTC*
+*Last updated at 2026-05-24 09:00:54 UTC*
 *Historical records are stored in the `archive` directory.*
