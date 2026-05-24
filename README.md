@@ -40,6 +40,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [microsoft/diskspd](https://github.com/microsoft/diskspd)
   > DISKSPD is a storage load generator / performance test tool from the Windows/Windows Server and Clou...
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [deltazefiro/Amarok-Hider](https://github.com/deltazefiro/Amarok-Hider)
+  > Hide your private files and apps with a single click.
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+  > OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set p...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)
+  > Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only cr...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+  > A Claude Code skill bundle for bug hunting and external red-team work - 51 skills, 15 slash commands...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [elementalsouls/SubdomainX](https://github.com/elementalsouls/SubdomainX)
+  > Comprehensive subdomain enumeration tool - 16+ passive OSINT sources, DNS brute force, permutation s...
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [tiawl/cimgui.zig](https://github.com/tiawl/cimgui.zig)
   > @dearimgui packaged for @ziglang
@@ -51,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [nginx/docker-nginx-unprivileged](https://github.com/nginx/docker-nginx-unprivileged)
   > Unprivileged NGINX Dockerfiles
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ClickHouse/silk](https://github.com/ClickHouse/silk)
@@ -88,6 +104,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
   > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robert-yates/gdbserver9x](https://github.com/robert-yates/gdbserver9x)
+  > A primitive GDB server for debugging 32bit exes on retro windows OS'
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [richardstartin/slicez](https://github.com/richardstartin/slicez)
   > Z-layout bit-sliced index for evaluating point and range queries over unsorted numerical data
@@ -110,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-24 20:27:45 UTC*
+*Last updated at 2026-05-24 21:25:05 UTC*
 *Historical records are stored in the `archive` directory.*
