@@ -104,7 +104,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [Letenz/windows-drv-harness](https://github.com/Letenz/windows-drv-harness)
   > About AI-driven. The test-driven inner loop for Windows kernel drivers. Automates: snapshot revert →...
 
+### [zer0condition](https://github.com/zer0condition)
+- 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [mrexodia/microvm](https://github.com/mrexodia/microvm)
+  > MicroVM is a self-guided path for learning how computers work by building a tiny virtual machine.
+
 
 ---
-*Last updated at 2026-05-24 17:26:58 UTC*
+*Last updated at 2026-05-24 18:31:46 UTC*
 *Historical records are stored in the `archive` directory.*
