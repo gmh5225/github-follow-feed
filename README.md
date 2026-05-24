@@ -19,6 +19,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kunkka19xx/look](https://github.com/kunkka19xx/look)
   > An open-source, cross OS, community-driven launcher. A lightweight alternative to Spotlight and Rayc...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna)
+  > The leaked exploit toolkit for various iOS versions
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms) to [CrackerCat/mkpms](https://github.com/CrackerCat/mkpms)
@@ -51,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Claude Code skill bundle for bug hunting and external red-team work - 51 skills, 15 slash commands...
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [elementalsouls/SubdomainX](https://github.com/elementalsouls/SubdomainX)
   > Comprehensive subdomain enumeration tool - 16+ passive OSINT sources, DNS brute force, permutation s...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [KoStard/ForgeCAD](https://github.com/KoStard/ForgeCAD)
+  > Multi-backend code-first parametric CAD in JavaScript/TypeScript with live params, constraints, asse...
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [tiawl/cimgui.zig](https://github.com/tiawl/cimgui.zig)
@@ -140,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-24 22:26:08 UTC*
+*Last updated at 2026-05-24 23:28:19 UTC*
 *Historical records are stored in the `archive` directory.*
