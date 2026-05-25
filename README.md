@@ -21,6 +21,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Billy-Ellis/exr-imageio-poc](https://github.com/Billy-Ellis/exr-imageio-poc)
   > PoC for an integer overflow vulnerability in ImageIO patched in iOS/macOS 26.5
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [20urc3/Astra](https://github.com/20urc3/Astra)
+  > Coverage-guided fuzzer in Rust
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [std-microblock/fripack](https://github.com/std-microblock/fripack) to [CrackerCat/fripack](https://github.com/CrackerCat/fripack)
@@ -110,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 18:43:41 UTC*
+*Last updated at 2026-05-25 19:37:01 UTC*
 *Historical records are stored in the `archive` directory.*
