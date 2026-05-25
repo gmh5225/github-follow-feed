@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [klaudiagrz/recycling-app](https://github.com/klaudiagrz/recycling-app)
   > A Polish recycling assistant powered by Gemma 4
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie)
+  > ⚠️ Browser fingerprinting via favicon!
+
 ### [Cloud-Architekt](https://github.com/Cloud-Architekt)
 - 🌟 👤 [Cloud-Architekt](https://github.com/Cloud-Architekt) Starred [Cloud-Architekt/maester](https://github.com/Cloud-Architekt/maester)
   > Maester is a PowerShell based test automation framework to help you stay in control of your Microsof...
@@ -22,6 +26,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NatumRagnag/scene-netns-isolator](https://github.com/NatumRagnag/scene-netns-isolator) to [CrackerCat/scene-netns-isolator](https://github.com/CrackerCat/scene-netns-isolator)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dzxpert/PatchWork](https://github.com/dzxpert/PatchWork) to [CrackerCat/PatchWork](https://github.com/CrackerCat/PatchWork)
   > Injectable DLL with an in-process Lua engine & MCP server for runtime memory editing, hooking, and a...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [x86byte/sbox](https://github.com/x86byte/sbox) to [CrackerCat/sbox](https://github.com/CrackerCat/sbox)
+  > delimiter-less string obfuscation powered by compile-time AES
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Thehepta/HideApk](https://github.com/Thehepta/HideApk) to [CrackerCat/HideApk](https://github.com/CrackerCat/HideApk)
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [robert-yates/gdbserver9x](https://github.com/robert-yates/gdbserver9x)
@@ -47,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [e10b/light](https://github.com/e10b/light)
+
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [airbus-seclab/warbirdvm](https://github.com/airbus-seclab/warbirdvm)
+  > An analysis of the Warbird virtual-machine protection for the CI!g_pStore
 
 ### [liuchengxu](https://github.com/liuchengxu)
 - 🍴 👤 [liuchengxu](https://github.com/liuchengxu) Forked [a16z/helios](https://github.com/a16z/helios) to [liuchengxu/helios](https://github.com/liuchengxu/helios)
@@ -77,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 11:30:36 UTC*
+*Last updated at 2026-05-25 13:23:11 UTC*
 *Historical records are stored in the `archive` directory.*
