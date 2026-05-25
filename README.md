@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [0xAX](https://github.com/0xAX)
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
   > My learning notes for ML SYS.
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [klaudiagrz/recycling-app](https://github.com/klaudiagrz/recycling-app)
+  > A Polish recycling assistant powered by Gemma 4
 
 ### [Cloud-Architekt](https://github.com/Cloud-Architekt)
 - 🌟 👤 [Cloud-Architekt](https://github.com/Cloud-Architekt) Starred [Cloud-Architekt/maester](https://github.com/Cloud-Architekt/maester)
@@ -50,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [liuchengxu](https://github.com/liuchengxu) Forked [a16z/helios](https://github.com/a16z/helios) to [liuchengxu/helios](https://github.com/liuchengxu/helios)
   > A fast, secure, and portable multichain light client for Ethereum
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
+  > drop-in copy-on-write replacement for `git worktree add`
+
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [rwlang-org/rw](https://github.com/rwlang-org/rw)
   > A statically compiled language with an asynchronous-first approach, written in a Python-like style.
@@ -71,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 09:33:02 UTC*
+*Last updated at 2026-05-25 11:30:36 UTC*
 *Historical records are stored in the `archive` directory.*
