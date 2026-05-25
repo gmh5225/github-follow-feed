@@ -77,6 +77,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [liuchengxu](https://github.com/liuchengxu) Forked [a16z/helios](https://github.com/a16z/helios) to [liuchengxu/helios](https://github.com/liuchengxu/helios)
   > A fast, secure, and portable multichain light client for Ethereum
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [kframework/X86-64-semantics](https://github.com/kframework/X86-64-semantics)
+  > Semantics of x86-64 in K
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
   > drop-in copy-on-write replacement for `git worktree add`
@@ -102,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 16:50:46 UTC*
+*Last updated at 2026-05-25 17:38:11 UTC*
 *Historical records are stored in the `archive` directory.*
