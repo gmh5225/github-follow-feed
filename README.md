@@ -98,6 +98,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2)
   > RunPE implementation with multiple evasive techniques (2)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
+  > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [meisei4/fffftt](https://github.com/meisei4/fffftt)
@@ -112,5 +114,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 21:32:25 UTC*
+*Last updated at 2026-05-25 22:29:35 UTC*
 *Historical records are stored in the `archive` directory.*
