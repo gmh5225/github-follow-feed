@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
+  > My learning notes for ML SYS.
+
+### [Cloud-Architekt](https://github.com/Cloud-Architekt)
+- 🌟 👤 [Cloud-Architekt](https://github.com/Cloud-Architekt) Starred [Cloud-Architekt/maester](https://github.com/Cloud-Architekt/maester)
+  > Maester is a PowerShell based test automation framework to help you stay in control of your Microsof...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [std-microblock/fripack](https://github.com/std-microblock/fripack) to [CrackerCat/fripack](https://github.com/CrackerCat/fripack)
   > Package your Frida script into an executable.
@@ -63,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 07:51:11 UTC*
+*Last updated at 2026-05-25 09:33:02 UTC*
 *Historical records are stored in the `archive` directory.*
