@@ -60,6 +60,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
   > Automatically provision and manage TLS certificates in Kubernetes
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
+  > Powerful android apk editor - aapt/aapt2 independent
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader)
+  > Download APK files directly from Google Play Store.
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [e10b/light](https://github.com/e10b/light)
 
@@ -96,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 15:11:44 UTC*
+*Last updated at 2026-05-25 16:50:46 UTC*
 *Historical records are stored in the `archive` directory.*
