@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [robert-yates/gdbserver9x](https://github.com/robert-yates/gdbserver9x)
   > A primitive GDB server for debugging 32bit exes on retro windows OS'
 
+### [JustasMasiulis](https://github.com/JustasMasiulis)
+- 🍴 👤 [JustasMasiulis](https://github.com/JustasMasiulis) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [JustasMasiulis/ida-pro-mcp](https://github.com/JustasMasiulis/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [drlukeparry/pyslm](https://github.com/drlukeparry/pyslm)
   > PySLM: A Python Library for 3D Printing and Additive Manufacturing
@@ -106,5 +110,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 17:38:11 UTC*
+*Last updated at 2026-05-25 18:43:41 UTC*
 *Historical records are stored in the `archive` directory.*
