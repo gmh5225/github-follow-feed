@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dzxpert/PatchWork](https://github.com/dzxpert/PatchWork) to [CrackerCat/PatchWork](https://github.com/CrackerCat/PatchWork)
   > Injectable DLL with an in-process Lua engine & MCP server for runtime memory editing, hooking, and a...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [robert-yates/gdbserver9x](https://github.com/robert-yates/gdbserver9x)
+  > A primitive GDB server for debugging 32bit exes on retro windows OS'
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [drlukeparry/pyslm](https://github.com/drlukeparry/pyslm)
   > PySLM: A Python Library for 3D Printing and Additive Manufacturing
@@ -28,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Geometry library for topological robustness
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [isl-org/Open3D](https://github.com/isl-org/Open3D)
   > Open3D: A Modern Library for 3D Data Processing
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Toblerity/rtree](https://github.com/Toblerity/rtree)
+  > Rtree: spatial index for Python GIS
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [e10b/light](https://github.com/e10b/light)
@@ -36,13 +42,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [liuchengxu](https://github.com/liuchengxu) Forked [a16z/helios](https://github.com/a16z/helios) to [liuchengxu/helios](https://github.com/liuchengxu/helios)
   > A fast, secure, and portable multichain light client for Ethereum
 
+### [n01e0](https://github.com/n01e0)
+- 🌟 👤 [n01e0](https://github.com/n01e0) Starred [rwlang-org/rw](https://github.com/rwlang-org/rw)
+  > A statically compiled language with an asynchronous-first approach, written in a Python-like style.
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2)
   > RunPE implementation with multiple evasive techniques (2)
 
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [silvia-odwyer/photon](https://github.com/silvia-odwyer/photon)
-  > ⚡ Rust/WebAssembly image processing library
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [meisei4/fffftt](https://github.com/meisei4/fffftt)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [tiagozip/cap](https://github.com/tiagozip/cap)
@@ -54,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 05:42:19 UTC*
+*Last updated at 2026-05-25 07:51:11 UTC*
 *Historical records are stored in the `archive` directory.*
