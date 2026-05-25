@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cloud-Architekt](https://github.com/Cloud-Architekt) Starred [Cloud-Architekt/maester](https://github.com/Cloud-Architekt/maester)
   > Maester is a PowerShell based test automation framework to help you stay in control of your Microsof...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Billy-Ellis/exr-imageio-poc](https://github.com/Billy-Ellis/exr-imageio-poc)
+  > PoC for an integer overflow vulnerability in ImageIO patched in iOS/macOS 26.5
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [std-microblock/fripack](https://github.com/std-microblock/fripack) to [CrackerCat/fripack](https://github.com/CrackerCat/fripack)
   > Package your Frida script into an executable.
@@ -51,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open3D: A Modern Library for 3D Data Processing
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Toblerity/rtree](https://github.com/Toblerity/rtree)
   > Rtree: spatial index for Python GIS
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
+  > Automatically provision and manage TLS certificates in Kubernetes
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [e10b/light](https://github.com/e10b/light)
@@ -88,5 +96,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-25 13:23:11 UTC*
+*Last updated at 2026-05-25 15:11:44 UTC*
 *Historical records are stored in the `archive` directory.*
