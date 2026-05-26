@@ -35,8 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [xiaoweiChen](https://github.com/xiaoweiChen)
 - 🍴 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [xiaoweiChen/github-readme-stats](https://github.com/xiaoweiChen/github-readme-stats)
   > :zap: Dynamically generated stats for your github readmes
+- 🌟 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Starred [fim-sh/github-readme-stats-docker](https://github.com/fim-sh/github-readme-stats-docker)
+  > This project provides Docker images of the github-readme-stats project for self-hosting purposes.
 
 
 ---
-*Last updated at 2026-05-26 01:07:56 UTC*
+*Last updated at 2026-05-26 03:20:12 UTC*
 *Historical records are stored in the `archive` directory.*
