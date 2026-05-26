@@ -127,6 +127,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [vigolium/vigolium](https://github.com/vigolium/vigolium)
   > Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and ...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red)
+  > claude-red is a curated library of offensive security skills designed for the Claude skills system. ...
 
 ### [xiaoweiChen](https://github.com/xiaoweiChen)
 - 🍴 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [xiaoweiChen/github-readme-stats](https://github.com/xiaoweiChen/github-readme-stats)
@@ -136,5 +138,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 20:47:22 UTC*
+*Last updated at 2026-05-26 21:37:20 UTC*
 *Historical records are stored in the `archive` directory.*
