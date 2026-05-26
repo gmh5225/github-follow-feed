@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mooofin/hypv64](https://github.com/mooofin/hypv64)
+  > RISC-V 64 hypervisor written in Rust
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [x86byte/sbox](https://github.com/x86byte/sbox)
+  > Compile-time AES string obfuscation for C++
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yfe404/frida-mcp](https://github.com/yfe404/frida-mcp) to [CrackerCat/yfe404-frida-mcp](https://github.com/CrackerCat/yfe404-frida-mcp)
   > MCP server for Frida 17 dynamic instrumentation
@@ -17,9 +23,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoxuya520/reverse-skill-private](https://github.com/zhaoxuya520/reverse-skill-private) to [CrackerCat/reverse-skill-private](https://github.com/CrackerCat/reverse-skill-private)
   > 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
+### [chfast](https://github.com/chfast)
+- 🌟 👤 [chfast](https://github.com/chfast) Starred [nathan-baggs/clap](https://github.com/nathan-baggs/clap)
+  > 👏 Command Line Argument Parser
+
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
+  > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
@@ -50,9 +64,29 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
   > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
+  > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [machinemadefibre-bot/Chinese-Input-Agent](https://github.com/machinemadefibre-bot/Chinese-Input-Agent)
   > A local Windows tool that turns encrypted messages into ordinary-looking Chinese articles for use ov...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage)
+  > Upload code coverage report from your GitHub Actions workflow
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+  > Lean Ethereum protocol specifications and test vector generation framework.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Uniswap/token-lists](https://github.com/Uniswap/token-lists)
+  > 📚 The Token Lists specification
+
+### [steipete](https://github.com/steipete)
+- 🌟 👤 [steipete](https://github.com/steipete) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
+  > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
+  > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 
 ### [xiaoweiChen](https://github.com/xiaoweiChen)
 - 🍴 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [xiaoweiChen/github-readme-stats](https://github.com/xiaoweiChen/github-readme-stats)
@@ -62,5 +96,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 09:24:37 UTC*
+*Last updated at 2026-05-26 13:15:59 UTC*
 *Historical records are stored in the `archive` directory.*
