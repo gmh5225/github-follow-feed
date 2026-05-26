@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > RISC-V 64 hypervisor written in Rust
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [x86byte/sbox](https://github.com/x86byte/sbox)
   > Compile-time AES string obfuscation for C++
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [hugsy/gef](https://github.com/hugsy/gef)
+  > GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for e...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yfe404/frida-mcp](https://github.com/yfe404/frida-mcp) to [CrackerCat/yfe404-frida-mcp](https://github.com/CrackerCat/yfe404-frida-mcp)
@@ -26,6 +28,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AnyBase Kernel. To build GKI with your any idea!
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoxuya520/reverse-skill-private](https://github.com/zhaoxuya520/reverse-skill-private) to [CrackerCat/reverse-skill-private](https://github.com/CrackerCat/reverse-skill-private)
   > 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
+
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [techchipnet/5Ghz-Hotspot-Router](https://github.com/techchipnet/5Ghz-Hotspot-Router)
+  > Turn your Kali Linux machine into a fully-functional 5 GHz WiFi Router
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [techchipnet/ip-changer](https://github.com/techchipnet/ip-changer)
+  > A simple and efficient tool to automatically change your IP address using Tor network at regular int...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
+  > Run Windows apps on 🐧 Linux with ✨ seamless integration
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
@@ -124,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 19:45:33 UTC*
+*Last updated at 2026-05-26 20:47:22 UTC*
 *Historical records are stored in the `archive` directory.*
