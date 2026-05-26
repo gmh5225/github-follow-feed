@@ -87,6 +87,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
   > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [vigolium/vigolium](https://github.com/vigolium/vigolium)
+  > Vigolium - High-fidelity vulnerability scanner fusing agentic AI with native speed, modularity, and ...
 
 ### [xiaoweiChen](https://github.com/xiaoweiChen)
 - 🍴 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [xiaoweiChen/github-readme-stats](https://github.com/xiaoweiChen/github-readme-stats)
@@ -96,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 13:15:59 UTC*
+*Last updated at 2026-05-26 15:13:40 UTC*
 *Historical records are stored in the `archive` directory.*
