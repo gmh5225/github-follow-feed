@@ -21,16 +21,34 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
+  > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
   > Agent Substrate: the core system
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [medialab/xan](https://github.com/medialab/xan)
+  > The CSV magician
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tantara/openbrief](https://github.com/tantara/openbrief)
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [trustedsec/LnkMeMaybe](https://github.com/trustedsec/LnkMeMaybe)
+  > Lnk crafting and research tools
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [trustedsec/LnkMeMaybe](https://github.com/trustedsec/LnkMeMaybe) to [killvxk/LnkMeMaybe](https://github.com/killvxk/LnkMeMaybe)
+  > Lnk crafting and research tools
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [satchfunky/CVE-2026-41096-POC](https://github.com/satchfunky/CVE-2026-41096-POC)
   > windows api bug
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
+  > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [machinemadefibre-bot/Chinese-Input-Agent](https://github.com/machinemadefibre-bot/Chinese-Input-Agent)
@@ -44,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 07:27:29 UTC*
+*Last updated at 2026-05-26 09:24:37 UTC*
 *Historical records are stored in the `archive` directory.*
