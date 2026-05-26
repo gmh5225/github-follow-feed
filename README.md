@@ -23,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoxuya520/reverse-skill-private](https://github.com/zhaoxuya520/reverse-skill-private) to [CrackerCat/reverse-skill-private](https://github.com/CrackerCat/reverse-skill-private)
   > 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
+  > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
+
 ### [chfast](https://github.com/chfast)
 - 🌟 👤 [chfast](https://github.com/chfast) Starred [nathan-baggs/clap](https://github.com/nathan-baggs/clap)
   > 👏 Command Line Argument Parser
@@ -35,6 +39,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
   > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [xuhongxu96/instcombine-instrumentor](https://github.com/xuhongxu96/instcombine-instrumentor)
+  > Instrument LLVM InstCombine pass to record every new instruction and every RAUW replacement
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)
+  > A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
   > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
@@ -42,6 +54,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
   > Agent Substrate: the core system
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL)
+  > SkyRL: A Modular Full-stack RL Library for LLMs
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [medialab/xan](https://github.com/medialab/xan)
@@ -55,6 +69,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lnk crafting and research tools
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [trustedsec/LnkMeMaybe](https://github.com/trustedsec/LnkMeMaybe) to [killvxk/LnkMeMaybe](https://github.com/killvxk/LnkMeMaybe)
   > Lnk crafting and research tools
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xmachos/dotfiles](https://github.com/0xmachos/dotfiles)
+  > Dotfiles and scripts to configure macOS the way I like it. Caveat emptor 😉🔥
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [satchfunky/CVE-2026-41096-POC](https://github.com/satchfunky/CVE-2026-41096-POC)
@@ -79,10 +95,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lean Ethereum protocol specifications and test vector generation framework.
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Uniswap/token-lists](https://github.com/Uniswap/token-lists)
   > 📚 The Token Lists specification
-
-### [steipete](https://github.com/steipete)
-- 🌟 👤 [steipete](https://github.com/steipete) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
-  > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [jgraph/drawio](https://github.com/jgraph/drawio)
+  > draw.io is a JavaScript, client-side editor for general diagramming.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
@@ -98,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 15:13:40 UTC*
+*Last updated at 2026-05-26 17:14:53 UTC*
 *Historical records are stored in the `archive` directory.*
