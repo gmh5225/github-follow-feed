@@ -1,122 +1,42 @@
-# Daily GitHub Activity (2026-05-25)
+# Daily GitHub Activity (2026-05-26)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [0xAX](https://github.com/0xAX)
-- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial)
-  > My learning notes for ML SYS.
-- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [klaudiagrz/recycling-app](https://github.com/klaudiagrz/recycling-app)
-  > A Polish recycling assistant powered by Gemma 4
-
-### [0xcpu](https://github.com/0xcpu)
-- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie)
-  > ⚠️ Browser fingerprinting via favicon!
-
-### [Cloud-Architekt](https://github.com/Cloud-Architekt)
-- 🌟 👤 [Cloud-Architekt](https://github.com/Cloud-Architekt) Starred [Cloud-Architekt/maester](https://github.com/Cloud-Architekt/maester)
-  > Maester is a PowerShell based test automation framework to help you stay in control of your Microsof...
-
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Billy-Ellis/exr-imageio-poc](https://github.com/Billy-Ellis/exr-imageio-poc)
-  > PoC for an integer overflow vulnerability in ImageIO patched in iOS/macOS 26.5
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [20urc3/Astra](https://github.com/20urc3/Astra)
-  > Coverage-guided fuzzer in Rust
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [std-microblock/fripack](https://github.com/std-microblock/fripack) to [CrackerCat/fripack](https://github.com/CrackerCat/fripack)
-  > Package your Frida script into an executable.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ggggmllll/TInjector](https://github.com/ggggmllll/TInjector) to [CrackerCat/ggggmllll-TInjector](https://github.com/CrackerCat/ggggmllll-TInjector)
-  > Android zygote injection toolkit with ART method hooking
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NatumRagnag/scene-netns-isolator](https://github.com/NatumRagnag/scene-netns-isolator) to [CrackerCat/scene-netns-isolator](https://github.com/CrackerCat/scene-netns-isolator)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dzxpert/PatchWork](https://github.com/dzxpert/PatchWork) to [CrackerCat/PatchWork](https://github.com/CrackerCat/PatchWork)
-  > Injectable DLL with an in-process Lua engine & MCP server for runtime memory editing, hooking, and a...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [x86byte/sbox](https://github.com/x86byte/sbox) to [CrackerCat/sbox](https://github.com/CrackerCat/sbox)
-  > delimiter-less string obfuscation powered by compile-time AES
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Thehepta/HideApk](https://github.com/Thehepta/HideApk) to [CrackerCat/HideApk](https://github.com/CrackerCat/HideApk)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yfe404/frida-mcp](https://github.com/yfe404/frida-mcp) to [CrackerCat/yfe404-frida-mcp](https://github.com/CrackerCat/yfe404-frida-mcp)
+  > MCP server for Frida 17 dynamic instrumentation
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yfe404/triton-mcp](https://github.com/yfe404/triton-mcp) to [CrackerCat/triton-mcp](https://github.com/CrackerCat/triton-mcp)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yfe404/proxy-mcp](https://github.com/yfe404/proxy-mcp) to [CrackerCat/proxy-mcp](https://github.com/CrackerCat/proxy-mcp)
+  > MCP server that runs an explicit HTTP/HTTPS MITM proxy
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yfe404/frida-mcp-skills](https://github.com/yfe404/frida-mcp-skills) to [CrackerCat/frida-mcp-skills](https://github.com/CrackerCat/frida-mcp-skills)
+  > AI Skills companion for using frida-mcp
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xingguangcuican6666/ABK](https://github.com/xingguangcuican6666/ABK) to [CrackerCat/ABK](https://github.com/CrackerCat/ABK)
+  > AnyBase Kernel. To build GKI with your any idea!
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoxuya520/reverse-skill-private](https://github.com/zhaoxuya520/reverse-skill-private) to [CrackerCat/reverse-skill-private](https://github.com/CrackerCat/reverse-skill-private)
+  > 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [robert-yates/gdbserver9x](https://github.com/robert-yates/gdbserver9x)
-  > A primitive GDB server for debugging 32bit exes on retro windows OS'
-
-### [JustasMasiulis](https://github.com/JustasMasiulis)
-- 🍴 👤 [JustasMasiulis](https://github.com/JustasMasiulis) Forked [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) to [JustasMasiulis/ida-pro-mcp](https://github.com/JustasMasiulis/ida-pro-mcp)
-  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
-
-### [ahmet](https://github.com/ahmet)
-- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
-
-### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [drlukeparry/pyslm](https://github.com/drlukeparry/pyslm)
-  > PySLM: A Python Library for 3D Printing and Additive Manufacturing
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)
-  > PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [CadQuery/cadquery](https://github.com/CadQuery/cadquery)
-  > A python parametric CAD scripting framework based on OCCT
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [gumyr/build123d](https://github.com/gumyr/build123d)
-  > A python CAD programming library
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fogleman/sdf](https://github.com/fogleman/sdf)
-  > Simple SDF mesh generation in Python
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [elalish/manifold](https://github.com/elalish/manifold)
-  > Geometry library for topological robustness
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [isl-org/Open3D](https://github.com/isl-org/Open3D)
-  > Open3D: A Modern Library for 3D Data Processing
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Toblerity/rtree](https://github.com/Toblerity/rtree)
-  > Rtree: spatial index for Python GIS
-
-### [es3n1n](https://github.com/es3n1n)
-- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager)
-  > Automatically provision and manage TLS certificates in Kubernetes
-
-### [extremecoders-re](https://github.com/extremecoders-re)
-- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor)
-  > Powerful android apk editor - aapt/aapt2 independent
-- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [alltechdev/gplay-apk-downloader](https://github.com/alltechdev/gplay-apk-downloader)
-  > Download APK files directly from Google Play Store.
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+  > The best ChatGPT that $100 can buy.
 
 ### [ikrima](https://github.com/ikrima)
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [e10b/light](https://github.com/e10b/light)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tantara/openbrief](https://github.com/tantara/openbrief)
 
-### [jhscheer](https://github.com/jhscheer)
-- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [airbus-seclab/warbirdvm](https://github.com/airbus-seclab/warbirdvm)
-  > An analysis of the Warbird virtual-machine protection for the CI!g_pStore
-
-### [liuchengxu](https://github.com/liuchengxu)
-- 🍴 👤 [liuchengxu](https://github.com/liuchengxu) Forked [a16z/helios](https://github.com/a16z/helios) to [liuchengxu/helios](https://github.com/liuchengxu/helios)
-  > A fast, secure, and portable multichain light client for Ethereum
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [kframework/X86-64-semantics](https://github.com/kframework/X86-64-semantics)
-  > Semantics of x86-64 in K
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
-  > drop-in copy-on-write replacement for `git worktree add`
-
-### [n01e0](https://github.com/n01e0)
-- 🌟 👤 [n01e0](https://github.com/n01e0) Starred [rwlang-org/rw](https://github.com/rwlang-org/rw)
-  > A statically compiled language with an asynchronous-first approach, written in a Python-like style.
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [satchfunky/CVE-2026-41096-POC](https://github.com/satchfunky/CVE-2026-41096-POC)
+  > windows api bug
 
 ### [odzhan](https://github.com/odzhan)
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Maldev-Academy/MaldevAcademyLdr.2](https://github.com/Maldev-Academy/MaldevAcademyLdr.2)
-  > RunPE implementation with multiple evasive techniques (2)
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
-  > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [machinemadefibre-bot/Chinese-Input-Agent](https://github.com/machinemadefibre-bot/Chinese-Input-Agent)
+  > A local Windows tool that turns encrypted messages into ordinary-looking Chinese articles for use ov...
 
-### [raysan5](https://github.com/raysan5)
-- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [meisei4/fffftt](https://github.com/meisei4/fffftt)
-
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [tiagozip/cap](https://github.com/tiagozip/cap)
-  > The privacy-first, self-hosted CAPTCHA for the modern web.
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [uky007/ida-func-call-rank](https://github.com/uky007/ida-func-call-rank)
-  > A sortable, Ghidra-like function call-ranking    table for IDA Pro
+### [xiaoweiChen](https://github.com/xiaoweiChen)
+- 🍴 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Forked [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to [xiaoweiChen/github-readme-stats](https://github.com/xiaoweiChen/github-readme-stats)
+  > :zap: Dynamically generated stats for your github readmes
 
 
 ---
-*Last updated at 2026-05-25 23:31:08 UTC*
+*Last updated at 2026-05-26 01:07:56 UTC*
 *Historical records are stored in the `archive` directory.*
