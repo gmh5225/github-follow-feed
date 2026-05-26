@@ -38,6 +38,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A simple and efficient tool to automatically change your IP address using Tor network at regular int...
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [TibixDev/winboat](https://github.com/TibixDev/winboat)
   > Run Windows apps on 🐧 Linux with ✨ seamless integration
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
+  > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
@@ -111,6 +113,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [machinemadefibre-bot/Chinese-Input-Agent](https://github.com/machinemadefibre-bot/Chinese-Input-Agent)
   > A local Windows tool that turns encrypted messages into ordinary-looking Chinese articles for use ov...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [sebafvs/hivex](https://github.com/sebafvs/hivex)
+  > Windows registry hive dumper for SAM, SYSTEM, and SECURITY using the backup privilege API.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [sebafvs/ad-lab-automation](https://github.com/sebafvs/ad-lab-automation)
+  > PowerShell scripts for automating Active Directory lab provisioning — machine setup, DC promotion, a...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [actions/upload-code-coverage](https://github.com/actions/upload-code-coverage)
@@ -138,5 +144,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 21:37:20 UTC*
+*Last updated at 2026-05-26 22:35:01 UTC*
 *Historical records are stored in the `archive` directory.*
