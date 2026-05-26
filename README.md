@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
   > The best ChatGPT that $100 can buy.
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
+  > Agent Substrate: the core system
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tantara/openbrief](https://github.com/tantara/openbrief)
 
@@ -40,5 +44,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 05:30:23 UTC*
+*Last updated at 2026-05-26 07:27:29 UTC*
 *Historical records are stored in the `archive` directory.*
