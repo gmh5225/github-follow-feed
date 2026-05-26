@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [20urc3/Astra](https://github.com/20urc3/Astra)
+  > Coverage-guided fuzzer in Rust
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mooofin/hypv64](https://github.com/mooofin/hypv64)
   > RISC-V 64 hypervisor written in Rust
@@ -57,6 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL)
   > SkyRL: A Modular Full-stack RL Library for LLMs
 
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)
+  > Visualizer for neural network, deep learning and machine learning models
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [medialab/xan](https://github.com/medialab/xan)
   > The CSV magician
@@ -83,6 +91,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Imrglop/IDA-FastAnalysis](https://github.com/Imrglop/IDA-FastAnalysis)
   > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
+
+### [nulltea](https://github.com/nulltea)
+- 🍴 👤 [nulltea](https://github.com/nulltea) Forked [Zabaca/lattice](https://github.com/Zabaca/lattice) to [nulltea/lattice](https://github.com/nulltea/lattice)
+  > Human-initiated, AI-powered knowledge graph for markdown documentation
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [machinemadefibre-bot/Chinese-Input-Agent](https://github.com/machinemadefibre-bot/Chinese-Input-Agent)
@@ -112,5 +124,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 17:14:53 UTC*
+*Last updated at 2026-05-26 18:57:50 UTC*
 *Historical records are stored in the `archive` directory.*
