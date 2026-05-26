@@ -74,6 +74,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Agent Substrate: the core system
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NovaSky-AI/SkyRL](https://github.com/NovaSky-AI/SkyRL)
   > SkyRL: A Modular Full-stack RL Library for LLMs
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [boratanrikulu/gobee](https://github.com/boratanrikulu/gobee)
+  > Write your BPF programs in Go, not C. gobee transpiles a Go subset to BPF C and generates typed cili...
 
 ### [ggerganov](https://github.com/ggerganov)
 - 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [lutzroeder/netron](https://github.com/lutzroeder/netron)
@@ -144,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-26 22:35:01 UTC*
+*Last updated at 2026-05-26 23:31:16 UTC*
 *Historical records are stored in the `archive` directory.*
