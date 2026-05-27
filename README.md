@@ -21,6 +21,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) to [Mr-xn/edgetunnel](https://github.com/Mr-xn/edgetunnel)
   > edgetunnel2 VLESS/Trojan/SS 多功能面板
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [nikkinikki-org/OpenWrt-momo](https://github.com/nikkinikki-org/OpenWrt-momo) to [Mr-xn/OpenWrt-momo](https://github.com/Mr-xn/OpenWrt-momo)
+  > Transparent Proxy with sing-box on OpenWrt.
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Picrew/awesome-agent-harness](https://github.com/Picrew/awesome-agent-harness)
+  > An awesome list of Agent Harness engineering resources, including GitHub projects, tools, benchmarks...
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
@@ -83,6 +89,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [hyrfilm/libpd-wasm](https://github.com/hyrfilm/libpd-wasm)
   > Pure Data in the browser
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [datasette/datasette-sidebar](https://github.com/datasette/datasette-sidebar)
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [m4xx101/cryptex-oss](https://github.com/m4xx101/cryptex-oss)
   > Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.
@@ -99,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 15:17:07 UTC*
+*Last updated at 2026-05-27 17:14:53 UTC*
 *Historical records are stored in the `archive` directory.*
