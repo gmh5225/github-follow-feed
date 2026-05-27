@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
   > AI Agent 源码深度研究报告
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [Maokus/MVMNT](https://github.com/Maokus/MVMNT)
+  > Free, Open Source MIDI Visualization
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [JM00NJ/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent](https://github.com/JM00NJ/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent) to [classic130/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent](https://github.com/classic130/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent)
   > A fileless C2 framework written in pure x64 Linux Assembly with zero libc dependencies. Features dyn...
@@ -46,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [SuperCoolPencil/Janus](https://github.com/SuperCoolPencil/Janus)
   > an ext4 driver for windows.
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo)
+  > Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
@@ -71,9 +79,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [tremwil/dearxan](https://github.com/tremwil/dearxan)
   > Rust crate for analyzing and neutering Arxan in FromSoftware games
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [hyrfilm/libpd-wasm](https://github.com/hyrfilm/libpd-wasm)
+  > Pure Data in the browser
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [m4xx101/cryptex-oss](https://github.com/m4xx101/cryptex-oss)
   > Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
+  > An 8-stage vulnerability-discovery agent.
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [stolevchristian/sylvia](https://github.com/stolevchristian/sylvia)
@@ -85,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 13:27:26 UTC*
+*Last updated at 2026-05-27 15:17:07 UTC*
 *Historical records are stored in the `archive` directory.*
