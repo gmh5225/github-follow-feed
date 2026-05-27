@@ -14,6 +14,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Andrea-lyz/selinux_seqno_fix](https://github.com/Andrea-lyz/selinux_seqno_fix) to [CrackerCat/selinux_seqno_fix](https://github.com/CrackerCat/selinux_seqno_fix)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/ksu-edge-seqno-demo](https://github.com/eltavine/ksu-edge-seqno-demo) to [CrackerCat/ksu-edge-seqno-demo](https://github.com/CrackerCat/ksu-edge-seqno-demo)
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
+  > SGLang is a high-performance serving framework for large language models and multimodal models.
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+  > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book)
+  > 《御舆：解码 Agent Harness》42万字拆解 AI Agent 的Harness骨架与神经 —— Claude Code 架构深度剖析，15 章从对话循环到构建你自己的 Agent Harn...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
+  > AI Agent 源码深度研究报告
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [JM00NJ/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent](https://github.com/JM00NJ/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent) to [classic130/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent](https://github.com/classic130/ICMP-Ghost-A-Fileless-x64-Assembly-C2-Agent)
   > A fileless C2 framework written in pure x64 Linux Assembly with zero libc dependencies. Features dyn...
@@ -24,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows process scanner for memory triage, suspicious DLL loads, spoofed call stacks, and in-memory ...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [X-3306/Project-Onyx](https://github.com/X-3306/Project-Onyx) to [classic130/Project-Onyx](https://github.com/classic130/Project-Onyx)
   > Advanced EDR Evasion via AI Telemetry Spoofing & WASM Sandboxing. Project Onyx is a PoC Red Team pip...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [SuperCoolPencil/Janus](https://github.com/SuperCoolPencil/Janus)
+  > an ext4 driver for windows.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
@@ -36,6 +50,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
   > game of active directory
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jedisct1/zig-alf](https://github.com/jedisct1/zig-alf)
+  > ALF: AES-NI-based length-and format-preserving encryption.
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [hhanh00/zkool2](https://github.com/hhanh00/zkool2)
@@ -57,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 09:21:43 UTC*
+*Last updated at 2026-05-27 11:21:51 UTC*
 *Historical records are stored in the `archive` directory.*
