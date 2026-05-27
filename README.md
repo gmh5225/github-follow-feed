@@ -10,7 +10,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [The-SNEK-Initiative/SNEK_Equinox](https://github.com/The-SNEK-Initiative/SNEK_Equinox)
   > Repository hosting a hypothetical EDR Spoofer, as discovered originally by Nightmare-Eclipse
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
-  > Hardening code obfuscation against automated attacks
+  > [Fork] Hardening code obfuscation against automated attacks
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki)
   > Hardening code obfuscation against automated attacks
 
@@ -88,6 +88,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
   > Hardening code obfuscation against automated attacks
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [mrexodia/loki](https://github.com/mrexodia/loki)
+  > Hardening code obfuscation against automated attacks
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [Zabaca/lattice](https://github.com/Zabaca/lattice)
@@ -132,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 20:50:24 UTC*
+*Last updated at 2026-05-27 21:43:17 UTC*
 *Historical records are stored in the `archive` directory.*
