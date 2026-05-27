@@ -9,6 +9,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Symbolic execution of LLVM IR with an engine written in Rust
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [The-SNEK-Initiative/SNEK_Equinox](https://github.com/The-SNEK-Initiative/SNEK_Equinox)
   > Repository hosting a hypothetical EDR Spoofer, as discovered originally by Nightmare-Eclipse
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > Hardening code obfuscation against automated attacks
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki)
+  > Hardening code obfuscation against automated attacks
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [glevix/ida-structutils](https://github.com/glevix/ida-structutils) to [CrackerCat/ida-structutils](https://github.com/CrackerCat/ida-structutils)
@@ -40,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)
   > AI Agent 源码深度研究报告
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+  > Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [Maokus/MVMNT](https://github.com/Maokus/MVMNT)
   > Free, Open Source MIDI Visualization
@@ -66,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [klindtlab/lejepa-identifiability](https://github.com/klindtlab/lejepa-identifiability)
   > Simulations and identifiability proof for LeJEPA
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [raddad772/jocasta-emu](https://github.com/raddad772/jocasta-emu)
+  > A multi-emulator I've been working on for years. This is a rename of jsmooch-emus. Supports 20+ plat...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
@@ -116,5 +128,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 18:58:40 UTC*
+*Last updated at 2026-05-27 19:47:56 UTC*
 *Historical records are stored in the `archive` directory.*
