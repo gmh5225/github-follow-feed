@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [kestrelchat/server](https://github.com/kestrelchat/server)
+  > Kestrel's core backend monorepo
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [PLSysSec/haybale](https://github.com/PLSysSec/haybale)
   > Symbolic execution of LLVM IR with an engine written in Rust
@@ -124,6 +128,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
   > An 8-stage vulnerability-discovery agent.
 
+### [wbenny](https://github.com/wbenny)
+- 🌟 👤 [wbenny](https://github.com/wbenny) Starred [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+  > A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identi...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [stolevchristian/sylvia](https://github.com/stolevchristian/sylvia)
   > iOS Syscall Explorer for IDA 9.X
@@ -134,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 21:43:17 UTC*
+*Last updated at 2026-05-27 22:38:34 UTC*
 *Historical records are stored in the `archive` directory.*
