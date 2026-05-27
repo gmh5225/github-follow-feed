@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [PLSysSec/haybale](https://github.com/PLSysSec/haybale)
+  > Symbolic execution of LLVM IR with an engine written in Rust
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [glevix/ida-structutils](https://github.com/glevix/ida-structutils) to [CrackerCat/ida-structutils](https://github.com/CrackerCat/ida-structutils)
   > Utils for increased productivity with ida, like editing structs from the hexrays decompiler view
@@ -13,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > IDA Pro plugin that speeds up the initial binary auto analysis through caching and multithreaded ana...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Andrea-lyz/selinux_seqno_fix](https://github.com/Andrea-lyz/selinux_seqno_fix) to [CrackerCat/selinux_seqno_fix](https://github.com/CrackerCat/selinux_seqno_fix)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eltavine/ksu-edge-seqno-demo](https://github.com/eltavine/ksu-edge-seqno-demo) to [CrackerCat/ksu-edge-seqno-demo](https://github.com/CrackerCat/ksu-edge-seqno-demo)
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) to [Mr-xn/edgetunnel](https://github.com/Mr-xn/edgetunnel)
+  > edgetunnel2 VLESS/Trojan/SS 多功能面板
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
@@ -59,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Zondax/zecwallet-lite](https://github.com/Zondax/zecwallet-lite)
   > Zecwallet-Lite is z-Addr first lightwallet for Zcash. 
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [tremwil/dearxan](https://github.com/tremwil/dearxan)
+  > Rust crate for analyzing and neutering Arxan in FromSoftware games
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [m4xx101/cryptex-oss](https://github.com/m4xx101/cryptex-oss)
   > Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.
@@ -73,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 11:21:51 UTC*
+*Last updated at 2026-05-27 13:27:26 UTC*
 *Historical records are stored in the `archive` directory.*
