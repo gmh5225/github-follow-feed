@@ -18,11 +18,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
 
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [Zabaca/lattice](https://github.com/Zabaca/lattice)
+  > Human-initiated, AI-powered knowledge graph for markdown documentation
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Orange-Cyberdefense/GOAD](https://github.com/Orange-Cyberdefense/GOAD)
+  > game of active directory
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [stolevchristian/sylvia](https://github.com/stolevchristian/sylvia)
   > iOS Syscall Explorer for IDA 9.X
 
 
 ---
-*Last updated at 2026-05-27 03:20:59 UTC*
+*Last updated at 2026-05-27 05:38:35 UTC*
 *Historical records are stored in the `archive` directory.*
