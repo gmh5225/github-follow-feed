@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [PLSysSec/haybale](https://github.com/PLSysSec/haybale)
   > Symbolic execution of LLVM IR with an engine written in Rust
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [The-SNEK-Initiative/SNEK_Equinox](https://github.com/The-SNEK-Initiative/SNEK_Equinox)
+  > Repository hosting a hypothetical EDR Spoofer, as discovered originally by Nightmare-Eclipse
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [glevix/ida-structutils](https://github.com/glevix/ida-structutils) to [CrackerCat/ida-structutils](https://github.com/CrackerCat/ida-structutils)
@@ -61,9 +63,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo)
   > Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [klindtlab/lejepa-identifiability](https://github.com/klindtlab/lejepa-identifiability)
+  > Simulations and identifiability proof for LeJEPA
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [RUB-SysSec/loki](https://github.com/RUB-SysSec/loki) to [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > Hardening code obfuscation against automated attacks
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [Zabaca/lattice](https://github.com/Zabaca/lattice)
@@ -108,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 17:14:53 UTC*
+*Last updated at 2026-05-27 18:58:40 UTC*
 *Historical records are stored in the `archive` directory.*
