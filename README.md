@@ -40,12 +40,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [hhanh00/zkool2](https://github.com/hhanh00/zkool2)
   > Zkool - Wallet for Zcash (sucessor to ywallet)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Zondax/zecwallet-lite](https://github.com/Zondax/zecwallet-lite)
+  > Zecwallet-Lite is z-Addr first lightwallet for Zcash. 
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [m4xx101/cryptex-oss](https://github.com/m4xx101/cryptex-oss)
+  > Open-source LLM red-teaming technique toolkit (162 transforms, 36 mutators, 25 tool surfaces). MIT.
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [stolevchristian/sylvia](https://github.com/stolevchristian/sylvia)
   > iOS Syscall Explorer for IDA 9.X
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)
+  > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+
 
 ---
-*Last updated at 2026-05-27 07:41:19 UTC*
+*Last updated at 2026-05-27 09:21:43 UTC*
 *Historical records are stored in the `archive` directory.*
