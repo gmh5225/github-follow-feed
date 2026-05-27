@@ -71,6 +71,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [GrafeoDB/grafeo](https://github.com/GrafeoDB/grafeo)
   > Grafeo is a pure-Rust, high-performance graph database that can be embedded as a library or run as a...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [tremwil/dearxan](https://github.com/tremwil/dearxan)
+  > Rust crate for analyzing and neutering Arxan in FromSoftware games
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [klindtlab/lejepa-identifiability](https://github.com/klindtlab/lejepa-identifiability)
   > Simulations and identifiability proof for LeJEPA
@@ -128,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-27 19:47:56 UTC*
+*Last updated at 2026-05-27 20:50:24 UTC*
 *Historical records are stored in the `archive` directory.*
