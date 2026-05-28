@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
+  > MacOS Web Server written entirely in ARM64 assembly
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [xlibre-void/xlibre](https://github.com/xlibre-void/xlibre)
+  > XLibre for VOID linux
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
   > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
@@ -38,6 +46,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [galilai-group/cjepa](https://github.com/galilai-group/cjepa)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vercel/chat](https://github.com/vercel/chat)
   > A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord,...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vercel-labs/emulate](https://github.com/vercel-labs/emulate)
+  > Local API emulation for CI and no-network sandboxes
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide)
@@ -63,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-28 20:54:48 UTC*
+*Last updated at 2026-05-28 21:44:47 UTC*
 *Historical records are stored in the `archive` directory.*
