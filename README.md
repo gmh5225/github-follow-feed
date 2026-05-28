@@ -63,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
   > Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-fi...
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [ColleagueRiley/RGFW](https://github.com/ColleagueRiley/RGFW)
+  > A lightweight single-header cross-platform library for general windowing
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)
   > Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and ...
@@ -73,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-28 21:44:47 UTC*
+*Last updated at 2026-05-28 22:38:03 UTC*
 *Historical records are stored in the `archive` directory.*
