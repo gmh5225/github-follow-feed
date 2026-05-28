@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
+  > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye)
   > Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic ...
@@ -19,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The first publicly shared complete Windows UEFI bootkit framework for automated Ring0 rootkit deploy...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [portbuster1337/CVE-2026-27771](https://github.com/portbuster1337/CVE-2026-27771) to [classic130/CVE-2026-27771](https://github.com/classic130/CVE-2026-27771)
   > CVE-2026-27771 - Gitea/Forgejo Container Registry Auth Bypass Exploit PoC - Pull private container i...
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [x86byte/sbox](https://github.com/x86byte/sbox)
+  > Compile-time AES string obfuscation for C++
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
@@ -55,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-28 19:03:28 UTC*
+*Last updated at 2026-05-28 20:54:48 UTC*
 *Historical records are stored in the `archive` directory.*
