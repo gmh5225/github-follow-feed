@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [satoki/TyphoonPWN-2026](https://github.com/satoki/TyphoonPWN-2026)
   > 😢Unpwned😢 TyphoonPWN 2026 Zero-Day Exploit ($10,000)
 
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr)
+  > Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-fi...
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)
   > Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and ...
@@ -42,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-28 15:19:42 UTC*
+*Last updated at 2026-05-28 17:25:15 UTC*
 *Historical records are stored in the `archive` directory.*
