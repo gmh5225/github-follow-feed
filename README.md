@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CalebFenton](https://github.com/CalebFenton)
+- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) to [CalebFenton/unicorn](https://github.com/CalebFenton/unicorn)
+  > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
+- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [unicorn-engine/unicorn-engine-rs](https://github.com/unicorn-engine/unicorn-engine-rs) to [CalebFenton/unicorn-engine-rs](https://github.com/CalebFenton/unicorn-engine-rs)
+  > The rust bindings for Unicorn Engine
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [imtomt/ymawky](https://github.com/imtomt/ymawky)
   > MacOS Web Server written entirely in ARM64 assembly
@@ -77,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-28 22:38:03 UTC*
+*Last updated at 2026-05-28 23:35:14 UTC*
 *Historical records are stored in the `archive` directory.*
