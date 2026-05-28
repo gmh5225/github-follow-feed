@@ -8,15 +8,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye)
   > Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic ...
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [TheMalwareGuardian/Abyss](https://github.com/TheMalwareGuardian/Abyss) to [classic130/Abyss](https://github.com/classic130/Abyss)
+  > The first publicly shared complete Windows UEFI bootkit framework for automated Ring0 rootkit deploy...
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide)
   > An idiomatic, lean, fast & safe pure Rust implementation of Git
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache)
+  > Zero-copy, content-addressed Rust build cache. No copies, no wasted disk — just hardlinks locally an...
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [satoki/TyphoonPWN-2026](https://github.com/satoki/TyphoonPWN-2026)
   > 😢Unpwned😢 TyphoonPWN 2026 Zero-Day Exploit ($10,000)
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)
+  > Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and ...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)
+  > Lean Cortex -- the cognitive context layer for agentic systems. 51+ MCP tools, 10 read modes, 95+ sh...
+
 
 ---
-*Last updated at 2026-05-28 07:36:23 UTC*
+*Last updated at 2026-05-28 09:28:50 UTC*
 *Historical records are stored in the `archive` directory.*
