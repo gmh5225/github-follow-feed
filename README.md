@@ -36,11 +36,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)
   > Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and ...
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)
-  > Lean Cortex -- the cognitive context layer for agentic systems. 51+ MCP tools, 10 read modes, 95+ sh...
+  > LeanCTX — the cognitive context layer for agentic systems. 62 MCP tools, 10 read modes, 60+ shell pa...
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [provos/ironcurtain](https://github.com/provos/ironcurtain)
   > A secure* runtime for autonomous AI agents. Policy from plain-English constitutions. (*https://ironc...
 
 
 ---
-*Last updated at 2026-05-28 13:31:04 UTC*
+*Last updated at 2026-05-28 15:19:42 UTC*
 *Historical records are stored in the `archive` directory.*
