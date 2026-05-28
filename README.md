@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > How to Set Up a Drone Using the X650, Pixhawk 6X, and Jetson Orin
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [CankayaUniversity/ceng-407-408-2022-2023-Autonomous-VTOL-Design](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Autonomous-VTOL-Design)
   > Autonomous VTOL Design
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [bernhardpg/babyshark_vtol_model](https://github.com/bernhardpg/babyshark_vtol_model)
+  > Full dynamic model for the Babyshark 260 VTOL UAV.
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [TheMalwareGuardian/Abyss](https://github.com/TheMalwareGuardian/Abyss) to [classic130/Abyss](https://github.com/classic130/Abyss)
@@ -21,6 +23,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO)
   > EUI-NEO is a cross-platform, high-performance, low-overhead C++17 UI framework built on OpenGL and G...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel)
+  > A platform for reproducible world model research and evaluation
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [galilai-group/cjepa](https://github.com/galilai-group/cjepa)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vercel/chat](https://github.com/vercel/chat)
+  > A unified TypeScript SDK for building chat bots across Slack, Microsoft Teams, Google Chat, Discord,...
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide)
@@ -46,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-28 17:25:15 UTC*
+*Last updated at 2026-05-28 19:03:28 UTC*
 *Historical records are stored in the `archive` directory.*
