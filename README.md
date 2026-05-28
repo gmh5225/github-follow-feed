@@ -7,6 +7,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye)
   > Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic ...
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [TIERS/X650_pixhawk6x_Jetson_Orin_Setup_Guide](https://github.com/TIERS/X650_pixhawk6x_Jetson_Orin_Setup_Guide)
+  > How to Set Up a Drone Using the X650, Pixhawk 6X, and Jetson Orin
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [CankayaUniversity/ceng-407-408-2022-2023-Autonomous-VTOL-Design](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Autonomous-VTOL-Design)
+  > Autonomous VTOL Design
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [TheMalwareGuardian/Abyss](https://github.com/TheMalwareGuardian/Abyss) to [classic130/Abyss](https://github.com/classic130/Abyss)
@@ -30,5 +34,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-28 09:28:50 UTC*
+*Last updated at 2026-05-28 11:22:11 UTC*
 *Historical records are stored in the `archive` directory.*
