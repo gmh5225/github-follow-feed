@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [antoniolupetti/algebrica](https://github.com/antoniolupetti/algebrica)
+  > Algebrica is free and open a mathematical knowledge base dedicated to clarity, structure, and concep...
+
 ### [0xcpu](https://github.com/0xcpu)
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -20,6 +24,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [paopaoandlingyia/PrismCat](https://github.com/paopaoandlingyia/PrismCat)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [onekey-sec/unblob](https://github.com/onekey-sec/unblob)
+  > Extract files from any kind of container formats
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya) to [classic130/OpenPetya](https://github.com/classic130/OpenPetya)
@@ -37,11 +43,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
   > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boredchilada/piptastic](https://github.com/boredchilada/piptastic)
+  > Its not fantastic, its piptastic - Dependency auditor for Python projects: drift vs PyPI, known CVEs...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [banteg/vyupgrade](https://github.com/banteg/vyupgrade)
+  > automatically rewrite old vyper contracts into modern vyper
+
 ### [xuhancn](https://github.com/xuhancn)
 - 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [todbot/blink1](https://github.com/todbot/blink1) to [xuhancn/blink1](https://github.com/xuhancn/blink1)
   > Official software for blink(1) USB RGB LED by ThingM
 
 
 ---
-*Last updated at 2026-05-29 11:14:51 UTC*
+*Last updated at 2026-05-29 13:22:23 UTC*
 *Historical records are stored in the `archive` directory.*
