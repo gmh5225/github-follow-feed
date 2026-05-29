@@ -51,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
   > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [facebookresearch/atlas-lean](https://github.com/facebookresearch/atlas-lean)
+  > ATLAS Autoformalized Textbook Library At Scale
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boredchilada/piptastic](https://github.com/boredchilada/piptastic)
   > Its not fantastic, its piptastic - Dependency auditor for Python projects: drift vs PyPI, known CVEs...
@@ -69,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-29 15:17:31 UTC*
+*Last updated at 2026-05-29 17:20:01 UTC*
 *Historical records are stored in the `archive` directory.*
