@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [ThirteenAG/XboxRainDroplets](https://github.com/ThirteenAG/XboxRainDroplets)
   > Enhanced implementation of xbox rain droplets from SkyGFX for other games.
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Agustinm28/Optiscaler-Client](https://github.com/Agustinm28/Optiscaler-Client)
+  > A modern manager for OptiScaler
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Unclecheng-li/poc-lab](https://github.com/Unclecheng-li/poc-lab) to [CrackerCat/poc-lab](https://github.com/CrackerCat/poc-lab)
@@ -56,6 +58,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A python CAD programming library
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [earthtojake/cad-viewer](https://github.com/earthtojake/cad-viewer)
   > Interactive browser-based CAD viewer for inspecting STEP, STL, 3MF, GLB, DXF, URDF, SDF, and SRDF fi...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [amacneil/dbmate](https://github.com/amacneil/dbmate)
+  > 🚀 A lightweight, framework-agnostic database migration tool.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
@@ -79,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [isa-group/Beet](https://github.com/isa-group/Beet)
   > Beet is a Daikon front-end and one of the core components of AGORA (Automated Generation of test Ora...
 
+### [void-stack](https://github.com/void-stack)
+- 🌟 👤 [void-stack](https://github.com/void-stack) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
+  > simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual mach...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp)
   > MCP server for controlling VMware Workstation Pro virtual machines
@@ -89,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-29 21:41:26 UTC*
+*Last updated at 2026-05-29 22:36:49 UTC*
 *Historical records are stored in the `archive` directory.*
