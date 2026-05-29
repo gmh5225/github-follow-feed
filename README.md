@@ -58,10 +58,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boredchilada/piptastic](https://github.com/boredchilada/piptastic)
   > Its not fantastic, its piptastic - Dependency auditor for Python projects: drift vs PyPI, known CVEs...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
+  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [banteg/vyupgrade](https://github.com/banteg/vyupgrade)
   > automatically rewrite old vyper contracts into modern vyper
+
+### [tklengyel](https://github.com/tklengyel)
+- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [isa-group/Beet](https://github.com/isa-group/Beet)
+  > Beet is a Daikon front-end and one of the core components of AGORA (Automated Generation of test Ora...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp)
@@ -73,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-29 17:20:01 UTC*
+*Last updated at 2026-05-29 19:02:58 UTC*
 *Historical records are stored in the `archive` directory.*
