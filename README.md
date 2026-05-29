@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [ThirteenAG/XboxRainDroplets](https://github.com/ThirteenAG/XboxRainDroplets)
+  > Enhanced implementation of xbox rain droplets from SkyGFX for other games.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Unclecheng-li/poc-lab](https://github.com/Unclecheng-li/poc-lab) to [CrackerCat/poc-lab](https://github.com/CrackerCat/poc-lab)
   > Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel,...
@@ -47,6 +51,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [yetanotherco/lambda_vm](https://github.com/yetanotherco/lambda_vm)
   > Minimalist, performant and auditable verifiable RISC-V vm written in Rust
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gumyr/build123d](https://github.com/gumyr/build123d)
+  > A python CAD programming library
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [earthtojake/cad-viewer](https://github.com/earthtojake/cad-viewer)
+  > Interactive browser-based CAD viewer for inspecting STEP, STL, 3MF, GLB, DXF, URDF, SDF, and SRDF fi...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
   > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
@@ -79,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-29 19:02:58 UTC*
+*Last updated at 2026-05-29 20:56:12 UTC*
 *Historical records are stored in the `archive` directory.*
