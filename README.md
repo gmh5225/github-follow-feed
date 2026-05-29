@@ -28,8 +28,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Implementing Ghostly-Hollowing using tampered syscalls for remote PE injection
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [The-SNEK-Initiative/SNEK_Equinox](https://github.com/The-SNEK-Initiative/SNEK_Equinox) to [classic130/SNEK_Equinox](https://github.com/classic130/SNEK_Equinox)
   > Repository hosting a hypothetical EDR Spoofer, as discovered originally by Nightmare-Eclipse
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) to [classic130/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/classic130/Awesome-LLMs-for-Vulnerability-Detection)
+  > Awesome Large Language Models for Vulnerability Detection
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
+  > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 
 
 ---
-*Last updated at 2026-05-29 07:35:11 UTC*
+*Last updated at 2026-05-29 09:23:29 UTC*
 *Historical records are stored in the `archive` directory.*
