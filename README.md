@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [onekey-sec/unblob](https://github.com/onekey-sec/unblob)
   > Extract files from any kind of container formats
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [agent-infra/sandbox](https://github.com/agent-infra/sandbox)
+  > All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a sing...
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya) to [classic130/OpenPetya](https://github.com/classic130/OpenPetya)
   > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
@@ -38,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Awesome Large Language Models for Vulnerability Detection
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Vsimpro/anaxagoras](https://github.com/Vsimpro/anaxagoras) to [classic130/anaxagoras](https://github.com/classic130/anaxagoras)
   > Following NightmareEclipse/DeadEclipse666 repositories on gitlab.
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [yetanotherco/lambda_vm](https://github.com/yetanotherco/lambda_vm)
+  > Minimalist, performant and auditable verifiable RISC-V vm written in Rust
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
@@ -51,11 +59,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [banteg/vyupgrade](https://github.com/banteg/vyupgrade)
   > automatically rewrite old vyper contracts into modern vyper
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp)
+  > MCP server for controlling VMware Workstation Pro virtual machines
+
 ### [xuhancn](https://github.com/xuhancn)
 - 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [todbot/blink1](https://github.com/todbot/blink1) to [xuhancn/blink1](https://github.com/xuhancn/blink1)
   > Official software for blink(1) USB RGB LED by ThingM
 
 
 ---
-*Last updated at 2026-05-29 13:22:23 UTC*
+*Last updated at 2026-05-29 15:17:31 UTC*
 *Historical records are stored in the `archive` directory.*
