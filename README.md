@@ -53,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [yetanotherco/lambda_vm](https://github.com/yetanotherco/lambda_vm)
   > Minimalist, performant and auditable verifiable RISC-V vm written in Rust
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [greg7mdp/gtl](https://github.com/greg7mdp/gtl)
+  > Greg's Template Library of useful classes.
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gumyr/build123d](https://github.com/gumyr/build123d)
   > A python CAD programming library
@@ -97,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-29 22:36:49 UTC*
+*Last updated at 2026-05-29 23:35:34 UTC*
 *Historical records are stored in the `archive` directory.*
