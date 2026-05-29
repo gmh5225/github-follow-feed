@@ -30,12 +30,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Repository hosting a hypothetical EDR Spoofer, as discovered originally by Nightmare-Eclipse
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection) to [classic130/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/classic130/Awesome-LLMs-for-Vulnerability-Detection)
   > Awesome Large Language Models for Vulnerability Detection
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Vsimpro/anaxagoras](https://github.com/Vsimpro/anaxagoras) to [classic130/anaxagoras](https://github.com/classic130/anaxagoras)
+  > Following NightmareEclipse/DeadEclipse666 repositories on gitlab.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [microsoft/Webwright](https://github.com/microsoft/Webwright)
   > A simple SWE style browser agent framework that achieves SOTA results on long horizon web tasks. 
 
+### [xuhancn](https://github.com/xuhancn)
+- 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [todbot/blink1](https://github.com/todbot/blink1) to [xuhancn/blink1](https://github.com/xuhancn/blink1)
+  > Official software for blink(1) USB RGB LED by ThingM
+
 
 ---
-*Last updated at 2026-05-29 09:23:29 UTC*
+*Last updated at 2026-05-29 11:14:51 UTC*
 *Historical records are stored in the `archive` directory.*
