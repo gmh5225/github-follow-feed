@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Leaked Mirai Source Code for Research/IoC Development Purposes
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
   > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zeroxjf/cyanide](https://github.com/zeroxjf/cyanide)
+  > Cyanide — iOS tweak runner built on top of the DarkSword kernel r/w exploit
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/AMem](https://github.com/niqiuqiux/AMem) to [CrackerCat/AMem](https://github.com/CrackerCat/AMem)
@@ -46,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari)
   > LLVM Obfuscator
 
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [thatskriptkid/speakeasy-extensions](https://github.com/thatskriptkid/speakeasy-extensions)
+  > Speakeasy patches from emulating 6000 malware samples
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [alexedwards/flow](https://github.com/alexedwards/flow)
   > A delightfully tiny but powerful HTTP router for Go web applications
@@ -63,6 +69,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [PatchRequest/PeregrineAntiCheat](https://github.com/PatchRequest/PeregrineAntiCheat)
   > An educational anti-cheat system for learning Windows kernel programming, process monitoring, and ch...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Hawzen/I-found-a-seashell-in-the-middle-of-the-desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert)
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -98,8 +107,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > IDA Pro plugin for Threatray — attribute functions to malware families and libraries, find function ...
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [WPeace-HcH/WPeGPT](https://github.com/WPeace-HcH/WPeGPT)
   > An IDA plugin for binary file analysis, powered by AI models such as OpenAI and DeepSeek.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
+  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
 
 
 ---
-*Last updated at 2026-05-30 19:35:41 UTC*
+*Last updated at 2026-05-30 20:29:31 UTC*
 *Historical records are stored in the `archive` directory.*
