@@ -88,7 +88,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [cristianaboitiz-eng/claude-for-legal-argentina](https://github.com/cristianaboitiz-eng/claude-for-legal-argentina)
   > Adaptación de claude-for-legal para práctica jurídica argentina. CCCN, LCT, Ley 25.326, fueros CABA ...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [threatray/plugin-ida](https://github.com/threatray/plugin-ida)
+  > IDA Pro plugin for Threatray — attribute functions to malware families and libraries, find function ...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [WPeace-HcH/WPeGPT](https://github.com/WPeace-HcH/WPeGPT)
+  > An IDA plugin for binary file analysis, powered by AI models such as OpenAI and DeepSeek.
+
 
 ---
-*Last updated at 2026-05-30 13:37:20 UTC*
+*Last updated at 2026-05-30 14:38:38 UTC*
 *Historical records are stored in the `archive` directory.*
