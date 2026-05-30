@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
+  > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
   > Leaked Mirai Source Code for Research/IoC Development Purposes
@@ -24,6 +28,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/SoLoad](https://github.com/niqiuqiux/SoLoad) to [CrackerCat/SoLoad](https://github.com/CrackerCat/SoLoad)
   > 一个独立于系统链接器的 Android ARM64 共享库加载器
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/CDisasm](https://github.com/niqiuqiux/CDisasm) to [CrackerCat/CDisasm](https://github.com/CrackerCat/CDisasm)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Enginex0/TEESimulator-RS](https://github.com/Enginex0/TEESimulator-RS) to [CrackerCat/TEESimulator-RS](https://github.com/CrackerCat/TEESimulator-RS)
+  > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint) to [CrackerCat/OhMyKeymint](https://github.com/CrackerCat/OhMyKeymint)
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [passteque/gluetun](https://github.com/passteque/gluetun)
@@ -32,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari)
   > LLVM Obfuscator
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [alexedwards/flow](https://github.com/alexedwards/flow)
+  > A delightfully tiny but powerful HTTP router for Go web applications
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
@@ -79,5 +90,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-30 12:37:29 UTC*
+*Last updated at 2026-05-30 13:37:20 UTC*
 *Historical records are stored in the `archive` directory.*
