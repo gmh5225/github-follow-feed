@@ -66,8 +66,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [initc3/babySNARK](https://github.com/initc3/babySNARK)
   > Baby SNARK (do do dodo dodo)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [cristianaboitiz-eng/claude-for-legal-argentina](https://github.com/cristianaboitiz-eng/claude-for-legal-argentina)
+  > Adaptación de claude-for-legal para práctica jurídica argentina. CCCN, LCT, Ley 25.326, fueros CABA ...
 
 
 ---
-*Last updated at 2026-05-30 10:40:12 UTC*
+*Last updated at 2026-05-30 11:35:25 UTC*
 *Historical records are stored in the `archive` directory.*
