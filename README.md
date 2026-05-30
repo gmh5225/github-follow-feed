@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [HikariObfuscator/Hikari](https://github.com/HikariObfuscator/Hikari)
   > LLVM Obfuscator
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [forensicdave/claude-forensics](https://github.com/forensicdave/claude-forensics)
   > Forensic extractor for Claude Code and Claude Cowork local state — macOS/Windows captures
@@ -42,6 +46,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [PatchRequest/PeregrineAntiCheat](https://github.com/PatchRequest/PeregrineAntiCheat)
+  > An educational anti-cheat system for learning Windows kernel programming, process monitoring, and ch...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -57,7 +63,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [ziv/raytiles](https://github.com/ziv/raytiles)
   > 3D Geospatial engine for raylib
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [initc3/babySNARK](https://github.com/initc3/babySNARK)
+  > Baby SNARK (do do dodo dodo)
+
 
 ---
-*Last updated at 2026-05-30 09:44:21 UTC*
+*Last updated at 2026-05-30 10:40:12 UTC*
 *Historical records are stored in the `archive` directory.*
