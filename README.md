@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
   > Leaked Mirai Source Code for Research/IoC Development Purposes
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
+  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/AMem](https://github.com/niqiuqiux/AMem) to [CrackerCat/AMem](https://github.com/CrackerCat/AMem)
@@ -97,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-30 14:38:38 UTC*
+*Last updated at 2026-05-30 15:33:17 UTC*
 *Historical records are stored in the `archive` directory.*
