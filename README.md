@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qwq233/OhMyKeymint](https://github.com/qwq233/OhMyKeymint) to [CrackerCat/OhMyKeymint](https://github.com/CrackerCat/OhMyKeymint)
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
+  > Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [passteque/gluetun](https://github.com/passteque/gluetun)
   > VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN o...
@@ -45,6 +49,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [alexedwards/flow](https://github.com/alexedwards/flow)
   > A delightfully tiny but powerful HTTP router for Go web applications
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [SMCGames/Paper-Mario-ReCut](https://github.com/SMCGames/Paper-Mario-ReCut)
+  > A PC Port of Paper Mario for N64
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
@@ -99,5 +105,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-30 17:29:04 UTC*
+*Last updated at 2026-05-30 18:32:35 UTC*
 *Historical records are stored in the `archive` directory.*
