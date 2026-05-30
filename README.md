@@ -87,6 +87,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Air14/HyperHide](https://github.com/Air14/HyperHide)
+  > Hypervisor based anti anti debug plugin for x64dbg
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -94,6 +96,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ionescu007/SimpleVisor](https://github.com/ionescu007/SimpleVisor)
   > SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least am...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [evmts/zevm](https://github.com/evmts/zevm)
 
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [initc3/babySNARK](https://github.com/initc3/babySNARK)
@@ -112,5 +117,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-30 21:27:18 UTC*
+*Last updated at 2026-05-30 22:27:42 UTC*
 *Historical records are stored in the `archive` directory.*
