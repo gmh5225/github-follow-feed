@@ -86,10 +86,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ionescu007/SimpleVisor](https://github.com/ionescu007/SimpleVisor)
   > SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least am...
 
-### [raysan5](https://github.com/raysan5)
-- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [ziv/raytiles](https://github.com/ziv/raytiles)
-  > 3D Geospatial engine for raylib
-
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [initc3/babySNARK](https://github.com/initc3/babySNARK)
   > Baby SNARK (do do dodo dodo)
@@ -105,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-30 18:32:35 UTC*
+*Last updated at 2026-05-30 19:35:41 UTC*
 *Historical records are stored in the `archive` directory.*
