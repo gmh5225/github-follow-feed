@@ -33,6 +33,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [forensicdave/claude-forensics](https://github.com/forensicdave/claude-forensics)
   > Forensic extractor for Claude Code and Claude Cowork local state — macOS/Windows captures
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
+
+### [maxsam4](https://github.com/maxsam4)
+- 🍴 👤 [maxsam4](https://github.com/maxsam4) Forked [Dokploy/dokploy](https://github.com/Dokploy/dokploy) to [maxsam4/dokploy](https://github.com/maxsam4/dokploy)
+  > Open Source Alternative to Vercel, Netlify and Heroku.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
 
@@ -46,7 +53,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ionescu007/SimpleVisor](https://github.com/ionescu007/SimpleVisor)
   > SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least am...
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [ziv/raytiles](https://github.com/ziv/raytiles)
+  > 3D Geospatial engine for raylib
+
 
 ---
-*Last updated at 2026-05-30 07:13:10 UTC*
+*Last updated at 2026-05-30 08:57:12 UTC*
 *Historical records are stored in the `archive` directory.*
