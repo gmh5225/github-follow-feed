@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
+  > Leaked Mirai Source Code for Research/IoC Development Purposes
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/AMem](https://github.com/niqiuqiux/AMem) to [CrackerCat/AMem](https://github.com/CrackerCat/AMem)
   > Android Mem
@@ -36,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [forensicdave/claude-forensics](https://github.com/forensicdave/claude-forensics)
   > Forensic extractor for Claude Code and Claude Cowork local state — macOS/Windows captures
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [PatchRequest/PeregrineAntiCheat](https://github.com/PatchRequest/PeregrineAntiCheat)
+  > An educational anti-cheat system for learning Windows kernel programming, process monitoring, and ch...
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
@@ -71,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-30 11:35:25 UTC*
+*Last updated at 2026-05-30 12:37:29 UTC*
 *Historical records are stored in the `archive` directory.*
