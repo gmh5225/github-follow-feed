@@ -19,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ringtailsoftware/uvm32](https://github.com/ringtailsoftware/uvm32) to [CrackerCat/uvm32](https://github.com/CrackerCat/uvm32)
   > Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrai...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elyelysiox/recaptcha-vm](https://github.com/elyelysiox/recaptcha-vm) to [CrackerCat/recaptcha-vm](https://github.com/CrackerCat/recaptcha-vm)
+  > Reverse Engineered reCAPTCHA VM
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elyelysiox/recaptcha](https://github.com/elyelysiox/recaptcha) to [CrackerCat/elyelysiox-recaptcha](https://github.com/CrackerCat/elyelysiox-recaptcha)
+  > Documentation and reverse engineering of reCAPTCHA
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [RsyncProject/rsync](https://github.com/RsyncProject/rsync)
@@ -64,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 12:42:05 UTC*
+*Last updated at 2026-05-31 13:38:26 UTC*
 *Historical records are stored in the `archive` directory.*
