@@ -50,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [worldfnd/whir](https://github.com/worldfnd/whir)
+  > WHIR 🌪️: Reed–Solomon Proximity Testing with Super-Fast Verification
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [championswimmer/pi-context-prune](https://github.com/championswimmer/pi-context-prune)
   > Pi coding-agent extension for pruning tool-call trees
@@ -60,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 10:46:18 UTC*
+*Last updated at 2026-05-31 11:37:53 UTC*
 *Historical records are stored in the `archive` directory.*
