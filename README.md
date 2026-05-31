@@ -103,6 +103,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [maxsam4](https://github.com/maxsam4) Starred [Delta-Blockchain-Fund/FlashFold_contracts](https://github.com/Delta-Blockchain-Fund/FlashFold_contracts)
   > Smart Contracts to create upto 4X leveraged positions on AAVE using Flash Loans.
 
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng)
+  > MCP Server for SearXNG
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
@@ -125,5 +129,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 21:27:21 UTC*
+*Last updated at 2026-05-31 22:27:53 UTC*
 *Historical records are stored in the `archive` directory.*
