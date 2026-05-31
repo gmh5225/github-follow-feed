@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cryphorix/iEmu](https://github.com/cryphorix/iEmu)
   > Emulating Apple Silicon devices. Custom upstream fork, bringing support for more iOS versions.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [DeLuks2006/patimat](https://github.com/DeLuks2006/patimat)
+  > Simple, header-only, pattern matching and patching class + tool written in modern C++.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [CrackerCat/PseudoForge](https://github.com/CrackerCat/PseudoForge)
@@ -49,6 +51,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/atak-civ](https://github.com/TAK-Product-Center/atak-civ)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server)
   > TAK Server
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/VR](https://github.com/TAK-Product-Center/VR)
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
@@ -106,6 +109,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [championswimmer/pi-context-prune](https://github.com/championswimmer/pi-context-prune)
   > Pi coding-agent extension for pruning tool-call trees
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [19h/ida-codedump](https://github.com/19h/ida-codedump)
+  > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io)
@@ -113,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 19:35:13 UTC*
+*Last updated at 2026-05-31 20:31:56 UTC*
 *Historical records are stored in the `archive` directory.*
