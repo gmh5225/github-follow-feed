@@ -21,6 +21,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [squidowl/halloy](https://github.com/squidowl/halloy)
   > IRC application written in Rust
 
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox)
+  > 🧱 secure, local and programmable sandboxes for AI agents
+
+### [maxsam4](https://github.com/maxsam4)
+- 🌟 👤 [maxsam4](https://github.com/maxsam4) Starred [Delta-Blockchain-Fund/FlashFold_contracts](https://github.com/Delta-Blockchain-Fund/FlashFold_contracts)
+  > Smart Contracts to create upto 4X leveraged positions on AAVE using Flash Loans.
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
   > Python tool for converting files and office documents to Markdown.
@@ -29,7 +37,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [championswimmer/pi-context-prune](https://github.com/championswimmer/pi-context-prune)
   > Pi coding-agent extension for pruning tool-call trees
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io)
+  > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
+
 
 ---
-*Last updated at 2026-05-31 05:39:57 UTC*
+*Last updated at 2026-05-31 07:30:58 UTC*
 *Historical records are stored in the `archive` directory.*
