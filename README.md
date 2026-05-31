@@ -35,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
   > Model Context Protocol for WinDBG
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
+  > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
 
@@ -47,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox)
   > 🧱 secure, local and programmable sandboxes for AI agents
+
+### [jxy-s](https://github.com/jxy-s)
+- 🍴 👤 [jxy-s](https://github.com/jxy-s) Forked [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) to [jxy-s/odysseus](https://github.com/jxy-s/odysseus)
+  > Self-hosted AI workspace. 
 
 ### [maxsam4](https://github.com/maxsam4)
 - 🌟 👤 [maxsam4](https://github.com/maxsam4) Starred [Delta-Blockchain-Fund/FlashFold_contracts](https://github.com/Delta-Blockchain-Fund/FlashFold_contracts)
@@ -72,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 15:34:48 UTC*
+*Last updated at 2026-05-31 16:33:53 UTC*
 *Historical records are stored in the `archive` directory.*
