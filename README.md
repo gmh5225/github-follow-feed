@@ -4,6 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Tednoob17/toboggan](https://github.com/Tednoob17/toboggan)
+  > Multi-platform real-time presentation system in Rust — CLI, server, TUI, web, and desktop clients
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [CodenamePhantom/AtomicMatrix](https://github.com/CodenamePhantom/AtomicMatrix)
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
   > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
@@ -52,6 +57,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server)
   > TAK Server
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/VR](https://github.com/TAK-Product-Center/VR)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [meshtastic/ATAK-Plugin](https://github.com/meshtastic/ATAK-Plugin)
+  > ATAK Plugin for sending CoT to IMeshService
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
@@ -118,5 +125,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 20:31:56 UTC*
+*Last updated at 2026-05-31 21:27:21 UTC*
 *Historical records are stored in the `archive` directory.*
