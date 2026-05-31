@@ -35,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
   > Model Context Protocol for WinDBG
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla) to [ZehMatt/bitwuzla](https://github.com/ZehMatt/bitwuzla)
+  > Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors...
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
   > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
@@ -55,6 +59,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [jxy-s](https://github.com/jxy-s)
 - 🍴 👤 [jxy-s](https://github.com/jxy-s) Forked [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) to [jxy-s/odysseus](https://github.com/jxy-s/odysseus)
   > Self-hosted AI workspace. 
+
+### [killvxk](https://github.com/killvxk)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [satoki/TyphoonPWN-2026](https://github.com/satoki/TyphoonPWN-2026) to [killvxk/TyphoonPWN-2026](https://github.com/killvxk/TyphoonPWN-2026)
+  > 😢Unpwned😢 TyphoonPWN 2026 Zero-Day Exploit ($10,000)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tenstorrent/ttsim](https://github.com/tenstorrent/ttsim)
+  > A fast full-system simulator of Tenstorrent hardware
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MrCl0wnLab/SimpleReconSubdomain](https://github.com/MrCl0wnLab/SimpleReconSubdomain)
+  > Passive and active subdomain enumeration tool for OSINT and reconnaissance workflows. 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [maverick0o0/E2R](https://github.com/maverick0o0/E2R)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
+  > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [yo-yo-yo-jbo/macho_structure](https://github.com/yo-yo-yo-jbo/macho_structure)
+  > Mach-O file structure
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs)
+  > Download firmware for Samsung devices
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
+  > An easy and powerful Rust HTTP Client
 
 ### [maxsam4](https://github.com/maxsam4)
 - 🌟 👤 [maxsam4](https://github.com/maxsam4) Starred [Delta-Blockchain-Fund/FlashFold_contracts](https://github.com/Delta-Blockchain-Fund/FlashFold_contracts)
@@ -80,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 16:33:53 UTC*
+*Last updated at 2026-05-31 17:29:42 UTC*
 *Historical records are stored in the `archive` directory.*
