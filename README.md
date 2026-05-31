@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
   > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cryphorix/iEmu](https://github.com/cryphorix/iEmu)
+  > Emulating Apple Silicon devices. Custom upstream fork, bringing support for more iOS versions.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [CrackerCat/PseudoForge](https://github.com/CrackerCat/PseudoForge)
   > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
@@ -16,10 +20,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ringtailsoftware/uvm32](https://github.com/ringtailsoftware/uvm32) to [CrackerCat/uvm32](https://github.com/CrackerCat/uvm32)
   > Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrai...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [RsyncProject/rsync](https://github.com/RsyncProject/rsync)
+  > An open source utility that provides fast incremental file transfer. It also has useful features for...
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Harshit-Dhanwalkar/AsciiCam](https://github.com/Harshit-Dhanwalkar/AsciiCam)
+  > Ascii video output from your webcam in your terminal.
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [HackerSec-Projects/agent-benchmarks](https://github.com/HackerSec-Projects/agent-benchmarks)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
   > Model Context Protocol for WinDBG
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [squidowl/halloy](https://github.com/squidowl/halloy)
@@ -47,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 09:12:09 UTC*
+*Last updated at 2026-05-31 10:46:18 UTC*
 *Historical records are stored in the `archive` directory.*
