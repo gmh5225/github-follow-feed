@@ -41,6 +41,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [squidowl/halloy](https://github.com/squidowl/halloy)
   > IRC application written in Rust
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
+  > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox)
@@ -57,6 +59,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [worldfnd/whir](https://github.com/worldfnd/whir)
   > WHIR 🌪️: Reed–Solomon Proximity Testing with Super-Fast Verification
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [kip-dili/kip](https://github.com/kip-dili/kip)
+  > A programming language in Turkish where grammatical case and mood are part of the type system.
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [championswimmer/pi-context-prune](https://github.com/championswimmer/pi-context-prune)
@@ -68,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 13:38:26 UTC*
+*Last updated at 2026-05-31 14:39:36 UTC*
 *Historical records are stored in the `archive` directory.*
