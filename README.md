@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
+  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [CrackerCat/PseudoForge](https://github.com/CrackerCat/PseudoForge)
   > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
@@ -43,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 07:30:58 UTC*
+*Last updated at 2026-05-31 09:12:09 UTC*
 *Historical records are stored in the `archive` directory.*
