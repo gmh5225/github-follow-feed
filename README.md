@@ -42,6 +42,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
   > Self-hosted AI workspace. 
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [snstac/adsbcot](https://github.com/snstac/adsbcot)
+  > Display Aircraft in TAK - ADS-B to TAK Gateway
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [snstac/pytak](https://github.com/snstac/pytak)
+  > PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/atak-civ](https://github.com/TAK-Product-Center/atak-civ)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server)
+  > TAK Server
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
@@ -80,6 +87,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Download firmware for Samsung devices
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
   > An easy and powerful Rust HTTP Client
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [apple-oss-distributions/Security](https://github.com/apple-oss-distributions/Security)
 
 ### [maxsam4](https://github.com/maxsam4)
 - 🌟 👤 [maxsam4](https://github.com/maxsam4) Starred [Delta-Blockchain-Fund/FlashFold_contracts](https://github.com/Delta-Blockchain-Fund/FlashFold_contracts)
@@ -105,5 +113,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 18:34:16 UTC*
+*Last updated at 2026-05-31 19:35:13 UTC*
 *Historical records are stored in the `archive` directory.*
