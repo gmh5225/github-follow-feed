@@ -36,6 +36,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An open source utility that provides fast incremental file transfer. It also has useful features for...
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Harshit-Dhanwalkar/AsciiCam](https://github.com/Harshit-Dhanwalkar/AsciiCam)
   > Ascii video output from your webcam in your terminal.
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [zokrezyl/yetty](https://github.com/zokrezyl/yetty)
+  > Terminal unchained. The New Generation
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [HackerSec-Projects/agent-benchmarks](https://github.com/HackerSec-Projects/agent-benchmarks)
@@ -45,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla) to [ZehMatt/bitwuzla](https://github.com/ZehMatt/bitwuzla)
   > Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors...
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
+  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
@@ -66,6 +72,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
+  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [squidowl/halloy](https://github.com/squidowl/halloy)
@@ -129,5 +137,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-05-31 22:27:53 UTC*
+*Last updated at 2026-05-31 23:30:08 UTC*
 *Historical records are stored in the `archive` directory.*
