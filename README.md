@@ -11,10 +11,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
   > Themida Devirt Results
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [rtic-rs/rtic](https://github.com/rtic-rs/rtic)
+  > Real-Time Interrupt-driven Concurrency (RTIC) framework for ARM Cortex-M microcontrollers
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [e-fin/OpenPsPipeJack](https://github.com/e-fin/OpenPsPipeJack)
+  > Open Source implementation of PsPipeJack
 
 ### [CalebFenton](https://github.com/CalebFenton)
 - 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
   > Themida Devirt Results
+
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [godotengine/android-editor-buildenv-app](https://github.com/godotengine/android-editor-buildenv-app)
+  > An app that provides a build environment for running Gradle from the Godot editor on Android
 
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [googleprojectzero/0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild)
@@ -91,6 +99,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Python 'TinySA' GUI programme using Qt5 and PyQt5
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [NVlabs/Eagle](https://github.com/NVlabs/Eagle)
   > Eagle: Frontier Vision-Language Models with Data-Centric Strategies
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ShotSpotter/research.accuracy-of-gunshot-location](https://github.com/ShotSpotter/research.accuracy-of-gunshot-location)
+  > Public data released as part of "Precision and accuracy of acoustic gunshot location in an urban env...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [gabemagee/gunshot_detection](https://github.com/gabemagee/gunshot_detection)
+  > Building a model that can detect gunshots from audio and that can also be scalably deployed to a Ras...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nzymedefense/nzyme](https://github.com/nzymedefense/nzyme)
+  > CLOSE ACCESS DENIAL.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [snstac/dronecot](https://github.com/snstac/dronecot)
+  > DroneCOT is software for monitoring and analyzing Direct Remote Identification (DRI), Remote ID (RID...
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🍴 👤 [dcbuild3r](https://github.com/dcbuild3r) Forked [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) to [dcbuild3r/centaur](https://github.com/dcbuild3r/centaur)
@@ -109,6 +125,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
   > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [cilium/cilium](https://github.com/cilium/cilium)
+  > eBPF-based Networking, Security, and Observability
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [dasguptaabhranil/kobalt](https://github.com/dasguptaabhranil/kobalt)
@@ -180,6 +200,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [backengineering/theodosius](https://github.com/backengineering/theodosius)
   > Small OBJ/Archive Obfuscation framework
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [lambdaclass/propamm-router-contracts](https://github.com/lambdaclass/propamm-router-contracts)
   > Single-hop router that quotes and executes swaps against a proprietary AMM (FermiSwap, Kipseli, or B...
@@ -194,5 +218,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-01 20:32:27 UTC*
+*Last updated at 2026-06-01 22:08:46 UTC*
 *Historical records are stored in the `archive` directory.*
