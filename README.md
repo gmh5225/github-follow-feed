@@ -38,9 +38,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [nianzhibai/91](https://github.com/nianzhibai/91) to [Mr-xn/91](https://github.com/Mr-xn/91)
+  > nine one
+
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [immich-app/immich](https://github.com/immich-app/immich)
   > High performance self-hosted photo and video management solution.
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [imputnet/helium-prism](https://github.com/imputnet/helium-prism)
+  > Shared UI components of Helium web interfaces for Svelte
 
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
@@ -81,6 +87,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
+  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [0xBloctopus/arbitrum-reth](https://github.com/0xBloctopus/arbitrum-reth)
+  > A modular, Rust-native execution client for Arbitrum, built on reth
+
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [V380-Ori/Astris.Binaries](https://github.com/V380-Ori/Astris.Binaries)
+  > Distribution binaries of Astris - a Nintendo Switch 1 emulator based on Ryujinx for Apple silicon Ma...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [e-fin/OpenPsPipeJack](https://github.com/e-fin/OpenPsPipeJack)
@@ -111,8 +127,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
+  > Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
 
 
 ---
-*Last updated at 2026-06-01 12:58:36 UTC*
+*Last updated at 2026-06-01 15:16:41 UTC*
 *Historical records are stored in the `archive` directory.*
