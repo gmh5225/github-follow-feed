@@ -1,141 +1,42 @@
-# Daily GitHub Activity (2026-05-31)
+# Daily GitHub Activity (2026-06-01)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Ben-Lichtman](https://github.com/Ben-Lichtman)
-- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Tednoob17/toboggan](https://github.com/Tednoob17/toboggan)
-  > Multi-platform real-time presentation system in Rust — CLI, server, TUI, web, and desktop clients
-- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [CodenamePhantom/AtomicMatrix](https://github.com/CodenamePhantom/AtomicMatrix)
-
-### [Cr4sh](https://github.com/Cr4sh)
-- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
-  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
-
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cryphorix/iEmu](https://github.com/cryphorix/iEmu)
-  > Emulating Apple Silicon devices. Custom upstream fork, bringing support for more iOS versions.
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [DeLuks2006/patimat](https://github.com/DeLuks2006/patimat)
-  > Simple, header-only, pattern matching and patching class + tool written in modern C++.
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [CrackerCat/PseudoForge](https://github.com/CrackerCat/PseudoForge)
-  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaojianbang8888/xiaojianbang-stealth-hook](https://github.com/xiaojianbang8888/xiaojianbang-stealth-hook) to [CrackerCat/xiaojianbang-stealth-hook](https://github.com/CrackerCat/xiaojianbang-stealth-hook)
-  > Android kernel stealth hook。安卓内核无痕hook，目前已知的所有用户态检测都无效。
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ringtailsoftware/uvm32](https://github.com/ringtailsoftware/uvm32) to [CrackerCat/uvm32](https://github.com/CrackerCat/uvm32)
-  > Minimalist, dependency-free virtual machine sandbox for microcontrollers and other resource-constrai...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elyelysiox/recaptcha-vm](https://github.com/elyelysiox/recaptcha-vm) to [CrackerCat/recaptcha-vm](https://github.com/CrackerCat/recaptcha-vm)
-  > Reverse Engineered reCAPTCHA VM
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elyelysiox/recaptcha](https://github.com/elyelysiox/recaptcha) to [CrackerCat/elyelysiox-recaptcha](https://github.com/CrackerCat/elyelysiox-recaptcha)
-  > Documentation and reverse engineering of reCAPTCHA
-
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [RsyncProject/rsync](https://github.com/RsyncProject/rsync)
-  > An open source utility that provides fast incremental file transfer. It also has useful features for...
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Harshit-Dhanwalkar/AsciiCam](https://github.com/Harshit-Dhanwalkar/AsciiCam)
-  > Ascii video output from your webcam in your terminal.
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [zokrezyl/yetty](https://github.com/zokrezyl/yetty)
-  > Terminal unchained. The New Generation
-
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [HackerSec-Projects/agent-benchmarks](https://github.com/HackerSec-Projects/agent-benchmarks)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [svnscha/mcp-windbg](https://github.com/svnscha/mcp-windbg)
-  > Model Context Protocol for WinDBG
-
-### [ZehMatt](https://github.com/ZehMatt)
-- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla) to [ZehMatt/bitwuzla](https://github.com/ZehMatt/bitwuzla)
-  > Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors...
-
-### [archercreat](https://github.com/archercreat)
-- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
-  > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/dexbgd](https://github.com/arkup/dexbgd) to [CrackerCat/dexbgd](https://github.com/CrackerCat/dexbgd)
+  > A native Android DEX debugger with bytecode-level stepping, live variable inspection, and runtime ma...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt) to [CrackerCat/themida-devirt](https://github.com/CrackerCat/themida-devirt)
+  > Themida Devirt Results
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/tc_deer](https://github.com/arkup/tc_deer) to [CrackerCat/tc_deer](https://github.com/CrackerCat/tc_deer)
+  > TriCore decompiler plugin for IDA Pro 9.2+
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/bgd](https://github.com/arkup/bgd) to [CrackerCat/bgd](https://github.com/CrackerCat/bgd)
+  > Windows x64 debugger that captures a live process and replays it offline in an emulator
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
-  > Self-hosted AI workspace. 
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [snstac/adsbcot](https://github.com/snstac/adsbcot)
-  > Display Aircraft in TAK - ADS-B to TAK Gateway
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [snstac/pytak](https://github.com/snstac/pytak)
-  > PyTAK is a Python package for rapid Team Awareness Kit (TAK) integration.
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/atak-civ](https://github.com/TAK-Product-Center/atak-civ)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/Server](https://github.com/TAK-Product-Center/Server)
-  > TAK Server
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TAK-Product-Center/VR](https://github.com/TAK-Product-Center/VR)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [meshtastic/ATAK-Plugin](https://github.com/meshtastic/ATAK-Plugin)
-  > ATAK Plugin for sending CoT to IMeshService
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
+  > Python APNs and iMessage client
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [SideStore/apple-private-apis](https://github.com/SideStore/apple-private-apis)
+  > A set of Rust libraries to interact with apple's private APIs and servers.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [SideStore/omnisette-server](https://github.com/SideStore/omnisette-server)
+  > An HTTP server wrapper for omnisette. Supports both V1 (Provision) and V3 of anisette servers.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Dadoum/anisette-v3-server](https://github.com/Dadoum/anisette-v3-server)
+  > sidestore's anisette-v3 compatible server
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag)
+  > firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nrfconnect/sdk-sidewalk](https://github.com/nrfconnect/sdk-sidewalk)
+  > Implementation of Amazon Sidewalk
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [stm32-hotspot/STM32-Sidewalk-SDK](https://github.com/stm32-hotspot/STM32-Sidewalk-SDK)
+  > The STM32-Sidewalk-SDK package is an integration of the Sidewalk SDK provided by Amazon, specificall...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TexasInstruments/ti-amazon-sidewalk-sample-iot-app](https://github.com/TexasInstruments/ti-amazon-sidewalk-sample-iot-app)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app](https://github.com/aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app)
 
-### [dcbuild3r](https://github.com/dcbuild3r)
-- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)
-  > Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
-  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
-
-### [hugsy](https://github.com/hugsy)
-- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [squidowl/halloy](https://github.com/squidowl/halloy)
-  > IRC application written in Rust
-- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
-  > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-### [jhscheer](https://github.com/jhscheer)
-- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox)
-  > 🧱 secure, local and programmable sandboxes for AI agents
-
-### [jxy-s](https://github.com/jxy-s)
-- 🍴 👤 [jxy-s](https://github.com/jxy-s) Forked [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) to [jxy-s/odysseus](https://github.com/jxy-s/odysseus)
-  > Self-hosted AI workspace. 
-
-### [killvxk](https://github.com/killvxk)
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [satoki/TyphoonPWN-2026](https://github.com/satoki/TyphoonPWN-2026) to [killvxk/TyphoonPWN-2026](https://github.com/killvxk/TyphoonPWN-2026)
-  > 😢Unpwned😢 TyphoonPWN 2026 Zero-Day Exploit ($10,000)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tenstorrent/ttsim](https://github.com/tenstorrent/ttsim)
-  > A fast full-system simulator of Tenstorrent hardware
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MrCl0wnLab/SimpleReconSubdomain](https://github.com/MrCl0wnLab/SimpleReconSubdomain)
-  > Passive and active subdomain enumeration tool for OSINT and reconnaissance workflows. 
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [maverick0o0/E2R](https://github.com/maverick0o0/E2R)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iss4cf0ng/OpenPetya](https://github.com/iss4cf0ng/OpenPetya)
-  > A Proof-of-Concept bootkit inspired by Petya ransomware, written in Assembly, C, and C++
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [yo-yo-yo-jbo/macho_structure](https://github.com/yo-yo-yo-jbo/macho_structure)
-  > Mach-O file structure
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs)
-  > Download firmware for Samsung devices
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest)
-  > An easy and powerful Rust HTTP Client
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [apple-oss-distributions/Security](https://github.com/apple-oss-distributions/Security)
-
-### [maxsam4](https://github.com/maxsam4)
-- 🌟 👤 [maxsam4](https://github.com/maxsam4) Starred [Delta-Blockchain-Fund/FlashFold_contracts](https://github.com/Delta-Blockchain-Fund/FlashFold_contracts)
-  > Smart Contracts to create upto 4X leveraged positions on AAVE using Flash Loans.
-
-### [petercunha](https://github.com/petercunha)
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ihor-sokoliuk/mcp-searxng](https://github.com/ihor-sokoliuk/mcp-searxng)
-  > MCP Server for SearXNG
-
-### [shogunlab](https://github.com/shogunlab)
-- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
-  > Python tool for converting files and office documents to Markdown.
-
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [worldfnd/whir](https://github.com/worldfnd/whir)
-  > WHIR 🌪️: Reed–Solomon Proximity Testing with Super-Fast Verification
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [kip-dili/kip](https://github.com/kip-dili/kip)
-  > A programming language in Turkish where grammatical case and mood are part of the type system.
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [championswimmer/pi-context-prune](https://github.com/championswimmer/pi-context-prune)
-  > Pi coding-agent extension for pruning tool-call trees
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [19h/ida-codedump](https://github.com/19h/ida-codedump)
-  > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
-
-### [wonderzdh](https://github.com/wonderzdh)
-- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io)
-  > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
+  > Public repository of 2026 crackmes.one CTF RE challenge
 
 
 ---
-*Last updated at 2026-05-31 23:30:08 UTC*
+*Last updated at 2026-06-01 01:19:32 UTC*
 *Historical records are stored in the `archive` directory.*
