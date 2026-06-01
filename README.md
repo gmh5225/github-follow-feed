@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
+  > Themida Devirt Results
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/dexbgd](https://github.com/arkup/dexbgd) to [CrackerCat/dexbgd](https://github.com/CrackerCat/dexbgd)
   > A native Android DEX debugger with bytecode-level stepping, live variable inspection, and runtime ma...
@@ -17,6 +21,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Simple, header-only, pattern matching and patching class + tool written in modern C++.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP) to [CrackerCat/MogVMP](https://github.com/CrackerCat/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [r8e8cd8/jni-forward-unidbg](https://github.com/r8e8cd8/jni-forward-unidbg) to [CrackerCat/jni-forward-unidbg](https://github.com/CrackerCat/jni-forward-unidbg)
+  > Unidbg with real device JNI forwarding agent
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
+  > Public repository of 2026 crackmes.one CTF RE challenge
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
@@ -35,6 +45,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The STM32-Sidewalk-SDK package is an integration of the Sidewalk SDK provided by Amazon, specificall...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TexasInstruments/ti-amazon-sidewalk-sample-iot-app](https://github.com/TexasInstruments/ti-amazon-sidewalk-sample-iot-app)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app](https://github.com/aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pssah4/vault-operator](https://github.com/pssah4/vault-operator)
+  > Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & kno...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [e-fin/OpenPsPipeJack](https://github.com/e-fin/OpenPsPipeJack)
+  > Open Source implementation of PsPipeJack
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
@@ -48,7 +64,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [backengineering/theodosius](https://github.com/backengineering/theodosius)
   > Small OBJ/Archive Obfuscation framework
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
+  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+
 
 ---
-*Last updated at 2026-06-01 05:48:28 UTC*
+*Last updated at 2026-06-01 08:06:49 UTC*
 *Historical records are stored in the `archive` directory.*
