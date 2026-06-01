@@ -89,10 +89,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & kno...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [g4ixt/QtTinySA](https://github.com/g4ixt/QtTinySA)
   > A Python 'TinySA' GUI programme using Qt5 and PyQt5
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [NVlabs/Eagle](https://github.com/NVlabs/Eagle)
+  > Eagle: Frontier Vision-Language Models with Data-Centric Strategies
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🍴 👤 [dcbuild3r](https://github.com/dcbuild3r) Forked [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) to [dcbuild3r/centaur](https://github.com/dcbuild3r/centaur)
   > Multiplayer, self-hosted, secure agents.
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [willchen96/mike](https://github.com/willchen96/mike)
+  > OSS AI Legal Platform
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [defi-wonderland/cabure-wizard](https://github.com/defi-wonderland/cabure-wizard)
+  > Caburé is an open-source NPM package that scaffolds a deploy-ready Groth16 Phase 2 trusted setup cer...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
@@ -113,6 +119,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A modular, Rust-native execution client for Arbitrum, built on reth
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/tip.bot](https://github.com/tempoxyz/tip.bot)
   > Chat-native stablecoin micropayments
+
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [neovim/neovim](https://github.com/neovim/neovim)
+  > Vim-fork focused on extensibility and usability
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [stanford-cs336/lectures](https://github.com/stanford-cs336/lectures)
@@ -184,5 +194,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-01 18:11:00 UTC*
+*Last updated at 2026-06-01 20:32:27 UTC*
 *Historical records are stored in the `archive` directory.*
