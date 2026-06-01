@@ -38,6 +38,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [immich-app/immich](https://github.com/immich-app/immich)
+  > High performance self-hosted photo and video management solution.
+
+### [WhiteNightShadow](https://github.com/WhiteNightShadow)
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+  > Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during ses...
+
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
@@ -82,6 +90,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)
+  > Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
   > Public repository of 2026 crackmes.one CTF RE challenge
@@ -102,5 +114,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-01 10:54:11 UTC*
+*Last updated at 2026-06-01 12:58:36 UTC*
 *Historical records are stored in the `archive` directory.*
