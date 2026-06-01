@@ -36,11 +36,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TexasInstruments/ti-amazon-sidewalk-sample-iot-app](https://github.com/TexasInstruments/ti-amazon-sidewalk-sample-iot-app)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app](https://github.com/aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
+  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/ctf-2026-challenges-public](https://github.com/crackmesone/ctf-2026-challenges-public)
   > Public repository of 2026 crackmes.one CTF RE challenge
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [backengineering/theodosius](https://github.com/backengineering/theodosius)
+  > Small OBJ/Archive Obfuscation framework
+
 
 ---
-*Last updated at 2026-06-01 03:23:02 UTC*
+*Last updated at 2026-06-01 05:48:28 UTC*
 *Historical records are stored in the `archive` directory.*
