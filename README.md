@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > TriCore decompiler plugin for IDA Pro 9.2+
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/bgd](https://github.com/arkup/bgd) to [CrackerCat/bgd](https://github.com/CrackerCat/bgd)
   > Windows x64 debugger that captures a live process and replays it offline in an emulator
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DeLuks2006/patimat](https://github.com/DeLuks2006/patimat) to [CrackerCat/patimat](https://github.com/CrackerCat/patimat)
+  > Simple, header-only, pattern matching and patching class + tool written in modern C++.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP) to [CrackerCat/MogVMP](https://github.com/CrackerCat/MogVMP)
+  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JJTech0130/pypush](https://github.com/JJTech0130/pypush)
@@ -38,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-01 01:19:32 UTC*
+*Last updated at 2026-06-01 03:23:02 UTC*
 *Historical records are stored in the `archive` directory.*
