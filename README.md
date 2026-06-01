@@ -16,6 +16,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [backengineering/themida-devirt](https://github.com/backengineering/themida-devirt)
   > Themida Devirt Results
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [googleprojectzero/0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild)
+  > Repository for information about 0-days exploited in-the-wild.
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [eversinc33/Karyo](https://github.com/eversinc33/Karyo)
+  > [100% AI Generated Code] Lightweight LLVM Symbolic Execution Engine
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [googleprojectzero/0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild)
+  > Repository for information about 0-days exploited in-the-wild.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/dexbgd](https://github.com/arkup/dexbgd) to [CrackerCat/dexbgd](https://github.com/CrackerCat/dexbgd)
   > A native Android DEX debugger with bytecode-level stepping, live variable inspection, and runtime ma...
@@ -37,6 +47,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Public repository of 2026 crackmes.one CTF RE challenge
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [raffaele-90/openaquaero](https://github.com/raffaele-90/openaquaero)
+  > A native, lightweight, and open-source thermal control panel for Linux, designed for the Aquacompute...
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [nianzhibai/91](https://github.com/nianzhibai/91) to [Mr-xn/91](https://github.com/Mr-xn/91)
@@ -75,6 +87,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app](https://github.com/aws-samples/aws-iot-core-for-amazon-sidewalk-sample-app)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pssah4/vault-operator](https://github.com/pssah4/vault-operator)
   > Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & kno...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [g4ixt/QtTinySA](https://github.com/g4ixt/QtTinySA)
+  > A Python 'TinySA' GUI programme using Qt5 and PyQt5
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🍴 👤 [dcbuild3r](https://github.com/dcbuild3r) Forked [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) to [dcbuild3r/centaur](https://github.com/dcbuild3r/centaur)
@@ -90,9 +104,43 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [90th/llvm-obfus](https://github.com/90th/llvm-obfus)
   > out-of-tree LLVM 21+ pass plugin for policy-driven IR obfuscation.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [dasguptaabhranil/kobalt](https://github.com/dasguptaabhranil/kobalt)
+  > Kobalt kernel source code, a x86_64 kernel written in C and ASM. Features driver security, EEVDF sch...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [0xBloctopus/arbitrum-reth](https://github.com/0xBloctopus/arbitrum-reth)
   > A modular, Rust-native execution client for Arbitrum, built on reth
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/tip.bot](https://github.com/tempoxyz/tip.bot)
+  > Chat-native stablecoin micropayments
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [stanford-cs336/lectures](https://github.com/stanford-cs336/lectures)
+
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
+  > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [vijja-w/lsgo](https://github.com/vijja-w/lsgo)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tjnull/cygor](https://github.com/tjnull/cygor)
+  > An modular asset discovery framework written in python to automate the repeating manual work
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kernelstub/Retract](https://github.com/kernelstub/Retract)
+  > Static binary analysis and reverse engineering workbench in browser
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Nefrols/NTS_MCP_FS](https://github.com/Nefrols/NTS_MCP_FS)
+  > Transactional File System server for Model Context Protocol (MCP). Enterprise-grade tools for AI age...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rjkaes/trueline-mcp](https://github.com/rjkaes/trueline-mcp)
+  > Smarter reads, safer edits. An MCP plugin that cuts token usage and catches editing mistakes before ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [AdamLaurie/raiden-pico](https://github.com/AdamLaurie/raiden-pico)
+  > Raiden for the pico2 written by claude code
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kwai/DouZero](https://github.com/kwai/DouZero)
+  > [ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0avx/augur](https://github.com/0avx/augur)
+  > Riot Vanguard streamed module to PE converter. Resolves hashed imports, reconstructs sections, and w...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [gerhart01/Hyper-V-Tools](https://github.com/gerhart01/Hyper-V-Tools)
+  > Different tools for Microsoft Hyper-V researching 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge)
+  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
 
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [V380-Ori/Astris.Binaries](https://github.com/V380-Ori/Astris.Binaries)
@@ -105,6 +153,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [eversinc33/Karyo](https://github.com/eversinc33/Karyo)
+  > [100% AI Generated Code] Lightweight LLVM Symbolic Execution Engine
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)
@@ -123,6 +173,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [lambdaclass/propamm-router-contracts](https://github.com/lambdaclass/propamm-router-contracts)
   > Single-hop router that quotes and executes swaps against a proprietary AMM (FermiSwap, Kipseli, or B...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [ethereum/evmdasm](https://github.com/ethereum/evmdasm)
+  > A lightweight ethereum evm bytecode instruction registry, disassembler and evmcode manipulation libr...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
@@ -132,5 +184,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-01 15:16:41 UTC*
+*Last updated at 2026-06-01 18:11:00 UTC*
 *Historical records are stored in the `archive` directory.*
