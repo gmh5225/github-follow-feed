@@ -71,12 +71,30 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Enterprise-ready zero-trust access platform built on WireGuard®.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lukeswitz/AntiHunter](https://github.com/lukeswitz/AntiHunter)
   > AntiHunter Perimeter Defense Systems - DIGI Node Firmware
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cedar-policy/cedar](https://github.com/cedar-policy/cedar)
+  > Implementation of the Cedar Policy Language
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [authzed/spicedb](https://github.com/authzed/spicedb)
+  > Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained author...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [openfga/openfga](https://github.com/openfga/openfga)
+  > A high performance and flexible authorization/permission engine built for developers and inspired by...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [myTeckNet/installTAK](https://github.com/myTeckNet/installTAK)
+  > Universal TAK Server Installation Script
 
 ### [char](https://github.com/char)
 - 🍴 👤 [char](https://github.com/char) Forked [tailscale/tailscale](https://github.com/tailscale/tailscale) to [char/tailscale](https://github.com/char/tailscale)
   > The easiest, most secure way to use WireGuard and 2FA.
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
+  > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+  > The design language that makes your AI harness better at design.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/Karyo](https://github.com/eversinc33/Karyo)
+  > [100% AI Generated Code] Lightweight LLVM Symbolic Execution Engine
+
 
 ---
-*Last updated at 2026-06-02 05:44:32 UTC*
+*Last updated at 2026-06-02 07:54:22 UTC*
 *Historical records are stored in the `archive` directory.*
