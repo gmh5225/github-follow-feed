@@ -93,6 +93,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > a secure dotenv–from the creator of `dotenv`
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
   > Staggeringly powerful macOS desktop automation with Lua
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [octetproof/octet-sdk-ios](https://github.com/octetproof/octet-sdk-ios)
+  > iOS SDK for Octet
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [christosk92/WaveeMusic](https://github.com/christosk92/WaveeMusic)
@@ -118,6 +120,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [playcanvas/engine](https://github.com/playcanvas/engine)
   > Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
+  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
+
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Pondot/liquidDX11](https://github.com/Pondot/liquidDX11)
   > Native Windows glass overlay for Dear ImGui: real-time DXGI desktop capture, Direct3D 11/HLSL refrac...
@@ -140,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-02 19:27:12 UTC*
+*Last updated at 2026-06-02 21:14:00 UTC*
 *Historical records are stored in the `archive` directory.*
