@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ABI-ZTROS/AuroraSU](https://github.com/ABI-ZTROS/AuroraSU) to [CrackerCat/AuroraSU](https://github.com/CrackerCat/AuroraSU)
   > AuroraSU - Advanced Universal Root Overlay for Android
 
+### [ayoubfaouzi](https://github.com/ayoubfaouzi)
+- 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [bakkeby/dmenu-flexipatch](https://github.com/bakkeby/dmenu-flexipatch) to [ayoubfaouzi/dmenu](https://github.com/ayoubfaouzi/dmenu)
+  > A dmenu build with preprocessor directives to decide which patches to include during build time
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [browser-use/bux](https://github.com/browser-use/bux)
   > Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use C...
@@ -130,7 +134,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Forked [lambdaclass/concrete](https://github.com/lambdaclass/concrete) to [unbalancedparentheses/concrete](https://github.com/unbalancedparentheses/concrete)
   > Concrete is a simple programming language specifically crafted for creating highly scalable systems ...
 
+### [zer0condition](https://github.com/zer0condition)
+- 🌟 👤 [zer0condition](https://github.com/zer0condition) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
+  > Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips t...
+
 
 ---
-*Last updated at 2026-06-02 17:42:10 UTC*
+*Last updated at 2026-06-02 19:27:12 UTC*
 *Historical records are stored in the `archive` directory.*
