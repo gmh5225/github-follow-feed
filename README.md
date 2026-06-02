@@ -84,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [char](https://github.com/char) Forked [tailscale/tailscale](https://github.com/tailscale/tailscale) to [char/tailscale](https://github.com/char/tailscale)
   > The easiest, most secure way to use WireGuard and 2FA.
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
+  > a secure dotenv–from the creator of `dotenv`
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
   > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -94,7 +98,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [eversinc33/Karyo](https://github.com/eversinc33/Karyo)
   > [100% AI Generated Code] Lightweight LLVM Symbolic Execution Engine
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [polyformproject/polyform-licenses](https://github.com/polyformproject/polyform-licenses)
+  > source text for Polyform Project licenses
+
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [weston-embedded/uC-OS2](https://github.com/weston-embedded/uC-OS2)
+  > µC/OS-II is a preemptive, highly portable, and scalable real-time kernels. Designed for ease of use ...
+
 
 ---
-*Last updated at 2026-06-02 09:39:51 UTC*
+*Last updated at 2026-06-02 11:38:17 UTC*
 *Historical records are stored in the `archive` directory.*
