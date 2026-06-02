@@ -95,6 +95,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Staggeringly powerful macOS desktop automation with Lua
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [octetproof/octet-sdk-ios](https://github.com/octetproof/octet-sdk-ios)
   > iOS SDK for Octet
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [TheDan64/inkwell](https://github.com/TheDan64/inkwell)
+  > It's a New Kind of Wrapper for Exposing LLVM (Safely)
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [christosk92/WaveeMusic](https://github.com/christosk92/WaveeMusic)
@@ -119,6 +121,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [playcanvas/engine](https://github.com/playcanvas/engine)
   > Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp)
+  > MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running ...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai)
+  > Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and f...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
@@ -146,5 +152,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-02 21:14:00 UTC*
+*Last updated at 2026-06-02 22:48:07 UTC*
 *Historical records are stored in the `archive` directory.*
