@@ -105,12 +105,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [polyformproject/polyform-licenses](https://github.com/polyformproject/polyform-licenses)
   > source text for Polyform Project licenses
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [kore-signet/bunnyds](https://github.com/kore-signet/bunnyds)
+  > an async executor for the 3ds
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Pondot/liquidDX11](https://github.com/Pondot/liquidDX11)
+  > Native Windows glass overlay for Dear ImGui: real-time DXGI desktop capture, Direct3D 11/HLSL refrac...
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [weston-embedded/uC-OS2](https://github.com/weston-embedded/uC-OS2)
   > µC/OS-II is a preemptive, highly portable, and scalable real-time kernels. Designed for ease of use ...
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🍴 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Forked [lambdaclass/concrete](https://github.com/lambdaclass/concrete) to [unbalancedparentheses/concrete](https://github.com/unbalancedparentheses/concrete)
+  > Concrete is a simple programming language specifically crafted for creating highly scalable systems ...
+
 
 ---
-*Last updated at 2026-06-02 13:33:44 UTC*
+*Last updated at 2026-06-02 15:34:21 UTC*
 *Historical records are stored in the `archive` directory.*
