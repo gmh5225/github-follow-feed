@@ -33,6 +33,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > [100% AI Generated Code] Lightweight LLVM Symbolic Execution Engine
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [googleprojectzero/0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild)
   > Repository for information about 0-days exploited in-the-wild.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [portbuster1337/lpe-toolkit](https://github.com/portbuster1337/lpe-toolkit)
+  > Multi-architecture Linux privilege escalation toolkit with 19 pre-built and runtime-compilable explo...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arkup/dexbgd](https://github.com/arkup/dexbgd) to [CrackerCat/dexbgd](https://github.com/CrackerCat/dexbgd)
@@ -215,8 +217,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Static devirtualizer for VMProtect 3.5. Lifts virtualized code to LLVM using Remill and strips the V...
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris)
   > Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [zakirkun/deep-eye](https://github.com/zakirkun/deep-eye)
+  > Deep Eye orchestrates multiple AI providers (OpenAI, Claude, Grok, Gemini, OLLAMA, Groq, Mistral, Op...
 
 
 ---
-*Last updated at 2026-06-01 22:08:46 UTC*
+*Last updated at 2026-06-01 23:36:41 UTC*
 *Historical records are stored in the `archive` directory.*
