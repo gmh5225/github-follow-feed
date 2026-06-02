@@ -88,6 +88,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
   > a secure dotenv–from the creator of `dotenv`
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [christosk92/WaveeMusic](https://github.com/christosk92/WaveeMusic)
+  > A high-performance Spotify client for Windows, built with .NET 10 and WinUI 3.
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
   > The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
@@ -108,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-02 11:38:17 UTC*
+*Last updated at 2026-06-02 13:33:44 UTC*
 *Historical records are stored in the `archive` directory.*
