@@ -4,6 +4,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MapleSwan/enum_real_dirbase](https://github.com/MapleSwan/enum_real_dirbase) to [CrackerCat/enum_real_dirbase](https://github.com/CrackerCat/enum_real_dirbase)
+  > 从MmPfnData中枚举进程和页目录基址
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [stuxnet147/Themida-Research](https://github.com/stuxnet147/Themida-Research) to [CrackerCat/Themida-Research](https://github.com/CrackerCat/Themida-Research)
+  > Themida 3.x research
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) to [CrackerCat/sub2api](https://github.com/CrackerCat/sub2api)
+  > Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ABI-ZTROS/phantom-lkm](https://github.com/ABI-ZTROS/phantom-lkm) to [CrackerCat/phantom-lkm](https://github.com/CrackerCat/phantom-lkm)
+  > Phantom LKM - 教学研究用内核模块：链表动态摘除与sysfs节点注销机制研究 (OnePlus ACE5 SM8650, Android 14 GKI 6.1)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ABI-ZTROS/AB-Unlocker](https://github.com/ABI-ZTROS/AB-Unlocker) to [CrackerCat/AB-Unlocker](https://github.com/CrackerCat/AB-Unlocker)
+  > A/B分区幽灵锁解锁器 - 专为ColorOS/OnePlus/Realme设备解决OTA更新后分区锁死问题
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ABI-ZTROS/AuroraSU](https://github.com/ABI-ZTROS/AuroraSU) to [CrackerCat/AuroraSU](https://github.com/CrackerCat/AuroraSU)
+  > AuroraSU - Advanced Universal Root Overlay for Android
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [browser-use/bux](https://github.com/browser-use/bux)
   > Browser Use Box: a 24/7 Claude Code agent for Playwright-style browser automation with Browser Use C...
@@ -29,6 +43,34 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A command line tool (and Python library) for archiving Twitter JSON
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [xdevplatform/xurl](https://github.com/xdevplatform/xurl)
   > The official CLI for the X API
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iced-rs/iced](https://github.com/iced-rs/iced)
+  > A cross-platform GUI library for Rust, inspired by Elm
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [trunk-rs/trunk](https://github.com/trunk-rs/trunk)
+  > Build, bundle & ship your Rust WASM application to the web.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [unionlabs/union](https://github.com/unionlabs/union)
+  > The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)
+  > Fullstack app framework for web, desktop, and mobile.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [yewstack/yew](https://github.com/yewstack/yew)
+  > Rust / Wasm framework for creating reliable and efficient web applications
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rwf2/Rocket](https://github.com/rwf2/Rocket)
+  > A web framework for Rust.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [servo/servo](https://github.com/servo/servo)
+  > Servo aims to empower developers with a lightweight, high-performance alternative for embedding web ...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS)
+  > Blender addons to make the bridge between Blender and geographic data
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nats-io/nats.rs](https://github.com/nats-io/nats.rs)
+  > Rust client for NATS, the cloud native messaging system.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nats-io/nkeys](https://github.com/nats-io/nkeys)
+  > NATS Keys
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [wasmCloud/nkeys](https://github.com/wasmCloud/nkeys)
+  > Rust implementation of the NATS nkeys library
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+  > The Mullvad VPN client app for desktop and mobile
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [firezone/firezone](https://github.com/firezone/firezone)
+  > Enterprise-ready zero-trust access platform built on WireGuard®.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lukeswitz/AntiHunter](https://github.com/lukeswitz/AntiHunter)
+  > AntiHunter Perimeter Defense Systems - DIGI Node Firmware
 
 ### [char](https://github.com/char)
 - 🍴 👤 [char](https://github.com/char) Forked [tailscale/tailscale](https://github.com/tailscale/tailscale) to [char/tailscale](https://github.com/char/tailscale)
@@ -36,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-02 03:23:04 UTC*
+*Last updated at 2026-06-02 05:44:32 UTC*
 *Historical records are stored in the `archive` directory.*
