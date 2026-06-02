@@ -87,6 +87,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx)
   > a secure dotenv–from the creator of `dotenv`
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon)
+  > Staggeringly powerful macOS desktop automation with Lua
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [christosk92/WaveeMusic](https://github.com/christosk92/WaveeMusic)
@@ -108,9 +110,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [kore-signet/bunnyds](https://github.com/kore-signet/bunnyds)
   > an async executor for the 3ds
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [playcanvas/engine](https://github.com/playcanvas/engine)
+  > Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Pondot/liquidDX11](https://github.com/Pondot/liquidDX11)
   > Native Windows glass overlay for Dear ImGui: real-time DXGI desktop capture, Direct3D 11/HLSL refrac...
+
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)
+  > A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts...
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [weston-embedded/uC-OS2](https://github.com/weston-embedded/uC-OS2)
@@ -122,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-02 15:34:21 UTC*
+*Last updated at 2026-06-02 17:42:10 UTC*
 *Historical records are stored in the `archive` directory.*
