@@ -142,6 +142,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [weston-embedded/uC-OS2](https://github.com/weston-embedded/uC-OS2)
   > µC/OS-II is a preemptive, highly portable, and scalable real-time kernels. Designed for ease of use ...
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [github/accessibility-scanner](https://github.com/github/accessibility-scanner)
+  > Finds potential accessibility gaps, files GitHub issues to track them, and attempts to fix them with...
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🍴 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Forked [lambdaclass/concrete](https://github.com/lambdaclass/concrete) to [unbalancedparentheses/concrete](https://github.com/unbalancedparentheses/concrete)
   > Concrete is a simple programming language specifically crafted for creating highly scalable systems ...
@@ -152,5 +156,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-02 22:48:07 UTC*
+*Last updated at 2026-06-02 23:40:42 UTC*
 *Historical records are stored in the `archive` directory.*
