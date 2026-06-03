@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [DamianB-BitFlipper/dehub](https://github.com/DamianB-BitFlipper/dehub)
+  > A TUI to de-GitHub yourself. Control PRs, Actions, Issues, Notifications.
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [landlock-lsm/rust-landlock](https://github.com/landlock-lsm/rust-landlock)
   > A Rust library for the Linux Landlock sandboxing feature
@@ -100,6 +104,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [califio/publications](https://github.com/califio/publications)
   > Publications from Calif
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ryanbr/TwitchAdSolutions](https://github.com/ryanbr/TwitchAdSolutions)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [hi-godot/godot-ai](https://github.com/hi-godot/godot-ai) to [mq1n/godot-ai](https://github.com/mq1n/godot-ai)
+  > Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and f...
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [tracel-ai/cubek](https://github.com/tracel-ai/cubek)
@@ -117,5 +123,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-03 19:31:52 UTC*
+*Last updated at 2026-06-03 21:13:56 UTC*
 *Historical records are stored in the `archive` directory.*
