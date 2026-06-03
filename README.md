@@ -67,6 +67,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Android SDK for Octet
 - 🍴 👤 [dcbuild3r](https://github.com/dcbuild3r) Forked [reilabs/mavros](https://github.com/reilabs/mavros) to [dcbuild3r/mavros](https://github.com/dcbuild3r/mavros)
   > Compiling Noir to R1CS with witness generation and automatic differentiation binaries
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [gnosisguild/enclave](https://github.com/gnosisguild/enclave)
+  > An open-source protocol and distributed network for confidential coordination.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [microsoft/coreutils](https://github.com/microsoft/coreutils)
@@ -115,5 +117,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-03 17:49:54 UTC*
+*Last updated at 2026-06-03 19:31:52 UTC*
 *Historical records are stored in the `archive` directory.*
