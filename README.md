@@ -8,6 +8,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [DamianB-BitFlipper/dehub](https://github.com/DamianB-BitFlipper/dehub)
   > A TUI to de-GitHub yourself. Control PRs, Actions, Issues, Notifications.
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [LLVMParty/RemillWorkshop](https://github.com/LLVMParty/RemillWorkshop)
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [landlock-lsm/rust-landlock](https://github.com/landlock-lsm/rust-landlock)
   > A Rust library for the Linux Landlock sandboxing feature
@@ -33,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Load and execute Linux ELF binaries
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jakobfriedl/logon-monitor-bof](https://github.com/jakobfriedl/logon-monitor-bof)
   > Async BOF that notifies the operator when a user connects to a local or remote target system.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [nano-rs/nano](https://github.com/nano-rs/nano)
+  > Lightweight open-core SIEM in Rust — ClickHouse for logs, Postgres for state.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [btbd/modmap](https://github.com/btbd/modmap)
+  > Module extending manual mapper
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [clarkluoluo/clark-utov](https://github.com/clarkluoluo/clark-utov) to [CrackerCat/clark-utov](https://github.com/CrackerCat/clark-utov)
@@ -94,10 +101,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [memN0ps](https://github.com/memN0ps) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
   > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [adam-040/Enigma](https://github.com/adam-040/Enigma)
-  > C++ reimplementation of Ghidra's analytical core (SoftwareModeling + Utility), stripped of Java/JVM ...
-
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
   > Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social f...
@@ -121,7 +124,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [josdejong/jsonrepair](https://github.com/josdejong/jsonrepair)
   > Repair invalid JSON documents
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [andsopwn/ida-fusion-mcp](https://github.com/andsopwn/ida-fusion-mcp)
+  > Multi-instance IDA Pro MCP with extended analysis and debugger tooling
+
 
 ---
-*Last updated at 2026-06-03 21:13:56 UTC*
+*Last updated at 2026-06-03 22:48:45 UTC*
 *Historical records are stored in the `archive` directory.*
