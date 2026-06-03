@@ -40,6 +40,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lightweight open-core SIEM in Rust — ClickHouse for logs, Postgres for state.
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [btbd/modmap](https://github.com/btbd/modmap)
   > Module extending manual mapper
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [quarkslab/arybo](https://github.com/quarkslab/arybo)
+  > Manipulation, canonicalization and identification of mixed boolean-arithmetic symbolic expressions
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [clarkluoluo/clark-utov](https://github.com/clarkluoluo/clark-utov) to [CrackerCat/clark-utov](https://github.com/CrackerCat/clark-utov)
@@ -130,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-03 22:48:45 UTC*
+*Last updated at 2026-06-03 23:38:55 UTC*
 *Historical records are stored in the `archive` directory.*
