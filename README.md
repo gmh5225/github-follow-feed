@@ -20,9 +20,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [libflux/libflux](https://github.com/libflux/libflux)
   > A secure, performant, and developer-friendly container runtime using Linux namespaces
 
-### [Calinou](https://github.com/Calinou)
-- 🍴 👤 [Calinou](https://github.com/Calinou) Forked [flathub/io.github.mgerhardy.vengi.voxedit](https://github.com/flathub/io.github.mgerhardy.vengi.voxedit) to [Calinou/io.github.mgerhardy.vengi.voxedit](https://github.com/Calinou/io.github.mgerhardy.vengi.voxedit)
-
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ni5arga/deanonymizer](https://github.com/ni5arga/deanonymizer)
   > Deanonymize anyone based on their public commenting or posting history & pattern.
@@ -68,6 +65,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [octetproof/octet-sdk-android](https://github.com/octetproof/octet-sdk-android)
   > Android SDK for Octet
+- 🍴 👤 [dcbuild3r](https://github.com/dcbuild3r) Forked [reilabs/mavros](https://github.com/reilabs/mavros) to [dcbuild3r/mavros](https://github.com/dcbuild3r/mavros)
+  > Compiling Noir to R1CS with witness generation and automatic differentiation binaries
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [microsoft/coreutils](https://github.com/microsoft/coreutils)
@@ -116,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-03 15:44:16 UTC*
+*Last updated at 2026-06-03 17:49:54 UTC*
 *Historical records are stored in the `archive` directory.*
