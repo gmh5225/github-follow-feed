@@ -12,7 +12,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JeremySpence272/tinyghidramcp](https://github.com/JeremySpence272/tinyghidramcp) to [CrackerCat/tinyghidramcp](https://github.com/CrackerCat/tinyghidramcp)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuHong1593/ThemeStore](https://github.com/YuHong1593/ThemeStore) to [CrackerCat/ThemeStore](https://github.com/CrackerCat/ThemeStore)
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
+  > Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips t...
+
 
 ---
-*Last updated at 2026-06-03 01:23:59 UTC*
+*Last updated at 2026-06-03 03:22:44 UTC*
 *Historical records are stored in the `archive` directory.*
