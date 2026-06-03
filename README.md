@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ni5arga/deanonymizer](https://github.com/ni5arga/deanonymizer)
+  > Deanonymize anyone based on their public commenting or posting history & pattern.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [meshtastic/firmware](https://github.com/meshtastic/firmware)
+  > The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [unikraft/app-elfloader](https://github.com/unikraft/app-elfloader)
+  > Load and execute Linux ELF binaries
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [clarkluoluo/clark-utov](https://github.com/clarkluoluo/clark-utov) to [CrackerCat/clark-utov](https://github.com/CrackerCat/clark-utov)
   > clark-utov — automation + ledger tool for native algorithm recovery (public)
@@ -32,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [microsoft/coreutils](https://github.com/microsoft/coreutils)
   > Coreutils for Windows: Installer & Packaging
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [t0asts/DIE-engine-web](https://github.com/t0asts/DIE-engine-web)
+  > Detect It Easy but in your browser.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sfewer-r7/CVE-2026-0257](https://github.com/sfewer-r7/CVE-2026-0257)
   > Proof-of-concept script to leverage the PAN-OS GlobalProtect authentication bypass CVE-2026-0257
@@ -51,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [heroiclabs/nakama](https://github.com/heroiclabs/nakama)
   > Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social f...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [califio/publications](https://github.com/califio/publications)
+  > Publications from Calif
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [tracel-ai/cubek](https://github.com/tracel-ai/cubek)
@@ -64,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-03 11:45:57 UTC*
+*Last updated at 2026-06-03 13:55:16 UTC*
 *Historical records are stored in the `archive` directory.*
