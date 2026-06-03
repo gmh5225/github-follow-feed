@@ -12,9 +12,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JeremySpence272/tinyghidramcp](https://github.com/JeremySpence272/tinyghidramcp) to [CrackerCat/tinyghidramcp](https://github.com/CrackerCat/tinyghidramcp)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuHong1593/ThemeStore](https://github.com/YuHong1593/ThemeStore) to [CrackerCat/ThemeStore](https://github.com/CrackerCat/ThemeStore)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [micro-gl/micro-containers](https://github.com/micro-gl/micro-containers)
+  > Headers Only C++11 Containers library. No standard library is required.
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [micro-gl/micro-gl](https://github.com/micro-gl/micro-gl)
+  > Headers Only C++11 CPU Vector Graphics. no std-lib, no FPU and no GPU required !
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [micro-gl/nitro-gl](https://github.com/micro-gl/nitro-gl)
+  > Headers only C++11 OpenGL Vector Graphics library, that can run on all OpenGL/ES version
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips t...
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [octetproof/octet-sdk-android](https://github.com/octetproof/octet-sdk-android)
+  > Android SDK for Octet
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [microsoft/coreutils](https://github.com/microsoft/coreutils)
@@ -52,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-03 07:57:46 UTC*
+*Last updated at 2026-06-03 09:50:17 UTC*
 *Historical records are stored in the `archive` directory.*
