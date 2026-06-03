@@ -16,7 +16,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [eversinc33/MogVMP](https://github.com/eversinc33/MogVMP)
   > Static devirtualizer for VMProtect 3.0-3.5. Lifts virtualized code to LLVM using Remill and strips t...
 
+### [memN0ps](https://github.com/memN0ps)
+- 🌟 👤 [memN0ps](https://github.com/memN0ps) Starred [vmi-rs/ephemera](https://github.com/vmi-rs/ephemera)
+  > Multiplatform MEMORY.DMP analysis tool with a WinDbg flavor
+
 
 ---
-*Last updated at 2026-06-03 03:22:44 UTC*
+*Last updated at 2026-06-03 05:48:12 UTC*
 *Historical records are stored in the `archive` directory.*
