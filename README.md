@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
   > Linux payload implementing HV exploits to run a custom bootloader
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [thecodearcher/limen](https://github.com/thecodearcher/limen)
+  > Modern, composable authentication for Go
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kernelstub/Retract](https://github.com/kernelstub/Retract)
+  > Static binary analysis and reverse engineering workbench in browser
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [riven-labs/unstrip](https://github.com/riven-labs/unstrip) to [CrackerCat/unstrip](https://github.com/CrackerCat/unstrip)
@@ -29,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 一个基于 WXT 的浏览器插件，用于辅助 ChatGPT 注册、Checkout 链接提取、随机地址资料生成，以及 OpenAI/PayPal 支付页资料自动填写。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dongshuyan/Awesome-Prompts](https://github.com/dongshuyan/Awesome-Prompts) to [CrackerCat/Awesome-Prompts](https://github.com/CrackerCat/Awesome-Prompts)
   > 分享一下自创以及打野得到的各种优质prompt
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans)
+  > A low-level 3DS emulator
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/Process-Stacking-Injection](https://github.com/JoasASantos/Process-Stacking-Injection)
@@ -68,6 +76,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans)
   > A low-level 3DS emulator
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [crowbar-team/vmp-import-resolver](https://github.com/crowbar-team/vmp-import-resolver)
+  > VMProtect 3.5+ dynamic import resolver
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [huggingface/lerobot](https://github.com/huggingface/lerobot)
@@ -120,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-04 18:58:31 UTC*
+*Last updated at 2026-06-04 19:47:13 UTC*
 *Historical records are stored in the `archive` directory.*
