@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [binsync/declib](https://github.com/binsync/declib)
   > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ps5-linux/ps5-linux-loader](https://github.com/ps5-linux/ps5-linux-loader)
+  > Linux payload implementing HV exploits to run a custom bootloader
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [riven-labs/unstrip](https://github.com/riven-labs/unstrip) to [CrackerCat/unstrip](https://github.com/CrackerCat/unstrip)
   > Recover symbols, types, interfaces, and method signatures from stripped Go binaries. Ghidra, IDA, an...
@@ -22,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/Process-Stacking-Injection](https://github.com/JoasASantos/Process-Stacking-Injection)
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [kookoo1sabzy/BaleVPN](https://github.com/kookoo1sabzy/BaleVPN)
+  > P2P VPN Tunnel Over Bale Messaging System
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [facebookresearch/ProgramBench](https://github.com/facebookresearch/ProgramBench)
@@ -104,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-04 15:11:00 UTC*
+*Last updated at 2026-06-04 17:12:48 UTC*
 *Historical records are stored in the `archive` directory.*
