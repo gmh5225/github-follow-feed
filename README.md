@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [binsync/declib](https://github.com/binsync/declib)
   > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [alexjhetherington/anvil-level-design](https://github.com/alexjhetherington/anvil-level-design)
+  > Blender addon of Trenchbroom inspired level design tools including automated material application an...
+
 ### [Cr0a3](https://github.com/Cr0a3)
 - 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [mschollmeier/occQt6](https://github.com/mschollmeier/occQt6)
   > An OpenCASCADE/Qt demo, updated for Qt6 and OpenCASCADE 7.5.0
@@ -59,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
   > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [LLVMParty/striga](https://github.com/LLVMParty/striga)
+  > Striga is an experimental lifter from x86_64 to LLVM IR written in Python.
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [truce-audio/truce](https://github.com/truce-audio/truce)
   > Cross-platform audio plugin development framework in Rust
@@ -66,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [wezterm/wezterm](https://github.com/wezterm/wezterm)
   > A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented i...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [drclcomputers/ASMOS](https://github.com/drclcomputers/ASMOS)
+  > I should change its name. I rewrote the full OS in C, using ASM just in the boot loader and kernel e...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Dstack-TEE/private-ai-gateway](https://github.com/Dstack-TEE/private-ai-gateway)
@@ -140,5 +152,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-04 21:38:24 UTC*
+*Last updated at 2026-06-04 22:37:43 UTC*
 *Historical records are stored in the `archive` directory.*
