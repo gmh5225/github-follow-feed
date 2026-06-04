@@ -20,6 +20,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dongshuyan/Awesome-Prompts](https://github.com/dongshuyan/Awesome-Prompts) to [CrackerCat/Awesome-Prompts](https://github.com/CrackerCat/Awesome-Prompts)
   > 分享一下自创以及打野得到的各种优质prompt
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/Process-Stacking-Injection](https://github.com/JoasASantos/Process-Stacking-Injection)
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [facebookresearch/ProgramBench](https://github.com/facebookresearch/ProgramBench)
   > Can Language Models Rebuild Programs From Scratch?
@@ -27,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans)
   > A low-level 3DS emulator
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [truce-audio/truce](https://github.com/truce-audio/truce)
@@ -41,13 +48,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Private AI Gateway for Attested Confidential Inference
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [riesentoaster/differential-coverage](https://github.com/riesentoaster/differential-coverage)
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [bryanroscoe/shield_optimizer](https://github.com/bryanroscoe/shield_optimizer)
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans)
   > A low-level 3DS emulator
 
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [huggingface/lerobot](https://github.com/huggingface/lerobot)
+  > 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/arybo](https://github.com/quarkslab/arybo)
   > Manipulation, canonicalization and identification of mixed boolean-arithmetic symbolic expressions
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
+  > Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injec...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yogthos/wavescope-mcp](https://github.com/yogthos/wavescope-mcp)
@@ -60,6 +78,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [cicd-sensor/cicd-sensor](https://github.com/cicd-sensor/cicd-sensor)
   > Open-source eBPF runtime security sensor for GitHub Actions and GitLab CI/CD.
+
+### [nulltea](https://github.com/nulltea)
+- 🍴 👤 [nulltea](https://github.com/nulltea) Forked [tracel-ai/cubecl](https://github.com/tracel-ai/cubecl) to [nulltea/cubecl](https://github.com/nulltea/cubecl)
+  > Multi-platform high-performance compute language extension for Rust.
+
+### [rasbt](https://github.com/rasbt)
+- 🌟 👤 [rasbt](https://github.com/rasbt) Starred [TheodoreGalanos/aec-bench](https://github.com/TheodoreGalanos/aec-bench)
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [sysprog21/shecc](https://github.com/sysprog21/shecc)
@@ -74,8 +99,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [toon-format/toon](https://github.com/toon-format/toon)
   > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [yogthos/wavescope-mcp](https://github.com/yogthos/wavescope-mcp)
+  > Wavelet-based multi-resolution context management for LLMs via MCP
 
 
 ---
-*Last updated at 2026-06-04 13:22:44 UTC*
+*Last updated at 2026-06-04 15:11:00 UTC*
 *Historical records are stored in the `archive` directory.*
