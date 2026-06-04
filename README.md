@@ -25,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Modern, composable authentication for Go
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kernelstub/Retract](https://github.com/kernelstub/Retract)
   > Static binary analysis and reverse engineering workbench in browser
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ReverseApple/inject_aarch64](https://github.com/ReverseApple/inject_aarch64)
+  > arm64 and arm64e dylib injector
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [riven-labs/unstrip](https://github.com/riven-labs/unstrip) to [CrackerCat/unstrip](https://github.com/CrackerCat/unstrip)
@@ -116,6 +118,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [rasbt](https://github.com/rasbt)
 - 🌟 👤 [rasbt](https://github.com/rasbt) Starred [TheodoreGalanos/aec-bench](https://github.com/TheodoreGalanos/aec-bench)
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [NighthowlerStudios/pico-raylib](https://github.com/NighthowlerStudios/pico-raylib)
+  > A port of Raylib to boards with RP2350 and PSRAM
+
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [sysprog21/shecc](https://github.com/sysprog21/shecc)
   > A self-hosting and educational C optimizing compiler
@@ -134,5 +140,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-04 20:50:28 UTC*
+*Last updated at 2026-06-04 21:38:24 UTC*
 *Historical records are stored in the `archive` directory.*
