@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [riven-labs/unstrip](https://github.com/riven-labs/unstrip) to [CrackerCat/unstrip](https://github.com/CrackerCat/unstrip)
+  > Recover symbols, types, interfaces, and method signatures from stripped Go binaries. Ghidra, IDA, an...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Dstack-TEE/private-ai-gateway](https://github.com/Dstack-TEE/private-ai-gateway)
+  > Private AI Gateway for Attested Confidential Inference
+
 ### [mubix](https://github.com/mubix)
 - 🌟 👤 [mubix](https://github.com/mubix) Starred [microsoft/clarity](https://github.com/microsoft/clarity)
   > A behavioral analytics library that uses dom mutations and user interactions to generate aggregated ...
@@ -11,8 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [sysprog21/shecc](https://github.com/sysprog21/shecc)
   > A self-hosting and educational C optimizing compiler
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [sysprog21/rv32emu](https://github.com/sysprog21/rv32emu)
+  > Compact and Efficient RISC-V RV32I[MAFC] emulator
 
 
 ---
-*Last updated at 2026-06-04 01:23:53 UTC*
+*Last updated at 2026-06-04 03:22:16 UTC*
 *Historical records are stored in the `archive` directory.*
