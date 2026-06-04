@@ -94,6 +94,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injec...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
   > Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [microsoft/XBOX-Godot-Sample](https://github.com/microsoft/XBOX-Godot-Sample)
+  > An example implementation binding the GDK, PlayFab, and GameInput to Godot
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yogthos/wavescope-mcp](https://github.com/yogthos/wavescope-mcp)
@@ -132,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-04 19:47:13 UTC*
+*Last updated at 2026-06-04 20:50:28 UTC*
 *Historical records are stored in the `archive` directory.*
