@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [sefcom/oxidizer](https://github.com/sefcom/oxidizer)
+  > A Rust decompiler built on top of angr
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [binsync/declib](https://github.com/binsync/declib)
+  > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
+
 ### [Cr0a3](https://github.com/Cr0a3)
 - 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [mschollmeier/occQt6](https://github.com/mschollmeier/occQt6)
   > An OpenCASCADE/Qt demo, updated for Qt6 and OpenCASCADE 7.5.0
@@ -74,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sheeki03/tirith](https://github.com/sheeki03/tirith)
   > Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injec...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [MinishLab/semble](https://github.com/MinishLab/semble)
+  > Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yogthos/wavescope-mcp](https://github.com/yogthos/wavescope-mcp)
@@ -112,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-04 17:12:48 UTC*
+*Last updated at 2026-06-04 18:58:31 UTC*
 *Historical records are stored in the `archive` directory.*
