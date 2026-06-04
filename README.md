@@ -22,7 +22,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [sysprog21/rv32emu](https://github.com/sysprog21/rv32emu)
   > Compact and Efficient RISC-V RV32I[MAFC] emulator
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [toon-format/toon](https://github.com/toon-format/toon)
+  > 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts...
+
 
 ---
-*Last updated at 2026-06-04 03:22:16 UTC*
+*Last updated at 2026-06-04 05:46:01 UTC*
 *Historical records are stored in the `archive` directory.*
