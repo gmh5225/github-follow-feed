@@ -16,6 +16,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OwenPawl/ghidra-re-skill](https://github.com/OwenPawl/ghidra-re-skill) to [CrackerCat/ghidra-re-skill](https://github.com/CrackerCat/ghidra-re-skill)
   > Codex Ghidra reverse engineering skill with headless workflows, bug-hunting bundles, and a live brid...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [rccyx/asryx](https://github.com/rccyx/asryx)
+  > Daemonless Linux native ASR binary (embedded via whisper.cpp C API, no dependencies beyond the stand...
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [kasturixbm5/staged-DLL-Injection-SMB-](https://github.com/kasturixbm5/staged-DLL-Injection-SMB-) to [classic130/staged-DLL-Injection-SMB-](https://github.com/classic130/staged-DLL-Injection-SMB-)
+  > Staged DLL injection proof-of-concept built in C using Win32 APIs — developed in an isolated lab env...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV)
 
@@ -34,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-05 07:43:54 UTC*
+*Last updated at 2026-06-05 09:21:03 UTC*
 *Historical records are stored in the `archive` directory.*
