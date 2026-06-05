@@ -48,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [grafana/k6](https://github.com/grafana/k6)
   > A modern load testing tool, using Go and JavaScript
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [nbulsi/cirsat](https://github.com/nbulsi/cirsat)
+  > A circuit-based Boolean satisfiability (SAT) solver
+
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [overducast/RiftByte](https://github.com/overducast/RiftByte)
   > Binary diff tool for PE (EXE/DLL) and ELF files. Compares two binaries, resolves virtual addresses, ...
@@ -61,6 +65,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Automated proxy DLL generator for DLL hijacking
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nbulsi/cirsat](https://github.com/nbulsi/cirsat)
+  > A circuit-based Boolean satisfiability (SAT) solver
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [isxlan0/Codex_AccountSwitch](https://github.com/isxlan0/Codex_AccountSwitch)
   > Manage and switch multiple AI coding accounts locally without restarting development tools.
@@ -68,6 +76,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
   > A Ghidra agentic reverse engineering skill.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy)
+  > The code coverage tool for Python
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [protonpass/pass-cli](https://github.com/protonpass/pass-cli)
@@ -82,5 +92,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-05 16:56:03 UTC*
+*Last updated at 2026-06-05 17:42:06 UTC*
 *Historical records are stored in the `archive` directory.*
