@@ -11,6 +11,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jprx/PacmanKit](https://github.com/jprx/PacmanKit)
+  > An IOKit kext designed for microarchitectural security research on M1
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV) to [CrackerCat/Type2-AMD-HV](https://github.com/CrackerCat/Type2-AMD-HV)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [CrackerCat/daily_stock_analysis](https://github.com/CrackerCat/daily_stock_analysis)
@@ -40,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV)
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [grafana/k6](https://github.com/grafana/k6)
+  > A modern load testing tool, using Go and JavaScript
+
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [overducast/RiftByte](https://github.com/overducast/RiftByte)
   > Binary diff tool for PE (EXE/DLL) and ELF files. Compares two binaries, resolves virtual addresses, ...
@@ -52,6 +60,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [maskop9/proxydllgenerator](https://github.com/maskop9/proxydllgenerator)
   > Automated proxy DLL generator for DLL hijacking
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [isxlan0/Codex_AccountSwitch](https://github.com/isxlan0/Codex_AccountSwitch)
+  > Manage and switch multiple AI coding accounts locally without restarting development tools.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
@@ -70,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-05 15:10:07 UTC*
+*Last updated at 2026-06-05 16:56:03 UTC*
 *Historical records are stored in the `archive` directory.*
