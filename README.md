@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV) to [CrackerCat/Type2-AMD-HV](https://github.com/CrackerCat/Type2-AMD-HV)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) to [CrackerCat/daily_stock_analysis](https://github.com/CrackerCat/daily_stock_analysis)
@@ -27,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV)
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [overducast/RiftByte](https://github.com/overducast/RiftByte)
+  > Binary diff tool for PE (EXE/DLL) and ELF files. Compares two binaries, resolves virtual addresses, ...
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Mr-Un1k0d3r/AzureRedOps](https://github.com/Mr-Un1k0d3r/AzureRedOps)
   > Azure RedOps is a offensive security toolkit for assessing the security posture of Microsoft Entra I...
@@ -36,11 +43,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Automated proxy DLL generator for DLL hijacking
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
+  > A Ghidra agentic reverse engineering skill.
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [Z3Prover/z3](https://github.com/Z3Prover/z3)
   > The Z3 Theorem Prover
 
 
 ---
-*Last updated at 2026-06-05 09:21:03 UTC*
+*Last updated at 2026-06-05 11:14:14 UTC*
 *Historical records are stored in the `archive` directory.*
