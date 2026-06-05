@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [cowrie/cowrie](https://github.com/cowrie/cowrie)
+  > Cowrie SSH/Telnet Honeypot https://docs.cowrie.org/
+
 ### [0xisk](https://github.com/0xisk)
 - 🍴 👤 [0xisk](https://github.com/0xisk) Forked [LFDT-Minokawa/compact](https://github.com/LFDT-Minokawa/compact) to [0xisk/compact](https://github.com/0xisk/compact)
   > The Compact programming language
@@ -33,7 +37,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [rccyx/asryx](https://github.com/rccyx/asryx)
-  > Daemonless Linux native ASR binary (embedded via whisper.cpp C API, no dependencies beyond the stand...
+  > Daemonless Linux native ASR binary (pure C++ done the UNIX way, no dependencies beyond the standard ...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [brenogonzaga/tauri-plugin-audio-recorder](https://github.com/brenogonzaga/tauri-plugin-audio-recorder)
@@ -108,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-05 21:36:33 UTC*
+*Last updated at 2026-06-05 22:32:49 UTC*
 *Historical records are stored in the `archive` directory.*
