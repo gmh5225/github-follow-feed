@@ -43,6 +43,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [brenogonzaga/tauri-plugin-audio-recorder](https://github.com/brenogonzaga/tauri-plugin-audio-recorder)
   > Cross-platform audio recording plugin for Tauri 2.x applications. Provides audio recording functiona...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [P1sec/hermes-dec](https://github.com/P1sec/hermes-dec)
+  > A reverse engineering tool for decompiling and disassembling the React Native Hermes bytecode
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kasturixbm5/staged-DLL-Injection-SMB-](https://github.com/kasturixbm5/staged-DLL-Injection-SMB-) to [classic130/staged-DLL-Injection-SMB-](https://github.com/classic130/staged-DLL-Injection-SMB-)
   > Staged DLL injection proof-of-concept built in C using Win32 APIs — developed in an isolated lab env...
@@ -88,6 +92,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Ghidra agentic reverse engineering skill.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy)
   > The code coverage tool for Python
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nbulsi/cirsat](https://github.com/nbulsi/cirsat)
+  > A circuit-based Boolean satisfiability (SAT) solver
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [protonpass/pass-cli](https://github.com/protonpass/pass-cli)
@@ -112,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-05 22:32:49 UTC*
+*Last updated at 2026-06-05 23:33:33 UTC*
 *Historical records are stored in the `archive` directory.*
