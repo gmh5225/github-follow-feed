@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xisk](https://github.com/0xisk)
+- 🍴 👤 [0xisk](https://github.com/0xisk) Forked [LFDT-Minokawa/compact](https://github.com/LFDT-Minokawa/compact) to [0xisk/compact](https://github.com/0xisk/compact)
+  > The Compact programming language
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [crixpwn/CVE-2026-8389](https://github.com/crixpwn/CVE-2026-8389)
 
@@ -24,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [rccyx/asryx](https://github.com/rccyx/asryx)
   > Daemonless Linux native ASR binary (embedded via whisper.cpp C API, no dependencies beyond the stand...
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [brenogonzaga/tauri-plugin-audio-recorder](https://github.com/brenogonzaga/tauri-plugin-audio-recorder)
+  > Cross-platform audio recording plugin for Tauri 2.x applications. Provides audio recording functiona...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kasturixbm5/staged-DLL-Injection-SMB-](https://github.com/kasturixbm5/staged-DLL-Injection-SMB-) to [classic130/staged-DLL-Injection-SMB-](https://github.com/classic130/staged-DLL-Injection-SMB-)
@@ -49,11 +57,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
   > A Ghidra agentic reverse engineering skill.
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [protonpass/pass-cli](https://github.com/protonpass/pass-cli)
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [Z3Prover/z3](https://github.com/Z3Prover/z3)
   > The Z3 Theorem Prover
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AbdelStark/worldforge](https://github.com/AbdelStark/worldforge)
+  > Harness framework to build world model based workflows for physical AI systems.
+
 
 ---
-*Last updated at 2026-06-05 13:16:29 UTC*
+*Last updated at 2026-06-05 15:10:07 UTC*
 *Historical records are stored in the `archive` directory.*
