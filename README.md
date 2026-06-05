@@ -99,6 +99,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [huggingface/lerobot](https://github.com/huggingface/lerobot)
   > 🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
 
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🍴 👤 [mattgodbolt](https://github.com/mattgodbolt) Forked [davidjefferies-stellar/exile-cpp](https://github.com/davidjefferies-stellar/exile-cpp) to [mattgodbolt/exile-cpp](https://github.com/mattgodbolt/exile-cpp)
+  > A C++ port of the BBC Micro masterpiece Exile working from the original 6502 disassembly.
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/arybo](https://github.com/quarkslab/arybo)
   > Manipulation, canonicalization and identification of mixed boolean-arithmetic symbolic expressions
@@ -152,5 +156,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-04 22:37:43 UTC*
+*Last updated at 2026-06-04 23:33:24 UTC*
 *Historical records are stored in the `archive` directory.*
