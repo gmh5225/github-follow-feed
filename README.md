@@ -18,6 +18,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows kernel-mode minifilter driver providing process monitoring, memory inspection, filesystem/re...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OwenPawl/ghidra-re-skill](https://github.com/OwenPawl/ghidra-re-skill) to [CrackerCat/ghidra-re-skill](https://github.com/CrackerCat/ghidra-re-skill)
   > Codex Ghidra reverse engineering skill with headless workflows, bug-hunting bundles, and a live brid...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [saileaxh/iida-dfs](https://github.com/saileaxh/iida-dfs) to [CrackerCat/iida-dfs](https://github.com/CrackerCat/iida-dfs)
+  > Machine-learning-based function similarity analysis that helps you quickly locate matching functions...
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [rccyx/asryx](https://github.com/rccyx/asryx)
@@ -53,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-05 11:14:14 UTC*
+*Last updated at 2026-06-05 13:16:29 UTC*
 *Historical records are stored in the `archive` directory.*
