@@ -92,6 +92,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [Z3Prover/z3](https://github.com/Z3Prover/z3)
   > The Z3 Theorem Prover
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [cybershaykh/npxconfuse](https://github.com/cybershaykh/npxconfuse)
+  > npx confusion vulnerability scanner
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AbdelStark/worldforge](https://github.com/AbdelStark/worldforge)
   > Harness framework to build world model based workflows for physical AI systems.
@@ -100,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-05 18:49:08 UTC*
+*Last updated at 2026-06-05 19:39:48 UTC*
 *Historical records are stored in the `archive` directory.*
