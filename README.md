@@ -14,6 +14,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jprx/PacmanKit](https://github.com/jprx/PacmanKit)
   > An IOKit kext designed for microarchitectural security research on M1
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [casey/just](https://github.com/casey/just)
+  > 🤖 Just a command runner
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [whosstyler/Type2-AMD-HV](https://github.com/whosstyler/Type2-AMD-HV) to [CrackerCat/Type2-AMD-HV](https://github.com/CrackerCat/Type2-AMD-HV)
@@ -52,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [nbulsi/cirsat](https://github.com/nbulsi/cirsat)
   > A circuit-based Boolean satisfiability (SAT) solver
 
+### [h33p](https://github.com/h33p)
+- 🍴 👤 [h33p](https://github.com/h33p) Forked [embassy-rs/trouble](https://github.com/embassy-rs/trouble) to [h33p/trouble](https://github.com/h33p/trouble)
+  > A Rust BLE Host stack
+
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [overducast/RiftByte](https://github.com/overducast/RiftByte)
   > Binary diff tool for PE (EXE/DLL) and ELF files. Compares two binaries, resolves virtual addresses, ...
@@ -89,8 +95,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AbdelStark/worldforge](https://github.com/AbdelStark/worldforge)
   > Harness framework to build world model based workflows for physical AI systems.
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [nik-55/world-models](https://github.com/nik-55/world-models)
+  > A curated list of research and projects on world models
 
 
 ---
-*Last updated at 2026-06-05 17:42:06 UTC*
+*Last updated at 2026-06-05 18:49:08 UTC*
 *Historical records are stored in the `archive` directory.*
