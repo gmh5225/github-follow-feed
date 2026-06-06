@@ -54,11 +54,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
   > Python library for running a MicroPython sandbox using WebAssembly
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [flashbots/global-storage-smart-contract](https://github.com/flashbots/global-storage-smart-contract)
+  > Global Storage Smart Contract for Top of Block building
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mrphrazer/msynth](https://github.com/mrphrazer/msynth)
   > Code deobfuscation framework to simplify Mixed Boolean-Arithmetic (MBA) expressions
 
 
 ---
-*Last updated at 2026-06-06 13:37:58 UTC*
+*Last updated at 2026-06-06 14:38:47 UTC*
 *Historical records are stored in the `archive` directory.*
