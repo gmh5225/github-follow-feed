@@ -9,6 +9,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cctv18/oppo_oplus_realme_sm8850](https://github.com/cctv18/oppo_oplus_realme_sm8850) to [CrackerCat/oppo_oplus_realme_sm8850](https://github.com/CrackerCat/oppo_oplus_realme_sm8850)
   > An automatic kernel builder for Oppo/Oneplus/Realme Snapdragon sm8850 series in a completely new way...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Project-Silicium/Mu-Silicium](https://github.com/Project-Silicium/Mu-Silicium) to [CrackerCat/Mu-Silicium](https://github.com/CrackerCat/Mu-Silicium)
+  > Project Mu Port for ARM64-Based Devices
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cctv18/gki_build_action](https://github.com/cctv18/gki_build_action) to [CrackerCat/gki_build_action](https://github.com/CrackerCat/gki_build_action)
+  > An automatic kernel builder for 5.10 gki
 
 ### [RKSimon](https://github.com/RKSimon)
 - 🌟 👤 [RKSimon](https://github.com/RKSimon) Starred [SemiAnalysisAI/FuzzX](https://github.com/SemiAnalysisAI/FuzzX)
@@ -27,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) to [ioncodes/wasmtime](https://github.com/ioncodes/wasmtime)
   > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
+  > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NubsCarson/tessera](https://github.com/NubsCarson/tessera)
@@ -52,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-06 12:39:45 UTC*
+*Last updated at 2026-06-06 13:37:58 UTC*
 *Historical records are stored in the `archive` directory.*
