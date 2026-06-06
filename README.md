@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica)
   > Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expre...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm)
+  > Pokemon Emerald in WebAssembly
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) to [ioncodes/wasmtime](https://github.com/ioncodes/wasmtime)
   > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
@@ -54,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
   > Python library for running a MicroPython sandbox using WebAssembly
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [alpkeskin/rota](https://github.com/alpkeskin/rota)
+  > A high-performance proxy rotation engine with automated IP management and real-time health monitorin...
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [flashbots/global-storage-smart-contract](https://github.com/flashbots/global-storage-smart-contract)
   > Global Storage Smart Contract for Top of Block building
@@ -61,8 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mrphrazer/msynth](https://github.com/mrphrazer/msynth)
   > Code deobfuscation framework to simplify Mixed Boolean-Arithmetic (MBA) expressions
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
+  > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
 
 
 ---
-*Last updated at 2026-06-06 14:38:47 UTC*
+*Last updated at 2026-06-06 15:34:14 UTC*
 *Historical records are stored in the `archive` directory.*
