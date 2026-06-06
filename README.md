@@ -69,6 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [flashbots/global-storage-smart-contract](https://github.com/flashbots/global-storage-smart-contract)
   > Global Storage Smart Contract for Top of Block building
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [daynebatten/keras-wtte-rnn](https://github.com/daynebatten/keras-wtte-rnn)
+  > Demo Weibull Time-to-event Recurrent Neural Network in Keras
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [gm-spacagna/deep-ttf](https://github.com/gm-spacagna/deep-ttf)
+  > Survival analsyis and time-to-failure predictive modeling using Weibull distributions and Recurrent ...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mrphrazer/msynth](https://github.com/mrphrazer/msynth)
@@ -78,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-06 16:32:38 UTC*
+*Last updated at 2026-06-06 17:31:59 UTC*
 *Historical records are stored in the `archive` directory.*
