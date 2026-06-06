@@ -52,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [generational-infrastructure/spaces-os](https://github.com/generational-infrastructure/spaces-os)
   > Spaces OS
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [Bigfoot71/r3d](https://github.com/Bigfoot71/r3d)
+  > 3D Extension Library for raylib
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [nccgroup/async-pico-hub](https://github.com/nccgroup/async-pico-hub)
   > Async PICO Hub is a work-in-progress framework to extend Cobalt Strike with custom event monitoring ...
@@ -82,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-06 17:31:59 UTC*
+*Last updated at 2026-06-06 18:36:41 UTC*
 *Historical records are stored in the `archive` directory.*
