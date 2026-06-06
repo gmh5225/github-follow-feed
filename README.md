@@ -14,11 +14,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [char](https://github.com/char) Forked [truce-audio/truce](https://github.com/truce-audio/truce) to [char/truce-audio](https://github.com/char/truce-audio)
   > Cross-platform audio plugin development framework in Rust
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica)
+  > Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expre...
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [nccgroup/async-pico-hub](https://github.com/nccgroup/async-pico-hub)
   > Async PICO Hub is a work-in-progress framework to extend Cobalt Strike with custom event monitoring ...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mrphrazer/msynth](https://github.com/mrphrazer/msynth)
+  > Code deobfuscation framework to simplify Mixed Boolean-Arithmetic (MBA) expressions
+
 
 ---
-*Last updated at 2026-06-06 09:01:58 UTC*
+*Last updated at 2026-06-06 10:44:28 UTC*
 *Historical records are stored in the `archive` directory.*
