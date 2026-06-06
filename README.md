@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cctv18/oppo_oplus_realme_sm8850](https://github.com/cctv18/oppo_oplus_realme_sm8850) to [CrackerCat/oppo_oplus_realme_sm8850](https://github.com/CrackerCat/oppo_oplus_realme_sm8850)
   > An automatic kernel builder for Oppo/Oneplus/Realme Snapdragon sm8850 series in a completely new way...
 
+### [RKSimon](https://github.com/RKSimon)
+- 🌟 👤 [RKSimon](https://github.com/RKSimon) Starred [SemiAnalysisAI/FuzzX](https://github.com/SemiAnalysisAI/FuzzX)
+  > A fuzzer for ML compilers
+
 ### [char](https://github.com/char)
 - 🍴 👤 [char](https://github.com/char) Forked [truce-audio/truce](https://github.com/truce-audio/truce) to [char/truce-audio](https://github.com/char/truce-audio)
   > Cross-platform audio plugin development framework in Rust
@@ -19,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica)
   > Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expre...
+
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) to [ioncodes/wasmtime](https://github.com/ioncodes/wasmtime)
+  > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NubsCarson/tessera](https://github.com/NubsCarson/tessera)
@@ -32,11 +40,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [nccgroup/async-pico-hub](https://github.com/nccgroup/async-pico-hub)
   > Async PICO Hub is a work-in-progress framework to extend Cobalt Strike with custom event monitoring ...
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [CharlyCst/spadebox](https://github.com/CharlyCst/spadebox)
+  > Sandboxed tools and JS runtime for AI agents
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
+  > Python library for running a MicroPython sandbox using WebAssembly
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mrphrazer/msynth](https://github.com/mrphrazer/msynth)
   > Code deobfuscation framework to simplify Mixed Boolean-Arithmetic (MBA) expressions
 
 
 ---
-*Last updated at 2026-06-06 11:36:08 UTC*
+*Last updated at 2026-06-06 12:39:45 UTC*
 *Historical records are stored in the `archive` directory.*
