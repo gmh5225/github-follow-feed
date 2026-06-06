@@ -39,6 +39,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [saileaxh/iida-mcp](https://github.com/saileaxh/iida-mcp)
   > Faster, with excellent architecture, stronger performance, and kernel access support — an ida-mcp to...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
+  > Python library for running a MicroPython sandbox using WebAssembly
+
+### [namazso](https://github.com/namazso)
+- 🚀 👤 [namazso](https://github.com/namazso) Made [namazso/tape-decode-rs](https://github.com/namazso/tape-decode-rs) public
+  > Extract video from RAW RF captures of colour-under & composite modulated tapes
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Ed94/IMGUI_Notes](https://github.com/Ed94/IMGUI_Notes)
@@ -90,5 +96,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-06 19:36:07 UTC*
+*Last updated at 2026-06-06 20:32:53 UTC*
 *Historical records are stored in the `archive` directory.*
