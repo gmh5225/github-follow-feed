@@ -44,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Ed94/IMGUI_Notes](https://github.com/Ed94/IMGUI_Notes)
   > Notes and research I have on immediate mode user interfaces
 
+### [osm0sis](https://github.com/osm0sis)
+- 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
+  > Fix Play Integrity <A13 verdicts, allowing custom fields and props
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NubsCarson/tessera](https://github.com/NubsCarson/tessera)
   > Anonymous rate-limited credentials (IETF ARC) for censorship-resistant, un-blockable network access ...
@@ -86,5 +90,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-06 18:36:41 UTC*
+*Last updated at 2026-06-06 19:36:07 UTC*
 *Historical records are stored in the `archive` directory.*
