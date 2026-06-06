@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica)
   > Symbolica is a high-performance computer algebra library for Python and Rust. Manipulate large expre...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [farbrausch/fr_public](https://github.com/farbrausch/fr_public)
+  > Farbrausch demo tools 2001-2011
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tripplyons/pokeemerald-wasm](https://github.com/tripplyons/pokeemerald-wasm)
   > Pokemon Emerald in WebAssembly
@@ -61,6 +65,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > local first and private by default transcription tools with ✨ fun features ✨
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [generational-infrastructure/spaces-os](https://github.com/generational-infrastructure/spaces-os)
   > Spaces OS
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [maximecb/bebelm](https://github.com/maximecb/bebelm)
+  > CPU-only, pure-Rust implementation of LiquidAI's LFM2.5-8B-A1B
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [Bigfoot71/r3d](https://github.com/Bigfoot71/r3d)
@@ -96,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-06 21:28:57 UTC*
+*Last updated at 2026-06-06 22:29:38 UTC*
 *Historical records are stored in the `archive` directory.*
