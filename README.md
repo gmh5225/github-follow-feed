@@ -47,6 +47,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Desktop app to manage markdown knowledge bases
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microsoft/pg_durable](https://github.com/microsoft/pg_durable)
   > PostgreSQL in-database durable execution
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [spiraldb/ziggy-pydust](https://github.com/spiraldb/ziggy-pydust)
+  > A toolkit for building Python extensions in Zig.
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🍴 👤 [fvrmatteo](https://github.com/fvrmatteo) Forked [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA) to [fvrmatteo/CoBRA](https://github.com/fvrmatteo/CoBRA)
@@ -64,6 +66,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [google/swiftshader](https://github.com/google/swiftshader)
   > SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is t...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill)
+  > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - th...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+  > Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
   > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
@@ -71,6 +81,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [rafael-abuawad/vyper-foundry-starter](https://github.com/rafael-abuawad/vyper-foundry-starter)
   > Minimal Vyper + Snekmate + Foundry starter: compile and test Vyper contracts with Forge; Solidity te...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
+  > HTTP Request & Response Service, written in Python + Flask.
 
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [unbalancedparentheses/forex-centuries](https://github.com/unbalancedparentheses/forex-centuries)
@@ -94,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 19:36:17 UTC*
+*Last updated at 2026-06-07 20:34:16 UTC*
 *Historical records are stored in the `archive` directory.*
