@@ -90,6 +90,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin)
   > HTTP Request & Response Service, written in Python + Flask.
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [steptools/sc4-express](https://github.com/steptools/sc4-express)
+  > SC4 EXPRESS Schema Archive, used 2000-2010, now superseded by SMRL
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [unbalancedparentheses/forex-centuries](https://github.com/unbalancedparentheses/forex-centuries)
   > The most comprehensive open-source collection of long-run financial and economic data. 27 sources, 1...
@@ -112,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 21:32:59 UTC*
+*Last updated at 2026-06-07 22:30:15 UTC*
 *Historical records are stored in the `archive` directory.*
