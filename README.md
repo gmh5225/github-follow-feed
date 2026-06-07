@@ -40,11 +40,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [rafael-abuawad/vyper-foundry-starter](https://github.com/rafael-abuawad/vyper-foundry-starter)
   > Minimal Vyper + Snekmate + Foundry starter: compile and test Vyper contracts with Forge; Solidity te...
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [unbalancedparentheses/forex-centuries](https://github.com/unbalancedparentheses/forex-centuries)
+  > The most comprehensive open-source collection of long-run financial and economic data. 27 sources, 1...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
   > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
 
 
 ---
-*Last updated at 2026-06-07 12:44:14 UTC*
+*Last updated at 2026-06-07 13:39:41 UTC*
 *Historical records are stored in the `archive` directory.*
