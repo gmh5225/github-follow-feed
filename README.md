@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs)
+  > Rust implementation of Tailscale (preview, experimental)
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
   > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
@@ -13,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rust implementation of Tailscale (preview, experimental)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
   > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kyleavery/pendulum](https://github.com/kyleavery/pendulum)
+  > Linux Sleep Obfuscation
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kozmer/silentpulse](https://github.com/kozmer/silentpulse)
+  > single-threaded event driven sleep obfuscation poc for linux
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) to [CrackerCat/defending-code-reference-harness](https://github.com/CrackerCat/defending-code-reference-harness)
@@ -86,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 18:37:27 UTC*
+*Last updated at 2026-06-07 19:36:17 UTC*
 *Historical records are stored in the `archive` directory.*
