@@ -4,9 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
+  > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs)
   > Rust implementation of Tailscale (preview, experimental)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
+  > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) to [CrackerCat/defending-code-reference-harness](https://github.com/CrackerCat/defending-code-reference-harness)
@@ -47,10 +53,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [unbalancedparentheses/forex-centuries](https://github.com/unbalancedparentheses/forex-centuries)
   > The most comprehensive open-source collection of long-run financial and economic data. 27 sources, 1...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
+  > Message passing based allocator
 
 ### [weak1337](https://github.com/weak1337)
 - 🌟 👤 [weak1337](https://github.com/weak1337) Starred [luau-lang/luau](https://github.com/luau-lang/luau)
   > A small, fast, and embeddable programming language based on Lua with a gradual type system.
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [skorokithakis/gnosis](https://github.com/skorokithakis/gnosis)
+  > A knowledge base for what the code can't tell you.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [skorokithakis/ticket](https://github.com/skorokithakis/ticket)
+  > Fast, powerful, git-native ticket tracking in a single bash script. Dependency graphs, priority leve...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
@@ -58,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 14:42:19 UTC*
+*Last updated at 2026-06-07 15:36:09 UTC*
 *Historical records are stored in the `archive` directory.*
