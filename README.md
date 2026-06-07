@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs)
   > Rust implementation of Tailscale (preview, experimental)
 
+### [CR3Swapper](https://github.com/CR3Swapper)
+- 🌟 👤 [CR3Swapper](https://github.com/CR3Swapper) Starred [connorskees/grass](https://github.com/connorskees/grass)
+  > A Sass compiler written purely in Rust
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
   > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
@@ -116,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 22:30:15 UTC*
+*Last updated at 2026-06-07 23:29:58 UTC*
 *Historical records are stored in the `archive` directory.*
