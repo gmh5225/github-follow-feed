@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
   > Open Source Identity and Access Management For Modern Applications and Services
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [libretro-rs/libretro-rs](https://github.com/libretro-rs/libretro-rs)
+  > High level rust abstractions for the libretro API
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
   > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
@@ -44,11 +48,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [unbalancedparentheses/forex-centuries](https://github.com/unbalancedparentheses/forex-centuries)
   > The most comprehensive open-source collection of long-run financial and economic data. 27 sources, 1...
 
+### [weak1337](https://github.com/weak1337)
+- 🌟 👤 [weak1337](https://github.com/weak1337) Starred [luau-lang/luau](https://github.com/luau-lang/luau)
+  > A small, fast, and embeddable programming language based on Lua with a gradual type system.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
   > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
 
 
 ---
-*Last updated at 2026-06-07 13:39:41 UTC*
+*Last updated at 2026-06-07 14:42:19 UTC*
 *Historical records are stored in the `archive` directory.*
