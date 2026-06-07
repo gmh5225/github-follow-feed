@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microsoft/mxc](https://github.com/microsoft/mxc)
   > Policy-driven, layered isolation and containment 
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🍴 👤 [fvrmatteo](https://github.com/fvrmatteo) Forked [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA) to [fvrmatteo/CoBRA](https://github.com/fvrmatteo/CoBRA)
+  > Coefficient-Based Reconstruction of Arithmetic — a Mixed Boolean-Arithmetic (MBA) expression simplif...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
   > Open Source Identity and Access Management For Modern Applications and Services
@@ -41,6 +45,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [libretro-rs/libretro-rs](https://github.com/libretro-rs/libretro-rs)
   > High level rust abstractions for the libretro API
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [google/swiftshader](https://github.com/google/swiftshader)
+  > SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is t...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
@@ -72,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 15:36:09 UTC*
+*Last updated at 2026-06-07 16:37:33 UTC*
 *Historical records are stored in the `archive` directory.*
