@@ -33,6 +33,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lightweight Sandbox Powered by a Purpose-Built VM and OS
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microsoft/mxc](https://github.com/microsoft/mxc)
   > Policy-driven, layered isolation and containment 
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [opencv/opencv](https://github.com/opencv/opencv)
+  > Open Source Computer Vision Library
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria)
+  > Desktop app to manage markdown knowledge bases
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microsoft/pg_durable](https://github.com/microsoft/pg_durable)
+  > PostgreSQL in-database durable execution
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🍴 👤 [fvrmatteo](https://github.com/fvrmatteo) Forked [trailofbits/CoBRA](https://github.com/trailofbits/CoBRA) to [fvrmatteo/CoBRA](https://github.com/fvrmatteo/CoBRA)
@@ -80,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 16:37:33 UTC*
+*Last updated at 2026-06-07 17:35:31 UTC*
 *Historical records are stored in the `archive` directory.*
