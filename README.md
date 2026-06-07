@@ -62,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [libretro-rs/libretro-rs](https://github.com/libretro-rs/libretro-rs)
   > High level rust abstractions for the libretro API
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Omnitarium/scoptix](https://github.com/Omnitarium/scoptix)
+  > Open-source passive reconnaissance and attack surface exploration tool that leverages VirusTotal and...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [google/swiftshader](https://github.com/google/swiftshader)
   > SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is t...
@@ -73,6 +77,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Quaint-Studios/Reia](https://github.com/Quaint-Studios/Reia)
+  > RPG game action-adventure MMO built with Godot and Rust.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
@@ -106,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 20:34:16 UTC*
+*Last updated at 2026-06-07 21:32:59 UTC*
 *Historical records are stored in the `archive` directory.*
