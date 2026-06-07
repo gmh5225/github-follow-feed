@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microsoft/mxc](https://github.com/microsoft/mxc)
   > Policy-driven, layered isolation and containment 
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [keycloak/keycloak](https://github.com/keycloak/keycloak)
+  > Open Source Identity and Access Management For Modern Applications and Services
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
   > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
@@ -42,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-07 11:39:17 UTC*
+*Last updated at 2026-06-07 12:44:14 UTC*
 *Historical records are stored in the `archive` directory.*
