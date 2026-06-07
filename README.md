@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) to [CrackerCat/defending-code-reference-harness](https://github.com/CrackerCat/defending-code-reference-harness)
   > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
 
+### [TwoSevenOneT](https://github.com/TwoSevenOneT)
+- 🚀 👤 [TwoSevenOneT](https://github.com/TwoSevenOneT) Made [TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker) public
+  > A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Ataraxy-Labs/sem](https://github.com/Ataraxy-Labs/sem)
   > Semantic version control => entity-level diffs, blame, and impact analysis on top of git. 26 languag...
@@ -28,7 +32,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [buzzer-re/ToCode](https://github.com/buzzer-re/ToCode)
   > Transform binaries into source-code-like projects that coding agents can traverse, analyze, and use ...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [rafael-abuawad/vyper-foundry-starter](https://github.com/rafael-abuawad/vyper-foundry-starter)
+  > Minimal Vyper + Snekmate + Foundry starter: compile and test Vyper contracts with Forge; Solidity te...
+
 
 ---
-*Last updated at 2026-06-07 09:12:28 UTC*
+*Last updated at 2026-06-07 10:52:13 UTC*
 *Historical records are stored in the `archive` directory.*
