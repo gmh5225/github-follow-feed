@@ -14,7 +14,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jxy-s](https://github.com/jxy-s) Starred [jxy-s/hyprv](https://github.com/jxy-s/hyprv)
   > A modern Hyper-V Manager & Remote Desktop client for Windows.
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [0xPrimo/TinyC2](https://github.com/0xPrimo/TinyC2)
+  > Reimplementing Havoc Pro Runtime Channel Switching and Cobalt Strike UDC2 features.
+
 
 ---
-*Last updated at 2026-06-08 01:18:26 UTC*
+*Last updated at 2026-06-08 03:22:38 UTC*
 *Historical records are stored in the `archive` directory.*
