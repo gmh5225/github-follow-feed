@@ -45,6 +45,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Efficient and versatile WebAssembly interpreter for embedded systems.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
   > Python library for running a MicroPython sandbox using WebAssembly
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [joshuafuller/qrtak](https://github.com/joshuafuller/qrtak)
+  > Use QRCodes to easily onboard to TAK
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [openbao/openbao](https://github.com/openbao/openbao)
+  > OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, ce...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [smallstep/certificates](https://github.com/smallstep/certificates)
+  > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor)
+  > An app to monitor the (Codex) situation
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder)
@@ -67,6 +75,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [allkern/iris](https://github.com/allkern/iris) to [ioncodes/iris](https://github.com/ioncodes/iris)
   > Sony PlayStation 2 emulator for Windows, Linux and macOS
+
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet)
+  > Comfortably monitor your Internet traffic 🕵️‍♂️
 
 ### [jxy-s](https://github.com/jxy-s)
 - 🌟 👤 [jxy-s](https://github.com/jxy-s) Starred [jxy-s/hyprv](https://github.com/jxy-s/hyprv)
@@ -127,5 +139,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-08 18:04:01 UTC*
+*Last updated at 2026-06-08 19:47:29 UTC*
 *Historical records are stored in the `archive` directory.*
