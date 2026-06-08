@@ -35,6 +35,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder)
   > A coding agent optimized to smaller LLMs
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)
+  > Desktop and web interface for OpenCode AI agent
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
+  > Orchestrate multiple coding agents from desktop and mobile
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [NeuralNomadsAI/CodeNomad](https://github.com/NeuralNomadsAI/CodeNomad)
+  > CodeNomad: The command center that puts AI coding on steroids.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)
+  > ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydratin...
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [trifectatechfoundation/libzstd-rs-sys](https://github.com/trifectatechfoundation/libzstd-rs-sys)
@@ -66,6 +76,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Robert-MacWha/privacy-paymaster](https://github.com/Robert-MacWha/privacy-paymaster)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume)
   > The Markdown Resume
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium)
+  > Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and...
 
 ### [secrary](https://github.com/secrary)
 - 🌟 👤 [secrary](https://github.com/secrary) Starred [rockorager/libvaxis](https://github.com/rockorager/libvaxis)
@@ -85,7 +97,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [specis/apple-surface-dial](https://github.com/specis/apple-surface-dial) to [williballenthin/apple-surface-dial](https://github.com/williballenthin/apple-surface-dial)
   > Make your Microsoft Surface Dial fully functional on macOS radial menu, per-app profiles,   haptic f...
 
+### [xiaoweiChen](https://github.com/xiaoweiChen)
+- 🌟 👤 [xiaoweiChen](https://github.com/xiaoweiChen) Starred [xiaoweiChen/Minimal-CMake](https://github.com/xiaoweiChen/Minimal-CMake)
+  > 《Minimal CMake》的非专业个人翻译
+
 
 ---
-*Last updated at 2026-06-08 14:30:05 UTC*
+*Last updated at 2026-06-08 16:27:44 UTC*
 *Historical records are stored in the `archive` directory.*
