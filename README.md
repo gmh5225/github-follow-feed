@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [valutta/MuternVF](https://github.com/valutta/MuternVF)
+  > A variable grotesque with weight, width, and optical size axes. 
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [D4rkks/CVE-2025-7771-Vulnerability-Exploration](https://github.com/D4rkks/CVE-2025-7771-Vulnerability-Exploration)
   > Escalating privilege in the system from unsigned driver using throttlestop vulnerability
@@ -31,10 +35,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)
   > 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [MengMengCode/CLICD](https://github.com/MengMengCode/CLICD) to [Mr-xn/CLICD](https://github.com/Mr-xn/CLICD)
+  > CLICD 是一个面向 LXC/KVM 的轻量虚拟化管理面板，提供 Web 控制台、CLI、批量任务、镜像管理、NAT 端口、IPv6 分配、WebSSH、VNC、资源限制、流量限制和安全告警能力。它...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [prophesee-ai/openeb](https://github.com/prophesee-ai/openeb)
+  > Open source SDK to create applications leveraging event-based vision hardware equipment
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi)
+  > Efficient and versatile WebAssembly interpreter for embedded systems.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [simonw/micropython-wasm](https://github.com/simonw/micropython-wasm)
+  > Python library for running a MicroPython sandbox using WebAssembly
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder)
-  > A coding agent optimized to smaller LLMs
+  > A harness optimized to smaller LLMs
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [openchamber/openchamber](https://github.com/openchamber/openchamber)
   > Desktop and web interface for OpenCode AI agent
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
@@ -71,6 +85,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Glass - a fast and free IDA Pro alternative
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
   > This project aims to compare and evaluate the telemetry of various EDR products.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bombaris34/il2cpp-pdb](https://github.com/bombaris34/il2cpp-pdb)
+  > Il2CppDumper fork with a native Rust PDB generator for x64 PE (GameAssembly.dll): function names, fu...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Robert-MacWha/privacy-paymaster](https://github.com/Robert-MacWha/privacy-paymaster)
@@ -78,6 +94,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The Markdown Resume
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium)
   > Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and...
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs)
+  > Download firmware for Samsung devices
 
 ### [secrary](https://github.com/secrary)
 - 🌟 👤 [secrary](https://github.com/secrary) Starred [rockorager/libvaxis](https://github.com/rockorager/libvaxis)
@@ -91,6 +111,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [swisskyrepo](https://github.com/swisskyrepo) Made [swisskyrepo/ygo-meta-deck](https://github.com/swisskyrepo/ygo-meta-deck) public
   > Deck analysis with OpenAI
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [jolt-lang/jolt](https://github.com/jolt-lang/jolt)
+  > A Clojure interpreter running on Janet
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [specis/apple-surface-dial](https://github.com/specis/apple-surface-dial)
   > Make your Microsoft Surface Dial fully functional on macOS radial menu, per-app profiles,   haptic f...
@@ -103,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-08 16:27:44 UTC*
+*Last updated at 2026-06-08 18:04:01 UTC*
 *Historical records are stored in the `archive` directory.*
