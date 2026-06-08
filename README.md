@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ljy2367765883/EDR-DataProtector](https://github.com/ljy2367765883/EDR-DataProtector) to [CrackerCat/EDR-DataProtector](https://github.com/CrackerCat/EDR-DataProtector)
   > An experimental intranet security defense EDR
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [pentoo/pentoo-overlay](https://github.com/pentoo/pentoo-overlay)
+  > Gentoo overlay for security tools as well as the heart of the Pentoo Livecd
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
   > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
@@ -67,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/artifact-fs](https://github.com/cloudflare/artifact-fs)
   > ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydratin...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)
+  > Cloudflare's component library for building modern web applications.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [trifectatechfoundation/libzstd-rs-sys](https://github.com/trifectatechfoundation/libzstd-rs-sys)
@@ -139,5 +145,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-08 19:47:29 UTC*
+*Last updated at 2026-06-08 20:59:44 UTC*
 *Historical records are stored in the `archive` directory.*
