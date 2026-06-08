@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim)
+  > Neovim config for the lazy
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [valutta/MuternVF](https://github.com/valutta/MuternVF)
   > A variable grotesque with weight, width, and optical size axes. 
@@ -57,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate mana...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor)
   > An app to monitor the (Codex) situation
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Flightradar24/fr24api-mcp](https://github.com/Flightradar24/fr24api-mcp)
+  > Official Flightradar24 API MCP
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder)
@@ -113,6 +119,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The Markdown Resume
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [GrapheneOS/Vanadium](https://github.com/GrapheneOS/Vanadium)
   > Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [humanity-org/hp-basic-token](https://github.com/humanity-org/hp-basic-token)
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs)
@@ -125,10 +132,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [0xPrimo/TinyC2](https://github.com/0xPrimo/TinyC2)
   > Reimplementing Havoc Pro Runtime Channel Switching and Cobalt Strike UDC2 features.
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [PatchRequest/BusyWork](https://github.com/PatchRequest/BusyWork)
+  > Sleep replacement that executes real, varied work to break behavioral pattern matching by EDR and an...
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [RWXstoned/LdrShuffle](https://github.com/RWXstoned/LdrShuffle)
+  > Code execution/injection technique using DLL PEB module structure manipulation
 
 ### [steipete](https://github.com/steipete)
 - 🍴 👤 [steipete](https://github.com/steipete) Forked [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) to [steipete/lossless-claw](https://github.com/steipete/lossless-claw)
   > Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
+- 🍴 👤 [steipete](https://github.com/steipete) Forked [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) to [steipete/ClawRouter](https://github.com/steipete/ClawRouter)
+  > The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana v...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🚀 👤 [swisskyrepo](https://github.com/swisskyrepo) Made [swisskyrepo/ygo-meta-deck](https://github.com/swisskyrepo/ygo-meta-deck) public
@@ -150,5 +163,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-08 21:43:00 UTC*
+*Last updated at 2026-06-08 22:38:14 UTC*
 *Historical records are stored in the `archive` directory.*
