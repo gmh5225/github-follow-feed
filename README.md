@@ -34,20 +34,38 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jxy-s](https://github.com/jxy-s) Starred [jxy-s/hyprv](https://github.com/jxy-s/hyprv)
   > A modern Hyper-V Manager & Remote Desktop client for Windows.
 
+### [karalabe](https://github.com/karalabe)
+- 🌟 👤 [karalabe](https://github.com/karalabe) Starred [zaeleus/noodles](https://github.com/zaeleus/noodles)
+  > Bioinformatics I/O libraries in Rust
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [azw413/Glass](https://github.com/azw413/Glass)
   > Glass - a fast and free IDA Pro alternative
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
+  > This project aims to compare and evaluate the telemetry of various EDR products.
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Robert-MacWha/privacy-paymaster](https://github.com/Robert-MacWha/privacy-paymaster)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mszep/pandoc_resume](https://github.com/mszep/pandoc_resume)
   > The Markdown Resume
 
+### [secrary](https://github.com/secrary)
+- 🌟 👤 [secrary](https://github.com/secrary) Starred [rockorager/libvaxis](https://github.com/rockorager/libvaxis)
+  > a modern tui library written in zig
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [0xPrimo/TinyC2](https://github.com/0xPrimo/TinyC2)
   > Reimplementing Havoc Pro Runtime Channel Switching and Cobalt Strike UDC2 features.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🚀 👤 [swisskyrepo](https://github.com/swisskyrepo) Made [swisskyrepo/ygo-meta-deck](https://github.com/swisskyrepo/ygo-meta-deck) public
+  > Deck analysis with OpenAI
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [specis/apple-surface-dial](https://github.com/specis/apple-surface-dial)
+  > Make your Microsoft Surface Dial fully functional on macOS radial menu, per-app profiles,   haptic f...
+
 
 ---
-*Last updated at 2026-06-08 10:44:09 UTC*
+*Last updated at 2026-06-08 12:34:14 UTC*
 *Historical records are stored in the `archive` directory.*
