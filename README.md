@@ -77,6 +77,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [trifectatechfoundation/libzstd-rs-sys](https://github.com/trifectatechfoundation/libzstd-rs-sys)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [remyx-rs/remyx](https://github.com/remyx-rs/remyx)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [vorpus/performativeUI](https://github.com/vorpus/performativeUI)
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [allkern/iris](https://github.com/allkern/iris) to [ioncodes/iris](https://github.com/ioncodes/iris)
@@ -125,6 +126,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [0xPrimo/TinyC2](https://github.com/0xPrimo/TinyC2)
   > Reimplementing Havoc Pro Runtime Channel Switching and Cobalt Strike UDC2 features.
 
+### [steipete](https://github.com/steipete)
+- 🍴 👤 [steipete](https://github.com/steipete) Forked [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) to [steipete/lossless-claw](https://github.com/steipete/lossless-claw)
+  > Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🚀 👤 [swisskyrepo](https://github.com/swisskyrepo) Made [swisskyrepo/ygo-meta-deck](https://github.com/swisskyrepo/ygo-meta-deck) public
   > Deck analysis with OpenAI
@@ -145,5 +150,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-08 20:59:44 UTC*
+*Last updated at 2026-06-08 21:43:00 UTC*
 *Historical records are stored in the `archive` directory.*
