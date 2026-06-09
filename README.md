@@ -87,6 +87,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/realtimekit-web-examples](https://github.com/cloudflare/realtimekit-web-examples)
   > Web examples for Cloudflare RealtimeKit :rocket:
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [RESBI/FPGA-Mandelbrot-Demo](https://github.com/RESBI/FPGA-Mandelbrot-Demo)
+  > A Mandelbrot set generator softcore on FPGA.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [frostb1ten/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion](https://github.com/frostb1ten/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bombaris34/il2cpp-pdb](https://github.com/bombaris34/il2cpp-pdb)
+  > Il2CppDumper fork with a native Rust PDB generator for x64 PE (GameAssembly.dll): function names, fu...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker)
+  > A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [frostb1ten/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion](https://github.com/frostb1ten/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion) to [killvxk/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion](https://github.com/killvxk/Windows-Terminal-OSC-9-9-NTLM-Auth-Coercion)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [TwoSevenOneT/EDRChoker](https://github.com/TwoSevenOneT/EDRChoker) to [killvxk/EDRChoker](https://github.com/killvxk/EDRChoker)
+  > A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sbousseaden/EDRUnChoker](https://github.com/sbousseaden/EDRUnChoker)
+  > EDRUnChoker - fileless WMI defense that removes EDRChoker QoS throttling policies
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
@@ -124,5 +138,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-09 18:54:29 UTC*
+*Last updated at 2026-06-09 19:46:40 UTC*
 *Historical records are stored in the `archive` directory.*
