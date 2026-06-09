@@ -52,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [mixiate/RCTGen2](https://github.com/mixiate/RCTGen2)
+- 🚀 👤 [ZehMatt](https://github.com/ZehMatt) Made [behl-lang/behl-lsp](https://github.com/behl-lang/behl-lsp) public
+  > Language Server Protocol implementation for the Behl scripting language. Provides diagnostics, symbo...
+- 🚀 👤 [ZehMatt](https://github.com/ZehMatt) Made [behl-lang/behl-vscode](https://github.com/behl-lang/behl-vscode) public
+  > Behl language support for Visual Studio Code. Syntax highlighting plus rich editing features (diagno...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [digitalbazaar/forge](https://github.com/digitalbazaar/forge)
@@ -100,6 +104,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode)
   > Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extensio...
 
+### [n01e0](https://github.com/n01e0)
+- 🌟 👤 [n01e0](https://github.com/n01e0) Starred [melonattacker/threat-thinker](https://github.com/melonattacker/threat-thinker)
+  > AI-powered threat modeling that turns architecture diagrams and business context into actionable thr...
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Randozart/brief-lang](https://github.com/Randozart/brief-lang)
 
@@ -116,5 +124,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-09 17:03:37 UTC*
+*Last updated at 2026-06-09 18:54:29 UTC*
 *Historical records are stored in the `archive` directory.*
