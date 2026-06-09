@@ -67,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [hnytgl/CVE-2026-41089](https://github.com/hnytgl/CVE-2026-41089) to [classic130/CVE-2026-41089](https://github.com/classic130/CVE-2026-41089)
   > CVE-2026-41089 是 Windows Netlogon 服务中一个关键的远程代码执行漏洞
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [azw413/Glass](https://github.com/azw413/Glass)
+  > Glass - a fast and free IDA Pro alternative
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
   > A vector index built on TurboQuant, written in Rust with Python bindings
@@ -93,6 +97,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [estkme-group/lpac](https://github.com/estkme-group/lpac)
   > C-based eUICC LPA
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode)
+  > Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extensio...
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Randozart/brief-lang](https://github.com/Randozart/brief-lang)
@@ -110,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-09 15:16:20 UTC*
+*Last updated at 2026-06-09 17:03:37 UTC*
 *Historical records are stored in the `archive` directory.*
