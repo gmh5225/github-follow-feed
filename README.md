@@ -63,6 +63,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An app to monitor the (Codex) situation
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Flightradar24/fr24api-mcp](https://github.com/Flightradar24/fr24api-mcp)
   > Official Flightradar24 API MCP
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [godfreynolan/tak_server](https://github.com/godfreynolan/tak_server)
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [itayinbarr/little-coder](https://github.com/itayinbarr/little-coder)
@@ -79,6 +80,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydratin...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/kumo](https://github.com/cloudflare/kumo)
   > Cloudflare's component library for building modern web applications.
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec)
+  > A vector index built on TurboQuant, written in Rust with Python bindings
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [huawei-csl/KVarN](https://github.com/huawei-csl/KVarN)
+  > KVarN is a native vLLM KV-cache quantization backend for your agents: 3-5x more context, throughput ...
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [trifectatechfoundation/libzstd-rs-sys](https://github.com/trifectatechfoundation/libzstd-rs-sys)
@@ -125,6 +132,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs)
   > Download firmware for Samsung devices
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [adewynter/aoe2-circuits](https://github.com/adewynter/aoe2-circuits)
+  > For the paper 'If LLMs Have Human-Like Attributes, Then so Does Age of Empires II'
+
 ### [secrary](https://github.com/secrary)
 - 🌟 👤 [secrary](https://github.com/secrary) Starred [rockorager/libvaxis](https://github.com/rockorager/libvaxis)
   > a modern tui library written in zig
@@ -163,5 +174,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-08 22:38:14 UTC*
+*Last updated at 2026-06-08 23:32:57 UTC*
 *Historical records are stored in the `archive` directory.*
