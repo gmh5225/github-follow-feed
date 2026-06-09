@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [uellenberg/Insert](https://github.com/uellenberg/Insert)
   > Insert is a programming language for self-modifying code.
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dobin/detonator](https://github.com/dobin/detonator)
+  > Orchestrate detonating your MalDev in VMs with different EDRs to see their detection surface. 
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LadyDarknes/League-Offsets](https://github.com/LadyDarknes/League-Offsets) to [CrackerCat/League-Offsets](https://github.com/CrackerCat/League-Offsets)
   > Updated league offsets
@@ -17,6 +21,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Virtual Camera, support Android 10+
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill) to [CrackerCat/windbgskill](https://github.com/CrackerCat/windbgskill)
   > The windbg skill gives AI the ability to execute WinDbg commands. Typical use cases include kernel d...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dzxpert/VMXH](https://github.com/dzxpert/VMXH) to [CrackerCat/VMXH](https://github.com/CrackerCat/VMXH)
+  > probably an HV holy grail 
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [binsync/declib](https://github.com/binsync/declib) to [CrackerCat/declib](https://github.com/CrackerCat/declib)
+  > A library for writing plugins in any decompiler: includes API lifting, common data formatting, and G...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) to [CrackerCat/CPA-Manager-Plus](https://github.com/CrackerCat/CPA-Manager-Plus)
+  > Management panel for CLI Proxy API with a Docker-ready Manager Server, SQLite usage analytics, reque...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ximeiorg/Xime](https://github.com/ximeiorg/Xime) to [CrackerCat/Xime](https://github.com/CrackerCat/Xime)
+  > 我的自用安卓输入法，基于Rime 构建，支持五笔/拼音/自定义方案。相关功能由本人设计的本地AI模型驱动
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) to [CrackerCat/mlir-tutorial](https://github.com/CrackerCat/mlir-tutorial)
+  > MLIR For Beginners tutorial
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [capt-meelo/KernelCallbackTable-Injection](https://github.com/capt-meelo/KernelCallbackTable-Injection)
@@ -29,6 +43,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > open source process monitor
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)
   > 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
+  > Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: determi...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks...
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [mixiate/RCTGen2](https://github.com/mixiate/RCTGen2)
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [digitalbazaar/forge](https://github.com/digitalbazaar/forge)
@@ -60,11 +83,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .claude directory.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [de2nis/GLOVE](https://github.com/de2nis/GLOVE)
+  > GLOVE (GL Over Vulkan) is a software library that acts as an intermediate layer between an OpenGL ap...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [stjordanis/GLOVE-1](https://github.com/stjordanis/GLOVE-1)
+  > GLOVE (GL Over Vulkan) is a cross-platform software library that acts as an intermediate layer betwe...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [estkme-group/lpac](https://github.com/estkme-group/lpac)
+  > C-based eUICC LPA
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Randozart/brief-lang](https://github.com/Randozart/brief-lang)
+
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [stefanoginella/aicontainer](https://github.com/stefanoginella/aicontainer)
+  > Sandboxed devcontainer for running Claude Code, Codex, and OpenCode in bypass / auto-approve mode.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server)
@@ -75,5 +110,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-09 13:13:13 UTC*
+*Last updated at 2026-06-09 15:16:20 UTC*
 *Historical records are stored in the `archive` directory.*
