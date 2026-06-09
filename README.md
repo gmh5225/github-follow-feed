@@ -14,10 +14,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kwansy98/windbgskill](https://github.com/Kwansy98/windbgskill) to [CrackerCat/windbgskill](https://github.com/CrackerCat/windbgskill)
   > The windbg skill gives AI the ability to execute WinDbg commands. Typical use cases include kernel d...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [digitalbazaar/forge](https://github.com/digitalbazaar/forge)
+  > A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webap...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 
 
 ---
-*Last updated at 2026-06-09 01:09:10 UTC*
+*Last updated at 2026-06-09 03:19:43 UTC*
 *Historical records are stored in the `archive` directory.*
