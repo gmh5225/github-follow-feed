@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial) to [CrackerCat/mlir-tutorial](https://github.com/CrackerCat/mlir-tutorial)
   > MLIR For Beginners tutorial
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus)
+  > All CPU and MCU documentation in one place
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [capt-meelo/KernelCallbackTable-Injection](https://github.com/capt-meelo/KernelCallbackTable-Injection)
   > Code used in this post https://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection...
@@ -148,5 +152,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-09 20:48:11 UTC*
+*Last updated at 2026-06-09 21:40:06 UTC*
 *Historical records are stored in the `archive` directory.*
