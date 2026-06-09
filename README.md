@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An experimental intranet security defense EDR
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
   > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [progmboy/openprocmon](https://github.com/progmboy/openprocmon)
+  > open source process monitor
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)
+  > 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [digitalbazaar/forge](https://github.com/digitalbazaar/forge)
@@ -55,10 +59,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Randozart/brief-lang](https://github.com/Randozart/brief-lang)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [aliyun/alibabacloud-observability-mcp-server](https://github.com/aliyun/alibabacloud-observability-mcp-server)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [tailscale/golink](https://github.com/tailscale/golink)
+  > A private shortlink service for tailnets
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [magic-wormhole/magic-wormhole.rs](https://github.com/magic-wormhole/magic-wormhole.rs)
+  > Rust implementation of Magic Wormhole, with new features and enhancements
 
 
 ---
-*Last updated at 2026-06-09 09:20:27 UTC*
+*Last updated at 2026-06-09 11:11:39 UTC*
 *Historical records are stored in the `archive` directory.*
