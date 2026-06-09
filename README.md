@@ -23,11 +23,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webap...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [haproxy/haproxy](https://github.com/haproxy/haproxy)
   > HAProxy Load Balancer's development branch (mirror of git.haproxy.org)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel)
+  > The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-d...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dfpc-coe/node-CoT](https://github.com/dfpc-coe/node-CoT)
+  > Javascript Cursor-On-Target Library
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [hnytgl/CVE-2026-41089](https://github.com/hnytgl/CVE-2026-41089) to [classic130/CVE-2026-41089](https://github.com/classic130/CVE-2026-41089)
+  > CVE-2026-41089 是 Windows Netlogon 服务中一个关键的远程代码执行漏洞
+
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench)
 
 
 ---
-*Last updated at 2026-06-09 05:32:17 UTC*
+*Last updated at 2026-06-09 07:28:55 UTC*
 *Historical records are stored in the `archive` directory.*
