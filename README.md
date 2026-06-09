@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dobin/detonator](https://github.com/dobin/detonator)
   > Orchestrate detonating your MalDev in VMs with different EDRs to see their detection surface. 
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)
+  > PX4 Autopilot Software
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LadyDarknes/League-Offsets](https://github.com/LadyDarknes/League-Offsets) to [CrackerCat/League-Offsets](https://github.com/CrackerCat/League-Offsets)
@@ -83,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
   > Self-hosted AI workspace. 
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [adewynter/aoe2-circuits](https://github.com/adewynter/aoe2-circuits)
+  > For the paper 'If LLMs Have Human-Like Attributes, Then so Does Age of Empires II'
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/realtimekit-web-examples](https://github.com/cloudflare/realtimekit-web-examples)
   > Web examples for Cloudflare RealtimeKit :rocket:
@@ -100,6 +106,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sbousseaden/EDRUnChoker](https://github.com/sbousseaden/EDRUnChoker)
   > EDRUnChoker - fileless WMI defense that removes EDRChoker QoS throttling policies
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [y198nt/Nginx-chain-Rift-Poolslip](https://github.com/y198nt/Nginx-chain-Rift-Poolslip)
+  > Nginx RCE chain PoC with CVE-2026-9256 and CVE-2026-42945
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [y198nt/Nginx-chain-Rift-Poolslip](https://github.com/y198nt/Nginx-chain-Rift-Poolslip) to [killvxk/Nginx-chain-Rift-Poolslip](https://github.com/killvxk/Nginx-chain-Rift-Poolslip)
+  > Nginx RCE chain PoC with CVE-2026-9256 and CVE-2026-42945
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
@@ -138,5 +148,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-09 19:46:40 UTC*
+*Last updated at 2026-06-09 20:48:11 UTC*
 *Historical records are stored in the `archive` directory.*
