@@ -45,9 +45,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [apple/container](https://github.com/apple/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
 
+### [SinaKarvandi](https://github.com/SinaKarvandi)
+- 🍴 👤 [SinaKarvandi](https://github.com/SinaKarvandi) Forked [nyx-fuzz/libxdc](https://github.com/nyx-fuzz/libxdc) to [HyperDbg/libxdc](https://github.com/HyperDbg/libxdc)
+  > The fastest Intel-PT decoder for fuzzing
+
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
   > RoguePlanet Windows Defender Vulnerability
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/mxc](https://github.com/microsoft/mxc)
+  > Policy-driven, layered isolation and containment 
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/skills](https://github.com/google/skills)
+  > Agent Skills for Google products and technologies
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
 ### [dhondta](https://github.com/dhondta)
 - 🌟 👤 [dhondta](https://github.com/dhondta) Starred [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
@@ -60,6 +72,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
   > A Kubernetes device plugin to schedule generic Linux devices
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [flafmg/RecompOne](https://github.com/flafmg/RecompOne)
+  > Static ps1 recompiler (WIP)
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [apple/container](https://github.com/apple/container)
@@ -121,5 +137,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-10 19:05:16 UTC*
+*Last updated at 2026-06-10 21:00:47 UTC*
 *Historical records are stored in the `archive` directory.*
