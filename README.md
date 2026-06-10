@@ -88,6 +88,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [defi-wonderland/interop-sdk](https://github.com/defi-wonderland/interop-sdk)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [extend-hq/ui](https://github.com/extend-hq/ui)
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+  > A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whi...
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [wagoodman/dive](https://github.com/wagoodman/dive)
   > A tool for exploring each layer in a docker image
@@ -139,5 +143,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-10 22:42:15 UTC*
+*Last updated at 2026-06-10 23:37:22 UTC*
 *Historical records are stored in the `archive` directory.*
