@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [ciaranm/glasgow-subgraph-solver](https://github.com/ciaranm/glasgow-subgraph-solver)
+  > A solver for subgraph isomorphism problems, based upon a series of papers by subsets of McCreesh, Pr...
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
   > RoguePlanet Windows Defender Vulnerability
@@ -23,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Y4tacker/Waymark](https://github.com/Y4tacker/Waymark)
   > A durable blackboard runtime for verifiable Claude Code agent loops.
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
+
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
   > RoguePlanet Windows Defender Vulnerability
@@ -33,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dhondta](https://github.com/dhondta) Starred [ishandutta2007/Awesome-Text-to-Speech](https://github.com/ishandutta2007/Awesome-Text-to-Speech)
   > 🎤 A curated list of the latest and most influential tools, models, and resources in the Text-to-Spee...
 
+### [es3n1n](https://github.com/es3n1n)
+- 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [redpwn/jail](https://github.com/redpwn/jail) to [es3n1n/jail](https://github.com/es3n1n/jail)
+  > An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [apple/container](https://github.com/apple/container)
   > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
@@ -40,6 +52,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [alloy-rs/evm2](https://github.com/alloy-rs/evm2)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [defi-wonderland/interop-sdk](https://github.com/defi-wonderland/interop-sdk)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [extend-hq/ui](https://github.com/extend-hq/ui)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [wagoodman/dive](https://github.com/wagoodman/dive)
@@ -61,11 +74,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [gusg21/geargame](https://github.com/gusg21/geargame)
   > a small 2D game engine in C99 with built-in editor and Lua scripting
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [redplait/denvdis](https://github.com/redplait/denvdis)
+  > NVidia sass disassembler/inline patcher
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [drjanosch42/cuda-mpqs](https://github.com/drjanosch42/cuda-mpqs)
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NoopApp/noop](https://github.com/NoopApp/noop)
   > Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud...
 
 
 ---
-*Last updated at 2026-06-10 13:26:24 UTC*
+*Last updated at 2026-06-10 15:15:59 UTC*
 *Historical records are stored in the `archive` directory.*
