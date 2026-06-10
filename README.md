@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Alhadis/OSC8-Adoption](https://github.com/Alhadis/OSC8-Adoption)
+  > List of terminal emulators that support hyperlinks (OSC 8 escape sequences).
+
 ### [Colton1skees](https://github.com/Colton1skees)
 - 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [ciaranm/glasgow-subgraph-solver](https://github.com/ciaranm/glasgow-subgraph-solver)
   > A solver for subgraph isomorphism problems, based upon a series of papers by subsets of McCreesh, Pr...
@@ -20,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > RoguePlanet Windows Defender Vulnerability
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api)
   > ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支...
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
+  > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)
@@ -58,6 +66,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [wagoodman/dive](https://github.com/wagoodman/dive)
   > A tool for exploring each layer in a docker image
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DiligentGraphics/DLSS-Headers](https://github.com/DiligentGraphics/DLSS-Headers) to [hzqst/DLSS-Headers](https://github.com/hzqst/DLSS-Headers)
+
+### [jtriley2p](https://github.com/jtriley2p)
+- 🍴 👤 [jtriley2p](https://github.com/jtriley2p) Forked [uniswapfoundation/Uniswap-Wormhole-Bridge](https://github.com/uniswapfoundation/Uniswap-Wormhole-Bridge) to [jtriley2p/Uniswap-Wormhole-Bridge](https://github.com/jtriley2p/Uniswap-Wormhole-Bridge)
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [burpheart/cursor-tap](https://github.com/burpheart/cursor-tap)
   > Cursor gRPC 通信流量分析工具
@@ -78,12 +92,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [redplait/denvdis](https://github.com/redplait/denvdis)
   > NVidia sass disassembler/inline patcher
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [drjanosch42/cuda-mpqs](https://github.com/drjanosch42/cuda-mpqs)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)
+  > LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MO...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NoopApp/noop](https://github.com/NoopApp/noop)
   > Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud...
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
+
+### [rasbt](https://github.com/rasbt)
+- 🌟 👤 [rasbt](https://github.com/rasbt) Starred [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code)
+  > An open-source AI coding agent that lives in your terminal.
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)
+  > An AI-powered security review GitHub Action using Claude to analyze code changes for security vulner...
+
 
 ---
-*Last updated at 2026-06-10 15:15:59 UTC*
+*Last updated at 2026-06-10 17:15:13 UTC*
 *Historical records are stored in the `archive` directory.*
