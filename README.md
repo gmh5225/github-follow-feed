@@ -72,6 +72,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
   > A Kubernetes device plugin to schedule generic Linux devices
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [bruits/satteri](https://github.com/bruits/satteri)
+  > High-performance Markdown and MDX processing for the JavaScript ecosystem
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [flafmg/RecompOne](https://github.com/flafmg/RecompOne)
@@ -137,5 +139,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-10 21:00:47 UTC*
+*Last updated at 2026-06-10 22:42:15 UTC*
 *Historical records are stored in the `archive` directory.*
