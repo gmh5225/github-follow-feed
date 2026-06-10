@@ -29,6 +29,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo)
   > 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
+### [KANKOSHEV](https://github.com/KANKOSHEV)
+- 🌟 👤 [KANKOSHEV](https://github.com/KANKOSHEV) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+- 🍴 👤 [KANKOSHEV](https://github.com/KANKOSHEV) Forked [noahware/binprotect](https://github.com/noahware/binprotect) to [KANKOSHEV/binprotect](https://github.com/KANKOSHEV/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)
   > Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support ...
@@ -52,6 +58,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🍴 👤 [es3n1n](https://github.com/es3n1n) Forked [redpwn/jail](https://github.com/redpwn/jail) to [es3n1n/jail](https://github.com/es3n1n/jail)
   > An nsjail Docker image for CTF pwnables. Easily create secure, isolated xinetd/inetd-style services.
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [squat/generic-device-plugin](https://github.com/squat/generic-device-plugin)
+  > A Kubernetes device plugin to schedule generic Linux devices
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [apple/container](https://github.com/apple/container)
@@ -113,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-10 17:15:13 UTC*
+*Last updated at 2026-06-10 19:05:16 UTC*
 *Historical records are stored in the `archive` directory.*
