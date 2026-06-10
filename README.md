@@ -17,6 +17,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api)
   > ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX)
+  > Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support ...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Y4tacker/Waymark](https://github.com/Y4tacker/Waymark)
+  > A durable blackboard runtime for verifiable Claude Code agent loops.
+
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
+  > RoguePlanet Windows Defender Vulnerability
+
 ### [dhondta](https://github.com/dhondta)
 - 🌟 👤 [dhondta](https://github.com/dhondta) Starred [ishandutta2007/Top-AI-repos](https://github.com/ishandutta2007/Top-AI-repos)
   > 🎖️🏆🏅 100 most popular open source AI projects 🌟 Star if you like it!  🌟 
@@ -31,9 +41,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [alloy-rs/evm2](https://github.com/alloy-rs/evm2)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [defi-wonderland/interop-sdk](https://github.com/defi-wonderland/interop-sdk)
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [wagoodman/dive](https://github.com/wagoodman/dive)
+  > A tool for exploring each layer in a docker image
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [burpheart/cursor-tap](https://github.com/burpheart/cursor-tap)
   > Cursor gRPC 通信流量分析工具
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [zed-industries/zed](https://github.com/zed-industries/zed) to [mrexodia/zed](https://github.com/mrexodia/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [dinau/imguin](https://github.com/dinau/imguin)
+  > Dear Imgui / CImGui, ImPlot/CImPlot wrapper for Nim language
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [nimgl/imgui](https://github.com/nimgl/imgui)
+  > ImGui bindings for Nim via cimgui
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [gusg21/geargame](https://github.com/gusg21/geargame)
+  > a small 2D game engine in C99 with built-in editor and Lua scripting
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NoopApp/noop](https://github.com/NoopApp/noop)
@@ -41,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-10 11:23:27 UTC*
+*Last updated at 2026-06-10 13:26:24 UTC*
 *Historical records are stored in the `archive` directory.*
