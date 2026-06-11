@@ -23,6 +23,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [andy-t-wang/toolrouter](https://github.com/andy-t-wang/toolrouter)
   > Tools your agent can actually trust
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [JeremyIV/elastic-streets](https://github.com/JeremyIV/elastic-streets)
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [SebLague/Rubiks-Cube](https://github.com/SebLague/Rubiks-Cube)
 
@@ -34,6 +37,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [facebook/rocksdb](https://github.com/facebook/rocksdb) to [rv2036/rvspoc-S2605-rocksdb](https://github.com/rv2036/rvspoc-S2605-rocksdb)
   > A library that provides an embeddable, persistent key-value store for fast storage.
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog)
+  > PostgreSQL connection pooler, load balancer and database sharder.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [cloudskytian/VBSKiller](https://github.com/cloudskytian/VBSKiller)
   > This is a simple UEFI application designed to disable Virtualization-Based Security (VBS) by setting...
@@ -42,5 +49,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-11 07:56:41 UTC*
+*Last updated at 2026-06-11 09:42:12 UTC*
 *Historical records are stored in the `archive` directory.*
