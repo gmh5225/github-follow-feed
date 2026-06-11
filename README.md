@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [threathunters-io/tracebit_x33fcon_2026](https://github.com/threathunters-io/tracebit_x33fcon_2026)
+  > This repository contains the research tool presented at x33fcon 2026, along with the associated pres...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw) to [CrackerCat/VulnClaw](https://github.com/CrackerCat/VulnClaw)
   > 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
@@ -45,9 +49,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [JeremyIV/elastic-streets](https://github.com/JeremyIV/elastic-streets)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
+  > Socket-based TS/JavaScript API for WhatsApp Web
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [SebLague/Rubiks-Cube](https://github.com/SebLague/Rubiks-Cube)
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
+  > Fully open reproduction of DeepSeek-R1
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [redis/redis](https://github.com/redis/redis) to [rv2036/rvspoc-S2603-redis](https://github.com/rv2036/rvspoc-S2603-redis)
@@ -70,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PostgreSQL connection pooler, load balancer and database sharder.
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [banteg/vysort](https://github.com/banteg/vysort)
   > recover deterministic vyper 0.3.4-0.3.7 source shape to match the deployed bytecode
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer)
+  > Onion Monero Blockchain Explorer
 
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
@@ -85,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-11 13:36:11 UTC*
+*Last updated at 2026-06-11 15:19:18 UTC*
 *Historical records are stored in the `archive` directory.*
