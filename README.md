@@ -29,10 +29,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [bI8d0/DriverSentinel](https://github.com/bI8d0/DriverSentinel) to [classic130/DriverSentinel](https://github.com/classic130/DriverSentinel)
   > DriverSentinel is a security tool developed in Go that detects malicious and vulnerable drivers on W...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [gaasedelen/tenet](https://github.com/gaasedelen/tenet) to [classic130/tenet](https://github.com/classic130/tenet)
+  > A Trace Explorer for Reverse Engineers
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [andy-t-wang/toolrouter](https://github.com/andy-t-wang/toolrouter)
   > Tools your agent can actually trust
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Bananymous/xbanan](https://github.com/Bananymous/xbanan)
+  > Simple X11 compatibility layer
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [V4bel/ITScape](https://github.com/V4bel/ITScape)
@@ -51,6 +57,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [facebook/rocksdb](https://github.com/facebook/rocksdb) to [rv2036/rvspoc-S2605-rocksdb](https://github.com/rv2036/rvspoc-S2605-rocksdb)
   > A library that provides an embeddable, persistent key-value store for fast storage.
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [atlaste/CPPCoverage](https://github.com/atlaste/CPPCoverage)
+  > Visual Studio Extension for measuring C++ Code Coverage and profiling data
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mrexodia/dumpulator](https://github.com/mrexodia/dumpulator)
   > An easy-to-use library for emulating memory dumps. Useful for malware analysis (config extraction, u...
@@ -64,6 +74,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
   > TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DISREGARD PREV. INSTRUCTS] {*...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng)
+  > PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [cloudskytian/VBSKiller](https://github.com/cloudskytian/VBSKiller)
@@ -73,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-11 11:40:49 UTC*
+*Last updated at 2026-06-11 13:36:11 UTC*
 *Historical records are stored in the `archive` directory.*
