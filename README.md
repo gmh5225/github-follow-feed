@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [apple/container](https://github.com/apple/container)
+  > A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is ...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [threathunters-io/tracebit_x33fcon_2026](https://github.com/threathunters-io/tracebit_x33fcon_2026)
   > This repository contains the research tool presented at x33fcon 2026, along with the associated pres...
@@ -46,12 +50,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [gaasedelen/tenet](https://github.com/gaasedelen/tenet) to [classic130/tenet](https://github.com/classic130/tenet)
   > A Trace Explorer for Reverse Engineers
 
-### [dcbuild3r](https://github.com/dcbuild3r)
-- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [andy-t-wang/toolrouter](https://github.com/andy-t-wang/toolrouter)
-  > Tools your agent can actually trust
-- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [leonardoalt/ethereum_formal_verification_overview](https://github.com/leonardoalt/ethereum_formal_verification_overview)
-  > Overview of the formal verification projects in the Ethereum ecosystem.
-
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Bananymous/xbanan](https://github.com/Bananymous/xbanan)
   > Simple X11 compatibility layer
@@ -63,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [JeremyIV/elastic-streets](https://github.com/JeremyIV/elastic-streets)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
   > Socket-based TS/JavaScript API for WhatsApp Web
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pydicom/pydicom](https://github.com/pydicom/pydicom)
+  > Read, modify and write DICOM files with python code
 
 ### [henne90gen](https://github.com/henne90gen)
 - 🍴 👤 [henne90gen](https://github.com/henne90gen) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [henne90gen/llvm-project](https://github.com/henne90gen/llvm-project)
@@ -83,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > memcached development tree
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [facebook/rocksdb](https://github.com/facebook/rocksdb) to [rv2036/rvspoc-S2605-rocksdb](https://github.com/rv2036/rvspoc-S2605-rocksdb)
   > A library that provides an embeddable, persistent key-value store for fast storage.
+
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [keycard-tech/keycard-shell](https://github.com/keycard-tech/keycard-shell)
+  > Modular, fully open hardware wallet
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [atlaste/CPPCoverage](https://github.com/atlaste/CPPCoverage)
@@ -118,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-11 19:10:12 UTC*
+*Last updated at 2026-06-11 20:57:32 UTC*
 *Historical records are stored in the `archive` directory.*
