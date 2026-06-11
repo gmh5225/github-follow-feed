@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [miunasu/ShadowScheduler](https://github.com/miunasu/ShadowScheduler)
   > PoC for covert persistence via Windows Push Task Scheduler (WPTaskScheduler) RPC interface — invisib...
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [Livox-SDK/Livox-SDK2](https://github.com/Livox-SDK/Livox-SDK2)
+  > Drivers for receiving LiDAR data and controlling lidar, support Lidar HAP and Mid-360.
+
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [geekbyter/nginx-tls-stream](https://github.com/geekbyter/nginx-tls-stream)
 
@@ -70,6 +74,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
   > Fully open reproduction of DeepSeek-R1
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [xiyin137/QFT](https://github.com/xiyin137/QFT)
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [redis/redis](https://github.com/redis/redis) to [rv2036/rvspoc-S2603-redis](https://github.com/rv2036/rvspoc-S2603-redis)
@@ -95,6 +100,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [moneroexamples/onion-monero-blockchain-explorer](https://github.com/moneroexamples/onion-monero-blockchain-explorer)
   > Onion Monero Blockchain Explorer
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [cvc5/cvc5](https://github.com/cvc5/cvc5)
+  > cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S)
   > TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DISREGARD PREV. INSTRUCTS] {*...
@@ -109,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-11 17:24:35 UTC*
+*Last updated at 2026-06-11 19:10:12 UTC*
 *Historical records are stored in the `archive` directory.*
