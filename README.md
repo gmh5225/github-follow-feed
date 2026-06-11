@@ -15,6 +15,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > QQNT 绕过环境检测，防止冻结/踢下线。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/ITScape](https://github.com/V4bel/ITScape) to [CrackerCat/ITScape](https://github.com/CrackerCat/ITScape)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [yugecin/nfsu2-re](https://github.com/yugecin/nfsu2-re)
+  > hobby reverse engineering project about need for speed underground 2
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [moio9/Nfs-Undergroud-2-Online](https://github.com/moio9/Nfs-Undergroud-2-Online)
+  > NFSU2 Lan/Online server emulator.
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [Kwansy98/x64dbgCallFinder](https://github.com/Kwansy98/x64dbgCallFinder)
   > A x64dbg plugin for quickly locating key functions.
@@ -39,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [andy-t-wang/toolrouter](https://github.com/andy-t-wang/toolrouter)
   > Tools your agent can actually trust
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [leonardoalt/ethereum_formal_verification_overview](https://github.com/leonardoalt/ethereum_formal_verification_overview)
+  > Overview of the formal verification projects in the Ethereum ecosystem.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Bananymous/xbanan](https://github.com/Bananymous/xbanan)
@@ -51,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [JeremyIV/elastic-streets](https://github.com/JeremyIV/elastic-streets)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys)
   > Socket-based TS/JavaScript API for WhatsApp Web
+
+### [henne90gen](https://github.com/henne90gen)
+- 🍴 👤 [henne90gen](https://github.com/henne90gen) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [henne90gen/llvm-project](https://github.com/henne90gen/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [SebLague/Rubiks-Cube](https://github.com/SebLague/Rubiks-Cube)
@@ -97,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-11 15:19:18 UTC*
+*Last updated at 2026-06-11 17:24:35 UTC*
 *Historical records are stored in the `archive` directory.*
