@@ -18,7 +18,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [synacktiv/DCOMIllusionist](https://github.com/synacktiv/DCOMIllusionist)
   > DCOM in memory and fileless lateral movement techniques through .Net deserilization
 
+### [mshumer](https://github.com/mshumer)
+- 🌟 👤 [mshumer](https://github.com/mshumer) Starred [PSkinnerTech/3d-asset-factory](https://github.com/PSkinnerTech/3d-asset-factory)
+  > CLI-first 3D asset factory for engineers
+
 
 ---
-*Last updated at 2026-06-12 01:20:04 UTC*
+*Last updated at 2026-06-12 03:21:35 UTC*
 *Historical records are stored in the `archive` directory.*
