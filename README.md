@@ -38,9 +38,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [synacktiv/DCOMIllusionist](https://github.com/synacktiv/DCOMIllusionist)
   > DCOM in memory and fileless lateral movement techniques through .Net deserilization
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Aki2k/BEDaisy](https://github.com/Aki2k/BEDaisy)
+  > reverse engineering of bedaisy.sys (battleyes kernel driver) - Aki2k/BEDaisy
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
+  > An offensive data enrichment pipeline
 
 ### [mshumer](https://github.com/mshumer)
 - 🌟 👤 [mshumer](https://github.com/mshumer) Starred [PSkinnerTech/3d-asset-factory](https://github.com/PSkinnerTech/3d-asset-factory)
@@ -52,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-12 11:24:35 UTC*
+*Last updated at 2026-06-12 13:24:27 UTC*
 *Historical records are stored in the `archive` directory.*
