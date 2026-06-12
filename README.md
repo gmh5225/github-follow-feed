@@ -27,6 +27,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) to [classic130/RoguePlanet](https://github.com/classic130/RoguePlanet)
   > RoguePlanet Windows Defender Vulnerability
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088) to [classic130/CVE-2024-30088](https://github.com/classic130/CVE-2024-30088)
 
 ### [ggerganov](https://github.com/ggerganov)
 - 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [mudler/locate-anything.cpp](https://github.com/mudler/locate-anything.cpp)
@@ -58,11 +59,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mshumer](https://github.com/mshumer) Starred [PSkinnerTech/3d-asset-factory](https://github.com/PSkinnerTech/3d-asset-factory)
   > CLI-first 3D asset factory for engineers
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [joypad-ai/joypad-os](https://github.com/joypad-ai/joypad-os)
+  > Universal controller firmware core for adapters and custom controllers.
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [shuvonsec/claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)
   > AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and...
 
 
 ---
-*Last updated at 2026-06-12 15:12:28 UTC*
+*Last updated at 2026-06-12 17:09:08 UTC*
 *Historical records are stored in the `archive` directory.*
