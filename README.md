@@ -43,6 +43,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > aprscot - APRS to TAK Gateway.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [niccellular/wifi2cot](https://github.com/niccellular/wifi2cot)
   > ATAK Plugin to grab RSSI values from local Access Points and try to guess where they are.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [batear-io/batear](https://github.com/batear-io/batear)
+  > ● batear — Ultra-low-cost, off-grid acoustic drone detector. Edge computing. Protect your airspace w...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [orcohen9826/Acoustic-Drones-Detection](https://github.com/orcohen9826/Acoustic-Drones-Detection)
+  > An acoustic-based drone detection system using a custom CRNN model and a parabolic microphones. Trai...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [kbhujbal/SudarshanChakra-acoustic_uav_threat_detection_CNN](https://github.com/kbhujbal/SudarshanChakra-acoustic_uav_threat_detection_CNN)
+  > 🔇 A production-grade deep learning system for real-time drone/UAV detection through acoustic signatu...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [bI8d0/DriverSentinel](https://github.com/bI8d0/DriverSentinel) to [classic130/DriverSentinel](https://github.com/classic130/DriverSentinel)
@@ -122,5 +128,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-11 22:41:53 UTC*
+*Last updated at 2026-06-11 23:37:55 UTC*
 *Historical records are stored in the `archive` directory.*
