@@ -18,6 +18,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [qhencoder/SysRestoreDriver](https://github.com/qhencoder/SysRestoreDriver)
   > Windows kernel-mode reboot-restore driver — NTFS volume filter with copy-on-write redirection
 
+### [SinaKarvandi](https://github.com/SinaKarvandi)
+- 🍴 👤 [SinaKarvandi](https://github.com/SinaKarvandi) Forked [nyx-fuzz/libxdc](https://github.com/nyx-fuzz/libxdc) to [hyperdbg-io/libxdc](https://github.com/hyperdbg-io/libxdc)
+  > The fastest Intel-PT decoder for fuzzing
+- 🍴 👤 [SinaKarvandi](https://github.com/SinaKarvandi) Forked [intel/libipt](https://github.com/intel/libipt) to [hyperdbg-io/libipt](https://github.com/hyperdbg-io/libipt)
+  > libipt - an Intel(R) Processor Trace decoder library
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [TehMerow/kk_slider_sfz](https://github.com/TehMerow/kk_slider_sfz)
   > An updated version of the KK Slider soundfont using SFZ as the sampler
@@ -69,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-12 17:09:08 UTC*
+*Last updated at 2026-06-12 18:51:15 UTC*
 *Historical records are stored in the `archive` directory.*
