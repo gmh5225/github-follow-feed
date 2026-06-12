@@ -4,6 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet)
+  > RoguePlanet Windows Defender Vulnerability
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [kozmer/silentpulse](https://github.com/kozmer/silentpulse)
+  > single-threaded event driven sleep obfuscation poc for linux
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [wesmar/KernelResearchKit](https://github.com/wesmar/KernelResearchKit)
+  > Windows 11 kernel research framework demonstrating DSE bypass on Windows 11 25H2 through boot-time e...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [wesmar/BootBypass](https://github.com/wesmar/BootBypass)
+  > Advanced native-mode utility for bypassing DSE and HVCI. Implements smart SeCiCallbacks patching and...
+
 ### [CalebFenton](https://github.com/CalebFenton)
 - 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [trailofbits/vsix-audit](https://github.com/trailofbits/vsix-audit)
   > Security scanner for VS Code extensions
@@ -43,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [mudler/locate-anything.cpp](https://github.com/mudler/locate-anything.cpp)
   > Port of Nvidia LocateAnything-3B on ggml
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
+  > Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. Open...
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
@@ -52,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > This repository contains the research tool presented at x33fcon 2026, along with the associated pres...
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [synacktiv/DCOMIllusionist](https://github.com/synacktiv/DCOMIllusionist)
   > DCOM in memory and fileless lateral movement techniques through .Net deserilization
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [thesecretclub/riscy-business](https://github.com/thesecretclub/riscy-business)
+  > RISC-V Virtual Machine
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Aki2k/BEDaisy](https://github.com/Aki2k/BEDaisy)
@@ -79,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-12 21:40:00 UTC*
+*Last updated at 2026-06-12 22:39:15 UTC*
 *Historical records are stored in the `archive` directory.*
