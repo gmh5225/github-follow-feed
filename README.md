@@ -18,6 +18,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [trailofbits/vsix-audit](https://github.com/trailofbits/vsix-audit)
   > Security scanner for VS Code extensions
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Silentwarior112/TT-PCSX2-Patch](https://github.com/Silentwarior112/TT-PCSX2-Patch)
+  > Patches for Tourist Trophy (PS2) that fixes playability issues on the PCSX2 emulator.
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [RankFTW/RHI](https://github.com/RankFTW/RHI)
+  > ReShade HDR Installer
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [davidichalfyorov-wq/project-sirius](https://github.com/davidichalfyorov-wq/project-sirius)
   > Modern open-source remake of Freelancer (2003) on C#/.NET with a Vulkan renderer — built on LibreLan...
@@ -33,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The fastest Intel-PT decoder for fuzzing
 - 🍴 👤 [SinaKarvandi](https://github.com/SinaKarvandi) Forked [intel/libipt](https://github.com/intel/libipt) to [hyperdbg-io/libipt](https://github.com/hyperdbg-io/libipt)
   > libipt - an Intel(R) Processor Trace decoder library
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [iansinnott/obsidian-claude-code-mcp](https://github.com/iansinnott/obsidian-claude-code-mcp)
+  > Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)
 
 ### [cfallin](https://github.com/cfallin)
 - 🍴 👤 [cfallin](https://github.com/cfallin) Forked [s-arash/ascent](https://github.com/s-arash/ascent) to [cfallin/ascent](https://github.com/cfallin/ascent)
@@ -57,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks)
   > Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. Open...
 
+### [iximeow](https://github.com/iximeow)
+- 🌟 👤 [iximeow](https://github.com/iximeow) Starred [widberg/xlive-research](https://github.com/widberg/xlive-research)
+  > Research pertaining to Games for Windows Live (GFWL) xlive.dll.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
@@ -68,6 +82,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > DCOM in memory and fileless lateral movement techniques through .Net deserilization
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [thesecretclub/riscy-business](https://github.com/thesecretclub/riscy-business)
   > RISC-V Virtual Machine
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [shadcn/improve](https://github.com/shadcn/improve)
+  > Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Aki2k/BEDaisy](https://github.com/Aki2k/BEDaisy)
@@ -95,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-12 22:39:15 UTC*
+*Last updated at 2026-06-12 23:37:35 UTC*
 *Historical records are stored in the `archive` directory.*
