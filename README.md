@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [qhencoder/SysRestoreDriver](https://github.com/qhencoder/SysRestoreDriver)
   > Windows kernel-mode reboot-restore driver — NTFS volume filter with copy-on-write redirection
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [TehMerow/kk_slider_sfz](https://github.com/TehMerow/kk_slider_sfz)
+  > An updated version of the KK Slider soundfont using SFZ as the sampler
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [bkerler/exploit_me](https://github.com/bkerler/exploit_me) to [classic130/exploit_me](https://github.com/classic130/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
@@ -34,5 +38,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-12 07:52:18 UTC*
+*Last updated at 2026-06-12 09:36:10 UTC*
 *Historical records are stored in the `archive` directory.*
