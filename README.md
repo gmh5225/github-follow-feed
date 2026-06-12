@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) to [classic130/RoguePlanet](https://github.com/classic130/RoguePlanet)
   > RoguePlanet Windows Defender Vulnerability
 
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [mudler/locate-anything.cpp](https://github.com/mudler/locate-anything.cpp)
+  > Port of Nvidia LocateAnything-3B on ggml
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
@@ -47,6 +51,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
   > An offensive data enrichment pipeline
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
 
 ### [mshumer](https://github.com/mshumer)
 - 🌟 👤 [mshumer](https://github.com/mshumer) Starred [PSkinnerTech/3d-asset-factory](https://github.com/PSkinnerTech/3d-asset-factory)
@@ -58,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-12 13:24:27 UTC*
+*Last updated at 2026-06-12 15:12:28 UTC*
 *Historical records are stored in the `archive` directory.*
