@@ -7,15 +7,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [19h/eac-analysis](https://github.com/19h/eac-analysis)
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [S3cur3Th1sSh1t/NimSyscallPacker](https://github.com/S3cur3Th1sSh1t/NimSyscallPacker)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) to [CrackerCat/cnc-ddraw](https://github.com/CrackerCat/cnc-ddraw)
   > GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better c...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kinginu/PixelMask](https://github.com/kinginu/PixelMask) to [CrackerCat/PixelMask](https://github.com/CrackerCat/PixelMask)
   > LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [19h/eac-analysis](https://github.com/19h/eac-analysis)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [widberg/xlive-research](https://github.com/widberg/xlive-research)
+  > Research pertaining to Games for Windows Live (GFWL) xlive.dll.
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [pineforge-4pass/pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine)
   > Deterministic PineScript v6 backtest runtime. Validated trade-for-trade against TradingView.
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mallo-m/AxiomSecrets](https://github.com/mallo-m/AxiomSecrets)
+  > Dump protected files (SAM,SYSTEM,SECURITY) by parsing the raw NTFS partition
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xjbb/ModuleStomped](https://github.com/0xjbb/ModuleStomped)
@@ -31,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-13 07:31:17 UTC*
+*Last updated at 2026-06-13 09:13:51 UTC*
 *Historical records are stored in the `archive` directory.*
