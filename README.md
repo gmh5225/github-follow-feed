@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kinginu/PixelMask](https://github.com/kinginu/PixelMask) to [CrackerCat/PixelMask](https://github.com/CrackerCat/PixelMask)
   > LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)
+  > Open Source Introductory Systems Programming Textbook for the University of Illinois
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
   > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
@@ -56,6 +60,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Dump protected files (SAM,SYSTEM,SECURITY) by parsing the raw NTFS partition
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [PentHertz/grimoire](https://github.com/PentHertz/grimoire)
   > Offensive knowledge, offline. One search box for every playbook.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [cellebrite-labs/ghidra-rpc](https://github.com/cellebrite-labs/ghidra-rpc)
+  > A Ghidra agentic reverse engineering skill.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ar0x4/tunnel-vision-toolkit](https://github.com/ar0x4/tunnel-vision-toolkit)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xjbb/ModuleStomped](https://github.com/0xjbb/ModuleStomped)
@@ -77,6 +86,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [keepmind9/clibot](https://github.com/keepmind9/clibot)
   > ACP-compatible AI CLI bridge to IM platforms. Connect Claude Code, Codex, Gemini,   OpenCode, and ot...
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [ashtree74/LisaEmulator](https://github.com/ashtree74/LisaEmulator)
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [PentHertz/grimoire](https://github.com/PentHertz/grimoire)
   > Offensive knowledge, offline. One search box for every playbook.
@@ -87,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-13 22:29:55 UTC*
+*Last updated at 2026-06-13 23:31:34 UTC*
 *Historical records are stored in the `archive` directory.*
