@@ -16,6 +16,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kinginu/PixelMask](https://github.com/kinginu/PixelMask) to [CrackerCat/PixelMask](https://github.com/CrackerCat/PixelMask)
   > LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only...
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [bkerler/exploit_me](https://github.com/bkerler/exploit_me)
+  > Very vulnerable ARM/AARCH64 application (CTF style exploitation tutorial with 29 vulnerability techn...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
+  > Collection of publicly available IPTV channels from all over the world
+
 ### [SinaKarvandi](https://github.com/SinaKarvandi)
 - 🍴 👤 [SinaKarvandi](https://github.com/SinaKarvandi) Forked [intel/libipt](https://github.com/intel/libipt) to [HyperDbg/libipt](https://github.com/HyperDbg/libipt)
   > libipt - an Intel(R) Processor Trace decoder library
@@ -61,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-13 11:42:06 UTC*
+*Last updated at 2026-06-13 12:48:49 UTC*
 *Historical records are stored in the `archive` directory.*
