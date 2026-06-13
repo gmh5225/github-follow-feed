@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) to [can1357/cmux](https://github.com/can1357/cmux)
   > Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [dirac-run/dirac](https://github.com/dirac-run/dirac)
+  > Coding Agent singularly focused efficiency and context curation. Reduces API costs by 50-80% vs othe...
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [19h/eac-analysis](https://github.com/19h/eac-analysis)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [widberg/xlive-research](https://github.com/widberg/xlive-research)
@@ -79,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-13 20:36:04 UTC*
+*Last updated at 2026-06-13 21:34:19 UTC*
 *Historical records are stored in the `archive` directory.*
