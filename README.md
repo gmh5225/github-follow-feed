@@ -29,6 +29,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mallo-m/AxiomSecrets](https://github.com/mallo-m/AxiomSecrets)
   > Dump protected files (SAM,SYSTEM,SECURITY) by parsing the raw NTFS partition
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retooling-io/workshop-nohat25](https://github.com/retooling-io/workshop-nohat25)
+  > Ghost in the Machine: Live Fire Threat Actor Dissection
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CynicRus/DWARFHelper](https://github.com/CynicRus/DWARFHelper)
+  > DWARFHelper is a plugin for x64dbg, designed to load DWARF debug symbols from executable files (e.g....
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xjbb/ModuleStomped](https://github.com/0xjbb/ModuleStomped)
   > Proof of concept to detect module stomping detection by looking for modified .pdata sections.
@@ -37,11 +43,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
   > rax is a CPU emulator that does not trust itself.
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [Kosmokleaner/RapidPicoC](https://github.com/Kosmokleaner/RapidPicoC)
+  > Raspberry Pi Pico C starter project optimized for iteration time (no USB plugin and button pressing)
+
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [keepmind9/clibot](https://github.com/keepmind9/clibot)
   > ACP-compatible AI CLI bridge to IM platforms. Connect Claude Code, Codex, Gemini,   OpenCode, and ot...
 
 
 ---
-*Last updated at 2026-06-13 09:13:51 UTC*
+*Last updated at 2026-06-13 10:54:38 UTC*
 *Historical records are stored in the `archive` directory.*
