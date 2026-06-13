@@ -17,11 +17,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [pineforge-4pass/pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine)
   > Deterministic PineScript v6 backtest runtime. Validated trade-for-trade against TradingView.
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xjbb/ModuleStomped](https://github.com/0xjbb/ModuleStomped)
+  > Proof of concept to detect module stomping detection by looking for modified .pdata sections.
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that does not trust itself.
+
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [keepmind9/clibot](https://github.com/keepmind9/clibot)
   > ACP-compatible AI CLI bridge to IM platforms. Connect Claude Code, Codex, Gemini,   OpenCode, and ot...
 
 
 ---
-*Last updated at 2026-06-13 05:40:00 UTC*
+*Last updated at 2026-06-13 07:31:17 UTC*
 *Historical records are stored in the `archive` directory.*
