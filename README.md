@@ -41,12 +41,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mallo-m/AxiomSecrets](https://github.com/mallo-m/AxiomSecrets)
   > Dump protected files (SAM,SYSTEM,SECURITY) by parsing the raw NTFS partition
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retooling-io/workshop-nohat25](https://github.com/retooling-io/workshop-nohat25)
-  > Ghost in the Machine: Live Fire Threat Actor Dissection
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [CynicRus/DWARFHelper](https://github.com/CynicRus/DWARFHelper)
-  > DWARFHelper is a plugin for x64dbg, designed to load DWARF debug symbols from executable files (e.g....
-
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xjbb/ModuleStomped](https://github.com/0xjbb/ModuleStomped)
   > Proof of concept to detect module stomping detection by looking for modified .pdata sections.
@@ -67,7 +61,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [PentHertz/grimoire](https://github.com/PentHertz/grimoire)
   > Offensive knowledge, offline. One search box for every playbook.
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [reconurge/flowsint](https://github.com/reconurge/flowsint)
+  > A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity...
+
 
 ---
-*Last updated at 2026-06-13 12:48:49 UTC*
+*Last updated at 2026-06-13 13:40:15 UTC*
 *Historical records are stored in the `archive` directory.*
