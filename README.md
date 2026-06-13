@@ -24,10 +24,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)
   > Collection of publicly available IPTV channels from all over the world
 
-### [SinaKarvandi](https://github.com/SinaKarvandi)
-- 🍴 👤 [SinaKarvandi](https://github.com/SinaKarvandi) Forked [intel/libipt](https://github.com/intel/libipt) to [HyperDbg/libipt](https://github.com/HyperDbg/libipt)
-  > libipt - an Intel(R) Processor Trace decoder library
-
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) to [can1357/cmux](https://github.com/can1357/cmux)
   > Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
@@ -79,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-13 17:36:17 UTC*
+*Last updated at 2026-06-13 18:39:42 UTC*
 *Historical records are stored in the `archive` directory.*
