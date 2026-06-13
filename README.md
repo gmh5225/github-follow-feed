@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kinginu/PixelMask](https://github.com/kinginu/PixelMask) to [CrackerCat/PixelMask](https://github.com/CrackerCat/PixelMask)
   > LSPosed / Vector module that spoofs a Pixel device profile inside Google Photos to unlock Pixel-only...
 
+### [SinaKarvandi](https://github.com/SinaKarvandi)
+- 🍴 👤 [SinaKarvandi](https://github.com/SinaKarvandi) Forked [intel/libipt](https://github.com/intel/libipt) to [HyperDbg/libipt](https://github.com/HyperDbg/libipt)
+  > libipt - an Intel(R) Processor Trace decoder library
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [19h/eac-analysis](https://github.com/19h/eac-analysis)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [widberg/xlive-research](https://github.com/widberg/xlive-research)
@@ -51,7 +55,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [keepmind9/clibot](https://github.com/keepmind9/clibot)
   > ACP-compatible AI CLI bridge to IM platforms. Connect Claude Code, Codex, Gemini,   OpenCode, and ot...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [PentHertz/grimoire](https://github.com/PentHertz/grimoire)
+  > Offensive knowledge, offline. One search box for every playbook.
+
 
 ---
-*Last updated at 2026-06-13 10:54:38 UTC*
+*Last updated at 2026-06-13 11:42:06 UTC*
 *Historical records are stored in the `archive` directory.*
