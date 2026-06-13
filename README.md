@@ -64,6 +64,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
   > rax is a CPU emulator that does not trust itself.
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [triskellib/triskel](https://github.com/triskellib/triskel)
+  > A graphing library for Control Flow Graphs
+- 🍴 👤 [praydog](https://github.com/praydog) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [praydog/triskel](https://github.com/praydog/triskel)
+  > A graphing library for Control Flow Graphs
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [Kosmokleaner/RapidPicoC](https://github.com/Kosmokleaner/RapidPicoC)
@@ -83,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-13 21:34:19 UTC*
+*Last updated at 2026-06-13 22:29:55 UTC*
 *Historical records are stored in the `archive` directory.*
