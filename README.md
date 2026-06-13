@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [pineforge-4pass/pineforge-engine](https://github.com/pineforge-4pass/pineforge-engine)
   > Deterministic PineScript v6 backtest runtime. Validated trade-for-trade against TradingView.
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [wchang22/ReSTIR_DR](https://github.com/wchang22/ReSTIR_DR)
+  > Source Code for SIGGRAPH 2023 Paper "Parameter-space ReSTIR for Differentiable and Inverse Rendering...
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mallo-m/AxiomSecrets](https://github.com/mallo-m/AxiomSecrets)
   > Dump protected files (SAM,SYSTEM,SECURITY) by parsing the raw NTFS partition
@@ -71,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-13 15:39:16 UTC*
+*Last updated at 2026-06-13 16:38:41 UTC*
 *Historical records are stored in the `archive` directory.*
