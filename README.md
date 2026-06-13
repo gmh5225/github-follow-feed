@@ -45,6 +45,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [wchang22/ReSTIR_DR](https://github.com/wchang22/ReSTIR_DR)
   > Source Code for SIGGRAPH 2023 Paper "Parameter-space ReSTIR for Differentiable and Inverse Rendering...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [davidsuarez82/rainbird_iq4](https://github.com/davidsuarez82/rainbird_iq4)
+  > Integration with Rain Bird IQ4 Cloud
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mallo-m/AxiomSecrets](https://github.com/mallo-m/AxiomSecrets)
   > Dump protected files (SAM,SYSTEM,SECURITY) by parsing the raw NTFS partition
@@ -75,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-13 16:38:41 UTC*
+*Last updated at 2026-06-13 17:36:17 UTC*
 *Historical records are stored in the `archive` directory.*
