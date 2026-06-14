@@ -19,6 +19,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Busybox-style Beacon Object Files for *nix post-exploitation. Reimplements common Unix utilities as ...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
   > Busybox-style Beacon Object Files for *nix post-exploitation. Reimplements common Unix utilities as ...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [eversinc33/binaryshield-devirtualizer](https://github.com/eversinc33/binaryshield-devirtualizer)
+  > LLVM based devirtualizer for the binaryshield software protector.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VeroFess/AsmKit](https://github.com/VeroFess/AsmKit) to [CrackerCat/AsmKit](https://github.com/CrackerCat/AsmKit)
@@ -102,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 16:39:48 UTC*
+*Last updated at 2026-06-14 17:35:23 UTC*
 *Historical records are stored in the `archive` directory.*
