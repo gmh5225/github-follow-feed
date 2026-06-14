@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🍴 👤 [Cracked5pider](https://github.com/Cracked5pider) Forked [cmprmsd/BusyBOF](https://github.com/cmprmsd/BusyBOF) to [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
+  > Busybox-style Beacon Object Files for *nix post-exploitation. Reimplements common Unix utilities as ...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VeroFess/AsmKit](https://github.com/VeroFess/AsmKit) to [CrackerCat/AsmKit](https://github.com/CrackerCat/AsmKit)
   > AsmKit is a pure-C typed assembler/disassembler and instruction metadata library.
@@ -52,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 11:04:58 UTC*
+*Last updated at 2026-06-14 12:51:56 UTC*
 *Historical records are stored in the `archive` directory.*
