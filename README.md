@@ -4,8 +4,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [dmaivel/covirt](https://github.com/dmaivel/covirt)
+  > An x86-64 code virtualizer for VM based obfuscation
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [noahware/hyper-reV](https://github.com/noahware/hyper-reV)
+  > memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
+  > Windows kernel debugger for Linux hosts running Windows under KVM/QEMU
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🍴 👤 [Cracked5pider](https://github.com/Cracked5pider) Forked [cmprmsd/BusyBOF](https://github.com/cmprmsd/BusyBOF) to [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
+  > Busybox-style Beacon Object Files for *nix post-exploitation. Reimplements common Unix utilities as ...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
   > Busybox-style Beacon Object Files for *nix post-exploitation. Reimplements common Unix utilities as ...
 
 ### [CrackerCat](https://github.com/CrackerCat)
@@ -15,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Advanced native-mode utility for bypassing DSE and HVCI. Implements smart SeCiCallbacks patching and...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zengfr/frida-codeshare-scripts](https://github.com/zengfr/frida-codeshare-scripts) to [CrackerCat/frida-codeshare-scripts](https://github.com/CrackerCat/frida-codeshare-scripts)
   > frida-codeshare-scripts.collection of useful FRIDA scripts.A curated list of Frida resources.纯实用frid...
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
+  > Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from communi...
 
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
@@ -56,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 12:51:56 UTC*
+*Last updated at 2026-06-14 13:39:24 UTC*
 *Historical records are stored in the `archive` directory.*
