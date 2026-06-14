@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zengfr/frida-codeshare-scripts](https://github.com/zengfr/frida-codeshare-scripts) to [CrackerCat/frida-codeshare-scripts](https://github.com/CrackerCat/frida-codeshare-scripts)
   > frida-codeshare-scripts.collection of useful FRIDA scripts.A curated list of Frida resources.纯实用frid...
 
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+  > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [RWXstoned/LdrShuffle](https://github.com/RWXstoned/LdrShuffle)
   > Code execution/injection technique using DLL PEB module structure manipulation
@@ -38,11 +42,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/kraken-api](https://github.com/sieblyio/kraken-api) to [tiagosiebler/kraken-api](https://github.com/tiagosiebler/kraken-api)
+  > Complete Node.js & JavaScript SDK for Kraken's REST APIs & WebSockets, with TypeScript & browser sup...
+
 ### [wbenny](https://github.com/wbenny)
 - 🌟 👤 [wbenny](https://github.com/wbenny) Starred [nikolic-milos/ratatui-hypertile](https://github.com/nikolic-milos/ratatui-hypertile)
   > Hyprland-inspired BSP tiling for Ratatui 🐀
 
 
 ---
-*Last updated at 2026-06-14 09:15:45 UTC*
+*Last updated at 2026-06-14 11:04:58 UTC*
 *Historical records are stored in the `archive` directory.*
