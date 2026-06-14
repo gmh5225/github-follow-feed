@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
   > Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that does not trust itself.
+
 ### [keowu](https://github.com/keowu)
 - 🌟 👤 [keowu](https://github.com/keowu) Starred [XingTuLab/recopilot](https://github.com/XingTuLab/recopilot)
   > ReCopilot: Reverse Engineering Copilot in Binary Analysis
@@ -32,5 +36,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 03:21:56 UTC*
+*Last updated at 2026-06-14 05:44:14 UTC*
 *Historical records are stored in the `archive` directory.*
