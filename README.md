@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
   > Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from communi...
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [vitalyavolyn/chromeos-linux](https://github.com/vitalyavolyn/chromeos-linux)
+  > ChromeOS shell running on NixOS
+
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
@@ -44,9 +48,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
   > Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DiligentGraphics/DiligentFX](https://github.com/DiligentGraphics/DiligentFX) to [hzqst/DiligentFX](https://github.com/hzqst/DiligentFX)
+  > High-level rendering components
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
-  > rax is a CPU emulator that does not trust itself.
+  > rax is a CPU emulator that checks its own work.
 
 ### [keowu](https://github.com/keowu)
 - 🌟 👤 [keowu](https://github.com/keowu) Starred [XingTuLab/recopilot](https://github.com/XingTuLab/recopilot)
@@ -54,13 +62,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
-  > rax is a CPU emulator that does not trust itself.
+  > rax is a CPU emulator that checks its own work.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justrach/codedb](https://github.com/justrach/codedb)
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [corazawaf/coraza](https://github.com/corazawaf/coraza)
+  > OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/kraken-api](https://github.com/sieblyio/kraken-api) to [tiagosiebler/kraken-api](https://github.com/tiagosiebler/kraken-api)
@@ -72,5 +84,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 13:39:24 UTC*
+*Last updated at 2026-06-14 14:52:48 UTC*
 *Historical records are stored in the `archive` directory.*
