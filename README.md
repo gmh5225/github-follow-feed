@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
   > Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from communi...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [loc567/loc567](https://github.com/loc567/loc567) to [Mr-xn/loc567](https://github.com/Mr-xn/loc567)
+  > loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
+
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
   > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
@@ -45,6 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+
+### [dretax](https://github.com/dretax)
+- 🚀 👤 [dretax](https://github.com/dretax) Made [Notulp/Fougerite_LibRust_x64](https://github.com/Notulp/Fougerite_LibRust_x64) public
+  > The x64 implementation of Facepunch's Rust Legacy Server module partially, only to cover the APIs be...
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [RWXstoned/LdrShuffle](https://github.com/RWXstoned/LdrShuffle)
@@ -94,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 15:39:40 UTC*
+*Last updated at 2026-06-14 16:39:48 UTC*
 *Historical records are stored in the `archive` directory.*
