@@ -24,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [keowu](https://github.com/keowu) Starred [XingTuLab/recopilot](https://github.com/XingTuLab/recopilot)
   > ReCopilot: Reverse Engineering Copilot in Binary Analysis
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that does not trust itself.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [justrach/codedb](https://github.com/justrach/codedb)
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
@@ -36,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 05:44:14 UTC*
+*Last updated at 2026-06-14 07:49:23 UTC*
 *Historical records are stored in the `archive` directory.*
