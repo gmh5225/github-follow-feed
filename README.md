@@ -32,6 +32,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check)
   > Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from communi...
 
+### [WhiteNightShadow](https://github.com/WhiteNightShadow)
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
+  > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/frx-director-mcp](https://github.com/WhiteNightShadow/frx-director-mcp)
+  > 强模型（Claude/GPT）经 MCP 指挥 firefox-reverse 浏览器内置逆向 Agent —— 便宜模型在「AI 辅助」模式下执行工具、强模型只做方向修正。高能力领航 + 低成本实操...
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [vitalyavolyn/chromeos-linux](https://github.com/vitalyavolyn/chromeos-linux)
   > ChromeOS shell running on NixOS
@@ -69,6 +75,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT)
+  > Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k to...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [corazawaf/coraza](https://github.com/corazawaf/coraza)
@@ -84,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 14:52:48 UTC*
+*Last updated at 2026-06-14 15:39:40 UTC*
 *Historical records are stored in the `archive` directory.*
