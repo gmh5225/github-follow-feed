@@ -102,6 +102,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fguzman82/gateGPT](https://github.com/fguzman82/gateGPT)
   > Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k to...
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [tamnd/ascii-gif](https://github.com/tamnd/ascii-gif)
+  > Turn a terminal session into a good-looking animated GIF. A vhs wrapper with an attractive default l...
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [charmbracelet/vhs](https://github.com/charmbracelet/vhs)
+  > Your CLI home video recorder 📼
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [corazawaf/coraza](https://github.com/corazawaf/coraza)
   > OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
@@ -114,7 +120,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [wbenny](https://github.com/wbenny) Starred [nikolic-milos/ratatui-hypertile](https://github.com/nikolic-milos/ratatui-hypertile)
   > Hyprland-inspired BSP tiling for Ratatui 🐀
 
+### [xuhancn](https://github.com/xuhancn)
+- 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [iptv-org/iptv](https://github.com/iptv-org/iptv) to [xuhancn/iptv](https://github.com/xuhancn/iptv)
+  > Collection of publicly available IPTV channels from all over the world
+
 
 ---
-*Last updated at 2026-06-14 19:37:40 UTC*
+*Last updated at 2026-06-14 20:36:14 UTC*
 *Historical records are stored in the `archive` directory.*
