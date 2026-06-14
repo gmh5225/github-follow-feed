@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zengfr/frida-codeshare-scripts](https://github.com/zengfr/frida-codeshare-scripts) to [CrackerCat/frida-codeshare-scripts](https://github.com/CrackerCat/frida-codeshare-scripts)
   > frida-codeshare-scripts.collection of useful FRIDA scripts.A curated list of Frida resources.纯实用frid...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [RWXstoned/LdrShuffle](https://github.com/RWXstoned/LdrShuffle)
+  > Code execution/injection technique using DLL PEB module structure manipulation
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
   > Deobfuscate obfuscator.io, unminify and unpack bundled javascript
@@ -40,5 +44,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 07:49:23 UTC*
+*Last updated at 2026-06-14 09:15:45 UTC*
 *Historical records are stored in the `archive` directory.*
