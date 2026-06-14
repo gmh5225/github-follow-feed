@@ -44,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/frx-director-mcp](https://github.com/WhiteNightShadow/frx-director-mcp)
   > 强模型（Claude/GPT）经 MCP 指挥 firefox-reverse 浏览器内置逆向 Agent —— 便宜模型在「AI 辅助」模式下执行工具、强模型只做方向修正。高能力领航 + 低成本实操...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [alebal123bal/khadas_yolov8n_multithread](https://github.com/alebal123bal/khadas_yolov8n_multithread)
+  > Real-time YOLOv8n UAV detection at the sensor's 46 FPS ceiling, in ~140 MB of RAM
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [vitalyavolyn/chromeos-linux](https://github.com/vitalyavolyn/chromeos-linux)
   > ChromeOS shell running on NixOS
@@ -64,6 +68,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack)
   > Deobfuscate obfuscator.io, unminify and unpack bundled javascript
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [noahware/hyper-reV](https://github.com/noahware/hyper-reV)
+  > memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DiligentGraphics/DiligentFX](https://github.com/DiligentGraphics/DiligentFX) to [hzqst/DiligentFX](https://github.com/hzqst/DiligentFX)
   > High-level rendering components
@@ -75,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [keowu](https://github.com/keowu)
 - 🌟 👤 [keowu](https://github.com/keowu) Starred [XingTuLab/recopilot](https://github.com/XingTuLab/recopilot)
   > ReCopilot: Reverse Engineering Copilot in Binary Analysis
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [google/perfetto](https://github.com/google/perfetto)
+  > Production-grade client-side tracing, profiling, and analysis for complex software systems.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
@@ -104,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 18:39:53 UTC*
+*Last updated at 2026-06-14 19:37:40 UTC*
 *Historical records are stored in the `archive` directory.*
