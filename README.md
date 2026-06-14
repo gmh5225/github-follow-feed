@@ -56,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
   > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
+
 ### [dretax](https://github.com/dretax)
 - 🚀 👤 [dretax](https://github.com/dretax) Made [Notulp/Fougerite_LibRust_x64](https://github.com/Notulp/Fougerite_LibRust_x64) public
   > The x64 implementation of Facepunch's Rust Legacy Server module partially, only to cover the APIs be...
@@ -111,6 +115,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [corazawaf/coraza](https://github.com/corazawaf/coraza)
   > OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+  > A Claude Code skill bundle for bug hunting and external red-team work — 71 skills, 15 slash commands...
 
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/kraken-api](https://github.com/sieblyio/kraken-api) to [tiagosiebler/kraken-api](https://github.com/tiagosiebler/kraken-api)
@@ -126,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-14 20:36:14 UTC*
+*Last updated at 2026-06-14 21:34:44 UTC*
 *Historical records are stored in the `archive` directory.*
