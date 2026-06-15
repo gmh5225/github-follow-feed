@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)
   > An offensive data enrichment pipeline
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/fofa_leak_search](https://github.com/Mr-xn/fofa_leak_search)
+  > 又一个使用Rust+web实现的全平台fofa搜索软件
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
   > rax is a CPU emulator that checks its own work.
@@ -39,6 +43,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) to [classic130/r0csgo_piece_of_shit](https://github.com/classic130/r0csgo_piece_of_shit)
   > R0对战平台r0_guard 神权反作弊 + frpc 内网穿透 报告
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [PeterGabaldon/WhatAboutSAM](https://github.com/PeterGabaldon/WhatAboutSAM) to [classic130/WhatAboutSAM](https://github.com/classic130/WhatAboutSAM)
+  > WhatAboutSAM is my custom PoC of a Windows SAM dumper
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
@@ -88,6 +94,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Another new coercion primitive with LPE 0day - machine-account NTLM coercion from a non-admin user v...
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xHossam/UnCanny](https://github.com/0xHossam/UnCanny) to [killvxk/UnCanny](https://github.com/killvxk/UnCanny)
   > Another new coercion primitive with LPE 0day - machine-account NTLM coercion from a non-admin user v...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sauravrao637/oproxy](https://github.com/sauravrao637/oproxy)
+  > Open-source MITM proxy to intercept, inspect, and mock network traffic.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [OpenKeyring/oak-keyring](https://github.com/OpenKeyring/oak-keyring)
+  > A privacy-first, local-first password manager with cross-platform synchronization.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [leaperone/smctl](https://github.com/leaperone/smctl)
+  > The missing control knob for your Mac's SMC — fan curves, battery charge limits, power policy. Open-...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [lalitgehani/SnackBase](https://github.com/lalitgehani/SnackBase)
+  > SnackBase is a Python/FastAPI-based BaaS providing auto-generated REST APIs, multi-tenancy, row-leve...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ioncodes/sogen-sandbox-escape](https://github.com/ioncodes/sogen-sandbox-escape)
+  > sogen vulkan host arbitrary r/w into sandbox escape
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [vitejs/vite](https://github.com/vitejs/vite)
@@ -96,10 +114,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joske/yserver](https://github.com/joske/yserver)
   > A modern X11 server written from scratch in Rust.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wizardengineer/psprecomp](https://github.com/wizardengineer/psprecomp)
+  > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
+  > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [lena-voita/description-length-probing](https://github.com/lena-voita/description-length-probing)
   > This is a repository with the code for the EMNLP 2020 paper "Information-Theoretic Probing with Mini...
+
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [JulNadeauCA/libagar](https://github.com/JulNadeauCA/libagar)
+  > Cross-Platform GUI Toolkit (stable)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
@@ -115,5 +141,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-15 14:21:18 UTC*
+*Last updated at 2026-06-15 16:44:19 UTC*
 *Historical records are stored in the `archive` directory.*
