@@ -52,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
   > Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 
+### [aganea](https://github.com/aganea)
+- 🍴 👤 [aganea](https://github.com/aganea) Forked [tailscale/tailscale](https://github.com/tailscale/tailscale) to [aganea/tailscale](https://github.com/aganea/tailscale)
+  > The easiest, most secure way to use WireGuard and 2FA.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) to [classic130/r0csgo_piece_of_shit](https://github.com/classic130/r0csgo_piece_of_shit)
   > R0对战平台r0_guard 神权反作弊 + frpc 内网穿透 报告
@@ -176,5 +180,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-15 21:56:55 UTC*
+*Last updated at 2026-06-15 22:49:18 UTC*
 *Historical records are stored in the `archive` directory.*
