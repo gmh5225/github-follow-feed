@@ -48,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [PeterGabaldon/WhatAboutSAM](https://github.com/PeterGabaldon/WhatAboutSAM) to [classic130/WhatAboutSAM](https://github.com/classic130/WhatAboutSAM)
   > WhatAboutSAM is my custom PoC of a Windows SAM dumper
 
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [reconurge/flowsint](https://github.com/reconurge/flowsint)
+  > A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity...
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
   > Go library for the WhatsApp web multidevice API
@@ -73,6 +77,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [luanfujun/Langevin-MCMC](https://github.com/luanfujun/Langevin-MCMC)
   > Code for SIGGRAPH 2020 paper "Langevin Monte Carlo Rendering with Gradient-based Adaptation"
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [MircoWerner/ReSTIR-SSS](https://github.com/MircoWerner/ReSTIR-SSS)
+  > Source code for the paper "ReSTIR Subsurface Scattering for Real-Time Path Tracing" (HPG 2024)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kernelstub/Ferrum](https://github.com/kernelstub/Ferrum)
@@ -152,5 +158,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-15 18:38:28 UTC*
+*Last updated at 2026-06-15 20:14:51 UTC*
 *Historical records are stored in the `archive` directory.*
