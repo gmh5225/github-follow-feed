@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents...
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
+  > Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [j1ans/r0csgo_piece_of_shit](https://github.com/j1ans/r0csgo_piece_of_shit) to [classic130/r0csgo_piece_of_shit](https://github.com/classic130/r0csgo_piece_of_shit)
   > R0对战平台r0_guard 神权反作弊 + frpc 内网穿透 报告
@@ -25,6 +29,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tulir/whatsmeow](https://github.com/tulir/whatsmeow)
   > Go library for the WhatsApp web multidevice API
+
+### [enovella](https://github.com/enovella)
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [farimarwat/bypass-appdome-2026](https://github.com/farimarwat/bypass-appdome-2026) to [enovella/bypass-appdome-2026](https://github.com/enovella/bypass-appdome-2026)
+  > The basic understanding of AppDome architecture to bypass
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [farimarwat/bypass-appdome-2026](https://github.com/farimarwat/bypass-appdome-2026)
+  > The basic understanding of AppDome architecture to bypass
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [ReflowOven/Wee_Wii](https://github.com/ReflowOven/Wee_Wii)
@@ -35,7 +45,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeratio...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [leogr/falco-expert](https://github.com/leogr/falco-expert)
   > Falco Knowledge Base for AI Agents
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [threathunters-io/tracebit_x33fcon_2026](https://github.com/threathunters-io/tracebit_x33fcon_2026)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [threathunters-io/kassandra_x33fcon_2026](https://github.com/threathunters-io/kassandra_x33fcon_2026)
   > This repository contains the research tool presented at x33fcon 2026, along with the associated pres...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Bad-Jubies/Exploits](https://github.com/Bad-Jubies/Exploits)
   > This is a collection of proof-of-concept exploits for various targets.
@@ -57,6 +67,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xHossam/UnCanny](https://github.com/0xHossam/UnCanny) to [killvxk/UnCanny](https://github.com/killvxk/UnCanny)
   > Another new coercion primitive with LPE 0day - machine-account NTLM coercion from a non-admin user v...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [vitejs/vite](https://github.com/vitejs/vite)
+  > Next generation frontend tooling. It's fast!
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joske/yserver](https://github.com/joske/yserver)
+  > A modern X11 server written from scratch in Rust.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
@@ -67,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-15 08:24:37 UTC*
+*Last updated at 2026-06-15 11:15:57 UTC*
 *Historical records are stored in the `archive` directory.*
