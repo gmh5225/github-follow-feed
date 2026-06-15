@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Idov31/EtwSuite](https://github.com/Idov31/EtwSuite)
   > Windows native ETW inspection suite for browsing providers, reading metadata, consuming live events,...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kernullist/ETWPrism](https://github.com/kernullist/ETWPrism)
+  > User-mode ETW interception and telemetry manipulation lab for Windows security research.
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
@@ -68,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [ReflowOven/Wee_Wii](https://github.com/ReflowOven/Wee_Wii)
   > A fully reverse-engineered, open-source PCB recreation of the Nintendo Wii, designed as a foundation...
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [luanfujun/Langevin-MCMC](https://github.com/luanfujun/Langevin-MCMC)
+  > Code for SIGGRAPH 2020 paper "Langevin Monte Carlo Rendering with Gradient-based Adaptation"
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kernelstub/Ferrum](https://github.com/kernelstub/Ferrum)
   > Windows security research toolkit for LPE, persistence, COM hijacking, and attack surface enumeratio...
@@ -122,6 +128,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [lena-voita/description-length-probing](https://github.com/lena-voita/description-length-probing)
   > This is a repository with the code for the EMNLP 2020 paper "Information-Theoretic Probing with Mini...
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [TransformerLensOrg/TransformerLens](https://github.com/TransformerLensOrg/TransformerLens)
+  > A library for mechanistic interpretability of GPT-style language models
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [aragon/evm-mirror](https://github.com/aragon/evm-mirror)
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [JulNadeauCA/libagar](https://github.com/JulNadeauCA/libagar)
@@ -141,5 +152,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-15 16:44:19 UTC*
+*Last updated at 2026-06-15 18:38:28 UTC*
 *Historical records are stored in the `archive` directory.*
