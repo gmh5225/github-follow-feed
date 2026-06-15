@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [usbarmory/tamago](https://github.com/usbarmory/tamago)
+  > TamaGo - bare metal Go
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Idov31/EtwSuite](https://github.com/Idov31/EtwSuite)
+  > Windows native ETW inspection suite for browsing providers, reading metadata, consuming live events,...
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
   > Busybox-style Beacon Object Files for *nix post-exploitation. Reimplements common Unix utilities as ...
@@ -17,6 +25,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents...
+
+### [SunWeb3Sec](https://github.com/SunWeb3Sec)
+- 🚀 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Made [SunWeb3Sec/SignSafe](https://github.com/SunWeb3Sec/SignSafe) public
+  > Offline Web3 signing risk detection with local AI. No blind signing.
+- 🚀 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Made [SunWeb3Sec/SignSafe-ios](https://github.com/SunWeb3Sec/SignSafe-ios) public
+  > Know exactly what you're about to sign — on your iPhone.
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
@@ -35,6 +49,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The basic understanding of AppDome architecture to bypass
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [farimarwat/bypass-appdome-2026](https://github.com/farimarwat/bypass-appdome-2026)
   > The basic understanding of AppDome architecture to bypass
+
+### [fly-lang](https://github.com/fly-lang)
+- 🌟 👤 [fly-lang](https://github.com/fly-lang) Starred [fly-lang/fly](https://github.com/fly-lang/fly)
+  > The Fly programming language
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cong-or/snarf](https://github.com/cong-or/snarf)
+  >  Cache-line false sharing linter for Rust structs
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [ReflowOven/Wee_Wii](https://github.com/ReflowOven/Wee_Wii)
@@ -75,6 +97,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joske/yserver](https://github.com/joske/yserver)
   > A modern X11 server written from scratch in Rust.
 
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [lena-voita/description-length-probing](https://github.com/lena-voita/description-length-probing)
+  > This is a repository with the code for the EMNLP 2020 paper "Information-Theoretic Probing with Mini...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [Droid-VM/DroidVM](https://github.com/Droid-VM/DroidVM)
   > Run virtual machine on Android Phones
@@ -83,7 +109,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
   > Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: determi...
 
+### [zompi2](https://github.com/zompi2)
+- 🌟 👤 [zompi2](https://github.com/zompi2) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+  > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
+
 
 ---
-*Last updated at 2026-06-15 11:15:57 UTC*
+*Last updated at 2026-06-15 14:21:18 UTC*
 *Historical records are stored in the `archive` directory.*
