@@ -13,6 +13,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows native ETW inspection suite for browsing providers, reading metadata, consuming live events,...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kernullist/ETWPrism](https://github.com/kernullist/ETWPrism)
   > User-mode ETW interception and telemetry manipulation lab for Windows security research.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NyanSatan/Anya](https://github.com/NyanSatan/Anya)
+  > iBoot/SEPOS decryption kit for JTAGgable iOS device prototypes
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
+  > Tool to statically recompile N64 games into native executables
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [InfinityCurveLabs/BusyBOF](https://github.com/InfinityCurveLabs/BusyBOF)
@@ -31,6 +37,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [larksuite/cli](https://github.com/larksuite/cli)
   > The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents...
+
+### [SinaKarvandi](https://github.com/SinaKarvandi)
+- 🍴 👤 [SinaKarvandi](https://github.com/SinaKarvandi) Forked [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) to [hyperdbg-io/HyperDbg](https://github.com/hyperdbg-io/HyperDbg)
+  > State-of-the-art native debugging tools
 
 ### [SunWeb3Sec](https://github.com/SunWeb3Sec)
 - 🚀 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Made [SunWeb3Sec/SignSafe](https://github.com/SunWeb3Sec/SignSafe) public
@@ -130,6 +140,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PSP static recompiler: Rust analyze/decode/emit pipeline producing C++17, with an SDL2 + OpenGL runt...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pyinfra-dev/pyinfra](https://github.com/pyinfra-dev/pyinfra)
   > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
+  > Tool to statically recompile N64 games into native executables
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [lena-voita/description-length-probing](https://github.com/lena-voita/description-length-probing)
@@ -139,6 +151,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [aragon/evm-mirror](https://github.com/aragon/evm-mirror)
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [kmx00/ub86-pred](https://github.com/kmx00/ub86-pred)
+  > A toy project/CTF analyzing quirks on x86 CPUs
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
+  > Tool to statically recompile N64 games into native executables
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [JulNadeauCA/libagar](https://github.com/JulNadeauCA/libagar)
@@ -158,5 +176,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-15 20:14:51 UTC*
+*Last updated at 2026-06-15 21:56:55 UTC*
 *Historical records are stored in the `archive` directory.*
