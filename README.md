@@ -18,9 +18,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
   > 🪅 Windows & Linux userspace emulator 
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [moq-dev/moq](https://github.com/moq-dev/moq)
+  > Media over QUIC: Real-time latency at massive scale
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [derailed/k9s](https://github.com/derailed/k9s)
+  > 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+
 ### [fly-lang](https://github.com/fly-lang)
 - 🌟 👤 [fly-lang](https://github.com/fly-lang) Starred [fly-lang/fly](https://github.com/fly-lang/fly)
   > The Fly programming language
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ferdous-alam/GenCAD](https://github.com/ferdous-alam/GenCAD)
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [zensical/zensical](https://github.com/zensical/zensical)
@@ -48,7 +59,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kernullist/ETWPrism](https://github.com/kernullist/ETWPrism)
   > User-mode ETW interception and telemetry manipulation lab for Windows security research.
 
+### [tklengyel](https://github.com/tklengyel)
+- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules)
+  > A collection of my Semgrep rules to facilitate vulnerability research.
+
 
 ---
-*Last updated at 2026-06-16 11:52:18 UTC*
+*Last updated at 2026-06-16 14:02:51 UTC*
 *Historical records are stored in the `archive` directory.*
