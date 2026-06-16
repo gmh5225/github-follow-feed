@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lkimuk/ReArk](https://github.com/lkimuk/ReArk) to [CrackerCat/ReArk](https://github.com/CrackerCat/ReArk)
   > 鸿蒙 HarmonyOS NEXT HAP/ABC 专业逆向工具，支持反汇编、反编译、Agent智能分析、签名识别、包体浏览、信息查看等功能。
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
+  > 🪅 Windows & Linux userspace emulator 
+
 ### [fly-lang](https://github.com/fly-lang)
 - 🌟 👤 [fly-lang](https://github.com/fly-lang) Starred [fly-lang/fly](https://github.com/fly-lang/fly)
   > The Fly programming language
@@ -40,7 +44,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
   > GUI application to analyze game files
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kernullist/ETWPrism](https://github.com/kernullist/ETWPrism)
+  > User-mode ETW interception and telemetry manipulation lab for Windows security research.
+
 
 ---
-*Last updated at 2026-06-16 09:01:11 UTC*
+*Last updated at 2026-06-16 11:52:18 UTC*
 *Historical records are stored in the `archive` directory.*
