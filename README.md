@@ -36,9 +36,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fly-lang](https://github.com/fly-lang) Starred [fly-lang/fly](https://github.com/fly-lang/fly)
   > The Fly programming language
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ferdous-alam/GenCAD](https://github.com/ferdous-alam/GenCAD)
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [zensical/zensical](https://github.com/zensical/zensical)
   > A modern static site generator by the Material for MkDocs team
@@ -68,9 +65,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
   > GUI application to analyze game files
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
+  > Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model Reasoning Ability in VibeTh...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kernullist/ETWPrism](https://github.com/kernullist/ETWPrism)
   > User-mode ETW interception and telemetry manipulation lab for Windows security research.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [reflex-dev/fast-walk](https://github.com/reflex-dev/fast-walk)
+  > fast ast walk
 
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules)
@@ -78,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-16 16:38:09 UTC*
+*Last updated at 2026-06-16 18:35:51 UTC*
 *Historical records are stored in the `archive` directory.*
