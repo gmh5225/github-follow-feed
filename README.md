@@ -14,6 +14,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lkimuk/ReArk](https://github.com/lkimuk/ReArk) to [CrackerCat/ReArk](https://github.com/CrackerCat/ReArk)
   > 鸿蒙 HarmonyOS NEXT HAP/ABC 专业逆向工具，支持反汇编、反编译、Agent智能分析、签名识别、包体浏览、信息查看等功能。
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [luolangaga/tubatools](https://github.com/luolangaga/tubatools)
+  > 图吧工具箱 winUI3 版
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun)
+  > Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
   > 🪅 Windows & Linux userspace emulator 
@@ -50,6 +56,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > User-mode ETW interception and telemetry manipulation lab for Windows security research.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [raoqu/index-tts2-metal](https://github.com/raoqu/index-tts2-metal)
   > A TTS inference engine based on Index-TTS2, optimized with Metal for Apple Silicon.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mito753/Kernel-Exploit-Dojo](https://github.com/mito753/Kernel-Exploit-Dojo)
+  > CTF kernel exploitation notes, PoCs, exploits, and writeups.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [morpho-org/midnight](https://github.com/morpho-org/midnight)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iost-official/go-iost](https://github.com/iost-official/go-iost)
+  > Official Go implementation of the IOST blockchain
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [pjdurden/nanoserve](https://github.com/pjdurden/nanoserve)
+  > An AI inference engine from scratch. Like nanoGPT, but for serving.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
@@ -65,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-16 14:02:51 UTC*
+*Last updated at 2026-06-16 16:38:09 UTC*
 *Historical records are stored in the `archive` directory.*
