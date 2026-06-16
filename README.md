@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [usbarmory/tamago](https://github.com/usbarmory/tamago)
   > TamaGo - bare metal Go
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [ECWolfEngine/Wolfenmaus](https://github.com/ECWolfEngine/Wolfenmaus)
+  > Simultaneous stafe and turn (WASD) for vanilla Wolf3D
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Idov31/EtwSuite](https://github.com/Idov31/EtwSuite)
   > Windows native ETW inspection suite for browsing providers, reading metadata, consuming live events,...
@@ -146,6 +150,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc comman...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
   > Tool to statically recompile N64 games into native executables
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [protorikis/rikis](https://github.com/protorikis/rikis)
+  > Lightweight agent that pulls and runs LLM benchmarks from Protorikis Bench
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [lena-voita/description-length-probing](https://github.com/lena-voita/description-length-probing)
@@ -155,12 +161,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [aragon/evm-mirror](https://github.com/aragon/evm-mirror)
-
-### [praydog](https://github.com/praydog)
-- 🌟 👤 [praydog](https://github.com/praydog) Starred [kmx00/ub86-pred](https://github.com/kmx00/ub86-pred)
-  > A toy project/CTF analyzing quirks on x86 CPUs
-- 🌟 👤 [praydog](https://github.com/praydog) Starred [N64Recomp/N64Recomp](https://github.com/N64Recomp/N64Recomp)
-  > Tool to statically recompile N64 games into native executables
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [JulNadeauCA/libagar](https://github.com/JulNadeauCA/libagar)
@@ -180,5 +180,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-15 22:49:18 UTC*
+*Last updated at 2026-06-15 23:40:41 UTC*
 *Historical records are stored in the `archive` directory.*
