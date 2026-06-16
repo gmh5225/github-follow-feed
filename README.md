@@ -67,6 +67,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper)
   > GUI application to analyze game files
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
@@ -94,5 +96,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-16 22:43:48 UTC*
+*Last updated at 2026-06-16 23:37:38 UTC*
 *Historical records are stored in the `archive` directory.*
