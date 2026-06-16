@@ -36,6 +36,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fly-lang](https://github.com/fly-lang) Starred [fly-lang/fly](https://github.com/fly-lang/fly)
   > The Fly programming language
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nathan-barry/gzipt](https://github.com/nathan-barry/gzipt)
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [zensical/zensical](https://github.com/zensical/zensical)
   > A modern static site generator by the Material for MkDocs team
@@ -91,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-16 21:56:14 UTC*
+*Last updated at 2026-06-16 22:43:48 UTC*
 *Historical records are stored in the `archive` directory.*
