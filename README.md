@@ -79,11 +79,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [reflex-dev/fast-walk](https://github.com/reflex-dev/fast-walk)
   > fast ast walk
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
+  > A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi...
+
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules)
   > A collection of my Semgrep rules to facilitate vulnerability research.
 
 
 ---
-*Last updated at 2026-06-16 18:35:51 UTC*
+*Last updated at 2026-06-16 20:08:19 UTC*
 *Historical records are stored in the `archive` directory.*
