@@ -84,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [IITH-Compilers/VexIR2Vec](https://github.com/IITH-Compilers/VexIR2Vec)
   > Implementation of VexIR2Vec. Scalable Program Embeddings for Binary Codes.
 
+### [ufrisk](https://github.com/ufrisk)
+- 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code)
+  > Zoo Code gives you a whole dev team of AI agents in your code editor.
+
 ### [wbenny](https://github.com/wbenny)
 - 🌟 👤 [wbenny](https://github.com/wbenny) Starred [threat-zone/tihulu](https://github.com/threat-zone/tihulu)
   > In-memory TLS 1.2/1.3 key extractor.
@@ -94,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-17 16:22:02 UTC*
+*Last updated at 2026-06-17 17:57:31 UTC*
 *Historical records are stored in the `archive` directory.*
