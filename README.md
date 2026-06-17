@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [madeye/shadowvpn](https://github.com/madeye/shadowvpn)
   > ShadowVPN: UDP PSK user-mode VPN with shadowsocks AEAD
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [saagarjha/VirtualApple](https://github.com/saagarjha/VirtualApple)
+  > Work with macOS VMs using Virtualization
+
 ### [SunWeb3Sec](https://github.com/SunWeb3Sec)
 - 🌟 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Starred [Z-Bra0/Tx2Poc](https://github.com/Z-Bra0/Tx2Poc)
 
@@ -40,6 +44,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows native ETW inspection suite for browsing providers, reading metadata, consuming live events,...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [symgraph/IDAssist](https://github.com/symgraph/IDAssist) to [classic130/IDAssist](https://github.com/classic130/IDAssist)
   > AI-Powered Reverse Engineering Plugin for IDA Pro
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [chopratejas/headroom](https://github.com/chopratejas/headroom)
+  > Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Shopify/ucp-cli](https://github.com/Shopify/ucp-cli)
+  > A shopping skill for AI agents, powered by the Universal Commerce Protocol.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [ch32-rs/ch32-data](https://github.com/ch32-rs/ch32-data)
@@ -56,6 +68,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [open-webui/open-webui](https://github.com/open-webui/open-webui)
   > User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [m4b/goblin](https://github.com/m4b/goblin) to [mq1n/goblin](https://github.com/mq1n/goblin)
+  > An impish, cross-platform binary parsing crate, written in Rust
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xdea/rhabdomancer](https://github.com/0xdea/rhabdomancer)
@@ -99,5 +113,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-17 19:03:09 UTC*
+*Last updated at 2026-06-17 20:51:37 UTC*
 *Historical records are stored in the `archive` directory.*
