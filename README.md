@@ -8,7 +8,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription)
   > 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
+  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [gameprive/win2k](https://github.com/gameprive/win2k)
+  > Windows 2000 source code 
+
 
 ---
-*Last updated at 2026-06-17 03:21:15 UTC*
+*Last updated at 2026-06-17 05:50:06 UTC*
 *Historical records are stored in the `archive` directory.*
