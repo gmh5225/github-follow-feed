@@ -44,10 +44,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [ch32-rs/ch32-data](https://github.com/ch32-rs/ch32-data)
   > The structured MCU DB of WCH MCUs
-
-### [hugsy](https://github.com/hugsy)
-- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [zed-industries/zed](https://github.com/zed-industries/zed)
-  > Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators ...
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [vasya-zh/PCB-Edge-USB-connector-KiCad-library](https://github.com/vasya-zh/PCB-Edge-USB-connector-KiCad-library)
+  > KiCad library for a bunch of PCB USB connectors
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [rxi/microui](https://github.com/rxi/microui)
@@ -68,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [gameprive/win2k](https://github.com/gameprive/win2k)
   > Windows 2000 source code 
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [r3xmax/PhantomCtx](https://github.com/r3xmax/PhantomCtx)
+  > Activation Context Hijacking Evasion Tool
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [kmx00/seccall](https://github.com/kmx00/seccall)
@@ -83,6 +83,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [jonescyber-ai/Blackfyre](https://github.com/jonescyber-ai/Blackfyre)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [IITH-Compilers/VexIR2Vec](https://github.com/IITH-Compilers/VexIR2Vec)
   > Implementation of VexIR2Vec. Scalable Program Embeddings for Binary Codes.
+- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [FormAI-Dataset/FormAI-dataset](https://github.com/FormAI-Dataset/FormAI-dataset)
 
 ### [ufrisk](https://github.com/ufrisk)
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [Zoo-Code-Org/Zoo-Code](https://github.com/Zoo-Code-Org/Zoo-Code)
@@ -98,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-17 17:57:31 UTC*
+*Last updated at 2026-06-17 19:03:09 UTC*
 *Historical records are stored in the `archive` directory.*
