@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [WorkhorseComputing/WorkhorseRT](https://github.com/WorkhorseComputing/WorkhorseRT)
   > Microkernel and Hypervisor platform designed for hard real-time systems demanding high performance a...
 
+### [Colton1skees](https://github.com/Colton1skees)
+- 🌟 👤 [Colton1skees](https://github.com/Colton1skees) Starred [tr00/eqsat-mod-ac](https://github.com/tr00/eqsat-mod-ac)
+  > Prototype implementation of AC-aware e-matching 
+
 ### [Cr0a3](https://github.com/Cr0a3)
 - 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [lzpel/cadrum](https://github.com/lzpel/cadrum)
   > Rust CAD library powered by statically linked, headless OpenCASCADE (OCCT 8.0.0) — runs natively and...
@@ -83,6 +87,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [r3xmax/PhantomCtx](https://github.com/r3xmax/PhantomCtx)
   > Activation Context Hijacking Evasion Tool
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [solardev-xyz/freedom-browser](https://github.com/solardev-xyz/freedom-browser)
+  > A browser for the decentralized web, with Swarm, IPFS, and ENS as first-class protocols
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [kmx00/seccall](https://github.com/kmx00/seccall)
   > C++ header only (and optional postbuild py script) function runtime encryption/deletion
@@ -113,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-17 21:44:30 UTC*
+*Last updated at 2026-06-17 22:39:43 UTC*
 *Historical records are stored in the `archive` directory.*
