@@ -58,7 +58,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)
   > 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAg...
 
+### [weak1337](https://github.com/weak1337)
+- 🌟 👤 [weak1337](https://github.com/weak1337) Starred [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher)
+  > An easy to use, easy to deploy crypto library
+
 
 ---
-*Last updated at 2026-06-18 18:58:28 UTC*
+*Last updated at 2026-06-18 19:50:42 UTC*
 *Historical records are stored in the `archive` directory.*
