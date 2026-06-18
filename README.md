@@ -62,7 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [weak1337](https://github.com/weak1337) Starred [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher)
   > An easy to use, easy to deploy crypto library
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [m-m-adams/ida_graph_parser](https://github.com/m-m-adams/ida_graph_parser)
+
 
 ---
-*Last updated at 2026-06-18 19:50:42 UTC*
+*Last updated at 2026-06-18 20:57:56 UTC*
 *Historical records are stored in the `archive` directory.*
