@@ -32,8 +32,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
   > rax is a CPU emulator that checks its own work.
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [ansumandas441/mathematical-discovery-engine](https://github.com/ansumandas441/mathematical-discovery-engine)
+  > This is a mathematical discovery engine, which searches new mathematics applying techniques to exist...
+
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/evObj](https://github.com/emexlab/evObj)
+  > FOSS event driven object oriented API based on kvobject in emexDE.
+
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [alpacahack/requestbin](https://github.com/alpacahack/requestbin)
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
+  > An A12/A13 SecureROM exploit
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [InternetMaximalism/intmax3-zkp](https://github.com/InternetMaximalism/intmax3-zkp)
@@ -48,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-18 15:13:19 UTC*
+*Last updated at 2026-06-18 17:12:36 UTC*
 *Historical records are stored in the `archive` directory.*
