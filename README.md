@@ -20,14 +20,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [r3xmax/PhantomCtx](https://github.com/r3xmax/PhantomCtx)
   > Activation Context Hijacking Evasion Tool
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [madeye/meow-rs](https://github.com/madeye/meow-rs)
+  > A high-performance Rust implementation of the mihomo (Clash Meta) proxy kernel.
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source revision control system
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
+  > rax is a CPU emulator that checks its own work.
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [alpacahack/requestbin](https://github.com/alpacahack/requestbin)
 
 
 ---
-*Last updated at 2026-06-18 09:41:29 UTC*
+*Last updated at 2026-06-18 11:30:32 UTC*
 *Historical records are stored in the `archive` directory.*
