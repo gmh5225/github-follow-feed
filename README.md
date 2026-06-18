@@ -35,11 +35,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [alpacahack/requestbin](https://github.com/alpacahack/requestbin)
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [InternetMaximalism/intmax3-zkp](https://github.com/InternetMaximalism/intmax3-zkp)
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [branover/hexgraph](https://github.com/branover/hexgraph)
+  > Self-hosted, agentic vulnerability research for binaries & firmware: an AI agent decompiles, fuzzes,...
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)
   > 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAg...
 
 
 ---
-*Last updated at 2026-06-18 13:24:41 UTC*
+*Last updated at 2026-06-18 15:13:19 UTC*
 *Historical records are stored in the `archive` directory.*
