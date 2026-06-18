@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [threat-zone/tihulu](https://github.com/threat-zone/tihulu)
+  > In-memory TLS 1.2/1.3 key extractor.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
+  > Windows kernel debugger for Linux hosts running Windows under KVM/QEMU
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight)
   > Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvem...
@@ -57,6 +63,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)
   > 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAg...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [bhavsec/autopentest-ai](https://github.com/bhavsec/autopentest-ai)
+  > Agentic Pentesting MCP server that discovers, exploits, and reports web application vulnerabilities.
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [ragulpr/wtte-rnn](https://github.com/ragulpr/wtte-rnn)
+  > WTTE-RNN a framework for churn and time to event prediction
 
 ### [weak1337](https://github.com/weak1337)
 - 🌟 👤 [weak1337](https://github.com/weak1337) Starred [LoupVaillant/Monocypher](https://github.com/LoupVaillant/Monocypher)
@@ -67,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-18 20:57:56 UTC*
+*Last updated at 2026-06-18 21:48:20 UTC*
 *Historical records are stored in the `archive` directory.*
