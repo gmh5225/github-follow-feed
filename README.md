@@ -20,7 +20,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [r3xmax/PhantomCtx](https://github.com/r3xmax/PhantomCtx)
   > Activation Context Hijacking Evasion Tool
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source revision control system
+
+### [minaminao](https://github.com/minaminao)
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [alpacahack/requestbin](https://github.com/alpacahack/requestbin)
+
 
 ---
-*Last updated at 2026-06-18 05:46:40 UTC*
+*Last updated at 2026-06-18 07:57:10 UTC*
 *Historical records are stored in the `archive` directory.*
