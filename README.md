@@ -32,7 +32,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
-  > Lore is a next-generation, open source revision control system
+  > Lore is a next-generation, open source version control system
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [HexRaysSA/rax](https://github.com/HexRaysSA/rax)
@@ -79,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-18 22:45:42 UTC*
+*Last updated at 2026-06-18 23:39:20 UTC*
 *Historical records are stored in the `archive` directory.*
