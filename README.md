@@ -35,7 +35,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [alpacahack/requestbin](https://github.com/alpacahack/requestbin)
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [LiteLLM-Labs/litellm-agent-control-plane](https://github.com/LiteLLM-Labs/litellm-agent-control-plane)
+  > 1 place to call all your agents - OpenCode, Hermes, Claude Managed Agents, Cursor Agents API, DeepAg...
+
 
 ---
-*Last updated at 2026-06-18 11:30:32 UTC*
+*Last updated at 2026-06-18 13:24:41 UTC*
 *Historical records are stored in the `archive` directory.*
