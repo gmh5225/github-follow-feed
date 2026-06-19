@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
   > GLM-5: From Vibe Coding to Agentic Engineering
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)
+  > Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, g...
 
 ### [ggerganov](https://github.com/ggerganov)
 - 🚀 👤 [ggerganov](https://github.com/ggerganov) Made [ggml-org/llama.cpp-dev](https://github.com/ggml-org/llama.cpp-dev) public
@@ -20,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kernullist/CodersRoundTable](https://github.com/kernullist/CodersRoundTable)
+  > Gamified code review: four legendary tech personas debate your source code with real-time speech bub...
 
 ### [pathtofile](https://github.com/pathtofile)
 - 🍴 👤 [pathtofile](https://github.com/pathtofile) Forked [mcuelenaere/regi](https://github.com/mcuelenaere/regi) to [pathtofile/regi](https://github.com/pathtofile/regi)
@@ -35,5 +41,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-19 19:38:37 UTC*
+*Last updated at 2026-06-19 20:38:01 UTC*
 *Historical records are stored in the `archive` directory.*
