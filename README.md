@@ -12,11 +12,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
 
+### [pathtofile](https://github.com/pathtofile)
+- 🍴 👤 [pathtofile](https://github.com/pathtofile) Forked [mcuelenaere/regi](https://github.com/mcuelenaere/regi) to [pathtofile/regi](https://github.com/pathtofile/regi)
+  > Regi ― Native macOS client for JetKVM/PiKVM
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Robert-MacWha/websnark-rs](https://github.com/Robert-MacWha/websnark-rs)
   > Circom v1 transpiler and proof generation library in Rust
 
 
 ---
-*Last updated at 2026-06-19 08:08:10 UTC*
+*Last updated at 2026-06-19 10:38:00 UTC*
 *Historical records are stored in the `archive` directory.*
