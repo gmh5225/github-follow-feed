@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SySS-Research/TURNado](https://github.com/SySS-Research/TURNado)
+  > A TURN test suite for testing and (ab)using TURN servers
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
+  > An A12/A13 SecureROM exploit
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
   > GLM-5: From Vibe Coding to Agentic Engineering
@@ -29,5 +35,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-19 18:47:23 UTC*
+*Last updated at 2026-06-19 19:38:37 UTC*
 *Historical records are stored in the `archive` directory.*
