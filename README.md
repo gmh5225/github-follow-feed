@@ -9,6 +9,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A TURN test suite for testing and (ab)using TURN servers
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8)
   > An A12/A13 SecureROM exploit
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [hydra-acn/x448](https://github.com/hydra-acn/x448)
+  > C library for Diffie Hellman key exchange with Curve448 und Curve25519. Extracted from OpenSSL.
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [zai-org/GLM-5](https://github.com/zai-org/GLM-5)
@@ -41,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-19 22:26:31 UTC*
+*Last updated at 2026-06-19 23:30:00 UTC*
 *Historical records are stored in the `archive` directory.*
