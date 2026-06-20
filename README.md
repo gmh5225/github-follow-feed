@@ -4,8 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [egraphs-good/egglog](https://github.com/egraphs-good/egglog)
+  > egraphs + datalog!
+
 
 ---
-*Last updated at 2026-06-20 03:18:49 UTC*
+*Last updated at 2026-06-20 05:39:02 UTC*
 *Historical records are stored in the `archive` directory.*
