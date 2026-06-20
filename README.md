@@ -12,7 +12,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [egraphs-good/egglog](https://github.com/egraphs-good/egglog)
   > egraphs + datalog!
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .claude directory.
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [trailofbits/skills](https://github.com/trailofbits/skills)
+  > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+
 
 ---
-*Last updated at 2026-06-20 11:43:33 UTC*
+*Last updated at 2026-06-20 12:49:01 UTC*
 *Historical records are stored in the `archive` directory.*
