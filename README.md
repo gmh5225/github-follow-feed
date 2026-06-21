@@ -27,11 +27,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xHossam/UNCagedSandbox](https://github.com/0xHossam/UNCagedSandbox) to [killvxk/UNCagedSandbox](https://github.com/killvxk/UNCagedSandbox)
   > Research on a new PoC for a Windows Sandbox .wsb HostFolder UNC path primitive that causes the host ...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [linuxboot/heads](https://github.com/linuxboot/heads)
+  > A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot ...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [penpot/penpot](https://github.com/penpot/penpot)
   > Penpot: The open-source design tool for design and code collaboration
 
 
 ---
-*Last updated at 2026-06-21 16:41:43 UTC*
+*Last updated at 2026-06-21 17:37:44 UTC*
 *Historical records are stored in the `archive` directory.*
