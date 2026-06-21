@@ -35,7 +35,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [penpot/penpot](https://github.com/penpot/penpot)
   > Penpot: The open-source design tool for design and code collaboration
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [turbopuffer/alyze](https://github.com/turbopuffer/alyze)
+  > Tokenization and analysis pipeline for full-text search
+
 
 ---
-*Last updated at 2026-06-21 17:37:44 UTC*
+*Last updated at 2026-06-21 18:41:45 UTC*
 *Historical records are stored in the `archive` directory.*
