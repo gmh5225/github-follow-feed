@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [linuxboot/heads](https://github.com/linuxboot/heads)
   > A minimal Linux that runs as a coreboot or LinuxBoot ROM payload to provide a secure, flexible boot ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Avarok-Cybersecurity/atlas](https://github.com/Avarok-Cybersecurity/atlas)
+  > Pure Rust Inference Engine
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [penpot/penpot](https://github.com/penpot/penpot)
   > Penpot: The open-source design tool for design and code collaboration
@@ -41,5 +45,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-21 22:33:35 UTC*
+*Last updated at 2026-06-21 23:36:01 UTC*
 *Historical records are stored in the `archive` directory.*
