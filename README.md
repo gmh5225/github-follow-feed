@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/nuclei-template-creator](https://github.com/Mr-xn/nuclei-template-creator)
+  > create nuclei template skills for agent
+
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [gleam-lang/gleam](https://github.com/gleam-lang/gleam)
   > ⭐️ A friendly language for building type-safe, scalable systems!
@@ -29,5 +33,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-21 11:09:51 UTC*
+*Last updated at 2026-06-21 12:52:57 UTC*
 *Historical records are stored in the `archive` directory.*
