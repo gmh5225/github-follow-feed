@@ -23,7 +23,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xHossam/UNCagedSandbox](https://github.com/0xHossam/UNCagedSandbox) to [killvxk/UNCagedSandbox](https://github.com/killvxk/UNCagedSandbox)
   > Research on a new PoC for a Windows Sandbox .wsb HostFolder UNC path primitive that causes the host ...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [penpot/penpot](https://github.com/penpot/penpot)
+  > Penpot: The open-source design tool for design and code collaboration
+
 
 ---
-*Last updated at 2026-06-21 09:25:46 UTC*
+*Last updated at 2026-06-21 11:09:51 UTC*
 *Historical records are stored in the `archive` directory.*
