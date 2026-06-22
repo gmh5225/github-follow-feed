@@ -15,6 +15,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [akustikrausch/airplay2-sender-cpp](https://github.com/akustikrausch/airplay2-sender-cpp)
   > A verified C++ AirPlay 2 realtime-audio SENDER: streams lossless ALAC to a modern Apple TV / HomePod...
 
+### [benvanik](https://github.com/benvanik)
+- 🍴 👤 [benvanik](https://github.com/benvanik) Forked [ROCm/llama.cpp](https://github.com/ROCm/llama.cpp) to [benvanik/llama.cpp](https://github.com/benvanik/llama.cpp)
+  > LLM inference in C/C++
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
@@ -49,5 +53,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-22 22:39:36 UTC*
+*Last updated at 2026-06-22 23:36:29 UTC*
 *Historical records are stored in the `archive` directory.*
