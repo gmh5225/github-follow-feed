@@ -8,6 +8,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
   > Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesf...
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lkimuk/WeMark](https://github.com/lkimuk/WeMark) to [CrackerCat/WeMark](https://github.com/CrackerCat/WeMark)
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [akustikrausch/airplay2-sender-cpp](https://github.com/akustikrausch/airplay2-sender-cpp)
   > A verified C++ AirPlay 2 realtime-audio SENDER: streams lossless ALAC to a modern Apple TV / HomePod...
@@ -17,6 +20,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
   > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
+  > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks)
@@ -44,5 +49,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-22 21:45:59 UTC*
+*Last updated at 2026-06-22 22:39:36 UTC*
 *Historical records are stored in the `archive` directory.*
