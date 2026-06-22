@@ -24,11 +24,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [google/git-appraise](https://github.com/google/git-appraise)
   > Distributed code review system for Git repos
 
+### [jtriley2p](https://github.com/jtriley2p)
+- 🍴 👤 [jtriley2p](https://github.com/jtriley2p) Forked [uniswapfoundation/governance-seatbelt](https://github.com/uniswapfoundation/governance-seatbelt) to [jtriley2p/governance-seatbelt](https://github.com/jtriley2p/governance-seatbelt)
+  > Make governance safer
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)
   > Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, bu...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [nhuhuan/amace](https://github.com/nhuhuan/amace)
+  > Analyzing Bytes: Pre-Disassembly Static Binary Analysis
+
 
 ---
-*Last updated at 2026-06-22 16:42:54 UTC*
+*Last updated at 2026-06-22 18:27:47 UTC*
 *Historical records are stored in the `archive` directory.*
