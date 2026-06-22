@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [jtriley2p](https://github.com/jtriley2p) Forked [uniswapfoundation/governance-seatbelt](https://github.com/uniswapfoundation/governance-seatbelt) to [jtriley2p/governance-seatbelt](https://github.com/jtriley2p/governance-seatbelt)
   > Make governance safer
 
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [iliyami/MacSai](https://github.com/iliyami/MacSai)
+  > Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized altern...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)
   > Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, bu...
@@ -38,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-22 18:27:47 UTC*
+*Last updated at 2026-06-22 20:06:36 UTC*
 *Historical records are stored in the `archive` directory.*
