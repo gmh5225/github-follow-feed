@@ -4,8 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [GhabiX/codex](https://github.com/GhabiX/codex)
+  > Lightweight coding agent that runs in your terminal
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)
+  > Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, bu...
+
 
 ---
-*Last updated at 2026-06-22 06:01:23 UTC*
+*Last updated at 2026-06-22 09:09:19 UTC*
 *Historical records are stored in the `archive` directory.*
