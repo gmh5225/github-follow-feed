@@ -57,6 +57,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [joshuavanderpoll/CVE-2026-54806](https://github.com/joshuavanderpoll/CVE-2026-54806) to [killvxk/CVE-2026-54806](https://github.com/killvxk/CVE-2026-54806)
   > Unauthenticated PHP Object Injection to RCE in WP Activity Log <= 5.6.3.1 (CVE-2026-54806)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
+  > AEON vLLM Ultimate — vLLM 0.23.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One ima...
+
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [umputun/ralphex](https://github.com/umputun/ralphex)
+  > Extended Ralph loop for autonomous AI-driven plan execution
+
 ### [ufrisk](https://github.com/ufrisk)
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
   > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
@@ -67,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-23 17:41:04 UTC*
+*Last updated at 2026-06-23 18:53:03 UTC*
 *Historical records are stored in the `archive` directory.*
