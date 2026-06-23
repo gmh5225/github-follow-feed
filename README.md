@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR)
+  > Arma: Cold War Assault Remastered Source Code Repository.
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zboralski/galago](https://github.com/zboralski/galago) to [CrackerCat/galago](https://github.com/CrackerCat/galago)
   > Galago extracts encryption keys from ARM64 Android native libraries through controlled emulation.
@@ -13,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
   > A Crash Team Racing Decompilation Project
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [gcarmix/hexdig](https://github.com/gcarmix/hexdig)
+  > Binary blob analyzer and extractor based on C++
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [gcarmix/HexWalk](https://github.com/gcarmix/HexWalk)
+  > Hex Viewer/Editor/Analyzer compatible with Linux/Windows/MacOS
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
@@ -55,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-23 15:09:15 UTC*
+*Last updated at 2026-06-23 16:56:44 UTC*
 *Historical records are stored in the `archive` directory.*
