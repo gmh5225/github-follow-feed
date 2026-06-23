@@ -1,57 +1,11 @@
-# Daily GitHub Activity (2026-06-22)
+# Daily GitHub Activity (2026-06-23)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot)
-  > Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesf...
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lkimuk/WeMark](https://github.com/lkimuk/WeMark) to [CrackerCat/WeMark](https://github.com/CrackerCat/WeMark)
-
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [akustikrausch/airplay2-sender-cpp](https://github.com/akustikrausch/airplay2-sender-cpp)
-  > A verified C++ AirPlay 2 realtime-audio SENDER: streams lossless ALAC to a modern Apple TV / HomePod...
-
-### [benvanik](https://github.com/benvanik)
-- 🍴 👤 [benvanik](https://github.com/benvanik) Forked [ROCm/llama.cpp](https://github.com/ROCm/llama.cpp) to [benvanik/llama.cpp](https://github.com/benvanik/llama.cpp)
-  > LLM inference in C/C++
-
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
-  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
-  > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [19h/ida-lifter](https://github.com/19h/ida-lifter)
-  > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
-
-### [hackcatml](https://github.com/hackcatml)
-- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [xbow-engineering/validation-benchmarks](https://github.com/xbow-engineering/validation-benchmarks)
-  > XBOW Validation Benchmarks
-
-### [holly-hacker](https://github.com/holly-hacker)
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [google/git-appraise](https://github.com/google/git-appraise)
-  > Distributed code review system for Git repos
-
-### [jtriley2p](https://github.com/jtriley2p)
-- 🍴 👤 [jtriley2p](https://github.com/jtriley2p) Forked [uniswapfoundation/governance-seatbelt](https://github.com/uniswapfoundation/governance-seatbelt) to [jtriley2p/governance-seatbelt](https://github.com/jtriley2p/governance-seatbelt)
-  > Make governance safer
-
-### [nulltea](https://github.com/nulltea)
-- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [iliyami/MacSai](https://github.com/iliyami/MacSai)
-  > Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized altern...
-- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [tw93/Mole](https://github.com/tw93/Mole)
-  > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
-
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)
-  > Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, bu...
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
-  > World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill...
-
+Tracked users have no public activity today that matches the filter criteria.
 
 ---
-*Last updated at 2026-06-22 23:36:29 UTC*
+*Last updated at 2026-06-23 01:08:12 UTC*
 *Historical records are stored in the `archive` directory.*
