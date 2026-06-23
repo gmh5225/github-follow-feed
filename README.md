@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dbalsom/pc-emulation-book](https://github.com/dbalsom/pc-emulation-book) to [CrackerCat/pc-emulation-book](https://github.com/CrackerCat/pc-emulation-book)
   > An mdbook based emulation guide for the IBM PC/XT
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [CTR-tools/ctr-native](https://github.com/CTR-tools/ctr-native)
+  > A Crash Team Racing Decompilation Project
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
   > AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。
@@ -43,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-23 11:10:44 UTC*
+*Last updated at 2026-06-23 13:11:46 UTC*
 *Historical records are stored in the `archive` directory.*
