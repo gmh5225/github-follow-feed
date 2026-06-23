@@ -46,6 +46,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [classic130/PseudoForge](https://github.com/classic130/PseudoForge)
   > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-structor](https://github.com/19h/ida-structor)
+  > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [19h/ida-codedump](https://github.com/19h/ida-codedump)
+  > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [lautarovculic/frida-ipa-extract](https://github.com/lautarovculic/frida-ipa-extract)
   > Robust Frida-based tool to dump decrypted iOS apps as .ipa from a jailbroken device supports App Sto...
@@ -85,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-23 22:34:17 UTC*
+*Last updated at 2026-06-23 23:29:52 UTC*
 *Historical records are stored in the `archive` directory.*
