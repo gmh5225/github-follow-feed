@@ -68,6 +68,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
   > AEON vLLM Ultimate — vLLM 0.23.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One ima...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nova452/ComfyUI-ConditioningKrea2Rebalance](https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance)
+  > A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 al...
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [umputun/ralphex](https://github.com/umputun/ralphex)
@@ -83,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-23 21:39:42 UTC*
+*Last updated at 2026-06-23 22:34:17 UTC*
 *Historical records are stored in the `archive` directory.*
