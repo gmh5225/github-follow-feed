@@ -24,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [classic130/PseudoForge](https://github.com/classic130/PseudoForge)
   > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
@@ -37,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [phyx-be/LANA_TNY](https://github.com/phyx-be/LANA_TNY)
 
+### [killvxk](https://github.com/killvxk)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [joshuavanderpoll/CVE-2026-54806](https://github.com/joshuavanderpoll/CVE-2026-54806) to [killvxk/CVE-2026-54806](https://github.com/killvxk/CVE-2026-54806)
+  > Unauthenticated PHP Object Injection to RCE in WP Activity Log <= 5.6.3.1 (CVE-2026-54806)
+
 ### [ufrisk](https://github.com/ufrisk)
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [MemNixFS/MemNixFS](https://github.com/MemNixFS/MemNixFS)
   > Linux Memory Forensics Framework That Transforms Memory Dumps Into a Navigable Filesystem
@@ -47,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-23 13:11:46 UTC*
+*Last updated at 2026-06-23 15:09:15 UTC*
 *Historical records are stored in the `archive` directory.*
