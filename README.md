@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zboralski/galago](https://github.com/zboralski/galago) to [CrackerCat/galago](https://github.com/CrackerCat/galago)
+  > Galago extracts encryption keys from ARM64 Android native libraries through controlled emulation.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dbalsom/pc-emulation-book](https://github.com/dbalsom/pc-emulation-book) to [CrackerCat/pc-emulation-book](https://github.com/CrackerCat/pc-emulation-book)
+  > An mdbook based emulation guide for the IBM PC/XT
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [MikeWuPing/UEFI_Contra](https://github.com/MikeWuPing/UEFI_Contra)
   > 这是一个将红白机经典《魂斗罗》（Contra）移植到 **UEFI Shell** 环境的技术实验项目。游戏作为 UEFI 应用程序（.efi 文件）运行，直接通过 GOP（Graphics Outp...
@@ -12,5 +18,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-23 03:18:29 UTC*
+*Last updated at 2026-06-23 05:30:28 UTC*
 *Historical records are stored in the `archive` directory.*
