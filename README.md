@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
   > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [psarna/rave](https://github.com/psarna/rave)
+  > RISC-V emulator the 90s deserved
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zboralski/galago](https://github.com/zboralski/galago) to [CrackerCat/galago](https://github.com/CrackerCat/galago)
@@ -56,6 +58,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [joshuavanderpoll/CVE-2026-54806](https://github.com/joshuavanderpoll/CVE-2026-54806) to [killvxk/CVE-2026-54806](https://github.com/killvxk/CVE-2026-54806)
   > Unauthenticated PHP Object Injection to RCE in WP Activity Log <= 5.6.3.1 (CVE-2026-54806)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rootdr-backup/TokenTwin-Checker](https://github.com/rootdr-backup/TokenTwin-Checker)
+  > TokenTwin Checker — Dual Token BAC/IDOR Tester for Burp Suite
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [QGrain/cvm](https://github.com/QGrain/cvm)
+  > Compiler Version Manager — A cross-platform C/C++ Compiler Version Manager for LLVM and GCC. Similar...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [HullaBrian/ttd-capa](https://github.com/HullaBrian/ttd-capa)
+  > Capability extraction from Time Travel Debugging Traces
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/vllm-ultimate-dgx-spark](https://github.com/AEON-7/vllm-ultimate-dgx-spark)
@@ -75,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-23 20:52:04 UTC*
+*Last updated at 2026-06-23 21:39:42 UTC*
 *Historical records are stored in the `archive` directory.*
