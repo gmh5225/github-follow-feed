@@ -16,11 +16,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [kernullist/PseudoForge](https://github.com/kernullist/PseudoForge) to [classic130/PseudoForge](https://github.com/classic130/PseudoForge)
+  > An IDA Pro / Hex-Rays plugin that turns noisy pseudocode into reviewable, kernel-aware cleanup artif...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash)
+  > Fully uncensored, capability-enhanced abliteration of Qwen3.6-27B. NVFP4 + z-lab DFlash speculative ...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer)
   > Power full Task Manager
 
 
 ---
-*Last updated at 2026-06-23 07:29:02 UTC*
+*Last updated at 2026-06-23 09:19:59 UTC*
 *Historical records are stored in the `archive` directory.*
