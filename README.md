@@ -64,6 +64,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [cmu-sei/pharos](https://github.com/cmu-sei/pharos)
   > Automated static analysis tools for binary programs
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [mdn/mcp](https://github.com/mdn/mcp)
+  > MDN's prototype MCP server
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center)
   > This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications a...
@@ -72,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-24 20:41:48 UTC*
+*Last updated at 2026-06-24 21:36:13 UTC*
 *Historical records are stored in the `archive` directory.*
