@@ -4,8 +4,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [entropykit/entropia](https://github.com/entropykit/entropia) to [CrackerCat/entropia](https://github.com/CrackerCat/entropia)
+  > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [XiaoWaaay/VixlDebugger](https://github.com/XiaoWaaay/VixlDebugger) to [CrackerCat/XiaoWaaay-VixlDebugger](https://github.com/CrackerCat/XiaoWaaay-VixlDebugger)
+  > 基于unicorn+Vixl+dobby项目的trace技术
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-lifter](https://github.com/19h/ida-lifter) to [CrackerCat/ida-lifter](https://github.com/CrackerCat/ida-lifter)
+  > An IDA Hex-Rays microcode filter that lifts AVX/AVX2/AVX-512/AVX10 and VMX/VT-x instructions to intr...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ggggmllll/NDK_SIMPLE_KPM](https://github.com/ggggmllll/NDK_SIMPLE_KPM) to [CrackerCat/NDK_SIMPLE_KPM](https://github.com/CrackerCat/NDK_SIMPLE_KPM)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-codedump](https://github.com/19h/ida-codedump) to [CrackerCat/ida-codedump](https://github.com/CrackerCat/ida-codedump)
+  > An IDA Pro plugin that lifts functions and their dependencies out of IDA Pro into self-contained art...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-structor](https://github.com/19h/ida-structor) to [CrackerCat/ida-structor](https://github.com/CrackerCat/ida-structor)
+  > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-oxidizer](https://github.com/19h/ida-oxidizer) to [CrackerCat/ida-oxidizer](https://github.com/CrackerCat/ida-oxidizer)
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [torkbot/sandbox](https://github.com/torkbot/sandbox)
+  > Sandbox is a TypeScript-first Node.js library for spawning libkrun-backed microVMs.
+
 
 ---
-*Last updated at 2026-06-24 01:06:15 UTC*
+*Last updated at 2026-06-24 03:18:55 UTC*
 *Historical records are stored in the `archive` directory.*
