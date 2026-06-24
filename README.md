@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Made [Z3Prover/coz3](https://github.com/Z3Prover/coz3) public
   > coz3 results
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
+  > Easily create full virtual machines that are sandboxed for development or computer use models.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
@@ -33,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [torkbot/sandbox](https://github.com/torkbot/sandbox)
   > Sandbox is a TypeScript-first Node.js library for spawning libkrun-backed microVMs.
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [cmu-sei/pharos](https://github.com/cmu-sei/pharos)
+  > Automated static analysis tools for binary programs
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center)
@@ -42,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-24 15:03:52 UTC*
+*Last updated at 2026-06-24 16:52:20 UTC*
 *Historical records are stored in the `archive` directory.*
