@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [rccyx/asryx](https://github.com/rccyx/asryx)
+  > Linux native ASR, done the UNIX way, no dependencies beyond pure C++ and the standard Linux toolchai...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [entropykit/entropia](https://github.com/entropykit/entropia) to [CrackerCat/entropia](https://github.com/CrackerCat/entropia)
   > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
@@ -18,11 +22,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Structor is a Hex-Rays plugin that synthesizes C structures from raw pointer arithmetic.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/ida-oxidizer](https://github.com/19h/ida-oxidizer) to [CrackerCat/ida-oxidizer](https://github.com/CrackerCat/ida-oxidizer)
 
+### [NikolajBjorner](https://github.com/NikolajBjorner)
+- 🚀 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Made [Z3Prover/coz3](https://github.com/Z3Prover/coz3) public
+  > coz3 results
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [torkbot/sandbox](https://github.com/torkbot/sandbox)
   > Sandbox is a TypeScript-first Node.js library for spawning libkrun-backed microVMs.
 
 
 ---
-*Last updated at 2026-06-24 03:18:55 UTC*
+*Last updated at 2026-06-24 05:28:51 UTC*
 *Historical records are stored in the `archive` directory.*
