@@ -43,6 +43,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > lightweight 64bit architecture
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [X3r0Day/BunnyHijack](https://github.com/X3r0Day/BunnyHijack)
   > PoC demonstration of PATH poisoning vuln in bun install, allowing even untrsted package to run syste...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish)
+  > An end-to-end production workspace for AI-generated short dramas. From script input to structured st...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
@@ -70,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-24 18:44:30 UTC*
+*Last updated at 2026-06-24 19:37:15 UTC*
 *Historical records are stored in the `archive` directory.*
