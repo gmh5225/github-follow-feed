@@ -30,6 +30,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mrexodia/agent-cost-dashboard](https://github.com/mrexodia/agent-cost-dashboard)
   > Interactive web dashboard to monitor and analyze your coding agent API costs.
 
+### [killvxk](https://github.com/killvxk)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [khanhduytran0/coruna](https://github.com/khanhduytran0/coruna) to [killvxk/coruna](https://github.com/killvxk/coruna)
+  > The leaked exploit toolkit for various iOS versions
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sumeshi/forensia](https://github.com/sumeshi/forensia)
+  > Your local AI assistant for weekend forensic work.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jdx/mise](https://github.com/jdx/mise)
+  > dev tools, env vars, task runner
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xABCD01/CVE-2026-41089](https://github.com/0xABCD01/CVE-2026-41089) to [killvxk/CVE-2026-41089](https://github.com/killvxk/CVE-2026-41089)
+  > CVE-2026-41089 PoC — Netlogon CLDAP stack buffer overflow (CVSS 9.8 CRITICAL)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [emexlab/emex64](https://github.com/emexlab/emex64)
+  > lightweight 64bit architecture
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [X3r0Day/BunnyHijack](https://github.com/X3r0Day/BunnyHijack)
+  > PoC demonstration of PATH poisoning vuln in bun install, allowing even untrsted package to run syste...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
@@ -38,6 +52,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
   > Easily create full virtual machines that are sandboxed for development or computer use models.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor)
+  > Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, therm...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [joeynyc/spark-doctor](https://github.com/joeynyc/spark-doctor) to [mrexodia/spark-doctor](https://github.com/mrexodia/spark-doctor)
   > Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, therm...
 
 ### [pgoodman](https://github.com/pgoodman)
@@ -54,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-24 17:43:11 UTC*
+*Last updated at 2026-06-24 18:44:30 UTC*
 *Historical records are stored in the `archive` directory.*
