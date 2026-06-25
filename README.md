@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Xeeynamo/ff7-decomp](https://github.com/Xeeynamo/ff7-decomp)
   > Matching decomp of Final Fantasy VII for PlayStation 1
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [philzook58/philzook58.github.io](https://github.com/philzook58/philzook58.github.io)
+  > My Blog
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [elite-sheep/gradient-restir](https://github.com/elite-sheep/gradient-restir)
   > Implementation for Gradient-domain ReSTIR Path Tracing paper
@@ -36,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [JameZUK/ProcmonMCP](https://github.com/JameZUK/ProcmonMCP)
   > An MCP server for procmon files
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)
+  > TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, develop...
 
 ### [nlohmann](https://github.com/nlohmann)
 - 🌟 👤 [nlohmann](https://github.com/nlohmann) Starred [nlohmann/json](https://github.com/nlohmann/json)
@@ -50,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-25 16:54:40 UTC*
+*Last updated at 2026-06-25 17:53:16 UTC*
 *Historical records are stored in the `archive` directory.*
