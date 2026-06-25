@@ -7,6 +7,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [metallicafan212/ICBINDx11Drv](https://github.com/metallicafan212/ICBINDx11Drv)
   > Another DirectX 11 Renderer for UE1
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [REDPOWAR/D2GI](https://github.com/REDPOWAR/D2GI)
+  > Graphic improvements for Hard Truck 2 game (Дальнобойщики 2, King of the Road, Kelyje 2)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [aleko2144/KoTR_Modern_Patch](https://github.com/aleko2144/KoTR_Modern_Patch)
+  > King of the Road (Дальнобойщики 2) Modern Patch sources
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [VirtualAlllocEx/CS-EDR-Enumeration](https://github.com/VirtualAlllocEx/CS-EDR-Enumeration)
@@ -87,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-25 22:37:12 UTC*
+*Last updated at 2026-06-25 23:35:36 UTC*
 *Historical records are stored in the `archive` directory.*
