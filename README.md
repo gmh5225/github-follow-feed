@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cobalt Strike Aggressor Script for identifying security products on Windows hosts — six enumeration ...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [VirtualAlllocEx/CS-EDR-Enumeration](https://github.com/VirtualAlllocEx/CS-EDR-Enumeration)
+  > Cobalt Strike Aggressor Script for identifying security products on Windows hosts — six enumeration ...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Xeeynamo/ff7-decomp](https://github.com/Xeeynamo/ff7-decomp)
   > Matching decomp of Final Fantasy VII for PlayStation 1
@@ -20,6 +24,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [philzook58/philzook58.github.io](https://github.com/philzook58/philzook58.github.io)
   > My Blog
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ScrollPrize/villa](https://github.com/ScrollPrize/villa)
+  > The Vesuvius Challenge monorepo
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion)
+  > Procedural generation with diffusion models (SIGGRAPH '26)
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [elite-sheep/gradient-restir](https://github.com/elite-sheep/gradient-restir)
@@ -47,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
   > Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binsnake/fARM64](https://github.com/binsnake/fARM64)
+  > ARM64 decoder and encoder
+
 ### [nlohmann](https://github.com/nlohmann)
 - 🌟 👤 [nlohmann](https://github.com/nlohmann) Starred [nlohmann/json](https://github.com/nlohmann/json)
   > JSON for Modern C++
@@ -65,7 +81,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [wbenny](https://github.com/wbenny) Starred [oss-garage/bedrock](https://github.com/oss-garage/bedrock)
   > Experimental Hypervisor Purpose-Built for Deterministic Software Testing 
 
+### [zompi2](https://github.com/zompi2)
+- 🌟 👤 [zompi2](https://github.com/zompi2) Starred [YawLighthouse/UMG-Slate-Compendium](https://github.com/YawLighthouse/UMG-Slate-Compendium)
+  > A Compendium Information Guide for UMG and Slate in Unreal Engine.
+
 
 ---
-*Last updated at 2026-06-25 21:38:33 UTC*
+*Last updated at 2026-06-25 22:37:12 UTC*
 *Historical records are stored in the `archive` directory.*
