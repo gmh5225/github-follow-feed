@@ -13,10 +13,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cobalt Strike Aggressor Script for identifying security products on Windows hosts — six enumeration ...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MartinKayJr/abcde-android](https://github.com/MartinKayJr/abcde-android) to [CrackerCat/abcde-android](https://github.com/CrackerCat/abcde-android)
-  > 鸿蒙.abc逆向反编译工具-Android端 | Harmony .abc file decompilation tool Android version
-
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Xeeynamo/ff7-decomp](https://github.com/Xeeynamo/ff7-decomp)
   > Matching decomp of Final Fantasy VII for PlayStation 1
@@ -46,6 +42,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Repository for the CVPR 2026 paper MeshFlow Efficient Artistic Mesh Generation via MeshVAE and Flow-...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Waishnav/devspace](https://github.com/Waishnav/devspace)
   > Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+  > World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill...
 
 ### [nlohmann](https://github.com/nlohmann)
 - 🌟 👤 [nlohmann](https://github.com/nlohmann) Starred [nlohmann/json](https://github.com/nlohmann/json)
@@ -63,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-25 19:40:05 UTC*
+*Last updated at 2026-06-25 20:47:29 UTC*
 *Historical records are stored in the `archive` directory.*
