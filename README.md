@@ -42,10 +42,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)
   > TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, develop...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [facebookresearch/meshflow](https://github.com/facebookresearch/meshflow)
+  > Repository for the CVPR 2026 paper MeshFlow Efficient Artistic Mesh Generation via MeshVAE and Flow-...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Waishnav/devspace](https://github.com/Waishnav/devspace)
+  > Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)
 
 ### [nlohmann](https://github.com/nlohmann)
 - 🌟 👤 [nlohmann](https://github.com/nlohmann) Starred [nlohmann/json](https://github.com/nlohmann/json)
   > JSON for Modern C++
+
+### [praeclarum](https://github.com/praeclarum)
+- 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [FermatResearch/controlnet-tile-upscale](https://github.com/FermatResearch/controlnet-tile-upscale)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
@@ -56,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-25 18:54:27 UTC*
+*Last updated at 2026-06-25 19:40:05 UTC*
 *Historical records are stored in the `archive` directory.*
