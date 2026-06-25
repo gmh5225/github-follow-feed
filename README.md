@@ -44,6 +44,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
   > World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [agentsmill/age-of-agents](https://github.com/agentsmill/age-of-agents)
+  > Age of Agents — watch your AI coding sessions grow a peaceful pixel-art realm. Run it with npx ai-of...
 
 ### [nlohmann](https://github.com/nlohmann)
 - 🌟 👤 [nlohmann](https://github.com/nlohmann) Starred [nlohmann/json](https://github.com/nlohmann/json)
@@ -51,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [praeclarum](https://github.com/praeclarum)
 - 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [FermatResearch/controlnet-tile-upscale](https://github.com/FermatResearch/controlnet-tile-upscale)
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot)
+  > Pentest Copilot is an AI-powered browser based ethical hacking assistant tool designed to streamline...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll)
@@ -61,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-25 20:47:29 UTC*
+*Last updated at 2026-06-25 21:38:33 UTC*
 *Historical records are stored in the `archive` directory.*
