@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A specialized version of iced-x86 for binary lifting
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
   > Lore is a next-generation, open source version control system
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [hslatman/awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+  > A curated list of Awesome Threat Intelligence resources
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp) to [CrackerCat/vmware-mcp](https://github.com/CrackerCat/vmware-mcp)
@@ -44,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [aquynh](https://github.com/aquynh)
 - 🚀 👤 [aquynh](https://github.com/aquynh) Made [vinsoc-cyber/ares](https://github.com/vinsoc-cyber/ares) public
   > The CVE Machine: Autonomous Vulnerability Researcher
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
+  > A specialized version of iced-x86 for binary lifting
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ScrollPrize/villa](https://github.com/ScrollPrize/villa)
@@ -115,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 22:33:05 UTC*
+*Last updated at 2026-06-26 23:32:35 UTC*
 *Historical records are stored in the `archive` directory.*
