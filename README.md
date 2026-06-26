@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Gadget scanner that finds ROP gadgets inside any Windows DLL
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
   > A specialized version of iced-x86 for binary lifting
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [EpicGames/lore](https://github.com/EpicGames/lore)
+  > Lore is a next-generation, open source version control system
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp) to [CrackerCat/vmware-mcp](https://github.com/CrackerCat/vmware-mcp)
@@ -113,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 21:35:37 UTC*
+*Last updated at 2026-06-26 22:33:05 UTC*
 *Historical records are stored in the `archive` directory.*
