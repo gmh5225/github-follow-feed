@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AlkOS-Dev/AlkOS](https://github.com/AlkOS-Dev/AlkOS)
   > Open-source x86_64 operating system project focused on developing a 64-bit kernel with preemptive mu...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [folke/which-key.nvim](https://github.com/folke/which-key.nvim)
+  > 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing avai...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
@@ -59,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 11:08:11 UTC*
+*Last updated at 2026-06-26 12:55:29 UTC*
 *Historical records are stored in the `archive` directory.*
