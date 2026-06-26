@@ -52,6 +52,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [xlsynth/xlsynth](https://github.com/xlsynth/xlsynth)
   > XLSynth: Accelerated HW Synthesis
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
+  > A specialized version of iced-x86 for binary lifting
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [folke/which-key.nvim](https://github.com/folke/which-key.nvim)
@@ -61,9 +63,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
-  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
+  > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [libLISA/liblisa](https://github.com/libLISA/liblisa)
@@ -73,7 +75,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate)
   > Memory API proxy via signed mozglue.dll 
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [NyxFoundation/verity](https://github.com/NyxFoundation/verity)
+  > The Provable Consensus Client — a formally verified Ethereum consensus client built with Lean 4.
+
 
 ---
-*Last updated at 2026-06-26 15:01:58 UTC*
+*Last updated at 2026-06-26 16:48:09 UTC*
 *Historical records are stored in the `archive` directory.*
