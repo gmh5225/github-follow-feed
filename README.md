@@ -37,6 +37,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cloudwego/kitex](https://github.com/cloudwego/kitex)
   > Go RPC framework with high-performance and strong-extensibility for building micro-services.
 
+### [aquynh](https://github.com/aquynh)
+- 🚀 👤 [aquynh](https://github.com/aquynh) Made [vinsoc-cyber/ares](https://github.com/vinsoc-cyber/ares) public
+  > The CVE Machine: Autonomous Vulnerability Researcher
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ScrollPrize/villa](https://github.com/ScrollPrize/villa)
   > The Vesuvius Challenge monorepo
@@ -71,6 +75,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
   > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [28Zaaky/khaos-c2](https://github.com/28Zaaky/khaos-c2)
+  > KHAOS is a modern C2 framework that routes agent traffic through cloud services already trusted by e...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [28Zaaky/khaos-c2](https://github.com/28Zaaky/khaos-c2) to [killvxk/khaos-c2](https://github.com/killvxk/khaos-c2)
+  > KHAOS is a modern C2 framework that routes agent traffic through cloud services already trusted by e...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
+  > A specialized version of iced-x86 for binary lifting
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
   > SimpleX - the first messaging network operating without user identifiers of any kind - 100% private ...
@@ -91,5 +105,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 17:39:45 UTC*
+*Last updated at 2026-06-26 18:46:37 UTC*
 *Historical records are stored in the `archive` directory.*
