@@ -35,6 +35,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ScrollPrize/villa](https://github.com/ScrollPrize/villa)
   > The Vesuvius Challenge monorepo
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [S1lkys/AudioDG.exe-DLL-Hijacking-for-LPE](https://github.com/S1lkys/AudioDG.exe-DLL-Hijacking-for-LPE) to [classic130/AudioDG.exe-DLL-Hijacking-for-LPE](https://github.com/classic130/AudioDG.exe-DLL-Hijacking-for-LPE)
+  > Audiodg.exe DLL hijacking for LPE with reboot-free restart primitive. Executes code as LOCAL SERVICE...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate) to [classic130/gluegate](https://github.com/classic130/gluegate)
+  > Memory API proxy via signed mozglue.dll 
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kyronix-project/kyronix](https://github.com/kyronix-project/kyronix)
   > Operating system that sucks less
@@ -63,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 12:55:29 UTC*
+*Last updated at 2026-06-26 13:47:25 UTC*
 *Historical records are stored in the `archive` directory.*
