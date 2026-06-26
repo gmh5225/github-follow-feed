@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32)
   > Public mirror for win32-pr
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [Punshnut/macos-launchy](https://github.com/Punshnut/macos-launchy)
+  > Launchy Launchpad is the free open-source launchpad alternative macOS users have been waiting for!
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [cloudwego/kitex](https://github.com/cloudwego/kitex)
   > Go RPC framework with high-performance and strong-extensibility for building micro-services.
@@ -67,6 +71,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [NVlabs/cuda-oxide](https://github.com/NVlabs/cuda-oxide)
   > cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(i...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
+  > SimpleX - the first messaging network operating without user identifiers of any kind - 100% private ...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [google-labs-code/design.md](https://github.com/google-labs-code/design.md)
+  > A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a p...
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [libLISA/liblisa](https://github.com/libLISA/liblisa)
   > libLISA: Instruction Discovery and Analysis on x86-64
@@ -81,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 16:48:09 UTC*
+*Last updated at 2026-06-26 17:39:45 UTC*
 *Historical records are stored in the `archive` directory.*
