@@ -12,6 +12,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [binsnake/fARM64](https://github.com/binsnake/fARM64)
   > ARM64 decoder and encoder
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp) to [CrackerCat/vmware-mcp](https://github.com/CrackerCat/vmware-mcp)
+  > MCP server for controlling VMware Workstation Pro virtual machines
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) to [CrackerCat/Unlimited-OCR](https://github.com/CrackerCat/Unlimited-OCR)
+  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [J-jaeyoung/bad-epoll](https://github.com/J-jaeyoung/bad-epoll) to [CrackerCat/bad-epoll](https://github.com/CrackerCat/bad-epoll)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [prdgmshift/usbliter8](https://github.com/prdgmshift/usbliter8) to [CrackerCat/usbliter8](https://github.com/CrackerCat/usbliter8)
+  > An A12/A13 SecureROM exploit
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [haokeyy/and_library](https://github.com/haokeyy/and_library) to [CrackerCat/and_library](https://github.com/CrackerCat/and_library)
+  > 自用的Delphi代码库。多年前收集和编写的delphi库，多基于windows核心编程技术，用于游戏程序的调试和补丁程序的编写。仓底货，备份在github了。
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [MicrosoftDocs/win32](https://github.com/MicrosoftDocs/win32)
   > Public mirror for win32-pr
@@ -34,11 +45,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
+  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [libLISA/liblisa](https://github.com/libLISA/liblisa)
+  > libLISA: Instruction Discovery and Analysis on x86-64
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate)
   > Memory API proxy via signed mozglue.dll 
 
 
 ---
-*Last updated at 2026-06-26 09:17:31 UTC*
+*Last updated at 2026-06-26 11:08:11 UTC*
 *Historical records are stored in the `archive` directory.*
