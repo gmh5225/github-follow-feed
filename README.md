@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [kyronix-project/kyronix](https://github.com/kyronix-project/kyronix)
   > Operating system that sucks less
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [AlkOS-Dev/AlkOS](https://github.com/AlkOS-Dev/AlkOS)
+  > Open-source x86_64 operating system project focused on developing a 64-bit kernel with preemptive mu...
 
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate)
@@ -22,5 +24,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 01:13:23 UTC*
+*Last updated at 2026-06-26 03:19:32 UTC*
 *Historical records are stored in the `archive` directory.*
