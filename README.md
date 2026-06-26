@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [binsnake/fARM64](https://github.com/binsnake/fARM64)
   > ARM64 decoder and encoder
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [oxfemale/rop_scanner](https://github.com/oxfemale/rop_scanner)
+  > Gadget scanner that finds ROP gadgets inside any Windows DLL
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZacharyZcR/vmware-mcp](https://github.com/ZacharyZcR/vmware-mcp) to [CrackerCat/vmware-mcp](https://github.com/CrackerCat/vmware-mcp)
@@ -47,6 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AlkOS-Dev/AlkOS](https://github.com/AlkOS-Dev/AlkOS)
   > Open-source x86_64 operating system project focused on developing a 64-bit kernel with preemptive mu...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [xlsynth/xlsynth](https://github.com/xlsynth/xlsynth)
+  > XLSynth: Accelerated HW Synthesis
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [folke/which-key.nvim](https://github.com/folke/which-key.nvim)
   > 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing avai...
@@ -69,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 13:47:25 UTC*
+*Last updated at 2026-06-26 15:01:58 UTC*
 *Historical records are stored in the `archive` directory.*
