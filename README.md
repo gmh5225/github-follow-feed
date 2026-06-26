@@ -85,6 +85,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
   > A specialized version of iced-x86 for binary lifting
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat)
   > SimpleX - the first messaging network operating without user identifiers of any kind - 100% private ...
@@ -94,6 +97,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [libLISA/liblisa](https://github.com/libLISA/liblisa)
   > libLISA: Instruction Discovery and Analysis on x86-64
+
+### [rasbt](https://github.com/rasbt)
+- 🚀 👤 [rasbt](https://github.com/rasbt) Made [rasbt/local-coding-agent-evals](https://github.com/rasbt/local-coding-agent-evals) public
 
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [sbousseaden/gluegate](https://github.com/sbousseaden/gluegate)
@@ -105,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-26 19:38:01 UTC*
+*Last updated at 2026-06-26 20:41:09 UTC*
 *Historical records are stored in the `archive` directory.*
