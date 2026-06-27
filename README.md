@@ -12,6 +12,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [google/pprof](https://github.com/google/pprof)
   > pprof is a tool for visualization and analysis of profiling data
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/capa-binja-explorer](https://github.com/kevinmuoz/capa-binja-explorer) to [CrackerCat/capa-binja-explorer](https://github.com/CrackerCat/capa-binja-explorer)
@@ -19,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [aquynh](https://github.com/aquynh)
 - 🌟 👤 [aquynh](https://github.com/aquynh) Starred [vinsoc-cyber/ares](https://github.com/vinsoc-cyber/ares)
   > The CVE Machine: Autonomous Vulnerability Researcher
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [tosuapp/tosu](https://github.com/tosuapp/tosu)
@@ -46,5 +51,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-27 13:37:42 UTC*
+*Last updated at 2026-06-27 14:38:52 UTC*
 *Historical records are stored in the `archive` directory.*
