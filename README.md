@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [aquynh](https://github.com/aquynh) Starred [vinsoc-cyber/ares](https://github.com/vinsoc-cyber/ares)
   > The CVE Machine: Autonomous Vulnerability Researcher
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [oguzgundogdu/OguzOS-arm](https://github.com/oguzgundogdu/OguzOS-arm)
+  > Minimal ARM64 (AArch64) operating system written in freestanding C++17 — QEMU virt / UTM on macOS
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
   > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
@@ -34,6 +38,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
   > A software SIM card.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Exxact-Software/local-agent-benchmark](https://github.com/Exxact-Software/local-agent-benchmark)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/deepseek-v4-flash-dgx-spark](https://github.com/tonyd2wild/deepseek-v4-flash-dgx-spark)
+  > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [zai-org/SCAIL-2](https://github.com/zai-org/SCAIL-2)
@@ -45,11 +52,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [FossPrime/Steam-Controller-Auto-Charge](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
   > Slam the controller into the magnetic puck until it charges
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+  > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [kernullist/kn-live-dbg](https://github.com/kernullist/kn-live-dbg)
   > Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driv...
 
 
 ---
-*Last updated at 2026-06-27 14:38:52 UTC*
+*Last updated at 2026-06-27 15:33:22 UTC*
 *Historical records are stored in the `archive` directory.*
