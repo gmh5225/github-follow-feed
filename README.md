@@ -9,6 +9,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
   > A specialized version of iced-x86 for binary lifting
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [deathflamingo/CDP-Enabler](https://github.com/deathflamingo/CDP-Enabler)
+  > A security research tool for enabling Chrome DevTools Protocol (CDP) debugging on Microsoft Edge bro...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [oss-garage/bedrock](https://github.com/oss-garage/bedrock)
+  > Experimental Hypervisor Purpose-Built for Deterministic Software Testing 
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
@@ -19,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [google/pprof](https://github.com/google/pprof)
   > pprof is a tool for visualization and analysis of profiling data
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [blacktop/ipsw](https://github.com/blacktop/ipsw)
+  > iOS/macOS Research Swiss Army Knife
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/capa-binja-explorer](https://github.com/kevinmuoz/capa-binja-explorer) to [CrackerCat/capa-binja-explorer](https://github.com/CrackerCat/capa-binja-explorer)
@@ -62,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ykus4/kagura](https://github.com/ykus4/kagura)
+  > LLVM pass plugin for native code obfuscation and anti-tamper. CFG flattening, string encryption, VM ...
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [zai-org/SCAIL-2](https://github.com/zai-org/SCAIL-2)
   > Official Implementation of SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Conte...
@@ -86,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-27 17:29:31 UTC*
+*Last updated at 2026-06-27 18:34:12 UTC*
 *Historical records are stored in the `archive` directory.*
