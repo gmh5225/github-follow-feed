@@ -4,6 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [SamuelTulach/eac_cr3_shuffle](https://github.com/SamuelTulach/eac_cr3_shuffle)
+- 🌟 👤 [54](https://github.com/54) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
+  > A specialized version of iced-x86 for binary lifting
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/capa-binja-explorer](https://github.com/kevinmuoz/capa-binja-explorer) to [CrackerCat/capa-binja-explorer](https://github.com/CrackerCat/capa-binja-explorer)
 
@@ -21,7 +26,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [FossPrime/Steam-Controller-Auto-Charge](https://github.com/FossPrime/Steam-Controller-Auto-Charge)
   > Slam the controller into the magnetic puck until it charges
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [kernullist/kn-live-dbg](https://github.com/kernullist/kn-live-dbg)
+  > Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driv...
+
 
 ---
-*Last updated at 2026-06-27 03:17:40 UTC*
+*Last updated at 2026-06-27 05:26:05 UTC*
 *Historical records are stored in the `archive` directory.*
