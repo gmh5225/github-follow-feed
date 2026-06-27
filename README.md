@@ -14,6 +14,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A security research tool for enabling Chrome DevTools Protocol (CDP) debugging on Microsoft Edge bro...
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [oss-garage/bedrock](https://github.com/oss-garage/bedrock)
   > Experimental Hypervisor Purpose-Built for Deterministic Software Testing 
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
@@ -74,6 +76,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
   > CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+  > Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+  > "Vibe-Trading: Your Personal Trading Agent"
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)
+  > git push no-mistakes
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)
+  > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
@@ -95,6 +107,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A polymorphic multi-stage python obfuscator that mangles source via AST rewrites, encrypts each func...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [secdev02/DynamicWrapper2026](https://github.com/secdev02/DynamicWrapper2026)
+  > Create and Call Functions In .NET Assembly inside WSH
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [zai-org/SCAIL-2](https://github.com/zai-org/SCAIL-2)
@@ -120,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-27 19:35:00 UTC*
+*Last updated at 2026-06-27 20:31:26 UTC*
 *Historical records are stored in the `archive` directory.*
