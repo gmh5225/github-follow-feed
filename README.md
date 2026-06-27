@@ -86,6 +86,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system wi...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [tursodatabase/turso](https://github.com/tursodatabase/turso)
+  > Turso is an in-process SQL database, compatible with SQLite.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nexu-io/open-design](https://github.com/nexu-io/open-design)
+  > 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ ...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [microsoft/mxc](https://github.com/microsoft/mxc)
+  > Policy-driven, layered isolation and containment 
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
@@ -99,6 +105,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+  > DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ykus4/kagura](https://github.com/ykus4/kagura)
@@ -134,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-27 21:29:31 UTC*
+*Last updated at 2026-06-27 22:29:14 UTC*
 *Historical records are stored in the `archive` directory.*
