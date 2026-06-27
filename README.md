@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [aquynh](https://github.com/aquynh) Starred [vinsoc-cyber/ares](https://github.com/vinsoc-cyber/ares)
   > The CVE Machine: Autonomous Vulnerability Researcher
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [tosuapp/tosu](https://github.com/tosuapp/tosu)
+  > osu! Stable and Lazer memory reader and PP counters provider
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
   > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
@@ -36,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-27 10:45:38 UTC*
+*Last updated at 2026-06-27 11:35:28 UTC*
 *Historical records are stored in the `archive` directory.*
