@@ -9,6 +9,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
   > A specialized version of iced-x86 for binary lifting
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [google/pprof](https://github.com/google/pprof)
+  > pprof is a tool for visualization and analysis of profiling data
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/capa-binja-explorer](https://github.com/kevinmuoz/capa-binja-explorer) to [CrackerCat/capa-binja-explorer](https://github.com/CrackerCat/capa-binja-explorer)
 
@@ -23,6 +27,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
   > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tomasz-lisowski/swsim](https://github.com/tomasz-lisowski/swsim)
+  > A software SIM card.
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [zai-org/SCAIL-2](https://github.com/zai-org/SCAIL-2)
@@ -40,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-27 12:39:16 UTC*
+*Last updated at 2026-06-27 13:37:42 UTC*
 *Historical records are stored in the `archive` directory.*
