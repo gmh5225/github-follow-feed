@@ -9,6 +9,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [binsnake/icey-x86](https://github.com/binsnake/icey-x86)
   > A specialized version of iced-x86 for binary lifting
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [bikini/patchwork](https://github.com/bikini/patchwork)
+  > A polymorphic multi-stage python obfuscator that mangles source via AST rewrites, encrypts each func...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [google/pprof](https://github.com/google/pprof)
   > pprof is a tool for visualization and analysis of profiling data
@@ -36,6 +42,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [tosuapp/tosu](https://github.com/tosuapp/tosu)
   > osu! Stable and Lazer memory reader and PP counters provider
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xoxor4d/gta4-rtx](https://github.com/xoxor4d/gta4-rtx)
+  > GTAIV RTX Remix Compatibility Mod
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [xoxor4d/gta4-rtx](https://github.com/xoxor4d/gta4-rtx)
+  > GTAIV RTX Remix Compatibility Mod
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
@@ -66,7 +80,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [kernullist/kn-live-dbg](https://github.com/kernullist/kn-live-dbg)
   > Windows kernel research tool. Looks like a debugger, but it is not a debugger. It uses a kernel driv...
 
+### [xuhancn](https://github.com/xuhancn)
+- 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) to [xuhancn/hermes-agent](https://github.com/xuhancn/hermes-agent)
+  > The agent that grows with you
+
 
 ---
-*Last updated at 2026-06-27 16:31:43 UTC*
+*Last updated at 2026-06-27 17:29:31 UTC*
 *Historical records are stored in the `archive` directory.*
