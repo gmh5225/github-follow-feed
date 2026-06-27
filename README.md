@@ -42,6 +42,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [oguzgundogdu/OguzOS-arm](https://github.com/oguzgundogdu/OguzOS-arm)
   > Minimal ARM64 (AArch64) operating system written in freestanding C++17 — QEMU virt / UTM on macOS
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [budtmo/docker-android](https://github.com/budtmo/docker-android)
+  > Android in docker solution with noVNC supported and video recording
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
@@ -58,6 +60,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [xoxor4d/gta4-rtx](https://github.com/xoxor4d/gta4-rtx)
   > GTAIV RTX Remix Compatibility Mod
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [28Zaaky/khaos-c2](https://github.com/28Zaaky/khaos-c2)
+  > KHAOS is a modern C2 framework that routes agent traffic through cloud services already trusted by e...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
+  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [TheQuantum-Dev/journedge](https://github.com/TheQuantum-Dev/journedge)
+  > An institutional-grade trading journal built for serious traders.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire)
+  > AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value inv...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+  > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS)
+  > CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
@@ -69,10 +85,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Working recipe to serve DeepSeek-V4-Flash across two NVIDIA DGX Spark (GB10) nodes with vLLM (TP=2, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context](https://github.com/MiaAI-Lab/DeepSeek-V4-Flash-Dual-DGX-Spark-1M-Context)
   > Deploy DeepSeek V4 Flash (MoE reasoning model) on dual DGX Spark nodes with 1M token context, Infini...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
+  > Run frontier AI locally.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ykus4/kagura](https://github.com/ykus4/kagura)
   > LLVM pass plugin for native code obfuscation and anti-tamper. CFG flattening, string encryption, VM ...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [bikini/patchwork](https://github.com/bikini/patchwork)
+  > A polymorphic multi-stage python obfuscator that mangles source via AST rewrites, encrypts each func...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [zai-org/SCAIL-2](https://github.com/zai-org/SCAIL-2)
@@ -98,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-27 18:34:12 UTC*
+*Last updated at 2026-06-27 19:35:00 UTC*
 *Historical records are stored in the `archive` directory.*
