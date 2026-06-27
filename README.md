@@ -29,6 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [blacktop/ipsw](https://github.com/blacktop/ipsw)
   > iOS/macOS Research Swiss Army Knife
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+  > agent multiplexer that lives in your terminal.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kevinmuoz/capa-binja-explorer](https://github.com/kevinmuoz/capa-binja-explorer) to [CrackerCat/capa-binja-explorer](https://github.com/CrackerCat/capa-binja-explorer)
@@ -117,6 +119,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [secdev02/DynamicWrapper2026](https://github.com/secdev02/DynamicWrapper2026)
   > Create and Call Functions In .NET Assembly inside WSH
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+  > HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) a...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [zai-org/SCAIL-2](https://github.com/zai-org/SCAIL-2)
@@ -142,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-27 22:29:14 UTC*
+*Last updated at 2026-06-27 23:28:37 UTC*
 *Historical records are stored in the `archive` directory.*
