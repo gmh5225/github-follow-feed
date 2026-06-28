@@ -19,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) to [CrackerCat/CorridorKey](https://github.com/CrackerCat/CorridorKey)
   > Perfect Green Screen Keys
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [iamsopotatoe-coder/TinyLoad](https://github.com/iamsopotatoe-coder/TinyLoad)
+  > PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual machine int...
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)
   > Premium hand-drawn animated architecture diagram Codex skill
@@ -76,7 +80,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mengtong0110/InferDPT](https://github.com/mengtong0110/InferDPT)
   > [TDSC 2025] InferDPT: Privacy-Preserving Inference for Closed-box Large Language Model
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 
 ---
-*Last updated at 2026-06-28 17:31:55 UTC*
+*Last updated at 2026-06-28 18:34:17 UTC*
 *Historical records are stored in the `archive` directory.*
