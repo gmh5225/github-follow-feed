@@ -34,6 +34,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Vulkan-based implementation of D3D7, 6, 5 and 3 for Linux / Wine, spun off from DXVK.
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [strivexjun/XAntiDebug](https://github.com/strivexjun/XAntiDebug)
   > VMProtect 3.x Anti-debug Method Improved
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
+  > A dynamic library providing Virtualization-based process isolation capabilities
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+  > Self-hosted AI workspace. 
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mengtong0110/InferDPT](https://github.com/mengtong0110/InferDPT)
@@ -41,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 11:38:40 UTC*
+*Last updated at 2026-06-28 12:39:52 UTC*
 *Historical records are stored in the `archive` directory.*
