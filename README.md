@@ -25,7 +25,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [strivexjun/XAntiDebug](https://github.com/strivexjun/XAntiDebug)
   > VMProtect 3.x Anti-debug Method Improved
 
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mengtong0110/InferDPT](https://github.com/mengtong0110/InferDPT)
+  > [TDSC 2025] InferDPT: Privacy-Preserving Inference for Closed-box Large Language Model
+
 
 ---
-*Last updated at 2026-06-28 09:12:23 UTC*
+*Last updated at 2026-06-28 10:51:11 UTC*
 *Historical records are stored in the `archive` directory.*
