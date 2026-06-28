@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization)
   > ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)
+  > 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, ...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [templui/templui](https://github.com/templui/templui)
   > A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Custom...
@@ -86,5 +90,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 18:34:17 UTC*
+*Last updated at 2026-06-28 19:35:47 UTC*
 *Historical records are stored in the `archive` directory.*
