@@ -25,6 +25,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization)
   > ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [templui/templui](https://github.com/templui/templui)
+  > A growing collection of beautifully designed UI components for Go and templ. Install via CLI. Custom...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [odvcencio/gotreesitter](https://github.com/odvcencio/gotreesitter)
+  > Pure Go tree-sitter runtime
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [carlos7ags/folio](https://github.com/carlos7ags/folio)
+  > PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
   > 基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。
@@ -40,6 +48,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
   > Self-hosted AI workspace. 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michaelw9999/advanced-gguf-quantizer](https://github.com/michaelw9999/advanced-gguf-quantizer)
+  > A CUDA-accelerated GGUF quantization tool for NVFP4/MXFP6/Q_K, utilizing layer by layer quantization...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [silveroxides/convert_to_quant](https://github.com/silveroxides/convert_to_quant)
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mengtong0110/InferDPT](https://github.com/mengtong0110/InferDPT)
@@ -47,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 12:39:52 UTC*
+*Last updated at 2026-06-28 13:37:44 UTC*
 *Historical records are stored in the `archive` directory.*
