@@ -32,6 +32,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Pure Go tree-sitter runtime
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [carlos7ags/folio](https://github.com/carlos7ags/folio)
   > PDF library for Go: layout engine, HTML to PDF, forms, signatures, barcodes, and PDF/A. Apache 2.0.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix)
+  > NixOS MicroVMs
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Tool to build & run portable, lightweight, self-contained virtual machines.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [strivexjun/XAntiDebug](https://github.com/strivexjun/XAntiDebug)
+  > VMProtect 3.x Anti-debug Method Improved
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [SamuelTulach/eac_cr3_shuffle](https://github.com/SamuelTulach/eac_cr3_shuffle)
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
@@ -44,6 +53,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > VMProtect 3.x Anti-debug Method Improved
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
   > A dynamic library providing Virtualization-based process isolation capabilities
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/eac_cr3_shuffle](https://github.com/SamuelTulach/eac_cr3_shuffle)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
@@ -68,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 16:33:43 UTC*
+*Last updated at 2026-06-28 17:31:55 UTC*
 *Historical records are stored in the `archive` directory.*
