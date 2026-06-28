@@ -83,6 +83,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Claude Code skill for auditing your MEMORY.md index — size, orphans, broken links, staleness
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coolthor/musubi](https://github.com/coolthor/musubi)
   > Musubi (結び) — a knowledge-graph companion for flat-file markdown note systems. Ties your notes toget...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [p-e-w/arrows](https://github.com/p-e-w/arrows)
+  > A frontend for creative writing with LLMs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wuwangzhang1216/abliterix](https://github.com/wuwangzhang1216/abliterix)
+  > Automated alignment adjustment for LLMs — direct steering, LoRA, and MoE expert-granular abliteratio...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FFXIV-CombatReborn/RotationSolverReborn](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
+  > Analyses combat information every frame and finds the best action.
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mengtong0110/InferDPT](https://github.com/mengtong0110/InferDPT)
@@ -94,5 +100,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 22:28:47 UTC*
+*Last updated at 2026-06-28 23:30:00 UTC*
 *Historical records are stored in the `archive` directory.*
