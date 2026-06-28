@@ -51,6 +51,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [michaelw9999/advanced-gguf-quantizer](https://github.com/michaelw9999/advanced-gguf-quantizer)
   > A CUDA-accelerated GGUF quantization tool for NVFP4/MXFP6/Q_K, utilizing layer by layer quantization...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [silveroxides/convert_to_quant](https://github.com/silveroxides/convert_to_quant)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [localai-org/apex-quant](https://github.com/localai-org/apex-quant)
+  >  Adaptive Precision for EXpert Models: MoE-aware mixed-precision quantization
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice)
+  > FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
+  > llama.cpp fork with additional SOTA quants and improved performance
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mengtong0110/InferDPT](https://github.com/mengtong0110/InferDPT)
@@ -58,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 13:37:44 UTC*
+*Last updated at 2026-06-28 14:40:15 UTC*
 *Historical records are stored in the `archive` directory.*
