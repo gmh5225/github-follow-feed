@@ -57,6 +57,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp)
   > llama.cpp fork with additional SOTA quants and improved performance
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [croll83/llama.cpp-dgx](https://github.com/croll83/llama.cpp-dgx)
+  > llama.cpp fork optimized for NVIDIA DGX Spark / GB10 (Blackwell, SM 12.1) — TurboQuant weights + KV,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pasky/pi-omplike-advisor](https://github.com/pasky/pi-omplike-advisor)
+  > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mengtong0110/InferDPT](https://github.com/mengtong0110/InferDPT)
@@ -64,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 14:40:15 UTC*
+*Last updated at 2026-06-28 15:33:48 UTC*
 *Historical records are stored in the `archive` directory.*
