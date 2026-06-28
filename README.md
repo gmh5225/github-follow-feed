@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF)
+  > Beacon Object File to Enable Chrome DevTools Protocol (CDP)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [elqahtani/postoko](https://github.com/elqahtani/postoko) to [CrackerCat/postoko](https://github.com/CrackerCat/postoko)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wuji-labs/nopua](https://github.com/wuji-labs/nopua) to [CrackerCat/nopua](https://github.com/CrackerCat/nopua)
@@ -14,6 +18,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) to [CrackerCat/CorridorKey](https://github.com/CrackerCat/CorridorKey)
   > Perfect Green Screen Keys
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [cclank/lanshu-animated-architecture-diagram](https://github.com/cclank/lanshu-animated-architecture-diagram)
+  > Premium hand-drawn animated architecture diagram Codex skill
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization)
+  > ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Unclecheng-li/VulnClaw](https://github.com/Unclecheng-li/VulnClaw)
@@ -31,5 +41,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 10:51:11 UTC*
+*Last updated at 2026-06-28 11:38:40 UTC*
 *Historical records are stored in the `archive` directory.*
