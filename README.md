@@ -81,6 +81,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Pi extension: a persistent second model that reviews the main agent's work each turn and injects con...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alexknowshtml/claude-memory-health](https://github.com/alexknowshtml/claude-memory-health)
   > Claude Code skill for auditing your MEMORY.md index — size, orphans, broken links, staleness
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coolthor/musubi](https://github.com/coolthor/musubi)
+  > Musubi (結び) — a knowledge-graph companion for flat-file markdown note systems. Ties your notes toget...
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [mengtong0110/InferDPT](https://github.com/mengtong0110/InferDPT)
@@ -92,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-28 21:29:43 UTC*
+*Last updated at 2026-06-28 22:28:47 UTC*
 *Historical records are stored in the `archive` directory.*
