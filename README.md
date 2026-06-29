@@ -16,11 +16,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)
   > Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [86Box/86Box](https://github.com/86Box/86Box)
+  > Emulator of x86-based machines.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
   > IDA Pro RPC for assisted RE-tasks
 
 
 ---
-*Last updated at 2026-06-29 03:22:07 UTC*
+*Last updated at 2026-06-29 05:45:18 UTC*
 *Historical records are stored in the `archive` directory.*
