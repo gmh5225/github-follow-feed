@@ -68,6 +68,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [sang-zi-dian-zhen/QEMU-virtual-machine-full-emulation-passes-pafish-testing](https://github.com/sang-zi-dian-zhen/QEMU-virtual-machine-full-emulation-passes-pafish-testing) to [hzqst/QEMU-virtual-machine-full-emulation-passes-pafish-testing](https://github.com/hzqst/QEMU-virtual-machine-full-emulation-passes-pafish-testing)
   > QEMU虚拟机全仿真 全过pafish测试
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rabbit-sec/GraphRobber](https://github.com/rabbit-sec/GraphRobber)
+  > Microsoft Graph API post-exploitation framework with a browser-based GUI.
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [guoweiyu/NeuroVLA](https://github.com/guoweiyu/NeuroVLA)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [NJU-R-L-Group-Embodied-Lab/uni-lavira-code](https://github.com/NJU-R-L-Group-Embodied-Lab/uni-lavira-code)
@@ -111,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 20:43:09 UTC*
+*Last updated at 2026-06-29 21:36:20 UTC*
 *Historical records are stored in the `archive` directory.*
