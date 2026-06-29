@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [binsnake/fARM64](https://github.com/binsnake/fARM64)
+  > ARM64 decoder and encoder
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [frostbone25/ShaderInjector](https://github.com/frostbone25/ShaderInjector)
   > Shader Injector Mod for FF7 Rebirth PC
@@ -19,6 +23,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [oomfware/kempt](https://github.com/oomfware/kempt)
   > keeps your (generated) code presentable
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)
+  > An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock)
+  > Matchlock secures AI agent workloads with a Linux-based sandbox.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [angelorc/vmsan](https://github.com/angelorc/vmsan)
+  > Firecracker made simple. Spin up secure microVMs in milliseconds, from install to interactive shell ...
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [facebook/openzl](https://github.com/facebook/openzl)
@@ -53,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 08:02:42 UTC*
+*Last updated at 2026-06-29 10:43:25 UTC*
 *Historical records are stored in the `archive` directory.*
