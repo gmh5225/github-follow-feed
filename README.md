@@ -71,6 +71,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rabbit-sec/GraphRobber](https://github.com/rabbit-sec/GraphRobber)
   > Microsoft Graph API post-exploitation framework with a browser-based GUI.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hawktrace/CVE-2026-45504](https://github.com/hawktrace/CVE-2026-45504)
+  > CVE-2026-45504 Microsoft Exchange File Read
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [hawktrace/CVE-2026-45504](https://github.com/hawktrace/CVE-2026-45504) to [killvxk/CVE-2026-45504](https://github.com/killvxk/CVE-2026-45504)
+  > CVE-2026-45504 Microsoft Exchange File Read
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [x86byte/RE-MA-Roadmap](https://github.com/x86byte/RE-MA-Roadmap)
+  > Reverse Engineering and Malware Analysis Roadmap
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [guoweiyu/NeuroVLA](https://github.com/guoweiyu/NeuroVLA)
@@ -115,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 21:36:20 UTC*
+*Last updated at 2026-06-29 22:29:33 UTC*
 *Historical records are stored in the `archive` directory.*
