@@ -92,9 +92,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [bout3fiddy/safe-unsafe-math](https://github.com/bout3fiddy/safe-unsafe-math)
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [joelreymont/habu](https://github.com/joelreymont/habu)
+
 ### [shogunlab](https://github.com/shogunlab)
 - 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [boku7/patchwerk](https://github.com/boku7/patchwerk)
   > BOF that finds all the Nt* system call stubs within NTDLL and overwrites with clean syscall stubs (u...
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ZZ0R0/Proteus](https://github.com/ZZ0R0/Proteus)
+  > Rust C2 agent for Mythic that produces polymorphic shellcode: per-build function shuffle + ChaCha20-...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
@@ -104,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 19:39:01 UTC*
+*Last updated at 2026-06-29 20:43:09 UTC*
 *Historical records are stored in the `archive` directory.*
