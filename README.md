@@ -33,6 +33,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)
   > An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a...
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo)
+  > Commonware Library Primitives and Examples
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock)
@@ -67,6 +69,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [pathtofile](https://github.com/pathtofile) Forked [abiosoft/colima](https://github.com/abiosoft/colima) to [pathtofile/colima](https://github.com/pathtofile/colima)
   > Container runtimes on macOS (and Linux) with minimal setup
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [bout3fiddy/safe-unsafe-math](https://github.com/bout3fiddy/safe-unsafe-math)
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
   > IDA Pro RPC for assisted RE-tasks
@@ -75,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 12:34:41 UTC*
+*Last updated at 2026-06-29 14:28:20 UTC*
 *Historical records are stored in the `archive` directory.*
