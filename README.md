@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [frostbone25/ShaderInjector](https://github.com/frostbone25/ShaderInjector)
   > Shader Injector Mod for FF7 Rebirth PC
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [dantiicu/wine-nx](https://github.com/dantiicu/wine-nx)
+  > Experimental Wine runtime for Nintendo Switch: AArch64 Windows PE loading, Horizon/libnx integration...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepcoldy/botmux](https://github.com/deepcoldy/botmux)
   > Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topi...
@@ -35,6 +39,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a...
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [commonwarexyz/monorepo](https://github.com/commonwarexyz/monorepo)
   > Commonware Library Primitives and Examples
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [steipete/birdclaw](https://github.com/steipete/birdclaw)
+  > Stores all your tweets nicely claw-able for agents.
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock)
@@ -80,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 14:28:20 UTC*
+*Last updated at 2026-06-29 16:21:33 UTC*
 *Historical records are stored in the `archive` directory.*
