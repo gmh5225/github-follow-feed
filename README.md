@@ -19,6 +19,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)
   > Harness Engineering 学习指南 — 从概念理解到独立实践的深度学习档案
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
+  > The world's first open-source AI-native vector design tool and the first to feature concurrent Agent...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)
+  > Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, ...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+  > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [oomfware/kempt](https://github.com/oomfware/kempt)
@@ -64,8 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
   > IDA Pro RPC for assisted RE-tasks
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [mandiant/flare-learning-hub](https://github.com/mandiant/flare-learning-hub)
+  > Free educational content on reverse engineering and malware analysis from the FLARE team
 
 
 ---
-*Last updated at 2026-06-29 10:43:25 UTC*
+*Last updated at 2026-06-29 12:34:41 UTC*
 *Historical records are stored in the `archive` directory.*
