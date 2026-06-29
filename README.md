@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [dantiicu/wine-nx](https://github.com/dantiicu/wine-nx)
   > Experimental Wine runtime for Nintendo Switch: AArch64 Windows PE loading, Horizon/libnx integration...
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [onhexgroup/TABPE](https://github.com/onhexgroup/TABPE)
+  > A monthly Windows PE baseline dataset for Cyber security researchers
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [deepcoldy/botmux](https://github.com/deepcoldy/botmux)
@@ -86,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 16:21:33 UTC*
+*Last updated at 2026-06-29 17:53:53 UTC*
 *Historical records are stored in the `archive` directory.*
