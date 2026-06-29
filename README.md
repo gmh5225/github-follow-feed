@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [superalp1985/fame-knowledge-agent-gateway](https://github.com/superalp1985/fame-knowledge-agent-gateway)
+  > A universal external memory and tool-governance gateway for coding agents, with FAME route memory, k...
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [oomfware/kempt](https://github.com/oomfware/kempt)
   > keeps your (generated) code presentable
@@ -80,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [bout3fiddy/safe-unsafe-math](https://github.com/bout3fiddy/safe-unsafe-math)
 
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [boku7/patchwerk](https://github.com/boku7/patchwerk)
+  > BOF that finds all the Nt* system call stubs within NTDLL and overwrites with clean syscall stubs (u...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
   > IDA Pro RPC for assisted RE-tasks
@@ -88,5 +96,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 17:53:53 UTC*
+*Last updated at 2026-06-29 18:50:54 UTC*
 *Historical records are stored in the `archive` directory.*
