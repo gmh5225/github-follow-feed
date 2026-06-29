@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [frostbone25/ShaderInjector](https://github.com/frostbone25/ShaderInjector)
   > Shader Injector Mod for FF7 Rebirth PC
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [TarlogicSecurity/tickey](https://github.com/TarlogicSecurity/tickey)
+  > Tool to extract Kerberos tickets from Linux kernel keys.
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [dantiicu/wine-nx](https://github.com/dantiicu/wine-nx)
   > Experimental Wine runtime for Nintendo Switch: AArch64 Windows PE loading, Horizon/libnx integration...
@@ -73,6 +77,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [86Box/86Box](https://github.com/86Box/86Box)
   > Emulator of x86-based machines.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dockur/macos](https://github.com/dockur/macos)
+  > MacOS inside a Docker container.
+
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [takutakahashi/scia](https://github.com/takutakahashi/scia)
   > SaaS credential injector for agent
@@ -96,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-29 18:50:54 UTC*
+*Last updated at 2026-06-29 19:39:01 UTC*
 *Historical records are stored in the `archive` directory.*
