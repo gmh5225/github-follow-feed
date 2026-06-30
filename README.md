@@ -22,6 +22,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [dishather/richprint](https://github.com/dishather/richprint)
   > Print compiler information stored in Rich Header of PE executables.
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [ernestwisniewski/aonw](https://github.com/ernestwisniewski/aonw)
+  > A 4X hex strategy game built with Flutter and Flame
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -65,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [nikolic-milos/ratatui-hypertile](https://github.com/nikolic-milos/ratatui-hypertile)
   > Hyprland-inspired BSP tiling for Ratatui 🐀
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [facebookresearch/brain2qwerty](https://github.com/facebookresearch/brain2qwerty)
+  > Non-invasive decoding of typed sentences from MEG and EEG brain recordings using a convolutional enc...
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [nhuhuan/sba](https://github.com/nhuhuan/sba)
   > Static Binary Analysis Framework
@@ -84,6 +90,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Docker configuration for running VLLM on dual DGX Sparks
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
   > DFlash: Block Diffusion for Flash Speculative Decoding
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
@@ -107,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-30 21:38:01 UTC*
+*Last updated at 2026-06-30 22:33:48 UTC*
 *Historical records are stored in the `archive` directory.*
