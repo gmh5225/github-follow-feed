@@ -19,8 +19,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [cyrus-and/chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
   > Chrome Debugging Protocol interface for Node.js
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [KingOfTheNOPs/CDP-Enable-BOF](https://github.com/KingOfTheNOPs/CDP-Enable-BOF)
+  > Beacon Object File to Enable Chrome DevTools Protocol (CDP)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [deathflamingo/CDP-Enabler](https://github.com/deathflamingo/CDP-Enabler)
+  > A security research tool for enabling Chrome DevTools Protocol (CDP) debugging on Microsoft Edge bro...
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [bambamramfan/ai-compass](https://github.com/bambamramfan/ai-compass)
+  > Political Compass for AI
 
 
 ---
-*Last updated at 2026-06-30 01:10:19 UTC*
+*Last updated at 2026-06-30 03:18:51 UTC*
 *Historical records are stored in the `archive` directory.*
