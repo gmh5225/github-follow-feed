@@ -15,6 +15,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
+  > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [hyperliquid-dex/hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk)
   > SDK for Hyperliquid API trading with Python.
@@ -35,11 +39,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [deathflamingo/CDP-Enabler](https://github.com/deathflamingo/CDP-Enabler)
   > A security research tool for enabling Chrome DevTools Protocol (CDP) debugging on Microsoft Edge bro...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🍴 👤 [pcaversaccio](https://github.com/pcaversaccio) Forked [ApeWorX/github-action](https://github.com/ApeWorX/github-action) to [pcaversaccio/github-action](https://github.com/pcaversaccio/github-action)
+  > GitHub Actions CI File for Ape Projects
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [bambamramfan/ai-compass](https://github.com/bambamramfan/ai-compass)
   > Political Compass for AI
 
 
 ---
-*Last updated at 2026-06-30 09:18:06 UTC*
+*Last updated at 2026-06-30 11:09:47 UTC*
 *Historical records are stored in the `archive` directory.*
