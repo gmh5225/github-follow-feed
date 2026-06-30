@@ -69,6 +69,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [nhuhuan/sba](https://github.com/nhuhuan/sba)
   > Static Binary Analysis Framework
 
+### [karalabe](https://github.com/karalabe)
+- 🚀 👤 [karalabe](https://github.com/karalabe) Made [dark-bio/examples](https://github.com/dark-bio/examples) public
+  > Ark I example genomic apps
+- 🌟 👤 [karalabe](https://github.com/karalabe) Starred [dark-bio/examples](https://github.com/dark-bio/examples)
+  > Ark I example genomic apps
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
   > The agent that grows with you
@@ -94,8 +100,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [bambamramfan/ai-compass](https://github.com/bambamramfan/ai-compass)
   > Political Compass for AI
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [metareflection/guardians](https://github.com/metareflection/guardians)
+  > an implementation of the ideas in Erik Meijer's "Guardians of the Agents: Formal Verification of AI ...
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [BoundaryML/baml](https://github.com/BoundaryML/baml)
+  > The programming language for agents
 
 
 ---
-*Last updated at 2026-06-30 20:46:12 UTC*
+*Last updated at 2026-06-30 21:38:01 UTC*
 *Historical records are stored in the `archive` directory.*
