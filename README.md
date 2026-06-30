@@ -11,6 +11,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mimoo/disco-c](https://github.com/mimoo/disco-c)
   > A tiny C cryptographic library to encrypt sessions, authenticate messages, sign, hash, etc. based on...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [dishather/richprint](https://github.com/dishather/richprint)
+  > Print compiler information stored in Rich Header of PE executables.
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
@@ -22,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
   > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🍴 👤 [dtcxzyw](https://github.com/dtcxzyw) Forked [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) to [dtcxzyw/compiler-explorer](https://github.com/dtcxzyw/compiler-explorer)
+  > Run compilers interactively from your web browser and interact with the assembly
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite)
@@ -44,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [hyperliquid-dex/hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk)
   > SDK for Hyperliquid API trading with Python.
+
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [nikolic-milos/ratatui-hypertile](https://github.com/nikolic-milos/ratatui-hypertile)
+  > Hyprland-inspired BSP tiling for Ratatui 🐀
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [nhuhuan/sba](https://github.com/nhuhuan/sba)
@@ -73,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-30 17:42:30 UTC*
+*Last updated at 2026-06-30 18:47:36 UTC*
 *Historical records are stored in the `archive` directory.*
