@@ -15,9 +15,31 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [1broseidon/ketch](https://github.com/1broseidon/ketch)
+  > Fast, stateless CLI for web search and scrape. Built for AI agents.
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [hypery11/flipper-tesla-fsd](https://github.com/hypery11/flipper-tesla-fsd)
   > Tesla Mod — Flipper Zero & ESP32. Nag killer, FSD region unlock, track mode, BMS dashboard, blind sp...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite)
+  > The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power ...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [CelestoAI/SmolVM](https://github.com/CelestoAI/SmolVM)
+  > Open-source AI sandbox infrastructure with unified API for VMMs -- Firecracker, QEMU and libkrun.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nolabs-ai/nono](https://github.com/nolabs-ai/nono)
+  > Sandbox any AI agent in seconds - zero setup, zero latency.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [webcoyote/awesome-AI-sandbox](https://github.com/webcoyote/awesome-AI-sandbox)
+  > A curated list of projects, tools, and references for running AI agents inside safer execution envir...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [bureado/awesome-agent-runtime-security](https://github.com/bureado/awesome-agent-runtime-security)
+  > Learning something new about runtime security for agents
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [buildkite/cleanroom](https://github.com/buildkite/cleanroom)
+  > Policy-controlled microVM sandboxes for safe, reproducible repo workloads.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [smpanaro/ModernBERT-AppleNeuralEngine](https://github.com/smpanaro/ModernBERT-AppleNeuralEngine)
+  > ModernBERT model optimized for Apple Neural Engine.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [hyperliquid-dex/hyperliquid-python-sdk](https://github.com/hyperliquid-dex/hyperliquid-python-sdk)
@@ -26,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [nhuhuan/sba](https://github.com/nhuhuan/sba)
   > Static Binary Analysis Framework
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+  > The agent that grows with you
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker)
@@ -39,15 +65,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [deathflamingo/CDP-Enabler](https://github.com/deathflamingo/CDP-Enabler)
   > A security research tool for enabling Chrome DevTools Protocol (CDP) debugging on Microsoft Edge bro...
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🍴 👤 [pcaversaccio](https://github.com/pcaversaccio) Forked [ApeWorX/github-action](https://github.com/ApeWorX/github-action) to [pcaversaccio/github-action](https://github.com/pcaversaccio/github-action)
-  > GitHub Actions CI File for Ape Projects
-
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [bambamramfan/ai-compass](https://github.com/bambamramfan/ai-compass)
   > Political Compass for AI
 
 
 ---
-*Last updated at 2026-06-30 11:09:47 UTC*
+*Last updated at 2026-06-30 12:53:28 UTC*
 *Historical records are stored in the `archive` directory.*
