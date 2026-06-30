@@ -6,6 +6,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [everdox/ermsb-meme](https://github.com/everdox/ermsb-meme)
+- 🌟 👤 [54](https://github.com/54) Starred [apogiatzis/gdb-peda-pwndbg-gef](https://github.com/apogiatzis/gdb-peda-pwndbg-gef)
+  > A script to automatically install Peda+pwndbg+GEF plugins for gdb
+- 🌟 👤 [54](https://github.com/54) Starred [SetsunaYukiOvO/x64dbg-mcp](https://github.com/SetsunaYukiOvO/x64dbg-mcp)
+  > MCP server plugin for x64dbg debugger - enables AI agents and external tools to control debugging vi...
+- 🌟 👤 [54](https://github.com/54) Starred [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)
+  > AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
+- 🌟 👤 [54](https://github.com/54) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
+  > Windows kernel debugger for Linux hosts running Windows under KVM/QEMU
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mimoo/disco-c](https://github.com/mimoo/disco-c)
@@ -89,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-06-30 19:40:32 UTC*
+*Last updated at 2026-06-30 20:46:12 UTC*
 *Historical records are stored in the `archive` directory.*
