@@ -79,11 +79,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [deathflamingo/CDP-Enabler](https://github.com/deathflamingo/CDP-Enabler)
   > A security research tool for enabling Chrome DevTools Protocol (CDP) debugging on Microsoft Edge bro...
 
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Y0oshi/Project-Deep-Focus](https://github.com/Y0oshi/Project-Deep-Focus)
+  > Your personal 'Mini Shodan'. A high-performance network reconnaissance engine designed for massive s...
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [bambamramfan/ai-compass](https://github.com/bambamramfan/ai-compass)
   > Political Compass for AI
 
 
 ---
-*Last updated at 2026-06-30 18:47:36 UTC*
+*Last updated at 2026-06-30 19:40:32 UTC*
 *Historical records are stored in the `archive` directory.*
