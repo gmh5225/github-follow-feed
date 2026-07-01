@@ -18,6 +18,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lucky-oi/kpm_svc_call_hook_trace](https://github.com/lucky-oi/kpm_svc_call_hook_trace) to [CrackerCat/kpm_svc_call_hook_trace](https://github.com/CrackerCat/kpm_svc_call_hook_trace)
   > APatch可用的svc call hook kpm模块
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Jirubizu/reclass-rs](https://github.com/Jirubizu/reclass-rs)
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jingyaogong/minimind](https://github.com/jingyaogong/minimind)
   > 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!
@@ -29,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
+  > The open-source app everyone uses to manage agents at work
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/copybara](https://github.com/google/copybara)
@@ -104,6 +109,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
   > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
 
+### [mrphrazer](https://github.com/mrphrazer)
+- 🚀 👤 [mrphrazer](https://github.com/mrphrazer) Made [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra) public
+  > Ghidra plugin to identify obfuscated code and other interesting code constructs
+
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
   > Box3D is a 3D physics engine for games
@@ -124,5 +133,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-01 16:53:54 UTC*
+*Last updated at 2026-07-01 17:41:36 UTC*
 *Historical records are stored in the `archive` directory.*
