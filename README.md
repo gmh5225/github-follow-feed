@@ -69,6 +69,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [uellenberg/Insert](https://github.com/uellenberg/Insert)
   > Insert is a programming language for self-modifying code.
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [jpablo/dspy4s](https://github.com/jpablo/dspy4s) to [killvxk/dspy4s](https://github.com/killvxk/dspy4s)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [do4choo/CVE-2026-3227-TP-Link-authenticated-RCE](https://github.com/do4choo/CVE-2026-3227-TP-Link-authenticated-RCE)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [do4choo/CVE-2026-3227-TP-Link-authenticated-RCE](https://github.com/do4choo/CVE-2026-3227-TP-Link-authenticated-RCE) to [killvxk/CVE-2026-3227-TP-Link-authenticated-RCE](https://github.com/killvxk/CVE-2026-3227-TP-Link-authenticated-RCE)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc) to [killvxk/ida_rpc](https://github.com/killvxk/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [x86matthew/InstrumentationCallbackSyscallLogger](https://github.com/x86matthew/InstrumentationCallbackSyscallLogger)
+  > A simple proof-of-concept Windows syscall logger using the NT instrumentation callback mechanism.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [x86matthew/InstrumentationCallbackSyscallLogger](https://github.com/x86matthew/InstrumentationCallbackSyscallLogger) to [killvxk/InstrumentationCallbackSyscallLogger](https://github.com/killvxk/InstrumentationCallbackSyscallLogger)
+  > A simple proof-of-concept Windows syscall logger using the NT instrumentation callback mechanism.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)
+  > A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [noahware/binprotect](https://github.com/noahware/binprotect)
+  > x64 PE bin2bin obfuscator which doesn't add a section to the binary
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bikini/exploitarium](https://github.com/bikini/exploitarium)
+  > A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes...
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
@@ -88,6 +104,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
   > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
+
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
   > Box3D is a 3D physics engine for games
@@ -104,5 +124,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-01 15:07:27 UTC*
+*Last updated at 2026-07-01 16:53:54 UTC*
 *Historical records are stored in the `archive` directory.*
