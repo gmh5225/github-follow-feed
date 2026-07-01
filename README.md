@@ -29,6 +29,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [killop/puerts-unity-mcp](https://github.com/killop/puerts-unity-mcp)
   > unity-mcp driven by tencent puerts , invoke js/ts  call c#  in your cell phone and unity editor
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🌟 👤 [ZehMatt](https://github.com/ZehMatt) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [erincatto/box3d](https://github.com/erincatto/box3d) to [ZehMatt/box3d](https://github.com/ZehMatt/box3d)
+  > Box3D is a 3D physics engine for games
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
   > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
@@ -108,6 +114,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > tool-eval-bench: Qwen3.6-27B GGUF Q8_K_XL vs NVIDIA NVFP4 — head-to-head tool-calling quality compar...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
   > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
+  > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
 
 ### [mrphrazer](https://github.com/mrphrazer)
 - 🚀 👤 [mrphrazer](https://github.com/mrphrazer) Made [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra) public
@@ -133,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-01 19:37:55 UTC*
+*Last updated at 2026-07-01 20:41:22 UTC*
 *Historical records are stored in the `archive` directory.*
