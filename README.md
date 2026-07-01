@@ -117,6 +117,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/ifstruct](https://github.com/Liquid4All/ifstruct)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Weschera/spark-bench](https://github.com/Weschera/spark-bench)
   > Mixed-capability LLM benchmark for DGX Spark — 57 scenarios, 10 domains, partial-credit grading, tri...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lostb1t/Gelato](https://github.com/lostb1t/Gelato)
+  > Jellyfin Stremio Integration Plugin
 
 ### [mrphrazer](https://github.com/mrphrazer)
 - 🚀 👤 [mrphrazer](https://github.com/mrphrazer) Made [mrphrazer/obfuscation_detection_ghidra](https://github.com/mrphrazer/obfuscation_detection_ghidra) public
@@ -142,5 +144,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-01 21:37:43 UTC*
+*Last updated at 2026-07-01 22:35:32 UTC*
 *Historical records are stored in the `archive` directory.*
