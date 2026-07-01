@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [19h/morok](https://github.com/19h/morok)
+  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ABI-ZTROS/ANSAC-Java-Server-Core](https://github.com/ABI-ZTROS/ANSAC-Java-Server-Core) to [CrackerCat/ANSAC-Java-Server-Core](https://github.com/CrackerCat/ANSAC-Java-Server-Core)
   > ANSAC Java Server Core
@@ -25,5 +29,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-01 07:44:55 UTC*
+*Last updated at 2026-07-01 09:19:42 UTC*
 *Historical records are stored in the `archive` directory.*
