@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [killop/puerts-unity-mcp](https://github.com/killop/puerts-unity-mcp)
   > unity-mcp driven by tencent puerts , invoke js/ts  call c#  in your cell phone and unity editor
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+  > 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/copybara](https://github.com/google/copybara)
   > Copybara: A tool for transforming and moving code between repositories.
@@ -37,6 +41,34 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [at2005/mlstm-orthogonalize](https://github.com/at2005/mlstm-orthogonalize)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [grandizzy/symbolic-bug-suite](https://github.com/grandizzy/symbolic-bug-suite)
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme)
+  > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [sgkdev/packet_edit_meme](https://github.com/sgkdev/packet_edit_meme) to [killvxk/packet_edit_meme](https://github.com/killvxk/packet_edit_meme)
+  > PACKET_EDIT_MEME.c (aka CVE-2026-46331): yet another page cache poisoning nightmare
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [oframe/ogpu](https://github.com/oframe/ogpu)
+  > Minimal WebGPU Library
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [pinkflawd/MIPSReverseEngineeringWorkshop](https://github.com/pinkflawd/MIPSReverseEngineeringWorkshop)
+  > Materials for my MIPS workshop at Recon 2026
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [impost0r/Cottou](https://github.com/impost0r/Cottou)
+  > dyld rebase out-of-bounds segment index ACE
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [danoszz/penthera](https://github.com/danoszz/penthera)
+  > Lightweight website/app security scanner for vibecoded apps:: run it from your AI agent (Cursor/Clau...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Offensive-Panda/ShadowDumper](https://github.com/Offensive-Panda/ShadowDumper)
+  > Shadow Dumper is a powerful tool used to dump LSASS memory, often needed in penetration testing and ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cogiceo/GPOHound](https://github.com/cogiceo/GPOHound)
+  > Offensive GPO dumping and analysis tool that leverages and enriches BloodHound data
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nhuhuan/sba](https://github.com/nhuhuan/sba)
+  > Static Binary Analysis Framework
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hacefresko/forticrack_v8](https://github.com/hacefresko/forticrack_v8)
+  > Decrypt and extract FortiOS 8.0.0 firmware images. 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0x4D31/endpoint-ai-agent-abuse](https://github.com/0x4D31/endpoint-ai-agent-abuse)
+  > EAA is a curated catalog of techniques for abusing local AI agents, especially coding agents, throug...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jpablo/dspy4s](https://github.com/jpablo/dspy4s)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [uellenberg/Insert](https://github.com/uellenberg/Insert)
+  > Insert is a programming language for self-modifying code.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [jpablo/dspy4s](https://github.com/jpablo/dspy4s) to [killvxk/dspy4s](https://github.com/killvxk/dspy4s)
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
@@ -51,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Pi extension for llama.cpp integration
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
   > A theoretical reconstruction of the Claude Mythos architecture, built from first principles using th...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Unsloth-Qwen3.6-27B-UD-Q8_K_XL_vs_nvidia-Qwen3.6-27B-NVFP4_tools_eval](https://github.com/MiaAI-Lab/Unsloth-Qwen3.6-27B-UD-Q8_K_XL_vs_nvidia-Qwen3.6-27B-NVFP4_tools_eval)
+  > tool-eval-bench: Qwen3.6-27B GGUF Q8_K_XL vs NVIDIA NVFP4 — head-to-head tool-calling quality compar...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SeraphimSerapis/tool-eval-bench](https://github.com/SeraphimSerapis/tool-eval-bench)
+  > Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-tur...
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
@@ -68,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-01 13:08:31 UTC*
+*Last updated at 2026-07-01 15:07:27 UTC*
 *Historical records are stored in the `archive` directory.*
