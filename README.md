@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
   > PE/ELF x86/x64 CFG extractor
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ricccrd/dd](https://github.com/ricccrd/dd)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
+  > eBPF-based Security Observability and Runtime Enforcement
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [falcosecurity/falco](https://github.com/falcosecurity/falco)
+  > Cloud Native Runtime Security
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [CrackerCat/KSword](https://github.com/CrackerCat/KSword)
@@ -39,6 +43,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source AI voice studio. Clone, dictate, create.
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rafal-qa/slopo](https://github.com/rafal-qa/slopo)
+  > Embedding-based code duplication detector
+
+### [elder-plinius](https://github.com/elder-plinius)
+- 🚀 👤 [elder-plinius](https://github.com/elder-plinius) Made [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) public
+  > multi-agent offensive-security meta-harness
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
   > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -61,6 +73,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
 
+### [noahware](https://github.com/noahware)
+- 🌟 👤 [noahware](https://github.com/noahware) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mvt-project/mvt](https://github.com/mvt-project/mvt)
   > MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find...
@@ -69,7 +84,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Dryxio/ghidra-ai-bridge](https://github.com/Dryxio/ghidra-ai-bridge)
   > AI-powered Ghidra query interface for reverse engineering agents
 
+### [spudgy](https://github.com/spudgy)
+- 🍴 👤 [spudgy](https://github.com/spudgy) Forked [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) to [spudgy/Zygisk-Il2CppDumper](https://github.com/spudgy/Zygisk-Il2CppDumper)
+  > Using Zygisk to dump il2cpp data at runtime
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
+
 
 ---
-*Last updated at 2026-07-02 16:08:04 UTC*
+*Last updated at 2026-07-02 18:40:01 UTC*
 *Historical records are stored in the `archive` directory.*
