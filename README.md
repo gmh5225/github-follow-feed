@@ -8,6 +8,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [godotengine/godot-asset-store-tracker](https://github.com/godotengine/godot-asset-store-tracker)
   > This repository is for reporting issues with the new asset store or discussing new features
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [google/zerocopy](https://github.com/google/zerocopy)
+  > Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rapid7/mettle](https://github.com/rapid7/mettle)
+  > This is an implementation of a native-code Meterpreter, designed for portability, embeddability, and...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [CrackerCat/KSword](https://github.com/CrackerCat/KSword)
   > 最强的开源ARK
@@ -42,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-02 10:47:50 UTC*
+*Last updated at 2026-07-02 13:01:44 UTC*
 *Historical records are stored in the `archive` directory.*
