@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [weak1337/IntelOpRegionFingerprint](https://github.com/weak1337/IntelOpRegionFingerprint)
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [godotengine/godot-asset-store-tracker](https://github.com/godotengine/godot-asset-store-tracker)
   > This repository is for reporting issues with the new asset store or discussing new features
@@ -34,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
   > PE/ELF x86/x64 CFG extractor
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [RamadhanAdam/raw-pe](https://github.com/RamadhanAdam/raw-pe)
+  > I decided to create this PE from scratch in order to understand in depth how pe files work and how t...
 
 ### [Mattiwatti](https://github.com/Mattiwatti)
 - 🌟 👤 [Mattiwatti](https://github.com/Mattiwatti) Starred [uACPI/uACPI](https://github.com/uACPI/uACPI)
@@ -72,6 +77,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
+  > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
@@ -84,14 +91,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Dryxio/ghidra-ai-bridge](https://github.com/Dryxio/ghidra-ai-bridge)
   > AI-powered Ghidra query interface for reverse engineering agents
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-coding-agent](https://github.com/simonw/llm-coding-agent) public
+  > A coding agent built on LLM
+
 ### [spudgy](https://github.com/spudgy)
 - 🍴 👤 [spudgy](https://github.com/spudgy) Forked [Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper) to [spudgy/Zygisk-Il2CppDumper](https://github.com/spudgy/Zygisk-Il2CppDumper)
   > Using Zygisk to dump il2cpp data at runtime
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [stoolap/stoolap](https://github.com/stoolap/stoolap)
+  > A Modern Embedded SQL Database written in Rust
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [cantrepro/tsink](https://github.com/cantrepro/tsink)
+  > A lightweight time-series database written in Rust. Embed it, run it as a server, or scale it as a c...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
 
 
 ---
-*Last updated at 2026-07-02 18:40:01 UTC*
+*Last updated at 2026-07-02 20:23:19 UTC*
 *Historical records are stored in the `archive` directory.*
