@@ -10,6 +10,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [apple-oss-distributions/libpthread](https://github.com/apple-oss-distributions/libpthread)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [KingOfTheNOPs/CDP-Toolkit](https://github.com/KingOfTheNOPs/CDP-Toolkit)
+  > Post-ex tool to interact with chromium browser when CDP is enabled
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ABI-ZTROS/ANSAC-Java-Server-Core](https://github.com/ABI-ZTROS/ANSAC-Java-Server-Core) to [CrackerCat/ANSAC-Java-Server-Core](https://github.com/CrackerCat/ANSAC-Java-Server-Core)
@@ -137,6 +139,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ansible playbooks for managing helium hotspots
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [HeliumDIY/helium_ansible](https://github.com/HeliumDIY/helium_ansible) to [tiagosiebler/helium_ansible](https://github.com/tiagosiebler/helium_ansible)
   > ansible playbooks for managing helium hotspots
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [helium/hotspot-schematic](https://github.com/helium/hotspot-schematic)
+  > Electrical schematics of the original Helium Hotspot
 
 ### [zouxianyu](https://github.com/zouxianyu)
 - 🌟 👤 [zouxianyu](https://github.com/zouxianyu) Starred [DennyDai/headless-ida](https://github.com/DennyDai/headless-ida)
@@ -144,5 +148,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-01 22:35:32 UTC*
+*Last updated at 2026-07-01 23:36:07 UTC*
 *Historical records are stored in the `archive` directory.*
