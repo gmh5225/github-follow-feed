@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [Cisco-Talos/EvidenceForge](https://github.com/Cisco-Talos/EvidenceForge)
+  > Generate realistic synthetic security logs for cybersecurity threat hunting training and research
+
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [weak1337/IntelOpRegionFingerprint](https://github.com/weak1337/IntelOpRegionFingerprint)
 
@@ -23,6 +27,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > eBPF-based Security Observability and Runtime Enforcement
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [falcosecurity/falco](https://github.com/falcosecurity/falco)
   > Cloud Native Runtime Security
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [JVBotelho/skewrun](https://github.com/JVBotelho/skewrun)
+  > Active Directory time discovery protocols for red teams. Stealthy extraction via Kerberos, SMB, NTLM...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [CrackerCat/KSword](https://github.com/CrackerCat/KSword)
@@ -47,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source AI voice studio. Clone, dictate, create.
+
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [Gitlawb/zero](https://github.com/Gitlawb/zero)
+  > The coding agent that answers to you, your model, your machine, your rules.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rafal-qa/slopo](https://github.com/rafal-qa/slopo)
@@ -79,6 +89,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   >  ggml speech-to-text inference for 16+ model families
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hydralauncher/hydra](https://github.com/hydralauncher/hydra)
   > Hydra Launcher is an open-source gaming platform created to be the single tool that you need
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp)
+  > Godot reverse engineering tools
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [GDRETools/gdsdecomp](https://github.com/GDRETools/gdsdecomp) to [mrexodia/gdsdecomp](https://github.com/mrexodia/gdsdecomp)
+  > Godot reverse engineering tools
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [UKGovernmentBEIS/inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai)
+  > Inspect: A framework for large language model evaluations
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
@@ -107,8 +123,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Tool to build & run portable, lightweight, self-contained virtual machines.
 
 
 ---
-*Last updated at 2026-07-02 20:23:19 UTC*
+*Last updated at 2026-07-02 22:13:16 UTC*
 *Historical records are stored in the `archive` directory.*
