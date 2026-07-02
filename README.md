@@ -13,6 +13,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rapid7/mettle](https://github.com/rapid7/mettle)
   > This is an implementation of a native-code Meterpreter, designed for portability, embeddability, and...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
+  > PE/ELF x86/x64 CFG extractor
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ricccrd/dd](https://github.com/ricccrd/dd)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [CrackerCat/KSword](https://github.com/CrackerCat/KSword)
@@ -23,6 +26,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Prompt framework that makes LLMs discover real, exploitable vulnerabilities. Six specialized agents ...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [StanleyNull/AutoHunter](https://github.com/StanleyNull/AutoHunter) to [CrackerCat/AutoHunter](https://github.com/CrackerCat/AutoHunter)
   > 自动化 SRC 漏洞挖掘系统：FOFA 资产测绘 + LLM 多 worker 自主挖掘/审核/情报沉淀。Powered By StanleyNull
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
+  > PE/ELF x86/x64 CFG extractor
+
+### [Mattiwatti](https://github.com/Mattiwatti)
+- 🌟 👤 [Mattiwatti](https://github.com/Mattiwatti) Starred [uACPI/uACPI](https://github.com/uACPI/uACPI)
+  > A portable and easy-to-integrate implementation of the Advanced Configuration and Power Interface (A...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+  > The open-source AI voice studio. Clone, dictate, create.
 
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
@@ -37,6 +52,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > cerberus-re is a local Apple-focused reverse-engineering workbench for building a repeatable three-h...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lukesdevlab/youtube](https://github.com/lukesdevlab/youtube)
+  > Prompts and model configs used in my videos.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [BinaryHardening/cfgrip](https://github.com/BinaryHardening/cfgrip)
+  > PE/ELF x86/x64 CFG extractor
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turbo-tan/llama.cpp-tq3](https://github.com/turbo-tan/llama.cpp-tq3)
+  > llama.cpp fork with TQ3_1S/4S CUDA kernels — 3.5-bit WHT quantization achieving Q4s quality at 10% s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
+  >  ggml speech-to-text inference for 16+ model families
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mvt-project/mvt](https://github.com/mvt-project/mvt)
@@ -48,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-02 13:01:44 UTC*
+*Last updated at 2026-07-02 16:08:04 UTC*
 *Historical records are stored in the `archive` directory.*
