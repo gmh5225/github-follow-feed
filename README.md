@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [msuiche/nanokrnl](https://github.com/msuiche/nanokrnl)
+  > The end of an era
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dearchap/tinyemu](https://github.com/dearchap/tinyemu)
+  > TinyEMU is a system emulator for the RISC-V and x86 architectures. Its purpose is to be small and si...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [scumjr/the-sea-watcher](https://github.com/scumjr/the-sea-watcher)
+  > Implementation of the SMM rootkit "The Watcher"
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc) to [CrackerCat/iommu-driver-poc](https://github.com/CrackerCat/iommu-driver-poc)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Jirubizu/reclass-rs](https://github.com/Jirubizu/reclass-rs) to [CrackerCat/reclass-rs](https://github.com/CrackerCat/reclass-rs)
@@ -11,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > android项目，用ndk来实现app保护，同时也提供frida脚本去进行攻击
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia) to [CrackerCat/CyberMeowfia](https://github.com/CrackerCat/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by VEGA. 
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [akustikrausch/yamaha-smaf-player](https://github.com/akustikrausch/yamaha-smaf-player)
+  > A dependency-free C++ PLAYER for Yamaha SMAF (.mmf) ringtones: the polyphonic-ringtone format of the...
 
 ### [DoranekoSystems](https://github.com/DoranekoSystems)
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [team-mirai/vibe-coding-workshop](https://github.com/team-mirai/vibe-coding-workshop)
@@ -81,5 +93,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-03 16:40:25 UTC*
+*Last updated at 2026-07-03 18:17:16 UTC*
 *Historical records are stored in the `archive` directory.*
