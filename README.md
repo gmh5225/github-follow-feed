@@ -20,7 +20,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [1193776794/launch](https://github.com/1193776794/launch)
   > 检测工具
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [malleVF/Threat-Research-with-Obsidian-for-SOC-Analysts](https://github.com/malleVF/Threat-Research-with-Obsidian-for-SOC-Analysts) to [classic130/Threat-Research-with-Obsidian-for-SOC-Analysts](https://github.com/classic130/Threat-Research-with-Obsidian-for-SOC-Analysts)
+  > Enrich your investigations on IPs, Domains etc. with OSINT
+
 
 ---
-*Last updated at 2026-07-03 04:48:48 UTC*
+*Last updated at 2026-07-03 08:14:56 UTC*
 *Historical records are stored in the `archive` directory.*
