@@ -49,6 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [1193776794/launch](https://github.com/1193776794/launch)
   > 检测工具
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [Asphaltian/VPhysics-Box3D](https://github.com/Asphaltian/VPhysics-Box3D) to [ZehMatt/VPhysics-Box3D](https://github.com/ZehMatt/VPhysics-Box3D)
+  > Vox3D (VPhysics Box3D) is a replacement physics module for the Source Engine.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [malleVF/Threat-Research-with-Obsidian-for-SOC-Analysts](https://github.com/malleVF/Threat-Research-with-Obsidian-for-SOC-Analysts) to [classic130/Threat-Research-with-Obsidian-for-SOC-Analysts](https://github.com/classic130/Threat-Research-with-Obsidian-for-SOC-Analysts)
   > Enrich your investigations on IPs, Domains etc. with OSINT
@@ -79,6 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ewhauser/gbash](https://github.com/ewhauser/gbash)
   > Pure Go bash implementation for agent sandboxes
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [microsoft/krabsetw](https://github.com/microsoft/krabsetw)
+  > KrabsETW provides a modern C++ wrapper and a .NET wrapper around the low-level ETW trace consumption...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
   > Entirety of `rustc`, translated to C. 
@@ -93,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-03 20:18:31 UTC*
+*Last updated at 2026-07-03 22:10:14 UTC*
 *Historical records are stored in the `archive` directory.*
