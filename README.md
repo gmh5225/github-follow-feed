@@ -48,6 +48,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Entirety of `rustc`, translated to C. 
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [facebook/lexical](https://github.com/facebook/lexical)
   > Lexical is an extensible text editor framework that provides excellent reliability, accessibility an...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [skuznetsov/depyo.js](https://github.com/skuznetsov/depyo.js)
+  > Python decompiler. Written in JavaScript. Works in NodeJS. Decompiles extremely fast.
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
@@ -56,6 +58,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [uphiago/recon-skills](https://github.com/uphiago/recon-skills)
   > 156 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets ac...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+  > agent multiplexer that lives in your terminal.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mprahboamey/atom](https://github.com/mprahboamey/atom)
@@ -67,7 +71,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
   > Entirety of `rustc`, translated to C. 
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
+  > Entirety of `rustc`, translated to C. 
+
+### [xuhancn](https://github.com/xuhancn)
+- 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [Yu9191/wloc](https://github.com/Yu9191/wloc) to [xuhancn/wloc](https://github.com/xuhancn/wloc)
+  > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+
 
 ---
-*Last updated at 2026-07-03 14:24:36 UTC*
+*Last updated at 2026-07-03 16:40:25 UTC*
 *Historical records are stored in the `archive` directory.*
