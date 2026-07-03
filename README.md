@@ -16,6 +16,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [team-mirai/vibe-coding-workshop](https://github.com/team-mirai/vibe-coding-workshop)
   > 国会議員・議員事務所向け「AIの使い方（バイブコーディング）勉強会」の資料（CC BY 4.0）
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [ZephrFish/harness-kit](https://github.com/ZephrFish/harness-kit)
+  > A template for building your own AI/LLM harness
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [yArna/isChinaUser](https://github.com/yArna/isChinaUser)
+  >  🇨🇳  Determine current user is a Chinese user.
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude)
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [gmh5225/ios-location-spoofer](https://github.com/gmh5225/ios-location-spoofer)
   > Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stas...
@@ -33,6 +44,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox)
   > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
+  > Entirety of `rustc`, translated to C. 
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [facebook/lexical](https://github.com/facebook/lexical)
+  > Lexical is an extensible text editor framework that provides excellent reliability, accessibility an...
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [nesdev-org/MesenCE](https://github.com/nesdev-org/MesenCE)
+  > Multi-system emulator (NES, SNES, GB, GBA, PCE, SMS/GG, WS) for Windows, Linux and macOS
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [uphiago/recon-skills](https://github.com/uphiago/recon-skills)
+  > 156 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets ac...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mprahboamey/atom](https://github.com/mprahboamey/atom)
+  > optical attention via wave interference in holographic crystals verified to float precision. the mat...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ewhauser/gbash](https://github.com/ewhauser/gbash)
+  > Pure Go bash implementation for agent sandboxes
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
@@ -40,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-03 11:37:42 UTC*
+*Last updated at 2026-07-03 14:24:36 UTC*
 *Historical records are stored in the `archive` directory.*
