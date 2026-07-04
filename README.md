@@ -4,8 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [teamchong/pxpipe](https://github.com/teamchong/pxpipe)
+  > cut Fable 5 token usage by rendering text context as images
+
+### [steipete](https://github.com/steipete)
+- 🍴 👤 [steipete](https://github.com/steipete) Forked [Code-Hex/vz](https://github.com/Code-Hex/vz) to [steipete/vz](https://github.com/steipete/vz)
+  > Create virtual machines and run Linux-based operating systems in Go using Apple Virtualization.frame...
+
 
 ---
-*Last updated at 2026-07-04 00:11:57 UTC*
+*Last updated at 2026-07-04 04:40:19 UTC*
 *Historical records are stored in the `archive` directory.*
