@@ -7,8 +7,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [Ape-xCV/Nika-Read-Only](https://github.com/Ape-xCV/Nika-Read-Only)
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [n0qword/win32k-callback-detouring](https://github.com/n0qword/win32k-callback-detouring) to [classic130/win32k-callback-detouring](https://github.com/classic130/win32k-callback-detouring)
+  > Abusing the win32k.sys kernel callback mechanism for arbitrary code execution
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [weak1337/IntelOpRegionFingerprint](https://github.com/weak1337/IntelOpRegionFingerprint)
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt)
+  > Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [jetkvm/kvm](https://github.com/jetkvm/kvm)
+  > Control any computer remotely
+
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [WangWei-CM/KSword](https://github.com/WangWei-CM/KSword) to [hzqst/KSword](https://github.com/hzqst/KSword)
+  > 最强的开源ARK
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [mvt-project/mvt](https://github.com/mvt-project/mvt)
@@ -22,11 +36,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jscott3201/llm-tuning](https://github.com/jscott3201/llm-tuning)
   > Serving and fine-tuning for the Gemma 4 and Qwen3.6 model families on Modal (SGLang/vLLM) — solo and...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [m4rs-mt/ILGPU](https://github.com/m4rs-mt/ILGPU)
+  > ILGPU JIT Compiler for high-performance .Net GPU programs
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
+  > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [plaidate/raylib-pd](https://github.com/plaidate/raylib-pd)
   > A simple and easy-to-use library to enjoy videogames programming
 
 
 ---
-*Last updated at 2026-07-04 10:18:45 UTC*
+*Last updated at 2026-07-04 12:10:34 UTC*
 *Historical records are stored in the `archive` directory.*
