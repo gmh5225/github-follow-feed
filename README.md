@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [weak1337/IntelOpRegionFingerprint](https://github.com/weak1337/IntelOpRegionFingerprint)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [pIat0n/BareMetal-RAM-Dumper](https://github.com/pIat0n/BareMetal-RAM-Dumper)
+  > A bare-metal x86 utility to dump physical RAM directly to disk. Built and tested for Cold Boot Attac...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [crynta/terax-ai](https://github.com/crynta/terax-ai)
   > Lightweight (7MB) Terminal-first AI-native dev workspace
@@ -78,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-04 20:12:31 UTC*
+*Last updated at 2026-07-04 22:03:49 UTC*
 *Historical records are stored in the `archive` directory.*
