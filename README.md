@@ -69,8 +69,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [plaidate/raylib-pd](https://github.com/plaidate/raylib-pd)
   > A simple and easy-to-use library to enjoy videogames programming
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [plaidate/raylib-games-pd](https://github.com/plaidate/raylib-games-pd)
+  > A collection of small sample games made with raylib
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [microsoft/markitdown](https://github.com/microsoft/markitdown)
+  > Python tool for converting files and office documents to Markdown.
 
 
 ---
-*Last updated at 2026-07-04 16:09:24 UTC*
+*Last updated at 2026-07-04 18:07:24 UTC*
 *Historical records are stored in the `archive` directory.*
