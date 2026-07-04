@@ -62,11 +62,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki)
   > OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [fay59/fcd](https://github.com/fay59/fcd)
+  > An optimizing decompiler
+
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [plaidate/raylib-pd](https://github.com/plaidate/raylib-pd)
   > A simple and easy-to-use library to enjoy videogames programming
 
 
 ---
-*Last updated at 2026-07-04 14:41:44 UTC*
+*Last updated at 2026-07-04 16:09:24 UTC*
 *Historical records are stored in the `archive` directory.*
