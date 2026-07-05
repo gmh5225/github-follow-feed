@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
   > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd)
+  > A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agent...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [dockur/windows](https://github.com/dockur/windows)
   > Windows inside a Docker container.
@@ -28,9 +32,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AethelisDEV/rustix-os](https://github.com/AethelisDEV/rustix-os)
   > Safe, self-healing bare-metal x86-64 operating system designed for radiation-hardened aerospace syst...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)
   > OpenTUI is a library for building terminal user interfaces (TUIs)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [microsoft/pg_durable](https://github.com/microsoft/pg_durable)
+  > PostgreSQL in-database durable execution
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+  > AeroSpace is an i3-like tiling window manager for macOS
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [alliedmodders/hl2sdk](https://github.com/alliedmodders/hl2sdk) to [HLND2T/hl2sdk](https://github.com/HLND2T/hl2sdk)
@@ -39,6 +50,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
   > Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibil...
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [simondevyoutube/Shaders_RadianceCascades](https://github.com/simondevyoutube/Shaders_RadianceCascades)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Raikiri/RadianceCascadesPaper](https://github.com/Raikiri/RadianceCascadesPaper)
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
@@ -56,6 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
   > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
 
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [worldmodels/worldmodels.github.io](https://github.com/worldmodels/worldmodels.github.io)
+  > World Models
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [squell/tinyTwofish](https://github.com/squell/tinyTwofish)
   > Configurable implementation of the Twofish block cipher for AVR 8-bit microcontrollers (ATtiny, ATme...
@@ -70,7 +87,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [secorizon/SecorizonAI](https://github.com/secorizon/SecorizonAI)
   > A fully automated terminal-native AI shell built for security professionals.
 
+### [xuhancn](https://github.com/xuhancn)
+- 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [Guangke/learn-anything](https://github.com/Guangke/learn-anything) to [xuhancn/learn-anything](https://github.com/xuhancn/learn-anything)
+  > AI辅助快速学习任何主题，从门外汉到资深水平。Claude Code skill for mastering any topic with AI.
+
 
 ---
-*Last updated at 2026-07-05 15:19:20 UTC*
+*Last updated at 2026-07-05 17:19:44 UTC*
 *Historical records are stored in the `archive` directory.*
