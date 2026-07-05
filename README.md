@@ -27,8 +27,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Aeon-Bench-Pod](https://github.com/AEON-7/Aeon-Bench-Pod)
   > Run the AEON Bench suite on your own hardware: verified HuggingFace pull → serve → benchmark (text ·...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/dspark-aeon-27b](https://github.com/hikarioyama/dspark-aeon-27b)
+  > DSpark-style speculative decoding draft head for Qwen3.6-27B AEON: training recipe, paired eval harn...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marksunner/dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)
+  > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/container](https://github.com/aerovato/container)
+  > Safely run OpenCode, Codex, Claude Code with full permissions.
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [squell/tinyTwofish](https://github.com/squell/tinyTwofish)
+  > Configurable implementation of the Twofish block cipher for AVR 8-bit microcontrollers (ATtiny, ATme...
 
 
 ---
-*Last updated at 2026-07-05 09:16:22 UTC*
+*Last updated at 2026-07-05 11:40:09 UTC*
 *Historical records are stored in the `archive` directory.*
