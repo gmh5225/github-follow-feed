@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [lief-project/LIEF](https://github.com/lief-project/LIEF)
+  > LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android) to [CrackerCat/bad-epoll-android](https://github.com/CrackerCat/bad-epoll-android)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anekys/BinderTracer](https://github.com/Anekys/BinderTracer) to [CrackerCat/BinderTracer](https://github.com/CrackerCat/BinderTracer)
@@ -32,6 +36,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [AethelisDEV/rustix-os](https://github.com/AethelisDEV/rustix-os)
   > Safe, self-healing bare-metal x86-64 operating system designed for radiation-hardened aerospace syst...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [klauspost/compress](https://github.com/klauspost/compress)
+  > Optimized Go Compression Packages
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [perber/leafwiki](https://github.com/perber/leafwiki)
+  > LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database requir...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [k1LoW/mo](https://github.com/k1LoW/mo)
+  > mo is a Markdown viewer that opens .md files in a browser.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
 
@@ -52,6 +64,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibil...
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [simondevyoutube/Shaders_RadianceCascades](https://github.com/simondevyoutube/Shaders_RadianceCascades)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Raikiri/RadianceCascadesPaper](https://github.com/Raikiri/RadianceCascadesPaper)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
+  > Lightning fast C++/CUDA neural network framework
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
+  > A collaboration friendly studio for NeRFs
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
@@ -68,6 +84,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Safely run OpenCode, Codex, Claude Code with full permissions.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
   > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
+  > MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Patvessel/ComfyUI-krea2_projector_delta](https://github.com/Patvessel/ComfyUI-krea2_projector_delta)
+  > This is a custom node for the Krea2 model with a variable dynamic Delta value, designed to integrate...
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [worldmodels/worldmodels.github.io](https://github.com/worldmodels/worldmodels.github.io)
@@ -87,11 +108,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [secorizon/SecorizonAI](https://github.com/secorizon/SecorizonAI)
   > A fully automated terminal-native AI shell built for security professionals.
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
+  > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
+
 ### [xuhancn](https://github.com/xuhancn)
 - 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [Guangke/learn-anything](https://github.com/Guangke/learn-anything) to [xuhancn/learn-anything](https://github.com/xuhancn/learn-anything)
   > AI辅助快速学习任何主题，从门外汉到资深水平。Claude Code skill for mastering any topic with AI.
 
 
 ---
-*Last updated at 2026-07-05 17:19:44 UTC*
+*Last updated at 2026-07-05 19:35:04 UTC*
 *Historical records are stored in the `archive` directory.*
