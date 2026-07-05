@@ -20,7 +20,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [alliedmodders/hl2sdk](https://github.com/alliedmodders/hl2sdk) to [HLND2T/hl2sdk](https://github.com/HLND2T/hl2sdk)
   > Half-Life 2 SDK Mirrors
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
+  > autonomous red teaming platform; multi-agent offensive-security meta-harness
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Aeon-Bench-Pod](https://github.com/AEON-7/Aeon-Bench-Pod)
+  > Run the AEON Bench suite on your own hardware: verified HuggingFace pull → serve → benchmark (text ·...
+
 
 ---
-*Last updated at 2026-07-05 05:02:02 UTC*
+*Last updated at 2026-07-05 09:16:22 UTC*
 *Historical records are stored in the `archive` directory.*
