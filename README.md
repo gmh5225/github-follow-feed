@@ -4,9 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Daivuk/apdoom](https://github.com/Daivuk/apdoom)
+  > Archipelago Doom is a fork of Crispy Doom to allow multi-world features from Archipelago
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [lief-project/LIEF](https://github.com/lief-project/LIEF)
   > LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)
+  > Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwi...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android) to [CrackerCat/bad-epoll-android](https://github.com/CrackerCat/bad-epoll-android)
@@ -54,6 +60,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PostgreSQL in-database durable execution
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
   > AeroSpace is an i3-like tiling window manager for macOS
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [andersonjoseph/jailed-agents](https://github.com/andersonjoseph/jailed-agents)
+  > Secure Nix sandbox for LLM agents
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [braiins/llm-jail](https://github.com/braiins/llm-jail)
+  > A Nix script for running CLI coding tools in an isolated MicroVM environment
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [containers/bubblewrap](https://github.com/containers/bubblewrap)
+  > Low-level unprivileged sandboxing tool used by Flatpak and similar projects
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [CertainLach/nixos-qubes](https://github.com/CertainLach/nixos-qubes)
+  > QubesOS packages and dom0 for NixOS
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [89luca89/distrobox](https://github.com/89luca89/distrobox)
+  > Use any linux distribution inside your terminal. Enable both backward and forward compatibility with...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix)
+  > Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis] 
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pyproject-nix/pyproject.nix](https://github.com/pyproject-nix/pyproject.nix)
+  > A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [alliedmodders/hl2sdk](https://github.com/alliedmodders/hl2sdk) to [HLND2T/hl2sdk](https://github.com/HLND2T/hl2sdk)
@@ -114,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-05 21:10:10 UTC*
+*Last updated at 2026-07-05 23:08:13 UTC*
 *Historical records are stored in the `archive` directory.*
