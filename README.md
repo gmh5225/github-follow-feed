@@ -55,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce)
   > GPUI – Community Edition
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [KyleBing/retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons)
+  > A collection of retro game console icons, available in various sizes. .png  怀旧游戏机图标
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [KyleBing/retro-game-console-icons](https://github.com/KyleBing/retro-game-console-icons) to [ioncodes/retro-game-console-icons](https://github.com/ioncodes/retro-game-console-icons)
+  > A collection of retro game console icons, available in various sizes. .png  怀旧游戏机图标
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
@@ -84,14 +88,64 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PoC for exploiting CVE-2026-26128.
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [jarnovandenbrink/CVE-2026-26128](https://github.com/jarnovandenbrink/CVE-2026-26128) to [killvxk/CVE-2026-26128](https://github.com/killvxk/CVE-2026-26128)
   > PoC for exploiting CVE-2026-26128.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [werdhaihai/msi_lateral_mv](https://github.com/werdhaihai/msi_lateral_mv)
+  > Lateral Movement Bof with MSI ODBC Driver Install
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307)
+  > Google Chrome CVE-2026-6307 PoC
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xsha/CVE-2026-6307](https://github.com/0xsha/CVE-2026-6307) to [killvxk/CVE-2026-6307](https://github.com/killvxk/CVE-2026-6307)
+  > Google Chrome CVE-2026-6307 PoC
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [outflanknl/macos-jit](https://github.com/outflanknl/macos-jit)
+  > Proof-of-concept code for understanding the allow-jit entitlement on macOS
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dougburks/so-crates](https://github.com/dougburks/so-crates)
+  > SO-CRATES: Security Onion Containerized Rapid Analysis of Threats, Evil, and Sus!
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kernelstub/Nox](https://github.com/kernelstub/Nox)
+  > Modular Go framework for attack surface management, reconnaissance, and vulnerability scanning.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [huynambka/cve-2026-26114-poc](https://github.com/huynambka/cve-2026-26114-poc)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [huynambka/cve-2026-26114-poc](https://github.com/huynambka/cve-2026-26114-poc) to [killvxk/cve-2026-26114-poc](https://github.com/killvxk/cve-2026-26114-poc)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [AldazActivator/usbliter8-c](https://github.com/AldazActivator/usbliter8-c)
+  > usbliter8 boot for windows and macos without dependencies
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [AldazActivator/usbliter8-c](https://github.com/AldazActivator/usbliter8-c) to [killvxk/usbliter8-c](https://github.com/killvxk/usbliter8-c)
+  > usbliter8 boot for windows and macos without dependencies
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [halilkirazkaya/arsenal-ng](https://github.com/halilkirazkaya/arsenal-ng)
+  > The classic launcher, evolved. Fast, Go-based command library equipped with 200+ cybersecurity cheat...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ZephrFish/harness-kit](https://github.com/ZephrFish/harness-kit)
+  > A template for building your own AI/LLM harness
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [exploitcve/mattew](https://github.com/exploitcve/mattew)
+  > mattew crawls target websites, extracts hidden attack surface, runs security analysis, fingerprints ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [uphiago/recon-skills](https://github.com/uphiago/recon-skills)
+  > 162 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets ac...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [josevcm/hce-laboratory](https://github.com/josevcm/hce-laboratory)
+  > Host card emulator for PN7160
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [J4ck3LSyN-Gen2/CVE-2026-48558](https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558)
+  > SimpleHelp OIDC Authentication Bypass PoC
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [J4ck3LSyN-Gen2/CVE-2026-48558](https://github.com/J4ck3LSyN-Gen2/CVE-2026-48558) to [killvxk/CVE-2026-48558](https://github.com/killvxk/CVE-2026-48558)
+  > SimpleHelp OIDC Authentication Bypass PoC
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [milankovo/struct-compare](https://github.com/milankovo/struct-compare)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Bynario/pocs](https://github.com/Bynario/pocs)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Bynario/pocs](https://github.com/Bynario/pocs) to [killvxk/pocs-bynario](https://github.com/killvxk/pocs-bynario)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [n0qword/win32k-callback-detouring](https://github.com/n0qword/win32k-callback-detouring)
+  > Abusing the win32k.sys kernel callback mechanism for arbitrary code execution
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Orangera1n/spironolactone](https://github.com/Orangera1n/spironolactone)
+  > Something, mayhaps?
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
   > AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for persona...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Dryxio/auto-re-agent](https://github.com/Dryxio/auto-re-agent)
+  > Autonomous reverse-engineering agent: source-aware reverser/checker loop, objective verifier, 11-sig...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers)
   > Implements harmful/harmless refusal removal using pure HF Transformers
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dreamfast/ungguf](https://github.com/dreamfast/ungguf)
+  > GGUF -> Safetensor converter
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [confident-ai/deepeval](https://github.com/confident-ai/deepeval)
+  > The LLM Evaluation Framework
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [centerforaisafety/HarmBench](https://github.com/centerforaisafety/HarmBench)
+  > HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eugr/llama-benchy](https://github.com/eugr/llama-benchy)
+  > llama-benchy - llama-bench style benchmarking tool for all backends
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ayyucedemirbas/Windows-Research-Kernel-WRK-](https://github.com/ayyucedemirbas/Windows-Research-Kernel-WRK-)
@@ -109,5 +163,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-06 16:55:39 UTC*
+*Last updated at 2026-07-06 19:01:22 UTC*
 *Historical records are stored in the `archive` directory.*
