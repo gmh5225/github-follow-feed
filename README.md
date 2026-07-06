@@ -8,8 +8,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [zero-art-rs/core](https://github.com/zero-art-rs/core)
   > 0-art core in Rust
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [tmux/tmux](https://github.com/tmux/tmux)
+  > tmux source code
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LinXiaoTao/FuckClaude](https://github.com/LinXiaoTao/FuckClaude) to [CrackerCat/FuckClaude](https://github.com/CrackerCat/FuckClaude)
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [UzJu/CodeOrion](https://github.com/UzJu/CodeOrion)
+  > 基于 Tree-sitter 的多语言代码图系统。将源代码解析为统一 IR，构建 CST 图、调用图、数据流图、框架端点图、依赖调用图，存入 SQLite。面向 AI Agent 漏洞挖掘提供可解释的...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [pocket-stack/pocketjs](https://github.com/pocket-stack/pocketjs)
+  > High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid s...
 
 ### [Naville](https://github.com/Naville)
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [pre-commit/identify](https://github.com/pre-commit/identify) to [Naville/identify](https://github.com/Naville/identify)
@@ -35,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
   > Box3D is a 3D physics engine for games
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [frida/luma](https://github.com/frida/luma)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [IntegralPilot/rustc_codegen_jvm](https://github.com/IntegralPilot/rustc_codegen_jvm)
+  > Toolchain to create JVM-ready Java bytecode from Rust MIR.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [tscircuit/tscircuit](https://github.com/tscircuit/tscircuit)
@@ -49,6 +61,29 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mwlik/v8-resources](https://github.com/mwlik/v8-resources)
   > A bunch of V8 resources (with a security focus)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [shokkadev/MockAD-Release](https://github.com/shokkadev/MockAD-Release)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable x86_...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [farazsth98/chronomaly](https://github.com/farazsth98/chronomaly) to [killvxk/chronomaly](https://github.com/killvxk/chronomaly)
+  > Android kernel exploit for CVE-2025-38352, previously exploited in-the-wild. Targets vulnerable x86_...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [V4bel/Januscape](https://github.com/V4bel/Januscape)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [V4bel/Januscape](https://github.com/V4bel/Januscape) to [killvxk/Januscape](https://github.com/killvxk/Januscape)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
+  > autonomous red teaming platform; multi-agent offensive-security meta-harness
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [speedyfriend433/ReDyne](https://github.com/speedyfriend433/ReDyne)
+  > A native decompiler app for iOS!
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [42Pupusas/quetzalcoatl](https://github.com/42Pupusas/quetzalcoatl)
+  > Lock-free ring buffers for high throughput concurrency and parallelisms.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [J4ck3LSyN-Gen2/CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047)
+  > Epson Printer RAW Protocol Exploit Framework
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [J4ck3LSyN-Gen2/CVE-2026-39047](https://github.com/J4ck3LSyN-Gen2/CVE-2026-39047) to [killvxk/CVE-2026-39047](https://github.com/killvxk/CVE-2026-39047)
+  > Epson Printer RAW Protocol Exploit Framework
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [can1357/pon](https://github.com/can1357/pon)
+  > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jarnovandenbrink/CVE-2026-26128](https://github.com/jarnovandenbrink/CVE-2026-26128)
+  > PoC for exploiting CVE-2026-26128.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [jarnovandenbrink/CVE-2026-26128](https://github.com/jarnovandenbrink/CVE-2026-26128) to [killvxk/CVE-2026-26128](https://github.com/killvxk/CVE-2026-26128)
+  > PoC for exploiting CVE-2026-26128.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp)
@@ -74,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-06 13:53:05 UTC*
+*Last updated at 2026-07-06 16:55:39 UTC*
 *Historical records are stored in the `archive` directory.*
