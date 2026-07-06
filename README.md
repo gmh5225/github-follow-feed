@@ -1,138 +1,18 @@
-# Daily GitHub Activity (2026-07-05)
+# Daily GitHub Activity (2026-07-06)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Daivuk/apdoom](https://github.com/Daivuk/apdoom)
-  > Archipelago Doom is a fork of Crispy Doom to allow multi-world features from Archipelago
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [zero-art-rs/core](https://github.com/zero-art-rs/core)
+  > 0-art core in Rust
 
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [lief-project/LIEF](https://github.com/lief-project/LIEF)
-  > LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)
-  > Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwi...
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dispa1r/bad-epoll-android](https://github.com/Dispa1r/bad-epoll-android) to [CrackerCat/bad-epoll-android](https://github.com/CrackerCat/bad-epoll-android)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anekys/BinderTracer](https://github.com/Anekys/BinderTracer) to [CrackerCat/BinderTracer](https://github.com/CrackerCat/BinderTracer)
-  > Android Binder transaction tracer
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [vvb2060/pxeboot](https://github.com/vvb2060/pxeboot) to [CrackerCat/pxeboot](https://github.com/CrackerCat/pxeboot)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BruceLi20110501/Pulsar_RAT](https://github.com/BruceLi20110501/Pulsar_RAT) to [CrackerCat/Pulsar_RAT](https://github.com/CrackerCat/Pulsar_RAT)
-  > Pulsar RAT现有官方仓库已被下架，此仓库为个人二开版，禁止商用
-
-### [Mr-xn](https://github.com/Mr-xn)
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)
-  > 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol anal...
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [WhiteNightShadow/firefox-reverse](https://github.com/WhiteNightShadow/firefox-reverse)
   > 🦊 内置 AI 逆向 Agent 的 Firefox — 通用 JS/JSVMP/WASM/签名逆向工作站，SpiderMonkey 引擎层非侵入 trace，把加密参数从黑盒还原成不依赖浏览器的纯算...
-
-### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd)
-  > A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agent...
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [dockur/windows](https://github.com/dockur/windows)
-  > Windows inside a Docker container.
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [HarryR/z80ai](https://github.com/HarryR/z80ai)
-  > Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor. Train con...
-
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [AethelisDEV/rustix-os](https://github.com/AethelisDEV/rustix-os)
-  > Safe, self-healing bare-metal x86-64 operating system designed for radiation-hardened aerospace syst...
-
-### [extremecoders-re](https://github.com/extremecoders-re)
-- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [klauspost/compress](https://github.com/klauspost/compress)
-  > Optimized Go Compression Packages
-- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [perber/leafwiki](https://github.com/perber/leafwiki)
-  > LeafWiki - Self-hosted wiki. Single Go binary, SQLite, Markdown on disk. No external database requir...
-- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [k1LoW/mo](https://github.com/k1LoW/mo)
-  > mo is a Markdown viewer that opens .md files in a browser.
-
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [anomalyco/opentui](https://github.com/anomalyco/opentui)
-  > OpenTUI is a library for building terminal user interfaces (TUIs)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [microsoft/pg_durable](https://github.com/microsoft/pg_durable)
-  > PostgreSQL in-database durable execution
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
-  > AeroSpace is an i3-like tiling window manager for macOS
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [andersonjoseph/jailed-agents](https://github.com/andersonjoseph/jailed-agents)
-  > Secure Nix sandbox for LLM agents
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [braiins/llm-jail](https://github.com/braiins/llm-jail)
-  > A Nix script for running CLI coding tools in an isolated MicroVM environment
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [containers/bubblewrap](https://github.com/containers/bubblewrap)
-  > Low-level unprivileged sandboxing tool used by Flatpak and similar projects
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [CertainLach/nixos-qubes](https://github.com/CertainLach/nixos-qubes)
-  > QubesOS packages and dom0 for NixOS
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [89luca89/distrobox](https://github.com/89luca89/distrobox)
-  > Use any linux distribution inside your terminal. Enable both backward and forward compatibility with...
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix)
-  > Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis] 
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pyproject-nix/pyproject.nix](https://github.com/pyproject-nix/pyproject.nix)
-  > A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
-
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [alliedmodders/hl2sdk](https://github.com/alliedmodders/hl2sdk) to [HLND2T/hl2sdk](https://github.com/HLND2T/hl2sdk)
-  > Half-Life 2 SDK Mirrors
-
-### [ikrima](https://github.com/ikrima)
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Trystan-SA/claude-design-system-prompt](https://github.com/Trystan-SA/claude-design-system-prompt)
-  > Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibil...
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [simondevyoutube/Shaders_RadianceCascades](https://github.com/simondevyoutube/Shaders_RadianceCascades)
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Raikiri/RadianceCascadesPaper](https://github.com/Raikiri/RadianceCascadesPaper)
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
-  > Lightning fast C++/CUDA neural network framework
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
-  > A collaboration friendly studio for NeRFs
-
-### [mq1n](https://github.com/mq1n)
-- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST)
-  > autonomous red teaming platform; multi-agent offensive-security meta-harness
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AEON-7/Aeon-Bench-Pod](https://github.com/AEON-7/Aeon-Bench-Pod)
-  > Run the AEON Bench suite on your own hardware: verified HuggingFace pull → serve → benchmark (text ·...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/dspark-aeon-27b](https://github.com/hikarioyama/dspark-aeon-27b)
-  > DSpark-style speculative decoding draft head for Qwen3.6-27B AEON: training recipe, paired eval harn...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [marksunner/dgx-spark-single-stack](https://github.com/marksunner/dgx-spark-single-stack)
-  > Complete single-Spark AI agent stack: Qwen 122B + Hermes + Honcho on one DGX Spark
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/container](https://github.com/aerovato/container)
-  > Safely run OpenCode, Codex, Claude Code with full permissions.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [harrrshall/tinyrouter](https://github.com/harrrshall/tinyrouter)
-  > A tiny ~10K-parameter LLM router that learns which open-source model (deepseek-v4-pro / glm-5p2 / ki...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lucas-eea/symbolic-range-analysis](https://github.com/lucas-eea/symbolic-range-analysis)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)
-  > MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Patvessel/ComfyUI-krea2_projector_delta](https://github.com/Patvessel/ComfyUI-krea2_projector_delta)
-  > This is a custom node for the Krea2 model with a variable dynamic Delta value, designed to integrate...
-
-### [nulltea](https://github.com/nulltea)
-- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [worldmodels/worldmodels.github.io](https://github.com/worldmodels/worldmodels.github.io)
-  > World Models
-
-### [odzhan](https://github.com/odzhan)
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [squell/tinyTwofish](https://github.com/squell/tinyTwofish)
-  > Configurable implementation of the Twofish block cipher for AVR 8-bit microcontrollers (ATtiny, ATme...
-
-### [swisskyrepo](https://github.com/swisskyrepo)
-- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [usestrix/strix](https://github.com/usestrix/strix)
-  > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
-- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [secorizon/SecorizonAI](https://github.com/secorizon/SecorizonAI)
-  > A fully automated terminal-native AI shell built for security professionals.
-
-### [tiagosiebler](https://github.com/tiagosiebler)
-- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus)
-  > Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous exec...
-
-### [xuhancn](https://github.com/xuhancn)
-- 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [Guangke/learn-anything](https://github.com/Guangke/learn-anything) to [xuhancn/learn-anything](https://github.com/xuhancn/learn-anything)
-  > AI辅助快速学习任何主题，从门外汉到资深水平。Claude Code skill for mastering any topic with AI.
 
 
 ---
-*Last updated at 2026-07-05 23:08:13 UTC*
+*Last updated at 2026-07-06 04:14:33 UTC*
 *Historical records are stored in the `archive` directory.*
