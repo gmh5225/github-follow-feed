@@ -34,6 +34,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwi...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [json-e/json-e](https://github.com/json-e/json-e)
   > A data-structure parameterization system written for embedding context in JSON objects
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
+  > OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automat...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [bluechips-zhao/av-evasion-skills](https://github.com/bluechips-zhao/av-evasion-skills) to [classic130/av-evasion-skills](https://github.com/classic130/av-evasion-skills)
@@ -157,11 +159,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [can1357/pon](https://github.com/can1357/pon)
   > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)
+  > A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle ...
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🚀 👤 [tiagosiebler](https://github.com/tiagosiebler) Made [tiagosiebler/helium_ansible](https://github.com/tiagosiebler/helium_ansible) public
   > Updated ansible playbooks for managing helium hotspots, with dashboard and hardware control
 
 
 ---
-*Last updated at 2026-07-06 19:01:22 UTC*
+*Last updated at 2026-07-06 21:41:50 UTC*
 *Historical records are stored in the `archive` directory.*
