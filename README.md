@@ -7,6 +7,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [zero-art-rs/core](https://github.com/zero-art-rs/core)
   > 0-art core in Rust
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [FractalFir/crustc](https://github.com/FractalFir/crustc)
+  > Entirety of `rustc`, translated to C. 
+
+### [Coldzer0](https://github.com/Coldzer0)
+- 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [can1357/pon](https://github.com/can1357/pon)
+  > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [tmux/tmux](https://github.com/tmux/tmux)
@@ -152,6 +158,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ayyucedemirbas/Windows-Research-Kernel-WRK-](https://github.com/ayyucedemirbas/Windows-Research-Kernel-WRK-)
   > Windows Research Kernel Source Code
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [n0qword/win32k-callback-detouring](https://github.com/n0qword/win32k-callback-detouring)
+  > Abusing the win32k.sys kernel callback mechanism for arbitrary code execution
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten)
@@ -166,8 +174,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🚀 👤 [tiagosiebler](https://github.com/tiagosiebler) Made [tiagosiebler/helium_ansible](https://github.com/tiagosiebler/helium_ansible) public
   > Updated ansible playbooks for managing helium hotspots, with dashboard and hardware control
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [ImoverEngineering/Vaporware](https://github.com/ImoverEngineering/Vaporware)
+  > SDK for flashing custom firmware to select families of vapes
 
 
 ---
-*Last updated at 2026-07-06 21:41:50 UTC*
+*Last updated at 2026-07-06 23:13:41 UTC*
 *Historical records are stored in the `archive` directory.*
