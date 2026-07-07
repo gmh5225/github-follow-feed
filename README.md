@@ -63,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)
+  > The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
@@ -109,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-07 20:52:23 UTC*
+*Last updated at 2026-07-07 22:16:36 UTC*
 *Historical records are stored in the `archive` directory.*
