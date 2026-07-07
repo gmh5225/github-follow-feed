@@ -88,6 +88,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [google/souper](https://github.com/google/souper)
   > A superoptimizer for LLVM IR
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [raythings/raylib-backends](https://github.com/raythings/raylib-backends)
+  > Attach Vulkan (rlvk), Metal (rlmt), or WebGPU (rlwg) rendering backends to a raylib build you own. E...
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [rygo6/raylib](https://github.com/rygo6/raylib)
+  > A simple and easy-to-use library to enjoy videogames programming
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [rygo6/raylib_tests](https://github.com/rygo6/raylib_tests)
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [wouterdebie/davit](https://github.com/wouterdebie/davit)
+  > A native macOS UI for Apple's platform
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
   > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
@@ -98,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-07 18:06:22 UTC*
+*Last updated at 2026-07-07 20:52:23 UTC*
 *Historical records are stored in the `archive` directory.*
