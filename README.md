@@ -23,6 +23,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [palemoky/cn-check](https://github.com/palemoky/cn-check) to [Mr-xn/cn-check](https://github.com/Mr-xn/cn-check)
   > 🐾 Are you from China?
 
+### [hzqst](https://github.com/hzqst)
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [3441293738/creatorhub](https://github.com/3441293738/creatorhub)
+  > 多平台内容监控·采集·搬运 —— 纯 Python(FastAPI + Playwright),一个 Web 面板管起抖音 / 小红书 / 快手
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [3441293738/creatorhub](https://github.com/3441293738/creatorhub) to [hzqst/creatorhub](https://github.com/hzqst/creatorhub)
+  > 多平台内容监控·采集·搬运 —— 纯 Python(FastAPI + Playwright),一个 Web 面板管起抖音 / 小红书 / 快手
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle)
   > The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink...
@@ -34,6 +40,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Deterministyczny silnik kontroli i redakcji AI-generowanych polskich tekstów prawniczych — bez LLM, ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jina-ai/MCP](https://github.com/jina-ai/MCP)
   > Official Jina AI Remote MCP Server
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+  > A Patch for GIMP 3+ for Photoshop Users
+
+### [peperunas](https://github.com/peperunas)
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
+  > Your own search engine
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime)
+  > A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [juliangrtz/re7](https://github.com/juliangrtz/re7)
+  > Resident Evil 7 Randomizer
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [google/souper](https://github.com/google/souper)
+  > A superoptimizer for LLVM IR
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
@@ -41,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-07 08:28:43 UTC*
+*Last updated at 2026-07-07 12:00:22 UTC*
 *Historical records are stored in the `archive` directory.*
