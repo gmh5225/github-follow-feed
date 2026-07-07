@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 通用女仆机器人本地版 Rust 服务
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/Januscape](https://github.com/V4bel/Januscape) to [CrackerCat/Januscape](https://github.com/CrackerCat/Januscape)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK)
+  > Source code for Unturned, a free open-world zombie survival sandbox game.
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [lingbol088-spec/Codex-5.5-codex-instruct-5.5](https://github.com/lingbol088-spec/Codex-5.5-codex-instruct-5.5)
   > Codex CLI 破甲工具（GPT-5.5） — 注入无限制模式系统指令，关闭所有内容过滤器。
@@ -25,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [palemoky/cn-check](https://github.com/palemoky/cn-check) to [Mr-xn/cn-check](https://github.com/Mr-xn/cn-check)
   > 🐾 Are you from China?
+
+### [akien-mga](https://github.com/akien-mga)
+- 🌟 👤 [akien-mga](https://github.com/akien-mga) Starred [bitbrain/mutagen](https://github.com/bitbrain/mutagen)
+  > Godot Wild Jam #94
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🚀 👤 [es3n1n](https://github.com/es3n1n) Made [project-sekai-ctf/sekaictf-2026](https://github.com/project-sekai-ctf/sekaictf-2026) public
@@ -80,11 +88,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [google/souper](https://github.com/google/souper)
   > A superoptimizer for LLVM IR
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
+  > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [amruth-sn/kong](https://github.com/amruth-sn/kong)
   > The world's first agentic reverse engineer.
 
 
 ---
-*Last updated at 2026-07-07 15:45:06 UTC*
+*Last updated at 2026-07-07 18:06:22 UTC*
 *Historical records are stored in the `archive` directory.*
