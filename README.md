@@ -6,6 +6,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [V4bel/Januscape](https://github.com/V4bel/Januscape)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Zypherion-Technologies/Nemesis](https://github.com/Zypherion-Technologies/Nemesis)
+  > .NET process monitor that hooks CLR at the native layer, dumps reflective assemblies from memory, an...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PangBaiWork/StaticElfLoader](https://github.com/PangBaiWork/StaticElfLoader) to [CrackerCat/StaticElfLoader](https://github.com/CrackerCat/StaticElfLoader)
@@ -56,6 +58,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
   > The open-source AI voice studio. Clone, dictate, create.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/nitro](https://github.com/aerovato/nitro)
+  > A tiny and efficient harness for running Bash commands.
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [marchildmann/BevelDesk](https://github.com/marchildmann/BevelDesk)
@@ -78,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-08 19:44:36 UTC*
+*Last updated at 2026-07-08 21:16:15 UTC*
 *Historical records are stored in the `archive` directory.*
