@@ -29,6 +29,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [OceanGPT/OceanGym](https://github.com/OceanGPT/OceanGym)
+  > OceanGym: A Benchmark Environment for Underwater Embodied Agents
+
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [pwilkin/thinksound.cpp](https://github.com/pwilkin/thinksound.cpp)
+  > Standalone C++/GGML runtime for ThinkSound text->sound-effect generation
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [peaceandwhisky/SubEtha](https://github.com/peaceandwhisky/SubEtha)
@@ -48,6 +54,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark](https://github.com/MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark)
   > Serve NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 on a single DGX Spark (GB10) node with vLLM 0.24 i...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+  > The open-source AI voice studio. Clone, dictate, create.
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [marchildmann/BevelDesk](https://github.com/marchildmann/BevelDesk)
@@ -70,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-08 17:45:17 UTC*
+*Last updated at 2026-07-08 19:44:36 UTC*
 *Historical records are stored in the `archive` directory.*
