@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [V4bel/Januscape](https://github.com/V4bel/Januscape)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PangBaiWork/StaticElfLoader](https://github.com/PangBaiWork/StaticElfLoader) to [CrackerCat/StaticElfLoader](https://github.com/CrackerCat/StaticElfLoader)
   > load static elf (especially for frida)
@@ -24,6 +27,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [oipoistar/tinta](https://github.com/oipoistar/tinta)
   > Fast, lightweight markdown viewer & reader for Windows. Native C++ with Direct2D — <1MB binary, ~200...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
+  > A project to improve skills of large language models
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [andrewrk/poop](https://github.com/andrewrk/poop)
   > Performance Optimizer Observation Platform
@@ -38,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-08 10:26:21 UTC*
+*Last updated at 2026-07-08 12:25:52 UTC*
 *Historical records are stored in the `archive` directory.*
