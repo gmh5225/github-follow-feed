@@ -15,9 +15,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [IntegralPilot/rustc_codegen_jvm](https://github.com/IntegralPilot/rustc_codegen_jvm) to [CrackerCat/rustc_codegen_jvm](https://github.com/CrackerCat/rustc_codegen_jvm)
   > Toolchain to create JVM-ready Java bytecode from Rust MIR.
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
+  > A project to improve skills of large language models
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [neurosnap/zmx](https://github.com/neurosnap/zmx)
   > Session attach/detach for the terminal
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [orneryd/NornicDB](https://github.com/orneryd/NornicDB)
+  > Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, grap...
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [peaceandwhisky/SubEtha](https://github.com/peaceandwhisky/SubEtha)
@@ -31,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
   > A project to improve skills of large language models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [marchildmann/BevelDesk](https://github.com/marchildmann/BevelDesk)
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [andrewrk/poop](https://github.com/andrewrk/poop)
@@ -46,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-08 12:25:52 UTC*
+*Last updated at 2026-07-08 15:27:08 UTC*
 *Historical records are stored in the `archive` directory.*
