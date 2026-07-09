@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [BlackLabelHQ/RecompOne](https://github.com/BlackLabelHQ/RecompOne)
   > Playstation 1 Static Recompiler
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools)
+  > A collection of Azure AD/Entra tools for offensive and defensive security purposes
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui) to [CrackerCat/garlic-gui](https://github.com/CrackerCat/garlic-gui)
   > Garlic Decompiler (GUI) - A modern C++/Qt6 desktop interface for the Garlic Decompiler, bringing bla...
@@ -30,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gammons/slk](https://github.com/gammons/slk)
   > A blazingly fast Slack TUI
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter for safety-critical execution
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
@@ -37,7 +45,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zwclose/realtek-dma](https://github.com/zwclose/realtek-dma)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [zwclose/realtek-dma](https://github.com/zwclose/realtek-dma) to [killvxk/realtek-dma](https://github.com/killvxk/realtek-dma)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wearrrrr/Nari](https://github.com/wearrrrr/Nari)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nari-lang/nari](https://github.com/nari-lang/nari)
   > Nari is a dynamically typed multi-paradigm language featuring a full JIT compiler, and an entire eco...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [heeeyaaaa/vmem-decrypt](https://github.com/heeeyaaaa/vmem-decrypt)
   > Decrypt VMware vTPM-encrypted .vmem/.vmsn/.vmss/.nvram from the VM password, and flatten the .vmem t...
@@ -91,9 +99,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [TheHPXProject/hpx](https://github.com/TheHPXProject/hpx)
+  > The C++ Standard Library for Parallelism and Concurrency
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter for safety-critical execution
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [19h/viy](https://github.com/19h/viy)
+
 ### [ri-char](https://github.com/ri-char)
 - 🍴 👤 [ri-char](https://github.com/ri-char) Forked [ChanningYuan/usageBar](https://github.com/ChanningYuan/usageBar) to [ri-char/usageBar](https://github.com/ri-char/usageBar)
   > macOS 菜单栏工具，聚合显示多个 AI 编程/Agent工具（Claude Code / Codex / Cursor / Qoder / 悟空/ Workbuddy 等）的 token 用量，全...
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [NVlabs/cutile-rs](https://github.com/NVlabs/cutile-rs)
+  > cuTile Rust provides a safe, tile-based kernel programming DSL for the Rust programming language. It...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [au-ts/cogent](https://github.com/au-ts/cogent)
+  > Cogent Project
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Barre/ZeroFS](https://github.com/Barre/ZeroFS)
@@ -105,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-09 18:03:20 UTC*
+*Last updated at 2026-07-09 20:51:57 UTC*
 *Historical records are stored in the `archive` directory.*
