@@ -1,100 +1,20 @@
-# Daily GitHub Activity (2026-07-08)
+# Daily GitHub Activity (2026-07-09)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [V4bel/Januscape](https://github.com/V4bel/Januscape)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Zypherion-Technologies/Nemesis](https://github.com/Zypherion-Technologies/Nemesis)
-  > .NET process monitor that hooks CLR at the native layer, dumps reflective assemblies from memory, an...
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PangBaiWork/StaticElfLoader](https://github.com/PangBaiWork/StaticElfLoader) to [CrackerCat/StaticElfLoader](https://github.com/CrackerCat/StaticElfLoader)
-  > load static elf (especially for frida)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuKongA/payload_extract_gui](https://github.com/YuKongA/payload_extract_gui) to [CrackerCat/payload_extract_gui](https://github.com/CrackerCat/payload_extract_gui)
-  > [Multiplatform] Android payload.bin extractor GUI
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [IntegralPilot/rustc_codegen_jvm](https://github.com/IntegralPilot/rustc_codegen_jvm) to [CrackerCat/rustc_codegen_jvm](https://github.com/CrackerCat/rustc_codegen_jvm)
-  > Toolchain to create JVM-ready Java bytecode from Rust MIR.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui) to [CrackerCat/garlic-gui](https://github.com/CrackerCat/garlic-gui)
+  > Garlic Decompiler (GUI) - A modern C++/Qt6 desktop interface for the Garlic Decompiler, bringing bla...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [droidsaw/droidsaw](https://github.com/droidsaw/droidsaw) to [CrackerCat/droidsaw](https://github.com/CrackerCat/droidsaw)
+  > Pure-Rust Android decompiler and security-audit suite. DEX → Java, Hermes → JavaScript. Cross-layer ...
 
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
-  > A project to improve skills of large language models
-
-### [ahmet](https://github.com/ahmet)
-- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)
-  > Twitter scraper API skill for tweet search, advanced Twitter search, profile tweets, follower export...
-
-### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [neurosnap/zmx](https://github.com/neurosnap/zmx)
-  > Session attach/detach for the terminal
-
-### [extremecoders-re](https://github.com/extremecoders-re)
-- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [orneryd/NornicDB](https://github.com/orneryd/NornicDB)
-  > Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, grap...
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [OceanGPT/OceanGym](https://github.com/OceanGPT/OceanGym)
-  > OceanGym: A Benchmark Environment for Underwater Embodied Agents
-
-### [ggerganov](https://github.com/ggerganov)
-- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [pwilkin/thinksound.cpp](https://github.com/pwilkin/thinksound.cpp)
-  > Standalone C++/GGML runtime for ThinkSound text->sound-effect generation
-
-### [mgeeky](https://github.com/mgeeky)
-- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Orange-Cyberdefense/p3-loader](https://github.com/Orange-Cyberdefense/p3-loader)
-  > P³-Shellcode Loader is a loader that implements a code injection technique which leverages the Proce...
-
-### [minaminao](https://github.com/minaminao)
-- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [peaceandwhisky/SubEtha](https://github.com/peaceandwhisky/SubEtha)
-  > Private x402 payments on zERC20 — hide who paid whom, not the price tag.
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [oipoistar/tinta](https://github.com/oipoistar/tinta)
-  > Fast, lightweight markdown viewer & reader for Windows. Native C++ with Direct2D — <1MB binary, ~200...
-
-### [mq1n](https://github.com/mq1n)
-- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills)
-  > Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphic...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hikarioyama/a6b-k-expansion](https://github.com/hikarioyama/a6b-k-expansion)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA-NeMo/Skills](https://github.com/NVIDIA-NeMo/Skills)
-  > A project to improve skills of large language models
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/vLLm-0.24-optimized-NVIDIA-Nemotron-Lab-Puzzle-75B-A9B-A4Q-MTP3-NVFP4-KV-2.7M-Pool-Single-DGX-Spark](https://github.com/drowzeys/vLLm-0.24-optimized-NVIDIA-Nemotron-Lab-Puzzle-75B-A9B-A4Q-MTP3-NVFP4-KV-2.7M-Pool-Single-DGX-Spark)
-  > Nemotron Puzzle-75B-A9B on ONE DGX Spark: vLLM 0.24 + A4Q + MTP k=3 + NVFP4 KV, 2.71M-token pool, 22...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark](https://github.com/MiaAI-Lab/Nemotron-Labs-3-Puzzle-75B-DGX-Spark)
-  > Serve NVIDIA Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 on a single DGX Spark (GB10) node with vLLM 0.24 i...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/antidoom](https://github.com/Liquid4All/antidoom)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamiepine/voicebox](https://github.com/jamiepine/voicebox)
-  > The open-source AI voice studio. Clone, dictate, create.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aerovato/nitro](https://github.com/aerovato/nitro)
-  > A tiny and efficient harness for running Bash commands.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drowzeys/keys-Antirez-Dwarf-Star-DSV4-on-DGX-Spark-GB10-Q2bit](https://github.com/drowzeys/keys-Antirez-Dwarf-Star-DSV4-on-DGX-Spark-GB10-Q2bit)
-  > DSpark-style speculative decoding ported into antirez's ds4 (DwarfStar) C engine on DGX Spark GB10 —...
-
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [marchildmann/BevelDesk](https://github.com/marchildmann/BevelDesk)
-
-### [praydog](https://github.com/praydog)
-- 🌟 👤 [praydog](https://github.com/praydog) Starred [andrewrk/poop](https://github.com/andrewrk/poop)
-  > Performance Optimizer Observation Platform
-
-### [void-stack](https://github.com/void-stack)
-- 🍴 👤 [void-stack](https://github.com/void-stack) Forked [Washi1337/AsmResolver](https://github.com/Washi1337/AsmResolver) to [void-stack/AsmResolver](https://github.com/void-stack/AsmResolver)
-  > A library for creating, reading and editing PE files and .NET modules.
-
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [cellebrite-labs/ida_kernelcache](https://github.com/cellebrite-labs/ida_kernelcache)
-  > An IDA Toolkit for analyzing iOS kernelcaches.
-
-### [zodiacon](https://github.com/zodiacon)
-- 🌟 👤 [zodiacon](https://github.com/zodiacon) Starred [oipoistar/tinta](https://github.com/oipoistar/tinta)
-  > Fast, lightweight markdown viewer & reader for Windows. Native C++ with Direct2D — <1MB binary, ~200...
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter for safety-critical execution
 
 
 ---
-*Last updated at 2026-07-08 23:15:40 UTC*
+*Last updated at 2026-07-09 03:58:32 UTC*
 *Historical records are stored in the `archive` directory.*
