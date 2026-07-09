@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe)
+  > Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwi...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [vorner/arc-swap](https://github.com/vorner/arc-swap)
+  > Support atomic operations on Arc itself
 
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [BlackLabelHQ/RecompOne](https://github.com/BlackLabelHQ/RecompOne)
@@ -98,6 +102,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36)
+  > J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
+  >  Companion code for the global workspace interpretability paper
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Coding-Dev-Tools/engraphis](https://github.com/Coding-Dev-Tools/engraphis)
+  > Self-hosted AI memory engine - Ebbinghaus forgetting-curve decay, interaction-aware reinforcement, a...
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [TheHPXProject/hpx](https://github.com/TheHPXProject/hpx)
@@ -126,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-09 20:51:57 UTC*
+*Last updated at 2026-07-09 22:37:00 UTC*
 *Historical records are stored in the `archive` directory.*
