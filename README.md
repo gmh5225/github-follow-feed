@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [BlackLabelHQ/RecompOne](https://github.com/BlackLabelHQ/RecompOne)
+  > Playstation 1 Static Recompiler
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui) to [CrackerCat/garlic-gui](https://github.com/CrackerCat/garlic-gui)
   > Garlic Decompiler (GUI) - A modern C++/Qt6 desktop interface for the Garlic Decompiler, bringing bla...
@@ -21,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Pure-Rust Android decompiler and security-audit suite. DEX → Java, Hermes → JavaScript. Cross-layer ...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [chAng-L19/codex-redteam-mode](https://github.com/chAng-L19/codex-redteam-mode) to [CrackerCat/codex-redteam-mode](https://github.com/CrackerCat/codex-redteam-mode)
   > 针对于红队攻击思维做出的red team模式(破限项目，封号概不负责）##可自行适配其他AI
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gammons/slk](https://github.com/gammons/slk)
+  > A blazingly fast Slack TUI
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
@@ -46,6 +54,29 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Dump TGTs remotely and convert Windows' klist binary output to ccache. 
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [parkers0405/neoism](https://github.com/parkers0405/neoism)
   > A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [youssefnoob003/SindriKit](https://github.com/youssefnoob003/SindriKit)
+  > A foundational C library for building operationally credible offensive capabilities
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [forefy/mimic](https://github.com/forefy/mimic)
+  > (STILL.. EDR-evading) Password hash dumper for MacOS
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xCyberstan/CVE-2026-46215-POC](https://github.com/0xCyberstan/CVE-2026-46215-POC)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [runZeroInc/vulns-2026-fatfs-chance](https://github.com/runZeroInc/vulns-2026-fatfs-chance)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kortix-ai/suna](https://github.com/kortix-ai/suna)
+  > The Company AI Command Center
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wolfSSL/wolfip](https://github.com/wolfSSL/wolfip)
+  > Lightweight TCP/IP stack with no dynamic memory allocations
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [netbirdio/netbird](https://github.com/netbirdio/netbird)
+  > Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular acces...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Orange-Cyberdefense/p3-loader](https://github.com/Orange-Cyberdefense/p3-loader)
+  > P³-Shellcode Loader is a loader that implements a code injection technique which leverages the Proce...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [portbuster1337/lpe-toolkit](https://github.com/portbuster1337/lpe-toolkit)
+  > Multi-architecture Linux privilege escalation toolkit with 24 pre-built and runtime-compilable explo...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xchgll/winman](https://github.com/xchgll/winman)
+  > WinMan - An Offline WIN/NT API Documentation
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [reverseame/MARISSA](https://github.com/reverseame/MARISSA)
+  > MessAge foRmat Inference with Similarity digeSt Algorithms
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+  > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [secdev02/EasyTokens](https://github.com/secdev02/EasyTokens)
@@ -56,13 +87,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/toilet-pi](https://github.com/mrexodia/toilet-pi)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter for safety-critical execution
+
 ### [ri-char](https://github.com/ri-char)
 - 🍴 👤 [ri-char](https://github.com/ri-char) Forked [ChanningYuan/usageBar](https://github.com/ChanningYuan/usageBar) to [ri-char/usageBar](https://github.com/ri-char/usageBar)
   > macOS 菜单栏工具，聚合显示多个 AI 编程/Agent工具（Claude Code / Codex / Cursor / Qoder / 悟空/ Workbuddy 等）的 token 用量，全...
-
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
-  > A flight-compliant WebAssembly interpreter for safety-critical execution
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Barre/ZeroFS](https://github.com/Barre/ZeroFS)
@@ -74,5 +105,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-09 15:26:17 UTC*
+*Last updated at 2026-07-09 18:03:20 UTC*
 *Historical records are stored in the `archive` directory.*
