@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [llvm/llvm-project](https://github.com/llvm/llvm-project) to [0xAX/llvm-project](https://github.com/0xAX/llvm-project)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [klaudiagrz/solstice-bingo](https://github.com/klaudiagrz/solstice-bingo)
+  > A browser-based bingo game built around small June rituals from around the world
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter for safety-critical execution
@@ -20,10 +26,35 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llama.cpp](https://github.com/alesha-pro/llama.cpp)
-  > LLM inference in C/C++
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [OpenMOSS/MOSS-Transcribe-Diarize](https://github.com/OpenMOSS/MOSS-Transcribe-Diarize)
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zwclose/realtek-dma](https://github.com/zwclose/realtek-dma)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [zwclose/realtek-dma](https://github.com/zwclose/realtek-dma) to [killvxk/realtek-dma](https://github.com/killvxk/realtek-dma)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wearrrrr/Nari](https://github.com/wearrrrr/Nari)
+  > Nari is a dynamically typed multi-paradigm language featuring a full JIT compiler, and an entire eco...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [heeeyaaaa/vmem-decrypt](https://github.com/heeeyaaaa/vmem-decrypt)
+  > Decrypt VMware vTPM-encrypted .vmem/.vmsn/.vmss/.nvram from the VM password, and flatten the .vmem t...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by VEGA. 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cellebrite-labs/ida_kernelcache](https://github.com/cellebrite-labs/ida_kernelcache)
+  > An IDA Toolkit for analyzing iOS kernelcaches.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rcarmo/pve-microvm](https://github.com/rcarmo/pve-microvm)
+  > Firecracker-like microVMs for Proxmox VE — KVM isolation, under 200 ms boot.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jaf0rk/CVE-2026-14382](https://github.com/jaf0rk/CVE-2026-14382)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SpecterOps/Jailbreaker-CE](https://github.com/SpecterOps/Jailbreaker-CE)
+  > Jailbreaker is a local evaluation tool for testing chatbot and agent-style systems against jailbreak...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jakeotte/klist2ccache](https://github.com/jakeotte/klist2ccache)
+  > Dump TGTs remotely and convert Windows' klist binary output to ccache. 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [parkers0405/neoism](https://github.com/parkers0405/neoism)
+  > A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown ...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [secdev02/EasyTokens](https://github.com/secdev02/EasyTokens)
+  > Kali365 - EvilTokens Replica
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [secdev02/MSBuild-Monsters](https://github.com/secdev02/MSBuild-Monsters)
+  > Experimentations with the MSBuild Capabilites in a default environment.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mrexodia/toilet-pi](https://github.com/mrexodia/toilet-pi)
 
 ### [ri-char](https://github.com/ri-char)
 - 🍴 👤 [ri-char](https://github.com/ri-char) Forked [ChanningYuan/usageBar](https://github.com/ChanningYuan/usageBar) to [ri-char/usageBar](https://github.com/ri-char/usageBar)
@@ -43,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-09 11:18:04 UTC*
+*Last updated at 2026-07-09 15:26:17 UTC*
 *Historical records are stored in the `archive` directory.*
