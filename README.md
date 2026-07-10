@@ -8,6 +8,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [xemonix0/Cherry-Doom](https://github.com/xemonix0/Cherry-Doom)
   > Cherry Doom is a fork of Nugget Doom with more additional features.
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [bibinocode/rust-frida-shadow-hook](https://github.com/bibinocode/rust-frida-shadow-hook) to [CrackerCat/rust-frida-shadow-hook](https://github.com/CrackerCat/rust-frida-shadow-hook)
+  > 无痕HOOK，for来源rustFrida,修复部分问题
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aprz512/qbdi-android](https://github.com/aprz512/qbdi-android) to [CrackerCat/qbdi-android](https://github.com/CrackerCat/qbdi-android)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [atlas4381/7z-android-bootimg-plugin](https://github.com/atlas4381/7z-android-bootimg-plugin) to [CrackerCat/7z-android-bootimg-plugin](https://github.com/CrackerCat/7z-android-bootimg-plugin)
+  > A 7-Zip plugin that enables decompression of Android boot images
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [marcoesposito1988/dependency_runner](https://github.com/marcoesposito1988/dependency_runner) to [CrackerCat/dependency_runner](https://github.com/CrackerCat/dependency_runner)
+  > ldd for Windows - and more!
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KSwordDEV/KSwordSandbox](https://github.com/KSwordDEV/KSwordSandbox) to [CrackerCat/KSwordSandbox](https://github.com/CrackerCat/KSwordSandbox)
+  > Windows sandbox to analyze virus automatically
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KSwordDEV/Plugins](https://github.com/KSwordDEV/Plugins) to [CrackerCat/KSwordPlugins](https://github.com/CrackerCat/KSwordPlugins)
+  > KSword plugin marketplace catalog and distributable plugins
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JustVugg/colibri](https://github.com/JustVugg/colibri) to [CrackerCat/colibri](https://github.com/CrackerCat/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) to [CrackerCat/DesktopCommanderMCP](https://github.com/CrackerCat/DesktopCommanderMCP)
+  > This is MCP server for Claude that gives it terminal control, file system search and diff file editi...
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [keowu/rust_ida_analyzer](https://github.com/keowu/rust_ida_analyzer)
   > A simple plugin for IDA Pro 9+ focused on reverse engineering Rust binaries in PE and ELF. The proje...
@@ -23,6 +40,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Fully local vulnerability research pipeline — 14B code-specialized LLM reviews every source file exh...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [majidmanzarpour/threejs-procedural-dungeon](https://github.com/majidmanzarpour/threejs-procedural-dungeon) to [classic130/threejs-procedural-dungeon](https://github.com/classic130/threejs-procedural-dungeon)
   > Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [SeloSlav/city-builder-starter-kit-threejs](https://github.com/SeloSlav/city-builder-starter-kit-threejs) to [classic130/city-builder-starter-kit-threejs](https://github.com/classic130/city-builder-starter-kit-threejs)
+  > Client-side Three.js sandbox for organic medieval dirt roads with curved placement, PBR ground blend...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio)
+  > Asio C++ Library
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
@@ -31,6 +54,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [uf-hy/cpa-plugin-codexcomp](https://github.com/uf-hy/cpa-plugin-codexcomp) to [hzqst/cpa-plugin-codexcomp](https://github.com/hzqst/cpa-plugin-codexcomp)
   > CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encryp...
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [liujuntao123/prompt-manager](https://github.com/liujuntao123/prompt-manager) to [hzqst/prompt-manager](https://github.com/hzqst/prompt-manager)
+  > 一个简洁、美观、实用的提示词管理网站。
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
@@ -48,7 +73,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
   > Write HTML. Render video. Built for agents.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)
+
 
 ---
-*Last updated at 2026-07-10 12:03:58 UTC*
+*Last updated at 2026-07-10 15:35:31 UTC*
 *Historical records are stored in the `archive` directory.*
