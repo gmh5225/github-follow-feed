@@ -45,7 +45,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [majidmanzarpour/threejs-procedural-dungeon](https://github.com/majidmanzarpour/threejs-procedural-dungeon) to [classic130/threejs-procedural-dungeon](https://github.com/classic130/threejs-procedural-dungeon)
   > Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [SeloSlav/city-builder-starter-kit-threejs](https://github.com/SeloSlav/city-builder-starter-kit-threejs) to [classic130/city-builder-starter-kit-threejs](https://github.com/classic130/city-builder-starter-kit-threejs)
-  > Client-side Three.js sandbox for organic medieval dirt roads with curved placement, PBR ground blend...
+  > Three.js medieval settlement builder: curved dirt roads with PBR blending, bridges, and junctions on...
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio)
@@ -65,11 +65,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [liujuntao123/prompt-manager](https://github.com/liujuntao123/prompt-manager) to [hzqst/prompt-manager](https://github.com/hzqst/prompt-manager)
   > 一个简洁、美观、实用的提示词管理网站。
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [dicroce/wyrm_math](https://github.com/dicroce/wyrm_math)
+  > Algebra engine.
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
   > Skills for Design Engineers.
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [davidondrej/skills](https://github.com/davidondrej/skills)
   > access to david ondrej's personal agent skills
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [danoon2/Boxedwine](https://github.com/danoon2/Boxedwine)
+  > Emulator that can run 32-bit Windows programs/games on multiple platforms via Wine
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [octocash-eth/octocash](https://github.com/octocash-eth/octocash)
@@ -81,10 +89,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
   > Write HTML. Render video. Built for agents.
 
+### [rnk](https://github.com/rnk)
+- 🍴 👤 [rnk](https://github.com/rnk) Forked [pradyunsg/furo](https://github.com/pradyunsg/furo) to [rnk/furo](https://github.com/rnk/furo)
+  > A clean customizable documentation theme for Sphinx
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [123-code/cnn_chip](https://github.com/123-code/cnn_chip)
+  > A tiny Verilog CNN accelerator for the Tang Nano 20K. Features INT8 quantized weights, a streaming M...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [123-code/gpu_design](https://github.com/123-code/gpu_design)
+  > A from-scratch GPU stack: custom SIMT hardware in Verilog → a 16-bit ISA + assembler → J++, a small ...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [harishsg993010/mini-gpu](https://github.com/harishsg993010/mini-gpu)
+  > A GPU built from scratch which can render graphics and train ML models
+
 
 ---
-*Last updated at 2026-07-10 19:42:59 UTC*
+*Last updated at 2026-07-10 21:12:38 UTC*
 *Historical records are stored in the `archive` directory.*
