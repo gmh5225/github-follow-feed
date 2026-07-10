@@ -4,9 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [xemonix0/Cherry-Doom](https://github.com/xemonix0/Cherry-Doom)
-  > Cherry Doom is a fork of Nugget Doom with more additional features.
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
+  > A flight-compliant WebAssembly interpreter
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [bibinocode/rust-frida-shadow-hook](https://github.com/bibinocode/rust-frida-shadow-hook) to [CrackerCat/rust-frida-shadow-hook](https://github.com/CrackerCat/rust-frida-shadow-hook)
@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [keowu/rust_ida_analyzer](https://github.com/keowu/rust_ida_analyzer)
   > A simple plugin for IDA Pro 9+ focused on reverse engineering Rust binaries in PE and ELF. The proje...
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [weaviate/weaviate](https://github.com/weaviate/weaviate)
+  > Weaviate is an open-source vector database that stores both objects and vectors, allowing for the co...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Corgea/Sighthound](https://github.com/Corgea/Sighthound)
   > Corgea's rule-based SAST scanner
@@ -50,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [nasa/spacewasm](https://github.com/nasa/spacewasm)
   > A flight-compliant WebAssembly interpreter
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
+  > Hydra is a framework for elegantly configuring complex applications
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [uf-hy/cpa-plugin-codexcomp](https://github.com/uf-hy/cpa-plugin-codexcomp) to [hzqst/cpa-plugin-codexcomp](https://github.com/hzqst/cpa-plugin-codexcomp)
@@ -78,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-10 17:51:51 UTC*
+*Last updated at 2026-07-10 19:42:59 UTC*
 *Historical records are stored in the `archive` directory.*
