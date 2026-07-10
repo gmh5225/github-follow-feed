@@ -47,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [SeloSlav/city-builder-starter-kit-threejs](https://github.com/SeloSlav/city-builder-starter-kit-threejs) to [classic130/city-builder-starter-kit-threejs](https://github.com/classic130/city-builder-starter-kit-threejs)
   > Three.js medieval settlement builder: curved dirt roads with PBR blending, bridges, and junctions on...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [wevm/incur](https://github.com/wevm/incur)
+  > CLI framework for agents and humans
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio)
   > Asio C++ Library
@@ -74,6 +78,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Skills for Design Engineers.
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [davidondrej/skills](https://github.com/davidondrej/skills)
   > access to david ondrej's personal agent skills
+
+### [minaminao](https://github.com/minaminao)
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [sarulab-speech/DuplexChat](https://github.com/sarulab-speech/DuplexChat)
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [danoon2/Boxedwine](https://github.com/danoon2/Boxedwine)
@@ -106,5 +113,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-10 21:12:38 UTC*
+*Last updated at 2026-07-10 23:04:31 UTC*
 *Historical records are stored in the `archive` directory.*
