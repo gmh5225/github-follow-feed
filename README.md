@@ -10,6 +10,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [meowdiocre/ss-overlay-hook](https://github.com/meowdiocre/ss-overlay-hook) to [CrackerCat/ss-overlay-hook](https://github.com/CrackerCat/ss-overlay-hook)
   > DLL injection + ImGui overlay by hijacking SteelSeries GameOverlay internals.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nyaoouo/idalib-mcp](https://github.com/nyaoouo/idalib-mcp) to [CrackerCat/idalib-mcp](https://github.com/CrackerCat/idalib-mcp)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io) to [CrackerCat/0avx.github.io](https://github.com/CrackerCat/0avx.github.io)
+  > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [extenhive/Redirector](https://github.com/extenhive/Redirector)
@@ -42,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
   > Concurrency library for C (coroutines)
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
+  > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
   > Local-LLM-first agentic coding assistant, with everything you need out of the box.
@@ -60,11 +66,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [kmx00/mangly](https://github.com/kmx00/mangly)
   > mangly, python cli tool/pkg for [de/re]mangling symbol names according to itanium cxx abi
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-Abliterated-Uncensored](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-Abliterated-Uncensored)
+  > DeepSeek V4 Flash DSpark Abliterated (Uncensored) — 2× DGX Spark serving
+
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [Lars-Schumann/sure](https://github.com/Lars-Schumann/sure)
   > Refinement Types in (unstable) Rust
 
 
 ---
-*Last updated at 2026-07-11 11:57:18 UTC*
+*Last updated at 2026-07-11 13:45:25 UTC*
 *Historical records are stored in the `archive` directory.*
