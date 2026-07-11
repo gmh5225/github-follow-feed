@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
   > Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, a...
 
+### [Obsidian200](https://github.com/Obsidian200)
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+  > 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
@@ -102,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-11 20:58:46 UTC*
+*Last updated at 2026-07-11 21:59:46 UTC*
 *Historical records are stored in the `archive` directory.*
