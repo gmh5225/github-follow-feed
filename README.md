@@ -50,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
   > Concurrency library for C (coroutines)
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [msuiche/nanokrnl](https://github.com/msuiche/nanokrnl)
+  > The end of an era
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
   > Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio...
@@ -91,8 +95,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [mandiant/speakeasy](https://github.com/mandiant/speakeasy) to [williballenthin/speakeasy](https://github.com/williballenthin/speakeasy)
   > Windows kernel and user mode emulation.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [hyuunnn/idavim](https://github.com/hyuunnn/idavim)
+  > Vim-style keyboard navigation for IDA Pro
+- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [hyuunnn/idavim](https://github.com/hyuunnn/idavim) to [williballenthin/idavim](https://github.com/williballenthin/idavim)
+  > Vim-style keyboard navigation for IDA Pro
 
 
 ---
-*Last updated at 2026-07-11 19:14:38 UTC*
+*Last updated at 2026-07-11 20:58:46 UTC*
 *Historical records are stored in the `archive` directory.*
