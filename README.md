@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat)
   > ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 
+### [Fare9](https://github.com/Fare9)
+- 🍴 👤 [Fare9](https://github.com/Fare9) Forked [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io) to [Fare9/0avx.github.io](https://github.com/Fare9/0avx.github.io)
+  > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [theteatoast/local-vuln-research-pipeline](https://github.com/theteatoast/local-vuln-research-pipeline)
   > Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exh...
@@ -65,6 +69,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
   > An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [callmemhz/godot-map-builder](https://github.com/callmemhz/godot-map-builder)
+  > TrenchBroom-style brush level editor inside the Godot 4 viewport - draw convex brushes, push/pull fa...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [co-l/openfox](https://github.com/co-l/openfox)
@@ -106,5 +112,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-11 21:59:46 UTC*
+*Last updated at 2026-07-11 23:03:33 UTC*
 *Historical records are stored in the `archive` directory.*
