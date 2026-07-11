@@ -8,7 +8,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/YukiZygisk](https://github.com/Anatdx/YukiZygisk) to [CrackerCat/YukiZygisk](https://github.com/CrackerCat/YukiZygisk)
   > A new kernel-level Zygisk implementation designed to explore better, cleaner, and more flexible ways...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [meowdiocre/ss-overlay-hook](https://github.com/meowdiocre/ss-overlay-hook) to [CrackerCat/ss-overlay-hook](https://github.com/CrackerCat/ss-overlay-hook)
-  > DLL injection + ImGui overlay by hijacking SteelSeries GameOverlay internals.
+  > An steelseries overlay implementation using alternative hooking methods rather than the generic Pres...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nyaoouo/idalib-mcp](https://github.com/nyaoouo/idalib-mcp) to [CrackerCat/idalib-mcp](https://github.com/CrackerCat/idalib-mcp)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0avx/0avx.github.io](https://github.com/0avx/0avx.github.io) to [CrackerCat/0avx.github.io](https://github.com/CrackerCat/0avx.github.io)
   > Technical blog posts on low-level software research, focusing on anti-cheat systems and game securit...
@@ -40,9 +40,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [char](https://github.com/char) Forked [hegeldev/hegel-typescript](https://github.com/hegeldev/hegel-typescript) to [char/hegel-deno](https://github.com/char/hegel-deno)
   > Property-based testing for TypeScript, built on Hypothesis
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [riscv/riscv-arch-test](https://github.com/riscv/riscv-arch-test)
+  > The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to...
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db)
+  > Monorepo containing a machine-readable database of the RISC-V specification and artifact generation ...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
   > Concurrency library for C (coroutines)
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI)
+  > Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)
@@ -70,11 +80,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-Abliterated-Uncensored](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-Abliterated-Uncensored)
   > DeepSeek V4 Flash DSpark Abliterated (Uncensored) — 2× DGX Spark serving
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [Island-Dev-Crew/garnet](https://github.com/Island-Dev-Crew/garnet)
+  > Garnet — Rust rigor. Ruby velocity. One coherent language. A dual-mode, agent-native language platfo...
+
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [Lars-Schumann/sure](https://github.com/Lars-Schumann/sure)
   > Refinement Types in (unstable) Rust
 
+### [williballenthin](https://github.com/williballenthin)
+- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [mandiant/speakeasy](https://github.com/mandiant/speakeasy) to [williballenthin/speakeasy](https://github.com/williballenthin/speakeasy)
+  > Windows kernel and user mode emulation.
+
 
 ---
-*Last updated at 2026-07-11 15:01:40 UTC*
+*Last updated at 2026-07-11 17:04:52 UTC*
 *Historical records are stored in the `archive` directory.*
