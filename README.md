@@ -11,11 +11,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > DLL injection + ImGui overlay by hijacking SteelSeries GameOverlay internals.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nyaoouo/idalib-mcp](https://github.com/nyaoouo/idalib-mcp) to [CrackerCat/idalib-mcp](https://github.com/CrackerCat/idalib-mcp)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [extenhive/Redirector](https://github.com/extenhive/Redirector)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat)
+  > ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [theteatoast/local-vuln-research-pipeline](https://github.com/theteatoast/local-vuln-research-pipeline)
   > Fully local vulnerability research pipeline - 14B code-specialized LLM reviews every source file exh...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [kunal12203/webify-mcp](https://github.com/kunal12203/webify-mcp)
+  > Adaptive web research MCP skill for AI coding agents. pip install webify-mcp
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks)
+  > tun2socks - powered by gVisor TCP/IP stack
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [kacper-daftcode/vLLM-Moet](https://github.com/kacper-daftcode/vLLM-Moet)
+  > A vLLM patch + hand‑written SM120 SASS kernels: 2‑bit MoE experts + an FP4 "delta" cache that recove...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector)
+  > Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, a...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
@@ -24,10 +37,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🍴 👤 [char](https://github.com/char) Forked [hegeldev/hegel-typescript](https://github.com/hegeldev/hegel-typescript) to [char/hegel-deno](https://github.com/char/hegel-deno)
   > Property-based testing for TypeScript, built on Hypothesis
-
-### [dtcxzyw](https://github.com/dtcxzyw)
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [lowRISC/style-guides](https://github.com/lowRISC/style-guides)
-  > lowRISC Style Guides
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [tidwall/neco](https://github.com/tidwall/neco)
@@ -57,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-11 10:20:23 UTC*
+*Last updated at 2026-07-11 11:57:18 UTC*
 *Historical records are stored in the `archive` directory.*
