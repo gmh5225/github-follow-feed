@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [CR3Swapper](https://github.com/CR3Swapper) Starred [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)
   > The open-source CapCut alternative
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker)
+  > SoftICE-like kernel debugger for Windows 11
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
   > C++ Insights - See your source code with the eyes of a compiler
@@ -100,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-12 20:59:24 UTC*
+*Last updated at 2026-07-12 22:02:08 UTC*
 *Historical records are stored in the `archive` directory.*
