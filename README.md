@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds)
   > Precompiled x64 Qt 5/6 library in minimalistic configuration for Windows.
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [inkandswitch/backstitch](https://github.com/inkandswitch/backstitch)
+  > Backstitch: Real-Time Version Control for Godot
+
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [opencompl/veir](https://github.com/opencompl/veir)
   > Verified Intermediate Representation
@@ -86,11 +90,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [praydog](https://github.com/praydog) Forked [kmx00/mangly-cpp](https://github.com/kmx00/mangly-cpp) to [praydog/mangly-cpp](https://github.com/praydog/mangly-cpp)
   > mangly-cpp, cli tool/cpp header for [de/re]mangling symbol names according to itanium cxx abi 
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [praetorian-inc/caeruleus](https://github.com/praetorian-inc/caeruleus)
+  > Caeruleus is a Bluetooth Low Energy testing toolkit for Linux/BlueZ, implemented as a single Go bina...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides)
   > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
 
 
 ---
-*Last updated at 2026-07-12 19:15:04 UTC*
+*Last updated at 2026-07-12 20:59:24 UTC*
 *Historical records are stored in the `archive` directory.*
