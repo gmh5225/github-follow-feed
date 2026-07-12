@@ -86,7 +86,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [praydog](https://github.com/praydog) Forked [kmx00/mangly-cpp](https://github.com/kmx00/mangly-cpp) to [praydog/mangly-cpp](https://github.com/praydog/mangly-cpp)
   > mangly-cpp, cli tool/cpp header for [de/re]mangling symbol names according to itanium cxx abi 
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [hyuunnn/ida-slides](https://github.com/hyuunnn/ida-slides)
+  > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
+
 
 ---
-*Last updated at 2026-07-12 17:07:27 UTC*
+*Last updated at 2026-07-12 19:15:04 UTC*
 *Historical records are stored in the `archive` directory.*
