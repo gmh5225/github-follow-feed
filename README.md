@@ -21,6 +21,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Wren6991/RISCBoy](https://github.com/Wren6991/RISCBoy)
   > Portable games console, designed from scratch: CPU, graphics, PCB, and the kitchen sink
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [realcathode/elf-loader](https://github.com/realcathode/elf-loader)
@@ -29,6 +31,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [eooce/node-ws](https://github.com/eooce/node-ws)
   > 基于serverless实现的vless+trojan+shadowsocks+vmess四协议，无内核，node环境通用项目，支持一键安装包：npm i @eooce/nodews
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown)
+  > Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
 
 ### [Obsidian200](https://github.com/Obsidian200)
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds)
@@ -68,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-12 13:42:58 UTC*
+*Last updated at 2026-07-12 15:03:52 UTC*
 *Historical records are stored in the `archive` directory.*
