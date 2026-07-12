@@ -46,6 +46,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [dword64](https://github.com/dword64) Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [dword64/Vencord](https://github.com/dword64/Vencord)
   > The cutest Discord modification
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Nmzik/KytyPS5](https://github.com/Nmzik/KytyPS5)
+  > PlayStation 5 emulator for Windows
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [luxonis/oak-hardware](https://github.com/luxonis/oak-hardware)
+  > Open Source OAK Hardware designs in Altium
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [i2Nav-WHU/i2Nav-Robot](https://github.com/i2Nav-WHU/i2Nav-Robot)
+  > A Large-Scale Indoor-Outdoor Robot Dataset for Multi-Sensor Fusion Navigation and Mapping
+
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
   > Open source implementation of Apple's SwiftUI.
@@ -66,11 +78,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
   > 🤖 WebMCP
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kernullist/KnWin32ApiMonitor](https://github.com/kernullist/KnWin32ApiMonitor)
+  > Modern Win32 API monitor for Windows security, reverse engineering, debugging, and anti-cheat resear...
+
 ### [praydog](https://github.com/praydog)
 - 🍴 👤 [praydog](https://github.com/praydog) Forked [kmx00/mangly-cpp](https://github.com/kmx00/mangly-cpp) to [praydog/mangly-cpp](https://github.com/praydog/mangly-cpp)
   > mangly-cpp, cli tool/cpp header for [de/re]mangling symbol names according to itanium cxx abi 
 
 
 ---
-*Last updated at 2026-07-12 15:03:52 UTC*
+*Last updated at 2026-07-12 17:07:27 UTC*
 *Historical records are stored in the `archive` directory.*
