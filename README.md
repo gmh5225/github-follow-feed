@@ -15,10 +15,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wesmar/EfiTool](https://github.com/wesmar/EfiTool) to [CrackerCat/EfiTool](https://github.com/CrackerCat/EfiTool)
   > 0/68 VirusTotal. NT AUTHORITY\SYSTEM before the logon screen. No disk writes. No kernel driver. No P...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [shurikgo/cve-2026-25262-sm8450-research](https://github.com/shurikgo/cve-2026-25262-sm8450-research) to [CrackerCat/cve-2026-25262-sm8450-research](https://github.com/CrackerCat/cve-2026-25262-sm8450-research)
+  > CVE-2026-25262 applicability to Snapdragon 8 Gen 1 — experimental results
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Wren6991/RISCBoy](https://github.com/Wren6991/RISCBoy)
+  > Portable games console, designed from scratch: CPU, graphics, PCB, and the kitchen sink
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [realcathode/elf-loader](https://github.com/realcathode/elf-loader)
   > A 64-bit ELF loader in C to avoid use of execve. Supports loading and executing statically linked no...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [eooce/node-ws](https://github.com/eooce/node-ws)
+  > 基于serverless实现的vless+trojan+shadowsocks+vmess四协议，无内核，node环境通用项目，支持一键安装包：npm i @eooce/nodews
 
 ### [Obsidian200](https://github.com/Obsidian200)
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [martinrotter/qt-minimalistic-builds](https://github.com/martinrotter/qt-minimalistic-builds)
@@ -28,9 +38,29 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [opencompl/veir](https://github.com/opencompl/veir)
   > Verified Intermediate Representation
 
+### [dword64](https://github.com/dword64)
+- 🍴 👤 [dword64](https://github.com/dword64) Forked [Vendicated/Vencord](https://github.com/Vendicated/Vencord) to [dword64/Vencord](https://github.com/dword64/Vencord)
+  > The cutest Discord modification
+
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
+  > Open source implementation of Apple's SwiftUI.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Nmzik/KytyPS5](https://github.com/Nmzik/KytyPS5)
+  > PlayStation 5 emulator for Windows
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
+  > 🤖 WebMCP
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [danveloper/flash-pi-dsv4](https://github.com/danveloper/flash-pi-dsv4)
+  > DeepSeek-V4-Flash on a Raspberry Pi 5 (8GB)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
+  > 🤖 WebMCP
 
 ### [praydog](https://github.com/praydog)
 - 🍴 👤 [praydog](https://github.com/praydog) Forked [kmx00/mangly-cpp](https://github.com/kmx00/mangly-cpp) to [praydog/mangly-cpp](https://github.com/praydog/mangly-cpp)
@@ -38,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-12 11:16:48 UTC*
+*Last updated at 2026-07-12 13:42:58 UTC*
 *Historical records are stored in the `archive` directory.*
