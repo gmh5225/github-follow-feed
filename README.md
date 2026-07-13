@@ -57,6 +57,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Present live reverse-engineering with Marp/Slidev decks docked inside IDA Pro
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [caprinux/rel-fuscate](https://github.com/caprinux/rel-fuscate)
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [foundry-rs/foundryup](https://github.com/foundry-rs/foundryup)
@@ -66,7 +68,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
 
 ---
-*Last updated at 2026-07-13 18:00:26 UTC*
+*Last updated at 2026-07-13 20:18:58 UTC*
 *Historical records are stored in the `archive` directory.*
