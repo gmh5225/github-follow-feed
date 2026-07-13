@@ -35,6 +35,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [alloy-rs/evm2](https://github.com/alloy-rs/evm2)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin)
+  > Manage your macOS using Nix
 
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🍴 👤 [dtcxzyw](https://github.com/dtcxzyw) Forked [compiler-explorer/infra](https://github.com/compiler-explorer/infra) to [dtcxzyw/infra](https://github.com/dtcxzyw/infra)
@@ -59,14 +61,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A novel obfuscation technique for ELF programs by abusing symbol resolution metadata to break disass...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xp987/symbridge](https://github.com/xp987/symbridge)
+  > Live IDA ↔ x64dbg annotation and type synchronization bridge
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [foundry-rs/foundryup](https://github.com/foundry-rs/foundryup)
   > Foundry toolchain manager
 
+### [peperunas](https://github.com/peperunas)
+- 🍴 👤 [peperunas](https://github.com/peperunas) Forked [Le0Michine/FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) to [peperunas/FusionGridfinityGenerator](https://github.com/peperunas/FusionGridfinityGenerator)
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [HacktronAI/tools](https://github.com/HacktronAI/tools)
+  > Tool schemas each model family uses.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle)
   > CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945075-4k
+
+### [void-stack](https://github.com/void-stack)
+- 🍴 👤 [void-stack](https://github.com/void-stack) Forked [Washi1337/Echo](https://github.com/Washi1337/Echo) to [void-stack/Echo](https://github.com/void-stack/Echo)
+  > Generic static analysis framework.
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
@@ -74,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-13 20:18:58 UTC*
+*Last updated at 2026-07-13 22:01:13 UTC*
 *Historical records are stored in the `archive` directory.*
