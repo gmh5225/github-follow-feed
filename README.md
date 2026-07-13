@@ -26,6 +26,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ratatui/ratatui](https://github.com/ratatui/ratatui)
   > A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [floodtide/dom-docx](https://github.com/floodtide/dom-docx)
+  > Convert semantic HTML fragments to native, editable Word documents (OOXML)
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) to [classic130/CVE-2026-43499-popsicle](https://github.com/classic130/CVE-2026-43499-popsicle)
@@ -33,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [alloy-rs/evm2](https://github.com/alloy-rs/evm2)
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🍴 👤 [dtcxzyw](https://github.com/dtcxzyw) Forked [compiler-explorer/infra](https://github.com/compiler-explorer/infra) to [dtcxzyw/infra](https://github.com/dtcxzyw/infra)
+  > Infrastructure to set up the public Compiler Explorer instances and compilers
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [giacomocavalieri/squirrel](https://github.com/giacomocavalieri/squirrel)
@@ -62,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-13 15:45:19 UTC*
+*Last updated at 2026-07-13 18:00:26 UTC*
 *Historical records are stored in the `archive` directory.*
