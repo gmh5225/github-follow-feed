@@ -8,6 +8,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KSwordDEV/KswordFrame](https://github.com/KSwordDEV/KswordFrame) to [CrackerCat/KswordFrame](https://github.com/CrackerCat/KswordFrame)
   > Windows C++ GUI Work Frame
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🚀 👤 [JoasASantos](https://github.com/JoasASantos) Made [Red-Team-Leaders/RTL-Labs](https://github.com/Red-Team-Leaders/RTL-Labs) public
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb)
   > YouTrackDB is a general-use object-oriented graph database with storage format native to handle grap...
@@ -18,6 +21,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Astharot15/COMLoaderAstharot](https://github.com/Astharot15/COMLoaderAstharot) to [classic130/COMLoaderAstharot](https://github.com/classic130/COMLoaderAstharot)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [0xflux/Hells-Hollow](https://github.com/0xflux/Hells-Hollow) to [classic130/Hells-Hollow](https://github.com/classic130/Hells-Hollow)
   > Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/rctf](https://github.com/otter-sec/rctf)
+  > A CTF platform for all
+
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) to [funkemunky/element-x-ios](https://github.com/funkemunky/element-x-ios)
+  > Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
@@ -37,6 +48,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm)
   > muvm - run programs from your system in a microVM
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pcaversaccio/tornado-governance-lock](https://github.com/pcaversaccio/tornado-governance-lock)
+  > A terminal Tornado Cash governance proposal.
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [0x4D31/endpoint-ai-agent-abuse](https://github.com/0x4D31/endpoint-ai-agent-abuse)
+  > EAA is a curated catalog of techniques and real-world cases involving abuse of local AI agents throu...
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/kraken-api](https://github.com/sieblyio/kraken-api) to [cryptobutler/kraken-api](https://github.com/cryptobutler/kraken-api)
   > Complete Node.js & JavaScript SDK for Kraken's REST APIs & WebSockets, with TypeScript & browser sup...
@@ -49,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-14 14:00:58 UTC*
+*Last updated at 2026-07-14 16:20:40 UTC*
 *Historical records are stored in the `archive` directory.*
