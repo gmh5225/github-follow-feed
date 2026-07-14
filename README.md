@@ -11,6 +11,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JetBrains/youtrackdb](https://github.com/JetBrains/youtrackdb)
   > YouTrackDB is a general-use object-oriented graph database with storage format native to handle grap...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okalachev/flix](https://github.com/okalachev/flix)
+  > Making an ESP32-based quadcopter from scratch
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Astharot15/COMLoaderAstharot](https://github.com/Astharot15/COMLoaderAstharot) to [classic130/COMLoaderAstharot](https://github.com/classic130/COMLoaderAstharot)
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
@@ -32,5 +37,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-14 09:09:33 UTC*
+*Last updated at 2026-07-14 11:36:34 UTC*
 *Historical records are stored in the `archive` directory.*
