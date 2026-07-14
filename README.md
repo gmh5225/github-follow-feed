@@ -4,6 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [19h/certrax](https://github.com/19h/certrax)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [verus-lang/verus](https://github.com/verus-lang/verus)
+  > Verified Rust for low-level systems code
+
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Dicklesworthstone/atp](https://github.com/Dicklesworthstone/atp)
+  > atp — fountain-coded file transfer (RaptorQ over UDP/QUIC) that outruns tuned rsync on real networks...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ssteelfactor-oss/Kestrel](https://github.com/ssteelfactor-oss/Kestrel)
 
@@ -63,6 +72,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xp987/symbridge](https://github.com/xp987/symbridge)
   > Live IDA ↔ x64dbg annotation and type synchronization bridge
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xp987/symbridge](https://github.com/xp987/symbridge) to [mrexodia/symbridge](https://github.com/mrexodia/symbridge)
+  > Live IDA ↔ x64dbg annotation and type synchronization bridge
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thomasunise/visionbridge](https://github.com/thomasunise/visionbridge)
+  > Give text-only LLMs vision. A tiny OpenAI-compatible proxy that lets reasoning models (DeepSeek, Qwe...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [foundry-rs/foundryup](https://github.com/foundry-rs/foundryup)
@@ -89,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-13 22:01:13 UTC*
+*Last updated at 2026-07-13 23:58:07 UTC*
 *Historical records are stored in the `archive` directory.*
