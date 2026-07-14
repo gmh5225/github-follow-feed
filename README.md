@@ -12,7 +12,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [marcelpanse/youtube-guitar-tab-parser](https://github.com/marcelpanse/youtube-guitar-tab-parser)
   > CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [par274/sharpemu](https://github.com/par274/sharpemu)
+  > An experimental PlayStation 5 emulator project.
+
 
 ---
-*Last updated at 2026-07-14 03:22:42 UTC*
+*Last updated at 2026-07-14 06:18:17 UTC*
 *Historical records are stored in the `archive` directory.*
