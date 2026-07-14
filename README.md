@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KSwordDEV/KswordFrame](https://github.com/KSwordDEV/KswordFrame) to [CrackerCat/KswordFrame](https://github.com/CrackerCat/KswordFrame)
   > Windows C++ GUI Work Frame
@@ -27,7 +30,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/rctf](https://github.com/otter-sec/rctf)
-  > A CTF platform for all
+  > rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) to [funkemunky/element-x-ios](https://github.com/funkemunky/element-x-ios)
@@ -61,6 +64,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pcaversaccio/tornado-governance-lock](https://github.com/pcaversaccio/tornado-governance-lock)
   > A terminal Tornado Cash governance proposal.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Austin-Williams/cid-accumulator-monorepo](https://github.com/Austin-Williams/cid-accumulator-monorepo)
+  > Trustless, decentralized CID accumulator for smart contracts —append, verify, and retrieve all your ...
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [GaloisInc/reopt](https://github.com/GaloisInc/reopt)
+  > A tool for analyzing x86-64 binaries.
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [columbia/egalito](https://github.com/columbia/egalito)
+  > Self-hosting binary instrumentation framework for security research
 
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/ready-for-datasette](https://github.com/datasette/ready-for-datasette) public
@@ -82,5 +93,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-14 18:09:36 UTC*
+*Last updated at 2026-07-14 20:18:01 UTC*
 *Historical records are stored in the `archive` directory.*
