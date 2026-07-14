@@ -17,6 +17,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okalachev/flix](https://github.com/okalachev/flix)
   > Making an ESP32-based quadcopter from scratch
 
+### [can1357](https://github.com/can1357)
+- 🌟 👤 [can1357](https://github.com/can1357) Starred [watzon/semantouch](https://github.com/watzon/semantouch)
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Astharot15/COMLoaderAstharot](https://github.com/Astharot15/COMLoaderAstharot) to [classic130/COMLoaderAstharot](https://github.com/classic130/COMLoaderAstharot)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [0xflux/Hells-Hollow](https://github.com/0xflux/Hells-Hollow) to [classic130/Hells-Hollow](https://github.com/classic130/Hells-Hollow)
@@ -52,9 +55,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pcaversaccio/tornado-governance-lock](https://github.com/pcaversaccio/tornado-governance-lock)
   > A terminal Tornado Cash governance proposal.
+
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/ready-for-datasette](https://github.com/datasette/ready-for-datasette) public
+  > Tracking which Datasette plugins are ready for Datasette 1.0
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [0x4D31/endpoint-ai-agent-abuse](https://github.com/0x4D31/endpoint-ai-agent-abuse)
@@ -72,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-14 16:20:40 UTC*
+*Last updated at 2026-07-14 18:09:36 UTC*
 *Historical records are stored in the `archive` directory.*
