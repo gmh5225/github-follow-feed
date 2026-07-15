@@ -48,6 +48,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > jjui is a TUI designed for interacting with the Jujutsu version control system.
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
   > Framework for evaluating and improving agents 
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [folke/trouble.nvim](https://github.com/folke/trouble.nvim)
+  > 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve ...
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [wagiminator/CH32X035-USB-PD-Adapter](https://github.com/wagiminator/CH32X035-USB-PD-Adapter)
@@ -68,6 +70,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Tri...
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [badlogic/sitegeist](https://github.com/badlogic/sitegeist)
   > An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [badlogic/pi-skills](https://github.com/badlogic/pi-skills)
+  > Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
@@ -89,8 +93,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [toneillcodes/UnwindRaven](https://github.com/toneillcodes/UnwindRaven)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xjbb/cet-spoofing-detection](https://github.com/0xjbb/cet-spoofing-detection)
   > Stack spoofing Detection for CET processes by comparing shadow and user stacks.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Sizeable-Bingus/BingusLdr](https://github.com/Sizeable-Bingus/BingusLdr)
+  > BingusLdr is a DLL loader built with Crystal Palace that uses a CET compatible stack spoofing techni...
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [LLVMParty/loki](https://github.com/LLVMParty/loki)
+  > [Fork] Hardening code obfuscation against automated attacks
+
+### [shogunlab](https://github.com/shogunlab)
+- 🌟 👤 [shogunlab](https://github.com/shogunlab) Starred [winterknife/SILVERPICK](https://github.com/winterknife/SILVERPICK)
+  > Windows User-Mode Shellcode Development Framework (WUMSDF)
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 
 ---
-*Last updated at 2026-07-15 21:07:30 UTC*
+*Last updated at 2026-07-15 23:03:07 UTC*
 *Historical records are stored in the `archive` directory.*
