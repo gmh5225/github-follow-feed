@@ -43,13 +43,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [google/GNM](https://github.com/google/GNM)
-  > GNM is a state-of-the-art parametric 3D statistical model of the human face and head, learned from a...
+  > An open ecosystem of parametric human models and perception stacks, starting with GNM Head.
 
 ### [khang06](https://github.com/khang06)
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [cemu-project/ida_game_elf_loaders](https://github.com/cemu-project/ida_game_elf_loaders) to [khang06/ida_game_elf_loaders](https://github.com/khang06/ida_game_elf_loaders)
   > A collection of IDA loaders for various game console ELF's.
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) to [khang06/dolphin](https://github.com/khang06/dolphin)
   > Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with ...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [0xSero/turboquant](https://github.com/0xSero/turboquant)
+  > TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Tri...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy)
@@ -65,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-15 15:40:57 UTC*
+*Last updated at 2026-07-15 17:23:56 UTC*
 *Historical records are stored in the `archive` directory.*
