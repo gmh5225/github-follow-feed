@@ -11,16 +11,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [mahmoudimus/ida-sigmaker](https://github.com/mahmoudimus/ida-sigmaker)
   > sigmaker is a zero-dependency IDA Pro 9.0+ cross-platform signature maker plugin with optional SIMD ...
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [MSNightmare/LegacyHive](https://github.com/MSNightmare/LegacyHive)
+  > N/A
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [MemPalace/mempalace](https://github.com/MemPalace/mempalace)
   > The best-benchmarked open-source AI memory system. And it's free.
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
   > agent multiplexer that lives in your terminal.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [clawkwork/clawk](https://github.com/clawkwork/clawk)
-  > Disposable, network-restricted Linux VMs for AI coding agents
+  > Give coding agents a disposable Linux VM, not your laptop
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing) to [classic130/DetectTpmSpoofing](https://github.com/classic130/DetectTpmSpoofing)
@@ -29,11 +35,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [element-hq/synapse](https://github.com/element-hq/synapse)
   > Synapse: Matrix homeserver written in Python/Twisted + Rust
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [wagiminator/CH32X035-USB-PD-Adapter](https://github.com/wagiminator/CH32X035-USB-PD-Adapter)
+  > Portable Programmable Power Supply
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [google/GNM](https://github.com/google/GNM)
+  > GNM is a state-of-the-art parametric 3D statistical model of the human face and head, learned from a...
+
 ### [khang06](https://github.com/khang06)
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [cemu-project/ida_game_elf_loaders](https://github.com/cemu-project/ida_game_elf_loaders) to [khang06/ida_game_elf_loaders](https://github.com/khang06/ida_game_elf_loaders)
   > A collection of IDA loaders for various game console ELF's.
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) to [khang06/dolphin](https://github.com/khang06/dolphin)
   > Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with ...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy)
+  > Official implementation of ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Marisa-Chan/GhidrOrean](https://github.com/Marisa-Chan/GhidrOrean)
+  > Ghidra Oreans DeVirt
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [xxFURYWOLFxx/veh-dumper](https://github.com/xxFURYWOLFxx/veh-dumper)
@@ -41,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-15 11:40:16 UTC*
+*Last updated at 2026-07-15 13:57:46 UTC*
 *Historical records are stored in the `archive` directory.*
