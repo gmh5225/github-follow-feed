@@ -87,8 +87,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [toneillcodes/UnwindRaven](https://github.com/toneillcodes/UnwindRaven)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xjbb/cet-spoofing-detection](https://github.com/0xjbb/cet-spoofing-detection)
+  > Stack spoofing Detection for CET processes by comparing shadow and user stacks.
 
 
 ---
-*Last updated at 2026-07-15 19:22:00 UTC*
+*Last updated at 2026-07-15 21:07:30 UTC*
 *Historical records are stored in the `archive` directory.*
