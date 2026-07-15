@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [otter-sec/rctf](https://github.com/otter-sec/rctf)
   > rCTF is a platform for hosting cybersecurity capture-the-flag competitions.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ChapzoMods/NinjaDBG](https://github.com/ChapzoMods/NinjaDBG)
+  > NinjaDBG v1.1.4 - Stealth-Aware Native Debugger | x64dbg-like features (modules, handles, dump, find...
+
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [element-hq/element-x-ios](https://github.com/element-hq/element-x-ios) to [funkemunky/element-x-ios](https://github.com/funkemunky/element-x-ios)
   > Next generation Matrix client for iOS built with SwiftUI on top of matrix-rust-sdk.
@@ -57,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset) to [mrexodia/crackmes-re-dataset](https://github.com/mrexodia/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [videlalvaro/leet-llm](https://github.com/videlalvaro/leet-llm)
+  > A hands-on Swift and Metal course for building LLM inference from first principles on Apple silicon,...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
@@ -96,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-14 22:04:08 UTC*
+*Last updated at 2026-07-14 23:57:56 UTC*
 *Historical records are stored in the `archive` directory.*
