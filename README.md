@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [cool-japan/oxiz](https://github.com/cool-japan/oxiz)
+  > OxiZ is a high-performance Satisfiability Modulo Theories (SMT) solver written entirely in Rust. Thi...
+
 ### [Coldzer0](https://github.com/Coldzer0)
 - 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
   > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
@@ -37,6 +41,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [dcbuild3r](https://github.com/dcbuild3r) Forked [kenn-io/msgvault](https://github.com/kenn-io/msgvault) to [dcbuild3r/msgvault](https://github.com/dcbuild3r/msgvault)
   > Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gsamokovarov/jump](https://github.com/gsamokovarov/jump)
+  > Jump helps you navigate faster by learning your habits. ✌️
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [idursun/jjui](https://github.com/idursun/jjui)
+  > jjui is a TUI designed for interacting with the Jujutsu version control system.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [harbor-framework/harbor](https://github.com/harbor-framework/harbor)
+  > Framework for evaluating and improving agents 
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [wagiminator/CH32X035-USB-PD-Adapter](https://github.com/wagiminator/CH32X035-USB-PD-Adapter)
   > Portable Programmable Power Supply
@@ -54,6 +66,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [0xSero/turboquant](https://github.com/0xSero/turboquant)
   > TurboQuant: Near-optimal KV cache quantization for LLM inference (3-bit keys, 2-bit values) with Tri...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [badlogic/sitegeist](https://github.com/badlogic/sitegeist)
+  > An AI assistant that lives in your browser. Built for collaboration, not autonomy theater. You guide...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nv-tlabs/ardy](https://github.com/nv-tlabs/ardy)
@@ -67,7 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [xxFURYWOLFxx/veh-dumper](https://github.com/xxFURYWOLFxx/veh-dumper)
   > Surgical x64 VEH/VCH dumper. Walks the vectored exception handler list, extracts each handler as a s...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [toneillcodes/UnwindRaven](https://github.com/toneillcodes/UnwindRaven)
+
 
 ---
-*Last updated at 2026-07-15 17:23:56 UTC*
+*Last updated at 2026-07-15 19:22:00 UTC*
 *Historical records are stored in the `archive` directory.*
