@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [floooh/chips](https://github.com/floooh/chips)
   > 8-bit chip and system emulators in standalone C headers
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [praetorian-inc/titus](https://github.com/praetorian-inc/titus)
+  > High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 d...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xai-org/grok-build](https://github.com/xai-org/grok-build) to [CrackerCat/grok-build](https://github.com/CrackerCat/grok-build)
@@ -73,6 +75,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol)
   > Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a sing...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MisterY52/apex_dma_kvm_pub](https://github.com/MisterY52/apex_dma_kvm_pub)
+  > Apex Legends QEMU/KVM hack
 
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [shibadogcap/dpgk](https://github.com/shibadogcap/dpgk)
@@ -105,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-16 16:22:52 UTC*
+*Last updated at 2026-07-16 18:11:30 UTC*
 *Historical records are stored in the `archive` directory.*
