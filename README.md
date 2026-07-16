@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xai-org/grok-build](https://github.com/xai-org/grok-build) to [CrackerCat/grok-build](https://github.com/CrackerCat/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [utkusen/sast-skills](https://github.com/utkusen/sast-skills)
   > Collection of agent skills that turn your AI coder into a SAST scanner
@@ -44,8 +48,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [NVIDIA-NeMo/Curator](https://github.com/NVIDIA-NeMo/Curator)
   > Scalable data pre processing and curation toolkit for LLMs
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol)
+  > Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a sing...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+  > Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/solidity-examples](https://github.com/ethereum/solidity-examples)
+  > Loose collection of Solidity example code
 
 ### [praeclarum](https://github.com/praeclarum)
 - 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
@@ -63,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-16 09:20:05 UTC*
+*Last updated at 2026-07-16 11:45:38 UTC*
 *Historical records are stored in the `archive` directory.*
