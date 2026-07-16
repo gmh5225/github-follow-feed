@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CR3Swapper](https://github.com/CR3Swapper)
+- 🚀 👤 [CR3Swapper](https://github.com/CR3Swapper) Made [backengineering/regalloc3-bug](https://github.com/backengineering/regalloc3-bug) public
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [floooh/chips](https://github.com/floooh/chips)
   > 8-bit chip and system emulators in standalone C headers
@@ -23,6 +26,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AgentGuard: Zero-Trust Security Foundation for AI Agents
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openclaw/shellbench](https://github.com/openclaw/shellbench)
   > The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trac...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
+  > Codex Dream Skin
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
@@ -109,5 +114,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-16 18:11:30 UTC*
+*Last updated at 2026-07-16 20:06:05 UTC*
 *Historical records are stored in the `archive` directory.*
