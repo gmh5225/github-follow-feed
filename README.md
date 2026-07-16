@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [utkusen/sast-skills](https://github.com/utkusen/sast-skills)
   > Collection of agent skills that turn your AI coder into a SAST scanner
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
+  > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ulamai/erdosbench](https://github.com/ulamai/erdosbench)
   > Public ErdosBench smoke test: 14 public-source Erdős-style problems and baseline reports
@@ -31,6 +35,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists se...
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [PiLastDigit/TRIP-workflow](https://github.com/PiLastDigit/TRIP-workflow)
   > Simple & BS-free Dev Workflow for AI Coding Agents
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki)
+  > Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked w...
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice)
@@ -51,7 +57,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom)
   > Real Goroutines for Python 3.13t+ free-threaded.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [spark-arena/sparkrun](https://github.com/spark-arena/sparkrun)
+  > sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark systems
+
 
 ---
-*Last updated at 2026-07-16 06:25:18 UTC*
+*Last updated at 2026-07-16 09:20:05 UTC*
 *Historical records are stored in the `archive` directory.*
