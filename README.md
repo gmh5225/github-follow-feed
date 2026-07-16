@@ -16,6 +16,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from dis...
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [WhitzardAgent/AgentGuard](https://github.com/WhitzardAgent/AgentGuard)
+  > AgentGuard: Zero-Trust Security Foundation for AI Agents
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openclaw/shellbench](https://github.com/openclaw/shellbench)
+  > The agent benchmark that scores the full stack — harness, config, and model — not just the LLM. Trac...
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [xai-org/grok-build](https://github.com/xai-org/grok-build)
   > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -68,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MercuryWorkshop/wisp-protocol](https://github.com/MercuryWorkshop/wisp-protocol)
   > Wisp is a low-overhead, easy to implement protocol for proxying multiple TCP/UDP sockets over a sing...
 
+### [n01e0](https://github.com/n01e0)
+- 🌟 👤 [n01e0](https://github.com/n01e0) Starred [shibadogcap/dpgk](https://github.com/shibadogcap/dpgk)
+  > ドーパミン中毒のガキ専用、問答無用でターミナルを虹色にするやつ
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [weak1337/DetectTpmSpoofing](https://github.com/weak1337/DetectTpmSpoofing)
 
@@ -86,6 +96,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [robertsdotpm/runloom](https://github.com/robertsdotpm/runloom)
   > Real Goroutines for Python 3.13t+ free-threaded.
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [theogbob/WebkitWasm](https://github.com/theogbob/WebkitWasm)
+  > WebKit compiled to WebAssembly: a full browser engine running inside a browser tab, rendering to can...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [spark-arena/sparkrun](https://github.com/spark-arena/sparkrun)
@@ -93,5 +105,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-16 14:09:49 UTC*
+*Last updated at 2026-07-16 16:22:52 UTC*
 *Historical records are stored in the `archive` directory.*
