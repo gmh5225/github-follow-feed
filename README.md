@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [alxndrTL/little-book-rl](https://github.com/alxndrTL/little-book-rl)
+  > The Little Book of Reinforcement Learning
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) to [CrackerCat/ghostlock-oneplus](https://github.com/CrackerCat/ghostlock-oneplus)
   > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
@@ -20,6 +24,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar)
   > Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS...
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [HackUnderway/SearchPhone](https://github.com/HackUnderway/SearchPhone) to [classic130/SearchPhone](https://github.com/classic130/SearchPhone)
+  > Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo) and...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [OWASP/Nettacker](https://github.com/OWASP/Nettacker) to [classic130/Nettacker](https://github.com/classic130/Nettacker)
+  > Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Manageme...
+
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [ammkrn/nanoda_lib](https://github.com/ammkrn/nanoda_lib)
   > Library implementing type inference/checking functionality based on the Lean theorem prover
@@ -32,11 +42,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
   > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
+### [steipete](https://github.com/steipete)
+- 🍴 👤 [steipete](https://github.com/steipete) Forked [Choochmeque/tauri-plugin-notifications](https://github.com/Choochmeque/tauri-plugin-notifications) to [steipete/tauri-plugin-notifications](https://github.com/steipete/tauri-plugin-notifications)
+  > A Tauri v2 plugin for sending notifications on desktop and mobile platforms with support for system ...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
   > Codex Switch & Instruct desktop manager
 
 
 ---
-*Last updated at 2026-07-17 07:22:41 UTC*
+*Last updated at 2026-07-17 10:05:34 UTC*
 *Historical records are stored in the `archive` directory.*
