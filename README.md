@@ -65,10 +65,28 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [majd/ipatool](https://github.com/majd/ipatool)
   > Command-line tool that allows searching and downloading app packages (known as ipa files) from the i...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+  > Become a cracked AI/ML Research Engineer
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
   > 🦊 Firefox in WebAssembly
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [intelseclab/poc-archive](https://github.com/intelseclab/poc-archive)
+  > A structured archive of Proof-of-Concept security research, organized by category with metadata, rep...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Corgea/Sighthound](https://github.com/Corgea/Sighthound)
+  > Corgea's rule-based SAST scanner
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cn0xroot/IFDA](https://github.com/cn0xroot/IFDA)
+  > IoT Firmware Deep Analysis: Automated reverse engineering and vulnerability discovery for IoT firmwa...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dariushoule/x64dbg-automate](https://github.com/dariushoule/x64dbg-automate)
+  > ZMQ and Messagepack Powered Remote Automation Plugin for x64dbg
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Rat5ak/CVE-2026-50343-InstallService-EoP](https://github.com/Rat5ak/CVE-2026-50343-InstallService-EoP)
+  > CVE-2026-50343 InstallService StaticPluginMap EoP - standard user to SYSTEM
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [remmons-r7/rapid7-CVE-2026-15409](https://github.com/remmons-r7/rapid7-CVE-2026-15409)
+  > This repo contains a proof-of-concept exploit for CVE-2026-15409. It establishes non-root remote cod...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MrTiz/CET-Enum-CallStack-Spoofer](https://github.com/MrTiz/CET-Enum-CallStack-Spoofer)
+  > A Proof of Concept demonstrating CET-compliant callstack spoofing in Rust. It leverages Windows Thre...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
@@ -84,6 +102,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
   > FFXIV TTS Plugin
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl)
+  > Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended exampl...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [gcomneno/oop-in-c-lab](https://github.com/gcomneno/oop-in-c-lab)
   > Educational lab showing object-oriented programming patterns in plain C
@@ -95,11 +117,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ApeWorX/ape-sourcify](https://github.com/ApeWorX/ape-sourcify)
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
+  > A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux V...
+
+### [td512](https://github.com/td512)
+- 🌟 👤 [td512](https://github.com/td512) Starred [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)
+  > A free and open source instant messaging and VoIP chat app built for friends, groups, and communitie...
+- 🌟 👤 [td512](https://github.com/td512) Starred [w4/bin](https://github.com/w4/bin)
+  > :wastebasket: a paste bin.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
   > Codex Switch & Instruct desktop manager
 
 
 ---
-*Last updated at 2026-07-17 16:20:27 UTC*
+*Last updated at 2026-07-17 18:11:17 UTC*
 *Historical records are stored in the `archive` directory.*
