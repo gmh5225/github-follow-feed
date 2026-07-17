@@ -131,6 +131,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
   > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [erickong/penecho](https://github.com/erickong/penecho)
+  > Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RenNagasaki/Echokraut](https://github.com/RenNagasaki/Echokraut)
   > A TTS Dalamud Plugin that breaks the silence! For self hosted TTS Services.
@@ -140,6 +144,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > FFXIV Launcher with TTS is a guide to add high-quality Text-to-Speech (TTS) to Final Fantasy XIV usi...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
   > FFXIV TTS Plugin
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers)
+  > A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl)
@@ -172,5 +178,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-17 20:10:41 UTC*
+*Last updated at 2026-07-17 21:59:06 UTC*
 *Historical records are stored in the `archive` directory.*
