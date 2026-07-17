@@ -19,6 +19,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Surgical x64 VEH/VCH dumper. Walks the vectored exception handler list, extracts each handler as a s...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Yu9191/wloc](https://github.com/Yu9191/wloc) to [CrackerCat/wloc](https://github.com/CrackerCat/wloc)
   > 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Colorful-glassblock/duchamp-root](https://github.com/Colorful-glassblock/duchamp-root) to [CrackerCat/duchamp-root](https://github.com/CrackerCat/duchamp-root)
+  > Xiaomi K70e (duchamp) one-click root via CVE-2026-43499 (IonStack) + KernelSU integration
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [abdo2048/Ask-Brave-Chat-Exporter](https://github.com/abdo2048/Ask-Brave-Chat-Exporter)
+  > A browser userscript that exports Ask Brave AI conversations to Markdown and styled HTML
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server)
+  > MCP Server for Burp
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar)
@@ -30,10 +40,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [OWASP/Nettacker](https://github.com/OWASP/Nettacker) to [classic130/Nettacker](https://github.com/classic130/Nettacker)
   > Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Manageme...
 
-### [dtcxzyw](https://github.com/dtcxzyw)
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [ammkrn/nanoda_lib](https://github.com/ammkrn/nanoda_lib)
-  > Library implementing type inference/checking functionality based on the Lean theorem prover
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
   > 🦊 Firefox in WebAssembly
@@ -42,9 +48,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
   > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
-### [steipete](https://github.com/steipete)
-- 🍴 👤 [steipete](https://github.com/steipete) Forked [Choochmeque/tauri-plugin-notifications](https://github.com/Choochmeque/tauri-plugin-notifications) to [steipete/tauri-plugin-notifications](https://github.com/steipete/tauri-plugin-notifications)
-  > A Tauri v2 plugin for sending notifications on desktop and mobile platforms with support for system ...
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [gcomneno/oop-in-c-lab](https://github.com/gcomneno/oop-in-c-lab)
+  > Educational lab showing object-oriented programming patterns in plain C
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)
+  > Tracking interesting Linux (and UNIX) malware. Send PRs
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
@@ -52,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-17 10:05:34 UTC*
+*Last updated at 2026-07-17 12:15:18 UTC*
 *Historical records are stored in the `archive` directory.*
