@@ -20,11 +20,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar)
   > Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS...
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [ammkrn/nanoda_lib](https://github.com/ammkrn/nanoda_lib)
+  > Library implementing type inference/checking functionality based on the Lean theorem prover
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HeyPuter/firefox-wasm](https://github.com/HeyPuter/firefox-wasm)
+  > 🦊 Firefox in WebAssembly
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
+  > A fast usermode x86 and x86-64 emulator for Arm64 Linux
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yynxxxxx/Codex-X](https://github.com/yynxxxxx/Codex-X)
   > Codex Switch & Instruct desktop manager
 
 
 ---
-*Last updated at 2026-07-17 04:12:57 UTC*
+*Last updated at 2026-07-17 07:22:41 UTC*
 *Historical records are stored in the `archive` directory.*
