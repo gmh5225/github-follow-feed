@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [alxndrTL/little-book-rl](https://github.com/alxndrTL/little-book-rl)
   > The Little Book of Reinforcement Learning
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [grishmadev/conan](https://github.com/grishmadev/conan)
+  > A Tor based chatting app focused on privacy and security
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JoinChang/ghostlock-oneplus](https://github.com/JoinChang/ghostlock-oneplus) to [CrackerCat/ghostlock-oneplus](https://github.com/CrackerCat/ghostlock-oneplus)
   > GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader
@@ -44,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [PortSwigger/mcp-server](https://github.com/PortSwigger/mcp-server)
   > MCP Server for Burp
 
+### [TheCruZ](https://github.com/TheCruZ)
+- 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [TheCruZ/FindXrefs](https://github.com/TheCruZ/FindXrefs)
+  > FindXrefs — recover "no cross-references" in IDA Pro
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar)
   > Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS...
@@ -66,11 +74,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
   > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RenNagasaki/Echokraut](https://github.com/RenNagasaki/Echokraut)
+  > A TTS Dalamud Plugin that breaks the silence! For self hosted TTS Services.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Sebane1/RoleplayingVoiceDalamud](https://github.com/Sebane1/RoleplayingVoiceDalamud)
+  > Spoken in game voices, enhanced mod management, Twitch integration, and more!
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MinhakaDev/FFXIV-TTS](https://github.com/MinhakaDev/FFXIV-TTS)
+  > FFXIV Launcher with TTS is a guide to add high-quality Text-to-Speech (TTS) to Final Fantasy XIV usi...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keifufu/XivVoices](https://github.com/keifufu/XivVoices)
+  > FFXIV TTS Plugin
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [gcomneno/oop-in-c-lab](https://github.com/gcomneno/oop-in-c-lab)
   > Educational lab showing object-oriented programming patterns in plain C
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)
   > Tracking interesting Linux (and UNIX) malware. Send PRs
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ox01024/awesome-offensive-security-ai](https://github.com/ox01024/awesome-offensive-security-ai)
+  > A curated list of outstanding offensive security AI work, papers, organizations, libraries, and benc...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ApeWorX/ape-sourcify](https://github.com/ApeWorX/ape-sourcify)
@@ -81,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-17 14:48:27 UTC*
+*Last updated at 2026-07-17 16:20:27 UTC*
 *Historical records are stored in the `archive` directory.*
