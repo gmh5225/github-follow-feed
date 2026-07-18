@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [cocomelonc/kitten-trail](https://github.com/cocomelonc/kitten-trail)
   > Kitten Trail is a tiny, calm Android game about guiding a kitten through five gentle landscapes, col...
 
+### [dhondta](https://github.com/dhondta)
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc)
+  > wp2shell (CVE-2026-63030) - full RCE chain
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox)
   > The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control...
@@ -78,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-18 19:13:41 UTC*
+*Last updated at 2026-07-18 20:58:54 UTC*
 *Historical records are stored in the `archive` directory.*
