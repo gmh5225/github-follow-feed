@@ -26,6 +26,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [moyix/pdbparse](https://github.com/moyix/pdbparse)
   > Python code to parse Microsoft PDB files
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex)
+  > Post-exploitation and evasion research toolkit for Linux.
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TeamWheelWizard/WheelWizard](https://github.com/TeamWheelWizard/WheelWizard)
@@ -92,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-18 21:59:41 UTC*
+*Last updated at 2026-07-18 23:02:53 UTC*
 *Historical records are stored in the `archive` directory.*
