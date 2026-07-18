@@ -17,6 +17,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [columbia/egalito](https://github.com/columbia/egalito)
   > Self-hosting binary instrumentation framework for security research
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [JackTYM/FEX](https://github.com/JackTYM/FEX)
+  > A fast usermode x86 and x86-64 emulator for Arm64 Linux
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [4l3x777/wkhttp_lib](https://github.com/4l3x777/wkhttp_lib)
+  > Windows Kernel Http Library
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [0xflux/Hells-Hollow](https://github.com/0xflux/Hells-Hollow)
+  > Hells Hollow Windows 11 Rootkit technique to Hook the SSDT via Alt Syscalls
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [moyix/pdbparse](https://github.com/moyix/pdbparse)
+  > Python code to parse Microsoft PDB files
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TeamWheelWizard/WheelWizard](https://github.com/TeamWheelWizard/WheelWizard)
   > WheelWizard, Retro Rewind Launcher
@@ -82,5 +92,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-18 20:58:54 UTC*
+*Last updated at 2026-07-18 21:59:41 UTC*
 *Historical records are stored in the `archive` directory.*
