@@ -20,6 +20,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TeamWheelWizard/WheelWizard](https://github.com/TeamWheelWizard/WheelWizard)
   > WheelWizard, Retro Rewind Launcher
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [WinterSnowfall/d7vk](https://github.com/WinterSnowfall/d7vk)
+  > Vulkan-based implementation of D3D7, 6, 5 and 3 for Linux / Wine, spun off from DXVK.
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [ThomasNJordan/wp2shell](https://github.com/ThomasNJordan/wp2shell) to [Mr-xn/wp2shell](https://github.com/Mr-xn/wp2shell)
@@ -27,9 +29,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [SunWeb3Sec](https://github.com/SunWeb3Sec)
 - 🌟 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Starred [SunWeb3Sec/bastet-taxonomy](https://github.com/SunWeb3Sec/bastet-taxonomy)
-
-### [can1357](https://github.com/can1357)
-- 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
 
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [cocomelonc/kitten-trail](https://github.com/cocomelonc/kitten-trail)
@@ -79,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-18 17:03:54 UTC*
+*Last updated at 2026-07-18 19:13:41 UTC*
 *Historical records are stored in the `archive` directory.*
