@@ -21,12 +21,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TeamWheelWizard/WheelWizard](https://github.com/TeamWheelWizard/WheelWizard)
   > WheelWizard, Retro Rewind Launcher
 
+### [SunWeb3Sec](https://github.com/SunWeb3Sec)
+- 🌟 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Starred [SunWeb3Sec/bastet-taxonomy](https://github.com/SunWeb3Sec/bastet-taxonomy)
+
 ### [can1357](https://github.com/can1357)
 - 🚀 👤 [can1357](https://github.com/can1357) Made [can1357/kraken-rs](https://github.com/can1357/kraken-rs) public
+
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [cocomelonc/kitten-trail](https://github.com/cocomelonc/kitten-trail)
+  > Kitten Trail is a tiny, calm Android game about guiding a kitten through five gentle landscapes, col...
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [PegaProx/project-pegaprox](https://github.com/PegaProx/project-pegaprox)
   > The ultimate datacenter management solution for Proxmox VE and XCP-NG. Unified multi-cluster control...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+  > A batteries-included framework for building web apps
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo)
@@ -34,10 +43,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [landlock-lsm/rust-landlock](https://github.com/landlock-lsm/rust-landlock)
   > A Rust library for the Linux Landlock sandboxing feature
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
-  > Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links,...
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [libLISA/Sem86](https://github.com/libLISA/Sem86)
@@ -56,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-18 11:10:25 UTC*
+*Last updated at 2026-07-18 13:37:14 UTC*
 *Historical records are stored in the `archive` directory.*
