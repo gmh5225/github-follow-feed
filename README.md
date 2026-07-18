@@ -41,8 +41,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [libLISA/Sem86](https://github.com/libLISA/Sem86)
+  > A full-system emulator without hard-coded semantics
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo)
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [libLISA/Sem86](https://github.com/libLISA/Sem86)
+  > A full-system emulator without hard-coded semantics
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [landlock-lsm/rust-landlock](https://github.com/landlock-lsm/rust-landlock)
@@ -62,8 +70,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Run frontier AI locally.
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [securitysonar/spark-hashcat](https://github.com/securitysonar/spark-hashcat)
   > An optimized, containerized Hashcat API service engineered specifically for NVIDIA Grace Blackwell (...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark--36tok-s](https://github.com/tonyd2wild/GLM-5.2-QuantTrio-200K-4x-DGX-Spark--36tok-s)
+  > Recipe: GLM-5.2 (unpruned QuantTrio Int4-Int8Mix) at 200K ctx with MTP spec decode on a 4x NVIDIA DG...
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [dstogov/ir](https://github.com/dstogov/ir)
+  > Lightweight JIT Compilation Framework
 
 
 ---
-*Last updated at 2026-07-18 15:01:36 UTC*
+*Last updated at 2026-07-18 17:03:54 UTC*
 *Historical records are stored in the `archive` directory.*
