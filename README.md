@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)
+  > The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and N...
+
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [kp7742/UE4Dumper](https://github.com/kp7742/UE4Dumper)
   > Unreal Engine 4 Dumper - Dump libUE4.so and Generate Structure SDK
@@ -47,8 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Zoeille/picsou-finance](https://github.com/Zoeille/picsou-finance)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [exo-explore/exo](https://github.com/exo-explore/exo)
   > Run frontier AI locally.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [securitysonar/spark-hashcat](https://github.com/securitysonar/spark-hashcat)
+  > An optimized, containerized Hashcat API service engineered specifically for NVIDIA Grace Blackwell (...
 
 
 ---
-*Last updated at 2026-07-18 09:39:59 UTC*
+*Last updated at 2026-07-18 11:10:25 UTC*
 *Historical records are stored in the `archive` directory.*
