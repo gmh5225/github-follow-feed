@@ -40,6 +40,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/nanocodex](https://github.com/gakonst/nanocodex)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+  > CNCF Jaeger, a Distributed Tracing Platform
 
 ### [ggerganov](https://github.com/ggerganov)
 - 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -92,6 +94,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Experimental free and open-source PlayStation 4 kernel
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [idalib-rs/idalib](https://github.com/idalib-rs/idalib)
   > Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [chztbby/RebirthGuard](https://github.com/chztbby/RebirthGuard)
+  > Anti-cheat library for Windows C++
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [philzook58/awesome-egraphs](https://github.com/philzook58/awesome-egraphs)
+  > An awesome list of e-graph resources
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [vosen/ZLUDA](https://github.com/vosen/ZLUDA)
+  > CUDA on non-NVIDIA GPUs
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -110,6 +118,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [tonyd2wild/MiniMax-M3-2x-DGX-Spark-36-tok-s](https://github.com/tonyd2wild/MiniMax-M3-2x-DGX-Spark-36-tok-s)
   > MiniMax-M3 (428B, no pruning) at 36 tok/s on 2× NVIDIA DGX Spark — W4A16 GPTQ + NVFP4 KV + EAGLE-3 s...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Orange-Cyberdefense/p3-loader](https://github.com/Orange-Cyberdefense/p3-loader)
+  > P³-Shellcode Loader is a loader that implements a code injection technique which leverages the Proce...
 
 ### [xuhancn](https://github.com/xuhancn)
 - 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [xx025/openab](https://github.com/xx025/openab) to [xuhancn/openab](https://github.com/xuhancn/openab)
@@ -117,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-19 19:15:40 UTC*
+*Last updated at 2026-07-19 20:59:30 UTC*
 *Historical records are stored in the `archive` directory.*
