@@ -16,10 +16,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [stardustai/dataset-viewer](https://github.com/stardustai/dataset-viewer)
   > A sleek dataset viewer built entirely by AI Agent. Supports streaming large files from WebDAV, S3, S...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [FateLightX/AriaFlow](https://github.com/FateLightX/AriaFlow)
+
+### [benvanik](https://github.com/benvanik)
+- 🍴 👤 [benvanik](https://github.com/benvanik) Forked [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) to [benvanik/rocm-systems](https://github.com/benvanik/rocm-systems)
+  > super repo for rocm systems projects
+
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV)
+  > This is official repository of our paper "RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Det...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
   > The world's fastest apk (android)/java open source decompiler
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/nanocodex](https://github.com/gakonst/nanocodex)
 
 ### [ggerganov](https://github.com/ggerganov)
 - 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -35,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-19 06:36:38 UTC*
+*Last updated at 2026-07-19 09:08:43 UTC*
 *Historical records are stored in the `archive` directory.*
