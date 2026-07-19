@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [benvanik](https://github.com/benvanik) Forked [ROCm/rocm-systems](https://github.com/ROCm/rocm-systems) to [benvanik/rocm-systems](https://github.com/benvanik/rocm-systems)
   > super repo for rocm systems projects
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [kitoweeknd/RFUAV](https://github.com/kitoweeknd/RFUAV)
   > This is official repository of our paper "RFUAV: A Benchmark Dataset for Unmanned Aerial Vehicle Det...
@@ -74,6 +78,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the ...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [toor-de-force/Ghidra-to-LLVM](https://github.com/toor-de-force/Ghidra-to-LLVM)
   > An binary-to-LLVM IR lifter that leverages Ghidra's IR and analysis
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)
+  > Sandboxie Plus & Classic
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [shogunlab/awesome-hyper-v-exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
+  > A curated list of Hyper-V exploitation resources, fuzzing and vulnerability research.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer)
+  > Run iOS apps without actually installing them!
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1)
+  > A bootloader and experimentation playground for Apple Silicon
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gamozolabs/applepie](https://github.com/gamozolabs/applepie)
+  > A hypervisor for fuzzing built with WHVP and Bochs
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [obhq/obliteration](https://github.com/obhq/obliteration)
+  > Experimental free and open-source PlayStation 4 kernel
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [idalib-rs/idalib](https://github.com/idalib-rs/idalib)
+  > Idiomatic Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -82,6 +100,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Offline MCP Server for Qt 4.8.4 documentation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
   > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
+  > 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -97,5 +117,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-19 17:05:56 UTC*
+*Last updated at 2026-07-19 19:15:40 UTC*
 *Historical records are stored in the `archive` directory.*
