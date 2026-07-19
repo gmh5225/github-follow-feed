@@ -17,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Linuxoid-cn/CVE-2026-43499-Poc-Analysis](https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis) to [CrackerCat/CVE-2026-43499-Poc-Analysis](https://github.com/CrackerCat/CVE-2026-43499-Poc-Analysis)
   > Vulnerability analysis and Proof of Concept (PoC) for CVE-2026-43499 affecting Xiaomi devices. For e...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [frida/r2pharo](https://github.com/frida/r2pharo)
+  > Pharo/Smalltalk bindings for Frida
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [stardustai/dataset-viewer](https://github.com/stardustai/dataset-viewer)
   > A sleek dataset viewer built entirely by AI Agent. Supports streaming large files from WebDAV, S3, S...
@@ -127,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-19 20:59:30 UTC*
+*Last updated at 2026-07-19 22:03:30 UTC*
 *Historical records are stored in the `archive` directory.*
