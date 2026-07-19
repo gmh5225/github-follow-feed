@@ -72,6 +72,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An LLVM-based instrumentation tool for universal taint tracking, dataflow analysis, and tracing.
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [RUB-SysSec/syntia](https://github.com/RUB-SysSec/syntia)
   > Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the ...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [toor-de-force/Ghidra-to-LLVM](https://github.com/toor-de-force/Ghidra-to-LLVM)
+  > An binary-to-LLVM IR lifter that leverages Ghidra's IR and analysis
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
@@ -89,7 +91,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [tonyd2wild/MiniMax-M3-2x-DGX-Spark-36-tok-s](https://github.com/tonyd2wild/MiniMax-M3-2x-DGX-Spark-36-tok-s)
   > MiniMax-M3 (428B, no pruning) at 36 tok/s on 2× NVIDIA DGX Spark — W4A16 GPTQ + NVFP4 KV + EAGLE-3 s...
 
+### [xuhancn](https://github.com/xuhancn)
+- 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [xx025/openab](https://github.com/xx025/openab) to [xuhancn/openab](https://github.com/xuhancn/openab)
+  > Open Agent Bridge — connect agent backends (CLIs, APIs) to chat platforms (Telegram, Discord, …). Pl...
+
 
 ---
-*Last updated at 2026-07-19 15:02:59 UTC*
+*Last updated at 2026-07-19 17:05:56 UTC*
 *Historical records are stored in the `archive` directory.*
