@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
   >  ggml speech-to-text inference for 16+ model families
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
+  >  ggml speech-to-text inference for 16+ model families
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
@@ -66,12 +70,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symb...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [trailofbits/polytracker](https://github.com/trailofbits/polytracker)
   > An LLVM-based instrumentation tool for universal taint tracking, dataflow analysis, and tracing.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [RUB-SysSec/syntia](https://github.com/RUB-SysSec/syntia)
+  > Program synthesis based deobfuscation framework for the USENIX 2017 paper "Syntia: Synthesizing the ...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [jztan/qt4-doc-mcp-server](https://github.com/jztan/qt4-doc-mcp-server) to [mrexodia/qt-doc-mcp](https://github.com/mrexodia/qt-doc-mcp)
   > Offline MCP Server for Qt 4.8.4 documentation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [anomalyco/browser-control](https://github.com/anomalyco/browser-control)
+  > Local browser driver for trusted agents: control your existing Chromium browser through a small exte...
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp)
@@ -83,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-19 13:39:31 UTC*
+*Last updated at 2026-07-19 15:02:59 UTC*
 *Historical records are stored in the `archive` directory.*
