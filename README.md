@@ -47,6 +47,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [openai/codex](https://github.com/openai/codex)
   > Lightweight coding agent that runs in your terminal
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Fratres-X-AI/SENTRY-Node-Mk-I](https://github.com/Fratres-X-AI/SENTRY-Node-Mk-I)
+  > SENTRY Node Mk I
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Fratres-X-AI/JamBoy](https://github.com/Fratres-X-AI/JamBoy)
+  > GPS-denied drone navigation layer: optical flow + offline map geo-match + EKF → MAVLink (sim-validat...
+
 ### [chfast](https://github.com/chfast)
 - 🍴 👤 [chfast](https://github.com/chfast) Forked [alloy-rs/alloy](https://github.com/alloy-rs/alloy) to [chfast/alloy](https://github.com/chfast/alloy)
   > Transports, Middleware, and Networks for the Alloy project
@@ -144,12 +150,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rendering on external windows via hijacking thread contexts
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Swizec/h1b-software-salaries](https://github.com/Swizec/h1b-software-salaries)
   > Using React and d3.js, I built a visualisation of H1B salaries in the software industry.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ZehMatt/zyemu](https://github.com/ZehMatt/zyemu)
+  > x86-64 user mode emulation using Zydis
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [backengineering/bintests](https://github.com/backengineering/bintests)
+  > A large collection of 32bit and 64bit PE files useful for verifying the correctness of bin2bin trans...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ZimengXiong/Modelr](https://github.com/ZimengXiong/Modelr)
+  > Image to 3D on your Mac
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
   > A showcase repo containing demo of a potential Windows Sandbox abuse
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)
   > Talk to one agent. Ship with a crew.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pgarba/ida-llm-explainer](https://github.com/pgarba/ida-llm-explainer)
+  > AI-assisted IDA Pro plugin (local llama.cpp) for function explanations, renames, struct detection, a...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jedisct1/areion-bitsliced](https://github.com/jedisct1/areion-bitsliced)
@@ -167,5 +183,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-20 14:23:00 UTC*
+*Last updated at 2026-07-20 16:37:07 UTC*
 *Historical records are stored in the `archive` directory.*
