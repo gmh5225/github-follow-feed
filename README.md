@@ -71,7 +71,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/wallet-cli](https://github.com/tempoxyz/wallet-cli)
@@ -184,7 +184,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
-  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [kassandraoftroy/kohaku-cli](https://github.com/kassandraoftroy/kohaku-cli)
 
 ### [ri-char](https://github.com/ri-char)
@@ -195,7 +195,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [strazzere](https://github.com/strazzere) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
   > 176 vulnerabilities in Samsung preinstalled Android apps
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mahmoudimus/idavator](https://github.com/mahmoudimus/idavator)
+  > an "elevator" to round-trip lift IDA microcode up to LLVM and back down again to IDA microcode. ida2...
+
 
 ---
-*Last updated at 2026-07-20 18:58:09 UTC*
+*Last updated at 2026-07-20 20:35:37 UTC*
 *Historical records are stored in the `archive` directory.*
