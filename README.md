@@ -80,6 +80,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [mrxenginner/reVC](https://github.com/mrxenginner/reVC)
   > Reverse engineering the classic GTA Vice City game
 
+### [iPower](https://github.com/iPower)
+- 🌟 👤 [iPower](https://github.com/iPower) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
+  > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [G4sp4rCS/CVE-2026-42980-POC](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
   > CVE-2026-42980 PUBLIC EXPLOIT + RESEARCH
@@ -198,8 +202,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [mahmoudimus/idavator](https://github.com/mahmoudimus/idavator)
   > an "elevator" to round-trip lift IDA microcode up to LLVM and back down again to IDA microcode. ida2...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+
+### [zodiacon](https://github.com/zodiacon)
+- 🍴 👤 [zodiacon](https://github.com/zodiacon) Forked [MicrosoftDocs/windows-driver-docs-ddi](https://github.com/MicrosoftDocs/windows-driver-docs-ddi) to [zodiacon/windows-driver-docs-ddi](https://github.com/zodiacon/windows-driver-docs-ddi)
+  > The official Windows Driver Kit DDI reference documentation sources
 
 
 ---
-*Last updated at 2026-07-20 20:35:37 UTC*
+*Last updated at 2026-07-20 22:06:26 UTC*
 *Historical records are stored in the `archive` directory.*
