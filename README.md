@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [nickvsnetworking/pyhss](https://github.com/nickvsnetworking/pyhss) to [0xAX/pyhss](https://github.com/0xAX/pyhss)
+  > Python HSS / Diameter Server
+
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [shogunlab/awesome-hyper-v-exploitation](https://github.com/shogunlab/awesome-hyper-v-exploitation)
   > A curated list of Hyper-V exploitation resources, fuzzing and vulnerability research.
@@ -54,6 +58,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > OpenShell is the safe, private runtime for autonomous AI agents.
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [rush86999/atom](https://github.com/rush86999/atom)
   > Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)
+  > Undetected version of the Playwright testing and automation library.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [mrxenginner/reVC](https://github.com/mrxenginner/reVC)
@@ -155,5 +167,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-20 11:51:40 UTC*
+*Last updated at 2026-07-20 14:23:00 UTC*
 *Historical records are stored in the `archive` directory.*
