@@ -19,10 +19,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) to [CrackerCat/ai-agent-book](https://github.com/CrackerCat/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [CrackerCat/vphone-cli](https://github.com/CrackerCat/vphone-cli)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenHRTT/wloc](https://github.com/OpenHRTT/wloc) to [CrackerCat/OpenHRTT-wloc](https://github.com/CrackerCat/OpenHRTT-wloc)
+  > WLoc8 (https://wloc8.com) 网页更改定位，无需安装任何软件，支持iOS12-iOS27.0，支持5G/Wi-Fi，可过丁丁等强风控软件
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Mangi-11/Eta](https://github.com/Mangi-11/Eta) to [CrackerCat/Eta](https://github.com/CrackerCat/Eta)
+  > 在 ColorOS 上实现类似豆包手机的系统级 GUI Agent，凭借 Root 终端能力覆盖 Android 世界中更广泛的任务，并解锁 Gemini 与一圈即搜
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [LeapHeap/XBat](https://github.com/LeapHeap/XBat)
   > A modern, open-source BAT-to-EXE compiler with a tiny CRT-free Win32 runtime.
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)
+  > Very low latency speech to text, intent recognition, and text to speech, for building voice agents a...
 
 ### [DoranekoSystems](https://github.com/DoranekoSystems)
 - 🍴 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Forked [DeNA/mempatch](https://github.com/DeNA/mempatch) to [DoranekoSystems/mempatch](https://github.com/DoranekoSystems/mempatch)
@@ -31,6 +38,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [openai/codex](https://github.com/openai/codex)
+  > Lightweight coding agent that runs in your terminal
+
+### [chfast](https://github.com/chfast)
+- 🍴 👤 [chfast](https://github.com/chfast) Forked [alloy-rs/alloy](https://github.com/alloy-rs/alloy) to [chfast/alloy](https://github.com/chfast/alloy)
+  > Transports, Middleware, and Networks for the Alloy project
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [theMackabu/ant](https://github.com/theMackabu/ant)
+  > javascript for 🐜's, a tiny runtime with big ambitions
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [rush86999/atom](https://github.com/rush86999/atom)
+  > Atom Agent, Open-Source AI Agent Platform for Self-Hosted Automation
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [mrxenginner/reVC](https://github.com/mrxenginner/reVC)
+  > Reverse engineering the classic GTA Vice City game
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [G4sp4rCS/CVE-2026-42980-POC](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
@@ -92,9 +119,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [din4e/c2-signal](https://github.com/din4e/c2-signal)
   > Defensive multi-engine artifact triage console for YARA, Sigma and Suricata
 
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [st-tech/ppf-contact-solver](https://github.com/st-tech/ppf-contact-solver)
+  > A contact solver for physics-based simulations involving 👚 shells, 🪵 solids, 🪢 rods, 🧱 rigid bodies ...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [darlinghq/darling](https://github.com/darlinghq/darling)
   > Darwin/macOS emulation layer for Linux
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crosire/blink](https://github.com/crosire/blink)
+  > A tool which allows you to edit source code of any MSVC C++ project live at runtime
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [thesecretclub/window_hijack](https://github.com/thesecretclub/window_hijack)
+  > Rendering on external windows via hijacking thread contexts
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Swizec/h1b-software-salaries](https://github.com/Swizec/h1b-software-salaries)
+  > Using React and d3.js, I built a visualisation of H1B salaries in the software industry.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [unrooted/sandbox-shenanigans](https://github.com/unrooted/sandbox-shenanigans)
+  > A showcase repo containing demo of a potential Windows Sandbox abuse
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kunchenguid/firstmate](https://github.com/kunchenguid/firstmate)
+  > Talk to one agent. Ship with a crew.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jedisct1/areion-bitsliced](https://github.com/jedisct1/areion-bitsliced)
@@ -102,7 +145,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jedisct1/badrsa](https://github.com/jedisct1/badrsa)
   > Malicious RSA keys.
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+
+### [ri-char](https://github.com/ri-char)
+- 🍴 👤 [ri-char](https://github.com/ri-char) Forked [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) to [ri-char/CodeIsland](https://github.com/ri-char/CodeIsland)
+  > Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for ...
+
 
 ---
-*Last updated at 2026-07-20 08:11:31 UTC*
+*Last updated at 2026-07-20 11:51:40 UTC*
 *Historical records are stored in the `archive` directory.*
