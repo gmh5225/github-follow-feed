@@ -73,6 +73,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/wallet-cli](https://github.com/tempoxyz/wallet-cli)
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [mrxenginner/reVC](https://github.com/mrxenginner/reVC)
   > Reverse engineering the classic GTA Vice City game
@@ -154,6 +157,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > x86-64 user mode emulation using Zydis
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [backengineering/bintests](https://github.com/backengineering/bintests)
   > A large collection of 32bit and 64bit PE files useful for verifying the correctness of bin2bin trans...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [h0mbre/Lucid](https://github.com/h0mbre/Lucid)
+  > An educational Bochs-based snapshot fuzzer project
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [cojocar/bin2llvm](https://github.com/cojocar/bin2llvm)
+  > A binary to LLVM translator
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ZimengXiong/Modelr](https://github.com/ZimengXiong/Modelr)
@@ -172,16 +179,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Bitsliced implementations of the AREION permutation (AREION-512, AREION-256).
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jedisct1/badrsa](https://github.com/jedisct1/badrsa)
   > Malicious RSA keys.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [An0nUD4Y/Offensive-COM](https://github.com/An0nUD4Y/Offensive-COM)
+  > Research notes on Windows Component Object Model (COM) attack surface for offensive security and vul...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
   > Claude Code skill to stop it from burying the answer. ADHD-friendly output.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [kassandraoftroy/kohaku-cli](https://github.com/kassandraoftroy/kohaku-cli)
 
 ### [ri-char](https://github.com/ri-char)
 - 🍴 👤 [ri-char](https://github.com/ri-char) Forked [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland) to [ri-char/CodeIsland](https://github.com/ri-char/CodeIsland)
   > Real-time AI coding agent status panel in your MacBook notch — live status, approvals & replies for ...
 
+### [strazzere](https://github.com/strazzere)
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities)
+  > 176 vulnerabilities in Samsung preinstalled Android apps
+
 
 ---
-*Last updated at 2026-07-20 16:37:07 UTC*
+*Last updated at 2026-07-20 18:58:09 UTC*
 *Historical records are stored in the `archive` directory.*
