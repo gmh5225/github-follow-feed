@@ -19,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
   > Orchestrate AI agents to find real vulnerabilities in code.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [19h/morok](https://github.com/19h/morok)
+  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [19h/morok](https://github.com/19h/morok) to [killvxk/morok](https://github.com/killvxk/morok)
+  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)
@@ -27,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
   > High-performance single-GPU inference for selected model checkpoints and GPUs.
+
+### [ocornut](https://github.com/ocornut)
+- 🍴 👤 [ocornut](https://github.com/ocornut) Forked [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) to [ocornut/TBImGui](https://github.com/ocornut/TBImGui)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui)
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [succinctlabs/snark-bn254-verifier](https://github.com/succinctlabs/snark-bn254-verifier)
@@ -40,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-21 10:30:28 UTC*
+*Last updated at 2026-07-21 12:26:43 UTC*
 *Historical records are stored in the `archive` directory.*
