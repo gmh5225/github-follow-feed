@@ -12,9 +12,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [SignTools/admanager-tool](https://github.com/SignTools/admanager-tool)
   > TIGI Software Apps Manager backup management tool
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+  > Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microsoft/Ontology-Playground](https://github.com/microsoft/Ontology-Playground)
   > Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue...
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
+  > Proof-of-concept game using VBS enclaves to protect itself from cheating
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
@@ -25,6 +33,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MistyFir/SVMHypervisor-Preview](https://github.com/MistyFir/SVMHypervisor-Preview)
   > 从零开始手写的AMD平台Hypervisor
+
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker)
+  > A tool to unlobotomize your NVIDIA card!
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [amoghmunikote/170th-Street](https://github.com/amoghmunikote/170th-Street)
+  > The most comprehensive community resource for the NVIDIA CMP 170HX.
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)
@@ -41,6 +55,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ocornut](https://github.com/ocornut)
 - 🍴 👤 [ocornut](https://github.com/ocornut) Forked [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) to [ocornut/TBImGui](https://github.com/ocornut/TBImGui)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [AmelieHeinrich/agfx](https://github.com/AmelieHeinrich/agfx)
+  > Small RHI for indie game development
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [19h/morok](https://github.com/19h/morok)
@@ -66,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-21 15:08:55 UTC*
+*Last updated at 2026-07-21 17:36:08 UTC*
 *Historical records are stored in the `archive` directory.*
