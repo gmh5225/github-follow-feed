@@ -29,6 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs)
   > High level bindings to the quickjs javascript engine
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tempoxyz/tempo-evals](https://github.com/tempoxyz/tempo-evals)
+  > Harbor benchmark for Tempo integration evaluations
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
@@ -61,6 +63,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Simple but extensive library for DMA users, made for gamehacking
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/SecureFakePkg](https://github.com/SamuelTulach/SecureFakePkg)
   > Simple EFI runtime driver that hooks GetVariable function and returns data expected by Windows to ma...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+  > Skills for Real Engineers. Straight from my .agents directory.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
+  > Orchestrate AI agents to find real vulnerabilities in code.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)
+  > A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
@@ -96,7 +106,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
 
+### [weak1337](https://github.com/weak1337)
+- 🌟 👤 [weak1337](https://github.com/weak1337) Starred [MazX0p/LACUNA-Chain](https://github.com/MazX0p/LACUNA-Chain)
+  >   Six-layer call-stack spoofing via .pdata lacunae — defeats ETW-Ti, kernel callbacks, CET shadow st...
+
+### [wesmar](https://github.com/wesmar)
+- 🚀 👤 [wesmar](https://github.com/wesmar) Made [wesmar/RegEdLin](https://github.com/wesmar/RegEdLin) public
+  > Native, dual-pane Windows registry editor (offline) for Linux (GTK4/libadwaita/C11) with CLI tools. ...
+
 
 ---
-*Last updated at 2026-07-21 19:41:18 UTC*
+*Last updated at 2026-07-21 21:17:58 UTC*
 *Historical records are stored in the `archive` directory.*
