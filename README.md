@@ -4,8 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
+  > Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
+
 
 ---
-*Last updated at 2026-07-21 00:02:41 UTC*
+*Last updated at 2026-07-21 04:19:37 UTC*
 *Historical records are stored in the `archive` directory.*
