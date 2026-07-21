@@ -19,10 +19,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [microsoft/Ontology-Playground](https://github.com/microsoft/Ontology-Playground)
   > Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [oblien/openship](https://github.com/oblien/openship)
+  > Self-hosted deployment platform
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [DelSkayn/rquickjs](https://github.com/DelSkayn/rquickjs)
+  > High level bindings to the quickjs javascript engine
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
@@ -39,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A tool to unlobotomize your NVIDIA card!
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [amoghmunikote/170th-Street](https://github.com/amoghmunikote/170th-Street)
   > The most comprehensive community resource for the NVIDIA CMP 170HX.
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt)
@@ -47,6 +55,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
   > Proof-of-concept game using VBS enclaves to protect itself from cheating
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/PwnedBoot](https://github.com/SamuelTulach/PwnedBoot)
+  > Using Windows' own bootloader as a shim to bypass Secure Boot
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Metick/DMALibrary](https://github.com/Metick/DMALibrary)
+  > Simple but extensive library for DMA users, made for gamehacking
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [SamuelTulach/SecureFakePkg](https://github.com/SamuelTulach/SecureFakePkg)
+  > Simple EFI runtime driver that hooks GetVariable function and returns data expected by Windows to ma...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Neroued/ninfer](https://github.com/Neroued/ninfer)
@@ -63,6 +77,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [MistyFir/SVMHypervisor-Preview](https://github.com/MistyFir/SVMHypervisor-Preview)
   > 从零开始手写的AMD平台Hypervisor
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [SamuelTulach/SecureGame](https://github.com/SamuelTulach/SecureGame)
+  > Proof-of-concept game using VBS enclaves to protect itself from cheating
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [succinctlabs/snark-bn254-verifier](https://github.com/succinctlabs/snark-bn254-verifier)
@@ -82,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-21 17:36:08 UTC*
+*Last updated at 2026-07-21 19:41:18 UTC*
 *Historical records are stored in the `archive` directory.*
