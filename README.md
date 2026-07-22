@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
   > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [microsoft/SetupBench](https://github.com/microsoft/SetupBench)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [ernie-research/MEnvAgent](https://github.com/ernie-research/MEnvAgent)
+  > Official Code of MEnvAgent
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [siegelz/core-bench](https://github.com/siegelz/core-bench)
 
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/xora-code](https://github.com/WhiteNightShadow/xora-code)
@@ -46,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux V...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
   > An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RA...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Beaver-Notes/Beaver-Notes](https://github.com/Beaver-Notes/Beaver-Notes)
+  > Open-source notes that live where you choose: your device, your server, or ours.
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/nanoeval](https://github.com/gakonst/nanoeval)
@@ -72,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > First open source and publicly available System Management Mode backdoor for UEFI based platforms. G...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mattifestation/TCGLogTools](https://github.com/mattifestation/TCGLogTools)
   > A set of tools to retrieve and parse TCG measured boot logs. Microsoft refers to these as Windows Bo...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [openenclave/openenclave](https://github.com/openenclave/openenclave)
+  > SDK for developing enclaves
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
@@ -104,5 +114,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-22 16:25:17 UTC*
+*Last updated at 2026-07-22 18:13:47 UTC*
 *Historical records are stored in the `archive` directory.*
