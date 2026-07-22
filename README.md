@@ -9,6 +9,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Raw NTFS volume oracle: locked-file read and offline SAM hashes without LSASS
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dafthack/GraphRunner](https://github.com/dafthack/GraphRunner)
   > A Post-exploitation Toolset for Interacting with the Microsoft Graph API
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  > :books: Learn to write an embedded OS in Rust :crab:
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/ScreenOff](https://github.com/Dere3046/ScreenOff) to [CrackerCat/ScreenOff](https://github.com/CrackerCat/ScreenOff)
@@ -68,6 +70,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Anthropic's original performance take-home, now open for you to try!
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
   > A sandbox toolkit for the web, inspired by Plan 9
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [edera-dev/ocirender](https://github.com/edera-dev/ocirender)
+  > Stream and merge OCI image layers into squashfs, tar, or directory output
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [oras-project/rust-oci-client](https://github.com/oras-project/rust-oci-client)
+  > A Rust crate to interact with OCI registries
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cargo-bins/reflink-copy](https://github.com/cargo-bins/reflink-copy)
+  > Cross-platform COW reflink copy of files; Fork for Binstall
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [shadowy-pycoder/go-http-proxy-to-socks](https://github.com/shadowy-pycoder/go-http-proxy-to-socks)
@@ -96,6 +104,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
   > Firmware for the Xteink X3 and X4 e-readers
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [styx-emulator/styx-emulator](https://github.com/styx-emulator/styx-emulator)
+  > Multi-architecture emulation for the modern era.
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
@@ -122,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-22 20:15:50 UTC*
+*Last updated at 2026-07-22 22:10:22 UTC*
 *Historical records are stored in the `archive` directory.*
