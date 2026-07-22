@@ -13,12 +13,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [19h/chernobog](https://github.com/19h/chernobog)
+  > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
+
+### [Naville](https://github.com/Naville)
+- 🚀 👤 [Naville](https://github.com/Naville) Made [UrsulaProject/KatyPerry](https://github.com/UrsulaProject/KatyPerry) public
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openguardrails/openguardrails](https://github.com/openguardrails/openguardrails)
   > The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks th...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [zapier/AutomationBench](https://github.com/zapier/AutomationBench)
+  > A benchmark for evaluating AI agents on realistic business workflows
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [facebookresearch/ProgramBench](https://github.com/facebookresearch/ProgramBench)
+  > Can Language Models Rebuild Programs From Scratch?
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
+  > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
@@ -37,6 +48,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zhllxt/asio2](https://github.com/zhllxt/asio2)
   > Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_po...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Cr4sh/SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor)
+  > First open source and publicly available System Management Mode backdoor for UEFI based platforms. G...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
@@ -52,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-22 06:36:06 UTC*
+*Last updated at 2026-07-22 09:31:36 UTC*
 *Historical records are stored in the `archive` directory.*
