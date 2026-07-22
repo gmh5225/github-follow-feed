@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sailay1996/HiveOracle](https://github.com/sailay1996/HiveOracle)
+  > Raw NTFS volume oracle: locked-file read and offline SAM hashes without LSASS
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dafthack/GraphRunner](https://github.com/dafthack/GraphRunner)
+  > A Post-exploitation Toolset for Interacting with the Microsoft Graph API
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/ScreenOff](https://github.com/Dere3046/ScreenOff) to [CrackerCat/ScreenOff](https://github.com/CrackerCat/ScreenOff)
   > CVE-2026-52910 kernel crash PoC. screen goes off.
@@ -60,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Fast, crash-safe evaluation runner for coding agents
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)
   > Anthropic's original performance take-home, now open for you to try!
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
+  > A sandbox toolkit for the web, inspired by Plan 9
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [shadowy-pycoder/go-http-proxy-to-socks](https://github.com/shadowy-pycoder/go-http-proxy-to-socks)
@@ -114,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-22 18:13:47 UTC*
+*Last updated at 2026-07-22 20:15:50 UTC*
 *Historical records are stored in the `archive` directory.*
