@@ -9,6 +9,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CVE-2026-52910 kernel crash PoC. screen goes off.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [CakesTwix/Android-CVE-2026-43499](https://github.com/CakesTwix/Android-CVE-2026-43499) to [CrackerCat/Android-CVE-2026-43499](https://github.com/CrackerCat/Android-CVE-2026-43499)
   > Android version CVE-2026-43499 tester
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [bkerler/ida_rpc](https://github.com/bkerler/ida_rpc) to [CrackerCat/ida_rpc](https://github.com/CrackerCat/ida_rpc)
+  > IDA Pro RPC for assisted RE-tasks
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [laolanya123/unicorn-dfm](https://github.com/laolanya123/unicorn-dfm) to [CrackerCat/unicorn-dfm](https://github.com/CrackerCat/unicorn-dfm)
+  > unicorn-dfm | DFM 坐标解密静态库 (Unicorn+Capstone) | Author: laolanya | TG: @qihuaiCJ
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
@@ -30,6 +34,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Can Language Models Rebuild Programs From Scratch?
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bytedance/deer-flow](https://github.com/bytedance/deer-flow)
   > An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
+  > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
+
+### [WhiteNightShadow](https://github.com/WhiteNightShadow)
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/xora-code](https://github.com/WhiteNightShadow/xora-code)
+  > 基于 Grok Build 封装的桌面 IDE，支持 macOS / Windows / Linux 三端
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
@@ -59,11 +69,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ActivityLauncher/ActivityLauncherShizukuPlugin](https://github.com/ActivityLauncher/ActivityLauncherShizukuPlugin)
   > Plugin for ActivityLauncher that uses Shizuku for launching private Activities
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ConsenSysDiligence/blockchainSecurityDB](https://github.com/ConsenSysDiligence/blockchainSecurityDB)
+
+### [steipete](https://github.com/steipete)
+- 🍴 👤 [steipete](https://github.com/steipete) Forked [shakkernerd/ocm](https://github.com/shakkernerd/ocm) to [steipete/ocm](https://github.com/steipete/ocm)
+  > OpenClaw Manager
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ciprianveg/gb10-glm-5.2](https://github.com/ciprianveg/gb10-glm-5.2)
+  > GLM-5.2-Int4-Int8 on 8x GB10 cluster
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [OpenSourceRisk/Engine](https://github.com/OpenSourceRisk/Engine)
   > Open Source Risk Engine
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
+  > Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and i...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [repowise-dev/repowise](https://github.com/repowise-dev/repowise)
+  > Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dea...
 
 
 ---
-*Last updated at 2026-07-22 09:31:36 UTC*
+*Last updated at 2026-07-22 11:53:26 UTC*
 *Historical records are stored in the `archive` directory.*
