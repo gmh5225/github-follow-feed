@@ -50,6 +50,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/nanoeval](https://github.com/gakonst/nanoeval)
   > Fast, crash-safe evaluation runner for coding agents
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [anthropics/original_performance_takehome](https://github.com/anthropics/original_performance_takehome)
+  > Anthropic's original performance take-home, now open for you to try!
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [shadowy-pycoder/go-http-proxy-to-socks](https://github.com/shadowy-pycoder/go-http-proxy-to-socks)
@@ -102,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-22 14:11:40 UTC*
+*Last updated at 2026-07-22 16:25:17 UTC*
 *Historical records are stored in the `archive` directory.*
