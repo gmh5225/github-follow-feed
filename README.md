@@ -51,19 +51,35 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/nanoeval](https://github.com/gakonst/nanoeval)
   > Fast, crash-safe evaluation runner for coding agents
 
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [shadowy-pycoder/go-http-proxy-to-socks](https://github.com/shadowy-pycoder/go-http-proxy-to-socks)
+  > Simple CLI MITM tool that transforms SOCKS4/SOCKS5 proxy into HTTP/HTTPS/HTTP2/HTTP3 proxy with  IPv...
+
 ### [memN0ps](https://github.com/memN0ps)
 - 🌟 👤 [memN0ps](https://github.com/memN0ps) Starred [cberner/redb](https://github.com/cberner/redb)
   > An embedded key-value database in pure Rust
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Sizeable-Bingus/BingusLdr](https://github.com/Sizeable-Bingus/BingusLdr)
+  > BingusLdr is a DLL loader built with Crystal Palace that uses a CET compatible stack spoofing techni...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zhllxt/asio2](https://github.com/zhllxt/asio2)
   > Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_po...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Cr4sh/SmmBackdoor](https://github.com/Cr4sh/SmmBackdoor)
   > First open source and publicly available System Management Mode backdoor for UEFI based platforms. G...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mattifestation/TCGLogTools](https://github.com/mattifestation/TCGLogTools)
+  > A set of tools to retrieve and parse TCG measured boot logs. Microsoft refers to these as Windows Bo...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
   > vLLM 0.25.1 serving stack for poolside/Laguna-S-2.1-NVFP4 with DFlash speculative decoding — DGX Spa...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)
+  > Firmware for the Xteink X3 and X4 e-readers
+
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
+  > Local-first session search, analytics, insights, and token use statistics for coding agents, support...
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [ActivityLauncher/ActivityLauncherShizukuPlugin](https://github.com/ActivityLauncher/ActivityLauncherShizukuPlugin)
@@ -71,10 +87,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ConsenSysDiligence/blockchainSecurityDB](https://github.com/ConsenSysDiligence/blockchainSecurityDB)
-
-### [steipete](https://github.com/steipete)
-- 🍴 👤 [steipete](https://github.com/steipete) Forked [shakkernerd/ocm](https://github.com/shakkernerd/ocm) to [steipete/ocm](https://github.com/steipete/ocm)
-  > OpenClaw Manager
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ciprianveg/gb10-glm-5.2](https://github.com/ciprianveg/gb10-glm-5.2)
@@ -90,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-22 11:53:26 UTC*
+*Last updated at 2026-07-22 14:11:40 UTC*
 *Historical records are stored in the `archive` directory.*
