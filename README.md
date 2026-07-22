@@ -17,10 +17,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
   > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openguardrails/openguardrails](https://github.com/openguardrails/openguardrails)
+  > The vendor-neutral protocol for AI agent safety & security — and the neutral benchmark that ranks th...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rivet-dev/agentos](https://github.com/rivet-dev/agentos)
+  > A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux V...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [CyberSunil/LLMVault](https://github.com/CyberSunil/LLMVault)
+  > An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RA...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/nanoeval](https://github.com/gakonst/nanoeval)
   > Fast, crash-safe evaluation runner for coding agents
+
+### [memN0ps](https://github.com/memN0ps)
+- 🌟 👤 [memN0ps](https://github.com/memN0ps) Starred [cberner/redb](https://github.com/cberner/redb)
+  > An embedded key-value database in pure Rust
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zhllxt/asio2](https://github.com/zhllxt/asio2)
+  > Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_po...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO](https://github.com/MiaAI-Lab/Laguna-S-2.1-DGX-Spark-RTX-6000-PRO)
@@ -36,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-22 03:25:59 UTC*
+*Last updated at 2026-07-22 06:36:06 UTC*
 *Historical records are stored in the `archive` directory.*
