@@ -23,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [TaceoLabs/oprf-nr](https://github.com/TaceoLabs/oprf-nr)
+  > A library of Noir circuits for the TACEO:OPRF service. 
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls)
   > A pythonic generic language server
@@ -41,6 +45,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [happier-dev/happier](https://github.com/happier-dev/happier)
   > Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-t...
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [ShouqiaoW/erdos](https://github.com/ShouqiaoW/erdos)
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iss4cf0ng/Alien](https://github.com/iss4cf0ng/Alien)
   > Alien is a modular webshell client developed for cybersecurity research and education.  It provides ...
@@ -58,8 +65,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
-  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
+  > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Whispergate/JanusLoader](https://github.com/Whispergate/JanusLoader)
@@ -74,6 +81,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [peperunas](https://github.com/peperunas)
 - 🌟 👤 [peperunas](https://github.com/peperunas) Starred [makerspet/oomwoo](https://github.com/makerspet/oomwoo)
   > Open-source vacuum robot cleaner
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
@@ -92,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-23 10:30:18 UTC*
+*Last updated at 2026-07-23 12:43:37 UTC*
 *Historical records are stored in the `archive` directory.*
