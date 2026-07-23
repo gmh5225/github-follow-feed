@@ -58,7 +58,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
-  > How soon until perfect decompilation? https://decbench.com/
+  > DecBench: How close are we to recovering perfect decompilation from binaries?
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd)
@@ -69,6 +69,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [keebio/iris-case](https://github.com/keebio/iris-case)
+  > Case design files for Iris
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [happier-dev/happier](https://github.com/happier-dev/happier)
@@ -115,26 +117,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Fastjson 1.2.66-1.2.83 JsonType pure-library RCE PoC (AutoType off, JDK8 + Spring Boot LaunchedURLCl...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [The-Z-Labs/cli4bofs](https://github.com/The-Z-Labs/cli4bofs)
   > A swiss army knife tool for running, injecting and organizing your BOFs collection
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dinosn/raptor-loop-hunt](https://github.com/dinosn/raptor-loop-hunt)
+  > RAPTOR autonomous looping multi-altitude security vulnerability hunt — Claude Code skill
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
-  > How soon until perfect decompilation? https://decbench.com/
+  > DecBench: How close are we to recovering perfect decompilation from binaries?
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [hoainho/img2threejs](https://github.com/hoainho/img2threejs)
   > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dreiachse-cyber/image-cockpit-for-codex-workflows](https://github.com/dreiachse-cyber/image-cockpit-for-codex-workflows)
   > Local cockpit for Codex imagegen, pixel art, image editing, animation, and sprite-sheet workflows.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
-  > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
-  > A framework for few-shot evaluation of language models.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xingyaoww/code-act](https://github.com/xingyaoww/code-act)
-  > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Margin-Lab/evals](https://github.com/Margin-Lab/evals)
-  > Fast, robust, configurable agent evals
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Whispergate/JanusLoader](https://github.com/Whispergate/JanusLoader)
@@ -158,7 +154,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
-  > How soon until perfect decompilation? https://decbench.com/
+  > DecBench: How close are we to recovering perfect decompilation from binaries?
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
+  > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ElectrovoltSec/HackBench](https://github.com/ElectrovoltSec/HackBench)
@@ -171,5 +171,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-23 21:12:35 UTC*
+*Last updated at 2026-07-23 23:03:26 UTC*
 *Historical records are stored in the `archive` directory.*
