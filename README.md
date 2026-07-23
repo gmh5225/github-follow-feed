@@ -10,6 +10,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex)
   > Post-exploitation and evasion research toolkit for Linux.
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alfarom256/rs-ldr](https://github.com/alfarom256/rs-ldr)
+  > Hash-based dynamic WinAPI resolution — PEB walk, hashed exports, LdrLoadDll, compile-time obfuscatio...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zhllxt/asio2](https://github.com/zhllxt/asio2)
+  > Header only c++ network library, based on asio,support tcp,udp,http,websocket,rpc,ssl,icmp,serial_po...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) to [CrackerCat/Root-My-Galaxy](https://github.com/CrackerCat/Root-My-Galaxy)
   > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
@@ -29,9 +35,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
 
-### [dcbuild3r](https://github.com/dcbuild3r)
-- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [TaceoLabs/oprf-nr](https://github.com/TaceoLabs/oprf-nr)
-  > A library of Noir circuits for the TACEO:OPRF service. 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [mandiant/speakeasy](https://github.com/mandiant/speakeasy)
+  > Windows kernel and user mode emulation.
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls)
@@ -44,8 +50,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > How soon until perfect decompilation? https://decbench.com/
 
 ### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [clabby/tact](https://github.com/clabby/tact)
-  > A terminal interface for Nanocodex
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd)
+  > Blueprint for the PNT+ Project
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
@@ -73,6 +79,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [hoainho/img2threejs](https://github.com/hoainho/img2threejs)
   > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dreiachse-cyber/image-cockpit-for-codex-workflows](https://github.com/dreiachse-cyber/image-cockpit-for-codex-workflows)
+  > Local cockpit for Codex imagegen, pixel art, image editing, animation, and sprite-sheet workflows.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
@@ -117,5 +125,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-23 17:38:01 UTC*
+*Last updated at 2026-07-23 19:35:49 UTC*
 *Historical records are stored in the `archive` directory.*
