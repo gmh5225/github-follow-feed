@@ -4,6 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [inkandswitch/keyhive](https://github.com/inkandswitch/keyhive)
+  > 🗝️🐝✨ Rust workspace for Keyhive and related crates
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [linebender/fearless_simd](https://github.com/linebender/fearless_simd)
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Exploit-Garbage/0day-Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish)
   > Redefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose th...
@@ -35,9 +40,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [jjolano/shadow](https://github.com/jjolano/shadow)
   > A jailbreak detection bypass for modern iOS jailbreaks.
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [zakkg3/ClusterSecret](https://github.com/zakkg3/ClusterSecret)
+  > Kubernetes ClusterSecret operator.
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mandiant/speakeasy](https://github.com/mandiant/speakeasy)
   > Windows kernel and user mode emulation.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [trailofbits/it-depends](https://github.com/trailofbits/it-depends)
+  > A tool to automatically build a dependency graph and Software Bill of Materials (SBOM) for packages ...
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls)
@@ -52,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [AlexKontorovich/PrimeNumberTheoremAnd](https://github.com/AlexKontorovich/PrimeNumberTheoremAnd)
   > Blueprint for the PNT+ Project
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [harbor-framework/frontier-bench](https://github.com/harbor-framework/frontier-bench)
+  > Measuring and evolving with the frontier of agent work
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
@@ -71,6 +84,37 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ENDGAME C2 FRAMEWORK — AI-powered command and control for professional red team operations
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [endgamec2framework/endgame](https://github.com/endgamec2framework/endgame) to [killvxk/endgame](https://github.com/killvxk/endgame)
   > ENDGAME C2 FRAMEWORK — AI-powered command and control for professional red team operations
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xdak/CVE-2026-9198_exploit](https://github.com/0xdak/CVE-2026-9198_exploit)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dinosn/cve-2026-2005](https://github.com/dinosn/cve-2026-2005)
+  > CVE-2026-2005 — PostgreSQL pgcrypto heap overflow RCE exploit
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Exploit-Garbage/0day-Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish)
+  > Redefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose th...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Lyutoon/redis-RCE-poc](https://github.com/Lyutoon/redis-RCE-poc)
+  > RCE PoC for Redis 8.8.0
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Lyutoon/redis-RCE-poc](https://github.com/Lyutoon/redis-RCE-poc) to [killvxk/redis-RCE-poc](https://github.com/killvxk/redis-RCE-poc)
+  > RCE PoC for Redis 8.8.0
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DmTomHL/fastjson-1.2.83-gadget-rce](https://github.com/DmTomHL/fastjson-1.2.83-gadget-rce)
+  > Fastjson 1.2.68 ~ 1.2.83 RCE，jdk8、17、21和25全版本，支持批量urls进行poc验证。
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [BaddKharma/redStack-defcon34](https://github.com/BaddKharma/redStack-defcon34)
+  > DEF CON 34 workshop for redStack: deploy a Mythic/Sliver/Adaptix red team lab on AWS with Terraform ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [gagaltotal/CVE-2026-43499-PoC-Scanner](https://github.com/gagaltotal/CVE-2026-43499-PoC-Scanner)
+  > CVE-2026-43499 PoC Scanner
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [DavidCarliez/CVE-2026-49176_LPE_POC](https://github.com/DavidCarliez/CVE-2026-49176_LPE_POC)
+  > Local privilege-escalation proof of concept for the Windows WalletService vulnerability fixed in Jul...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [DavidCarliez/CVE-2026-49176_LPE_POC](https://github.com/DavidCarliez/CVE-2026-49176_LPE_POC) to [killvxk/CVE-2026-49176_LPE_POC](https://github.com/killvxk/CVE-2026-49176_LPE_POC)
+  > Local privilege-escalation proof of concept for the Windows WalletService vulnerability fixed in Jul...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc)
+  > RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc) to [killvxk/redis-poc](https://github.com/killvxk/redis-poc)
+  > RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xazanul/fuzzctl](https://github.com/0xazanul/fuzzctl)
+  > Fuzzing Infrastructure using afl++ for coverage guided fuzzing including triaging and live dashboard...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [berabuddies/Semia](https://github.com/berabuddies/Semia)
+  > Semia, security audit for AI agent skills.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [triplexlove/2026FastjsonPoC](https://github.com/triplexlove/2026FastjsonPoC)
+  > Fastjson 1.2.66-1.2.83 JsonType pure-library RCE PoC (AutoType off, JDK8 + Spring Boot LaunchedURLCl...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [The-Z-Labs/cli4bofs](https://github.com/The-Z-Labs/cli4bofs)
+  > A swiss army knife tool for running, injecting and organizing your BOFs collection
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
@@ -89,6 +133,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A framework for few-shot evaluation of language models.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xingyaoww/code-act](https://github.com/xingyaoww/code-act)
   > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Margin-Lab/evals](https://github.com/Margin-Lab/evals)
+  > Fast, robust, configurable agent evals
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Whispergate/JanusLoader](https://github.com/Whispergate/JanusLoader)
@@ -125,5 +171,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-23 19:35:49 UTC*
+*Last updated at 2026-07-23 21:12:35 UTC*
 *Historical records are stored in the `archive` directory.*
