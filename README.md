@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Exploit-Garbage/0day-Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish)
+  > Redefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose th...
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [MatheuZSecurity/Furtex](https://github.com/MatheuZSecurity/Furtex)
+  > Post-exploitation and evasion research toolkit for Linux.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy) to [CrackerCat/Root-My-Galaxy](https://github.com/CrackerCat/Root-My-Galaxy)
   > KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499
@@ -67,6 +73,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent)
   > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
+  > A framework for few-shot evaluation of language models.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Whispergate/JanusLoader](https://github.com/Whispergate/JanusLoader)
@@ -101,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-23 12:43:37 UTC*
+*Last updated at 2026-07-23 15:16:02 UTC*
 *Historical records are stored in the `archive` directory.*
