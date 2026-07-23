@@ -43,6 +43,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
   > How soon until perfect decompilation? https://decbench.com/
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [clabby/tact](https://github.com/clabby/tact)
+  > A terminal interface for Nanocodex
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
@@ -75,6 +79,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Local First Ai Agent. Optimized for Local Ai models. Long context window. Proper tools callings. Run...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)
   > A framework for few-shot evaluation of language models.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xingyaoww/code-act](https://github.com/xingyaoww/code-act)
+  > Official Repo for ICML 2024 paper "Executable Code Actions Elicit Better LLM Agents" by Xingyao Wang...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Whispergate/JanusLoader](https://github.com/Whispergate/JanusLoader)
@@ -103,11 +109,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [ElectrovoltSec/HackBench](https://github.com/ElectrovoltSec/HackBench)
   > How effective are LLMs in identifying and exploiting security vulnerabilities?
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [uphiago/recon-skills](https://github.com/uphiago/recon-skills)
+  > 162 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets ac...
 
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [vishalpatil133-cmd/Virtualmouse](https://github.com/vishalpatil133-cmd/Virtualmouse)
 
 
 ---
-*Last updated at 2026-07-23 15:16:02 UTC*
+*Last updated at 2026-07-23 17:38:01 UTC*
 *Historical records are stored in the `archive` directory.*
