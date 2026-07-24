@@ -17,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) to [CrackerCat/exploitgym](https://github.com/CrackerCat/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [jdan/98.css](https://github.com/jdan/98.css)
   > A design system for building faithful recreations of old UIs
@@ -26,6 +30,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI...
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nubjs/nub](https://github.com/nubjs/nub)
   > The fast all-in-one Node.js toolkit
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/solidus](https://github.com/paradigmxyz/solidus)
+  > Beat a formally verified Yul → EVM compiler on total gas — while its machine-checked correctness the...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/EVMYulLean](https://github.com/paradigmxyz/EVMYulLean)
+  > Solidus fork of NethermindEth/EVMYulLean (pinned EVM/Yul semantics for the verified compiler)
 
 ### [khang06](https://github.com/khang06)
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [picoe/Eto](https://github.com/picoe/Eto) to [khang06/Eto](https://github.com/khang06/Eto)
@@ -60,6 +70,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A basic CS:GO ESP utilising DMA and HDMI-Overlay
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
   > Direct Memory Access (DMA) Attack Software
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [codedefender-io/tether](https://github.com/codedefender-io/tether)
+  > Extract sequences of instructions to be executed exclusively on a remote server
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -94,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-24 15:39:25 UTC*
+*Last updated at 2026-07-24 17:44:03 UTC*
 *Historical records are stored in the `archive` directory.*
