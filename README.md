@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [0xAX](https://github.com/0xAX)
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [0xAX/pyhss](https://github.com/0xAX/pyhss)
   > Python HSS / Diameter Server
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [eval-exec/neomacs](https://github.com/eval-exec/neomacs)
+  > NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aimin...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/mkbootfsAlone](https://github.com/Anatdx/mkbootfsAlone) to [CrackerCat/mkbootfsAlone](https://github.com/CrackerCat/mkbootfsAlone)
@@ -27,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [picoe/Eto](https://github.com/picoe/Eto) to [khang06/Eto](https://github.com/khang06/Eto)
   > Cross platform GUI framework for desktop and mobile applications in .NET
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [egoist/kero](https://github.com/egoist/kero)
+  > A native terminal workspace for macOS.
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [theqkash/esp32flight](https://github.com/theqkash/esp32flight)
   > A standalone desk flight radar on a single ESP32 board with a 7" touchscreen. 
@@ -34,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can e...
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [unclebob/swarm-forge](https://github.com/unclebob/swarm-forge)
   > A simple tool for coordinating several AI agents.
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xa11y/xa11y](https://github.com/xa11y/xa11y)
+  > Cross platform desktop accessibility library
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -49,6 +59,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > agent multiplexer that lives in your terminal.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Humalike/hermes-humalike-plugin](https://github.com/Humalike/hermes-humalike-plugin)
   > A Hermes Agent plugin that makes your bot feel like a person in the chat instead of a bot. It plugs ...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [xa11y/xa11y](https://github.com/xa11y/xa11y) to [mrexodia/xa11y](https://github.com/mrexodia/xa11y)
+  > Cross platform desktop accessibility library
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [lac-dcc/proteus](https://github.com/lac-dcc/proteus)
@@ -60,7 +72,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
   > JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT...
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
+  > A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+
 
 ---
-*Last updated at 2026-07-24 09:25:53 UTC*
+*Last updated at 2026-07-24 11:46:58 UTC*
 *Historical records are stored in the `archive` directory.*
