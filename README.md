@@ -10,12 +10,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [eval-exec/neomacs](https://github.com/eval-exec/neomacs)
   > NEO Emacs (WIP): GPU powered Emacs written in Rust with a modern display engine.               Aimin...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jdan/98.css](https://github.com/jdan/98.css)
+  > A design system for building faithful recreations of old UIs
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Anatdx/mkbootfsAlone](https://github.com/Anatdx/mkbootfsAlone) to [CrackerCat/mkbootfsAlone](https://github.com/CrackerCat/mkbootfsAlone)
   > Standalone Android NDK port of AOSP mkbootfs for embedding and AnyKernel3 workflows
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dispa1r/Integrated_kernel_module](https://github.com/Dispa1r/Integrated_kernel_module) to [CrackerCat/Integrated_kernel_module](https://github.com/CrackerCat/Integrated_kernel_module)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym) to [CrackerCat/exploitgym](https://github.com/CrackerCat/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
+
+### [can1357](https://github.com/can1357)
+- 🌟 👤 [can1357](https://github.com/can1357) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
+  > A design language for agents
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [block/buzz](https://github.com/block/buzz)
@@ -46,6 +54,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Intercepting HTTP/S proxy
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [octaltree/playwright-rust](https://github.com/octaltree/playwright-rust)
   > Playwright port to Rust
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+  > Lightpanda: the headless browser designed for AI and automation
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Skyvern-AI/rustwright](https://github.com/Skyvern-AI/rustwright)
+  > Playwright's API on a Rust CDP engine — Chromium browser automation for Python & Node, no driver sub...
 
 ### [khang06](https://github.com/khang06)
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [picoe/Eto](https://github.com/picoe/Eto) to [khang06/Eto](https://github.com/khang06/Eto)
@@ -120,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-24 21:12:12 UTC*
+*Last updated at 2026-07-24 23:08:29 UTC*
 *Historical records are stored in the `archive` directory.*
