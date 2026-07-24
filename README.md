@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [block/buzz](https://github.com/block/buzz)
   > A hive mind communication platform
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [jdan/98.css](https://github.com/jdan/98.css)
   > A design system for building faithful recreations of old UIs
@@ -36,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Beat a formally verified Yul → EVM compiler on total gas — while its machine-checked correctness the...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [paradigmxyz/EVMYulLean](https://github.com/paradigmxyz/EVMYulLean)
   > Solidus fork of NethermindEth/EVMYulLean (pinned EVM/Yul semantics for the verified compiler)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [omjadas/hudsucker](https://github.com/omjadas/hudsucker)
+  > Intercepting HTTP/S proxy
+- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [omjadas/hudsucker](https://github.com/omjadas/hudsucker) to [gakonst/hudsucker](https://github.com/gakonst/hudsucker)
+  > Intercepting HTTP/S proxy
 
 ### [khang06](https://github.com/khang06)
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [picoe/Eto](https://github.com/picoe/Eto) to [khang06/Eto](https://github.com/khang06/Eto)
@@ -72,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Direct Memory Access (DMA) Attack Software
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [codedefender-io/tether](https://github.com/codedefender-io/tether)
   > Extract sequences of instructions to be executed exclusively on a remote server
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [georgenicolaou/W64oWoW64](https://github.com/georgenicolaou/W64oWoW64)
+  > Library that allows you to run 64bit code on a Wow64 32bit process
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -80,7 +90,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iksteen/shellglass](https://github.com/iksteen/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
-  > DecBench: How close are we to recovering perfect decompilation from binaries?
+  > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iksteen/shellglass](https://github.com/iksteen/shellglass) to [mrexodia/shellglass](https://github.com/mrexodia/shellglass)
   > Mirror a pty as live HTML in your browser or to an ssh client
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
@@ -99,6 +109,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)
   > JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [paradigmxyz/solidus](https://github.com/paradigmxyz/solidus)
+  > Beat a formally verified Yul → EVM compiler on total gas — while its machine-checked correctness the...
 
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks)
@@ -106,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-24 17:44:03 UTC*
+*Last updated at 2026-07-24 19:39:58 UTC*
 *Historical records are stored in the `archive` directory.*
