@@ -24,6 +24,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A CSS framework for building faithful recreations of operating system GUIs.
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [khang-nd/7.css](https://github.com/khang-nd/7.css)
   > A JS-independent, tree-shakeable CSS framework for building faithful recreations of the Windows 7 UI...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [nubjs/nub](https://github.com/nubjs/nub)
+  > The fast all-in-one Node.js toolkit
 
 ### [khang06](https://github.com/khang06)
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [picoe/Eto](https://github.com/picoe/Eto) to [khang06/Eto](https://github.com/khang06/Eto)
@@ -34,6 +36,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A native terminal workspace for macOS.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dinosn/apache-axis-security-assessment](https://github.com/dinosn/apache-axis-security-assessment)
   > Security assessment of Apache Axis 1.x + Axis2 — RAPTOR auto-research hunt; lab-proven unauth RCE on...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [seahop/NexusC2](https://github.com/seahop/NexusC2)
+  > C2 pet project
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [seahop/NexusC2](https://github.com/seahop/NexusC2) to [killvxk/NexusC2](https://github.com/killvxk/NexusC2)
+  > C2 pet project
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Harrison-Wells-Cyber/PS-Proxy](https://github.com/Harrison-Wells-Cyber/PS-Proxy)
+  > Tunneling tool for red teaming, designed to run in memory on a windows target and connect back to a ...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [theqkash/esp32flight](https://github.com/theqkash/esp32flight)
@@ -48,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cross platform desktop accessibility library
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [momo5502/roamers](https://github.com/momo5502/roamers)
   > An endless, personalized feed for discovering GitHub projects.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [slack2450/csgo-dma-overlay](https://github.com/slack2450/csgo-dma-overlay)
+  > A basic CS:GO ESP utilising DMA and HDMI-Overlay
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
+  > Direct Memory Access (DMA) Attack Software
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -82,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-24 14:00:04 UTC*
+*Last updated at 2026-07-24 15:39:25 UTC*
 *Historical records are stored in the `archive` directory.*
