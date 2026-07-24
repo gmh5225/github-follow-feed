@@ -32,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [egoist/kero](https://github.com/egoist/kero)
   > A native terminal workspace for macOS.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dinosn/apache-axis-security-assessment](https://github.com/dinosn/apache-axis-security-assessment)
+  > Security assessment of Apache Axis 1.x + Axis2 — RAPTOR auto-research hunt; lab-proven unauth RCE on...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [theqkash/esp32flight](https://github.com/theqkash/esp32flight)
@@ -44,6 +46,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xa11y/xa11y](https://github.com/xa11y/xa11y)
   > Cross platform desktop accessibility library
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [momo5502/roamers](https://github.com/momo5502/roamers)
+  > An endless, personalized feed for discovering GitHub projects.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [X-LANCE/CogBench](https://github.com/X-LANCE/CogBench)
@@ -78,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-24 11:46:58 UTC*
+*Last updated at 2026-07-24 14:00:04 UTC*
 *Historical records are stored in the `archive` directory.*
