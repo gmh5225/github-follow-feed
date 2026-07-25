@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)
   > Undetected version of the Playwright testing and automation library.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nuntax/arbitrum-reth](https://github.com/nuntax/arbitrum-reth)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nuntax/arbitrum-alloy](https://github.com/nuntax/arbitrum-alloy)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nuntax/arbitrum-revm](https://github.com/nuntax/arbitrum-revm)
+  > REVM adjusted to work with Arbitrum STF
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [panwnvda/SliverC2-Evasion-Suite](https://github.com/panwnvda/SliverC2-Evasion-Suite)
@@ -52,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-25 19:18:51 UTC*
+*Last updated at 2026-07-25 21:00:22 UTC*
 *Historical records are stored in the `archive` directory.*
