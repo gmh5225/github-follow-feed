@@ -38,11 +38,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [insula-rs/libwhp](https://github.com/insula-rs/libwhp)
   > Windows Hypervisor Platform Rust crate
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
-  > A design language for agents
-
 
 ---
-*Last updated at 2026-07-25 11:17:26 UTC*
+*Last updated at 2026-07-25 13:50:23 UTC*
 *Historical records are stored in the `archive` directory.*
