@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin)
   > A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [trailofbits/mquire](https://github.com/trailofbits/mquire)
+  > Zero-dependency Linux memory forensics, leveraging kernel-embedded BTF and kallsyms for type-aware m...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yunsmall/DBY-W09_kernel_hack](https://github.com/yunsmall/DBY-W09_kernel_hack) to [CrackerCat/DBY-W09_kernel_hack](https://github.com/CrackerCat/DBY-W09_kernel_hack)
@@ -50,11 +52,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [insula-rs/libwhp](https://github.com/insula-rs/libwhp)
   > Windows Hypervisor Platform Rust crate
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+  > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
   > Certighost POC
 
 
 ---
-*Last updated at 2026-07-25 21:00:22 UTC*
+*Last updated at 2026-07-25 22:59:54 UTC*
 *Historical records are stored in the `archive` directory.*
