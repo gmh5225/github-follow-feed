@@ -28,13 +28,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [panwnvda/SliverC2-Evasion-Suite](https://github.com/panwnvda/SliverC2-Evasion-Suite)
   > Four-kit defense evasion suite for Sliver C2: Crystal Palace loader, sleep masking, in-memory PE exe...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
+  > Certighost POC
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [pathtofile/PPLRunner](https://github.com/pathtofile/PPLRunner)
   > Run Processes as PPL with ELAM
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [insula-rs/libwhp](https://github.com/insula-rs/libwhp)
   > Windows Hypervisor Platform Rust crate
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [stencil-hq/slab](https://github.com/stencil-hq/slab)
+  > A design language for agents
+
 
 ---
-*Last updated at 2026-07-25 09:04:37 UTC*
+*Last updated at 2026-07-25 11:17:26 UTC*
 *Historical records are stored in the `archive` directory.*
