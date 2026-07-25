@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yunsmall/DBY-W09_kernel_hack](https://github.com/yunsmall/DBY-W09_kernel_hack) to [CrackerCat/DBY-W09_kernel_hack](https://github.com/CrackerCat/DBY-W09_kernel_hack)
+  > 绕过华为 MatePad 11 (DBY-W09) HarmonyOS 4.2 内核模块签名验证
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [ningzimu/codex-ppt-skill](https://github.com/ningzimu/codex-ppt-skill)
   > GPT-Image-2 PPT Generator Skill for Creating Image-Based PowerPoint Presentations in Codex and Other...
@@ -30,10 +34,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [insula-rs/libwhp](https://github.com/insula-rs/libwhp)
   > Windows Hypervisor Platform Rust crate
 
-### [raysan5](https://github.com/raysan5)
-- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [LuisR385/rtextJP](https://github.com/LuisR385/rtextJP)
-
 
 ---
-*Last updated at 2026-07-25 06:24:24 UTC*
+*Last updated at 2026-07-25 09:04:37 UTC*
 *Historical records are stored in the `archive` directory.*
