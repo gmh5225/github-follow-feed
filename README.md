@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Jake-Shadle/xwin](https://github.com/Jake-Shadle/xwin)
+  > A utility for downloading and packaging the Microsoft CRT & Windows SDK headers and libraries needed...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yunsmall/DBY-W09_kernel_hack](https://github.com/yunsmall/DBY-W09_kernel_hack) to [CrackerCat/DBY-W09_kernel_hack](https://github.com/CrackerCat/DBY-W09_kernel_hack)
   > 绕过华为 MatePad 11 (DBY-W09) HarmonyOS 4.2 内核模块签名验证
@@ -28,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [panwnvda/SliverC2-Evasion-Suite](https://github.com/panwnvda/SliverC2-Evasion-Suite)
   > Four-kit defense evasion suite for Sliver C2: Crystal Palace loader, sleep masking, in-memory PE exe...
 
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
+  > 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
   > Certighost POC
@@ -38,7 +46,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [insula-rs/libwhp](https://github.com/insula-rs/libwhp)
   > Windows Hypervisor Platform Rust crate
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
+  > Certighost POC
+
 
 ---
-*Last updated at 2026-07-25 15:10:00 UTC*
+*Last updated at 2026-07-25 19:18:51 UTC*
 *Historical records are stored in the `archive` directory.*
