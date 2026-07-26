@@ -13,11 +13,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AncientJames/Scanwheel](https://github.com/AncientJames/Scanwheel)
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [kim-em/lean-zip](https://github.com/kim-em/lean-zip)
+
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [versity/versitygw](https://github.com/versity/versitygw)
   > A simple to deploy but feature rich S3 object storage server for your filesystem
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [rclone/rclone](https://github.com/rclone/rclone)
   > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Avi130805/twist-bench](https://github.com/Avi130805/twist-bench)
+  > Closed-loop visual reasoning benchmark: can a model build an accurate world-model from its own scree...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
@@ -33,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-26 12:09:33 UTC*
+*Last updated at 2026-07-26 14:41:20 UTC*
 *Historical records are stored in the `archive` directory.*
