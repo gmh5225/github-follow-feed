@@ -45,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
   > Open source replacement for the Xbox360 XeCrypt suite.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem)
+  > Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
@@ -56,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-26 20:14:25 UTC*
+*Last updated at 2026-07-26 22:04:47 UTC*
 *Historical records are stored in the `archive` directory.*
