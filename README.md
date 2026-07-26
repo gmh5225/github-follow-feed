@@ -4,6 +4,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sleepinginsummer/agent-browser-cli](https://github.com/sleepinginsummer/agent-browser-cli) to [CrackerCat/agent-browser-cli](https://github.com/CrackerCat/agent-browser-cli)
+  > 使用 agent-browser-cli 进行浏览器感知与控制。适用于标签页扫描/切换、页面 JS 执行、Cookie、CDP、contentSettings、截图、文件上传、下拉框点击、tmwd_c...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ThePedroo/CSOLoader](https://github.com/ThePedroo/CSOLoader) to [CrackerCat/CSOLoader](https://github.com/CrackerCat/CSOLoader)
+  > Traceless and system-linker-independent custom linker for Android and Linux.
+
+### [minaminao](https://github.com/minaminao)
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [versity/versitygw](https://github.com/versity/versitygw)
+  > A simple to deploy but feature rich S3 object storage server for your filesystem
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [rclone/rclone](https://github.com/rclone/rclone)
+  > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
   > A tool for recompiling Xbox 360 games to native executables.
@@ -14,5 +26,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-26 00:08:43 UTC*
+*Last updated at 2026-07-26 04:31:42 UTC*
 *Historical records are stored in the `archive` directory.*
