@@ -12,6 +12,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AncientJames/Scanwheel](https://github.com/AncientJames/Scanwheel)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu)
+  > reims-vgpu is an experimental virtual GPU for macOS guests
 
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [kim-em/lean-zip](https://github.com/kim-em/lean-zip)
@@ -40,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-26 14:41:20 UTC*
+*Last updated at 2026-07-26 16:08:09 UTC*
 *Historical records are stored in the `archive` directory.*
