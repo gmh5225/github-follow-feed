@@ -19,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [rclone/rclone](https://github.com/rclone/rclone)
   > "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/ExCrypt](https://github.com/emoose/ExCrypt) to [mrexodia/ExCrypt](https://github.com/mrexodia/ExCrypt)
+  > Open source replacement for the Xbox360 XeCrypt suite.
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [hedge-dev/XenonRecomp](https://github.com/hedge-dev/XenonRecomp)
   > A tool for recompiling Xbox 360 games to native executables.
@@ -29,5 +33,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-26 10:06:51 UTC*
+*Last updated at 2026-07-26 12:09:33 UTC*
 *Historical records are stored in the `archive` directory.*
