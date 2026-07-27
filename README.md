@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [4RH1T3CT0R7/doom-regex](https://github.com/4RH1T3CT0R7/doom-regex)
+  > DOOM running on nothing but regex find-and-replace. One 96 MB string, 544 rules, byte-identical to n...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [p2p3p/GhostLock-for-OnePlus](https://github.com/p2p3p/GhostLock-for-OnePlus) to [CrackerCat/GhostLock-for-OnePlus](https://github.com/CrackerCat/GhostLock-for-OnePlus)
   > （CVE-2026-43499）内核漏洞利用程序，适用于未解锁 Bootloader 的一加设备。
@@ -50,6 +54,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
   > NanoGPT (124M) in 90 seconds
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [z-lab/dflash](https://github.com/z-lab/dflash)
+  > DFlash: Block Diffusion for Flash Speculative Decoding
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Overclock-Validator/narya-ed25519](https://github.com/Overclock-Validator/narya-ed25519)
+  > Consensus-exact, accelerated Ed25519 verification for Go (Solana)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [octanejs/octane](https://github.com/octanejs/octane)
+  > Octane is an incredibly efficient React replacement UI library with improved developer ergonomics
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [substanc3-dev/pico-usb2swire](https://github.com/substanc3-dev/pico-usb2swire)
@@ -157,6 +167,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The most RAM effiecent harness
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
   > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [neocanable/garlic](https://github.com/neocanable/garlic)
+  > The world's fastest apk (android)/java open source decompiler
 
 ### [simonw](https://github.com/simonw)
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) to [simonw/scriptc](https://github.com/simonw/scriptc)
@@ -168,5 +180,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-27 21:17:44 UTC*
+*Last updated at 2026-07-27 23:10:58 UTC*
 *Historical records are stored in the `archive` directory.*
