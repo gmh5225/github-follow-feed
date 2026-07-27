@@ -114,6 +114,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Paradoxis/CVE-2026-57239](https://github.com/Paradoxis/CVE-2026-57239) to [killvxk/CVE-2026-57239](https://github.com/killvxk/CVE-2026-57239)
   > Proof of concept exploit for CVE-2026-3775/CVE-2026-3780 and CVE-2026-57239 which lets you obtain NT...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [studebaker8/cmp170hx-gen2](https://github.com/studebaker8/cmp170hx-gen2)
+  > PCIe Gen1 to Gen2 on the NVIDIA CMP 170HX: retrain the link inside the transient window the cmpunloc...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Wdestroier/sogen_dart](https://github.com/Wdestroier/sogen_dart)
   > Dart bindings to emulate Windows and Linux programs with Sogen.
@@ -140,11 +144,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
-  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
+  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable formats...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > The most RAM effiecent harness
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
+  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
 
 ### [simonw](https://github.com/simonw)
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) to [simonw/scriptc](https://github.com/simonw/scriptc)
@@ -156,5 +164,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-27 17:48:23 UTC*
+*Last updated at 2026-07-27 19:44:46 UTC*
 *Historical records are stored in the `archive` directory.*
