@@ -27,12 +27,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project...
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [openai/openai-dotnet](https://github.com/openai/openai-dotnet)
   > The official .NET library for the OpenAI API
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [snstac/aryaos](https://github.com/snstac/aryaos)
   > AryaOS: An Operating System for Modern Situational Awareness.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cyberbotics/webots](https://github.com/cyberbotics/webots)
   > Webots Robot Simulator
+
+### [danbev](https://github.com/danbev)
+- 🍴 👤 [danbev](https://github.com/danbev) Forked [ggml-org/convert](https://github.com/ggml-org/convert) to [danbev/convert](https://github.com/danbev/convert)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [substanc3-dev/pico-usb2swire](https://github.com/substanc3-dev/pico-usb2swire)
@@ -53,12 +58,59 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A macOS goal watchdog for the ChatGPT desktop app.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121)
   > Certighost POC
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121) to [killvxk/CVE-2026-54121](https://github.com/killvxk/CVE-2026-54121)
+  > Certighost POC
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [34306/usbliter8-fun](https://github.com/34306/usbliter8-fun)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wh1te4ever/usbliter8-fun](https://github.com/wh1te4ever/usbliter8-fun)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [panwnvda/SliverC2-Evasion-Suite](https://github.com/panwnvda/SliverC2-Evasion-Suite) to [killvxk/SliverC2-Evasion-Suite](https://github.com/killvxk/SliverC2-Evasion-Suite)
+  > Four-kit defense evasion suite for Sliver C2: Crystal Palace loader, sleep masking, in-memory PE exe...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
+  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xec412/ShadeShell](https://github.com/xec412/ShadeShell)
+  > An advanced shellcode encryption, obfuscation, and encoding engine designed for modern evasion workf...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xec412/XeraLdr](https://github.com/xec412/XeraLdr)
+  > A stealthy and modular Windows loader designed to bypass modern EDR solutions using Module Stomping,...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [RamanMG/Burp-MCP-Unrestricted](https://github.com/RamanMG/Burp-MCP-Unrestricted)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Oros42/IMSI-catcher](https://github.com/Oros42/IMSI-catcher)
+  > This program show you IMSI numbers of cellphones around you.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [raskolnikov90/Offensive-x64-Assembly](https://github.com/raskolnikov90/Offensive-x64-Assembly)
+  > Collection of programs I made while learning assembly.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [raskolnikov90/Offensive-x64-Assembly](https://github.com/raskolnikov90/Offensive-x64-Assembly) to [killvxk/Offensive-x64-Assembly](https://github.com/killvxk/Offensive-x64-Assembly)
+  > Collection of programs I made while learning assembly.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wupco/gitlab-rce-demo](https://github.com/wupco/gitlab-rce-demo)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [PrismorSec/prismor](https://github.com/PrismorSec/prismor)
+  > Runtime Firewall for AI agents which catches the rogue tool call before it runs. Dangerous commands,...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [flankerhqd/cyvisguard](https://github.com/flankerhqd/cyvisguard)
+  > Security control plane for AI agents — identity and delegation, capability policy, data-flow taint a...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MaorSabag/NaX](https://github.com/MaorSabag/NaX)
+  > Custom Adaptix-compatible C2 agent - PIC beacon + Stardust UDRL + Go extender plugins
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [XZ1r0/cve-2026-poc-collection](https://github.com/XZ1r0/cve-2026-poc-collection)
+  > CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [XZ1r0/cve-2026-poc-collection](https://github.com/XZ1r0/cve-2026-poc-collection) to [killvxk/cve-2026-poc-collection](https://github.com/killvxk/cve-2026-poc-collection)
+  > CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tc4dy/CVE-2026-54121-PoC-Exploit](https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit)
+  > 👻 CVE-2026-54121 - Best CertiGhost AD CS Multi-Exploit Framework ⚡Weaponized tool with rogue DC/LDAP...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [tc4dy/CVE-2026-54121-PoC-Exploit](https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit) to [killvxk/CVE-2026-54121-PoC-Exploit](https://github.com/killvxk/CVE-2026-54121-PoC-Exploit)
+  > 👻 CVE-2026-54121 - Best CertiGhost AD CS Multi-Exploit Framework ⚡Weaponized tool with rogue DC/LDAP...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cellebrite-labs/ida-setup](https://github.com/cellebrite-labs/ida-setup)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Paradoxis/CVE-2026-57239](https://github.com/Paradoxis/CVE-2026-57239)
+  > Proof of concept exploit for CVE-2026-3775/CVE-2026-3780 and CVE-2026-57239 which lets you obtain NT...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Yamato-Security/suzaku](https://github.com/Yamato-Security/suzaku)
+  > Suzaku (朱雀) is a sigma-based threat hunting and fast forensics timeline generator for cloud logs.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Paradoxis/CVE-2026-57239](https://github.com/Paradoxis/CVE-2026-57239) to [killvxk/CVE-2026-57239](https://github.com/killvxk/CVE-2026-57239)
+  > Proof of concept exploit for CVE-2026-3775/CVE-2026-3780 and CVE-2026-57239 which lets you obtain NT...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Wdestroier/sogen_dart](https://github.com/Wdestroier/sogen_dart)
   > Dart bindings to emulate Windows and Linux programs with Sogen.
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [FastVM/minivm](https://github.com/FastVM/minivm)
   > A VM That is Dynamic and Fast
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
+  > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
 
 ### [simonw](https://github.com/simonw)
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) to [simonw/scriptc](https://github.com/simonw/scriptc)
@@ -70,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-27 08:37:46 UTC*
+*Last updated at 2026-07-27 12:32:06 UTC*
 *Historical records are stored in the `archive` directory.*
