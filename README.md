@@ -36,8 +36,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cyberbotics/webots](https://github.com/cyberbotics/webots)
   > Webots Robot Simulator
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr) to [classic130/NocturneLdr](https://github.com/classic130/NocturneLdr)
+  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+
 ### [danbev](https://github.com/danbev)
 - 🍴 👤 [danbev](https://github.com/danbev) Forked [ggml-org/convert](https://github.com/ggml-org/convert) to [danbev/convert](https://github.com/danbev/convert)
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [gakonst/nanocodex](https://github.com/gakonst/nanocodex)
+  > Blazing-fast, minimal, library-first reimplementation of Codex
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [substanc3-dev/pico-usb2swire](https://github.com/substanc3-dev/pico-usb2swire)
@@ -46,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [muchmirul/conjectures](https://github.com/muchmirul/conjectures)
   > math conjectures visualized
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVIDIA/OWL](https://github.com/NVIDIA/OWL)
+  > The OptiX Wrappers Library
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [shader-slang/neural-shading-s26](https://github.com/shader-slang/neural-shading-s26)
+  > SIGGRAPH 2026 course materials for hands-on neural shading with Slang.
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [iksteen/shellglass](https://github.com/iksteen/shellglass)
@@ -107,10 +119,28 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Dart bindings to emulate Windows and Linux programs with Sogen.
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [FastVM/minivm](https://github.com/FastVM/minivm)
   > A VM That is Dynamic and Fast
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
+  > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis)
+  > A framework for collecting and analyzing prediction market data, including the largest publicly avai...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ent0n29/polybot](https://github.com/ent0n29/polybot)
+  > Reverse-engineering of  every polymarket strategy and high-frequency trading infrastructure for Poly...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits](https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits)
+  > Production-grade Rust trading bots for prediction markets — Polymarket, Kalshi, Limitless. 10 strate...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [caiovicentino/polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server)
+  > 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, re...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [yangyuan-zhen/PolyWeather](https://github.com/yangyuan-zhen/PolyWeather)
+  > polymarket Intelligent Weather Quant Analysis Bot
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
+  > AI Agent Framework, the Pydantic way
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [emoose/idaxex](https://github.com/emoose/idaxex) to [mrexodia/idaxex](https://github.com/mrexodia/idaxex)
   > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
+  > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
 
 ### [simonw](https://github.com/simonw)
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) to [simonw/scriptc](https://github.com/simonw/scriptc)
@@ -122,5 +152,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-27 12:32:06 UTC*
+*Last updated at 2026-07-27 15:47:19 UTC*
 *Historical records are stored in the `archive` directory.*
