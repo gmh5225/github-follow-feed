@@ -121,6 +121,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A VM That is Dynamic and Fast
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt)
+  > C++/WinRT
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Jon-Becker/prediction-market-analysis](https://github.com/Jon-Becker/prediction-market-analysis)
@@ -141,6 +143,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > XEX/XBE loader plugin for IDA 9, and xex1tool, supporting most known Xbox/Xbox360 executable file fo...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [allthingsida/eject_idb](https://github.com/allthingsida/eject_idb)
   > eject_idb is a last ditch effort to flush and save your IDB when IDA hangs or a plugin causes an exc...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
 
 ### [simonw](https://github.com/simonw)
 - 🍴 👤 [simonw](https://github.com/simonw) Forked [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) to [simonw/scriptc](https://github.com/simonw/scriptc)
@@ -152,5 +156,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-27 15:47:19 UTC*
+*Last updated at 2026-07-27 17:48:23 UTC*
 *Historical records are stored in the `archive` directory.*
