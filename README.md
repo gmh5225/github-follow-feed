@@ -47,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [gakonst/nanocodex](https://github.com/gakonst/nanocodex)
   > Blazing-fast, minimal, library-first reimplementation of Codex
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt)
+  > NanoGPT (124M) in 90 seconds
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [substanc3-dev/pico-usb2swire](https://github.com/substanc3-dev/pico-usb2swire)
   > A port of pvvx's USB2SWire to the RPi Pico
@@ -164,5 +168,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-27 19:44:46 UTC*
+*Last updated at 2026-07-27 21:17:44 UTC*
 *Historical records are stored in the `archive` directory.*
