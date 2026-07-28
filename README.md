@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [PhantomGamers/SUWSF](https://github.com/PhantomGamers/SUWSF)
+  > Somewhat Universal Widescreen Fix
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ncroxon/gnu-efi](https://github.com/ncroxon/gnu-efi)
   > Develop EFI applications for ARM-64, ARM-32, x86_64, IA-64 (IPF), IA-32 (x86), and MIPS platforms us...
@@ -32,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Box3D is a 3D physics engine for games
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
   > This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we rec...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+  > A collection of agent skills for CAD, robotics and hardware design
 
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [adulau/rifp](https://github.com/adulau/rifp)
@@ -94,6 +102,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tuiparts/tuiparts](https://github.com/tuiparts/tuiparts)
   > UI component library for terminal applications built on @opentui/*
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RimuruW/pi-hashline-edit](https://github.com/RimuruW/pi-hashline-edit)
+  > A pi-coding-agent extension that replaces the built-in tools with a hash-anchored line-editing workf...
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/flexos](https://github.com/noahware/flexos)
@@ -106,10 +116,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [peffre/ReBirth-RB-338](https://github.com/peffre/ReBirth-RB-338)
   > Rebirth RB-338 mods
-
-### [simonw](https://github.com/simonw)
-- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-mcp](https://github.com/datasette/datasette-mcp) public
-  > Adds a /-/mcp MCP server to any Datasette instance
 
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
@@ -125,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-28 21:14:01 UTC*
+*Last updated at 2026-07-28 23:06:50 UTC*
 *Historical records are stored in the `archive` directory.*
