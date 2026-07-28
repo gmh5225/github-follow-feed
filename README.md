@@ -29,6 +29,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
   > This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we rec...
 
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [adulau/rifp](https://github.com/adulau/rifp)
+  > Radio Image Framing Protocol
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [litex-hub/linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv)
+  > Linux on LiteX-VexRiscv
+
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [vschko/CaseStudies](https://github.com/vschko/CaseStudies) to [killvxk/CaseStudies](https://github.com/killvxk/CaseStudies)
   > Real world CVEs in iOS/MacOS/*OS I've analysed for education purpose.
@@ -53,13 +61,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [roothide/Developer](https://github.com/roothide/Developer)
   > document for tweak Developers
 
-### [lightclient](https://github.com/lightclient)
-- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [cachenetics/170tune](https://github.com/cachenetics/170tune)
-  > Tuning and qualification harness for the NVIDIA CMP 170HX (GA100). Measures, gates and recovers cloc...
-
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask)
   > A simple and handy overview of application shortcuts
+
+### [noahware](https://github.com/noahware)
+- 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/flexos](https://github.com/noahware/flexos)
+  > operating system written in modern c++
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/implot](https://github.com/ocornut/implot)
@@ -69,11 +77,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [peffre/ReBirth-RB-338](https://github.com/peffre/ReBirth-RB-338)
   > Rebirth RB-338 mods
 
+### [weak1337](https://github.com/weak1337)
+- 🌟 👤 [weak1337](https://github.com/weak1337) Starred [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor)
+  > A collection of out-of-tree LLVM passes for teaching and learning
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Margin-Lab/evals](https://github.com/Margin-Lab/evals)
   > Fast, robust, configurable agent evals
 
 
 ---
-*Last updated at 2026-07-28 15:26:06 UTC*
+*Last updated at 2026-07-28 17:40:52 UTC*
 *Historical records are stored in the `archive` directory.*
