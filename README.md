@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ncroxon/gnu-efi](https://github.com/ncroxon/gnu-efi)
+  > Develop EFI applications for ARM-64, ARM-32, x86_64, IA-64 (IPF), IA-32 (x86), and MIPS platforms us...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tiwe0/wxshadow-hook-poc](https://github.com/tiwe0/wxshadow-hook-poc) to [CrackerCat/wxshadow-hook-poc](https://github.com/CrackerCat/wxshadow-hook-poc)
 
@@ -33,6 +37,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [adulau/rifp](https://github.com/adulau/rifp)
   > Radio Image Framing Protocol
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)
+  > A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. ...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [wevm/frog](https://github.com/wevm/frog)
+  > Automated friction logging for agents.
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [litex-hub/linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv)
   > Linux on LiteX-VexRiscv
@@ -60,10 +72,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CVE-2026-50522 PoC
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [roothide/Developer](https://github.com/roothide/Developer)
   > document for tweak Developers
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat)
+  > bluetooth mesh chat, IRC vibes
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [microsoft/ActiveDirectoryTierModel](https://github.com/microsoft/ActiveDirectoryTierModel)
+  > Deployment of an Active Directory Tier Model structure to support Tier 0, Tier 1, and Tier 2 objects...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [warpedatom/OffsetInspect](https://github.com/warpedatom/OffsetInspect)
+  > PowerShell toolkit for AMSI/Defender detection-boundary analysis and static malware triage maps byte...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xazanul/Anastasis](https://github.com/0xazanul/Anastasis)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [olafhartong/ETWLocksmith](https://github.com/olafhartong/ETWLocksmith)
+  > A powerful Windows command-line tool for analyzing and searching ETW (Event Tracing for Windows) pro...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nickvourd/Weaponize-CobaltStrike](https://github.com/nickvourd/Weaponize-CobaltStrike)
+  > Automatically Download & Compile Useful BOFs for CS
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask)
   > A simple and handy overview of application shortcuts
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
+  > Build local voice agents with open-source models
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/flexos](https://github.com/noahware/flexos)
@@ -77,6 +105,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [peffre/ReBirth-RB-338](https://github.com/peffre/ReBirth-RB-338)
   > Rebirth RB-338 mods
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-mcp](https://github.com/datasette/datasette-mcp) public
+  > Adds a /-/mcp MCP server to any Datasette instance
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)
+  > A collection of agent skills for CAD, robotics and hardware design
+
 ### [weak1337](https://github.com/weak1337)
 - 🌟 👤 [weak1337](https://github.com/weak1337) Starred [banach-space/llvm-tutor](https://github.com/banach-space/llvm-tutor)
   > A collection of out-of-tree LLVM passes for teaching and learning
@@ -87,5 +123,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-28 17:40:52 UTC*
+*Last updated at 2026-07-28 19:42:13 UTC*
 *Historical records are stored in the `archive` directory.*
