@@ -22,6 +22,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: determi...
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs)
   > Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready T...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+  > Nano vLLM
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [erincatto/box3d](https://github.com/erincatto/box3d)
+  > Box3D is a 3D physics engine for games
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [Azure/azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net)
+  > This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we rec...
 
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [vschko/CaseStudies](https://github.com/vschko/CaseStudies) to [killvxk/CaseStudies](https://github.com/killvxk/CaseStudies)
@@ -36,16 +42,34 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Kubernetes without the root privileges
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
   > The most RAM effiecent harness
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [grizzzer/CVE-2026-42978-PoC-Research](https://github.com/grizzzer/CVE-2026-42978-PoC-Research) to [killvxk/CVE-2026-42978-PoC-Research](https://github.com/killvxk/CVE-2026-42978-PoC-Research)
+  > CVE-2026-42978 — Use-After-Free race condition in Windows Push Notifications (WpnService). Patch dif...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [4minx/CVE-2026-50522](https://github.com/4minx/CVE-2026-50522)
+  > CVE-2026-50522 PoC
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) to [killvxk/wp2shell-poc](https://github.com/killvxk/wp2shell-poc)
+  > wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [4minx/CVE-2026-50522](https://github.com/4minx/CVE-2026-50522) to [killvxk/CVE-2026-50522](https://github.com/killvxk/CVE-2026-50522)
+  > CVE-2026-50522 PoC
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [roothide/Developer](https://github.com/roothide/Developer)
+  > document for tweak Developers
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask)
   > A simple and handy overview of application shortcuts
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/implot](https://github.com/ocornut/implot)
+  > Advanced 2D Plotting for Dear ImGui
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [peffre/ReBirth-RB-338](https://github.com/peffre/ReBirth-RB-338)
   > Rebirth RB-338 mods
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Margin-Lab/evals](https://github.com/Margin-Lab/evals)
+  > Fast, robust, configurable agent evals
+
 
 ---
-*Last updated at 2026-07-28 09:40:05 UTC*
+*Last updated at 2026-07-28 12:01:56 UTC*
 *Historical records are stored in the `archive` directory.*
