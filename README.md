@@ -92,6 +92,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)
   > Build local voice agents with open-source models
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [letstri/druk](https://github.com/letstri/druk)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tuiparts/tuiparts](https://github.com/tuiparts/tuiparts)
+  > UI component library for terminal applications built on @opentui/*
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/flexos](https://github.com/noahware/flexos)
@@ -123,5 +125,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-28 19:42:13 UTC*
+*Last updated at 2026-07-28 21:14:01 UTC*
 *Historical records are stored in the `archive` directory.*
