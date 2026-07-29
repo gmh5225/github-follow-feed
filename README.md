@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [libriscv/libriscv](https://github.com/libriscv/libriscv)
+  > The fastest RISC-V sandbox
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [niqiuqiux/Androidhwdetect](https://github.com/niqiuqiux/Androidhwdetect) to [CrackerCat/Androidhwdetect](https://github.com/CrackerCat/Androidhwdetect)
   > ARM64 Android hardware breakpoint and watchpoint self-check tool
@@ -12,17 +16,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [libriscv/libriscv](https://github.com/libriscv/libriscv)
+  > The fastest RISC-V sandbox
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js)
   > Convert HTML to a multi-thousand-page vector PDF with a single line of frontend code
 
+### [NikolajBjorner](https://github.com/NikolajBjorner)
+- 🍴 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Forked [Z3Prover/z3](https://github.com/Z3Prover/z3) to [NikolajBjorner/z3](https://github.com/NikolajBjorner/z3)
+  > The Z3 Theorem Prover
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
   > bin-trace-agent 
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [openai/codex-security](https://github.com/openai/codex-security)
-  > SDKs and CLI for Codex Security
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book)
@@ -81,16 +91,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Valve Anti-Cheat bypass written in C.
 
 ### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock)
-  > A new network stack based on gVisor
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [erweixin/RaTeX](https://github.com/erweixin/RaTeX)
-  > >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. O...
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
-  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/ratatex](https://github.com/gakonst/ratatex)
-  > TeX-quality display math for Ratatui with Kitty Unicode placeholders
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVlabs/CuTe](https://github.com/NVlabs/CuTe)
-  > Reference implementation and examples of the CuTe Layout representation and algebra.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [harfbuzz/ttf-parser](https://github.com/harfbuzz/ttf-parser)
+  > A high-level, safe, zero-allocation TrueType font parser.
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [kirel/detexify-next](https://github.com/kirel/detexify-next)
@@ -131,6 +133,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [Macs75/pico8-android](https://github.com/Macs75/pico8-android)
   > A wrapper for PICO-8 to run on Android
+- 🌟 👤 [patois](https://github.com/patois) Starred [Macs75/game-and-watch-retro-go-sd](https://github.com/Macs75/game-and-watch-retro-go-sd)
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
@@ -162,5 +165,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-29 21:03:44 UTC*
+*Last updated at 2026-07-29 23:03:19 UTC*
 *Historical records are stored in the `archive` directory.*
