@@ -60,6 +60,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [farazsth98/virtualbox-qemu-vuln-research-notes](https://github.com/farazsth98/virtualbox-qemu-vuln-research-notes)
   > Vulnerability research notes for VirtualBox and QEMU. Contains debug environment setup notes, a PoC ...
 
+### [noahware](https://github.com/noahware)
+- 🌟 👤 [noahware](https://github.com/noahware) Starred [XRPLF/rippled](https://github.com/XRPLF/rippled)
+  > Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ebrahim37/kernel-read-write-using-ioctl](https://github.com/ebrahim37/kernel-read-write-using-ioctl)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nickvourd/Weaponize-CobaltStrike](https://github.com/nickvourd/Weaponize-CobaltStrike)
@@ -79,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-29 09:42:35 UTC*
+*Last updated at 2026-07-29 12:06:39 UTC*
 *Historical records are stored in the `archive` directory.*
