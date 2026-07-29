@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
   > Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me...
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
+  > 🕸️ Web apps in pure Python 🐍
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [MicroRJ/Orbiter](https://github.com/MicroRJ/Orbiter)
   > An immersive NES emulator and introspector.
@@ -53,6 +57,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock)
   > A new network stack based on gVisor
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [erweixin/RaTeX](https://github.com/erweixin/RaTeX)
+  > >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. O...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [HikariRebooted/HikariCore](https://github.com/HikariRebooted/HikariCore)
@@ -87,9 +93,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nickvourd/Weaponize-CobaltStrike](https://github.com/nickvourd/Weaponize-CobaltStrike)
   > Automatically Download & Compile Useful BOFs for CS
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
+  > Windows Subsystem for Linux
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mollyim/mollyim-android](https://github.com/mollyim/mollyim-android)
+  > Enhanced and security-focused fork of Signal.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Railgun-Community/wallet](https://github.com/Railgun-Community/wallet)
+  > SDK library to develop RAILGUN wallets
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
   > Rhai - An embedded scripting language for Rust.
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
+  > DeepSeek-v4-Flash recipe for 2x DGX Sparks
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
@@ -101,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-29 15:11:46 UTC*
+*Last updated at 2026-07-29 17:21:37 UTC*
 *Historical records are stored in the `archive` directory.*
