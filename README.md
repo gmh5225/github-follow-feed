@@ -44,9 +44,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
   > 🕸️ Web apps in pure Python 🐍
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [mahaloz/sailr-eval](https://github.com/mahaloz/sailr-eval)
+  > The SAILR paper's evaluation pipline for measuring the quality of decompilation
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [MicroRJ/Orbiter](https://github.com/MicroRJ/Orbiter)
   > An immersive NES emulator and introspector.
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [tidwall/gjson](https://github.com/tidwall/gjson)
+  > Get JSON values quickly - JSON parser for Go
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Jeffail/gabs](https://github.com/Jeffail/gabs)
+  > For parsing, creating and editing unknown or dynamic JSON in Go
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [tidwall/sjson](https://github.com/tidwall/sjson)
+  > Set JSON values very quickly in Go
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [ohler55/ojg](https://github.com/ohler55/ojg)
+  > Optimized JSON for Go
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [itchyny/gojq](https://github.com/itchyny/gojq)
+  > Pure Go implementation of jq
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore)
@@ -59,6 +77,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A new network stack based on gVisor
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [erweixin/RaTeX](https://github.com/erweixin/RaTeX)
   > >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. O...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [kirel/detexify-next](https://github.com/kirel/detexify-next)
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [HikariRebooted/HikariCore](https://github.com/HikariRebooted/HikariCore)
@@ -101,6 +124,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Railgun-Community/wallet](https://github.com/Railgun-Community/wallet)
   > SDK library to develop RAILGUN wallets
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
   > Rhai - An embedded scripting language for Rust.
@@ -119,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-29 17:21:37 UTC*
+*Last updated at 2026-07-29 19:33:31 UTC*
 *Historical records are stored in the `archive` directory.*
