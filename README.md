@@ -40,6 +40,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
   > Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre)
+  > A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. ...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [block/buzz](https://github.com/block/buzz)
+  > A hive mind communication platform
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [reflex-dev/reflex](https://github.com/reflex-dev/reflex)
   > 🕸️ Web apps in pure Python 🐍
@@ -79,6 +87,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. O...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/ratatex](https://github.com/gakonst/ratatex)
+  > TeX-quality display math for Ratatui with Kitty Unicode placeholders
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVlabs/CuTe](https://github.com/NVlabs/CuTe)
+  > Reference implementation and examples of the CuTe Layout representation and algebra.
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [kirel/detexify-next](https://github.com/kirel/detexify-next)
@@ -116,6 +128,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nickvourd/Weaponize-CobaltStrike](https://github.com/nickvourd/Weaponize-CobaltStrike)
   > Automatically Download & Compile Useful BOFs for CS
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [Macs75/pico8-android](https://github.com/Macs75/pico8-android)
+  > A wrapper for PICO-8 to run on Android
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [microsoft/WSL](https://github.com/microsoft/WSL)
   > Windows Subsystem for Linux
@@ -146,5 +162,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-29 19:33:31 UTC*
+*Last updated at 2026-07-29 21:03:44 UTC*
 *Historical records are stored in the `archive` directory.*
