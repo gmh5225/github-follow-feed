@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [flankerhqd/cyvisguard](https://github.com/flankerhqd/cyvisguard) to [CrackerCat/cyvisguard](https://github.com/CrackerCat/cyvisguard)
   > Security control plane for AI agents — identity and delegation, capability policy, data-flow taint a...
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [openai/codex-security](https://github.com/openai/codex-security)
+  > SDKs and CLI for Codex Security
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js)
   > Convert HTML to a multi-thousand-page vector PDF with a single line of frontend code
@@ -35,6 +39,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > This includes the original implementation of SELF-RAG: Learning to Retrieve, Generate and Critique t...
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
   > Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [MicroRJ/Orbiter](https://github.com/MicroRJ/Orbiter)
+  > An immersive NES emulator and introspector.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [AkashaCorporation/HikariSystem-HexCore](https://github.com/AkashaCorporation/HikariSystem-HexCore)
+  > The Native Reverse Engineering IDE. Zero-overhead binary analysis, full CPU emulation (PE/ELF), and ...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [danielkrupinski/VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass)
+  > Valve Anti-Cheat bypass written in C.
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock)
@@ -64,6 +78,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [XRPLF/rippled](https://github.com/XRPLF/rippled)
   > Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ebrahim37/kernel-read-write-using-ioctl](https://github.com/ebrahim37/kernel-read-write-using-ioctl)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nickvourd/Weaponize-CobaltStrike](https://github.com/nickvourd/Weaponize-CobaltStrike)
@@ -83,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-29 12:06:39 UTC*
+*Last updated at 2026-07-29 15:11:46 UTC*
 *Historical records are stored in the `archive` directory.*
