@@ -10,9 +10,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [flankerhqd/cyvisguard](https://github.com/flankerhqd/cyvisguard) to [CrackerCat/cyvisguard](https://github.com/CrackerCat/cyvisguard)
   > Security control plane for AI agents — identity and delegation, capability policy, data-flow taint a...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js)
+  > Convert HTML to a multi-thousand-page vector PDF with a single line of frontend code
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🚀 👤 [P4nda0s](https://github.com/P4nda0s) Made [P4nda0s/bin-trace-agent](https://github.com/P4nda0s/bin-trace-agent) public
+  > bin-trace-agent 
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [containers/gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock)
   > A new network stack based on gVisor
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ebrahim37/kernel-read-write-using-ioctl](https://github.com/ebrahim37/kernel-read-write-using-ioctl)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nickvourd/Weaponize-CobaltStrike](https://github.com/nickvourd/Weaponize-CobaltStrike)
+  > Automatically Download & Compile Useful BOFs for CS
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [rhaiscript/rhai](https://github.com/rhaiscript/rhai)
+  > Rhai - An embedded scripting language for Rust.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [BuSung-dev/Root-My-Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy)
@@ -24,5 +41,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-29 03:20:14 UTC*
+*Last updated at 2026-07-29 06:38:06 UTC*
 *Historical records are stored in the `archive` directory.*
