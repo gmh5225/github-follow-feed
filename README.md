@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [marimo-team/marimo](https://github.com/marimo-team/marimo)
   > A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, ...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [xiph/opus](https://github.com/xiph/opus)
+  > Modern audio compression for the internet.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dongfangzan/local-openai2anthropic](https://github.com/dongfangzan/local-openai2anthropic)
   > Convert your locally deployed OpenAI-compatible API to the Anthropic API format for use with Claude ...
@@ -90,5 +94,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-30 16:41:10 UTC*
+*Last updated at 2026-07-30 18:22:13 UTC*
 *Historical records are stored in the `archive` directory.*
