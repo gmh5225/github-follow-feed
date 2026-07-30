@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [tw93/Mole](https://github.com/tw93/Mole)
   > 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [rr-debugger/rr](https://github.com/rr-debugger/rr)
+  > Record and Replay Framework
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [GDPatch/GDPatch](https://github.com/GDPatch/GDPatch)
   > A versatile cross-platform cross-version Godot mod loader
@@ -76,6 +80,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
   > AgentENV (AENV) is a distributed platform for running agent environments at scale.
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [digimata/quill](https://github.com/digimata/quill)
+  > Ultra-minimalist macOS recording + transcription.
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [trailofbits/mishegos](https://github.com/trailofbits/mishegos)
   > A differential fuzzer for x86 decoders
@@ -94,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-30 18:22:13 UTC*
+*Last updated at 2026-07-30 20:19:01 UTC*
 *Historical records are stored in the `archive` directory.*
