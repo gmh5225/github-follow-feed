@@ -7,6 +7,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [0xcpu](https://github.com/0xcpu)
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
   > Open Frontier Intelligence
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [davidramiro/m2p-latency](https://github.com/davidramiro/m2p-latency)
+  > ⌛ measure mouse-to-photon system latency or input lag with an arduino and a phototransistor
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [S4N-T0S/Open-Source-LDAT](https://github.com/S4N-T0S/Open-Source-LDAT)
+  > High-precision system latency measurement tool inspired by NVIDIA's LDAT. Built with a Teensy 4.1, i...
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [OSRTT/OSLTT](https://github.com/OSRTT/OSLTT)
+  > Open Source Latency Test Tool 
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cubicdaiya/dtl](https://github.com/cubicdaiya/dtl)
@@ -42,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [marimo-team/marimo](https://github.com/marimo-team/marimo)
   > A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, ...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [xiph/opus](https://github.com/xiph/opus)
   > Modern audio compression for the internet.
@@ -58,9 +68,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Guardsquare/flutter-re-demo](https://github.com/Guardsquare/flutter-re-demo)
   > Experiments on the feasibility of Flutter application reverse engineering
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo)
+  > The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No AP...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [digimata/quill](https://github.com/digimata/quill)
   > Ultra-minimalist macOS recording + transcription.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [spmurrayzzz/minimax-rs](https://github.com/spmurrayzzz/minimax-rs)
+  > Custom inference engine to run Minimax-M2.X series of models on dual RTX Pro 6000 (sm120)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP)
@@ -102,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-30 20:19:01 UTC*
+*Last updated at 2026-07-30 22:12:47 UTC*
 *Historical records are stored in the `archive` directory.*
