@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
   > Open Frontier Intelligence
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [cubicdaiya/dtl](https://github.com/cubicdaiya/dtl)
+  > diff template library written by C++
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) to [CrackerCat/kuna](https://github.com/CrackerCat/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
@@ -29,6 +33,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [GDPatch/GDPatch](https://github.com/GDPatch/GDPatch)
   > A versatile cross-platform cross-version Godot mod loader
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [marimo-team/marimo](https://github.com/marimo-team/marimo)
+  > A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, ...
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dongfangzan/local-openai2anthropic](https://github.com/dongfangzan/local-openai2anthropic)
+  > Convert your locally deployed OpenAI-compatible API to the Anthropic API format for use with Claude ...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Guardsquare/flutter-re-demo](https://github.com/Guardsquare/flutter-re-demo)
@@ -64,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-30 11:14:45 UTC*
+*Last updated at 2026-07-30 14:21:09 UTC*
 *Historical records are stored in the `archive` directory.*
