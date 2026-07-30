@@ -42,9 +42,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dongfangzan/local-openai2anthropic](https://github.com/dongfangzan/local-openai2anthropic)
   > Convert your locally deployed OpenAI-compatible API to the Anthropic API format for use with Claude ...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [microsoft/llm-backdoor-scanner](https://github.com/microsoft/llm-backdoor-scanner)
+  > Research code for the paper "The Trigger in the Haystack: Extracting and Reconstructing LLM Backdoor...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Guardsquare/flutter-re-demo](https://github.com/Guardsquare/flutter-re-demo)
   > Experiments on the feasibility of Flutter application reverse engineering
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [digimata/quill](https://github.com/digimata/quill)
+  > Ultra-minimalist macOS recording + transcription.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP)
@@ -74,7 +82,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)
   > Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [digimata/quill](https://github.com/digimata/quill)
+  > Ultra-minimalist macOS recording + transcription.
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [digimata/parrot](https://github.com/digimata/parrot)
+  > Ultra-minimalist macOS dictation.
+
 
 ---
-*Last updated at 2026-07-30 14:21:09 UTC*
+*Last updated at 2026-07-30 16:41:10 UTC*
 *Historical records are stored in the `archive` directory.*
