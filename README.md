@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
+  > Open Frontier Intelligence
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna) to [CrackerCat/kuna](https://github.com/CrackerCat/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
@@ -36,6 +40,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [NotMedic/rdp-tunnel](https://github.com/NotMedic/rdp-tunnel)
   > Pre-compiled tools to tunnel TCP over RDP Connections 
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [triamazikamno/railoxide](https://github.com/triamazikamno/railoxide)
+  > Privacy-oriented RAILGUN wallet implemented in Rust
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [artyom-chyornyj/privacy-wallet](https://github.com/artyom-chyornyj/privacy-wallet)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [EthereumPhone/PQ1](https://github.com/EthereumPhone/PQ1)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [sgl-project/sglang](https://github.com/sgl-project/sglang)
+  > SGLang is a high-performance serving framework for large language models and multimodal models.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)
+  > Open Frontier Intelligence
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV)
+  > AgentENV (AENV) is a distributed platform for running agent environments at scale.
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [trailofbits/mishegos](https://github.com/trailofbits/mishegos)
   > A differential fuzzer for x86 decoders
@@ -48,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-30 08:39:50 UTC*
+*Last updated at 2026-07-30 11:14:45 UTC*
 *Historical records are stored in the `archive` directory.*
