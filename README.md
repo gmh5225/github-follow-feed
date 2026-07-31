@@ -11,6 +11,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Coldzer0](https://github.com/Coldzer0)
 - 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Macmod/flashingestor](https://github.com/Macmod/flashingestor)
+  > A TUI for Active Directory collection.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko) to [CrackerCat/ghostlock-rothko](https://github.com/CrackerCat/ghostlock-rothko)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightrion/skills](https://github.com/Lightrion/skills) to [CrackerCat/Lightrion-skills](https://github.com/CrackerCat/Lightrion-skills)
@@ -25,6 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
   > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [yc-software/qm](https://github.com/yc-software/qm)
+  > Multiplayer agent harness for work
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [antirez/ds4](https://github.com/antirez/ds4)
@@ -51,20 +57,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > "Insert No Coins" 64k intro
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [razordemo/the-scene-is-dead](https://github.com/razordemo/the-scene-is-dead)
   > sources of the 64k intro "THE SCENE IS DEAD"
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [evalkit/evalkit](https://github.com/evalkit/evalkit)
-  > The TypeScript LLM Evaluation Library
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [longbridge/gpui-component](https://github.com/longbridge/gpui-component)
-  > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [oras-project/rust-oci-client](https://github.com/oras-project/rust-oci-client) to [gakonst/rust-oci-client](https://github.com/gakonst/rust-oci-client)
-  > A Rust crate to interact with OCI registries
-- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [tempoxyz/mpp-rs](https://github.com/tempoxyz/mpp-rs) to [gakonst/mpp-rs](https://github.com/gakonst/mpp-rs)
-  > Rust SDK for the Machine Payments Protocol
-- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [tempoxyz/tempo](https://github.com/tempoxyz/tempo) to [gakonst/tempo](https://github.com/gakonst/tempo)
-  > the blockchain for payments
-- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) to [gakonst/reqwest](https://github.com/gakonst/reqwest)
-  > An easy and powerful Rust HTTP Client
 
 ### [guttir14](https://github.com/guttir14)
 - 🌟 👤 [guttir14](https://github.com/guttir14) Starred [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust)
@@ -148,6 +140,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [annmaro/nixri](https://github.com/annmaro/nixri)
+  > ❄️ Infinitely scrolling through a declarative world. NixOS + niri setup.
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [nickjj/dotfriedrice](https://github.com/nickjj/dotfriedrice)
+  > Set up a developer friendly niri / Arch Linux system in minutes. Also supports WSL 2, Debian, Ubuntu...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell)
+  > Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway...
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/ttd-capa](https://github.com/HullaBrian/ttd-capa)
@@ -155,5 +153,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-31 20:23:33 UTC*
+*Last updated at 2026-07-31 22:10:45 UTC*
 *Historical records are stored in the `archive` directory.*
