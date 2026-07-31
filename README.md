@@ -11,6 +11,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko) to [CrackerCat/ghostlock-rothko](https://github.com/CrackerCat/ghostlock-rothko)
   > CVE-2026-43499 GhostLock exploit for Redmi K70 Ultra (rothko) - data-only physmap overwrite
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightrion/skills](https://github.com/Lightrion/skills) to [CrackerCat/Lightrion-skills](https://github.com/CrackerCat/Lightrion-skills)
+  > Claude Agent Skills for AOSP platform development and Android app development, powered by the Lightr...
+
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [0xv1n/macnoise](https://github.com/0xv1n/macnoise)
+  > Extensible MacOS system telemetry generator.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
@@ -38,11 +44,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVIDIA-RTX/RTXNTC](https://github.com/NVIDIA-RTX/RTXNTC)
   > NVIDIA Neural Texture Compression SDK
 
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [spacemit-com/ai-sdk](https://github.com/spacemit-com/ai-sdk)
+- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) to [lazyparser/rt-thread](https://github.com/lazyparser/rt-thread)
+  > RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                  ...
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [HKUDS/nanobot](https://github.com/HKUDS/nanobot)
+  > Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools,...
+- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [HKUDS/nanobot](https://github.com/HKUDS/nanobot) to [lazyparser/nanobot](https://github.com/lazyparser/nanobot)
+  > Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools,...
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [earendil-works/pi](https://github.com/earendil-works/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [earendil-works/pi](https://github.com/earendil-works/pi) to [lazyparser/pi](https://github.com/lazyparser/pi)
+  > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
   > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
 
 
 ---
-*Last updated at 2026-07-31 04:28:49 UTC*
+*Last updated at 2026-07-31 07:55:40 UTC*
 *Historical records are stored in the `archive` directory.*
