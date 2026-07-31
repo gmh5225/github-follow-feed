@@ -71,6 +71,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVIDIA-RTX/RTXNTC](https://github.com/NVIDIA-RTX/RTXNTC)
   > NVIDIA Neural Texture Compression SDK
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sfewer-r7/CVE-2026-16232](https://github.com/sfewer-r7/CVE-2026-16232)
+  > A proof-of-concept script to exploit CVE-2026-16232, an authentication bypass via the SmartConsole l...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [sfewer-r7/CVE-2026-16232](https://github.com/sfewer-r7/CVE-2026-16232) to [killvxk/CVE-2026-16232](https://github.com/killvxk/CVE-2026-16232)
+  > A proof-of-concept script to exploit CVE-2026-16232, an authentication bypass via the SmartConsole l...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [magicsword-io/Magic-Atomics](https://github.com/magicsword-io/Magic-Atomics)
+  > Prevention-focused living-off-the-land testing framework mapped to MITRE ATT&CK.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [pashov/ai-web3-security](https://github.com/pashov/ai-web3-security)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [lissy93/bug-bounties](https://github.com/lissy93/bug-bounties)
+  > ⚔️ Community maintained directory, MCP and API of 3,000+ active bug bounty programs and VDPs
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SquidSec/SquidGate](https://github.com/SquidSec/SquidGate)
+  > SquidGate — LLM-powered PR security gate for GitHub. A SquidSec open source project.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [parcadei/tldr-code](https://github.com/parcadei/tldr-code)
+  > Token-efficient code analysis for LLMs
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs)
+  > IPSW Diffs
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [spacemit-com/ai-sdk](https://github.com/spacemit-com/ai-sdk)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [RT-Thread/rt-thread](https://github.com/RT-Thread/rt-thread) to [lazyparser/rt-thread](https://github.com/lazyparser/rt-thread)
@@ -100,6 +117,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/codex-security](https://github.com/openai/codex-security)
   > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [fvrmatteo/DrillAndJoin](https://github.com/fvrmatteo/DrillAndJoin)
+  > AI implementation of the "Drill & Join: A Method for Exact Inductive Program Synthesis" paper by Rem...
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
   > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
@@ -108,7 +129,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/ttd-capa](https://github.com/HullaBrian/ttd-capa)
+  > Capability extraction from Time Travel Debugging Traces
+
 
 ---
-*Last updated at 2026-07-31 16:04:01 UTC*
+*Last updated at 2026-07-31 18:24:00 UTC*
 *Historical records are stored in the `archive` directory.*
