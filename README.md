@@ -10,17 +10,30 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko) to [CrackerCat/ghostlock-rothko](https://github.com/CrackerCat/ghostlock-rothko)
-  > CVE-2026-43499 GhostLock exploit for Redmi K70 Ultra (rothko) - data-only physmap overwrite
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightrion/skills](https://github.com/Lightrion/skills) to [CrackerCat/Lightrion-skills](https://github.com/CrackerCat/Lightrion-skills)
   > Claude Agent Skills for AOSP platform development and Android app development, powered by the Lightr...
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [0xv1n/macnoise](https://github.com/0xv1n/macnoise)
   > Extensible MacOS system telemetry generator.
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [seemoo-lab/fakesetup](https://github.com/seemoo-lab/fakesetup)
+  > Emulate a new iPhone running iOS Quick Start and wirelessly back up your iOS device.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
   > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
+  > An extremely fast Python linter and code formatter, written in Rust.
+
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [utkusen/sast-skills](https://github.com/utkusen/sast-skills)
+  > Collection of agent skills that turn your AI coder into a SAST scanner
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🚀 👤 [fvrmatteo](https://github.com/fvrmatteo) Made [fvrmatteo/AutomaticAbstractionForCongruences](https://github.com/fvrmatteo/AutomaticAbstractionForCongruences) public
+  > AI implementation of the "Automatic Abstraction for Congruences" and "Automatic Abstraction for Inte...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [evalkit/evalkit](https://github.com/evalkit/evalkit)
@@ -57,6 +70,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [earendil-works/pi](https://github.com/earendil-works/pi) to [lazyparser/pi](https://github.com/lazyparser/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+  > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [picolibc/picolibc](https://github.com/picolibc/picolibc) to [frida/picolibc](https://github.com/frida/picolibc)
+  > picolibc - a C library designed for embedded 32- and 64- bit systems.
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/codex-security](https://github.com/openai/codex-security)
   > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
@@ -67,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-31 10:47:29 UTC*
+*Last updated at 2026-07-31 13:00:56 UTC*
 *Historical records are stored in the `archive` directory.*
