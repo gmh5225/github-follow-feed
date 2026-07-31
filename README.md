@@ -57,11 +57,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [earendil-works/pi](https://github.com/earendil-works/pi) to [lazyparser/pi](https://github.com/lazyparser/pi)
   > AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/codex-security](https://github.com/openai/codex-security)
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
   > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
 
 
 ---
-*Last updated at 2026-07-31 07:55:40 UTC*
+*Last updated at 2026-07-31 10:47:29 UTC*
 *Historical records are stored in the `archive` directory.*
