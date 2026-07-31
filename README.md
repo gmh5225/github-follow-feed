@@ -23,6 +23,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
   > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [fvrmatteo/DrillAndJoin](https://github.com/fvrmatteo/DrillAndJoin)
+  > AI implementation of the "Drill & Join: A Method for Exact Inductive Program Synthesis" paper by Rem...
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [astral-sh/ruff](https://github.com/astral-sh/ruff)
   > An extremely fast Python linter and code formatter, written in Rust.
@@ -34,6 +42,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🚀 👤 [fvrmatteo](https://github.com/fvrmatteo) Made [fvrmatteo/AutomaticAbstractionForCongruences](https://github.com/fvrmatteo/AutomaticAbstractionForCongruences) public
   > AI implementation of the "Automatic Abstraction for Congruences" and "Automatic Abstraction for Inte...
+- 🚀 👤 [fvrmatteo](https://github.com/fvrmatteo) Made [fvrmatteo/DrillAndJoin](https://github.com/fvrmatteo/DrillAndJoin) public
+  > AI implementation of the "Drill & Join: A Method for Exact Inductive Program Synthesis" paper by Rem...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [razordemo/insert-no-coins](https://github.com/razordemo/insert-no-coins)
+  > "Insert No Coins" 64k intro
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [razordemo/the-scene-is-dead](https://github.com/razordemo/the-scene-is-dead)
+  > sources of the 64k intro "THE SCENE IS DEAD"
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [evalkit/evalkit](https://github.com/evalkit/evalkit)
@@ -74,6 +88,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
   > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [HexaEngine/Hexa.NET.ImGui](https://github.com/HexaEngine/Hexa.NET.ImGui)
+  > A .NET wrapper for the Dear ImGui.
+
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [picolibc/picolibc](https://github.com/picolibc/picolibc) to [frida/picolibc](https://github.com/frida/picolibc)
   > picolibc - a C library designed for embedded 32- and 64- bit systems.
@@ -86,7 +104,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
   > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
 
 ---
-*Last updated at 2026-07-31 13:00:56 UTC*
+*Last updated at 2026-07-31 16:04:01 UTC*
 *Historical records are stored in the `archive` directory.*
