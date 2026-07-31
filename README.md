@@ -8,6 +8,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [hrvach/deskhop](https://github.com/hrvach/deskhop)
   > Fast Desktop Switching Device
 
+### [Coldzer0](https://github.com/Coldzer0)
+- 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [can1357/vibemon](https://github.com/can1357/vibemon)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SlightNeko/ghostlock-rothko](https://github.com/SlightNeko/ghostlock-rothko) to [CrackerCat/ghostlock-rothko](https://github.com/CrackerCat/ghostlock-rothko)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightrion/skills](https://github.com/Lightrion/skills) to [CrackerCat/Lightrion-skills](https://github.com/CrackerCat/Lightrion-skills)
@@ -87,6 +90,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Token-efficient code analysis for LLMs
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [blacktop/ipsw-diffs](https://github.com/blacktop/ipsw-diffs)
   > IPSW Diffs
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [waryas/WaryasSWHE](https://github.com/waryas/WaryasSWHE)
+  > Usermode exploit to bypass any AC using a 0day shatter attack.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [krzysztofslusarski/jvm-profiling-toolkit](https://github.com/krzysztofslusarski/jvm-profiling-toolkit)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rengwu/chartr](https://github.com/rengwu/chartr)
+  > Agent multiplexer with map-charting capabilities
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nickvourd/RTI-Toolkit](https://github.com/nickvourd/RTI-Toolkit)
+  > Remote Template Injection Toolkit
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nickvourd/CLR-Stomp](https://github.com/nickvourd/CLR-Stomp)
+  > .NET CLR-Stomping
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [spacemit-com/ai-sdk](https://github.com/spacemit-com/ai-sdk)
@@ -104,6 +116,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
   > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark](https://github.com/tonyd2wild/DeepSeek-v4-Flash-0731-DSpark-1M-NVFP4-KV-2x-DGX-Spark)
+  > DeepSeek V4 Flash DSpark 1M NVFP4 KV recipe for 2x DGX Spark
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [HexaEngine/Hexa.NET.ImGui](https://github.com/HexaEngine/Hexa.NET.ImGui)
@@ -125,6 +141,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [Noelo-Lab/decbench](https://github.com/Noelo-Lab/decbench)
   > DecBench: An experimental living benchmark to measure how close we are to perfect decompilation on b...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Macmod/flashingestor](https://github.com/Macmod/flashingestor)
+  > A TUI for Active Directory collection.
+
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
@@ -135,5 +155,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-07-31 18:24:00 UTC*
+*Last updated at 2026-07-31 20:23:33 UTC*
 *Historical records are stored in the `archive` directory.*
