@@ -79,7 +79,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [frankmcsherry/datatoad](https://github.com/frankmcsherry/datatoad)
   > An interactive Datalog
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [openai/codex-security](https://github.com/openai/codex-security)
+  > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [arxenix/phpfuck](https://github.com/arxenix/phpfuck)
+  > phpfuck: using only 5 different characters to write and execute php // (^.9)
+
 
 ---
-*Last updated at 2026-08-01 16:05:45 UTC*
+*Last updated at 2026-08-01 18:03:41 UTC*
 *Historical records are stored in the `archive` directory.*
