@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [ElectronicCats/CatSniffer](https://github.com/ElectronicCats/CatSniffer)
   > CatSniffer is an original multiprotocol and multiband board for sniffing, communicating, and attacki...
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Alex-LeTux/perfect_dark_VR](https://github.com/Alex-LeTux/perfect_dark_VR)
+  > PCVR and Standalone Meta Quest VR port!! Work in progress port of n64decomp/perfect_dark to modern p...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
   > Private, searchable screen history for macOS.
@@ -24,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Esadecimale/chip-8](https://github.com/Esadecimale/chip-8)
   > CHIP-8 Virtual Machine implementation using C for educational purposes.
 
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [CookiePLMonster/SilentPatch](https://github.com/CookiePLMonster/SilentPatch) to [ZehMatt/SilentPatch](https://github.com/ZehMatt/SilentPatch)
+  > SilentPatch for GTA III, Vice City, and San Andreas
+
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [cocomelonc/whiskers](https://github.com/cocomelonc/whiskers)
   > a minimalist micro TI / SOC context panel powered by local AI + Malpedia API
@@ -39,6 +47,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mlabonne](https://github.com/mlabonne)
 - 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [RESMP-DEV/lfm25-embedding-trainer](https://github.com/RESMP-DEV/lfm25-embedding-trainer)
   > Fine-tune LiquidAI LFM2.5 Embedding models for dense retrieval using your own data
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [FrkAk/piyaz](https://github.com/FrkAk/piyaz)
+  > The agentic workspace where people and  agents work together in the loop.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
@@ -67,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-01 14:37:32 UTC*
+*Last updated at 2026-08-01 16:05:45 UTC*
 *Historical records are stored in the `archive` directory.*
