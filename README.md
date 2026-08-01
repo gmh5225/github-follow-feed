@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
   > Private, searchable screen history for macOS.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alshedivat/al-folio](https://github.com/alshedivat/al-folio)
+  > A beautiful, simple, clean, and responsive Jekyll theme for academics
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/APKAnalyzer](https://github.com/Johnny520/APKAnalyzer) to [CrackerCat/APKAnalyzer](https://github.com/CrackerCat/APKAnalyzer)
@@ -43,6 +45,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [uPesy/easyeda2kicad.py](https://github.com/uPesy/easyeda2kicad.py)
   > Convert any LCSC components (including EasyEDA) to KiCad library
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Ephemeral-AI-Lab/ephemeral-sandbox](https://github.com/Ephemeral-AI-Lab/ephemeral-sandbox)
+  > Open-source agent sandbox infrastructure for parallel coding agents: isolated workspaces, MCP/CLI co...
 
 ### [mlabonne](https://github.com/mlabonne)
 - 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [RESMP-DEV/lfm25-embedding-trainer](https://github.com/RESMP-DEV/lfm25-embedding-trainer)
@@ -79,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [frankmcsherry/datatoad](https://github.com/frankmcsherry/datatoad)
   > An interactive Datalog
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [openai/ten-proofs](https://github.com/openai/ten-proofs)
+  > Lean certificates accompanying proofs in mathematics and theoretical computer science
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [openai/codex-security](https://github.com/openai/codex-security)
   > OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerab...
@@ -87,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-01 18:03:41 UTC*
+*Last updated at 2026-08-01 20:12:00 UTC*
 *Historical records are stored in the `archive` directory.*
