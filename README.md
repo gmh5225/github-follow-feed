@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [ElectronicCats/CatSniffer](https://github.com/ElectronicCats/CatSniffer)
   > CatSniffer is an original multiprotocol and multiband board for sniffing, communicating, and attacki...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
+  > Private, searchable screen history for macOS.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/APKAnalyzer](https://github.com/Johnny520/APKAnalyzer) to [CrackerCat/APKAnalyzer](https://github.com/CrackerCat/APKAnalyzer)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Johnny520/wcx](https://github.com/Johnny520/wcx) to [CrackerCat/wcx](https://github.com/CrackerCat/wcx)
@@ -16,9 +20,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alexander-hanel/APTnotes-md](https://github.com/alexander-hanel/APTnotes-md) to [CrackerCat/APTnotes-md](https://github.com/CrackerCat/APTnotes-md)
   > APTNotes various public documents, whitepapers and articles about APT campaigns converted to Markdow...
 
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [cocomelonc/whiskers](https://github.com/cocomelonc/whiskers)
+  > a minimalist micro TI / SOC context panel powered by local AI + Malpedia API
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
   > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
+
+### [mlabonne](https://github.com/mlabonne)
+- 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [RESMP-DEV/lfm25-embedding-trainer](https://github.com/RESMP-DEV/lfm25-embedding-trainer)
+  > Fine-tune LiquidAI LFM2.5 Embedding models for dense retrieval using your own data
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark) to [mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/mrexodia/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
@@ -36,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-01 10:05:21 UTC*
+*Last updated at 2026-08-01 12:05:33 UTC*
 *Historical records are stored in the `archive` directory.*
