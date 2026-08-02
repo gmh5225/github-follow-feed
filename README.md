@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nuntax/nitro-rust-runtime](https://github.com/nuntax/nitro-rust-runtime)
+  > Mechanically extracted Nitro Rust runtime crates for Cargo consumers
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) to [HLND2T/systeminformer](https://github.com/HLND2T/systeminformer)
   > A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and det...
@@ -54,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [karpathy](https://github.com/karpathy) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
   > Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weigh...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [RobertWojtowicz/export2garmin](https://github.com/RobertWojtowicz/export2garmin)
+  > Export Mi | Xiaomi scale & Omron data to Garmin Connect
+
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🍴 👤 [mach-port-t](https://github.com/mach-port-t) Forked [paladin-t/fantasy](https://github.com/paladin-t/fantasy) to [mach-port-t/fantasy](https://github.com/mach-port-t/fantasy)
   > A curated list of available fantasy consoles/computers.
@@ -63,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An agentic operating system where the kernel is controlled directly by Claude
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
   > Pi extension: rewrite rough prompts into precise technical prompts before send
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
+  > Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powere...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
@@ -99,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-02 20:13:56 UTC*
+*Last updated at 2026-08-02 22:00:53 UTC*
 *Historical records are stored in the `archive` directory.*
