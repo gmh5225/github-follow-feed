@@ -40,9 +40,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [robiot/fable-os](https://github.com/robiot/fable-os)
   > An agentic operating system where the kernel is controlled directly by Claude
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
+  > Pi extension: rewrite rough prompts into precise technical prompts before send
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [x64dbg/GleeBug](https://github.com/x64dbg/GleeBug) to [mrexodia/GleeBug](https://github.com/mrexodia/GleeBug)
+  > Debugging Framework for Windows.
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [revng/revng](https://github.com/revng/revng)
   > revng: the core repository of the rev.ng project
+
+### [rasbt](https://github.com/rasbt)
+- 🌟 👤 [rasbt](https://github.com/rasbt) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+  > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [yc-software/qm](https://github.com/yc-software/qm)
@@ -56,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-02 12:08:48 UTC*
+*Last updated at 2026-08-02 14:39:52 UTC*
 *Historical records are stored in the `archive` directory.*
