@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > :zap: KCP - A Fast and Reliable ARQ Protocol
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [xtaci/kcp-go](https://github.com/xtaci/kcp-go)
   > A crypto-secure Reliable-UDP library for Golang with FEC support.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [winterknife/PLATINUMPICK](https://github.com/winterknife/PLATINUMPICK)
+  > Windows Kernel-Mode Shellcode Development Framework (WKMSDF)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Xieansecn/buildGKI-5.10.252](https://github.com/Xieansecn/buildGKI-5.10.252) to [CrackerCat/buildGKI-5.10.252](https://github.com/CrackerCat/buildGKI-5.10.252)
@@ -36,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [aquynh](https://github.com/aquynh) Starred [vinsoc-cyber/peryton](https://github.com/vinsoc-cyber/peryton)
   > Tool suite to analyze MS Office malware
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [antirez/ds4](https://github.com/antirez/ds4)
+  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) to [HLND2T/systeminformer](https://github.com/HLND2T/systeminformer)
   > A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and det...
@@ -55,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [robiot/fable-os](https://github.com/robiot/fable-os)
   > An agentic operating system where the kernel is controlled directly by Claude
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
+  > Pi extension: rewrite rough prompts into precise technical prompts before send
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dodo-reach/pi-clarify](https://github.com/dodo-reach/pi-clarify)
@@ -85,7 +93,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [h5i-dev/h5i](https://github.com/h5i-dev/h5i)
   > Auditable workspaces for AI coding agents: sandboxed worktrees, programmable multi-agent orchestrati...
 
+### [weltling](https://github.com/weltling)
+- 🍴 👤 [weltling](https://github.com/weltling) Forked [microsoft/openvmm](https://github.com/microsoft/openvmm) to [weltling/openvmm](https://github.com/weltling/openvmm)
+  > Home of OpenVMM and OpenHCL
+
 
 ---
-*Last updated at 2026-08-02 18:04:11 UTC*
+*Last updated at 2026-08-02 20:13:56 UTC*
 *Historical records are stored in the `archive` directory.*
