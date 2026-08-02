@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli)
   > Hex-Rays CLI (HCLI)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [NyaMisty/docker-ida](https://github.com/NyaMisty/docker-ida)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research)
+  > Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、...
 
 ### [aquynh](https://github.com/aquynh)
 - 🌟 👤 [aquynh](https://github.com/aquynh) Starred [vinsoc-cyber/peryton](https://github.com/vinsoc-cyber/peryton)
@@ -54,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-02 10:03:25 UTC*
+*Last updated at 2026-08-02 12:08:48 UTC*
 *Historical records are stored in the `archive` directory.*
