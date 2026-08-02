@@ -4,9 +4,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [MidnightBlueLabs/TETRA_crypto](https://github.com/MidnightBlueLabs/TETRA_crypto)
+  > Reverse engineered TETRA cryptographic primitives
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [oxidecomputer/helios](https://github.com/oxidecomputer/helios)
   > Helios: Or, a Vision in a Dream. A Fragment.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [skywind3000/kcp](https://github.com/skywind3000/kcp)
+  > :zap: KCP - A Fast and Reliable ARQ Protocol
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [xtaci/kcp-go](https://github.com/xtaci/kcp-go)
+  > A crypto-secure Reliable-UDP library for Golang with FEC support.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Xieansecn/buildGKI-5.10.252](https://github.com/Xieansecn/buildGKI-5.10.252) to [CrackerCat/buildGKI-5.10.252](https://github.com/CrackerCat/buildGKI-5.10.252)
@@ -36,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [nyrahealth/CrisperWhisper](https://github.com/nyrahealth/CrisperWhisper)
   > Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection
 
+### [karpathy](https://github.com/karpathy)
+- 🌟 👤 [karpathy](https://github.com/karpathy) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
+  > Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weigh...
+
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🍴 👤 [mach-port-t](https://github.com/mach-port-t) Forked [paladin-t/fantasy](https://github.com/paladin-t/fantasy) to [mach-port-t/fantasy](https://github.com/mach-port-t/fantasy)
   > A curated list of available fantasy consoles/computers.
@@ -49,6 +61,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Pi extension: rewrite rough prompts into precise technical prompts before send
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [x64dbg/GleeBug](https://github.com/x64dbg/GleeBug) to [mrexodia/GleeBug](https://github.com/mrexodia/GleeBug)
   > Debugging Framework for Windows.
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [gattaca-com/helix](https://github.com/gattaca-com/helix)
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [revng/revng](https://github.com/revng/revng)
@@ -72,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-02 16:05:59 UTC*
+*Last updated at 2026-08-02 18:04:11 UTC*
 *Historical records are stored in the `archive` directory.*
