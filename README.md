@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yfe404/jsvm](https://github.com/yfe404/jsvm) to [CrackerCat/yfe404-jsvm](https://github.com/CrackerCat/yfe404-jsvm)
   > A small, fast V8 runner for one-shot JavaScript.
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/NeuroPurple](https://github.com/JoasASantos/NeuroPurple)
+  > The AI Autonomous SOC & Purple-Team Engine
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [HexRaysSA/ida-hcli](https://github.com/HexRaysSA/ida-hcli)
   > Hex-Rays CLI (HCLI)
@@ -49,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [revng/revng](https://github.com/revng/revng)
   > revng: the core repository of the rev.ng project
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [mikke89/RmlUi](https://github.com/mikke89/RmlUi)
+  > RmlUi - The HTML/CSS User Interface library evolved
 
 ### [rasbt](https://github.com/rasbt)
 - 🌟 👤 [rasbt](https://github.com/rasbt) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
@@ -66,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-02 14:39:52 UTC*
+*Last updated at 2026-08-02 16:05:59 UTC*
 *Historical records are stored in the `archive` directory.*
