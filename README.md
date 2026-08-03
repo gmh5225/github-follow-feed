@@ -76,6 +76,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [chrisliuqq/mlx-whisper-rs](https://github.com/chrisliuqq/mlx-whisper-rs)
   > MLX-accelerated Whisper speech recognition for Apple Silicon, written in pure Rust.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [maisem/tailmix](https://github.com/maisem/tailmix)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [badkeys/badkeys](https://github.com/badkeys/badkeys)
@@ -121,6 +122,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)
   > Abseil Common Libraries (C++)
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
+  > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
   > Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct ...
@@ -133,6 +138,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Inkling-Small-NVFP4-Dual-DGX-Sparks](https://github.com/MiaAI-Lab/Inkling-Small-NVFP4-Dual-DGX-Sparks)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boldsoftware/meat](https://github.com/boldsoftware/meat)
   > meat.dev
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [NVIDIA-Omniverse/ovui](https://github.com/NVIDIA-Omniverse/ovui)
+  > The standalone distribution of NVIDIA Omniverse's omni.ui UI framework, extracted to run independent...
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [osm0sis/TrickyStoreOSS](https://github.com/osm0sis/TrickyStoreOSS)
@@ -148,5 +157,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-03 21:11:50 UTC*
+*Last updated at 2026-08-03 23:09:55 UTC*
 *Historical records are stored in the `archive` directory.*
