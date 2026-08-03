@@ -4,9 +4,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [chadhyatt/binja-wasm](https://github.com/chadhyatt/binja-wasm)
+  > WebAssembly architecture plugin for Binary Ninja
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [shaheeryasirofficial/project-scorpio](https://github.com/shaheeryasirofficial/project-scorpio)
+  > A Windows process injection loader combining PPID spoofing, manual DLL mapping, module stomping, and...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [matteyeux/binja-diff](https://github.com/matteyeux/binja-diff)
   > Binary Ninja diffing tool
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [codetesla51/barrage](https://github.com/codetesla51/barrage)
+  > Load test HTTP, database, and Redis on one clock and correlate their latency to pinpoint the real bo...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [asLody/dexdec](https://github.com/asLody/dexdec) to [CrackerCat/dexdec](https://github.com/CrackerCat/dexdec)
@@ -31,9 +41,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
   > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 
+### [aquynh](https://github.com/aquynh)
+- 🌟 👤 [aquynh](https://github.com/aquynh) Starred [vinsoc-cyber/cfopwn](https://github.com/vinsoc-cyber/cfopwn)
+  > Auto Exploitation for Coroutine Frame Oriented Programming
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
   > Video stabilization using gyroscope data
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [onuralpszr/trackforge](https://github.com/onuralpszr/trackforge)
+  > Unified, high-performance computer vision tracking library
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)
+  > NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This reposi...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pykeio/ort](https://github.com/pykeio/ort)
+  > Fast ML inference & training for ONNX models in Rust
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
+  > Rust bindings for the C++ api of PyTorch.
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [yc-software/qm](https://github.com/yc-software/qm)
@@ -59,6 +81,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Private, searchable screen history for macOS.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
   > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [NeverSight/NeverC](https://github.com/NeverSight/NeverC) to [killvxk/NeverC](https://github.com/killvxk/NeverC)
+  > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Lessica/CranePKDServerFix](https://github.com/Lessica/CranePKDServerFix)
+  > Repairs Crane PKDServer discovery on iOS 17.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [winterknife/PLATINUMPICK](https://github.com/winterknife/PLATINUMPICK)
+  > Windows Kernel-Mode Shellcode Development Framework (WKMSDF)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dinosn/mariadb-13-rce-lab](https://github.com/dinosn/mariadb-13-rce-lab)
+  > MariaDB 13.0.1-rc RCE lab — priv-esc + heap UAF + JOP chain to system() as uid 999(mysql) on stock D...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [dinosn/mariadb-13-rce-lab](https://github.com/dinosn/mariadb-13-rce-lab) to [killvxk/mariadb-13-rce-lab](https://github.com/killvxk/mariadb-13-rce-lab)
+  > MariaDB 13.0.1-rc RCE lab — priv-esc + heap UAF + JOP chain to system() as uid 999(mysql) on stock D...
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
@@ -69,6 +102,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
   > Bridge between agents and IDA Pro.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)
+  > Abseil Common Libraries (C++)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder)
@@ -77,14 +112,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Run a real Chrome browser inside your terminal. Uses CDP screencast + Kitty graphics protocol.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [epoch-research/MirrorCode](https://github.com/epoch-research/MirrorCode)
   > Public repository for MirrorCode
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
+  > Bridge between agents and IDA Pro.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Inkling-Small-NVFP4-Dual-DGX-Sparks](https://github.com/MiaAI-Lab/Inkling-Small-NVFP4-Dual-DGX-Sparks)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [boldsoftware/meat](https://github.com/boldsoftware/meat)
+  > meat.dev
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [osm0sis/TrickyStoreOSS](https://github.com/osm0sis/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [mgaitan/pytest-leak-finder](https://github.com/mgaitan/pytest-leak-finder)
-  > Find the test that's leaking before the one that fails
+### [rnk](https://github.com/rnk)
+- 🍴 👤 [rnk](https://github.com/rnk) Forked [executablebooks/rst-to-myst](https://github.com/executablebooks/rst-to-myst) to [rnk/rst-to-myst](https://github.com/rnk/rst-to-myst)
+  > Convert ReStructuredText to MyST Markdown
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [arimlabs/malware-bench](https://github.com/arimlabs/malware-bench)
@@ -92,5 +132,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-03 17:57:35 UTC*
+*Last updated at 2026-08-03 19:49:07 UTC*
 *Historical records are stored in the `archive` directory.*
