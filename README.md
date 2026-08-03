@@ -20,6 +20,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [browser-use/video-use](https://github.com/browser-use/video-use)
   > Edit videos with coding agents
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
@@ -33,6 +35,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [badkeys/badkeys](https://github.com/badkeys/badkeys)
   > Tool to find common vulnerabilities in cryptographic public keys
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [CcendercatcC/Polkit-TUI-Agent](https://github.com/CcendercatcC/Polkit-TUI-Agent)
+  > 纯 Rust 编写的终端 polkit 认证代理，零 GTK/glib 依赖。专为 ssh/tmux 无图形环境设计：ratatui 内嵌对话框，或 tmux display-popup 悬浮弹窗；密...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MathurAditya724/outpost](https://github.com/MathurAditya724/outpost)
+  > Autonomous GitHub agent powered by OpenCode
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [berkayoztunc/orquestra](https://github.com/berkayoztunc/orquestra)
+  > orquestra is a free, open-source platform that instantly converts Solana program IDLs into productio...
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [noonghunna/club-3090](https://github.com/noonghunna/club-3090)
   > Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, i...
@@ -43,11 +53,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sanohiro/casty](https://github.com/sanohiro/casty)
   > Run a real Chrome browser inside your terminal. Uses CDP screencast + Kitty graphics protocol.
 
+### [osm0sis](https://github.com/osm0sis)
+- 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [osm0sis/TrickyStoreOSS](https://github.com/osm0sis/TrickyStoreOSS)
+  > Open source alternative to proprietary Tricky Store module
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [mgaitan/pytest-leak-finder](https://github.com/mgaitan/pytest-leak-finder)
   > Find the test that's leaking before the one that fails
 
 
 ---
-*Last updated at 2026-08-03 12:31:55 UTC*
+*Last updated at 2026-08-03 15:47:41 UTC*
 *Historical records are stored in the `archive` directory.*
