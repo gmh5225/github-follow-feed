@@ -56,10 +56,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Fast ML inference & training for ONNX models in Rust
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs)
   > Rust bindings for the C++ api of PyTorch.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iree-org/iree](https://github.com/iree-org/iree)
+  > A retargetable MLIR-based machine learning compiler and runtime toolkit.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [alibaba/MNN](https://github.com/alibaba/MNN)
+  > MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performanc...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mavlink/rust-mavlink](https://github.com/mavlink/rust-mavlink)
+  > MAVLink implementation written in Rust
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [hailo-ai/hailort](https://github.com/hailo-ai/hailort)
+  > An open source light-weight and high performance inference framework for Hailo devices
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [apache/tvm](https://github.com/apache/tvm)
+  > Open Machine Learning Compiler Framework
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [copper-project/copper-rs](https://github.com/copper-project/copper-rs)
+  > Copper is an operating system for robots -  build, run, and replay your entire robot deterministical...
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [yc-software/qm](https://github.com/yc-software/qm)
   > Multiplayer agent harness for work
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [chrisliuqq/mlx-whisper-rs](https://github.com/chrisliuqq/mlx-whisper-rs)
+  > MLX-accelerated Whisper speech recognition for Apple Silicon, written in pure Rust.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [badkeys/badkeys](https://github.com/badkeys/badkeys)
@@ -132,5 +148,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-03 19:49:07 UTC*
+*Last updated at 2026-08-03 21:11:50 UTC*
 *Historical records are stored in the `archive` directory.*
