@@ -63,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [managed-midi/managed-midi](https://github.com/managed-midi/managed-midi)
   > Work in progress: new fork of https://github.com/atsushieno/managed-midi
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Washi1337/cilfi](https://github.com/Washi1337/cilfi)
+  > CIL Function Identification Utility
 
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [caas-team/py-kube-downscaler](https://github.com/caas-team/py-kube-downscaler)
@@ -95,6 +97,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
+  > An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer)
@@ -112,6 +116,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
   > Bridge between agents and IDA Pro.
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [gamozolabs/llama.cpp](https://github.com/gamozolabs/llama.cpp)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [sandialabs/ctadl](https://github.com/sandialabs/ctadl)
+  > CTADL is a static taint analysis tool
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [facebook/mariana-trench](https://github.com/facebook/mariana-trench)
+  > A security focused static analysis tool for Android and Java applications.
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
+  > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [SpecterOps/ConfigManBearPig](https://github.com/SpecterOps/ConfigManBearPig)
@@ -125,5 +135,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-04 17:55:41 UTC*
+*Last updated at 2026-08-04 19:46:42 UTC*
 *Historical records are stored in the `archive` directory.*
