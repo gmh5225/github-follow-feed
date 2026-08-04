@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [dtolnay/chapter-tgz](https://github.com/dtolnay/chapter-tgz)
   > Specially crafted .tar.gz with embedded chapter boundary information
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [WithSecureLabs/CallStackSpoofer](https://github.com/WithSecureLabs/CallStackSpoofer)
+  > A PoC implementation for spoofing arbitrary call stacks when making sys calls (e.g. grabbing a handl...
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [0xMR007/Lab4PurpleSec](https://github.com/0xMR007/Lab4PurpleSec)
@@ -59,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lightweight Python library for adding real-time multi-object tracking to any detector.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PyO3/pyo3](https://github.com/PyO3/pyo3)
   > Rust bindings for the Python interpreter
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [hku-mars/Swarm-Tracker](https://github.com/hku-mars/Swarm-Tracker)
+  > Swarm-Tracker: Implementation of the paper "Visibility-Aware Cooperative Tracking with Decentralized...
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [vE5li/korangar](https://github.com/vE5li/korangar)
@@ -71,6 +75,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [stanford-cs336/assignment1-basics](https://github.com/stanford-cs336/assignment1-basics)
   > Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [steveruizok/chat-stick](https://github.com/steveruizok/chat-stick)
+  > A live chat project for the M5StickS3 and other devices.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [managed-midi/managed-midi](https://github.com/managed-midi/managed-midi)
@@ -84,6 +90,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [karola3vax/CS2FOW](https://github.com/karola3vax/CS2FOW) to [HLND2T/CS2FOW](https://github.com/HLND2T/CS2FOW)
+
+### [jhscheer](https://github.com/jhscheer)
+- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [dtolnay/chapter-tgz](https://github.com/dtolnay/chapter-tgz)
+  > Specially crafted .tar.gz with embedded chapter boundary information
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NVIDIA-Omniverse/ovui](https://github.com/NVIDIA-Omniverse/ovui)
@@ -147,7 +157,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
   > the runtime your coding agents live on
 
+### [void-stack](https://github.com/void-stack)
+- 🌟 👤 [void-stack](https://github.com/void-stack) Starred [Washi1337/cilfi](https://github.com/Washi1337/cilfi)
+  > Automated Function Identification in .NET binaries
+
 
 ---
-*Last updated at 2026-08-04 21:18:55 UTC*
+*Last updated at 2026-08-04 23:09:24 UTC*
 *Historical records are stored in the `archive` directory.*
