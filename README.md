@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [nicholasaleks/Damn-Vulnerable-Drone](https://github.com/nicholasaleks/Damn-Vulnerable-Drone)
   > Damn Vulnerable Drone is an intentionally vulnerable drone hacking simulator based on the popular Ar...
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aakk007/RogueCleaner](https://github.com/aakk007/RogueCleaner) to [CrackerCat/RogueCleaner](https://github.com/CrackerCat/RogueCleaner)
+  > 流氓软件克星：扫描和清理 Windows 流氓右键菜单、自启动、计划任务、服务、浏览器插件和文件关联残留
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)
   > 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
@@ -35,6 +39,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision,...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dimforge/parry](https://github.com/dimforge/parry)
   > 2D and 3D collision-detection library for Rust.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [generalized-intelligence/GAAS](https://github.com/generalized-intelligence/GAAS)
+  > GAAS is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAA...
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [vE5li/korangar](https://github.com/vE5li/korangar)
@@ -43,6 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [managed-midi/managed-midi](https://github.com/managed-midi/managed-midi)
   > Work in progress: new fork of https://github.com/atsushieno/managed-midi
+
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [caas-team/py-kube-downscaler](https://github.com/caas-team/py-kube-downscaler)
+  > Scale down / "pause" Kubernetes workload (Deployments, StatefulSets, and/or HorizontalPodAutoscalers...
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [karola3vax/CS2FOW](https://github.com/karola3vax/CS2FOW) to [HLND2T/CS2FOW](https://github.com/HLND2T/CS2FOW)
@@ -57,6 +67,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad)
   > People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. W...
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Linaro/vixl](https://github.com/Linaro/vixl)
+  > AArch32 and AArch64 Runtime Code Generation Library
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dinosn/mariadb-13-rce-lab](https://github.com/dinosn/mariadb-13-rce-lab)
@@ -74,7 +86,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [Ark0N/Codeman](https://github.com/Ark0N/Codeman)
+  > Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Codex, and Gemini CLI 2...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+  > the runtime your coding agents live on
+
 
 ---
-*Last updated at 2026-08-04 09:42:11 UTC*
+*Last updated at 2026-08-04 12:06:03 UTC*
 *Historical records are stored in the `archive` directory.*
