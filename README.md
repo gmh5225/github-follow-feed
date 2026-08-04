@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [antirez/ds4](https://github.com/antirez/ds4)
   > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [borglab/gtsam](https://github.com/borglab/gtsam)
   > GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision,...
@@ -60,11 +64,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [vE5li/korangar](https://github.com/vE5li/korangar)
   > A next-gen Ragnarok Online client
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [Kludex/zuvloop](https://github.com/Kludex/zuvloop)
+  > A libuv event loop for asyncio, written in Zig.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [stanford-cs336/assignment1-basics](https://github.com/stanford-cs336/assignment1-basics)
+  > Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [managed-midi/managed-midi](https://github.com/managed-midi/managed-midi)
   > Work in progress: new fork of https://github.com/atsushieno/managed-midi
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Washi1337/cilfi](https://github.com/Washi1337/cilfi)
-  > CIL Function Identification Utility
+  > Automated Function Identification in .NET binaries
 
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [caas-team/py-kube-downscaler](https://github.com/caas-team/py-kube-downscaler)
@@ -99,6 +111,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
   > An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ximinng/HiVG](https://github.com/ximinng/HiVG)
+  > Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modelin...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer)
@@ -135,5 +149,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-04 19:46:42 UTC*
+*Last updated at 2026-08-04 21:18:55 UTC*
 *Historical records are stored in the `archive` directory.*
