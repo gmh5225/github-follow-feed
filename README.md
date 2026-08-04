@@ -17,10 +17,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Iceman Fork - Proxmark3
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [nicholasaleks/Damn-Vulnerable-Drone](https://github.com/nicholasaleks/Damn-Vulnerable-Drone)
   > Damn Vulnerable Drone is an intentionally vulnerable drone hacking simulator based on the popular Ar...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MidnightBlueLabs/TETRA_crypto](https://github.com/MidnightBlueLabs/TETRA_crypto)
+  > Reverse engineered TETRA cryptographic primitives
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aakk007/RogueCleaner](https://github.com/aakk007/RogueCleaner) to [CrackerCat/RogueCleaner](https://github.com/CrackerCat/RogueCleaner)
   > 流氓软件克星：扫描和清理 Windows 流氓右键菜单、自启动、计划任务、服务、浏览器插件和文件关联残留
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer)
+  > Build your Personal AI Computer. Own your intelligence.
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)
@@ -56,7 +62,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [karola3vax/CS2FOW](https://github.com/karola3vax/CS2FOW) to [HLND2T/CS2FOW](https://github.com/HLND2T/CS2FOW)
-  > Server-side anti-wallhack for Counter-Strike 2 community servers, built for Metamod:Source. 
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NVIDIA-Omniverse/ovui](https://github.com/NVIDIA-Omniverse/ovui)
@@ -64,27 +69,41 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zhtdbobo/LightMarkit](https://github.com/zhtdbobo/LightMarkit)
   > 轻·快·本地优先的桌面 Markdown 编辑器 | A light & fast, local-first desktop Markdown editor built with Tauri 2 + ...
 
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad)
   > People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. W...
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Linaro/vixl](https://github.com/Linaro/vixl)
   > AArch32 and AArch64 Runtime Code Generation Library
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
+  > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dinosn/mariadb-13-rce-lab](https://github.com/dinosn/mariadb-13-rce-lab)
   > MariaDB 13.0.1-rc RCE lab — priv-esc + heap UAF + JOP chain to system() as uid 999(mysql) on stock D...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [wevm/frog](https://github.com/wevm/frog)
-  > Automated friction logging for agents.
-
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [sonoro1234/ImNodes-1](https://github.com/sonoro1234/ImNodes-1)
-  > Node graph implementation for Dear ImGui. Used in https://github.com/rokups/rbfx
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer)
+  > kernel mode spoofer disk and smbios, socket communication 
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
+  > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Linaro/vixl](https://github.com/Linaro/vixl)
+  > AArch32 and AArch64 Runtime Code Generation Library
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
+  > Bridge between agents and IDA Pro.
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [gamozolabs/llama.cpp](https://github.com/gamozolabs/llama.cpp)
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [SpecterOps/ConfigManBearPig](https://github.com/SpecterOps/ConfigManBearPig)
+  > Python collector for adding SCCM attack paths to BloodHound with OpenGraph
 
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [Ark0N/Codeman](https://github.com/Ark0N/Codeman)
@@ -94,5 +113,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-04 12:06:03 UTC*
+*Last updated at 2026-08-04 15:28:30 UTC*
 *Historical records are stored in the `archive` directory.*
