@@ -19,6 +19,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Damn Vulnerable Drone is an intentionally vulnerable drone hacking simulator based on the popular Ar...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MidnightBlueLabs/TETRA_crypto](https://github.com/MidnightBlueLabs/TETRA_crypto)
   > Reverse engineered TETRA cryptographic primitives
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dmcxblue/ANIMO](https://github.com/dmcxblue/ANIMO)
+  > ANIMO Azure Network Intel & Mission Ops a C2 based on Azure/Entra assessments
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aakk007/RogueCleaner](https://github.com/aakk007/RogueCleaner) to [CrackerCat/RogueCleaner](https://github.com/CrackerCat/RogueCleaner)
@@ -47,6 +49,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 2D and 3D collision-detection library for Rust.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [generalized-intelligence/GAAS](https://github.com/generalized-intelligence/GAAS)
   > GAAS is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAA...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lagadic/visp](https://github.com/lagadic/visp)
+  > Open Source Visual Servoing Platform
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tryolabs/norfair](https://github.com/tryolabs/norfair)
+  > Lightweight Python library for adding real-time multi-object tracking to any detector.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PyO3/pyo3](https://github.com/PyO3/pyo3)
+  > Rust bindings for the Python interpreter
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [vE5li/korangar](https://github.com/vE5li/korangar)
@@ -84,6 +92,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dinosn/mariadb-13-rce-lab](https://github.com/dinosn/mariadb-13-rce-lab)
   > MariaDB 13.0.1-rc RCE lab — priv-esc + heap UAF + JOP chain to system() as uid 999(mysql) on stock D...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer)
   > kernel mode spoofer disk and smbios, socket communication 
@@ -113,5 +125,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-04 15:28:30 UTC*
+*Last updated at 2026-08-04 17:55:41 UTC*
 *Historical records are stored in the `archive` directory.*
