@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
   > A stealthy, fully syscalled C/C++ userland anti-debugging library for Windows, designed to protect s...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SpecterOps/pass-the-passkey](https://github.com/SpecterOps/pass-the-passkey)
+  > Pass-the-Passkey Family of Attacks
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xajkep/wordlists](https://github.com/xajkep/wordlists) to [CrackerCat/wordlists](https://github.com/CrackerCat/wordlists)
@@ -44,6 +46,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A wav encoding and decoding library in Rust
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA/diffusion-audio-restoration](https://github.com/NVIDIA/diffusion-audio-restoration)
   > Audio-to-Audio Schrodinger Bridges is a diffusion-based audio restoration model for bandwidth extens...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gakonst/incur-rs](https://github.com/gakonst/incur-rs)
+  > Agent-native CLI framework for Rust
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [FabDevGit/spotai](https://github.com/FabDevGit/spotai)
@@ -122,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-05 17:47:37 UTC*
+*Last updated at 2026-08-05 19:44:57 UTC*
 *Historical records are stored in the `archive` directory.*
