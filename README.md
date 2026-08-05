@@ -116,9 +116,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [i-snyder/pi-windows-nul-fix](https://github.com/i-snyder/pi-windows-nul-fix)
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
+  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
   > the runtime your coding agents live on
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [rivet-dev/secure-exec](https://github.com/rivet-dev/secure-exec)
+  > Secure Node.js Execution Without a Sandbox  A lightweight library for secure Node.js execution. No c...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [bilbospocketses/ws-scrcpy-web](https://github.com/bilbospocketses/ws-scrcpy-web)
@@ -126,5 +137,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-05 19:44:57 UTC*
+*Last updated at 2026-08-05 21:18:41 UTC*
 *Historical records are stored in the `archive` directory.*
