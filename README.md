@@ -26,12 +26,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
   > Answers to 120 commonly asked data science interview questions.
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing)
+  > 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ruuda/hound](https://github.com/ruuda/hound)
   > A wav encoding and decoding library in Rust
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA/diffusion-audio-restoration](https://github.com/NVIDIA/diffusion-audio-restoration)
   > Audio-to-Audio Schrodinger Bridges is a diffusion-based audio restoration model for bandwidth extens...
+
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [tarruda/neoagent](https://github.com/tarruda/neoagent)
+  > Sloppy port of pi coding harness to a Neovim plugin
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [FabDevGit/spotai](https://github.com/FabDevGit/spotai)
+  > Chrome extension to automatically skip AI-generated tracks on Spotify, Deezer and Youtube music
+
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [horsicq/CDiE](https://github.com/horsicq/CDiE)
+  > Detect It Easy engine in pure C
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [techascent/tmducken](https://github.com/techascent/tmducken)
@@ -44,6 +58,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > iOS port of meow — VPN/proxy client for iOS 26, powered by meow-rs
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
   > Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi,...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [SquidSec/SquidC5](https://github.com/SquidSec/SquidC5)
+  > Security-first AI-native C5 teamserver (Command · Control · Cognitive · Collaborative · Coordination...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent)
+  > "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xdeadbeefnetwork/pfkey-sadb-overflow](https://github.com/0xdeadbeefnetwork/pfkey-sadb-overflow)
+  > got enuff cats? FreeBSD PF_KEY SADB_UPDATE sa_len stack overflow LPE
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xdeadbeefnetwork/pfkey-sadb-overflow](https://github.com/0xdeadbeefnetwork/pfkey-sadb-overflow) to [killvxk/pfkey-sadb-overflow](https://github.com/killvxk/pfkey-sadb-overflow)
+  > got enuff cats? FreeBSD PF_KEY SADB_UPDATE sa_len stack overflow LPE
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Lyutoon/macOS_DSH_LPE](https://github.com/Lyutoon/macOS_DSH_LPE)
+  > macOS LPE, tested on 26.5.2, fixed in 26.6
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Lyutoon/macOS_DSH_LPE](https://github.com/Lyutoon/macOS_DSH_LPE) to [killvxk/macOS_DSH_LPE](https://github.com/killvxk/macOS_DSH_LPE)
+  > macOS LPE, tested on 26.5.2, fixed in 26.6
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [madeye/Legend-of-Sword-and-Fairy](https://github.com/madeye/Legend-of-Sword-and-Fairy)
+  > A complete Rust port of the PAL (Legend of Sword and Fairy) DOS engine, playable natively or in the ...
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [allover326/deepseek-v4-cmp170hx](https://github.com/allover326/deepseek-v4-cmp170hx)
@@ -61,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-05 09:40:54 UTC*
+*Last updated at 2026-08-05 12:03:35 UTC*
 *Historical records are stored in the `archive` directory.*
