@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [sqliteai/waste](https://github.com/sqliteai/waste)
+  > Run the full 2.78-trillion-parameter Kimi K3 model beyond available RAM by streaming activated weigh...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NotRequiem/antidbg](https://github.com/NotRequiem/antidbg)
   > A stealthy, fully syscalled C/C++ userland anti-debugging library for Windows, designed to protect s...
@@ -118,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-05 15:20:07 UTC*
+*Last updated at 2026-08-05 17:47:37 UTC*
 *Historical records are stored in the `archive` directory.*
