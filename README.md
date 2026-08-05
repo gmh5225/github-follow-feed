@@ -13,6 +13,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Infosec Wordlists and more.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) to [CrackerCat/pytorch-lightning](https://github.com/CrackerCat/pytorch-lightning)
   > Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alex193a/Root-My-Pixel-Payloads](https://github.com/alex193a/Root-My-Pixel-Payloads) to [CrackerCat/Root-My-Pixel-Payloads](https://github.com/CrackerCat/Root-My-Pixel-Payloads)
+  > Exploit payloads for Root My Pixel
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [wangyu-ovo/CREBench](https://github.com/wangyu-ovo/CREBench)
+
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad)
+  > People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. W...
+
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [kojino/120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
+  > Answers to 120 commonly asked data science interview questions.
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ruuda/hound](https://github.com/ruuda/hound)
@@ -24,9 +37,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [techascent/tmducken](https://github.com/techascent/tmducken)
   > tech.ml.dataset integration with duckdb
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [THUDM/slime](https://github.com/THUDM/slime)
+  > slime is an LLM post-training framework for RL Scaling.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [madeye/meow-ios](https://github.com/madeye/meow-ios)
+  > iOS port of meow — VPN/proxy client for iOS 26, powered by meow-rs
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+  > Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi,...
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [allover326/deepseek-v4-cmp170hx](https://github.com/allover326/deepseek-v4-cmp170hx)
   > DeepSeek-V4-Flash-0731 on 4x CMP 170HX (sm_80): 98 tok/s decode, ~5300 tok/s prefill. DSpark specula...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+  > TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and c...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
@@ -34,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-05 06:34:09 UTC*
+*Last updated at 2026-08-05 09:40:54 UTC*
 *Historical records are stored in the `archive` directory.*
