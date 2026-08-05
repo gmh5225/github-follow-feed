@@ -1,167 +1,28 @@
-# Daily GitHub Activity (2026-08-04)
+# Daily GitHub Activity (2026-08-05)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Ben-Lichtman](https://github.com/Ben-Lichtman)
-- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [dtolnay/chapter-tgz](https://github.com/dtolnay/chapter-tgz)
-  > Specially crafted .tar.gz with embedded chapter boundary information
-- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [WithSecureLabs/CallStackSpoofer](https://github.com/WithSecureLabs/CallStackSpoofer)
-  > A PoC implementation for spoofing arbitrary call stacks when making sys calls (e.g. grabbing a handl...
-
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [0xMR007/Lab4PurpleSec](https://github.com/0xMR007/Lab4PurpleSec)
-  > Lab4PurpleSec is a modular Purple Team homelab combining a vulnerable Active Directory environment (...
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp)
-  > Abseil Common Libraries (C++)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)
-  > Iceman Fork - Proxmark3
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [nicholasaleks/Damn-Vulnerable-Drone](https://github.com/nicholasaleks/Damn-Vulnerable-Drone)
-  > Damn Vulnerable Drone is an intentionally vulnerable drone hacking simulator based on the popular Ar...
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MidnightBlueLabs/TETRA_crypto](https://github.com/MidnightBlueLabs/TETRA_crypto)
-  > Reverse engineered TETRA cryptographic primitives
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dmcxblue/ANIMO](https://github.com/dmcxblue/ANIMO)
-  > ANIMO Azure Network Intel & Mission Ops a C2 based on Azure/Entra assessments
-
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aakk007/RogueCleaner](https://github.com/aakk007/RogueCleaner) to [CrackerCat/RogueCleaner](https://github.com/CrackerCat/RogueCleaner)
-  > 流氓软件克星：扫描和清理 Windows 流氓右键菜单、自启动、计划任务、服务、浏览器插件和文件关联残留
-
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [autonomous-ai/autonomous-computer](https://github.com/autonomous-ai/autonomous-computer)
-  > Build your Personal AI Computer. Own your intelligence.
-
-### [Naville](https://github.com/Naville)
-- 🌟 👤 [Naville](https://github.com/Naville) Starred [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)
-  > 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
-
-### [XINCGer](https://github.com/XINCGer)
-- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao)
-  > 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。
-- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)
-  > Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI ...
-- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [antirez/ds4](https://github.com/antirez/ds4)
-  > DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm
-
-### [archercreat](https://github.com/archercreat)
-- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
-  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
-
-### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [borglab/gtsam](https://github.com/borglab/gtsam)
-  > GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision,...
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dimforge/parry](https://github.com/dimforge/parry)
-  > 2D and 3D collision-detection library for Rust.
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [generalized-intelligence/GAAS](https://github.com/generalized-intelligence/GAAS)
-  > GAAS is an open-source program designed for fully autonomous VTOL(a.k.a flying cars) and drones. GAA...
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [lagadic/visp](https://github.com/lagadic/visp)
-  > Open Source Visual Servoing Platform
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tryolabs/norfair](https://github.com/tryolabs/norfair)
-  > Lightweight Python library for adding real-time multi-object tracking to any detector.
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PyO3/pyo3](https://github.com/PyO3/pyo3)
-  > Rust bindings for the Python interpreter
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [hku-mars/Swarm-Tracker](https://github.com/hku-mars/Swarm-Tracker)
-  > Swarm-Tracker: Implementation of the paper "Visibility-Aware Cooperative Tracking with Decentralized...
-
-### [ergrelet](https://github.com/ergrelet)
-- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [vE5li/korangar](https://github.com/vE5li/korangar)
-  > A next-gen Ragnarok Online client
-
-### [es3n1n](https://github.com/es3n1n)
-- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [Kludex/zuvloop](https://github.com/Kludex/zuvloop)
-  > A libuv event loop for asyncio, written in Zig.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xajkep/wordlists](https://github.com/xajkep/wordlists) to [CrackerCat/wordlists](https://github.com/CrackerCat/wordlists)
+  > Infosec Wordlists and more.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) to [CrackerCat/pytorch-lightning](https://github.com/CrackerCat/pytorch-lightning)
+  > Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 
 ### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [stanford-cs336/assignment1-basics](https://github.com/stanford-cs336/assignment1-basics)
-  > Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [steveruizok/chat-stick](https://github.com/steveruizok/chat-stick)
-  > A live chat project for the M5StickS3 and other devices.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ruuda/hound](https://github.com/ruuda/hound)
+  > A wav encoding and decoding library in Rust
 
-### [holly-hacker](https://github.com/holly-hacker)
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [managed-midi/managed-midi](https://github.com/managed-midi/managed-midi)
-  > Work in progress: new fork of https://github.com/atsushieno/managed-midi
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Washi1337/cilfi](https://github.com/Washi1337/cilfi)
-  > Automated Function Identification in .NET binaries
-
-### [hypervisor](https://github.com/hypervisor)
-- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [caas-team/py-kube-downscaler](https://github.com/caas-team/py-kube-downscaler)
-  > Scale down / "pause" Kubernetes workload (Deployments, StatefulSets, and/or HorizontalPodAutoscalers...
-
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [karola3vax/CS2FOW](https://github.com/karola3vax/CS2FOW) to [HLND2T/CS2FOW](https://github.com/HLND2T/CS2FOW)
-
-### [jhscheer](https://github.com/jhscheer)
-- 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [dtolnay/chapter-tgz](https://github.com/dtolnay/chapter-tgz)
-  > Specially crafted .tar.gz with embedded chapter boundary information
-
-### [killvxk](https://github.com/killvxk)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NVIDIA-Omniverse/ovui](https://github.com/NVIDIA-Omniverse/ovui)
-  > The standalone distribution of NVIDIA Omniverse's omni.ui UI framework, extracted to run independent...
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zhtdbobo/LightMarkit](https://github.com/zhtdbobo/LightMarkit)
-  > 轻·快·本地优先的桌面 Markdown 编辑器 | A light & fast, local-first desktop Markdown editor built with Tauri 2 + ...
-
-### [mach-port-t](https://github.com/mach-port-t)
-- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad)
-  > People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. W...
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Linaro/vixl](https://github.com/Linaro/vixl)
-  > AArch32 and AArch64 Runtime Code Generation Library
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
-  > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
-
-### [mq1n](https://github.com/mq1n)
-- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [dinosn/mariadb-13-rce-lab](https://github.com/dinosn/mariadb-13-rce-lab)
-  > MariaDB 13.0.1-rc RCE lab — priv-esc + heap UAF + JOP chain to system() as uid 999(mysql) on stock D...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
-  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
-  > An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ximinng/HiVG](https://github.com/ximinng/HiVG)
-  > Hierarchical SVG Tokenization: Learning Compact Visual Programs for Scalable Vector Graphics Modelin...
-
-### [odzhan](https://github.com/odzhan)
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer)
-  > kernel mode spoofer disk and smbios, socket communication 
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [NeverSight/NeverC](https://github.com/NeverSight/NeverC)
-  > The AI-friendly C23 compiler for security research, built on LLVM [WIP]
-
-### [osm0sis](https://github.com/osm0sis)
-- 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS)
-  > Open source alternative to proprietary Tricky Store module
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [techascent/tmducken](https://github.com/techascent/tmducken)
+  > tech.ml.dataset integration with duckdb
 
 ### [pgoodman](https://github.com/pgoodman)
-- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Linaro/vixl](https://github.com/Linaro/vixl)
-  > AArch32 and AArch64 Runtime Code Generation Library
-- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge)
-  > Bridge between agents and IDA Pro.
-- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [gamozolabs/llama.cpp](https://github.com/gamozolabs/llama.cpp)
-- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [sandialabs/ctadl](https://github.com/sandialabs/ctadl)
-  > CTADL is a static taint analysis tool
-- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [facebook/mariana-trench](https://github.com/facebook/mariana-trench)
-  > A security focused static analysis tool for Android and Java applications.
-- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
-  > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
-
-### [swisskyrepo](https://github.com/swisskyrepo)
-- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [SpecterOps/ConfigManBearPig](https://github.com/SpecterOps/ConfigManBearPig)
-  > Python collector for adding SCCM attack paths to BloodHound with OpenGraph
-
-### [tiagosiebler](https://github.com/tiagosiebler)
-- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [Ark0N/Codeman](https://github.com/Ark0N/Codeman)
-  > Self-hosted mission control for AI coding agents: run Claude Code, OpenCode, Codex, and Gemini CLI 2...
-- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
   > the runtime your coding agents live on
-
-### [void-stack](https://github.com/void-stack)
-- 🌟 👤 [void-stack](https://github.com/void-stack) Starred [Washi1337/cilfi](https://github.com/Washi1337/cilfi)
-  > Automated Function Identification in .NET binaries
 
 
 ---
-*Last updated at 2026-08-04 23:09:24 UTC*
+*Last updated at 2026-08-05 03:17:11 UTC*
 *Historical records are stored in the `archive` directory.*
