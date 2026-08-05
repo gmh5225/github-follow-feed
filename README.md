@@ -115,6 +115,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and c...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os)
+  > Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agent...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [i-snyder/pi-windows-nul-fix](https://github.com/i-snyder/pi-windows-nul-fix)
@@ -137,5 +139,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-05 21:18:41 UTC*
+*Last updated at 2026-08-05 23:07:37 UTC*
 *Historical records are stored in the `archive` directory.*
