@@ -62,8 +62,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [awakecoding/windbg-tool](https://github.com/awakecoding/windbg-tool)
   > WinDBG tool for AI agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aviggiano/web3-vulnerability-database](https://github.com/aviggiano/web3-vulnerability-database)
+  > Web3 Vulnerability Database
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Xilinion/TinyPtr](https://github.com/Xilinion/TinyPtr)
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [captainkie/ai-usage-esp32](https://github.com/captainkie/ai-usage-esp32)
+  > Your Claude Code usage limits on a Waveshare ESP32-S3-Touch-LCD-3.49 (640×172), with a pixel compani...
 
 
 ---
-*Last updated at 2026-08-06 12:06:30 UTC*
+*Last updated at 2026-08-06 15:20:01 UTC*
 *Historical records are stored in the `archive` directory.*
