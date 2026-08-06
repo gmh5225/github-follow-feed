@@ -4,9 +4,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [godotengine/godot-editor-l10n](https://github.com/godotengine/godot-editor-l10n)
+  > Localization of the Godot editor and class reference – Translations should be done on Weblate (see l...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) to [CrackerCat/Root-My-Pixel](https://github.com/CrackerCat/Root-My-Pixel)
   > Jailbreak supported Google Pixel phones with CVE-2026-43499
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
+  > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [sophiamyang/finger-frame-effect-ai](https://github.com/sophiamyang/finger-frame-effect-ai)
@@ -43,7 +51,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [neo305/css](https://github.com/neo305/css)
   > WebKit CSSFontFace UAF exploit for PlayStation 4/5
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [cloudflare/computer](https://github.com/cloudflare/computer)
+  > Give your agent a computer 👾
+
 
 ---
-*Last updated at 2026-08-06 06:37:14 UTC*
+*Last updated at 2026-08-06 09:43:58 UTC*
 *Historical records are stored in the `archive` directory.*
