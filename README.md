@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [godotengine/godot-editor-l10n](https://github.com/godotengine/godot-editor-l10n)
-  > Localization of the Godot editor and class reference – Translations should be done on Weblate (see l...
-
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel) to [CrackerCat/Root-My-Pixel](https://github.com/CrackerCat/Root-My-Pixel)
   > Jailbreak supported Google Pixel phones with CVE-2026-43499
@@ -15,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sunblaze-ucb/exploitgym](https://github.com/sunblaze-ucb/exploitgym)
   > ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to e...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
+  > A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [sophiamyang/finger-frame-effect-ai](https://github.com/sophiamyang/finger-frame-effect-ai)
@@ -50,12 +48,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > mobil uygulama pazar analizi otomasyonu
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [neo305/css](https://github.com/neo305/css)
   > WebKit CSSFontFace UAF exploit for PlayStation 4/5
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [manizada/OVSwrap](https://github.com/manizada/OVSwrap)
+  > https://heyitsas.im/posts/ovswrap
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [awakecoding/windbg-tool](https://github.com/awakecoding/windbg-tool)
+  > WinDBG tool for AI agents
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [cloudflare/computer](https://github.com/cloudflare/computer)
   > Give your agent a computer 👾
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [awakecoding/windbg-tool](https://github.com/awakecoding/windbg-tool)
+  > WinDBG tool for AI agents
+
 
 ---
-*Last updated at 2026-08-06 09:43:58 UTC*
+*Last updated at 2026-08-06 12:06:30 UTC*
 *Historical records are stored in the `archive` directory.*
