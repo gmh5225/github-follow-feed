@@ -43,11 +43,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [GitBruno/ImMidiMapper](https://github.com/GitBruno/ImMidiMapper)
   > Map any Dear ImGui control to a MIDI CC
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server)
+  > Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Mte90/linus-torvalds-skill](https://github.com/Mte90/linus-torvalds-skill)
   > Distilled Code Reviewer skills/soul from 32k~ email from the kernel newsletter
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [0xSero/deepseek-v4-flash-0731-spark-sparkinfer](https://github.com/0xSero/deepseek-v4-flash-0731-spark-sparkinfer)
@@ -63,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-07 16:04:21 UTC*
+*Last updated at 2026-08-07 17:52:39 UTC*
 *Historical records are stored in the `archive` directory.*
