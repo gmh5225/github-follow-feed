@@ -38,6 +38,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
   > Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase)
+  > An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAs...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
+  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1)
+  > A benchmark for LLMs on complicated tasks in the terminal
 
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
@@ -46,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
   > Local-first session search, analytics, insights, and token use statistics for coding agents, support...
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lightningpixel/modly](https://github.com/lightningpixel/modly)
@@ -87,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-07 19:06:01 UTC*
+*Last updated at 2026-08-07 20:49:39 UTC*
 *Historical records are stored in the `archive` directory.*
