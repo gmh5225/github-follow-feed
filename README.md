@@ -17,11 +17,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
   > Kata Containers is an open source project and community working to build a standard implementation o...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
+  > Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI...
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [0xSero/deepseek-v4-flash-0731-spark-sparkinfer](https://github.com/0xSero/deepseek-v4-flash-0731-spark-sparkinfer)
+  > Pinned one-DGX-Spark Docker recipe for DeepSeek V4 Flash with EXL3, SparkInfer, and 262K NVFP4 MLA K...
+
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [singi/zer0con2018](https://github.com/singi/zer0con2018)
   > zer0con 2018 slide + code + util
 
 
 ---
-*Last updated at 2026-08-07 11:52:34 UTC*
+*Last updated at 2026-08-07 13:18:29 UTC*
 *Historical records are stored in the `archive` directory.*
