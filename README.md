@@ -52,6 +52,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1)
   > A benchmark for LLMs on complicated tasks in the terminal
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [majd/ipatool](https://github.com/majd/ipatool)
+  > Command-line tool that allows searching and downloading app packages (known as ipa files) from the i...
 
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
@@ -106,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-07 21:46:32 UTC*
+*Last updated at 2026-08-07 22:44:13 UTC*
 *Historical records are stored in the `archive` directory.*
