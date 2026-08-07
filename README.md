@@ -35,6 +35,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
   > Kata Containers is an open source project and community working to build a standard implementation o...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
   > Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI...
@@ -96,8 +102,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/struct-gap-helper](https://github.com/milankovo/struct-gap-helper)
 
 
 ---
-*Last updated at 2026-08-07 20:49:39 UTC*
+*Last updated at 2026-08-07 21:46:32 UTC*
 *Historical records are stored in the `archive` directory.*
