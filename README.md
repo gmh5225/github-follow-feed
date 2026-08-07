@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-proce...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [can1357/xstd](https://github.com/can1357/xstd)
   > A portable header only library extending the C++20 STL.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alfiecg24/Titan](https://github.com/alfiecg24/Titan)
+  > An SPTM bypass for iOS 16 - 17.3.1
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Delusions6515/Sub-Store-Module](https://github.com/Delusions6515/Sub-Store-Module) to [CrackerCat/Sub-Store-Module](https://github.com/CrackerCat/Sub-Store-Module)
@@ -34,6 +38,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
   > Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI...
+
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
+  > Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades ...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [kenn-io/agentsview](https://github.com/kenn-io/agentsview)
+  > Local-first session search, analytics, insights, and token use statistics for coding agents, support...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lightningpixel/modly](https://github.com/lightningpixel/modly)
@@ -58,6 +70,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [0xSero/deepseek-v4-flash-0731-spark-sparkinfer](https://github.com/0xSero/deepseek-v4-flash-0731-spark-sparkinfer)
@@ -73,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-07 17:52:39 UTC*
+*Last updated at 2026-08-07 19:06:01 UTC*
 *Historical records are stored in the `archive` directory.*
