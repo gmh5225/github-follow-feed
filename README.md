@@ -9,6 +9,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Exploration of x86-64 ISA using speculative execution.
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ia32-doc/ia32-doc](https://github.com/ia32-doc/ia32-doc)
+  > IA32-doc is a project which aims to put as many definitions from the Intel Manual into machine-proce...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [can1357/xstd](https://github.com/can1357/xstd)
+  > A portable header only library extending the C++20 STL.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Delusions6515/Sub-Store-Module](https://github.com/Delusions6515/Sub-Store-Module) to [CrackerCat/Sub-Store-Module](https://github.com/CrackerCat/Sub-Store-Module)
@@ -16,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) to [CrackerCat/ghostlock-app](https://github.com/CrackerCat/ghostlock-app)
   > GhostLock One-Tap Execution App
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/Zapscape](https://github.com/V4bel/Zapscape) to [CrackerCat/Zapscape](https://github.com/CrackerCat/Zapscape)
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [yusing/godoxy](https://github.com/yusing/godoxy)
+  > High-performance reverse proxy and container orchestrator for self-hosters
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker)
@@ -26,6 +34,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [pranshuparmar/witr](https://github.com/pranshuparmar/witr)
   > Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lightningpixel/modly](https://github.com/lightningpixel/modly)
+  > Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [GitBruno/ImMidiMapper](https://github.com/GitBruno/ImMidiMapper)
+  > Map any Dear ImGui control to a MIDI CC
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
@@ -47,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-07 14:59:41 UTC*
+*Last updated at 2026-08-07 16:04:21 UTC*
 *Historical records are stored in the `archive` directory.*
