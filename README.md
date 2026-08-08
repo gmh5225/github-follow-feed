@@ -17,8 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [chrisle/alphatheta-connect](https://github.com/chrisle/alphatheta-connect)
   > A Typescript / JavaScript library that is able to talk to AlphaTheta ProDJLink enabled DJ equipment
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
 
 
 ---
-*Last updated at 2026-08-08 05:47:25 UTC*
+*Last updated at 2026-08-08 07:03:32 UTC*
 *Historical records are stored in the `archive` directory.*
