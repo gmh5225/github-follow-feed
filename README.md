@@ -49,11 +49,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [harbor-framework/terminal-bench-1](https://github.com/harbor-framework/terminal-bench-1)
   > A benchmark for LLMs on complicated tasks in the terminal
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [majd/ipatool](https://github.com/majd/ipatool)
   > Command-line tool that allows searching and downloading app packages (known as ipa files) from the i...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)
+  > Two conversational AI agents switching from English to sound-level protocol after confirming they ar...
+
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)
+  > Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) runn...
 
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server)
@@ -100,6 +112,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [singi/zer0con2018](https://github.com/singi/zer0con2018)
   > zer0con 2018 slide + code + util
+- 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [staturnzz/momentarius](https://github.com/staturnzz/momentarius)
+  > A12/A13 PPL Bypass
+- 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [alfiecg24/Titan](https://github.com/alfiecg24/Titan)
+  > An SPTM bypass for iOS 16 - 17.3.1
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
@@ -108,5 +124,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-07 22:44:13 UTC*
+*Last updated at 2026-08-07 23:39:01 UTC*
 *Historical records are stored in the `archive` directory.*
