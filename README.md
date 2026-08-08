@@ -53,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Racing to the bottom of CPU performance
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
   > A very very very very very very very long interrupt
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [qilingframework/qiling](https://github.com/qilingframework/qiling)
+  > A True Instrumentable Binary Emulation Framework
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [chrisle/alphatheta-connect](https://github.com/chrisle/alphatheta-connect)
@@ -68,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-08 16:41:45 UTC*
+*Last updated at 2026-08-08 17:36:50 UTC*
 *Historical records are stored in the `archive` directory.*
