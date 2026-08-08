@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [saad-script/ssbu-online-deluxe](https://github.com/saad-script/ssbu-online-deluxe)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dawwinci/agile-net-devirtualizer](https://github.com/dawwinci/agile-net-devirtualizer) to [CrackerCat/agile-net-devirtualizer](https://github.com/CrackerCat/agile-net-devirtualizer)
   > Generic devirtualizer for Agile.NET (SecureTeam/CodeVeil) VM-based method protection — reconstructs ...
@@ -78,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-08 21:36:51 UTC*
+*Last updated at 2026-08-08 22:36:05 UTC*
 *Historical records are stored in the `archive` directory.*
