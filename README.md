@@ -59,6 +59,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Typescript / JavaScript library that is able to talk to AlphaTheta ProDJLink enabled DJ equipment
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gterzian/formal-web](https://github.com/gterzian/formal-web)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gterzian/a2intent](https://github.com/gterzian/a2intent)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Gekkio/gb-hardware](https://github.com/Gekkio/gb-hardware)
@@ -66,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-08 15:36:18 UTC*
+*Last updated at 2026-08-08 16:41:45 UTC*
 *Historical records are stored in the `archive` directory.*
