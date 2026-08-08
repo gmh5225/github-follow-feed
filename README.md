@@ -28,6 +28,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Parse memory regions from Qualcomm XBL config DTB images
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/KallRecon](https://github.com/Dere3046/KallRecon) to [CrackerCat/KallRecon](https://github.com/CrackerCat/KallRecon)
   > reconstruct kallsyms on ARM64 GKI, depends only on sprint_symbol.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [can1357/pon](https://github.com/can1357/pon) to [CrackerCat/pon](https://github.com/CrackerCat/pon)
+  > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [purseclab/D-helix](https://github.com/purseclab/D-helix) to [CrackerCat/D-helix](https://github.com/CrackerCat/D-helix)
+  > a generic decompiler testing framework that can automatically vet the decompilation correctness on t...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangEn/open-kimi-ppt-skill](https://github.com/WangEn/open-kimi-ppt-skill) to [CrackerCat/open-kimi-ppt-skill](https://github.com/CrackerCat/open-kimi-ppt-skill)
+  > 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI a...
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
@@ -45,7 +51,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
   > Racing to the bottom of CPU performance
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Gekkio/gb-hardware](https://github.com/Gekkio/gb-hardware)
+  > Game Boy -related custom hardware by gekkio
+
 
 ---
-*Last updated at 2026-08-08 11:34:39 UTC*
+*Last updated at 2026-08-08 13:02:18 UTC*
 *Historical records are stored in the `archive` directory.*
