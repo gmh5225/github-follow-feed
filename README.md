@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr0a3](https://github.com/Cr0a3)
+- 🌟 👤 [Cr0a3](https://github.com/Cr0a3) Starred [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio)
+  > A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zortax/canora](https://github.com/zortax/canora)
   > native spotify client because all my homies hate electron 
@@ -85,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 17:37:17 UTC*
+*Last updated at 2026-08-09 18:50:58 UTC*
 *Historical records are stored in the `archive` directory.*
