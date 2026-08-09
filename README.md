@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/fmfuzz_tool](https://github.com/Mr-xn/fmfuzz_tool)
   > freemarker SSTI 命令执行/混淆/文件写入，以及jmreport组件利用payload生成
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+
 ### [dhondta](https://github.com/dhondta)
 - 🌟 👤 [dhondta](https://github.com/dhondta) Starred [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
   > scikit-learn: machine learning in Python
@@ -47,11 +51,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [oopsmishap/ida-forge](https://github.com/oopsmishap/ida-forge)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [llnl/OGhidra](https://github.com/llnl/OGhidra)
   > OGhidra bridges Large Language Models (LLMs) via Ollama with the Ghidra reverse engineering platform...
 
 
 ---
-*Last updated at 2026-08-09 08:52:28 UTC*
+*Last updated at 2026-08-09 09:48:17 UTC*
 *Historical records are stored in the `archive` directory.*
