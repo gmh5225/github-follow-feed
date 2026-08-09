@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [stupside/castor](https://github.com/stupside/castor) to [CrackerCat/castor](https://github.com/CrackerCat/castor)
   > Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in rea...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [jmarshall23/msword](https://github.com/jmarshall23/msword)
+  > Port of Microsoft Word 1.1a to x64 with extra features for research purposes.
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/fmfuzz_tool](https://github.com/Mr-xn/fmfuzz_tool)
   > freemarker SSTI 命令执行/混淆/文件写入，以及jmreport组件利用payload生成
@@ -82,6 +86,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
   > A very small C interpreter
 
+### [secretsquirrel](https://github.com/secretsquirrel)
+- 🌟 👤 [secretsquirrel](https://github.com/secretsquirrel) Starred [lem0nSec/SgrmFault](https://github.com/lem0nSec/SgrmFault)
+  > Process Impairment Exploit Chain.
+
 ### [void-stack](https://github.com/void-stack)
 - 🍴 👤 [void-stack](https://github.com/void-stack) Forked [every-app/open-seo](https://github.com/every-app/open-seo) to [void-stack/open-seo](https://github.com/void-stack/open-seo)
   > Open source alternative to Semrush and Ahrefs
@@ -92,5 +100,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 19:39:00 UTC*
+*Last updated at 2026-08-09 20:40:24 UTC*
 *Historical records are stored in the `archive` directory.*
