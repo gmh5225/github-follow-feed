@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > reactive, retained rust ui framework
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils)
   > Free and open-source macOS menu bar toolkit.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
+  > ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve wha...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DesktopECHO/ika](https://github.com/DesktopECHO/ika) to [CrackerCat/ika](https://github.com/CrackerCat/ika)
@@ -22,10 +24,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [stupside/castor](https://github.com/stupside/castor) to [CrackerCat/castor](https://github.com/CrackerCat/castor)
   > Point it at any web page and it finds the video, extracts the stream, transcodes it and casts in rea...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [PrimeIntellect-ai/prime-iroh](https://github.com/PrimeIntellect-ai/prime-iroh)
+  > Asynchronous P2P communication backend for decentralized pipeline parallelism
+
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [oopsmishap/ida-forge](https://github.com/oopsmishap/ida-forge)
 
 
 ---
-*Last updated at 2026-08-09 04:22:44 UTC*
+*Last updated at 2026-08-09 05:50:49 UTC*
 *Historical records are stored in the `archive` directory.*
