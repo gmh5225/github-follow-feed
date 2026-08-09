@@ -29,6 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/fmfuzz_tool](https://github.com/Mr-xn/fmfuzz_tool)
   > freemarker SSTI 命令执行/混淆/文件写入，以及jmreport组件利用payload生成
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra)
+  > A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities o...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
@@ -50,17 +52,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [PrimeIntellect-ai/prime-iroh](https://github.com/PrimeIntellect-ai/prime-iroh)
   > Asynchronous P2P communication backend for decentralized pipeline parallelism
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [0vercl0k/udmp-parser](https://github.com/0vercl0k/udmp-parser) to [hzqst/udmp-parser](https://github.com/hzqst/udmp-parser)
+  > A Cross-Platform C++ parser library for Windows user minidumps with Python 3 bindings.
+
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [oopsmishap/ida-forge](https://github.com/oopsmishap/ida-forge)
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager)
   > A clean, self-hosted web UI for managing your Traefik reverse proxy.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
-  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
 
 ### [void-stack](https://github.com/void-stack)
 - 🍴 👤 [void-stack](https://github.com/void-stack) Forked [every-app/open-seo](https://github.com/every-app/open-seo) to [void-stack/open-seo](https://github.com/void-stack/open-seo)
@@ -72,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 13:04:32 UTC*
+*Last updated at 2026-08-09 14:40:46 UTC*
 *Historical records are stored in the `archive` directory.*
