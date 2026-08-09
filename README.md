@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Free and open-source macOS menu bar toolkit.
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden)
   > ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve wha...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ahoeller/fies](https://github.com/ahoeller/fies)
+  > QEMU-based fault injection
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DesktopECHO/ika](https://github.com/DesktopECHO/ika) to [CrackerCat/ika](https://github.com/CrackerCat/ika)
@@ -57,6 +59,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [JustasMasiulis/ida_buddy](https://github.com/JustasMasiulis/ida_buddy) to [mrexodia/ida_buddy](https://github.com/mrexodia/ida_buddy)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [mrexodia/oh-my-pi](https://github.com/mrexodia/oh-my-pi)
+  > ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, brow...
+
+### [void-stack](https://github.com/void-stack)
+- 🍴 👤 [void-stack](https://github.com/void-stack) Forked [every-app/open-seo](https://github.com/every-app/open-seo) to [void-stack/open-seo](https://github.com/void-stack/open-seo)
+  > Open source alternative to Semrush and Ahrefs
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [llnl/OGhidra](https://github.com/llnl/OGhidra)
@@ -64,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 11:35:42 UTC*
+*Last updated at 2026-08-09 13:04:32 UTC*
 *Historical records are stored in the `archive` directory.*
