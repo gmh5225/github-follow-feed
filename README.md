@@ -1,85 +1,16 @@
-# Daily GitHub Activity (2026-08-08)
+# Daily GitHub Activity (2026-08-09)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [saad-script/ssbu-online-deluxe](https://github.com/saad-script/ssbu-online-deluxe)
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dawwinci/agile-net-devirtualizer](https://github.com/dawwinci/agile-net-devirtualizer) to [CrackerCat/agile-net-devirtualizer](https://github.com/CrackerCat/agile-net-devirtualizer)
-  > Generic devirtualizer for Agile.NET (SecureTeam/CodeVeil) VM-based method protection — reconstructs ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dawwinci/krypton-devirtualizer](https://github.com/dawwinci/krypton-devirtualizer) to [CrackerCat/krypton-devirtualizer](https://github.com/CrackerCat/krypton-devirtualizer)
-  > .NET Reactor devirtualizer
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI) to [CrackerCat/BTR_CLI](https://github.com/CrackerCat/BTR_CLI)
-  > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [can1357/xstd](https://github.com/can1357/xstd) to [CrackerCat/can1357-xstd](https://github.com/CrackerCat/can1357-xstd)
-  > A portable header only library extending the C++20 STL.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lukasmaar/kernelsnitch](https://github.com/lukasmaar/kernelsnitch) to [CrackerCat/kernelsnitch](https://github.com/CrackerCat/kernelsnitch)
-  > A software-only timing side channel combined with cross-cache reuse to leak exploit-relevant kernel ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lukasmaar/qaic-page-uaf](https://github.com/lukasmaar/qaic-page-uaf) to [CrackerCat/qaic-page-uaf](https://github.com/CrackerCat/qaic-page-uaf)
-  > Privilege Escalation via a Page Use-After-Free in Qualcomm's AI Accelerator Linux Kernel Driver
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/Type_info](https://github.com/Dere3046/Type_info) to [CrackerCat/Type_info](https://github.com/CrackerCat/Type_info)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/RaPLT](https://github.com/Dere3046/RaPLT) to [CrackerCat/RaPLT](https://github.com/CrackerCat/RaPLT)
-  > PLT hook
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/Safemod](https://github.com/Dere3046/Safemod) to [CrackerCat/Safemod](https://github.com/CrackerCat/Safemod)
-  > sukisu presence detector.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/arb_inspector](https://github.com/Dere3046/arb_inspector) to [CrackerCat/arb_inspector](https://github.com/CrackerCat/arb_inspector)
-  > A lightweight tool to extract Anti-Rollback (ARB) version from Qualcomm ELF firmware images (e.g., x...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/xbl-dtb](https://github.com/Dere3046/xbl-dtb) to [CrackerCat/xbl-dtb](https://github.com/CrackerCat/xbl-dtb)
-  > Parse memory regions from Qualcomm XBL config DTB images
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/KallRecon](https://github.com/Dere3046/KallRecon) to [CrackerCat/KallRecon](https://github.com/CrackerCat/KallRecon)
-  > reconstruct kallsyms on ARM64 GKI, depends only on sprint_symbol.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [can1357/pon](https://github.com/can1357/pon) to [CrackerCat/pon](https://github.com/CrackerCat/pon)
-  > Python 3.14, compiled to metal — JIT & AoT native compiler and runtime in Rust. Cranelift backend, r...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [purseclab/D-helix](https://github.com/purseclab/D-helix) to [CrackerCat/D-helix](https://github.com/CrackerCat/D-helix)
-  > a generic decompiler testing framework that can automatically vet the decompilation correctness on t...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WangEn/open-kimi-ppt-skill](https://github.com/WangEn/open-kimi-ppt-skill) to [CrackerCat/open-kimi-ppt-skill](https://github.com/CrackerCat/open-kimi-ppt-skill)
-  > 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI a...
-
-### [Mr-xn](https://github.com/Mr-xn)
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-  > The headless browser for AI agents and web scraping
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [cwkiller/Java-Puzzle](https://github.com/cwkiller/Java-Puzzle)
-  > 一个专注于 Java Web 特性、配置和 Trick 的安全谜题集合
-
-### [P4nda0s](https://github.com/P4nda0s)
-- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
-
-### [XINCGer](https://github.com/XINCGer)
-- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
-  > 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQL...
-
-### [dcbuild3r](https://github.com/dcbuild3r)
-- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
-  > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
-
-### [ergrelet](https://github.com/ergrelet)
-- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-  > Racing to the bottom of CPU performance
-- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
-  > A very very very very very very very long interrupt
-- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [qilingframework/qiling](https://github.com/qilingframework/qiling)
-  > A True Instrumentable Binary Emulation Framework
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [chrisle/alphatheta-connect](https://github.com/chrisle/alphatheta-connect)
-  > A Typescript / JavaScript library that is able to talk to AlphaTheta ProDJLink enabled DJ equipment
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-  > Racing to the bottom of CPU performance
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gterzian/formal-web](https://github.com/gterzian/formal-web)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [gterzian/a2intent](https://github.com/gterzian/a2intent)
-
-### [holly-hacker](https://github.com/holly-hacker)
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Gekkio/gb-hardware](https://github.com/Gekkio/gb-hardware)
-  > Game Boy -related custom hardware by gekkio
-
-### [minaminao](https://github.com/minaminao)
-- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-  > the runtime your coding agents live on
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zortax/canora](https://github.com/zortax/canora)
+  > native spotify client because all my homies hate electron 
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zortax/zgui](https://github.com/zortax/zgui)
+  > reactive, retained rust ui framework
 
 
 ---
-*Last updated at 2026-08-08 23:35:01 UTC*
+*Last updated at 2026-08-09 02:13:06 UTC*
 *Historical records are stored in the `archive` directory.*
