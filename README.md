@@ -61,6 +61,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [PrimeIntellect-ai/prime-iroh](https://github.com/PrimeIntellect-ai/prime-iroh)
   > Asynchronous P2P communication backend for decentralized pipeline parallelism
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
+  > Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat...
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [0vercl0k/udmp-parser](https://github.com/0vercl0k/udmp-parser) to [hzqst/udmp-parser](https://github.com/hzqst/udmp-parser)
@@ -71,6 +73,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mattgodbolt](https://github.com/mattgodbolt)
 - 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [jmcd/lander-gba](https://github.com/jmcd/lander-gba)
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [steipete/CodexBar](https://github.com/steipete/CodexBar)
+  > Show usage stats for OpenAI Codex and Claude Code, without having to login.
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox)
@@ -100,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 20:40:24 UTC*
+*Last updated at 2026-08-09 21:38:58 UTC*
 *Historical records are stored in the `archive` directory.*
