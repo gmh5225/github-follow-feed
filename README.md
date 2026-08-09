@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve wha...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ahoeller/fies](https://github.com/ahoeller/fies)
   > QEMU-based fault injection
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [KriyosArcane/TrustMeBro](https://github.com/KriyosArcane/TrustMeBro)
+  > Authenticode signature manipulation toolkit for Red Team operations and security research. Covers si...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DesktopECHO/ika](https://github.com/DesktopECHO/ika) to [CrackerCat/ika](https://github.com/CrackerCat/ika)
@@ -66,6 +68,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager)
   > A clean, self-hosted web UI for managing your Traefik reverse proxy.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox)
+  > Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly ju...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
@@ -81,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 16:43:17 UTC*
+*Last updated at 2026-08-09 17:37:17 UTC*
 *Historical records are stored in the `archive` directory.*
