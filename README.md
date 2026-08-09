@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > QEMU-based fault injection
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [KriyosArcane/TrustMeBro](https://github.com/KriyosArcane/TrustMeBro)
   > Authenticode signature manipulation toolkit for Red Team operations and security research. Covers si...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [usestrix/strix](https://github.com/usestrix/strix)
+  > Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [graphitemaster/detour](https://github.com/graphitemaster/detour)
+  > A detour through the Linux dynamic linker
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DesktopECHO/ika](https://github.com/DesktopECHO/ika) to [CrackerCat/ika](https://github.com/CrackerCat/ika)
@@ -41,6 +45,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > freemarker SSTI 命令执行/混淆/文件写入，以及jmreport组件利用payload生成
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [AIEraDev/Clypra](https://github.com/AIEraDev/Clypra)
   > A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities o...
+
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [SamuelTulach/HookGuard](https://github.com/SamuelTulach/HookGuard)
+  > Hooking Windows' exception dispatcher to protect process's PML4
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
@@ -63,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Asynchronous P2P communication backend for decentralized pipeline parallelism
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm)
   > Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat...
+- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [libkrun/libkrun](https://github.com/libkrun/libkrun) to [gakonst/libkrun](https://github.com/gakonst/libkrun)
+  > A dynamic library providing Virtualization-based process isolation capabilities
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [0vercl0k/udmp-parser](https://github.com/0vercl0k/udmp-parser) to [hzqst/udmp-parser](https://github.com/hzqst/udmp-parser)
@@ -106,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 21:38:58 UTC*
+*Last updated at 2026-08-09 22:38:00 UTC*
 *Historical records are stored in the `archive` directory.*
