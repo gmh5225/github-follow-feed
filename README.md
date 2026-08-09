@@ -67,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [chr0nzz/traefik-manager](https://github.com/chr0nzz/traefik-manager)
   > A clean, self-hosted web UI for managing your Traefik reverse proxy.
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
+  > A very small C interpreter
+
 ### [void-stack](https://github.com/void-stack)
 - 🍴 👤 [void-stack](https://github.com/void-stack) Forked [every-app/open-seo](https://github.com/every-app/open-seo) to [void-stack/open-seo](https://github.com/void-stack/open-seo)
   > Open source alternative to Semrush and Ahrefs
@@ -77,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 15:37:56 UTC*
+*Last updated at 2026-08-09 16:43:17 UTC*
 *Historical records are stored in the `archive` directory.*
