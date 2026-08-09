@@ -65,6 +65,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [oopsmishap/ida-forge](https://github.com/oopsmishap/ida-forge)
 
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [jmcd/lander-gba](https://github.com/jmcd/lander-gba)
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [damienvanrobaeys/Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox)
   > Run PS1, VBS, CMD, EXE, MSI, Intunewin, MSIX, or extract ISO, ZIP in Windows Sandbox very quickly ju...
@@ -89,5 +92,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 18:50:58 UTC*
+*Last updated at 2026-08-09 19:39:00 UTC*
 *Historical records are stored in the `archive` directory.*
