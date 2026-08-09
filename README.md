@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [jmarshall23/msword](https://github.com/jmarshall23/msword)
   > Port of Microsoft Word 1.1a to x64 with extra features for research purposes.
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [jpoirier/picoc](https://github.com/jpoirier/picoc)
+  > A very small C interpreter
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Mr-xn/fmfuzz_tool](https://github.com/Mr-xn/fmfuzz_tool)
   > freemarker SSTI 命令执行/混淆/文件写入，以及jmreport组件利用payload生成
@@ -116,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-09 22:38:00 UTC*
+*Last updated at 2026-08-09 23:37:40 UTC*
 *Historical records are stored in the `archive` directory.*
