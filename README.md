@@ -63,15 +63,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse)
   > Sandbox your local AI agents so they can read/write only what they need
 
-### [swisskyrepo](https://github.com/swisskyrepo)
-- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [praetorian-inc/wasmforge](https://github.com/praetorian-inc/wasmforge)
-  > WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with poly...
-
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [pliron-org/pliron](https://github.com/pliron-org/pliron)
   > An Extensible Compiler IR Framework
 
 
 ---
-*Last updated at 2026-08-10 10:23:40 UTC*
+*Last updated at 2026-08-10 11:53:10 UTC*
 *Historical records are stored in the `archive` directory.*
