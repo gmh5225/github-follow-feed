@@ -101,6 +101,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
   > Hardware backdoors in x86 CPUs
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [sambanks/octabam](https://github.com/sambanks/octabam)
+  > Custom DSP effects for the Elektron Octatrack MKII — original DSP56300 algorithms (ChonVerb reverb, ...
+- 🌟 👤 [patois](https://github.com/patois) Starred [mxldyn/octamax](https://github.com/mxldyn/octamax)
+  > Educational reverse engineering of the Elektron Octatrack MKII firmware (OS 1.40C, ColdFire + DSP56x...
+- 🌟 👤 [patois](https://github.com/patois) Starred [mischa85/elektron-firmware-tool](https://github.com/mischa85/elektron-firmware-tool)
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pnpm/setup](https://github.com/pnpm/setup)
   > Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
@@ -131,5 +138,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-10 20:51:32 UTC*
+*Last updated at 2026-08-10 21:49:47 UTC*
 *Historical records are stored in the `archive` directory.*
