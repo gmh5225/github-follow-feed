@@ -14,9 +14,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill)
   > 🔧 AI-powered JS逆向工程 Skill —— 覆盖加密还原、混淆分析、动态Cookie、WASM逆向、协议对抗等全链路场景，通过 Node.js 实现算法还原与模拟请求。适配 Claude...
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [maximhq/bifrost](https://github.com/maximhq/bifrost)
+  > Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, g...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [VibePod/vibepod-cli](https://github.com/VibePod/vibepod-cli)
   > Unified CLI for running AI coding agents in isolated containers. Includes built-in local metrics col...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA/OSMO](https://github.com/NVIDIA/OSMO)
@@ -43,11 +51,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pnpm/setup](https://github.com/pnpm/setup)
   > Install pnpm and a JavaScript runtime (Node.js, Bun, or Deno) in one GitHub actions step
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [ericscharff/oberon-compiler](https://github.com/ericscharff/oberon-compiler)
+  > An Oberon-07 compiler written in Oberon, with a bootstrap Oberon to C transpiler
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [ericscharff/smallworld.js](https://github.com/ericscharff/smallworld.js)
+  > A Smalltalk interpreter and virtual machine in JavaScript
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [firecrawl/anydoc](https://github.com/firecrawl/anydoc)
   > Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in R...
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse)
   > Sandbox your local AI agents so they can read/write only what they need
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [praetorian-inc/wasmforge](https://github.com/praetorian-inc/wasmforge)
+  > WasmForge — compile Go and C# programs to single-binary, WASM-sandboxed native executables with poly...
 
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [pliron-org/pliron](https://github.com/pliron-org/pliron)
@@ -55,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-10 08:44:34 UTC*
+*Last updated at 2026-08-10 10:23:40 UTC*
 *Historical records are stored in the `archive` directory.*
