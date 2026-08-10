@@ -50,6 +50,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A pure Rust implementation of WebRTC audio processing, providing echo cancellation, noise suppressio...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [n0-computer/iroh-ffi](https://github.com/n0-computer/iroh-ffi)
   > FFI bindings for iroh
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tinfoilsh/confidential-gpu-safeguards](https://github.com/tinfoilsh/confidential-gpu-safeguards)
+  > Exploring some gpu safeguards
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [orangecrab-fpga/orangecrab-hardware](https://github.com/orangecrab-fpga/orangecrab-hardware)
+  > ECP5 breakout board in a feather physical format
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kuzeyardabulut/CVE-2025-8045](https://github.com/kuzeyardabulut/CVE-2025-8045)
@@ -61,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > SMBLoot is a terminal interface for browsing SMB shares, reading remote files, downloading and uploa...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [V4bel/ITScape](https://github.com/V4bel/ITScape)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Saku0512/CVE-2026-9086-poc](https://github.com/Saku0512/CVE-2026-9086-poc)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xaled/Vipere](https://github.com/0xaled/Vipere)
+  > BOF exploiting the Visual Studio Installer Elevation Service for SYSTEM LPE and persistence via AppD...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bkerler/mtkclient](https://github.com/bkerler/mtkclient)
+  > Mediatek Flash and Repair Utility
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
@@ -91,11 +101,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [pliron-org/pliron](https://github.com/pliron-org/pliron)
   > An Extensible Compiler IR Framework
 
+### [wh1te4ever](https://github.com/wh1te4ever)
+- 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [ma4the/GhostLock-S26](https://github.com/ma4the/GhostLock-S26)
+  > CVE-2026-43499 PoC for S26 .𖥔 ݁ ˖
+
 ### [zouxianyu](https://github.com/zouxianyu)
 - 🌟 👤 [zouxianyu](https://github.com/zouxianyu) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
   > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 
 
 ---
-*Last updated at 2026-08-10 15:05:42 UTC*
+*Last updated at 2026-08-10 16:59:55 UTC*
 *Historical records are stored in the `archive` directory.*
