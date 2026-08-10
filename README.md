@@ -4,11 +4,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MythicAgents/Hades](https://github.com/MythicAgents/Hades)
+  > Hades is a fully-featured cross-platform Chrome Extension agent. Hades is designed for Mythic 3.0 an...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [china794/jiakao-baodian-dump](https://github.com/china794/jiakao-baodian-dump) to [CrackerCat/jiakao-baodian-dump](https://github.com/CrackerCat/jiakao-baodian-dump)
   > 驾考宝典 car.db 最新全量题库 6406题(202608061421) 逆向提取 | 在线刷题: https://china794.github.io/jiakao-baodian-dump/ ...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [chen-006/gpt56_api_detector](https://github.com/chen-006/gpt56_api_detector) to [CrackerCat/gpt56_api_detector](https://github.com/CrackerCat/gpt56_api_detector)
   > 用于检测api是否路由真实gpt5.6模型
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) to [CrackerCat/WeChat-AI](https://github.com/CrackerCat/WeChat-AI)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/KernCall](https://github.com/Dere3046/KernCall) to [CrackerCat/KernCall](https://github.com/CrackerCat/KernCall)
+  > kernel syscall channel library for no-source kernel programming
 
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/hello_js_reverse_skill](https://github.com/WhiteNightShadow/hello_js_reverse_skill)
@@ -67,7 +74,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [pliron-org/pliron](https://github.com/pliron-org/pliron)
   > An Extensible Compiler IR Framework
 
+### [zouxianyu](https://github.com/zouxianyu)
+- 🌟 👤 [zouxianyu](https://github.com/zouxianyu) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
+
 
 ---
-*Last updated at 2026-08-10 11:53:10 UTC*
+*Last updated at 2026-08-10 13:23:49 UTC*
 *Historical records are stored in the `archive` directory.*
