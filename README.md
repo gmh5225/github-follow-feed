@@ -84,12 +84,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [draperlaboratory/fracture](https://github.com/draperlaboratory/fracture)
   > an architecture-independent decompiler to LLVM IR
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Wenzel/libmicrovmi](https://github.com/Wenzel/libmicrovmi)
+  > A cross-platform unified Virtual Machine Introspection API library 
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP)
+  > Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge) to [mrexodia/ida-bridge](https://github.com/mrexodia/ida-bridge)
   > Bridge between agents and IDA Pro.
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xaled/Vipere](https://github.com/0xaled/Vipere)
+  > BOF exploiting the Visual Studio Installer Elevation Service for SYSTEM LPE and persistence via AppD...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xoreaxeaxeax/rosenbridge](https://github.com/xoreaxeaxeax/rosenbridge)
+  > Hardware backdoors in x86 CPUs
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pnpm/setup](https://github.com/pnpm/setup)
@@ -121,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-10 17:57:58 UTC*
+*Last updated at 2026-08-10 19:08:54 UTC*
 *Historical records are stored in the `archive` directory.*
