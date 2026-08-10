@@ -37,6 +37,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [TechnicallyCoded/FoliaLib](https://github.com/TechnicallyCoded/FoliaLib) to [funkemunky/FoliaLib](https://github.com/funkemunky/FoliaLib)
   > This is a wrapper library for aiding in supporting the Folia Paper Fork. This library adds multiple ...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [qqq-wisc/tzap](https://github.com/qqq-wisc/tzap)
+  > A very fast and scalable quantum circuit optimizer
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA/OSMO](https://github.com/NVIDIA/OSMO)
   > The developer-first platform for scaling complex Physical AI workloads across heterogeneous compute—...
@@ -57,6 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [orangecrab-fpga/orangecrab-hardware](https://github.com/orangecrab-fpga/orangecrab-hardware)
   > ECP5 breakout board in a feather physical format
 
+### [iPower](https://github.com/iPower)
+- 🌟 👤 [iPower](https://github.com/iPower) Starred [HexRaysSA/ida-codemode](https://github.com/HexRaysSA/ida-codemode)
+  > ⚠️ Experimental prerelease ⚠️ IDA Code Mode gives agents a compact Python execution surface over the...
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kuzeyardabulut/CVE-2025-8045](https://github.com/kuzeyardabulut/CVE-2025-8045)
   > Dirty Pagetable Exploit for CVE-2025-8045
@@ -74,6 +82,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [draperlaboratory/fracture](https://github.com/draperlaboratory/fracture)
+  > an architecture-independent decompiler to LLVM IR
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
@@ -111,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-10 16:59:55 UTC*
+*Last updated at 2026-08-10 17:57:58 UTC*
 *Historical records are stored in the `archive` directory.*
