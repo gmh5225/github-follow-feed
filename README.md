@@ -33,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
   > The headless browser for AI agents and web scraping
 
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [TechnicallyCoded/FoliaLib](https://github.com/TechnicallyCoded/FoliaLib) to [funkemunky/FoliaLib](https://github.com/funkemunky/FoliaLib)
+  > This is a wrapper library for aiding in supporting the Folia Paper Fork. This library adds multiple ...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA/OSMO](https://github.com/NVIDIA/OSMO)
   > The developer-first platform for scaling complex Physical AI workloads across heterogeneous compute—...
@@ -47,12 +51,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [n0-computer/iroh-ffi](https://github.com/n0-computer/iroh-ffi)
   > FFI bindings for iroh
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kuzeyardabulut/CVE-2025-8045](https://github.com/kuzeyardabulut/CVE-2025-8045)
+  > Dirty Pagetable Exploit for CVE-2025-8045
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sfewer-r7/CVE-2026-63077](https://github.com/sfewer-r7/CVE-2026-63077)
+  > Unauthenticated Remote Code Execution in JetBrains TeamCity (CVE-2026-63077)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [V4bel/Zapscape](https://github.com/V4bel/Zapscape)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [swisskyrepo/SMBLoot](https://github.com/swisskyrepo/SMBLoot)
+  > SMBLoot is a terminal interface for browsing SMB shares, reading remote files, downloading and uploa...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [V4bel/ITScape](https://github.com/V4bel/ITScape)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Saku0512/CVE-2026-9086-poc](https://github.com/Saku0512/CVE-2026-9086-poc)
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [sysprogs/VirtualKD](https://github.com/sysprogs/VirtualKD)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
   > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [cellebrite-labs/ida-bridge](https://github.com/cellebrite-labs/ida-bridge) to [mrexodia/ida-bridge](https://github.com/mrexodia/ida-bridge)
+  > Bridge between agents and IDA Pro.
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pnpm/setup](https://github.com/pnpm/setup)
@@ -80,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-10 13:23:49 UTC*
+*Last updated at 2026-08-10 15:05:42 UTC*
 *Historical records are stored in the `archive` directory.*
