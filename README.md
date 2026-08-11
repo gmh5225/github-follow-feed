@@ -20,6 +20,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Apache NuttX is a mature, real-time embedded operating system (RTOS)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [WireGuard/wireguard-nt](https://github.com/WireGuard/wireguard-nt)
   > This repo is a mirror only. Official repository is at https://git.zx2c4.com/wireguard-nt
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [eset/ipyida](https://github.com/eset/ipyida)
+  > IPython console integration for IDA Pro
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/rwMemory](https://github.com/Dere3046/rwMemory) to [CrackerCat/rwMemory](https://github.com/CrackerCat/rwMemory)
@@ -57,6 +59,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx)
   > Build Postgres Extensions with Rust!
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [rambhawan/Computer-Compiler-Lang](https://github.com/rambhawan/Computer-Compiler-Lang)
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
+  > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
@@ -105,6 +114,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools)
   > Official repository of VMware open-vm-tools project
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [achrefelouafi/LinearAbiltyCastingThreeJS](https://github.com/achrefelouafi/LinearAbiltyCastingThreeJS)
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [eset/ipyida](https://github.com/eset/ipyida) to [mrexodia/ipyida](https://github.com/mrexodia/ipyida)
   > IPython console integration for IDA Pro
@@ -127,5 +139,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-11 19:11:07 UTC*
+*Last updated at 2026-08-11 20:54:36 UTC*
 *Historical records are stored in the `archive` directory.*
