@@ -22,11 +22,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [praetorian-inc/swarmer](https://github.com/praetorian-inc/swarmer)
   > A tool to convert windows registry export files into windows hive files that can be used to replace ...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Fully automatic censorship removal for language models
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
   > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
+  > The binary you run is not the program you wrote.
+
+### [wh1te4ever](https://github.com/wh1te4ever)
+- 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
+  > Sandbox escape PoC for iOS 26 and 27
+
+### [zouxianyu](https://github.com/zouxianyu)
+- 🍴 👤 [zouxianyu](https://github.com/zouxianyu) Forked [NeverSight/NeverD](https://github.com/NeverSight/NeverD) to [zouxianyu/NeverD](https://github.com/zouxianyu/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
+
 
 ---
-*Last updated at 2026-08-11 02:11:12 UTC*
+*Last updated at 2026-08-11 04:25:13 UTC*
 *Historical records are stored in the `archive` directory.*
