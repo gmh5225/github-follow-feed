@@ -49,6 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [IsaacPushButton/reddit-reader-userscript](https://github.com/IsaacPushButton/reddit-reader-userscript)
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx)
+  > Build Postgres Extensions with Rust!
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
   > Sandbox escape PoC for iOS 26 and 27.
@@ -63,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [lascic/UIOnboarding](https://github.com/lascic/UIOnboarding)
   > Apple-esque animated welcome screen for iOS and iPadOS. Configurable.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo)
+  > An Android HW Attestation demo
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [eset/ipyida](https://github.com/eset/ipyida) to [mrexodia/ipyida](https://github.com/mrexodia/ipyida)
   > IPython console integration for IDA Pro
@@ -70,6 +78,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
   > The binary you run is not the program you wrote.
+
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/htx-api](https://github.com/sieblyio/htx-api)
+  > Complete JavaScript & Node.js SDK for HTX's REST APIs & WebSockets, with TypeScript & browser suppor...
 
 ### [wh1te4ever](https://github.com/wh1te4ever)
 - 🌟 👤 [wh1te4ever](https://github.com/wh1te4ever) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
@@ -81,5 +93,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-11 15:04:21 UTC*
+*Last updated at 2026-08-11 17:03:50 UTC*
 *Historical records are stored in the `archive` directory.*
