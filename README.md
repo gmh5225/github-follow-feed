@@ -37,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [leachim6/hello-world](https://github.com/leachim6/hello-world)
   > Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to se...
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [xodus-gaming/xodus](https://github.com/xodus-gaming/xodus)
+  > The great gaming migration to Linux
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [praetorian-inc/swarmer](https://github.com/praetorian-inc/swarmer)
@@ -73,6 +75,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo)
   > An Android HW Attestation demo
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated)
+
+### [gakonst](https://github.com/gakonst)
+- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [libkrun/libkrunfw](https://github.com/libkrun/libkrunfw) to [gakonst/libkrunfw](https://github.com/gakonst/libkrunfw)
+  > A dynamic library bundling the guest payload consumed by libkrun
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [amiller/devproof-audits-guide](https://github.com/amiller/devproof-audits-guide)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)
@@ -125,6 +132,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
   > The binary you run is not the program you wrote.
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [verialabs/ctf-agent](https://github.com/verialabs/ctf-agent)
+  > Autonomous CTF solver that races multiple AI models in parallel. 1st place BSidesSF 2026.
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/htx-api](https://github.com/sieblyio/htx-api)
   > Complete JavaScript & Node.js SDK for HTX's REST APIs & WebSockets, with TypeScript & browser suppor...
@@ -139,5 +150,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-11 20:54:36 UTC*
+*Last updated at 2026-08-11 21:55:35 UTC*
 *Historical records are stored in the `archive` directory.*
