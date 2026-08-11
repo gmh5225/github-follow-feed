@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [xoreaxeaxeax/mmiotic](https://github.com/xoreaxeaxeax/mmiotic)
+  > Latency x-ray for undocumented hardware
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
   > Sandbox escape PoC for iOS 26 and 27
@@ -44,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-11 04:25:13 UTC*
+*Last updated at 2026-08-11 05:57:05 UTC*
 *Historical records are stored in the `archive` directory.*
