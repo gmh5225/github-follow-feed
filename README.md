@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [praetorian-inc/swarmer](https://github.com/praetorian-inc/swarmer)
   > A tool to convert windows registry export files into windows hive files that can be used to replace ...
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sailab-vienna/privesc-llm](https://github.com/sailab-vienna/privesc-llm)
+  > Post-training local LLM agents for Linux privilege escalation using SFT and RL with verifiable rewar...
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
@@ -52,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-11 07:20:52 UTC*
+*Last updated at 2026-08-11 09:06:07 UTC*
 *Historical records are stored in the `archive` directory.*
