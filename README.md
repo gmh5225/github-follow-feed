@@ -11,6 +11,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A very very very very very very very long interrupt
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [xoreaxeaxeax/mmiotic](https://github.com/xoreaxeaxeax/mmiotic)
   > Latency x-ray for undocumented hardware
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader)
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
@@ -30,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated) to [CrackerCat/Privisolated](https://github.com/CrackerCat/Privisolated)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [radareorg/r2flutter](https://github.com/radareorg/r2flutter) to [CrackerCat/r2flutter](https://github.com/CrackerCat/r2flutter)
   > Parsing Flutter Constant Pools for radare2
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [leachim6/hello-world](https://github.com/leachim6/hello-world)
+  > Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to se...
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [praetorian-inc/swarmer](https://github.com/praetorian-inc/swarmer)
@@ -58,6 +63,33 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Sandbox escape PoC for iOS 26 and 27.
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo)
   > An Android HW Attestation demo
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LSPosed/Privisolated](https://github.com/LSPosed/Privisolated)
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills)
+  > AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, mode...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router)
+  > External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [confident-ai/deepteam](https://github.com/confident-ai/deepteam)
+  > DeepTeam is a framework to red team LLMs and AI agents.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Cyfrin/cyfrin-audit-reports](https://github.com/Cyfrin/cyfrin-audit-reports)
+  > A list of public audit reports conducted by the Cyfrin team
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Gezine/BD-JB5](https://github.com/Gezine/BD-JB5)
+  > BD-JB for PS5
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)
+  > A self-improving RLM agent for coding workflows and long-running autonomous tasks.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary)
+  > A collection of prompts, system prompts and LLM instructions
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hahwul/gori](https://github.com/hahwul/gori)
+  > A fast, keyboard-driven HTTP intercepting proxy and hacking & pentesting toolkit for the terminal.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [llnl/OGhidra](https://github.com/llnl/OGhidra)
+  > OGhidra bridges Large Language Models (LLMs) via Ollama with the Ghidra reverse engineering platform...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xNDI/CVE-2026-24294](https://github.com/0xNDI/CVE-2026-24294)
+  > CVE-2026-24294 PoC
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [thatskriptkid/re-harness](https://github.com/thatskriptkid/re-harness)
+  > Harness fo malware analysis
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Semperis-Community/ResetNightmare](https://github.com/Semperis-Community/ResetNightmare)
+  > POC tool for ResetNightmare (CVE-2026-27912)
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
@@ -70,6 +102,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo)
   > An Android HW Attestation demo
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools)
+  > Official repository of VMware open-vm-tools project
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [eset/ipyida](https://github.com/eset/ipyida) to [mrexodia/ipyida](https://github.com/mrexodia/ipyida)
@@ -93,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-11 17:03:50 UTC*
+*Last updated at 2026-08-11 19:11:07 UTC*
 *Historical records are stored in the `archive` directory.*
