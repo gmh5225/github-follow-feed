@@ -34,13 +34,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sailab-vienna/privesc-llm](https://github.com/sailab-vienna/privesc-llm)
   > Post-training local LLM agents for Linux privilege escalation using SFT and RL with verifiable rewar...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
+  > Sandbox escape PoC for iOS 26 and 27
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Fully automatic censorship removal for language models
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [souffle-lang/souffle](https://github.com/souffle-lang/souffle)
-  > Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthe...
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [lascic/UIOnboarding](https://github.com/lascic/UIOnboarding)
+  > Apple-esque animated welcome screen for iOS and iPadOS. Configurable.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
@@ -56,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-11 09:06:07 UTC*
+*Last updated at 2026-08-11 10:55:51 UTC*
 *Historical records are stored in the `archive` directory.*
