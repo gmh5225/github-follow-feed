@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
   > Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoi...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
+  > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo) to [CrackerCat/android-hardware-attestation-demo](https://github.com/CrackerCat/android-hardware-attestation-demo)
@@ -127,10 +129,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Private, searchable screen history for macOS.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dmaivel/libdecomp](https://github.com/dmaivel/libdecomp)
+  > Library for decompiling multi-architecture disassembly (ARM64, X86, X86-64) into source code (C, Zig...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
   > hydra
+
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [peterducan-hub/PeterDuncan_Comfyui](https://github.com/peterducan-hub/PeterDuncan_Comfyui)
+  > Personal ComfyUi Workflows
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [doitsujin/dxvk](https://github.com/doitsujin/dxvk)
@@ -148,5 +156,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-12 19:10:29 UTC*
+*Last updated at 2026-08-12 20:53:50 UTC*
 *Historical records are stored in the `archive` directory.*
