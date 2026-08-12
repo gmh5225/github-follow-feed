@@ -22,6 +22,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Local-first AI knowledge base for PDFs, Office docs, web clips and Markdown notes — ask your whole l...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MeowDump/Integrity-Box](https://github.com/MeowDump/Integrity-Box) to [CrackerCat/Integrity-Box](https://github.com/CrackerCat/Integrity-Box)
   > A toolkit for managing Play Integrity & System Environment
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [miner7222/LTBox](https://github.com/miner7222/LTBox) to [CrackerCat/LTBox](https://github.com/CrackerCat/LTBox)
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [xoreaxeaxeax/mmiotic](https://github.com/xoreaxeaxeax/mmiotic)
@@ -73,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [denisidoro/navi](https://github.com/denisidoro/navi)
   > An interactive cheatsheet tool for the command-line
 
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [tyilo/insert_dylib](https://github.com/tyilo/insert_dylib)
+  > Command line utility for inserting a dylib load command into a Mach-O binary
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [sebknzl/krawall](https://github.com/sebknzl/krawall)
   > XM/S3M-Player for the Gameboy Advance (GBA)
@@ -80,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crosire/d3d8to9](https://github.com/crosire/d3d8to9)
   > A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [majidmanzarpour/threejs-vfx](https://github.com/majidmanzarpour/threejs-vfx)
+  > A skillshot VFX sandbox with 100 procedural spell effects across 15 schools. Three.js and hand-writt...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
@@ -95,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-12 11:53:04 UTC*
+*Last updated at 2026-08-12 13:24:46 UTC*
 *Historical records are stored in the `archive` directory.*
