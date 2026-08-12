@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [vitaut/zmij](https://github.com/vitaut/zmij)
   > A fast double-to-string conversion library with implementations in C and C++
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice)
+  > Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoi...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo) to [CrackerCat/android-hardware-attestation-demo](https://github.com/CrackerCat/android-hardware-attestation-demo)
   > An Android HW Attestation demo
@@ -73,6 +77,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills) to [enovella/idasql-skills](https://github.com/enovella/idasql-skills)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [0xeb/vibe-re](https://github.com/0xeb/vibe-re)
+  > A collection of vibe reverse engineered binaries and malware (for educational purposes only)
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [0xeb/vibe-re](https://github.com/0xeb/vibe-re) to [enovella/vibe-re](https://github.com/enovella/vibe-re)
+  > A collection of vibe reverse engineered binaries and malware (for educational purposes only)
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [lkalir/tocat](https://github.com/lkalir/tocat)
@@ -140,5 +148,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-12 17:02:48 UTC*
+*Last updated at 2026-08-12 19:10:29 UTC*
 *Historical records are stored in the `archive` directory.*
