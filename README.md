@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [vitaut/zmij](https://github.com/vitaut/zmij)
+  > A fast double-to-string conversion library with implementations in C and C++
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [quarkslab/android-hardware-attestation-demo](https://github.com/quarkslab/android-hardware-attestation-demo) to [CrackerCat/android-hardware-attestation-demo](https://github.com/CrackerCat/android-hardware-attestation-demo)
   > An Android HW Attestation demo
@@ -42,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [lyramakesmusic/neuralese-leaker](https://github.com/lyramakesmusic/neuralese-leaker)
+  > web app for chatting with llms on openrouter with leaked unabridged reasoning
+
 ### [danbev](https://github.com/danbev)
 - 🍴 👤 [danbev](https://github.com/danbev) Forked [ggml-org/llama-install.sh](https://github.com/ggml-org/llama-install.sh) to [danbev/llama-install.sh](https://github.com/danbev/llama-install.sh)
   > Build and install script for llama.app
@@ -74,6 +82,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [denisidoro/navi](https://github.com/denisidoro/navi)
   > An interactive cheatsheet tool for the command-line
 
+### [fotoroshi](https://github.com/fotoroshi)
+- 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [radareorg/radare2](https://github.com/radareorg/radare2)
+  > UNIX-like reverse engineering framework and command-line toolset
+- 🌟 👤 [fotoroshi](https://github.com/fotoroshi) Starred [haikow/claude-reverse-skills](https://github.com/haikow/claude-reverse-skills)
+  > Claude Code 逆向工程 skill 集合 (apk/ida/radare2/js) + IDA MCP 接入，跨平台 Linux/Mac/Windows
+
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [tyilo/insert_dylib](https://github.com/tyilo/insert_dylib)
   > Command line utility for inserting a dylib load command into a Mach-O binary
@@ -93,6 +107,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
   > Private, searchable screen history for macOS.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [doitsujin/dxvk](https://github.com/doitsujin/dxvk)
+  > Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
@@ -104,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-12 13:24:46 UTC*
+*Last updated at 2026-08-12 15:04:05 UTC*
 *Historical records are stored in the `archive` directory.*
