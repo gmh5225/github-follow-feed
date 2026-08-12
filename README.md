@@ -114,6 +114,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [sebknzl/krawall](https://github.com/sebknzl/krawall)
   > XM/S3M-Player for the Gameboy Advance (GBA)
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SpecterOps/Blacklight](https://github.com/SpecterOps/Blacklight)
+  > Blacklight is a cross-platform toolkit for mapping, analyzing, and understanding the local AI agent ...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crosire/d3d8to9](https://github.com/crosire/d3d8to9)
   > A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
@@ -156,5 +160,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-12 20:53:50 UTC*
+*Last updated at 2026-08-12 21:53:50 UTC*
 *Historical records are stored in the `archive` directory.*
