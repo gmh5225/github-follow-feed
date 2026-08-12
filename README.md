@@ -46,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
 
+### [ahmet](https://github.com/ahmet)
+- 🍴 👤 [ahmet](https://github.com/ahmet) Forked [novnc/websockify](https://github.com/novnc/websockify) to [ahmet/websockify](https://github.com/ahmet/websockify)
+  > Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/...
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [lyramakesmusic/neuralese-leaker](https://github.com/lyramakesmusic/neuralese-leaker)
   > web app for chatting with llms on openrouter with leaked unabridged reasoning
@@ -69,6 +73,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills) to [enovella/idasql-skills](https://github.com/enovella/idasql-skills)
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [lkalir/tocat](https://github.com/lkalir/tocat)
+  > socat-inspired relay
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [buger/jsonparser](https://github.com/buger/jsonparser)
@@ -99,6 +107,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crosire/d3d8to9](https://github.com/crosire/d3d8to9)
   > A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [majidmanzarpour/threejs-vfx](https://github.com/majidmanzarpour/threejs-vfx)
@@ -109,6 +119,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Private, searchable screen history for macOS.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra)
+  > hydra
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [doitsujin/dxvk](https://github.com/doitsujin/dxvk)
@@ -126,5 +140,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-12 15:04:05 UTC*
+*Last updated at 2026-08-12 17:02:48 UTC*
 *Historical records are stored in the `archive` directory.*
