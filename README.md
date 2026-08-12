@@ -26,6 +26,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [xoreaxeaxeax/mmiotic](https://github.com/xoreaxeaxeax/mmiotic)
   > Latency x-ray for undocumented hardware
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Firejumper93/GhostReconWildlands-AnvilNext2.0-Documentation](https://github.com/Firejumper93/GhostReconWildlands-AnvilNext2.0-Documentation)
+  > Reverse-engineering documentation for Ubisoft's AnvilNext 2.0 engine, derived first-hand from Ghost ...
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
@@ -56,6 +58,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An extremely fast Python package and project manager, written in Rust.
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [allthingsida/idasql](https://github.com/allthingsida/idasql) to [enovella/idasql](https://github.com/enovella/idasql)
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills) to [enovella/idasql-skills](https://github.com/enovella/idasql-skills)
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [buger/jsonparser](https://github.com/buger/jsonparser)
+  > THE fastest alternative JSON parser for Go that does not require schema
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [x-motemen/gore](https://github.com/x-motemen/gore)
+  >   Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [chubin/cheat.sh](https://github.com/chubin/cheat.sh)
+  > the only cheat sheet you need
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [InBrowserApp/InBrowserApp](https://github.com/InBrowserApp/InBrowserApp)
+  > 📦 InBrowser.App is a project to build and collect web apps that fully run in the browser without bac...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [denisidoro/navi](https://github.com/denisidoro/navi)
+  > An interactive cheatsheet tool for the command-line
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [sebknzl/krawall](https://github.com/sebknzl/krawall)
@@ -64,6 +80,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crosire/d3d8to9](https://github.com/crosire/d3d8to9)
   > A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [radkawar/screenlogger](https://github.com/radkawar/screenlogger)
+  > Private, searchable screen history for macOS.
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
@@ -75,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-12 10:13:33 UTC*
+*Last updated at 2026-08-12 11:53:04 UTC*
 *Historical records are stored in the `archive` directory.*
