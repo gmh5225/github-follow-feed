@@ -23,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
   > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you ...
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [ab-rizk/xpcspy](https://github.com/ab-rizk/xpcspy)
+  > Bidirectional XPC message interception and more. Powered by Frida
+
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [mattpocock/skills](https://github.com/mattpocock/skills)
   > Skills for Real Engineers. Straight from my .agents directory.
@@ -31,11 +35,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [danbev](https://github.com/danbev) Forked [ggml-org/llama-install.sh](https://github.com/ggml-org/llama-install.sh) to [danbev/llama-install.sh](https://github.com/danbev/llama-install.sh)
   > Build and install script for llama.app
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [crosire/d3d8to9](https://github.com/crosire/d3d8to9)
+  > A D3D8 pseudo-driver which converts API calls and bytecode shaders to equivalent D3D9 ones.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app)
   > GhostLock One-Tap Execution App
 
 
 ---
-*Last updated at 2026-08-12 06:19:39 UTC*
+*Last updated at 2026-08-12 08:23:34 UTC*
 *Historical records are stored in the `archive` directory.*
