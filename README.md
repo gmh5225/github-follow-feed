@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [CR3Swapper](https://github.com/CR3Swapper)
+- 🌟 👤 [CR3Swapper](https://github.com/CR3Swapper) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [forefy/JXA-Persistency](https://github.com/forefy/JXA-Persistency)
   > Old JXA based MacOS persistency for EDR bypass security testing
@@ -117,6 +121,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [momo5502](https://github.com/momo5502) Forked [JackTYM/FEX](https://github.com/JackTYM/FEX) to [momo5502/FEX](https://github.com/momo5502/FEX)
   > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [cactus-compute/needle](https://github.com/cactus-compute/needle)
+  > 14MB foundation model for tiny devices; phones, wearables, smart home, and robots.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iBala/open-artifact](https://github.com/iBala/open-artifact) to [mrexodia/open-artifact](https://github.com/mrexodia/open-artifact)
   > Publish, share and comment on the HTML and Markdown your coding agent writes. Self-hosted.
@@ -164,5 +172,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-13 19:11:32 UTC*
+*Last updated at 2026-08-13 20:51:45 UTC*
 *Historical records are stored in the `archive` directory.*
