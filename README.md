@@ -28,6 +28,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [forefy/JXA-Persistency](https://github.com/forefy/JXA-Persistency)
   > Old JXA based MacOS persistency for EDR bypass security testing
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [deeplethe/forkd](https://github.com/deeplethe/forkd)
+  > Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mmert11/vexa](https://github.com/mmert11/vexa) to [CrackerCat/vexa](https://github.com/CrackerCat/vexa)
@@ -47,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
   > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -54,6 +64,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Xyrem](https://github.com/Xyrem)
 - 🌟 👤 [Xyrem](https://github.com/Xyrem) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [deeplethe/forkd](https://github.com/deeplethe/forkd)
+  > Fork() for AI agent microVMs. Spawn 100 children in ~100ms from a warm parent; BRANCH a live VM in ~...
 
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa)
@@ -66,10 +80,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [sll552/DiscordBee](https://github.com/sll552/DiscordBee)
+  > MusicBee plugin that updates your Discord status with the currently playing track
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [shilga/rp-gameboy-cartridge-hw](https://github.com/shilga/rp-gameboy-cartridge-hw)
@@ -81,6 +101,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A reversing plugin for cross-decompiler collaboration, built on git. 
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [binsync/binsync](https://github.com/binsync/binsync) to [hzqst/binsync](https://github.com/hzqst/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
+
+### [khang06](https://github.com/khang06)
+- 🍴 👤 [khang06](https://github.com/khang06) Forked [ExplodingBottle/sym2map](https://github.com/ExplodingBottle/sym2map) to [khang06/sym2map](https://github.com/khang06/sym2map)
+  > Debug file conversion tool for converting SYM files to MAP files
+
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
+  > Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+
+### [mlabonne](https://github.com/mlabonne)
+- 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [Liquid4All/lqh](https://github.com/Liquid4All/lqh)
+
+### [momo5502](https://github.com/momo5502)
+- 🍴 👤 [momo5502](https://github.com/momo5502) Forked [JackTYM/FEX](https://github.com/JackTYM/FEX) to [momo5502/FEX](https://github.com/momo5502/FEX)
+  > A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iBala/open-artifact](https://github.com/iBala/open-artifact) to [mrexodia/open-artifact](https://github.com/mrexodia/open-artifact)
@@ -129,5 +164,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-13 17:02:30 UTC*
+*Last updated at 2026-08-13 19:11:32 UTC*
 *Historical records are stored in the `archive` directory.*
