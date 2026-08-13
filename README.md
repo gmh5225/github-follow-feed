@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [szjlovezj/snoweyes-dual-probe-mcp](https://github.com/szjlovezj/snoweyes-dual-probe-mcp) to [CrackerCat/snoweyes-dual-probe-mcp](https://github.com/CrackerCat/snoweyes-dual-probe-mcp)
   > 雪瞳 MCP 增强版 — GET+POST 双探引擎 · 假 200 自动识别 · 27,699 行字典 · 9 个 MCP 工具，让 AI 直接调用
 
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa)
+  > Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event...
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [binsync/binsync](https://github.com/binsync/binsync) to [hzqst/binsync](https://github.com/hzqst/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
@@ -43,7 +47,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [xndbogdan/malicious-repositories](https://github.com/xndbogdan/malicious-repositories)
+  > collected from LinkedIn scammers
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [EstebanPdN/zelda-alttp-3ds](https://github.com/EstebanPdN/zelda-alttp-3ds)
+  > Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds)
+  > Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
+
 
 ---
-*Last updated at 2026-08-13 06:23:19 UTC*
+*Last updated at 2026-08-13 08:25:45 UTC*
 *Historical records are stored in the `archive` directory.*
