@@ -22,6 +22,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [changliu98/manifold](https://github.com/changliu98/manifold)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Dump-GUY/BTR_CLI](https://github.com/Dump-GUY/BTR_CLI)
   > Offensive PoC tool for BTR.sys - Microsoft Defender's Boot Time Removal Tool. Supporting material fo...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [forefy/JXA-Persistency](https://github.com/forefy/JXA-Persistency)
+  > Old JXA based MacOS persistency for EDR bypass security testing
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mmert11/vexa](https://github.com/mmert11/vexa) to [CrackerCat/vexa](https://github.com/CrackerCat/vexa)
@@ -35,18 +41,44 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [vjt/grappa-irc](https://github.com/vjt/grappa-irc)
   > Always-on IRC bouncer with a REST-first API (grappa) + irssi-shape PWA client (cicchetto). Beta.
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
+  > DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave ...
+
+### [Xyrem](https://github.com/Xyrem)
+- 🌟 👤 [Xyrem](https://github.com/Xyrem) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [Yamato-Security/hayabusa](https://github.com/Yamato-Security/hayabusa)
   > Hayabusa (隼) is a sigma-based threat hunting and fast forensics timeline generator for Windows event...
 
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
+  > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [shilga/rp-gameboy-cartridge-hw](https://github.com/shilga/rp-gameboy-cartridge-hw)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [shilga/rp2040-gameboy-cartridge-firmware](https://github.com/shilga/rp2040-gameboy-cartridge-firmware)
+  > Firmware for the Croco Cartridge
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [binsync/binsync](https://github.com/binsync/binsync) to [HLND2T/binsync](https://github.com/HLND2T/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [binsync/binsync](https://github.com/binsync/binsync) to [hzqst/binsync](https://github.com/hzqst/binsync)
   > A reversing plugin for cross-decompiler collaboration, built on git. 
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [iBala/open-artifact](https://github.com/iBala/open-artifact) to [mrexodia/open-artifact](https://github.com/mrexodia/open-artifact)
+  > Publish, share and comment on the HTML and Markdown your coding agent writes. Self-hosted.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [swkima-dev/bubblewrap-rs](https://github.com/swkima-dev/bubblewrap-rs)
@@ -66,7 +98,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [EstebanPdN/zelda-tmc-3ds](https://github.com/EstebanPdN/zelda-tmc-3ds)
   > Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [cellebrite-labs/ida_kcpp](https://github.com/cellebrite-labs/ida_kcpp)
+  > An IDAPython module for enhancing c++ support on top of ida_kernelcache
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [williballenthin/ida-netnode](https://github.com/williballenthin/ida-netnode)
+  > Humane API for storing and accessing persistent data in IDA Pro databases
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [medigateio/ida_medigate](https://github.com/medigateio/ida_medigate)
+  > Medigate plugin for c++ reverse engineering and other utils
+
 
 ---
-*Last updated at 2026-08-13 13:26:27 UTC*
+*Last updated at 2026-08-13 15:03:43 UTC*
 *Historical records are stored in the `archive` directory.*
