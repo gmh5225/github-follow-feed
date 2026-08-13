@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [szjlovezj/snoweyes-dual-probe-mcp](https://github.com/szjlovezj/snoweyes-dual-probe-mcp) to [CrackerCat/snoweyes-dual-probe-mcp](https://github.com/CrackerCat/snoweyes-dual-probe-mcp)
   > 雪瞳 MCP 增强版 — GET+POST 双探引擎 · 假 200 自动识别 · 27,699 行字典 · 9 个 MCP 工具，让 AI 直接调用
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [binsync/binsync](https://github.com/binsync/binsync) to [hzqst/binsync](https://github.com/hzqst/binsync)
+  > A reversing plugin for cross-decompiler collaboration, built on git. 
+
 ### [n01e0](https://github.com/n01e0)
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [swkima-dev/bubblewrap-rs](https://github.com/swkima-dev/bubblewrap-rs)
   > Low-level unprivileged sandboxing tool
@@ -41,5 +45,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-13 04:57:25 UTC*
+*Last updated at 2026-08-13 06:23:19 UTC*
 *Historical records are stored in the `archive` directory.*
