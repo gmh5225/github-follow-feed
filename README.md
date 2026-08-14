@@ -112,6 +112,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [etherscan/skills](https://github.com/etherscan/skills)
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [prime-radiant-inc/engineering-notebook](https://github.com/prime-radiant-inc/engineering-notebook)
+  > A Bun CLI that ingests Claude Code and Codex session transcripts, generates LLM-powered daily summar...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)
 
@@ -123,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-14 17:04:09 UTC*
+*Last updated at 2026-08-14 19:02:37 UTC*
 *Historical records are stored in the `archive` directory.*
