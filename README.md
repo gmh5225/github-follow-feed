@@ -9,6 +9,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) to [CrackerCat/skitter-creek-bath-salts](https://github.com/CrackerCat/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [AndyAiCardputer/zx-spectrum-cardputer](https://github.com/AndyAiCardputer/zx-spectrum-cardputer)
+  > ZX Spectrum 48K Emulator for M5Stack Cardputer
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [EugenyN/GLAZX](https://github.com/EugenyN/GLAZX)
+  > a small, open-source game for ZX Spectrum 48/128 in classic arcade style
+
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [suleram/View8](https://github.com/suleram/View8)
   > View8 - Decompiles serialized V8 objects back into high-level readable code.
@@ -18,6 +28,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+
+### [chfast](https://github.com/chfast)
+- 🍴 👤 [chfast](https://github.com/chfast) Forked [CodSpeedHQ/codspeed-cpp](https://github.com/CodSpeedHQ/codspeed-cpp) to [chfast/codspeed-cpp](https://github.com/chfast/codspeed-cpp)
+  > C++ libraries to create CodSpeed benchmarks
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
+  > A flexible enhancer for YouTube on iOS
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
@@ -46,13 +65,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [pharo-project/pharo-vm](https://github.com/pharo-project/pharo-vm) to [frida/pharo-vm](https://github.com/frida/pharo-vm)
+  > This is the VM used by Pharo
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [etherscan/skills](https://github.com/etherscan/skills)
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [villager1314/CVE-2026-64560-Analysis](https://github.com/villager1314/CVE-2026-64560-Analysis)
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 
 ---
-*Last updated at 2026-08-14 08:21:19 UTC*
+*Last updated at 2026-08-14 10:10:35 UTC*
 *Historical records are stored in the `archive` directory.*
