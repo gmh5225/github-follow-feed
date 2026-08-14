@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Devolutions/windbg-tool](https://github.com/Devolutions/windbg-tool)
+  > WinDBG tool for AI agents
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [CrackerCat/sukinject](https://github.com/CrackerCat/sukinject)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) to [CrackerCat/skitter-creek-bath-salts](https://github.com/CrackerCat/skitter-creek-bath-salts)
@@ -29,10 +33,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [MiniMax-AI/MiniMax-H3](https://github.com/MiniMax-AI/MiniMax-H3)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [cordiverse/cordis](https://github.com/cordiverse/cordis)
+  > Meta-Framework of Spatiotemporal Composability
 
 ### [chfast](https://github.com/chfast)
 - 🍴 👤 [chfast](https://github.com/chfast) Forked [CodSpeedHQ/codspeed-cpp](https://github.com/CodSpeedHQ/codspeed-cpp) to [chfast/codspeed-cpp](https://github.com/chfast/codspeed-cpp)
   > C++ libraries to create CodSpeed benchmarks
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
@@ -64,6 +74,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [am-will/gooey-pi](https://github.com/am-will/gooey-pi)
+  > A native-feeling macOS desktop workspace for Prime Agent
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xSufi/fable-jailbreak](https://github.com/0xSufi/fable-jailbreak)
+  > Anthropic's Fable jailbreak for Claude Code CLI
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [pharo-project/pharo-vm](https://github.com/pharo-project/pharo-vm) to [frida/pharo-vm](https://github.com/frida/pharo-vm)
@@ -78,8 +94,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
 
 ---
-*Last updated at 2026-08-14 10:10:35 UTC*
+*Last updated at 2026-08-14 11:50:12 UTC*
 *Historical records are stored in the `archive` directory.*
