@@ -18,6 +18,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ZX Spectrum 48K Emulator for M5Stack Cardputer
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [EugenyN/GLAZX](https://github.com/EugenyN/GLAZX)
   > a small, open-source game for ZX Spectrum 48/128 in classic arcade style
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [aabalke/guac](https://github.com/aabalke/guac)
+  > NDS, GBA, GBC, DMG Emulator written in golang
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
@@ -72,10 +74,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lobehub/lobe-icons](https://github.com/lobehub/lobe-icons)
+  > 🥨 Lobe Icons - Brings AI/LLM brand logos to your React & React Native apps — static SVG/PNG/WebP, no...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [napbat/semctl](https://github.com/napbat/semctl)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [am-will/gooey-pi](https://github.com/am-will/gooey-pi)
   > A native-feeling macOS desktop workspace for Prime Agent
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
+  > LLVM based obfuscator
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xSufi/fable-jailbreak](https://github.com/0xSufi/fable-jailbreak)
@@ -99,5 +107,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-14 11:50:12 UTC*
+*Last updated at 2026-08-14 13:20:47 UTC*
 *Historical records are stored in the `archive` directory.*
