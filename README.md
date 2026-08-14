@@ -4,6 +4,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [xoreaxeaxeax/smiiiiiiiiiiiiiiii](https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii)
+  > A very very very very very very very long interrupt
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [xoreaxeaxeax/mmiotic](https://github.com/xoreaxeaxeax/mmiotic)
+  > Latency x-ray for undocumented hardware
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+  > Racing to the bottom of CPU performance
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [xoreaxeaxeax/schrodingers-toctou](https://github.com/xoreaxeaxeax/schrodingers-toctou)
+  > The binary you run is not the program you wrote.
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak)
   > Windows Defender 0day vulnerability
@@ -95,6 +107,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mmert11/vexa](https://github.com/mmert11/vexa)
   > x86-64 Symbolic Execution & LLVM IR Lifting Framework for Deobfuscation
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
+  > Unlocking _everything_ on the CPU with DRAM scrambling
+
 ### [ggerganov](https://github.com/ggerganov)
 - 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
   > DeepSeek Harness: Everything is a Plugin.
@@ -180,5 +196,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-13 22:51:12 UTC*
+*Last updated at 2026-08-13 23:49:44 UTC*
 *Historical records are stored in the `archive` directory.*
