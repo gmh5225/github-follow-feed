@@ -46,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [chfast](https://github.com/chfast) Forked [CodSpeedHQ/codspeed-cpp](https://github.com/CodSpeedHQ/codspeed-cpp) to [chfast/codspeed-cpp](https://github.com/chfast/codspeed-cpp)
   > C++ libraries to create CodSpeed benchmarks
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
+  > Beautiful, Modern & Opinionated Linux
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -61,6 +65,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [beetbox/beets](https://github.com/beetbox/beets)
   > music library manager and MusicBrainz tagger
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jianbuzhai698-ui/ios](https://github.com/jianbuzhai698-ui/ios)
+  > 神也自卑 iOS — iOS 全版本安全研究框架
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cordiverse/paper](https://github.com/cordiverse/paper)
@@ -88,6 +96,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A native-feeling macOS desktop workspace for Prime Agent
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator)
   > LLVM based obfuscator
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [radkawar/screenlogger](https://github.com/radkawar/screenlogger) to [mrexodia/screenlogger](https://github.com/mrexodia/screenlogger)
+  > Private, searchable screen history for macOS.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [0xSufi/fable-jailbreak](https://github.com/0xSufi/fable-jailbreak)
@@ -111,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-14 14:57:47 UTC*
+*Last updated at 2026-08-14 15:59:32 UTC*
 *Historical records are stored in the `archive` directory.*
