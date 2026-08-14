@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Devolutions/windbg-tool](https://github.com/Devolutions/windbg-tool)
   > WinDBG tool for AI agents
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [som3canadian/Cloudflare-Redirector](https://github.com/som3canadian/Cloudflare-Redirector)
+  > Just another C2 Redirector using CloudFlare. Support multiple C2 and multiple domains. Support for w...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PPKunOfficial/sukinject](https://github.com/PPKunOfficial/sukinject) to [CrackerCat/sukinject](https://github.com/CrackerCat/sukinject)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) to [CrackerCat/skitter-creek-bath-salts](https://github.com/CrackerCat/skitter-creek-bath-salts)
@@ -107,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-14 13:20:47 UTC*
+*Last updated at 2026-08-14 14:57:47 UTC*
 *Historical records are stored in the `archive` directory.*
