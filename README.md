@@ -87,6 +87,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Devolutions/windbg-tool](https://github.com/Devolutions/windbg-tool)
+  > WinDBG tool for AI agents
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [kevingosse/windbg-bridge](https://github.com/kevingosse/windbg-bridge)
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -132,5 +137,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-14 22:30:04 UTC*
+*Last updated at 2026-08-14 23:27:28 UTC*
 *Historical records are stored in the `archive` directory.*
