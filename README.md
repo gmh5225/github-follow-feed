@@ -54,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [RicBent](https://github.com/RicBent)
 - 🍴 👤 [RicBent](https://github.com/RicBent) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [RicBent/vphone-cli](https://github.com/RicBent/vphone-cli)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [siggifly/ipod-emulator](https://github.com/siggifly/ipod-emulator)
+  > Apple's retail iPod 5.5G firmware boots here, from the reset vector. Formats its own filesystem, rea...
+
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
@@ -82,6 +86,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Exploit-Garbage/0day-Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish)
   > Redefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose th...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ziyao233/lynx-js](https://github.com/ziyao233/lynx-js)
+  > Add QuickJS to lynx as JavaScript engine.
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [defuse/auditician](https://github.com/defuse/auditician)
+  > Automated security audits with Claude Code
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [FAFF0x/gen1recomp](https://github.com/FAFF0x/gen1recomp)
   > MODS
@@ -99,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-15 21:26:56 UTC*
+*Last updated at 2026-08-15 22:28:43 UTC*
 *Historical records are stored in the `archive` directory.*
