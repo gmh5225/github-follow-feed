@@ -38,6 +38,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [pefia/pefiaOS](https://github.com/pefia/pefiaOS)
   > An x86 IOS built from scratch, with a custom web browser (It can run Doom!)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [cybersecurity-dev/awesome-linux-reverse-engineering](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering)
+  > Awesome Linux Reverse Engineering
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto)
@@ -65,6 +67,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Proof-of-concept exploit chain (CVE-2026-47301) for Microsoft Configuration Manager (SCCM), combinin...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MaherAzzouzi/vsockdrop](https://github.com/MaherAzzouzi/vsockdrop)
   > Linux kernel LPE via an io_uring zerocopy page-refcount underflow over AF_VSOCK
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [YangJiiii/3105](https://github.com/YangJiiii/3105)
+  > Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [itsPLK/ps5-webkit-autoloader](https://github.com/itsPLK/ps5-webkit-autoloader)
+  > An automated payload loader for exploited PS5 consoles
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [QM4RS/CVE-2026-0075](https://github.com/QM4RS/CVE-2026-0075)
+  > CVE-2026-0075 — Android ContactsProvider information disclosure via JSON error side-channel, includi...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ServiceNow/Dark-Agent](https://github.com/ServiceNow/Dark-Agent)
+  > Mythic C2 agent with a full in-memory BOF loader for macOS and Linux
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [OmriBaso/C3-Reloaded](https://github.com/OmriBaso/C3-Reloaded)
+  > An Improved of the C3 framework integrated with a built-in evasion techniques library, SSPI implemen...
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [FAFF0x/gen1recomp](https://github.com/FAFF0x/gen1recomp)
@@ -74,6 +86,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [CravateRouge/kerbad](https://github.com/CravateRouge/kerbad)
   > Kerberos manipulation library in pure Python
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rootsecdev/SecretsStalker](https://github.com/rootsecdev/SecretsStalker)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [visa/visa-vulnerability-agentic-harness](https://github.com/visa/visa-vulnerability-agentic-harness)
+  > Visa Vulnerability Agentic Harness
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [ShallowFeather/KDemu](https://github.com/ShallowFeather/KDemu)
@@ -81,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-15 17:26:17 UTC*
+*Last updated at 2026-08-15 18:38:16 UTC*
 *Historical records are stored in the `archive` directory.*
