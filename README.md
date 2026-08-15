@@ -26,12 +26,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > kernel hook library
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huoji120/QWEN-EXO-booster](https://github.com/huoji120/QWEN-EXO-booster) to [CrackerCat/QWEN-EXO-booster](https://github.com/CrackerCat/QWEN-EXO-booster)
   > QWEN-EXO model-native memory and inference booster for SGLang
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Zydak/LeetObfuscator](https://github.com/Zydak/LeetObfuscator) to [CrackerCat/LeetObfuscator](https://github.com/CrackerCat/LeetObfuscator)
+  > LLVM based obfuscator
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/BlockDeviceHook](https://github.com/Dere3046/BlockDeviceHook) to [CrackerCat/BlockDeviceHook](https://github.com/CrackerCat/BlockDeviceHook)
+  > Hook BlockDevice
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pengzenzen-creator/abl-patch-toolkit](https://github.com/pengzenzen-creator/abl-patch-toolkit) to [CrackerCat/abl-patch-toolkit](https://github.com/CrackerCat/abl-patch-toolkit)
+  > ABL patch toolkit for Snapdragon 8 Elite (SM8750) - fake locked bootloader
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto)
   > YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [jangviktor-web/nihaixia](https://github.com/jangviktor-web/nihaixia)
-  > 倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（...
+  > 倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，六经辨证，八纲辨证，天机道，天纪，紫微斗数，易经，阴阳，...
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [Teycir/ApiHunter](https://github.com/Teycir/ApiHunter) to [Mr-xn/ApiHunter](https://github.com/Mr-xn/ApiHunter)
   > Async API security scanner in Rust for CORS, CSP, GraphQL, JWT, OpenAPI, and active API posture chec...
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [Teycir/BurpAPISecuritySuite](https://github.com/Teycir/BurpAPISecuritySuite) to [Mr-xn/BurpAPISecuritySuite](https://github.com/Mr-xn/BurpAPISecuritySuite)
@@ -46,7 +52,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Kerberos manipulation library in pure Python
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [rootsecdev/SecretsStalker](https://github.com/rootsecdev/SecretsStalker)
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [ShallowFeather/KDemu](https://github.com/ShallowFeather/KDemu)
+  > A Windows Kernel Driver Emulator base on Unicorn, Kernel Memory Dump and some of native environment
+
 
 ---
-*Last updated at 2026-08-15 12:50:17 UTC*
+*Last updated at 2026-08-15 13:35:25 UTC*
 *Historical records are stored in the `archive` directory.*
