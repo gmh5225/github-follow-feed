@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [gadievron/raptor](https://github.com/gadievron/raptor)
+  > Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Clau...
+
 ### [54](https://github.com/54)
 - 🌟 👤 [54](https://github.com/54) Starred [Devolutions/windbg-tool](https://github.com/Devolutions/windbg-tool)
   > WinDBG tool for AI agents
@@ -27,5 +31,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-15 06:49:18 UTC*
+*Last updated at 2026-08-15 07:35:28 UTC*
 *Historical records are stored in the `archive` directory.*
