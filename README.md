@@ -35,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djskncxm/DuckREVM](https://github.com/djskncxm/DuckREVM) to [CrackerCat/DuckREVM](https://github.com/CrackerCat/DuckREVM)
   > 抽象出来的还原框架
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [pefia/pefiaOS](https://github.com/pefia/pefiaOS)
+  > An x86 IOS built from scratch, with a custom web browser (It can run Doom!)
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto)
   > YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、智能监控
@@ -52,6 +56,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)
+  > Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [portbuster1337/MassAcre](https://github.com/portbuster1337/MassAcre)
+  > MassAcre - masscan --banners: Remote Infinite-Loop DoS via Crafted TLS Certificate Record (0day at r...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit](https://github.com/OmriBaso/SCCM-CVE-2026-47301-Remote-Code-Execution-Exploit)
+  > Proof-of-concept exploit chain (CVE-2026-47301) for Microsoft Configuration Manager (SCCM), combinin...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MaherAzzouzi/vsockdrop](https://github.com/MaherAzzouzi/vsockdrop)
+  > Linux kernel LPE via an io_uring zerocopy page-refcount underflow over AF_VSOCK
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [FAFF0x/gen1recomp](https://github.com/FAFF0x/gen1recomp)
   > MODS
@@ -67,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-15 16:32:03 UTC*
+*Last updated at 2026-08-15 17:26:17 UTC*
 *Historical records are stored in the `archive` directory.*
