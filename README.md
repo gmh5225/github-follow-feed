@@ -25,11 +25,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/HooKern](https://github.com/Dere3046/HooKern) to [CrackerCat/HooKern](https://github.com/CrackerCat/HooKern)
   > kernel hook library
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [jangviktor-web/nihaixia](https://github.com/jangviktor-web/nihaixia)
+  > 倪海厦视角的中医Agent Skill，基于倪海厦教学资料开发，蒸馏倪师伤寒论、金匮要略、黄帝内经、神农本草经、针灸篇等，人纪/医案/经方思维，8个诊断公式+快速诊断流程图+脉舌速查+七步走思维模式（...
+
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [CravateRouge/kerbad](https://github.com/CravateRouge/kerbad)
+  > Kerberos manipulation library in pure Python
+
 
 ---
-*Last updated at 2026-08-15 10:29:13 UTC*
+*Last updated at 2026-08-15 11:26:00 UTC*
 *Historical records are stored in the `archive` directory.*
