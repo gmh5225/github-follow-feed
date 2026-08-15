@@ -78,6 +78,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [OmriBaso/C3-Reloaded](https://github.com/OmriBaso/C3-Reloaded)
   > An Improved of the C3 framework integrated with a built-in evasion techniques library, SSPI implemen...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Exploit-Garbage/0day-Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish)
+  > Redefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose th...
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [FAFF0x/gen1recomp](https://github.com/FAFF0x/gen1recomp)
   > MODS
@@ -95,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-15 19:25:40 UTC*
+*Last updated at 2026-08-15 20:29:33 UTC*
 *Historical records are stored in the `archive` directory.*
