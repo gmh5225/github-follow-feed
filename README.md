@@ -32,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Hook BlockDevice
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pengzenzen-creator/abl-patch-toolkit](https://github.com/pengzenzen-creator/abl-patch-toolkit) to [CrackerCat/abl-patch-toolkit](https://github.com/CrackerCat/abl-patch-toolkit)
   > ABL patch toolkit for Snapdragon 8 Elite (SM8750) - fake locked bootloader
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djskncxm/DuckREVM](https://github.com/djskncxm/DuckREVM) to [CrackerCat/DuckREVM](https://github.com/CrackerCat/DuckREVM)
+  > 抽象出来的还原框架
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto)
@@ -43,9 +45,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [Teycir/BurpAPISecuritySuite](https://github.com/Teycir/BurpAPISecuritySuite) to [Mr-xn/BurpAPISecuritySuite](https://github.com/Mr-xn/BurpAPISecuritySuite)
   > Burp Suite extension for API security testing with 15 attack types, 108+ payloads, intelligent fuzzi...
 
+### [RicBent](https://github.com/RicBent)
+- 🍴 👤 [RicBent](https://github.com/RicBent) Forked [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) to [RicBent/vphone-cli](https://github.com/RicBent/vphone-cli)
+
 ### [iPower](https://github.com/iPower)
 - 🌟 👤 [iPower](https://github.com/iPower) Starred [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts)
   > Unlocking _everything_ on the CPU with DRAM scrambling
+
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [FAFF0x/gen1recomp](https://github.com/FAFF0x/gen1recomp)
+  > MODS
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [CravateRouge/kerbad](https://github.com/CravateRouge/kerbad)
@@ -58,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-15 13:35:25 UTC*
+*Last updated at 2026-08-15 14:29:27 UTC*
 *Historical records are stored in the `archive` directory.*
