@@ -53,6 +53,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [tyeurada/edrEvasionWorkshop](https://github.com/tyeurada/edrEvasionWorkshop)
   > Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loaders to the Kernel” pr...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leancontext/website](https://github.com/leancontext/website)
+
 ### [osm0sis](https://github.com/osm0sis)
 - 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [osm0sis/TrickyStoreOSS](https://github.com/osm0sis/TrickyStoreOSS)
   > Open source alternative to proprietary Tricky Store module
@@ -63,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-16 16:33:04 UTC*
+*Last updated at 2026-08-16 17:25:03 UTC*
 *Historical records are stored in the `archive` directory.*
