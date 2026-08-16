@@ -49,11 +49,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) to [hzqst/codebase-memory-mcp](https://github.com/hzqst/codebase-memory-mcp)
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [tyeurada/edrEvasionWorkshop](https://github.com/tyeurada/edrEvasionWorkshop)
+  > Workshop materials for “Step-by-Step Malware Development: Evading EDR from Loaders to the Kernel” pr...
+
+### [osm0sis](https://github.com/osm0sis)
+- 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [beakthoven/TrickyStoreOSS](https://github.com/beakthoven/TrickyStoreOSS) to [osm0sis/TrickyStoreOSS](https://github.com/osm0sis/TrickyStoreOSS)
+  > Open source alternative to proprietary Tricky Store module
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [volkandindar/agartha](https://github.com/volkandindar/agartha)
   > A Burp Suite extension for identifying injection flaws (LFI, RCE, SQLi), authentication/authorizatio...
 
 
 ---
-*Last updated at 2026-08-16 15:27:41 UTC*
+*Last updated at 2026-08-16 16:33:04 UTC*
 *Historical records are stored in the `archive` directory.*
