@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 本项目是 Java-Chains 的自定义 Gadget 插件集合，基于 chains-plugin-demo 模板开发。
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [ZeroDot1/LLMWikiNG](https://github.com/ZeroDot1/LLMWikiNG) to [Mr-xn/LLMWikiNG](https://github.com/Mr-xn/LLMWikiNG)
   > LLMWikiNG is a local, privacy-friendly wiki platform developed by ZeroDot1 and based on the Karpathy...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [NarratorAI-Studio/narrator-ai-cli-skill](https://github.com/NarratorAI-Studio/narrator-ai-cli-skill)
+  > AI 解说大师 — Agent skill；封装 narrator-ai-cli 供 Claude/Codex 等工具调用
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
@@ -31,6 +33,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [raysan5/raylib](https://github.com/raysan5/raylib)
   > A simple and easy-to-use library to enjoy videogames programming
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [w00tzenheimer/d810-ng](https://github.com/w00tzenheimer/d810-ng)
+  > D810-ng (Next Generation) is an updated, tested, refactored, and optimized IDA Pro plugin used to de...
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [raysan5/raylib](https://github.com/raysan5/raylib)
+  > A simple and easy-to-use library to enjoy videogames programming
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [wozniakpawel/PairPods](https://github.com/wozniakpawel/PairPods)
+  > Free and open source app to share audio on macOS
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) to [hzqst/basic-memory](https://github.com/hzqst/basic-memory)
   > AI conversations that actually remember. Never re-explain your project to your AI again. Join our Di...
@@ -43,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-16 13:36:06 UTC*
+*Last updated at 2026-08-16 14:29:17 UTC*
 *Historical records are stored in the `archive` directory.*
