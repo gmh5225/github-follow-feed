@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [se1zer/chains-plugin-se1zer](https://github.com/se1zer/chains-plugin-se1zer) to [Mr-xn/chains-plugin-se1zer](https://github.com/Mr-xn/chains-plugin-se1zer)
   > 本项目是 Java-Chains 的自定义 Gadget 插件集合，基于 chains-plugin-demo 模板开发。
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [ZeroDot1/LLMWikiNG](https://github.com/ZeroDot1/LLMWikiNG) to [Mr-xn/LLMWikiNG](https://github.com/Mr-xn/LLMWikiNG)
+  > LLMWikiNG is a local, privacy-friendly wiki platform developed by ZeroDot1 and based on the Karpathy...
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [motiful/cc-gateway](https://github.com/motiful/cc-gateway)
@@ -36,5 +38,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-16 10:29:29 UTC*
+*Last updated at 2026-08-16 11:25:55 UTC*
 *Historical records are stored in the `archive` directory.*
