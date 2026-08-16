@@ -25,6 +25,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
   > TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and c...
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [buchidonggua/dg-ai-notes](https://github.com/buchidonggua/dg-ai-notes)
 
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [raysan5/raylib](https://github.com/raysan5/raylib)
@@ -42,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-16 12:51:45 UTC*
+*Last updated at 2026-08-16 13:36:06 UTC*
 *Historical records are stored in the `archive` directory.*
