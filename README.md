@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [oven-sh/bun](https://github.com/oven-sh/bun)
   > Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)
+  > TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and c...
+
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [raysan5/raylib](https://github.com/raysan5/raylib)
   > A simple and easy-to-use library to enjoy videogames programming
@@ -38,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-16 11:25:55 UTC*
+*Last updated at 2026-08-16 12:51:45 UTC*
 *Historical records are stored in the `archive` directory.*
