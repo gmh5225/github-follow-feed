@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DanMcInerney/orchflows](https://github.com/DanMcInerney/orchflows)
+  > Composable orchestration skills for Codex and Claude Code
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
@@ -91,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-17 20:33:32 UTC*
+*Last updated at 2026-08-17 21:31:33 UTC*
 *Historical records are stored in the `archive` directory.*
