@@ -14,16 +14,29 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
 
+### [hzqst](https://github.com/hzqst)
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TwilightRainDev/DSClaudeCodeRouter](https://github.com/TwilightRainDev/DSClaudeCodeRouter)
+  > 将dsh-routing-suite移植到Claude Code。
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [TwilightRainDev/DSClaudeCodeRouter](https://github.com/TwilightRainDev/DSClaudeCodeRouter) to [hzqst/DSClaudeCodeRouter](https://github.com/hzqst/DSClaudeCodeRouter)
+  > 将dsh-routing-suite移植到Claude Code。
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xkaize/LIBERTY-PROMTS](https://github.com/0xkaize/LIBERTY-PROMTS)
   > LIBERTY PROMPTS FOR JAILBREAK AI MODELS <I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THEM> ENJOY😈
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [0xkaize/LIBERTY-PROMTS](https://github.com/0xkaize/LIBERTY-PROMTS) to [killvxk/LIBERTY-PROMTS](https://github.com/killvxk/LIBERTY-PROMTS)
   > LIBERTY PROMPTS FOR JAILBREAK AI MODELS <I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THEM> ENJOY😈
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [AlirezaSaberi/periscope](https://github.com/AlirezaSaberi/periscope)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker)
+  > A tool to unlobotomize your NVIDIA card!
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xdeadbeefnetwork/KKYUMPoC](https://github.com/0xdeadbeefnetwork/KKYUMPoC)
 
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🍴 👤 [mach-port-t](https://github.com/mach-port-t) Forked [lascic/UIOnboarding](https://github.com/lascic/UIOnboarding) to [emexlab/UIOnboarding](https://github.com/emexlab/UIOnboarding)
   > Apple-esque animated welcome screen for iOS and iPadOS. Configurable.
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
+  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MaChInEgUn3/ygofm-decomp](https://github.com/MaChInEgUn3/ygofm-decomp)
@@ -31,11 +44,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gonzaloberteri/ygofm-decomp](https://github.com/gonzaloberteri/ygofm-decomp)
   > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PSX, SLUS-01411): every commit rebuilds a by...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mohammad-alattas/APISignature](https://github.com/mohammad-alattas/APISignature)
-  > APISignature is a plugin for x64dbg that help the malware analysts & reverse engineers during analys...
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
+  > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
 
 
 ---
-*Last updated at 2026-08-17 08:51:49 UTC*
+*Last updated at 2026-08-17 09:50:03 UTC*
 *Historical records are stored in the `archive` directory.*
