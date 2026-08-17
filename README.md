@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LifeArchiveProject/WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis) to [CrackerCat/WeChatDataAnalysis](https://github.com/CrackerCat/WeChatDataAnalysis)
   > 微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出聊天记录，朋友圈，收藏等大量便捷功能
 
+### [Dax89](https://github.com/Dax89)
+- 🍴 👤 [Dax89](https://github.com/Dax89) Forked [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) to [Dax89/Versions](https://github.com/Dax89/Versions)
+  > 📦 A Scoop bucket for alternative versions of apps.
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
@@ -54,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-17 11:31:35 UTC*
+*Last updated at 2026-08-17 12:56:11 UTC*
 *Historical records are stored in the `archive` directory.*
