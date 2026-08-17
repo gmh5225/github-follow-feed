@@ -31,7 +31,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gonzaloberteri/ygofm-decomp](https://github.com/gonzaloberteri/ygofm-decomp)
   > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PSX, SLUS-01411): every commit rebuilds a by...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mohammad-alattas/APISignature](https://github.com/mohammad-alattas/APISignature)
+  > APISignature is a plugin for x64dbg that help the malware analysts & reverse engineers during analys...
+
 
 ---
-*Last updated at 2026-08-17 07:07:19 UTC*
+*Last updated at 2026-08-17 08:51:49 UTC*
 *Historical records are stored in the `archive` directory.*
