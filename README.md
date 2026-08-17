@@ -73,11 +73,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [blasty/ida-tui](https://github.com/blasty/ida-tui) to [mrexodia/ida-tui](https://github.com/mrexodia/ida-tui)
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Portable, lightweight, self-contained virtual machine.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
   > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
 
 
 ---
-*Last updated at 2026-08-17 17:32:51 UTC*
+*Last updated at 2026-08-17 18:48:56 UTC*
 *Historical records are stored in the `archive` directory.*
