@@ -67,6 +67,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr)
   > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [langfuse/langfuse](https://github.com/langfuse/langfuse)
+  > 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playgro...
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [MaChInEgUn3/ygofm-decomp](https://github.com/MaChInEgUn3/ygofm-decomp)
@@ -95,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-17 21:31:33 UTC*
+*Last updated at 2026-08-17 22:30:22 UTC*
 *Historical records are stored in the `archive` directory.*
