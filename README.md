@@ -14,6 +14,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Dax89](https://github.com/Dax89) Forked [ScoopInstaller/Versions](https://github.com/ScoopInstaller/Versions) to [Dax89/Versions](https://github.com/Dax89/Versions)
   > 📦 A Scoop bucket for alternative versions of apps.
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop)
+  > 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
+  > Notes of the book System Desgin Interview - An Insider's Guide
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Forget-C/Jellyfish](https://github.com/Forget-C/Jellyfish)
+  > An end-to-end production workspace for AI-generated short dramas. From script input to structured st...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
@@ -65,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-17 13:45:17 UTC*
+*Last updated at 2026-08-17 14:34:50 UTC*
 *Historical records are stored in the `archive` directory.*
