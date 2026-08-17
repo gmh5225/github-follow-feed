@@ -70,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gonzaloberteri/ygofm-decomp](https://github.com/gonzaloberteri/ygofm-decomp)
   > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PSX, SLUS-01411): every commit rebuilds a by...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Xiongdaxz/shenbi-maliang-gpt-image-workbench](https://github.com/Xiongdaxz/shenbi-maliang-gpt-image-workbench)
+  > Shenbi Maliang GPT Image Workbench is an AI image generation and image editing workbench designed fo...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [blasty/ida-tui](https://github.com/blasty/ida-tui) to [mrexodia/ida-tui](https://github.com/mrexodia/ida-tui)
 
@@ -77,11 +81,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
   > Portable, lightweight, self-contained virtual machine.
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [danoli3/FreeImage](https://github.com/danoli3/FreeImage)
+  > FreeImage library - With Fixes for ALL PLATFORMS
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
   > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
 
 
 ---
-*Last updated at 2026-08-17 18:48:56 UTC*
+*Last updated at 2026-08-17 19:32:57 UTC*
 *Historical records are stored in the `archive` directory.*
