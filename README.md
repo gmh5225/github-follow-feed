@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [amoghmunikote/cmpunlocker](https://github.com/amoghmunikote/cmpunlocker)
   > A tool to unlobotomize your NVIDIA card!
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xdeadbeefnetwork/KKYUMPoC](https://github.com/0xdeadbeefnetwork/KKYUMPoC)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [smol-machines/smolvm](https://github.com/smol-machines/smolvm)
+  > Portable, lightweight, self-contained virtual machine.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Boreas37/CVE-2026-41452-PoC](https://github.com/Boreas37/CVE-2026-41452-PoC)
+  > CVE-2026-41452 — Krayin CRM unauth installer bypass (X-Requested-With) → admin takeover. Verified: o...
 
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🍴 👤 [mach-port-t](https://github.com/mach-port-t) Forked [lascic/UIOnboarding](https://github.com/lascic/UIOnboarding) to [emexlab/UIOnboarding](https://github.com/emexlab/UIOnboarding)
@@ -50,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-17 09:50:03 UTC*
+*Last updated at 2026-08-17 10:37:57 UTC*
 *Historical records are stored in the `archive` directory.*
