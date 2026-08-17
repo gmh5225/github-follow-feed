@@ -24,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [TwilightRainDev/DSClaudeCodeRouter](https://github.com/TwilightRainDev/DSClaudeCodeRouter) to [hzqst/DSClaudeCodeRouter](https://github.com/hzqst/DSClaudeCodeRouter)
   > 将dsh-routing-suite移植到Claude Code。
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [simonw/research](https://github.com/simonw/research)
+  > Research projects
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [0xkaize/LIBERTY-PROMTS](https://github.com/0xkaize/LIBERTY-PROMTS)
   > LIBERTY PROMPTS FOR JAILBREAK AI MODELS <I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THEM> ENJOY😈
@@ -52,11 +56,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [gonzaloberteri/ygofm-decomp](https://github.com/gonzaloberteri/ygofm-decomp)
   > Matching decompilation of Yu-Gi-Oh! Forbidden Memories (PSX, SLUS-01411): every commit rebuilds a by...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [blasty/ida-tui](https://github.com/blasty/ida-tui) to [mrexodia/ida-tui](https://github.com/mrexodia/ida-tui)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731)
   > setup guide for deepseek-flash-0731 on two dgx-spark from scratch
 
 
 ---
-*Last updated at 2026-08-17 12:56:11 UTC*
+*Last updated at 2026-08-17 13:45:17 UTC*
 *Historical records are stored in the `archive` directory.*
