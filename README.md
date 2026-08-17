@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [quarkslab/pcode_graph](https://github.com/quarkslab/pcode_graph)
   > A library to build Control and Data Flow Graphs from binary code
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
+  > A batteries-included framework for building web apps
+
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [TwilightRainDev/DSClaudeCodeRouter](https://github.com/TwilightRainDev/DSClaudeCodeRouter)
   > 将dsh-routing-suite移植到Claude Code。
@@ -75,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-17 16:34:37 UTC*
+*Last updated at 2026-08-17 17:32:51 UTC*
 *Historical records are stored in the `archive` directory.*
