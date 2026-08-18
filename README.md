@@ -40,6 +40,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
   > Bash for Agents
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [denoland/celld](https://github.com/denoland/celld)
+  > self-hosted, distributed Durable Objects
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
@@ -55,6 +57,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A poc and write-up for CVE-2026-40345
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
   > A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, A...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [HelixDB/helix-db](https://github.com/HelixDB/helix-db)
+  > HelixDB is an OLTP graph-vector database built in Rust on Object Storage.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [TheRomanXpl0it/TRX-CTF-2025](https://github.com/TheRomanXpl0it/TRX-CTF-2025)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [S12cybersecurity/LokiRAT](https://github.com/S12cybersecurity/LokiRAT)
+  > Multi-component Remote Access Trojan: C++ client (victim), C# server, and Angular frontend. 
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer)
@@ -118,5 +125,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 21:29:54 UTC*
+*Last updated at 2026-08-18 22:30:11 UTC*
 *Historical records are stored in the `archive` directory.*
