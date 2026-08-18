@@ -84,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [jtraglia/vkzg](https://github.com/jtraglia/vkzg)
   > Really fast functions for Ethereum blobs using your GPU via Vulkan
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [bryanthaboi/gen1recomp](https://github.com/bryanthaboi/gen1recomp)
+  > Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 Poke 
+
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
   > Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
@@ -102,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 18:47:48 UTC*
+*Last updated at 2026-08-18 19:32:14 UTC*
 *Historical records are stored in the `archive` directory.*
