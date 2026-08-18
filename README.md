@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > NTFS full filesystem enumeration via USN Journal with remote FRN map exfiltration and web file explo...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bunnyciaa/BUNNY-RAMDISK-Backup-Restore](https://github.com/bunnyciaa/BUNNY-RAMDISK-Backup-Restore)
   > A12/A13 activation backup & restore standalone CLI scripts (SSH ramdisk - pull backup zip, restore a...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Jvr2022/CVE-2026-40345](https://github.com/Jvr2022/CVE-2026-40345)
+  > A poc and write-up for CVE-2026-40345
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer)
@@ -81,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 14:39:58 UTC*
+*Last updated at 2026-08-18 15:37:44 UTC*
 *Historical records are stored in the `archive` directory.*
