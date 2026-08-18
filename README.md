@@ -26,6 +26,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [S12cybersecurity/usnap](https://github.com/S12cybersecurity/usnap)
   > NTFS full filesystem enumeration via USN Journal with remote FRN map exfiltration and web file explo...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bunnyciaa/BUNNY-RAMDISK-Backup-Restore](https://github.com/bunnyciaa/BUNNY-RAMDISK-Backup-Restore)
+  > A12/A13 activation backup & restore standalone CLI scripts (SSH ramdisk - pull backup zip, restore a...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [noqa-ai/noqa](https://github.com/noqa-ai/noqa)
@@ -34,6 +36,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
   > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MeroZemory/ida-multi-mcp](https://github.com/MeroZemory/ida-multi-mcp)
+  > Multi-instance IDA Pro MCP server — analyze multiple binaries simultaneously through a single MCP en...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab)
+  > High-performance browser automation bridge and multi-instance orchestrator with advanced stealth inj...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [jtraglia/vkzg](https://github.com/jtraglia/vkzg)
+  > Really fast functions for Ethereum blobs using your GPU via Vulkan
 
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
@@ -49,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 09:39:31 UTC*
+*Last updated at 2026-08-18 10:35:15 UTC*
 *Historical records are stored in the `archive` directory.*
