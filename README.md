@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [haarisxk/Waypoint](https://github.com/haarisxk/Waypoint)
   > A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for prec...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)
+  > J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global w...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)
   > Iceman Fork - Proxmark3
@@ -61,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 10:35:15 UTC*
+*Last updated at 2026-08-18 11:31:11 UTC*
 *Historical records are stored in the `archive` directory.*
