@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)
   > Iceman Fork - Proxmark3
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)
+  > Bash for Agents
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
@@ -87,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 16:38:11 UTC*
+*Last updated at 2026-08-18 17:33:25 UTC*
 *Historical records are stored in the `archive` directory.*
