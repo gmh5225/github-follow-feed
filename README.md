@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [endrazine/lean-cve-poc](https://github.com/endrazine/lean-cve-poc)
+  > Example of proving "0 = 1" using a vulnerability in the Lean 4 kernel.
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [zerospades/zerospades](https://github.com/zerospades/zerospades)
   > OpenSpades modified to some extent
@@ -17,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for prec...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer)
   > The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
+  > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wasm3/wasm3](https://github.com/wasm3/wasm3)
+  > 🚀 A fast WebAssembly interpreter and the most universal WASM runtime
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
@@ -110,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 20:31:01 UTC*
+*Last updated at 2026-08-18 21:29:54 UTC*
 *Historical records are stored in the `archive` directory.*
