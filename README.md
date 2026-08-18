@@ -42,6 +42,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Bash for Agents
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [denoland/celld](https://github.com/denoland/celld)
   > self-hosted, distributed Durable Objects
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [microsoft/dev-tunnels-ssh](https://github.com/microsoft/dev-tunnels-ssh)
+  > SSH library for dev-tunnels
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
@@ -125,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 22:30:11 UTC*
+*Last updated at 2026-08-18 23:27:34 UTC*
 *Historical records are stored in the `archive` directory.*
