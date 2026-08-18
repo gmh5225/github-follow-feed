@@ -16,8 +16,28 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [haarisxk/Waypoint](https://github.com/haarisxk/Waypoint)
   > A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for prec...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3)
+  > Iceman Fork - Proxmark3
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [S12cybersecurity/usnap](https://github.com/S12cybersecurity/usnap)
+  > NTFS full filesystem enumeration via USN Journal with remote FRN map exfiltration and web file explo...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [noqa-ai/noqa](https://github.com/noqa-ai/noqa)
+  > Automated mobile testing tool with device CLI for apps and games - real devices iOS & Android. Suppo...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [llm-as-a-verifier/llm-as-a-verifier](https://github.com/llm-as-a-verifier/llm-as-a-verifier)
+  > LLM-as-a-Verifier is a general-purpose framework that provides fine-grained feedback for any agent w...
+
+### [ri-char](https://github.com/ri-char)
+- 🌟 👤 [ri-char](https://github.com/ri-char) Starred [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh)
+  > Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
@@ -29,5 +49,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 08:45:14 UTC*
+*Last updated at 2026-08-18 09:39:31 UTC*
 *Historical records are stored in the `archive` directory.*
