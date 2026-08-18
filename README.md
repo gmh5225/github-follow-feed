@@ -46,6 +46,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Sandbox any AI agent in seconds - zero setup, zero latency.
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [canyonroad/agentsh](https://github.com/canyonroad/agentsh)
   > Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
+  >  Memory library for building stateful agents
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [noqa-ai/noqa](https://github.com/noqa-ai/noqa)
@@ -79,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 13:50:09 UTC*
+*Last updated at 2026-08-18 14:39:58 UTC*
 *Historical records are stored in the `archive` directory.*
