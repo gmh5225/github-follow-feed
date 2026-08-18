@@ -38,6 +38,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Jvr2022/CVE-2026-40345](https://github.com/Jvr2022/CVE-2026-40345)
   > A poc and write-up for CVE-2026-40345
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)
+  > A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, A...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer)
@@ -85,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 15:37:44 UTC*
+*Last updated at 2026-08-18 16:38:11 UTC*
 *Historical records are stored in the `archive` directory.*
