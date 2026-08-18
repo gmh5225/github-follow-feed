@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Serial port monitor program for Mac OS X with lolcat, iBoot logs deobfuscation & much more
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [haarisxk/Waypoint](https://github.com/haarisxk/Waypoint)
   > A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for prec...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer)
+  > The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)
@@ -32,6 +34,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > NTFS full filesystem enumeration via USN Journal with remote FRN map exfiltration and web file explo...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [bunnyciaa/BUNNY-RAMDISK-Backup-Restore](https://github.com/bunnyciaa/BUNNY-RAMDISK-Backup-Restore)
   > A12/A13 activation backup & restore standalone CLI scripts (SSH ramdisk - pull backup zip, restore a...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer)
+  > Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and ...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config)
+  > Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [trailofbits/skills-curated](https://github.com/trailofbits/skills-curated)
+  > Curated, community-vetted Claude Code plugin marketplace
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [nolabs-ai/nono](https://github.com/nolabs-ai/nono)
+  > Sandbox any AI agent in seconds - zero setup, zero latency.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [canyonroad/agentsh](https://github.com/canyonroad/agentsh)
+  > Execution-Layer Security (ELS) for AI agents — policy-enforced shell with audit.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [noqa-ai/noqa](https://github.com/noqa-ai/noqa)
@@ -65,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-18 11:31:11 UTC*
+*Last updated at 2026-08-18 12:57:56 UTC*
 *Historical records are stored in the `archive` directory.*
