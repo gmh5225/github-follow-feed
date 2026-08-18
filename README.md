@@ -18,6 +18,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ProxymanApp/TCPViewer](https://github.com/ProxymanApp/TCPViewer)
   > The best-in-class macOS app to See every packet clearly on your Mac. Alternative to Wireshark
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6)
   > J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global w...
@@ -59,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
   >  Memory library for building stateful agents
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [modular/modular](https://github.com/modular/modular)
+  > The Modular Platform (includes MAX & Mojo)
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [noqa-ai/noqa](https://github.com/noqa-ai/noqa)
   > Automated mobile testing tool with device CLI for apps and games - real devices iOS & Android. Suppo...
@@ -85,11 +92,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser)
   > A browser that runs directly inside your existing terminal
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
+  > Open source agent with local models built in. Fully private and offline. Works out of the box on any...
+
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🍴 👤 [vaivaswatha](https://github.com/vaivaswatha) Forked [Marwes/combine](https://github.com/Marwes/combine) to [vaivaswatha/combine](https://github.com/vaivaswatha/combine)
   > A parser combinator library for Rust
 
 
 ---
-*Last updated at 2026-08-18 17:33:25 UTC*
+*Last updated at 2026-08-18 18:47:48 UTC*
 *Historical records are stored in the `archive` directory.*
