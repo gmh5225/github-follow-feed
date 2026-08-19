@@ -17,6 +17,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Temporary KernelSU root and LSPosed recovery app for Galaxy S26 Ultra SM-S948N AZG3
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark) to [CrackerCat/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/CrackerCat/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)
+  > An AI-agent skill that generates browser-editable presentations from multiple visual themes, exporta...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [xr843/insect-world](https://github.com/xr843/insect-world)
+  > Interactive 3D insect field guide: 63 species across 14 orders, every body procedurally generated in...
+
 ### [NikolajBjorner](https://github.com/NikolajBjorner)
 - 🌟 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Starred [Z3Prover/z3](https://github.com/Z3Prover/z3)
   > The Z3 Theorem Prover
@@ -35,5 +41,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 05:36:25 UTC*
+*Last updated at 2026-08-19 06:54:44 UTC*
 *Historical records are stored in the `archive` directory.*
