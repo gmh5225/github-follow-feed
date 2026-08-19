@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dhondta](https://github.com/dhondta)
 - 🌟 👤 [dhondta](https://github.com/dhondta) Starred [jonathanristo/VMMM-v2](https://github.com/jonathanristo/VMMM-v2)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
+  > IDA Pro resources, scripts, and configurations
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [scorpiondefense/cyberweapons](https://github.com/scorpiondefense/cyberweapons)
   > Automated Cyber Offense
@@ -52,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 09:39:52 UTC*
+*Last updated at 2026-08-19 10:35:03 UTC*
 *Historical records are stored in the `archive` directory.*
