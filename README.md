@@ -59,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [klee/klee](https://github.com/klee/klee)
   > KLEE Symbolic Execution Engine
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [triskellib/triskel](https://github.com/triskellib/triskel)
+  > A graphing library for Control Flow Graphs
+
 ### [jnastarot](https://github.com/jnastarot)
 - 🌟 👤 [jnastarot](https://github.com/jnastarot) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
@@ -74,6 +78,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SpecterOps/kraken](https://github.com/SpecterOps/kraken)
   > macOS Container Payload Wrapper
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ageron/handson-mlp](https://github.com/ageron/handson-mlp)
+  > A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Le...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
@@ -98,11 +104,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [ninja-build/ninja](https://github.com/ninja-build/ninja)
   > a small build system with a focus on speed
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [AminBlg/SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)
+  > Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
   > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 
 
 ---
-*Last updated at 2026-08-19 20:35:13 UTC*
+*Last updated at 2026-08-19 21:31:17 UTC*
 *Historical records are stored in the `archive` directory.*
