@@ -31,6 +31,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD)
+  > OpenHD
+
+### [dhondta](https://github.com/dhondta)
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [jonathanristo/VMMM-v2](https://github.com/jonathanristo/VMMM-v2)
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [scorpiondefense/cyberweapons](https://github.com/scorpiondefense/cyberweapons)
   > Automated Cyber Offense
@@ -41,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 06:54:44 UTC*
+*Last updated at 2026-08-19 07:44:25 UTC*
 *Historical records are stored in the `archive` directory.*
