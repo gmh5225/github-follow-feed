@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
+  > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD)
   > OpenHD
@@ -48,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 08:45:56 UTC*
+*Last updated at 2026-08-19 09:39:52 UTC*
 *Historical records are stored in the `archive` directory.*
