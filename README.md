@@ -17,7 +17,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Temporary KernelSU root and LSPosed recovery app for Galaxy S26 Ultra SM-S948N AZG3
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark) to [CrackerCat/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/CrackerCat/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
+### [NikolajBjorner](https://github.com/NikolajBjorner)
+- 🌟 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Starred [Z3Prover/z3](https://github.com/Z3Prover/z3)
+  > The Z3 Theorem Prover
+
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
+  > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
+
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
+
 
 ---
-*Last updated at 2026-08-19 03:03:52 UTC*
+*Last updated at 2026-08-19 04:43:00 UTC*
 *Historical records are stored in the `archive` directory.*
