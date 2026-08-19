@@ -95,10 +95,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [mrexodia/triskel](https://github.com/mrexodia/triskel)
   > A graphing library for Control Flow Graphs
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack](https://github.com/ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Entrpi/ds4-on-spark](https://github.com/Entrpi/ds4-on-spark)
+  > Entrpi/ds4, a Blackwell CUDA perf fork of antirez/ds4 on NVIDIA DGX Spark: one-command install, ~3x ...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [scorpiondefense/cyberweapons](https://github.com/scorpiondefense/cyberweapons)
   > Automated Cyber Offense
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [SpecterOps/kraken](https://github.com/SpecterOps/kraken)
+  > macOS Container Payload Wrapper
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [1rhino2/fnprint](https://github.com/1rhino2/fnprint)
@@ -122,5 +126,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 22:30:41 UTC*
+*Last updated at 2026-08-19 23:28:26 UTC*
 *Historical records are stored in the `archive` directory.*
