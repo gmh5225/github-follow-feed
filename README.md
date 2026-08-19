@@ -53,6 +53,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [Proteas/apple-cve](https://github.com/Proteas/apple-cve)
   > apple cve list
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [klee/klee](https://github.com/klee/klee)
+  > KLEE Symbolic Execution Engine
+
+### [jtriley2p](https://github.com/jtriley2p)
+- 🍴 👤 [jtriley2p](https://github.com/jtriley2p) Forked [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) to [jtriley2p/evm.codes](https://github.com/jtriley2p/evm.codes)
+  > Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dkyazzentwatwa/Cyber-Claude](https://github.com/dkyazzentwatwa/Cyber-Claude)
   > An AI-powered cybersecurity agent inspired by Claude Agent SDK, designed exclusively for defensive s...
@@ -81,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 16:37:58 UTC*
+*Last updated at 2026-08-19 17:32:12 UTC*
 *Historical records are stored in the `archive` directory.*
