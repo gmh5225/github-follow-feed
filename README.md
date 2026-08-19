@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [norasector/turbine](https://github.com/norasector/turbine)
   > SDR software for capturing trunked radio systems
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
+  > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [R0rt1z2/GhostLock-5.10](https://github.com/R0rt1z2/GhostLock-5.10) to [CrackerCat/GhostLock-5.10](https://github.com/CrackerCat/GhostLock-5.10)
@@ -26,10 +28,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An AI-agent skill that generates browser-editable presentations from multiple visual themes, exporta...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [xr843/insect-world](https://github.com/xr843/insect-world)
   > Interactive 3D insect field guide: 63 species across 14 orders, every body procedurally generated in...
-
-### [NikolajBjorner](https://github.com/NikolajBjorner)
-- 🌟 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Starred [Z3Prover/z3](https://github.com/Z3Prover/z3)
-  > The Z3 Theorem Prover
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
@@ -61,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [klee/klee](https://github.com/klee/klee)
   > KLEE Symbolic Execution Engine
 
+### [jnastarot](https://github.com/jnastarot)
+- 🌟 👤 [jnastarot](https://github.com/jnastarot) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🍴 👤 [jtriley2p](https://github.com/jtriley2p) Forked [duneanalytics/evm.codes](https://github.com/duneanalytics/evm.codes) to [jtriley2p/evm.codes](https://github.com/jtriley2p/evm.codes)
   > Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference
@@ -88,6 +90,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [1rhino2/fnprint](https://github.com/1rhino2/fnprint)
   > match functions in binaries by what they do, not what their bytes look like. behavioral function fin...
 
+### [reveny](https://github.com/reveny)
+- 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Device-Trust](https://github.com/reveny/Android-Device-Trust) public
+  > Android device attestation tool
+
 ### [rnk](https://github.com/rnk)
 - 🌟 👤 [rnk](https://github.com/rnk) Starred [ninja-build/ninja](https://github.com/ninja-build/ninja)
   > a small build system with a focus on speed
@@ -98,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 19:31:06 UTC*
+*Last updated at 2026-08-19 20:35:13 UTC*
 *Historical records are stored in the `archive` directory.*
