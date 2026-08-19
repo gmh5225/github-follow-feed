@@ -78,6 +78,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > IDA Pro resources, scripts, and configurations
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [triskellib/triskel](https://github.com/triskellib/triskel) to [mrexodia/triskel](https://github.com/mrexodia/triskel)
   > A graphing library for Control Flow Graphs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack](https://github.com/ggfuchsi-oss/spectrIDA-Reverse_Engineering_Stack)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [scorpiondefense/cyberweapons](https://github.com/scorpiondefense/cyberweapons)
@@ -97,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 18:43:48 UTC*
+*Last updated at 2026-08-19 19:31:06 UTC*
 *Historical records are stored in the `archive` directory.*
