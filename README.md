@@ -49,6 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD)
   > OpenHD
 
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [mwgg/Airports](https://github.com/mwgg/Airports)
+  > A JSON database of 28k+ airports with ICAO/IATA codes, names, cities, two-letter country identifiers...
+
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [Proteas/apple-cve](https://github.com/Proteas/apple-cve)
   > apple cve list
@@ -64,6 +68,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dkyazzentwatwa/Cyber-Claude](https://github.com/dkyazzentwatwa/Cyber-Claude)
   > An AI-powered cybersecurity agent inspired by Claude Agent SDK, designed exclusively for defensive s...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SpecterOps/kraken](https://github.com/SpecterOps/kraken)
+  > macOS Container Payload Wrapper
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
@@ -89,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 17:32:12 UTC*
+*Last updated at 2026-08-19 18:43:48 UTC*
 *Historical records are stored in the `archive` directory.*
