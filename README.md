@@ -17,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Temporary KernelSU root and LSPosed recovery app for Galaxy S26 Ultra SM-S948N AZG3
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/0xBakeer/Qwen3.8-27B-FP8-on-a-single-DGX-Spark) to [CrackerCat/Qwen3.8-27B-FP8-on-a-single-DGX-Spark](https://github.com/CrackerCat/Qwen3.8-27B-FP8-on-a-single-DGX-Spark)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [1rhino2/fnprint](https://github.com/1rhino2/fnprint)
+  > match functions in binaries by what they do, not what their bytes look like. behavioral function fin...
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [chuspeeism/dashi-ppt-skill](https://github.com/chuspeeism/dashi-ppt-skill)
   > An AI-agent skill that generates browser-editable presentations from multiple visual themes, exporta...
@@ -45,12 +49,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [OpenHD/OpenHD](https://github.com/OpenHD/OpenHD)
   > OpenHD
 
-### [dhondta](https://github.com/dhondta)
-- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [jonathanristo/VMMM-v2](https://github.com/jonathanristo/VMMM-v2)
-
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [Proteas/apple-cve](https://github.com/Proteas/apple-cve)
   > apple cve list
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dkyazzentwatwa/Cyber-Claude](https://github.com/dkyazzentwatwa/Cyber-Claude)
+  > An AI-powered cybersecurity agent inspired by Claude Agent SDK, designed exclusively for defensive s...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
@@ -62,11 +67,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [scorpiondefense/cyberweapons](https://github.com/scorpiondefense/cyberweapons)
   > Automated Cyber Offense
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [1rhino2/fnprint](https://github.com/1rhino2/fnprint)
+  > match functions in binaries by what they do, not what their bytes look like. behavioral function fin...
+
+### [rnk](https://github.com/rnk)
+- 🌟 👤 [rnk](https://github.com/rnk) Starred [ninja-build/ninja](https://github.com/ninja-build/ninja)
+  > a small build system with a focus on speed
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
   > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 
 
 ---
-*Last updated at 2026-08-19 15:37:26 UTC*
+*Last updated at 2026-08-19 16:37:58 UTC*
 *Historical records are stored in the `archive` directory.*
