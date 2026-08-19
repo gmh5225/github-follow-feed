@@ -25,11 +25,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [scorpiondefense/cyberweapons](https://github.com/scorpiondefense/cyberweapons)
+  > Automated Cyber Offense
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
   > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 
 
 ---
-*Last updated at 2026-08-19 04:43:00 UTC*
+*Last updated at 2026-08-19 05:36:25 UTC*
 *Historical records are stored in the `archive` directory.*
