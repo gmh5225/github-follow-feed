@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
   > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [gimli-rs/addr2line](https://github.com/gimli-rs/addr2line)
+  > A cross-platform `addr2line` clone written in Rust, using `gimli`
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [R0rt1z2/GhostLock-5.10](https://github.com/R0rt1z2/GhostLock-5.10) to [CrackerCat/GhostLock-5.10](https://github.com/CrackerCat/GhostLock-5.10)
   > Kernel root exploit (CVE-2026-43499) for some 5.X devices (mostly Amazon)
@@ -58,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [klee/klee](https://github.com/klee/klee)
   > KLEE Symbolic Execution Engine
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [stack-of-tasks/pinocchio](https://github.com/stack-of-tasks/pinocchio)
+  > A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivative...
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [triskellib/triskel](https://github.com/triskellib/triskel)
@@ -114,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 21:31:17 UTC*
+*Last updated at 2026-08-19 22:30:41 UTC*
 *Historical records are stored in the `archive` directory.*
