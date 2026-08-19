@@ -31,6 +31,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [huggingface/transformers](https://github.com/huggingface/transformers)
   > 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text,...
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [szad670401/HyperLPR](https://github.com/szad670401/HyperLPR)
+  > High Performance Chinese License Plate Recognition Framework.
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
+
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
   > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
@@ -41,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [dhondta](https://github.com/dhondta)
 - 🌟 👤 [dhondta](https://github.com/dhondta) Starred [jonathanristo/VMMM-v2](https://github.com/jonathanristo/VMMM-v2)
+
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [Proteas/apple-cve](https://github.com/Proteas/apple-cve)
+  > apple cve list
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [williballenthin/idawilli](https://github.com/williballenthin/idawilli) to [mrexodia/idawilli](https://github.com/mrexodia/idawilli)
@@ -56,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-19 11:31:01 UTC*
+*Last updated at 2026-08-19 12:58:44 UTC*
 *Historical records are stored in the `archive` directory.*
