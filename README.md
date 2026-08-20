@@ -9,6 +9,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PIC shellcode agent based on Stardust framework and Crystal Palace
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
   > Message passing based allocator
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SpecterOps/kraken](https://github.com/SpecterOps/kraken)
+  > macOS Container Payload Wrapper
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) to [CrackerCat/Supervisor-Skills](https://github.com/CrackerCat/Supervisor-Skills)
@@ -29,6 +31,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [oraios/serena](https://github.com/oraios/serena)
   > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE ...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)
+  > Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)
+  > Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for c...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking ...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)
+  > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KevinSilvester/wezterm-config](https://github.com/KevinSilvester/wezterm-config)
+  > My WezTerm Config
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
@@ -40,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-20 13:01:23 UTC*
+*Last updated at 2026-08-20 14:41:35 UTC*
 *Historical records are stored in the `archive` directory.*
