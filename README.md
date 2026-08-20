@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Whispergate/Starburst](https://github.com/Whispergate/Starburst)
   > PIC shellcode agent based on Stardust framework and Crystal Palace
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
+  > Message passing based allocator
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
@@ -19,14 +21,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Ghost Security's collection of AppSec skills for AI coding agents
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+  > High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS)
   > OBLITERATE THE CHAINS THAT BIND YOU
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
+  > Message passing based allocator
 
 
 ---
-*Last updated at 2026-08-20 10:37:08 UTC*
+*Last updated at 2026-08-20 11:33:01 UTC*
 *Historical records are stored in the `archive` directory.*
