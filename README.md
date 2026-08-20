@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
+  > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
   > Qwen3.8 27B on SGLang for DGX Spark
@@ -12,5 +16,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-20 05:36:33 UTC*
+*Last updated at 2026-08-20 06:55:43 UTC*
 *Historical records are stored in the `archive` directory.*
