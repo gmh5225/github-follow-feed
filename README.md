@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Message passing based allocator
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SpecterOps/kraken](https://github.com/SpecterOps/kraken)
   > macOS Container Payload Wrapper
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sliverarmory/Situational-Awareness-BOFs](https://github.com/sliverarmory/Situational-Awareness-BOFs)
+  > Cross-platform situational-awareness BOFs for Windows, Linux, and macOS
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) to [CrackerCat/Supervisor-Skills](https://github.com/CrackerCat/Supervisor-Skills)
@@ -24,9 +26,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
   > ETW Explorer
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)
+  > Unix like coding agent
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
+  > pierre’s open source code
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
   > A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire...
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
+  > ETW Explorer
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
@@ -57,8 +67,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > OBLITERATE THE CHAINS THAT BIND YOU
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/snmalloc](https://github.com/microsoft/snmalloc)
   > Message passing based allocator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english)
 
 
 ---
-*Last updated at 2026-08-20 15:39:27 UTC*
+*Last updated at 2026-08-20 16:41:20 UTC*
 *Historical records are stored in the `archive` directory.*
