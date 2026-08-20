@@ -20,6 +20,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
 
+### [ajkhoury](https://github.com/ajkhoury)
+- 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
+  > ETW Explorer
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
+  > A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire...
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
   > Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. ...
@@ -52,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-20 14:41:35 UTC*
+*Last updated at 2026-08-20 15:39:27 UTC*
 *Historical records are stored in the `archive` directory.*
