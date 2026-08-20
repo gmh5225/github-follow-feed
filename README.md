@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre)
   > pierre’s open source code
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit)
+  > BookOrbit: Your Reading Space
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly)
   > A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire...
@@ -69,6 +73,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > My WezTerm Config
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [RealAlexandreAI/pi-all-search](https://github.com/RealAlexandreAI/pi-all-search)
   > All-in-one web search extension for Pi — exa, tavily, anysearch, firecrawl, context7.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+  > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
@@ -81,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-20 20:35:50 UTC*
+*Last updated at 2026-08-20 21:33:56 UTC*
 *Historical records are stored in the `archive` directory.*
