@@ -67,6 +67,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KevinSilvester/wezterm-config](https://github.com/KevinSilvester/wezterm-config)
   > My WezTerm Config
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [RealAlexandreAI/pi-all-search](https://github.com/RealAlexandreAI/pi-all-search)
+  > All-in-one web search extension for Pi — exa, tavily, anysearch, firecrawl, context7.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark)
@@ -79,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-20 18:49:48 UTC*
+*Last updated at 2026-08-20 19:36:18 UTC*
 *Historical records are stored in the `archive` directory.*
