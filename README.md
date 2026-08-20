@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) to [CrackerCat/Supervisor-Skills](https://github.com/CrackerCat/Supervisor-Skills)
   > 将博导十年科研经验炼化为可直接调用的 AI 技能。从 Idea 构思到论文投稿，你的 AI 科研副导师。
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Italian-Builders-Org/DoveVannoINostriSoldi](https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi)
+  > Raccogliamo e analizziamo i dati sulla spesa pubblica italiana per individuare, grazie all’AI, dove ...
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [crackmesone/crackmes-re-dataset](https://github.com/crackmesone/crackmes-re-dataset)
   > Labeled reverse-engineering dataset over 4,598 crackmes: flags, verifier scripts, and normalized obf...
@@ -25,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ajkhoury](https://github.com/ajkhoury)
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [hfiref0x/ETWX](https://github.com/hfiref0x/ETWX)
   > ETW Explorer
+
+### [djkaty](https://github.com/djkaty)
+- 🌟 👤 [djkaty](https://github.com/djkaty) Starred [giulioz/mmo-chip](https://github.com/giulioz/mmo-chip)
+  > Multiplayer CMOS Standard Cell Chips Reverse Engineering Tool
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vercel-labs/fx](https://github.com/vercel-labs/fx)
@@ -71,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-20 17:35:44 UTC*
+*Last updated at 2026-08-20 18:49:48 UTC*
 *Historical records are stored in the `archive` directory.*
