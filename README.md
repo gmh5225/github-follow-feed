@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [G4sp4rCS/CVE-2026-42980-POC](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
   > CVE-2026-42980 PUBLIC EXPLOIT + RESEARCH
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/computer](https://github.com/cloudflare/computer)
+  > Give your agent a computer 👾
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
   > ShellCheck, a static analysis tool for shell scripts
@@ -26,5 +30,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-21 11:32:14 UTC*
+*Last updated at 2026-08-21 13:00:25 UTC*
 *Historical records are stored in the `archive` directory.*
