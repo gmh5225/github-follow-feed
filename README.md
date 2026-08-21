@@ -9,7 +9,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > example use of defining your own injection technique for explicit injection and or spawn (fork & run...
 
 ### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pengzenzen-creator/netblock](https://github.com/pengzenzen-creator/netblock) to [CrackerCat/netblock](https://github.com/CrackerCat/netblock)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fulu2778/netblock](https://github.com/fulu2778/netblock) to [CrackerCat/netblock](https://github.com/CrackerCat/netblock)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eversinc33/NLIR](https://github.com/eversinc33/NLIR) to [CrackerCat/NLIR](https://github.com/CrackerCat/NLIR)
   > NLIR (Natural Language Intermediate Representation) is a research PoC for a security-focused IR for ...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [PPKunOfficial/Mechrevo-RGB-Handoff](https://github.com/PPKunOfficial/Mechrevo-RGB-Handoff) to [CrackerCat/Mechrevo-RGB-Handoff](https://github.com/CrackerCat/Mechrevo-RGB-Handoff)
@@ -43,6 +43,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [mosajjal/fortitool](https://github.com/mosajjal/fortitool) to [killvxk/fortitool](https://github.com/killvxk/fortitool)
   > Fortinet Firmware decryption and analysis tools
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Decurity/verifyoor](https://github.com/Decurity/verifyoor)
+  > Verify a Solidity smart contract from EVM runtime bytecode alone
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [endrazine/lean-cve-poc](https://github.com/endrazine/lean-cve-poc)
+  > Example of proving "0 = 1" using a vulnerability in the Lean 4 kernel.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [CompSciFutures/APMonitor](https://github.com/CompSciFutures/APMonitor)
+  > On-prem/LAN Layer 2 & 4 availability monitoring with realtime guarantees & decaying alert pacing.  M...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wolfpld/tracy](https://github.com/wolfpld/tracy)
+  > Frame profiler
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
@@ -55,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Control pi sessions across machines with your browser (or mobile PWA).
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [openclaw/mcporter](https://github.com/openclaw/mcporter)
   > Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [j178/prek](https://github.com/j178/prek)
+  > ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagin...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
@@ -66,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-21 21:30:34 UTC*
+*Last updated at 2026-08-21 22:31:01 UTC*
 *Historical records are stored in the `archive` directory.*
