@@ -20,7 +20,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
   > ShellCheck, a static analysis tool for shell scripts
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
+  > Easily create full virtual machines that are sandboxed for development or computer use models.
+
 
 ---
-*Last updated at 2026-08-21 10:36:11 UTC*
+*Last updated at 2026-08-21 11:32:14 UTC*
 *Historical records are stored in the `archive` directory.*
