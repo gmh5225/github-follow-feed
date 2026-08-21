@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/computer](https://github.com/cloudflare/computer)
   > Give your agent a computer 👾
 
+### [killvxk](https://github.com/killvxk)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [mosajjal/fortitool](https://github.com/mosajjal/fortitool) to [killvxk/fortitool](https://github.com/killvxk/fortitool)
+  > Fortinet Firmware decryption and analysis tools
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
   > ShellCheck, a static analysis tool for shell scripts
@@ -49,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mrexodia/toilet-pi](https://github.com/mrexodia/toilet-pi)
   > Control pi sessions across machines with your browser (or mobile PWA).
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [openclaw/mcporter](https://github.com/openclaw/mcporter)
+  > Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
@@ -56,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-21 19:30:03 UTC*
+*Last updated at 2026-08-21 20:32:00 UTC*
 *Historical records are stored in the `archive` directory.*
