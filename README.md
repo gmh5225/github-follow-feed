@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [werasik2aa/SPD-VBMETA-TOOL](https://github.com/werasik2aa/SPD-VBMETA-TOOL) to [CrackerCat/SPD-VBMETA-TOOL](https://github.com/CrackerCat/SPD-VBMETA-TOOL)
   > Spreadtrum vbmeta creation tool for windows! GUI based.
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [IAmMcNuggets/stargate-command](https://github.com/IAmMcNuggets/stargate-command)
+  > An app launcher for Windows and Linux that dials your programs like the SG-1 Stargate
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [G4sp4rCS/CVE-2026-42980-POC](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
   > CVE-2026-42980 PUBLIC EXPLOIT + RESEARCH
@@ -52,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-21 18:46:27 UTC*
+*Last updated at 2026-08-21 19:30:03 UTC*
 *Historical records are stored in the `archive` directory.*
