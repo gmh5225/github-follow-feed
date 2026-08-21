@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [cloudflare/computer](https://github.com/cloudflare/computer)
   > Give your agent a computer 👾
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [HexRaysSA/ida-nexus](https://github.com/HexRaysSA/ida-nexus)
+  > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
+
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [mosajjal/fortitool](https://github.com/mosajjal/fortitool) to [killvxk/fortitool](https://github.com/killvxk/fortitool)
   > Fortinet Firmware decryption and analysis tools
@@ -76,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-21 22:31:01 UTC*
+*Last updated at 2026-08-21 23:29:52 UTC*
 *Historical records are stored in the `archive` directory.*
