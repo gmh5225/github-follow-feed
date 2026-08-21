@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [InfinityCurveLabs/inject-kit](https://github.com/InfinityCurveLabs/inject-kit)
+  > example use of defining your own injection technique for explicit injection and or spawn (fork & run...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pengzenzen-creator/netblock](https://github.com/pengzenzen-creator/netblock) to [CrackerCat/netblock](https://github.com/CrackerCat/netblock)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [eversinc33/NLIR](https://github.com/eversinc33/NLIR) to [CrackerCat/NLIR](https://github.com/CrackerCat/NLIR)
@@ -19,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)
   > Secure, Fast, and Extensible Sandbox runtime for AI agents.
+
+### [Obsidian200](https://github.com/Obsidian200)
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [everett7623/airport-recommendations-2026](https://github.com/everett7623/airport-recommendations-2026)
+  > 2026 机场推荐清单 | 免费试用/性价比/专线/按量计费 | 40+机场实测 | 每月更新
 
 ### [enovella](https://github.com/enovella)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [jtsylve/re-mcp](https://github.com/jtsylve/re-mcp) to [enovella/re-mcp](https://github.com/enovella/re-mcp)
@@ -44,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-21 17:35:04 UTC*
+*Last updated at 2026-08-21 18:46:27 UTC*
 *Historical records are stored in the `archive` directory.*
