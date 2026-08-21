@@ -12,11 +12,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [werasik2aa/SPD-VBMETA-TOOL](https://github.com/werasik2aa/SPD-VBMETA-TOOL) to [CrackerCat/SPD-VBMETA-TOOL](https://github.com/CrackerCat/SPD-VBMETA-TOOL)
   > Spreadtrum vbmeta creation tool for windows! GUI based.
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [G4sp4rCS/CVE-2026-42980-POC](https://github.com/G4sp4rCS/CVE-2026-42980-POC)
+  > CVE-2026-42980 PUBLIC EXPLOIT + RESEARCH
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
   > ShellCheck, a static analysis tool for shell scripts
 
 
 ---
-*Last updated at 2026-08-21 05:37:55 UTC*
+*Last updated at 2026-08-21 06:57:14 UTC*
 *Historical records are stored in the `archive` directory.*
