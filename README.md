@@ -31,6 +31,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
   > ShellCheck, a static analysis tool for shell scripts
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [HexRaysSA/ida-nexus](https://github.com/HexRaysSA/ida-nexus)
+  > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
+  > DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mrexodia/toilet-pi](https://github.com/mrexodia/toilet-pi)
+  > Control pi sessions across machines with your browser (or mobile PWA).
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [jamesstringer90/appsandbox](https://github.com/jamesstringer90/appsandbox)
@@ -38,5 +44,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-21 14:41:31 UTC*
+*Last updated at 2026-08-21 15:40:00 UTC*
 *Historical records are stored in the `archive` directory.*
