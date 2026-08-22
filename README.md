@@ -94,8 +94,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A program that tries to mimic the Bash
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [arianvp/webauthn-minimal](https://github.com/arianvp/webauthn-minimal)
   > Minimal go implementation of a Webauthn L2 relying party
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [NetSPI/BOFscale](https://github.com/NetSPI/BOFscale)
+  > A collection of BOF-PE's that allow running tailscale from memory
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [milankovo/listing-toggles](https://github.com/milankovo/listing-toggles)
 
 
 ---
-*Last updated at 2026-08-22 20:30:08 UTC*
+*Last updated at 2026-08-22 21:27:40 UTC*
 *Historical records are stored in the `archive` directory.*
