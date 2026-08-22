@@ -26,6 +26,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 三角洲行动OBS锁头插件(电脑端) – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。5L2G5YW25a6e5Lul5LiK5YW...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [denialwm/denial](https://github.com/denialwm/denial) to [CrackerCat/denial](https://github.com/CrackerCat/denial)
   > Denial is a Flutter-native Wayland compositor that puts Flutter at the foundation of the desktop, un...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wesmar/OnionDownloader](https://github.com/wesmar/OnionDownloader) to [CrackerCat/OnionDownloader](https://github.com/CrackerCat/OnionDownloader)
+  > Onion Downloader - Multi-circuit Tor download manager for .onion files. Single portable, full-featur...
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [typst/typst](https://github.com/typst/typst)
+  > A markup-based typesetting system that is powerful and easy to learn.
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [marksvia/usbliter8Remote](https://github.com/marksvia/usbliter8Remote)
@@ -50,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
   > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
 
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+  > ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, an...
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
@@ -64,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-22 16:31:47 UTC*
+*Last updated at 2026-08-22 17:26:19 UTC*
 *Historical records are stored in the `archive` directory.*
