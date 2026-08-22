@@ -44,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [a10nw01f/Mitzi](https://github.com/a10nw01f/Mitzi)
   > Advanced compile-time validation in C++
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Supercip971/WingOS](https://github.com/Supercip971/WingOS)
+  > a little 64bit microkernel based operating system written in c++ with smp support 
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF)
   > Free and open-source PDF editor for Windows. View, annotate, OCR, merge, split, edit text, draw, sig...
@@ -60,6 +64,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
   > ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, an...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid)
+  > No-root network monitor, firewall and PCAP dumper for Android
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos)
+  > An open-source OS project that aims to provide source and binary compatibility with macOS® and a sim...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ncxcy/HashPee](https://github.com/ncxcy/HashPee)
+  > A simple command line file encryption tool written in C using Argon2id and XChaCha20 Poly1305 via li...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ShadowOpCode/r543t-ok75-ransomware-recovery](https://github.com/ShadowOpCode/r543t-ok75-ransomware-recovery)
+  > Research and recovery tooling for the r543t/ok75 ransomware lineage, including analysis of a CryptoA...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [ncxcy/HashPee](https://github.com/ncxcy/HashPee) to [killvxk/HashPee](https://github.com/killvxk/HashPee)
+  > A simple command line file encryption tool written in C using Argon2id and XChaCha20 Poly1305 via li...
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
@@ -67,12 +83,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
   > A user-friendly GUI to manage systemd units
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
+  > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xec412/XeraLdr](https://github.com/xec412/XeraLdr)
   > A stealthy and modular Windows loader designed to bypass modern EDR solutions using Module Stomping,...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [m4nnb3ll/minishell](https://github.com/m4nnb3ll/minishell)
+  > A program that tries to mimic the Bash
 
 
 ---
-*Last updated at 2026-08-22 17:26:19 UTC*
+*Last updated at 2026-08-22 18:39:01 UTC*
 *Historical records are stored in the `archive` directory.*
