@@ -86,6 +86,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang)
   > A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving sys...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
+  > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xec412/XeraLdr](https://github.com/xec412/XeraLdr)
@@ -102,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-22 22:28:27 UTC*
+*Last updated at 2026-08-22 23:27:09 UTC*
 *Historical records are stored in the `archive` directory.*
