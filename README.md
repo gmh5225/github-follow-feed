@@ -92,8 +92,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A stealthy and modular Windows loader designed to bypass modern EDR solutions using Module Stomping,...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [m4nnb3ll/minishell](https://github.com/m4nnb3ll/minishell)
   > A program that tries to mimic the Bash
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [arianvp/webauthn-minimal](https://github.com/arianvp/webauthn-minimal)
+  > Minimal go implementation of a Webauthn L2 relying party
 
 
 ---
-*Last updated at 2026-08-22 19:27:13 UTC*
+*Last updated at 2026-08-22 20:30:08 UTC*
 *Historical records are stored in the `archive` directory.*
