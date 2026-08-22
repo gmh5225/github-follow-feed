@@ -34,9 +34,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
 - 🍴 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Forked [MicrosoftDocs/defender-docs](https://github.com/MicrosoftDocs/defender-docs) to [ZeroMemoryEx/defender-docs](https://github.com/ZeroMemoryEx/defender-docs)
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [a10nw01f/Mitzi](https://github.com/a10nw01f/Mitzi)
+  > Advanced compile-time validation in C++
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF)
   > Free and open-source PDF editor for Windows. View, annotate, OCR, merge, split, edit text, draw, sig...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plrigaux/sysd-manager](https://github.com/plrigaux/sysd-manager)
+  > A user-friendly GUI to manage systemd units
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [xec412/XeraLdr](https://github.com/xec412/XeraLdr)
@@ -44,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-22 09:33:11 UTC*
+*Last updated at 2026-08-22 10:30:04 UTC*
 *Historical records are stored in the `archive` directory.*
