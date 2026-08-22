@@ -42,6 +42,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [SteveTheKiller/KillerPDF](https://github.com/SteveTheKiller/KillerPDF)
   > Free and open-source PDF editor for Windows. View, annotate, OCR, merge, split, edit text, draw, sig...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [marksvia/usbliter8Remote](https://github.com/marksvia/usbliter8Remote)
+  > A tool intended solely for research purposes
+
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [zer0condition/GoodmansKernel](https://github.com/zer0condition/GoodmansKernel)
+  > Run unsigned kernel payloads in a signed kernel driver via wasm3. No JIT/W^x (HVCI/etc., compliant)
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
   > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
@@ -56,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-22 14:28:01 UTC*
+*Last updated at 2026-08-22 15:27:22 UTC*
 *Historical records are stored in the `archive` directory.*
