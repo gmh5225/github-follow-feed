@@ -15,6 +15,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [sunblaze-ucb/vero](https://github.com/sunblaze-ucb/vero)
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/Course-Stack-MCP](https://github.com/JoasASantos/Course-Stack-MCP)
+
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
+
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp)
   > Bulk download your entire Bandcamp collection and purchases in any format (FLAC, WAV, MP3). Chrome &...
@@ -101,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 17:26:00 UTC*
+*Last updated at 2026-08-23 18:38:17 UTC*
 *Historical records are stored in the `archive` directory.*
