@@ -65,6 +65,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [getzep/graphiti](https://github.com/getzep/graphiti)
   > Build Real-Time Knowledge Graphs for AI Agents
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Pondot/Free-Solace-ImGui-Interface](https://github.com/Pondot/Free-Solace-ImGui-Interface)
+  > Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Pondot/liquidDX11](https://github.com/Pondot/liquidDX11)
+  > Native Windows glass overlay for Dear ImGui: real-time DXGI desktop capture, Direct3D 11/HLSL refrac...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
   > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
@@ -81,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 13:37:06 UTC*
+*Last updated at 2026-08-23 14:29:20 UTC*
 *Historical records are stored in the `archive` directory.*
