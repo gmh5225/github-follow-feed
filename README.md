@@ -9,9 +9,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Elastic's eBPF
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mrrobot1o1/firefoxdump](https://github.com/mrrobot1o1/firefoxdump)
   > Cobalt Strike BOF for extracting Firefox passwords and cookies. Decrypts saved credentials using NSS...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Paradoxis/DNSRPC-BOF](https://github.com/Paradoxis/DNSRPC-BOF)
+  > Beacon Object File (BOF) implementation of the dnscmd.exe functionality used to obtain remote code e...
 
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [sunblaze-ucb/vero](https://github.com/sunblaze-ucb/vero)
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp)
+  > Bulk download your entire Bandcamp collection and purchases in any format (FLAC, WAV, MP3). Chrome &...
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
@@ -74,6 +80,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
   > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [OpenPoiesis/poietic-playground](https://github.com/OpenPoiesis/poietic-playground)
@@ -87,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 14:29:20 UTC*
+*Last updated at 2026-08-23 15:28:31 UTC*
 *Historical records are stored in the `archive` directory.*
