@@ -30,6 +30,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > [ICCV 2025 Highlights] Large-scale photo-realistic virtual worlds for embodied AI
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [StanfordVL/BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K)
   > BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https:/...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [kevinpbuckley/VibeUE](https://github.com/kevinpbuckley/VibeUE)
+  > Unreal Engine Vibe Coding tool
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)
@@ -57,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
   > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [OpenPoiesis/poietic-playground](https://github.com/OpenPoiesis/poietic-playground)
+  > Educational tool, a virtual laboratory for modelling and simulation of dynamical systems using the S...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
   > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
@@ -65,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 11:26:14 UTC*
+*Last updated at 2026-08-23 12:52:30 UTC*
 *Historical records are stored in the `archive` directory.*
