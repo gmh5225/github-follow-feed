@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/Course-Stack-MCP](https://github.com/JoasASantos/Course-Stack-MCP)
 
+### [brockelmore](https://github.com/brockelmore)
+- 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [remorses/gpuix](https://github.com/remorses/gpuix)
+  > Node.js & React bindings for Zed GPUI.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Paradoxis/DNSRPC-BOF](https://github.com/Paradoxis/DNSRPC-BOF)
   > Beacon Object File (BOF) implementation of the dnscmd.exe functionality used to obtain remote code e...
@@ -114,6 +118,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [OpenPoiesis/poietic-playground](https://github.com/OpenPoiesis/poietic-playground)
   > Educational tool, a virtual laboratory for modelling and simulation of dynamical systems using the S...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc)
+  > Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-pre...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
   > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
@@ -122,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 20:30:19 UTC*
+*Last updated at 2026-08-23 21:27:52 UTC*
 *Historical records are stored in the `archive` directory.*
