@@ -18,6 +18,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/Course-Stack-MCP](https://github.com/JoasASantos/Course-Stack-MCP)
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Paradoxis/DNSRPC-BOF](https://github.com/Paradoxis/DNSRPC-BOF)
+  > Beacon Object File (BOF) implementation of the dnscmd.exe functionality used to obtain remote code e...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [jackyzha0/quartz](https://github.com/jackyzha0/quartz)
+  > 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully funct...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [NetSPI/BOFscale](https://github.com/NetSPI/BOFscale)
+  > A collection of BOF-PE's that allow running tailscale from memory
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+  > ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, an...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [apache/maka](https://github.com/apache/maka)
+  > Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool resul...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
+  > Beautiful, Modern & Opinionated Linux
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
   > NoWarbird - Warbird devirtualization project
@@ -108,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 18:38:17 UTC*
+*Last updated at 2026-08-23 19:26:54 UTC*
 *Historical records are stored in the `archive` directory.*
