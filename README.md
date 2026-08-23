@@ -20,6 +20,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Reference PyTorch implementation and models for DINOv3
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
   > Native and Compact Structured Latents for 3D Generation
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [URLab-Sim/UnrealRoboticsLab](https://github.com/URLab-Sim/UnrealRoboticsLab)
+  > A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering...
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)
@@ -39,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
   > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
+  > Unified algorithmic compaction + observational memory for Pi. Merges pi-vcc and pi-observational-mem...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
   > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
@@ -47,5 +53,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 08:38:04 UTC*
+*Last updated at 2026-08-23 09:33:35 UTC*
 *Historical records are stored in the `archive` directory.*
