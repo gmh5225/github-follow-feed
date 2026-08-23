@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [elastic/ebpf](https://github.com/elastic/ebpf)
   > Elastic's eBPF
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mrrobot1o1/firefoxdump](https://github.com/mrrobot1o1/firefoxdump)
+  > Cobalt Strike BOF for extracting Firefox passwords and cookies. Decrypts saved credentials using NSS...
 
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [sunblaze-ucb/vero](https://github.com/sunblaze-ucb/vero)
@@ -22,6 +24,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Native and Compact Structured Latents for 3D Generation
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [URLab-Sim/UnrealRoboticsLab](https://github.com/URLab-Sim/UnrealRoboticsLab)
   > A high-fidelity, open-source robotics simulator integrating Unreal Engine's photorealistic rendering...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [zfw1226/gym-unrealcv](https://github.com/zfw1226/gym-unrealcv)
+  > Unreal environments for reinforcement learning
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [UnrealZoo/unrealzoo-gym](https://github.com/UnrealZoo/unrealzoo-gym)
+  > [ICCV 2025 Highlights] Large-scale photo-realistic virtual worlds for embodied AI
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [StanfordVL/BEHAVIOR-1K](https://github.com/StanfordVL/BEHAVIOR-1K)
+  > BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https:/...
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)
@@ -57,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 10:30:01 UTC*
+*Last updated at 2026-08-23 11:26:14 UTC*
 *Historical records are stored in the `archive` directory.*
