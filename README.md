@@ -18,6 +18,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [hyphmongo/batchcamp](https://github.com/hyphmongo/batchcamp)
   > Bulk download your entire Bandcamp collection and purchases in any format (FLAC, WAV, MP3). Chrome &...
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
@@ -95,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 15:28:31 UTC*
+*Last updated at 2026-08-23 16:33:15 UTC*
 *Historical records are stored in the `archive` directory.*
