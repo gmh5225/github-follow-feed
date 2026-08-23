@@ -11,6 +11,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [sunblaze-ucb/vero](https://github.com/sunblaze-ucb/vero)
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)
+  > Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [noxaaa/MCTun](https://github.com/noxaaa/MCTun)
   > Forward ANY traffic through Minecraft client/server
@@ -18,8 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
   > x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugg...
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [ShadowHackrs/Jailbreaks-GPT-Gemini-deepseek-](https://github.com/ShadowHackrs/Jailbreaks-GPT-Gemini-deepseek-)
+  > Jailbreaks GPT, Sora, Claude, Gemini ,deepseek this prompt unlocks rage mode
 
 
 ---
-*Last updated at 2026-08-23 03:09:23 UTC*
+*Last updated at 2026-08-23 04:43:41 UTC*
 *Historical records are stored in the `archive` directory.*
