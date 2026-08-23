@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [basecamp/omarchy](https://github.com/basecamp/omarchy)
   > Beautiful, Modern & Opinionated Linux
 
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli)
+  > A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confi...
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
   > NoWarbird - Warbird devirtualization project
@@ -130,5 +134,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 22:28:50 UTC*
+*Last updated at 2026-08-23 23:27:12 UTC*
 *Historical records are stored in the `archive` directory.*
