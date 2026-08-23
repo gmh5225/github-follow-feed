@@ -13,6 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [sunblaze-ucb/vero](https://github.com/sunblaze-ucb/vero)
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
+  > An easy-to-use, high-performance dex deobfuscation library.
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [livekit/eot-bench](https://github.com/livekit/eot-bench)
   > LiveKit End-of-Turn Benchmark
@@ -32,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > BEHAVIOR-1K: a platform for accelerating Embodied AI research. Join our Discord for support: https:/...
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [kevinpbuckley/VibeUE](https://github.com/kevinpbuckley/VibeUE)
   > Unreal Engine Vibe Coding tool
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
+  > Community plugin to control Blender 3D with any LLM of your choice
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [blender/blender](https://github.com/blender/blender)
+  > Official mirror of Blender
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)
@@ -46,6 +54,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A reimplementation of the minecraft server in rust.
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [cuberite/cuberite](https://github.com/cuberite/cuberite) to [hzqst/cuberite](https://github.com/hzqst/cuberite)
   > A lightweight, fast and extensible game server for Minecraft
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [cloudbase/garm](https://github.com/cloudbase/garm) to [HLND2T/garm](https://github.com/HLND2T/garm)
+  > Multi-cloud, auto-scaling manager for GitHub Actions & Gitea self-hosted runners with pluggable prov...
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server)
@@ -71,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 12:52:30 UTC*
+*Last updated at 2026-08-23 13:37:06 UTC*
 *Historical records are stored in the `archive` directory.*
