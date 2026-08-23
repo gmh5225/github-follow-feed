@@ -49,6 +49,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LuckyPray/DexKit](https://github.com/LuckyPray/DexKit)
   > An easy-to-use, high-performance dex deobfuscation library.
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [livekit/eot-bench](https://github.com/livekit/eot-bench)
@@ -104,9 +106,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Pondot/Free-Solace-ImGui-Interface](https://github.com/Pondot/Free-Solace-ImGui-Interface)
-  > Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Pondot/liquidDX11](https://github.com/Pondot/liquidDX11)
-  > Native Windows glass overlay for Dear ImGui: real-time DXGI desktop capture, Direct3D 11/HLSL refrac...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [k0valik/pi-blackhole](https://github.com/k0valik/pi-blackhole)
@@ -130,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 21:27:52 UTC*
+*Last updated at 2026-08-23 22:28:50 UTC*
 *Historical records are stored in the `archive` directory.*
