@@ -73,6 +73,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [getzep/graphiti](https://github.com/getzep/graphiti)
   > Build Real-Time Knowledge Graphs for AI Agents
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Pondot/Free-Solace-ImGui-Interface](https://github.com/Pondot/Free-Solace-ImGui-Interface)
   > Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.
@@ -97,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 16:33:15 UTC*
+*Last updated at 2026-08-23 17:26:00 UTC*
 *Historical records are stored in the `archive` directory.*
