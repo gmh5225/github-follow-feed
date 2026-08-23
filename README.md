@@ -14,6 +14,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [livekit/eot-bench](https://github.com/livekit/eot-bench)
   > LiveKit End-of-Turn Benchmark
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [jundot/omlx](https://github.com/jundot/omlx)
+  > LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the mac...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3)
+  > Reference PyTorch implementation and models for DINOv3
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [microsoft/TRELLIS.2](https://github.com/microsoft/TRELLIS.2)
+  > Native and Compact Structured Latents for 3D Generation
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [seerr-team/seerr](https://github.com/seerr-team/seerr)
@@ -41,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-23 07:38:55 UTC*
+*Last updated at 2026-08-23 08:38:04 UTC*
 *Historical records are stored in the `archive` directory.*
