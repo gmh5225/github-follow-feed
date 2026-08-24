@@ -12,10 +12,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [pullmoll/trusttrust](https://github.com/pullmoll/trusttrust)
   > Sample code for "Reflections on trusting trust" by Ken Thompson
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [TGP482/FC2JackalFix](https://github.com/TGP482/FC2JackalFix)
-  > A major patch for Far Cry 2, fixing bugs and adding gameplay improvements.
-
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [egraphs-good/egg](https://github.com/egraphs-good/egg)
   > egg is a flexible, high-performance e-graph library
@@ -83,11 +79,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [ovenpasta/adi2](https://github.com/ovenpasta/adi2)
   > A modern GUI library for Ada: CSS styling, XML UI, SDL3
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [floci-io/floci](https://github.com/floci-io/floci)
+  > Light, fluffy, and always free - The AWS Local Emulator alternative
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [whoisqwerz/pocket_disasm](https://github.com/whoisqwerz/pocket_disasm)
   > Multi-session IDALib MCP router for coding agents. Analyze multiple binaries in parallel with IDA-co...
 
 
 ---
-*Last updated at 2026-08-24 22:33:21 UTC*
+*Last updated at 2026-08-24 23:27:21 UTC*
 *Historical records are stored in the `archive` directory.*
