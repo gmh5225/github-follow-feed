@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [und3ath/xollvm](https://github.com/und3ath/xollvm) to [CrackerCat/xollvm](https://github.com/CrackerCat/xollvm)
   > Modern LLVM Obfuscator
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [kishimisu/Crash-NST-Level-Editor](https://github.com/kishimisu/Crash-NST-Level-Editor)
+  > A level editor for Crash Bandicoot NST on PC
+
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [josephg/resolve-aacfix](https://github.com/josephg/resolve-aacfix)
   > Binary patch library to restore AAC audio support to davinci resolve on linux
@@ -48,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-24 16:45:51 UTC*
+*Last updated at 2026-08-24 17:35:59 UTC*
 *Historical records are stored in the `archive` directory.*
