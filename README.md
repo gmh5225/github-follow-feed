@@ -14,7 +14,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [und3ath/xollvm](https://github.com/und3ath/xollvm) to [CrackerCat/xollvm](https://github.com/CrackerCat/xollvm)
   > Modern LLVM Obfuscator
 
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [doimty/CocoaInspector](https://github.com/doimty/CocoaInspector)
+  > Live process inspector for roothide jailbroken iOS
+
 
 ---
-*Last updated at 2026-08-24 03:10:06 UTC*
+*Last updated at 2026-08-24 04:52:53 UTC*
 *Historical records are stored in the `archive` directory.*
