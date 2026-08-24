@@ -4,9 +4,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird)
+  > NoWarbird - Warbird devirtualization project
+
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [pullmoll/trusttrust](https://github.com/pullmoll/trusttrust)
+  > Sample code for "Reflections on trusting trust" by Ken Thompson
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [TGP482/FC2JackalFix](https://github.com/TGP482/FC2JackalFix)
   > A major patch for Far Cry 2, fixing bugs and adding gameplay improvements.
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [egraphs-good/egg](https://github.com/egraphs-good/egg)
+  > egg is a flexible, high-performance e-graph library
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [archercreat/NoWarbird](https://github.com/archercreat/NoWarbird) to [CrackerCat/NoWarbird](https://github.com/CrackerCat/NoWarbird)
@@ -25,6 +37,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [marin-community/marin](https://github.com/marin-community/marin)
   > Open-source framework for the research and development of foundation models.
+
+### [brockelmore](https://github.com/brockelmore)
+- 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Andrea-lyz/TEESimulator-RS-Online](https://github.com/Andrea-lyz/TEESimulator-RS-Online)
+  > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
 
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [doimty/CocoaInspector](https://github.com/doimty/CocoaInspector)
@@ -52,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-24 17:35:59 UTC*
+*Last updated at 2026-08-24 18:50:13 UTC*
 *Historical records are stored in the `archive` directory.*
