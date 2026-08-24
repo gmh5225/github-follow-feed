@@ -75,11 +75,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [peperunas](https://github.com/peperunas) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
   > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [ovenpasta/adi2](https://github.com/ovenpasta/adi2)
+  > A modern GUI library for Ada: CSS styling, XML UI, SDL3
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [whoisqwerz/pocket_disasm](https://github.com/whoisqwerz/pocket_disasm)
   > Multi-session IDALib MCP router for coding agents. Analyze multiple binaries in parallel with IDA-co...
 
 
 ---
-*Last updated at 2026-08-24 20:37:41 UTC*
+*Last updated at 2026-08-24 21:35:32 UTC*
 *Historical records are stored in the `archive` directory.*
