@@ -14,6 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [und3ath/xollvm](https://github.com/und3ath/xollvm) to [CrackerCat/xollvm](https://github.com/CrackerCat/xollvm)
   > Modern LLVM Obfuscator
 
+### [GJDuck](https://github.com/GJDuck)
+- 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [josephg/resolve-aacfix](https://github.com/josephg/resolve-aacfix)
+  > Binary patch library to restore AAC audio support to davinci resolve on linux
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [marin-community/marin](https://github.com/marin-community/marin)
   > Open-source framework for the research and development of foundation models.
@@ -24,5 +28,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-24 08:55:48 UTC*
+*Last updated at 2026-08-24 09:55:57 UTC*
 *Historical records are stored in the `archive` directory.*
