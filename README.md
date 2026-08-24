@@ -41,6 +41,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [brockelmore](https://github.com/brockelmore)
 - 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken)
 
+### [dhondta](https://github.com/dhondta)
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [jonathanristo/STRIP](https://github.com/jonathanristo/STRIP)
+  > Surface Threat Reconnaissance & Identification Platform
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [jonathanristo/asset-inventory](https://github.com/jonathanristo/asset-inventory)
+  > Scripts to help with Asset Inventory
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [jonathanristo/CTEMMM](https://github.com/jonathanristo/CTEMMM)
+  > Continuous Threat Exposure Management Maturity Model (CTEMMM)
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Andrea-lyz/TEESimulator-RS-Online](https://github.com/Andrea-lyz/TEESimulator-RS-Online)
   > Software simulation for Android hardware-backed key pairs with key attestation | https://t.me/superp...
@@ -56,6 +64,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
   > DeepSeek v4 Flash EXL3 on one DGX Spark
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [poncippg-spec/Free-Solace-ImGui-Interface](https://github.com/poncippg-spec/Free-Solace-ImGui-Interface)
+  > Free offline Windows interface built with C++20, Dear ImGui, Win32, and DirectX 11.
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/ssz-specs](https://github.com/ethereum/ssz-specs)
@@ -71,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-24 19:34:46 UTC*
+*Last updated at 2026-08-24 20:37:41 UTC*
 *Historical records are stored in the `archive` directory.*
