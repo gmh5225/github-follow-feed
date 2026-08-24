@@ -26,6 +26,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [doimty/CocoaInspector](https://github.com/doimty/CocoaInspector)
   > Live process inspector for roothide jailbroken iOS
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC)
+  > Modern VNC Server and client, web based and secure
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [selkies-project/selkies](https://github.com/selkies-project/selkies)
+  > Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Ho...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark)
+  > DeepSeek v4 Flash EXL3 on one DGX Spark
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/ssz-specs](https://github.com/ethereum/ssz-specs)
   > Reference implementation of Ethereum SSZ serialization and Merkleization
@@ -40,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-24 14:49:33 UTC*
+*Last updated at 2026-08-24 15:45:48 UTC*
 *Historical records are stored in the `archive` directory.*
