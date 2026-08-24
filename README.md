@@ -26,7 +26,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [doimty/CocoaInspector](https://github.com/doimty/CocoaInspector)
   > Live process inspector for roothide jailbroken iOS
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/ssz-specs](https://github.com/ethereum/ssz-specs)
+  > Reference implementation of Ethereum SSZ serialization and Merkleization
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [whoisqwerz/pocket_disasm](https://github.com/whoisqwerz/pocket_disasm)
+  > Multi-session IDALib MCP router for coding agents. Analyze multiple binaries in parallel with IDA-co...
+
 
 ---
-*Last updated at 2026-08-24 10:44:01 UTC*
+*Last updated at 2026-08-24 11:35:02 UTC*
 *Historical records are stored in the `archive` directory.*
