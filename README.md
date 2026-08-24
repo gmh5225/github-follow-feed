@@ -30,11 +30,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/ssz-specs](https://github.com/ethereum/ssz-specs)
   > Reference implementation of Ethereum SSZ serialization and Merkleization
 
+### [peperunas](https://github.com/peperunas)
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
+  > Pi extension for async subagent delegation with truncation, artifacts, and session sharing
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [whoisqwerz/pocket_disasm](https://github.com/whoisqwerz/pocket_disasm)
   > Multi-session IDALib MCP router for coding agents. Analyze multiple binaries in parallel with IDA-co...
 
 
 ---
-*Last updated at 2026-08-24 13:02:57 UTC*
+*Last updated at 2026-08-24 14:49:33 UTC*
 *Historical records are stored in the `archive` directory.*
