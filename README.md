@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [und3ath/xollvm](https://github.com/und3ath/xollvm) to [CrackerCat/xollvm](https://github.com/CrackerCat/xollvm)
   > Modern LLVM Obfuscator
 
+### [DavidXanatos](https://github.com/DavidXanatos)
+- 🍴 👤 [DavidXanatos](https://github.com/DavidXanatos) Forked [winfsp/winspd](https://github.com/winfsp/winspd) to [Useful-Stuff/winspd](https://github.com/Useful-Stuff/winspd)
+  > Windows Storage Proxy Driver - User mode disk storage
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [kishimisu/Crash-NST-Level-Editor](https://github.com/kishimisu/Crash-NST-Level-Editor)
   > A level editor for Crash Bandicoot NST on PC
@@ -85,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-24 21:35:32 UTC*
+*Last updated at 2026-08-24 22:33:21 UTC*
 *Historical records are stored in the `archive` directory.*
