@@ -81,8 +81,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Static single-page git repository browser
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
   > My AI learning system.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
+  > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
+
+### [spudgy](https://github.com/spudgy)
+- 🌟 👤 [spudgy](https://github.com/spudgy) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in
 
 
 ---
-*Last updated at 2026-08-25 16:45:10 UTC*
+*Last updated at 2026-08-25 17:36:23 UTC*
 *Historical records are stored in the `archive` directory.*
