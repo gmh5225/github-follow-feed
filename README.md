@@ -11,6 +11,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [fission-systems/fission-research](https://github.com/fission-systems/fission-research)
   > Research ideas, experimental architectures, prototypes, and long-term investigations across decompil...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [InternetBot/Silly-67](https://github.com/InternetBot/Silly-67)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) to [CrackerCat/grok-bot-0.18-reconstructed](https://github.com/CrackerCat/grok-bot-0.18-reconstructed)
   > Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS
@@ -18,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > To Tell You How to Flashing Android, and The Know About What You Should Need
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/flutter-win64-re](https://github.com/lwtw123456/flutter-win64-re) to [CrackerCat/flutter-win64-re](https://github.com/CrackerCat/flutter-win64-re)
   > 面向 Windows x64 Flutter/Dart AOT 应用的逆向工程研究，聚焦运行时分析、内存定位与补丁验证，并探索通用的 Dart AOT 分析方法与工具。目前包含 Reqable 和 R...
+
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
+  > Self-hosted game stream host for Moonlight.
 
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mytechnotalent/windows-process-lifecycle](https://github.com/mytechnotalent/windows-process-lifecycle)
@@ -30,6 +37,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
   > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tobi/walgit](https://github.com/tobi/walgit)
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [cdong1012/ollvm-unflattener](https://github.com/cdong1012/ollvm-unflattener)
+  > Obfuscator-llvm Control Flow Flattening Deobfuscator
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [cdong1012/ollvm-unflattener](https://github.com/cdong1012/ollvm-unflattener) to [enovella/ollvm-unflattener](https://github.com/enovella/ollvm-unflattener)
+  > Obfuscator-llvm Control Flow Flattening Deobfuscator
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [pry0cc/axiom](https://github.com/pry0cc/axiom)
@@ -61,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-25 12:59:16 UTC*
+*Last updated at 2026-08-25 13:57:55 UTC*
 *Historical records are stored in the `archive` directory.*
