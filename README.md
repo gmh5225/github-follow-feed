@@ -43,10 +43,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Obfuscator-llvm Control Flow Flattening Deobfuscator
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [cdong1012/ollvm-unflattener](https://github.com/cdong1012/ollvm-unflattener) to [enovella/ollvm-unflattener](https://github.com/enovella/ollvm-unflattener)
   > Obfuscator-llvm Control Flow Flattening Deobfuscator
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [mrT4ntr4/MODeflattener](https://github.com/mrT4ntr4/MODeflattener)
+  > MODeflattener deobfuscates control flow flattened functions obfuscated by OLLVM using Miasm. 
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [mrT4ntr4/MODeflattener](https://github.com/mrT4ntr4/MODeflattener) to [enovella/MODeflattener](https://github.com/enovella/MODeflattener)
+  > MODeflattener deobfuscates control flow flattened functions obfuscated by OLLVM using Miasm. 
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [pry0cc/axiom](https://github.com/pry0cc/axiom)
   > The dynamic infrastructure framework for everybody! Distribute the workload of many different scanni...
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [khaosdoctor/dontquotetheai](https://github.com/khaosdoctor/dontquotetheai)
+  > Don't paste the ai response at me, please
 
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [HLND2T/GoldSrc_VibeSignatures](https://github.com/HLND2T/GoldSrc_VibeSignatures)
@@ -74,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-25 13:57:55 UTC*
+*Last updated at 2026-08-25 14:55:25 UTC*
 *Historical records are stored in the `archive` directory.*
