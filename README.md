@@ -19,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/flutter-win64-re](https://github.com/lwtw123456/flutter-win64-re) to [CrackerCat/flutter-win64-re](https://github.com/CrackerCat/flutter-win64-re)
   > 面向 Windows x64 Flutter/Dart AOT 应用的逆向工程研究，聚焦运行时分析、内存定位与补丁验证，并探索通用的 Dart AOT 分析方法与工具。目前包含 Reqable 和 R...
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mytechnotalent/windows-process-lifecycle](https://github.com/mytechnotalent/windows-process-lifecycle)
+  > A comprehensive technical guide with an in-depth analysis of the Windows process lifecycle, from ini...
+
 ### [benvanik](https://github.com/benvanik)
 - 🌟 👤 [benvanik](https://github.com/benvanik) Starred [tobi/walgit](https://github.com/tobi/walgit)
 
@@ -45,7 +49,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [jmpews/Dobby](https://github.com/jmpews/Dobby)
   > a lightweight, multi-platform, multi-architecture hook framework.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [namazso/browsegit](https://github.com/namazso/browsegit)
+  > Static single-page git repository browser
+
 
 ---
-*Last updated at 2026-08-25 09:41:40 UTC*
+*Last updated at 2026-08-25 10:39:12 UTC*
 *Historical records are stored in the `archive` directory.*
