@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [InternetBot/Silly-67](https://github.com/InternetBot/Silly-67)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by NebuSec. 
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) to [CrackerCat/grok-bot-0.18-reconstructed](https://github.com/CrackerCat/grok-bot-0.18-reconstructed)
@@ -82,5 +84,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-25 15:50:23 UTC*
+*Last updated at 2026-08-25 16:45:10 UTC*
 *Historical records are stored in the `archive` directory.*
