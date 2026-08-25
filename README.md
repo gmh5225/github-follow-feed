@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mytechnotalent/windows-process-lifecycle](https://github.com/mytechnotalent/windows-process-lifecycle)
   > A comprehensive technical guide with an in-depth analysis of the Windows process lifecycle, from ini...
 
+### [Obsidian200](https://github.com/Obsidian200)
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [at0m-b0mb/VMware-Hidden-Mode](https://github.com/at0m-b0mb/VMware-Hidden-Mode)
+  > VMware stealth patcher to defeat VM detection in malware analysis labs — patches VMX config and gues...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
   > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
@@ -54,6 +58,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🚀 👤 [gakonst](https://github.com/gakonst) Made [gakonst/MyPhoneApp](https://github.com/gakonst/MyPhoneApp) public
   > Native Android starter app built by Nanocodex
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pkalogiros/pocket-tts-raven](https://github.com/pkalogiros/pocket-tts-raven)
+  > Super-fast cpu based text-to-speech for native and web
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [khaosdoctor/dontquotetheai](https://github.com/khaosdoctor/dontquotetheai)
@@ -93,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-25 19:37:04 UTC*
+*Last updated at 2026-08-25 20:35:51 UTC*
 *Historical records are stored in the `archive` directory.*
