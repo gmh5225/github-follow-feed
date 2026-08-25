@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tobi/walgit](https://github.com/tobi/walgit)
 
+### [hzqst](https://github.com/hzqst)
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [HLND2T/GoldSrc_VibeSignatures](https://github.com/HLND2T/GoldSrc_VibeSignatures)
+  > Counterpart of CS2_VibeSignatures but for GoldSrc
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [airbus-cert/minusone](https://github.com/airbus-cert/minusone)
   > Powershell/Javascript deobfuscator based on tree-sitter
@@ -39,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-25 05:37:05 UTC*
+*Last updated at 2026-08-25 06:58:23 UTC*
 *Historical records are stored in the `archive` directory.*
