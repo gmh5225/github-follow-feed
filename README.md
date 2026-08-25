@@ -54,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [pry0cc/axiom](https://github.com/pry0cc/axiom)
   > The dynamic infrastructure framework for everybody! Distribute the workload of many different scanni...
 
+### [gakonst](https://github.com/gakonst)
+- 🚀 👤 [gakonst](https://github.com/gakonst) Made [gakonst/MyPhoneApp](https://github.com/gakonst/MyPhoneApp) public
+  > Native Android starter app built by Nanocodex
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [khaosdoctor/dontquotetheai](https://github.com/khaosdoctor/dontquotetheai)
   > Don't paste the ai response at me, please
@@ -87,8 +91,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [spudgy](https://github.com/spudgy)
 - 🌟 👤 [spudgy](https://github.com/spudgy) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥ Coding agent with the IDE wired in
+- 🌟 👤 [spudgy](https://github.com/spudgy) Starred [za233/NeacController](https://github.com/za233/NeacController)
+  > Exploit vulnerabilities in NeacSafe64.sys to achieve privilege escalation and kernel-mode shellcode ...
 
 
 ---
-*Last updated at 2026-08-25 17:36:23 UTC*
+*Last updated at 2026-08-25 18:48:22 UTC*
 *Historical records are stored in the `archive` directory.*
