@@ -32,9 +32,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [mytechnotalent/windows-process-lifecycle](https://github.com/mytechnotalent/windows-process-lifecycle)
   > A comprehensive technical guide with an in-depth analysis of the Windows process lifecycle, from ini...
 
-### [benvanik](https://github.com/benvanik)
-- 🌟 👤 [benvanik](https://github.com/benvanik) Starred [tobi/walgit](https://github.com/tobi/walgit)
-
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [laude-institute/headlong](https://github.com/laude-institute/headlong)
   > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
@@ -96,5 +93,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-25 18:48:22 UTC*
+*Last updated at 2026-08-25 19:37:04 UTC*
 *Historical records are stored in the `archive` directory.*
