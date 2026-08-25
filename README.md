@@ -56,8 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [namazso/browsegit](https://github.com/namazso/browsegit)
   > Static single-page git repository browser
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learn](https://github.com/amosblomqvist/learn)
+  > My AI learning system.
 
 
 ---
-*Last updated at 2026-08-25 11:33:56 UTC*
+*Last updated at 2026-08-25 12:59:16 UTC*
 *Historical records are stored in the `archive` directory.*
