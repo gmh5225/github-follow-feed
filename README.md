@@ -24,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/flutter-win64-re](https://github.com/lwtw123456/flutter-win64-re) to [CrackerCat/flutter-win64-re](https://github.com/CrackerCat/flutter-win64-re)
   > 面向 Windows x64 Flutter/Dart AOT 应用的逆向工程研究，聚焦运行时分析、内存定位与补丁验证，并探索通用的 Dart AOT 分析方法与工具。目前包含 Reqable 和 R...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [pedrocatalao/skyroads-mac](https://github.com/pedrocatalao/skyroads-mac)
+  > Native macOS port of SkyRoads (1993), the classic DOS game rewritten in C + SDL2, universal binary f...
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine)
   > Self-hosted game stream host for Moonlight.
@@ -99,5 +103,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-25 21:34:50 UTC*
+*Last updated at 2026-08-25 22:33:51 UTC*
 *Historical records are stored in the `archive` directory.*
