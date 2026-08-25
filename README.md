@@ -49,11 +49,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [jmpews/Dobby](https://github.com/jmpews/Dobby)
   > a lightweight, multi-platform, multi-architecture hook framework.
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)
+  > 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [namazso/browsegit](https://github.com/namazso/browsegit)
   > Static single-page git repository browser
 
 
 ---
-*Last updated at 2026-08-25 10:39:12 UTC*
+*Last updated at 2026-08-25 11:33:56 UTC*
 *Historical records are stored in the `archive` directory.*
