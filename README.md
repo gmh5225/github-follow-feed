@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An open source agent microharness featuring persistent agency and recursive LLMs. Of bash, by bash, ...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tobi/walgit](https://github.com/tobi/walgit)
 
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [pry0cc/axiom](https://github.com/pry0cc/axiom)
+  > The dynamic infrastructure framework for everybody! Distribute the workload of many different scanni...
+
 ### [hzqst](https://github.com/hzqst)
 - 🌟 👤 [hzqst](https://github.com/hzqst) Starred [HLND2T/GoldSrc_VibeSignatures](https://github.com/HLND2T/GoldSrc_VibeSignatures)
   > Counterpart of CS2_VibeSignatures but for GoldSrc
@@ -43,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-25 06:58:23 UTC*
+*Last updated at 2026-08-25 07:52:07 UTC*
 *Historical records are stored in the `archive` directory.*
