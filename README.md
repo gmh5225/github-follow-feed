@@ -15,6 +15,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [cloudbase/garm-provider-common](https://github.com/cloudbase/garm-provider-common) to [HLND2T/garm-provider-common](https://github.com/HLND2T/garm-provider-common)
+  > Common functionality for GARM providers
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [coltonon/D2DOverlay](https://github.com/coltonon/D2DOverlay)
   > Easy to use overlay using Direct2d
@@ -25,5 +29,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-26 06:59:10 UTC*
+*Last updated at 2026-08-26 07:53:48 UTC*
 *Historical records are stored in the `archive` directory.*
