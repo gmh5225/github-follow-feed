@@ -11,15 +11,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
 
-### [ikrima](https://github.com/ikrima)
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [MengTo/threeui](https://github.com/MengTo/threeui)
-  > Open-source ThreeUI Community catalog with live interactive components and complete Community source...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [LMCache/LMCache](https://github.com/LMCache/LMCache)
-  > LMCache: Supercharge Your LLM with the Fastest KV Cache Layer
-
 
 ---
-*Last updated at 2026-08-26 01:46:27 UTC*
+*Last updated at 2026-08-26 03:11:52 UTC*
 *Historical records are stored in the `archive` directory.*
