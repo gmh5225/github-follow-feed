@@ -44,11 +44,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) to [classic130/ShieldBreak](https://github.com/classic130/ShieldBreak)
   > Windows Defender 0day vulnerability
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [pgarba/SiMBA-](https://github.com/pgarba/SiMBA-)
+  > Port of MBA Solver SiMBA to C/C++ (MBA deobfuscation in real world applications)
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [pgarba/SiMBA-](https://github.com/pgarba/SiMBA-) to [enovella/SiMBA-](https://github.com/enovella/SiMBA-)
+  > Port of MBA Solver SiMBA to C/C++ (MBA deobfuscation in real world applications)
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [android/skills](https://github.com/android/skills)
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [cloudbase/garm-provider-common](https://github.com/cloudbase/garm-provider-common) to [HLND2T/garm-provider-common](https://github.com/HLND2T/garm-provider-common)
@@ -58,11 +61,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [coltonon/D2DOverlay](https://github.com/coltonon/D2DOverlay)
   > Easy to use overlay using Direct2d
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/MiaAI-Lab/Qwen3.8-27B-SGLang-DGX-Spark) to [mrexodia/Qwen3.8-27B-SGLang-DGX-Spark](https://github.com/mrexodia/Qwen3.8-27B-SGLang-DGX-Spark)
+  > Qwen3.8 27B on SGLang for DGX Spark
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [idamcp/idamcp](https://github.com/idamcp/idamcp)
+
+### [williballenthin](https://github.com/williballenthin)
+- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [williballenthin/sogen](https://github.com/williballenthin/sogen)
+  > 🪅 Windows & Linux userspace emulator 
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
   > Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
 
 
 ---
-*Last updated at 2026-08-26 13:04:58 UTC*
+*Last updated at 2026-08-26 14:51:04 UTC*
 *Historical records are stored in the `archive` directory.*
