@@ -24,6 +24,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [x86matthew/WinVisor](https://github.com/x86matthew/WinVisor)
   > WinVisor - A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hyperviso...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+  > A spy satellite simulator in your browser, except the data is real. Live open source spatial intelli...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)
+  > Development at the speed of light
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+  > Open source Loom alternative. Beautiful, shareable screen recordings.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [MSNightmare/LegacyHive](https://github.com/MSNightmare/LegacyHive) to [classic130/LegacyHive](https://github.com/classic130/LegacyHive)
   > Windows ProfSvc 0day
@@ -47,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-26 10:40:27 UTC*
+*Last updated at 2026-08-26 11:35:18 UTC*
 *Historical records are stored in the `archive` directory.*
