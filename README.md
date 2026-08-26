@@ -11,7 +11,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [coltonon/D2DOverlay](https://github.com/coltonon/D2DOverlay)
+  > Easy to use overlay using Direct2d
+
 
 ---
-*Last updated at 2026-08-26 03:11:52 UTC*
+*Last updated at 2026-08-26 04:47:35 UTC*
 *Historical records are stored in the `archive` directory.*
