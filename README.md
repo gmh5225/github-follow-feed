@@ -68,6 +68,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [idamcp/idamcp](https://github.com/idamcp/idamcp)
 
+### [rnk](https://github.com/rnk)
+- 🍴 👤 [rnk](https://github.com/rnk) Forked [bazelbuild/reclient](https://github.com/bazelbuild/reclient) to [rnk/reclient](https://github.com/rnk/reclient)
+- 🍴 👤 [rnk](https://github.com/rnk) Forked [rapidsai/sccache](https://github.com/rapidsai/sccache) to [rnk/sccache](https://github.com/rnk/sccache)
+  > Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [momo5502/sogen](https://github.com/momo5502/sogen) to [williballenthin/sogen](https://github.com/williballenthin/sogen)
   > 🪅 Windows & Linux userspace emulator 
@@ -78,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-26 16:22:48 UTC*
+*Last updated at 2026-08-26 19:09:00 UTC*
 *Historical records are stored in the `archive` directory.*
