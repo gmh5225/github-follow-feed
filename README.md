@@ -31,6 +31,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Development at the speed of light
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
   > Open source Loom alternative. Beautiful, shareable screen recordings.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM)
+  > A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kit...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [roryclear/clearcam](https://github.com/roryclear/clearcam)
+  > Add object detection, tracking, mobile notifications, and search to any security camera.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [SanshruthR/CCTV_YOLO](https://github.com/SanshruthR/CCTV_YOLO)
+  > Fast Real-time Object Detection with High-Res Output https://x.com/_akhaliq/status/18402130128183298...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [MSNightmare/LegacyHive](https://github.com/MSNightmare/LegacyHive) to [classic130/LegacyHive](https://github.com/classic130/LegacyHive)
@@ -40,6 +46,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🍴 👤 [ergrelet](https://github.com/ergrelet) Forked [yrp604/bochscpu](https://github.com/yrp604/bochscpu) to [ergrelet/bochscpu](https://github.com/ergrelet/bochscpu)
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [android/skills](https://github.com/android/skills)
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [cloudbase/garm-provider-common](https://github.com/cloudbase/garm-provider-common) to [HLND2T/garm-provider-common](https://github.com/HLND2T/garm-provider-common)
@@ -55,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-26 11:35:18 UTC*
+*Last updated at 2026-08-26 13:04:58 UTC*
 *Historical records are stored in the `archive` directory.*
