@@ -13,10 +13,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Icex0/firebase-pentest-skill](https://github.com/Icex0/firebase-pentest-skill) to [CrackerCat/firebase-pentest-skill](https://github.com/CrackerCat/firebase-pentest-skill)
   > Firebase pentest checklist as an agent skill, with automatic OpenFirebase setup
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/ida-headless-mcp](https://github.com/VibRev/ida-headless-mcp) to [CrackerCat/ida-headless-mcp-](https://github.com/CrackerCat/ida-headless-mcp-)
+  > Rust-native, multi-session headless IDA Pro MCP server with isolated workers and stdio or Streamable...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/bn-headless-mcp](https://github.com/VibRev/bn-headless-mcp) to [CrackerCat/bn-headless-mcp](https://github.com/CrackerCat/bn-headless-mcp)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VibRev/vibrev](https://github.com/VibRev/vibrev) to [CrackerCat/vibrev](https://github.com/CrackerCat/vibrev)
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [arkwise/blackroolinux](https://github.com/arkwise/blackroolinux)
   > The Linux Distro from down under for the PSX
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [munirov/cremniy](https://github.com/munirov/cremniy)
+  > Low-level IDE
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [SpaceZephyr/creator-buddy](https://github.com/SpaceZephyr/creator-buddy)
+  > Creator Buddy: orchestrated Agent Skills for cross-platform content search, creator analysis, and vi...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
 
 ### [ch3rn0byl](https://github.com/ch3rn0byl)
 - 🌟 👤 [ch3rn0byl](https://github.com/ch3rn0byl) Starred [ic3qu33n/EBC-frnknstn](https://github.com/ic3qu33n/EBC-frnknstn)
@@ -38,6 +49,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang)
+  > Database-Backed Durable Golang Workflows
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [simonlindholm/decomp-permuter](https://github.com/simonlindholm/decomp-permuter)
+  > Randomly permute C files to better match a target binary
+
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [frostyplanet/crossfire-rs](https://github.com/frostyplanet/crossfire-rs)
   > Enhanced mpmc/mpsc to support async/sync (derive from crossbeam)
@@ -45,11 +64,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thebabush/pi-memento](https://github.com/thebabush/pi-memento)
   > Agents that edit their own memory: nested context transactions for the pi coding agent. Commit, comp...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
+  > Binary Proofs, Blazing Fast
 
 ### [secretsquirrel](https://github.com/secretsquirrel)
 - 🌟 👤 [secretsquirrel](https://github.com/secretsquirrel) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
 
 ---
-*Last updated at 2026-08-29 08:54:01 UTC*
+*Last updated at 2026-08-29 14:21:14 UTC*
 *Historical records are stored in the `archive` directory.*
