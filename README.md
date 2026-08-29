@@ -28,6 +28,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [SpaceZephyr/creator-buddy](https://github.com/SpaceZephyr/creator-buddy)
   > Creator Buddy: orchestrated Agent Skills for cross-platform content search, creator analysis, and vi...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
+  > AI-Powered Dark Web OSINT Tool
 
 ### [ch3rn0byl](https://github.com/ch3rn0byl)
 - 🌟 👤 [ch3rn0byl](https://github.com/ch3rn0byl) Starred [ic3qu33n/EBC-frnknstn](https://github.com/ic3qu33n/EBC-frnknstn)
@@ -36,6 +38,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [MSNightmare/HardBreacher](https://github.com/MSNightmare/HardBreacher) to [classic130/HardBreacher](https://github.com/classic130/HardBreacher)
   > Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd)
+  > C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX51...
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [uxlfoundation/oneTBB](https://github.com/uxlfoundation/oneTBB)
+  > oneAPI Threading Building Blocks (oneTBB)
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [mransan/ocaml-protoc](https://github.com/mransan/ocaml-protoc)
+  > A Protobuf Compiler for OCaml
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [swoole/typephp](https://github.com/swoole/typephp)
@@ -49,13 +61,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang)
-  > Database-Backed Durable Golang Workflows
-
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [simonlindholm/decomp-permuter](https://github.com/simonlindholm/decomp-permuter)
   > Randomly permute C files to better match a target binary
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [decompme/decomp.me](https://github.com/decompme/decomp.me)
+  > Collaborative decompilation and reverse engineering website
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [frostyplanet/crossfire-rs](https://github.com/frostyplanet/crossfire-rs)
@@ -67,10 +77,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [binius-zk/binius64](https://github.com/binius-zk/binius64)
   > Binary Proofs, Blazing Fast
 
+### [praeclarum](https://github.com/praeclarum)
+- 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [apple/coremltools](https://github.com/apple/coremltools)
+  > Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
+
+### [ri-char](https://github.com/ri-char)
+- 🍴 👤 [ri-char](https://github.com/ri-char) Forked [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) to [ri-char/Hyprland](https://github.com/ri-char/Hyprland)
+  > Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacr...
+
 ### [secretsquirrel](https://github.com/secretsquirrel)
 - 🌟 👤 [secretsquirrel](https://github.com/secretsquirrel) Starred [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli)
 
 
 ---
-*Last updated at 2026-08-29 14:21:14 UTC*
+*Last updated at 2026-08-29 18:17:19 UTC*
 *Historical records are stored in the `archive` directory.*
