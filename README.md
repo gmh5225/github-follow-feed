@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PyInstaller Extractor Next Generation
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [o2sh/onefetch](https://github.com/o2sh/onefetch)
   > Command-line Git information tool
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kolbicz/Cyanide](https://github.com/kolbicz/Cyanide)
+  > iOS tweak runner for kernel research, focused on Kolbicz-maintained tweaks and built on the DarkSwor...
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [C0rk1-AI/VulPentestBench](https://github.com/C0rk1-AI/VulPentestBench)
@@ -31,6 +33,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > OpenVDB - Sparse volume data structure and tools
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [ngcpp/proxy](https://github.com/ngcpp/proxy)
   > Proxy: Next Generation Polymorphism in C++
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [reactor-team/infinite-livestream](https://github.com/reactor-team/infinite-livestream)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [jasonjmcghee/WebMCP](https://github.com/jasonjmcghee/WebMCP)
+  > Early WebMCP proposal / implementation - since evolved and worked on by much more capable folks that...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp)
+  > 🤖 WebMCP
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [quran/quran-mcp](https://github.com/quran/quran-mcp)
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [unschlagbar/pyronyx](https://github.com/unschlagbar/pyronyx)
@@ -64,11 +76,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [JordyZomer/lemmalog](https://github.com/JordyZomer/lemmalog)
   > A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental deriv...
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder)
+  > DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLA...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 
 
 ---
-*Last updated at 2026-08-30 20:53:52 UTC*
+*Last updated at 2026-08-30 23:20:44 UTC*
 *Historical records are stored in the `archive` directory.*
