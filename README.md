@@ -36,6 +36,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [unschlagbar/pyronyx](https://github.com/unschlagbar/pyronyx)
   > Next gen Rust Vulkan bindings
 
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [kanidm/kanidm](https://github.com/kanidm/kanidm)
+  > Kanidm: A simple, secure, and fast identity management platform
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs)
+  > Volatility 3 ported to Rust. Same output, much faster.
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [MobAI-App/simslim](https://github.com/MobAI-App/simslim)
+  > Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [denoland/celld](https://github.com/denoland/celld)
+  > self-hosted, distributed Durable Objects
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [drakoarmy/datadome-rs](https://github.com/drakoarmy/datadome-rs)
+  > High-end Rust DataDome deobfuscator & solver with VM disassembly — all 3 challenge types (tags, inte...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cristeigabriela/bg-be-gone](https://github.com/cristeigabriela/bg-be-gone)
+  > Claude's attempt at making me a local, GPU-backed background remover using BiRefNet. Pretty good!
+
 ### [peperunas](https://github.com/peperunas)
 - 🍴 👤 [peperunas](https://github.com/peperunas) Forked [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) to [peperunas/ast-grep](https://github.com/peperunas/ast-grep)
   > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -50,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-30 17:17:47 UTC*
+*Last updated at 2026-08-30 20:53:52 UTC*
 *Historical records are stored in the `archive` directory.*
