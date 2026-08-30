@@ -8,9 +8,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes)
   > Notes of the book System Desgin Interview - An Insider's Guide
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [zolaware/reblue](https://github.com/zolaware/reblue)
+  > Recompilation of Blue Dragon
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [pyinstxtractor/pyinstxtractor-ng](https://github.com/pyinstxtractor/pyinstxtractor-ng)
   > PyInstaller Extractor Next Generation
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [o2sh/onefetch](https://github.com/o2sh/onefetch)
+  > Command-line Git information tool
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [C0rk1-AI/VulPentestBench](https://github.com/C0rk1-AI/VulPentestBench)
@@ -30,11 +36,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [unschlagbar/pyronyx](https://github.com/unschlagbar/pyronyx)
   > Next gen Rust Vulkan bindings
 
+### [peperunas](https://github.com/peperunas)
+- 🍴 👤 [peperunas](https://github.com/peperunas) Forked [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) to [peperunas/ast-grep](https://github.com/peperunas/ast-grep)
+  > ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [JordyZomer/lemmalog](https://github.com/JordyZomer/lemmalog)
+  > A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental deriv...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 
 
 ---
-*Last updated at 2026-08-30 12:43:44 UTC*
+*Last updated at 2026-08-30 17:17:47 UTC*
 *Historical records are stored in the `archive` directory.*
