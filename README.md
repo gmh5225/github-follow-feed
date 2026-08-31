@@ -84,6 +84,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [paragontasx/qwen38-flash-next-dgx-spark](https://github.com/paragontasx/qwen38-flash-next-dgx-spark)
   > ALPHA — Qwen3.8-Flash-Next (176B MoE, vision, 262K ctx) on a single NVIDIA DGX Spark / GB10 with lla...
 
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🍴 👤 [mattgodbolt](https://github.com/mattgodbolt) Forked [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) to [mattgodbolt/highlight.js](https://github.com/mattgodbolt/highlight.js)
+  > JavaScript syntax highlighter with language auto-detection and zero dependencies.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [thalium/aegis](https://github.com/thalium/aegis)
   > x86-64 test generator
@@ -112,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-08-31 19:54:51 UTC*
+*Last updated at 2026-08-31 23:42:17 UTC*
 *Historical records are stored in the `archive` directory.*
