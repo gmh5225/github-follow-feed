@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math)
   > Techniques and numbers for estimating system's performance from first-principles
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS)
+  > MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [superturtlee/a2tp](https://github.com/superturtlee/a2tp) to [CrackerCat/a2tp](https://github.com/CrackerCat/a2tp)
 
@@ -18,6 +22,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥ Coding agent with the IDE wired in
+
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [svix/svix-webhooks](https://github.com/svix/svix-webhooks)
+  > The open source and enterprise-ready webhooks service 🦀
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [vercel-labs/portless](https://github.com/vercel-labs/portless)
+  > Replace port numbers with stable, named local URLs. For humans and agents.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [djc/oxish](https://github.com/djc/oxish)
@@ -37,7 +52,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [Danilaa1/drawably](https://github.com/Danilaa1/drawably)
   > Hand-drawn UI controls. Every mount generates a fresh pen sketch from seeded randomness, and the str...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [facebookresearch/project_superdex](https://github.com/facebookresearch/project_superdex)
+  > SuperDex brings together a purpose-built physics engine, robotics authoring tools, and a scalable re...
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [lasrod/assurance-forge](https://github.com/lasrod/assurance-forge)
+  > A tool to create assurance cases or safety cases
+
 
 ---
-*Last updated at 2026-09-01 14:41:09 UTC*
+*Last updated at 2026-09-01 18:19:04 UTC*
 *Historical records are stored in the `archive` directory.*
