@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chobits/tapip](https://github.com/chobits/tapip)
   > user-mode TCP/IP stack based on linux tap device
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SpecterOps/skills](https://github.com/SpecterOps/skills)
+  > A marketplace for LLM skills
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Evelynkaz/x64dbg-mcp](https://github.com/Evelynkaz/x64dbg-mcp) to [CrackerCat/x64dbg-mcp-](https://github.com/CrackerCat/x64dbg-mcp-)
@@ -32,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [usememos/memos](https://github.com/usememos/memos)
   > Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and...
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [RevealedSoulEven/promon-string-deobfuscator](https://github.com/RevealedSoulEven/promon-string-deobfuscator)
+  > Promon Shield String Deobfuscator
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
@@ -40,15 +46,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [7777Satish/Aether](https://github.com/7777Satish/Aether)
   > Code Editor in C
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [sapdragon/hint-break](https://github.com/sapdragon/hint-break)
+  > Code proving a 25-year blind spot in all disassemblers. PoC for Intel x64/x86 “ghost instructions.”
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [runta-dev/frontier-harness-eval](https://github.com/runta-dev/frontier-harness-eval)
+  > Public results and task definitions for FrontierHarness Eval
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tommccoy1/discover](https://github.com/tommccoy1/discover)
   > DISsecting COmpositionality in VEctor Representations
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [orion-junkins/ReSTIR-CGNS](https://github.com/orion-junkins/ReSTIR-CGNS)
+  > Source Code for the HPG 2026 Paper "Compatibility-Guided Neighbor Selection for ReSTIR".
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Jebbly/Reservoir-Splatting](https://github.com/Jebbly/Reservoir-Splatting)
+  > Source Code for the SIGGRAPH 2025 Paper "Reservoir Splatting for Temporal Path Resampling and Motion...
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Shmaug/ReSTIR-BDPT](https://github.com/Shmaug/ReSTIR-BDPT)
+  > Bidirectional Path Tracing, with caustics, with ReSTIR
 
-### [karalabe](https://github.com/karalabe)
-- 🚀 👤 [karalabe](https://github.com/karalabe) Made [dark-bio/trust-rs](https://github.com/dark-bio/trust-rs) public
-  > Ecosystem roots of trust in Rust
-- 🍴 👤 [karalabe](https://github.com/karalabe) Forked [dark-bio/trust-rs](https://github.com/dark-bio/trust-rs) to [karalabe/darkbio-trust-rs](https://github.com/karalabe/darkbio-trust-rs)
-  > Ecosystem roots of trust in Rust
+### [jxy-s](https://github.com/jxy-s)
+- 🍴 👤 [jxy-s](https://github.com/jxy-s) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [jxy-s/oh-my-pi](https://github.com/jxy-s/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jayminwest/warren](https://github.com/jayminwest/warren)
@@ -61,6 +79,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Local-first search across your workspace, built for humans and AI agents.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
   > GLM-5.3 Flash EXL3 for 2x DGX Sparks
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
+  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [awakecoding/rdp-dvc-plugin-samples](https://github.com/awakecoding/rdp-dvc-plugin-samples)
@@ -92,8 +112,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr)
   > A code-review + file-viewer sidebar for herdr — comment on an agent's diff, send it back. Plus a rea...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate)
+  > Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight ...
 
 
 ---
-*Last updated at 2026-09-02 18:31:25 UTC*
+*Last updated at 2026-09-02 21:41:51 UTC*
 *Historical records are stored in the `archive` directory.*
