@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs)
+  > Volatility 3 ported to Rust. Same output, much faster.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chobits/tapip](https://github.com/chobits/tapip)
   > user-mode TCP/IP stack based on linux tap device
@@ -32,15 +36,31 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
 
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)
-  > Jailbreak supported Google Pixel phones with CVE-2026-43499
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [7777Satish/Aether](https://github.com/7777Satish/Aether)
+  > Code Editor in C
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tommccoy1/discover](https://github.com/tommccoy1/discover)
+  > DISsecting COmpositionality in VEctor Representations
+
+### [karalabe](https://github.com/karalabe)
+- 🚀 👤 [karalabe](https://github.com/karalabe) Made [dark-bio/trust-rs](https://github.com/dark-bio/trust-rs) public
+  > Ecosystem roots of trust in Rust
+- 🍴 👤 [karalabe](https://github.com/karalabe) Forked [dark-bio/trust-rs](https://github.com/dark-bio/trust-rs) to [karalabe/darkbio-trust-rs](https://github.com/karalabe/darkbio-trust-rs)
+  > Ecosystem roots of trust in Rust
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jayminwest/warren](https://github.com/jayminwest/warren)
   > Run coding agents like infrastructure, not terminal sessions. Warren manages isolation, lifecycle, s...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)
   > Autonomous research system for measurable, computer-executable research.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
+  > Local-first search across your workspace, built for humans and AI agents.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
+  > GLM-5.3 Flash EXL3 for 2x DGX Sparks
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [awakecoding/rdp-dvc-plugin-samples](https://github.com/awakecoding/rdp-dvc-plugin-samples)
@@ -65,8 +85,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [jprx/qemu-sptm](https://github.com/jprx/qemu-sptm)
   > Qemu fork with support for Apple Silicon (iOS/ macOS)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [ranweiler/fmaemu](https://github.com/ranweiler/fmaemu)
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [osolmaz/pi-workflows](https://github.com/osolmaz/pi-workflows)
+  > Workflow engine, JSON control-flow tool, and live terminal viewer for the pi coding agent
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [persiyanov/herdr-reviewr](https://github.com/persiyanov/herdr-reviewr)
+  > A code-review + file-viewer sidebar for herdr — comment on an agent's diff, send it back. Plus a rea...
 
 
 ---
-*Last updated at 2026-09-02 14:15:48 UTC*
+*Last updated at 2026-09-02 18:31:25 UTC*
 *Historical records are stored in the `archive` directory.*
