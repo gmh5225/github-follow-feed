@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math)
   > Techniques and numbers for estimating system's performance from first-principles
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [elyosh/OpenXWA](https://github.com/elyosh/OpenXWA)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [elyosh/OpenTIE](https://github.com/elyosh/OpenTIE)
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [synzen/MonitoRSS](https://github.com/synzen/MonitoRSS)
   > MonitoRSS RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz
@@ -49,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mickadesign/fluid-functionalism](https://github.com/mickadesign/fluid-functionalism)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [ByteDance-Seed/Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)
+  > Depth Anything 3
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [djc/oxish](https://github.com/djc/oxish)
@@ -75,7 +81,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Liquid4All/lqh](https://github.com/Liquid4All/lqh)
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [facebookresearch/project_superdex](https://github.com/facebookresearch/project_superdex)
@@ -85,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-01 21:41:05 UTC*
+*Last updated at 2026-09-01 23:56:15 UTC*
 *Historical records are stored in the `archive` directory.*
