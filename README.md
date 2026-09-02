@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chobits/tapip](https://github.com/chobits/tapip)
+  > user-mode TCP/IP stack based on linux tap device
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Evelynkaz/x64dbg-mcp](https://github.com/Evelynkaz/x64dbg-mcp) to [CrackerCat/x64dbg-mcp-](https://github.com/CrackerCat/x64dbg-mcp-)
   > x64dbg-mcp write by AI (haha)
@@ -28,19 +32,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
   > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
 
-### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [sand-head/gecko](https://github.com/sand-head/gecko)
-  > A GameCube/Wii emulator and debugger written in Rust.
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [alex193a/Root-My-Pixel](https://github.com/alex193a/Root-My-Pixel)
+  > Jailbreak supported Google Pixel phones with CVE-2026-43499
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [jayminwest/warren](https://github.com/jayminwest/warren)
   > Run coding agents like infrastructure, not terminal sessions. Warren manages isolation, lifecycle, s...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)
   > Autonomous research system for measurable, computer-executable research.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jayminwest/warren](https://github.com/jayminwest/warren)
-  > Run coding agents like infrastructure, not terminal sessions. Warren manages isolation, lifecycle, s...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [awakecoding/rdp-dvc-plugin-samples](https://github.com/awakecoding/rdp-dvc-plugin-samples)
@@ -54,6 +54,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [getlantern/winproxy](https://github.com/getlantern/winproxy)
   > Executable for manipulating Windows system proxy settings. This uses wininet and allows the setting ...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [fmtlib/fmt](https://github.com/fmtlib/fmt)
+  > A modern formatting library
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [danialkhilji/HomeOS](https://github.com/danialkhilji/HomeOS)
+  > HomeOS is a smart family dashboard designed to simplify household management by bringing chores, gro...
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [jprx/darwin-vm](https://github.com/jprx/darwin-vm)
   > Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
@@ -62,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-02 09:24:48 UTC*
+*Last updated at 2026-09-02 14:15:48 UTC*
 *Historical records are stored in the `archive` directory.*
