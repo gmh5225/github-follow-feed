@@ -20,9 +20,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [SaadAhla](https://github.com/SaadAhla) Starred [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)
   > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
 
-### [XINCGer](https://github.com/XINCGer)
-- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [0x5477/deepseek-v4-pro-unrestricted](https://github.com/0x5477/deepseek-v4-pro-unrestricted)
-  > DeepSeek v4 Pro 破甲提示词及测试包 — jailbreak prompts and test suite for DeepSeek
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [swarm-subnet/Langostino](https://github.com/swarm-subnet/Langostino)
+  > Langostino - An open-source autonomous drone platform using ROS2 and AI-powered flight control. A co...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) to [classic130/CyberStrike](https://github.com/classic130/CyberStrike)
@@ -36,10 +36,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb)
   > ADB in your browser
 
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [R44VC0RP/browserooms](https://github.com/R44VC0RP/browserooms)
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [dtmsecurity/badpie](https://github.com/dtmsecurity/badpie)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SpecterOps/skills](https://github.com/SpecterOps/skills)
   > A marketplace for LLM skills
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [cosmos/evm](https://github.com/cosmos/evm)
+  > An EVM compatible framework for blockchain development with the Cosmos SDK
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [endrazine/wsolver](https://github.com/endrazine/wsolver)
@@ -59,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-03 18:27:31 UTC*
+*Last updated at 2026-09-03 21:37:07 UTC*
 *Historical records are stored in the `archive` directory.*
