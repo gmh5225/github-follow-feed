@@ -74,14 +74,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST)
   > Autonomous research system for measurable, computer-executable research.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep)
-  > Local-first search across your workspace, built for humans and AI agents.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
-  > GLM-5.3 Flash EXL3 for 2x DGX Sparks
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/atlas](https://github.com/alesha-pro/atlas)
-  > Interactive canvas for taking an LLM apart tensor by tensor: measured INT8/INT4/FP8 error, distribut...
-
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [awakecoding/rdp-dvc-plugin-samples](https://github.com/awakecoding/rdp-dvc-plugin-samples)
   > Examples of RDP Dynamic Virtual Channel plugins across 7 languages and multiple COM activation model...
@@ -115,7 +107,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [plannotator/herdr-annotate](https://github.com/plannotator/herdr-annotate)
   > Annotate terminal text, review documents and agent replies in Herdr, and send the feedback straight ...
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike)
+  > Open-source AI-powered offensive security harness for automated penetration testing.
+
 
 ---
-*Last updated at 2026-09-02 21:41:51 UTC*
+*Last updated at 2026-09-02 23:58:52 UTC*
 *Historical records are stored in the `archive` directory.*
