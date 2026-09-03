@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)
+  > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)
   > Crowdstrike Falcon 0day Privilege Escalation Vulnerability
@@ -20,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [0x5477/deepseek-v4-pro-unrestricted](https://github.com/0x5477/deepseek-v4-pro-unrestricted)
   > DeepSeek v4 Pro 破甲提示词及测试包 — jailbreak prompts and test suite for DeepSeek
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike) to [classic130/CyberStrike](https://github.com/classic130/CyberStrike)
+  > Open-source AI-powered offensive security harness for automated penetration testing.
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot)
   > 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated "honeypot" channe...
@@ -30,15 +38,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [dtmsecurity/badpie](https://github.com/dtmsecurity/badpie)
-
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [lstalmir/VulkanProfiler](https://github.com/lstalmir/VulkanProfiler)
-  > Real-time GPU profiling layer for Vulkan applications.
-
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NyxFoundation/formal-leanSpec](https://github.com/NyxFoundation/formal-leanSpec)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [audacity/audacity](https://github.com/audacity/audacity)
-  > Audio Editor                                     
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [SpecterOps/skills](https://github.com/SpecterOps/skills)
+  > A marketplace for LLM skills
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [endrazine/wsolver](https://github.com/endrazine/wsolver)
@@ -58,5 +59,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-03 14:19:32 UTC*
+*Last updated at 2026-09-03 18:27:31 UTC*
 *Historical records are stored in the `archive` directory.*
