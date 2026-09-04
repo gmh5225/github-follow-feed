@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [ADScanPro/Claude-AD](https://github.com/ADScanPro/Claude-AD)
   > Active Directory pentest methodology for Claude Code: skills, agents and slash commands for internal...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [systembad403/Coruna6](https://github.com/systembad403/Coruna6)
+  > Coruna 管理系统
 
 ### [SaadAhla](https://github.com/SaadAhla)
 - 🌟 👤 [SaadAhla](https://github.com/SaadAhla) Starred [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank)
@@ -36,8 +38,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb)
   > ADB in your browser
 
-### [hypervisor](https://github.com/hypervisor)
-- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [R44VC0RP/browserooms](https://github.com/R44VC0RP/browserooms)
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsnake/omill](https://github.com/binsnake/omill)
+  > Binary lifter and deobfuscator using remill for x86_64 Windows binaries
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [KiCad/kicad-source-mirror](https://github.com/KiCad/kicad-source-mirror)
+  > This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every t...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [dtmsecurity/badpie](https://github.com/dtmsecurity/badpie)
@@ -66,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-03 21:37:07 UTC*
+*Last updated at 2026-09-03 23:54:11 UTC*
 *Historical records are stored in the `archive` directory.*
