@@ -14,17 +14,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [TheCruZ/BootViewer](https://github.com/TheCruZ/BootViewer)
   > Windows Measured Boot viewer & TPM verifier. See exactly what your PC measured at boot. Decode the W...
 
+### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
+- 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [ADScanPro/adscan](https://github.com/ADScanPro/adscan)
+  > Free Active Directory pentesting tool for Linux. Automates AD and LDAP enumeration, Kerberoasting, A...
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [reindertpelsma/nvkvm-pv](https://github.com/reindertpelsma/nvkvm-pv)
   > Paravirtual NVIDIA GPU for KVM guests — run unmodified CUDA, PyTorch and Vulkan inside a VM at host ...
 
-### [lazyparser](https://github.com/lazyparser)
-- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [YuzukiHD/YuzukiNeko](https://github.com/YuzukiHD/YuzukiNeko)
-  > YuzukiNeko is a cute pico-sized board with Allwinner F101S3-CXX
-- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [sifiveinc/skl](https://github.com/sifiveinc/skl)
-  > SiFive Kernel Library
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Ignitetechnologies/Windows-Privilege-Escalation](https://github.com/Ignitetechnologies/Windows-Privilege-Escalation)
+
+### [mq1n](https://github.com/mq1n)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [SecretiveShell/Awesome-llms-txt](https://github.com/SecretiveShell/Awesome-llms-txt) to [mq1n/Awesome-llms-txt](https://github.com/mq1n/Awesome-llms-txt)
+  > This list contains an index of llms.txt files hosted on various websites, to be used as seed data.
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) to [mq1n/llms-txt-hub](https://github.com/mq1n/llms-txt-hub)
+  > 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt stan...
 
 
 ---
-*Last updated at 2026-09-05 12:32:42 UTC*
+*Last updated at 2026-09-05 15:53:56 UTC*
 *Historical records are stored in the `archive` directory.*
