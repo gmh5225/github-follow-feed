@@ -14,21 +14,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [TheCruZ/BootViewer](https://github.com/TheCruZ/BootViewer)
   > Windows Measured Boot viewer & TPM verifier. See exactly what your PC measured at boot. Decode the W...
 
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [aosabook/500lines](https://github.com/aosabook/500lines)
-  > 500 Lines or Less
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [reindertpelsma/nvkvm-pv](https://github.com/reindertpelsma/nvkvm-pv)
   > Paravirtual NVIDIA GPU for KVM guests — run unmodified CUDA, PyTorch and Vulkan inside a VM at host ...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [fitchmultz/pi-posthorse](https://github.com/fitchmultz/pi-posthorse)
-  > Posthorse: fresh context, same journey. Native no-summary context windows for the fitchmultz/pi fork...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Vsimpro/poetriage](https://github.com/Vsimpro/poetriage)
-  > Incident Response that rhymes. LLM assisted file analysis, all packaged up for you.
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [YuzukiHD/YuzukiNeko](https://github.com/YuzukiHD/YuzukiNeko)
+  > YuzukiNeko is a cute pico-sized board with Allwinner F101S3-CXX
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [sifiveinc/skl](https://github.com/sifiveinc/skl)
+  > SiFive Kernel Library
 
 
 ---
-*Last updated at 2026-09-05 08:54:50 UTC*
+*Last updated at 2026-09-05 12:32:42 UTC*
 *Historical records are stored in the `archive` directory.*
