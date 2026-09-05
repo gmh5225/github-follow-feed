@@ -42,6 +42,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [karalabe](https://github.com/karalabe) Forked [RustCrypto/stream-ciphers](https://github.com/RustCrypto/stream-ciphers) to [karalabe/rustcrypto-stream-ciphers](https://github.com/karalabe/rustcrypto-stream-ciphers)
   > Collection of stream cipher algorithms
 
+### [leodemoura](https://github.com/leodemoura)
+- 🌟 👤 [leodemoura](https://github.com/leodemoura) Starred [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem)
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Ignitetechnologies/Windows-Privilege-Escalation](https://github.com/Ignitetechnologies/Windows-Privilege-Escalation)
 
@@ -50,10 +53,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > This list contains an index of llms.txt files hosted on various websites, to be used as seed data.
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) to [mq1n/llms-txt-hub](https://github.com/mq1n/llms-txt-hub)
   > 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt stan...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
-  > Drift Corpus : repository of Windows Kernel patch diffs.
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) to [mq1n/awesome-mcp-servers](https://github.com/mq1n/awesome-mcp-servers)
+  > A collection of MCP servers.
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) to [mq1n/awesome-agents](https://github.com/mq1n/awesome-agents)
+  > 🤖 Awesome list of AI Agents
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [AlexMili/Awesome-MCP](https://github.com/AlexMili/Awesome-MCP) to [mq1n/Awesome-MCP](https://github.com/mq1n/Awesome-MCP)
+  > Awesome ModelContextProtocol resources - A curated list of MCP resources
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [tinyBigGAMES/Myrissa](https://github.com/tinyBigGAMES/Myrissa)
@@ -67,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-05 21:04:21 UTC*
+*Last updated at 2026-09-05 23:43:49 UTC*
 *Historical records are stored in the `archive` directory.*
