@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection)
+  > The community's most comprehensive, continuously-updated index of research on Large Language Models ...
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [SpecterOps/skills](https://github.com/SpecterOps/skills)
   > A marketplace for LLM skills
@@ -56,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-04 21:19:59 UTC*
+*Last updated at 2026-09-04 23:53:01 UTC*
 *Historical records are stored in the `archive` directory.*
