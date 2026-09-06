@@ -22,6 +22,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
   > Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memo...
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [frida/frida](https://github.com/frida/frida)
+  > Main repo for hosting release binaries
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
+  > A GameCube/Wii emulator and debugger written in Rust.
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Convert PS5 executables to run natively on Linux
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [yayaiu6/Real-Time-Quran-recitation-tracker-System](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System)
   > An open-source AI system enabling real time Quran recitation tracking, word-level alignment, error d...
@@ -35,13 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yo...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
-  > Emulation framework for Android & iOS native libraries
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pavel-fokin/percept](https://github.com/pavel-fokin/percept)
-  > A cognitive architecture for AI agents: typed projections, mental models, and memory
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
-  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuixiAI/open-gpu-kernel-modules](https://github.com/QuixiAI/open-gpu-kernel-modules)
+  > P2P support for nvidia consumer cards
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mq1n/Awesome-MCP](https://github.com/mq1n/Awesome-MCP)
@@ -73,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-06 16:50:17 UTC*
+*Last updated at 2026-09-06 18:59:37 UTC*
 *Historical records are stored in the `archive` directory.*
