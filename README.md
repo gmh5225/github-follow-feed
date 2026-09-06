@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vsimpro/poetriage](https://github.com/Vsimpro/poetriage)
   > Incident Response that rhymes. LLM assisted file analysis, all packaged up for you.
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
+  > PlayStation 5 emulator for Windows, Linux and MacOS
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro)
   > 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLES...
@@ -21,16 +25,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yo...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
   > Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memo...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
+  > The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving coding agents a ranked, d...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [frida/frida](https://github.com/frida/frida)
   > Main repo for hosting release binaries
 
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [ioncodes/gecko](https://github.com/ioncodes/gecko)
-  > A GameCube/Wii emulator and debugger written in Rust.
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-  > Convert PS5 executables to run natively on Linux
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [OpenSteam001/OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool)
+  > Open Source Steam Unlocker
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [aftermathlabs/bintests](https://github.com/aftermathlabs/bintests)
+  > A large collection of 32bit and 64bit PE files useful for verifying the correctness of bin2bin trans...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [rockorager/waymote](https://github.com/rockorager/waymote)
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [yayaiu6/Real-Time-Quran-recitation-tracker-System](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System)
@@ -43,10 +54,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle)
   > Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yo...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [QuixiAI/open-gpu-kernel-modules](https://github.com/QuixiAI/open-gpu-kernel-modules)
-  > P2P support for nvidia consumer cards
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mq1n/Awesome-MCP](https://github.com/mq1n/Awesome-MCP)
@@ -78,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-06 18:59:37 UTC*
+*Last updated at 2026-09-06 21:15:09 UTC*
 *Historical records are stored in the `archive` directory.*
