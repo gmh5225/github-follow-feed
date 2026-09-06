@@ -40,9 +40,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [aftermathlabs/bintests](https://github.com/aftermathlabs/bintests)
   > A large collection of 32bit and 64bit PE files useful for verifying the correctness of bin2bin trans...
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [rockorager/waymote](https://github.com/rockorager/waymote)
-
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [yayaiu6/Real-Time-Quran-recitation-tracker-System](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System)
   > An open-source AI system enabling real time Quran recitation tracking, word-level alignment, error d...
@@ -83,7 +80,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [tigerlang/dragon](https://github.com/tigerlang/dragon)
   > Dragon Microkernel
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+  > Write HTML. Render video. Built for agents.
+
 
 ---
-*Last updated at 2026-09-06 21:15:09 UTC*
+*Last updated at 2026-09-06 23:42:31 UTC*
 *Historical records are stored in the `archive` directory.*
