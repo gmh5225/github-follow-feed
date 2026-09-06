@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CodyCloudSrls](https://github.com/CodyCloudSrls)
+- 🌟 👤 [CodyCloudSrls](https://github.com/CodyCloudSrls) Starred [geoffwatts/ninfer-v100](https://github.com/geoffwatts/ninfer-v100)
+  > High-performance single-GPU inference for selected model checkpoints and GPUs.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vsimpro/poetriage](https://github.com/Vsimpro/poetriage)
   > Incident Response that rhymes. LLM assisted file analysis, all packaged up for you.
@@ -18,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
   > Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memo...
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [yayaiu6/Real-Time-Quran-recitation-tracker-System](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System)
+  > An open-source AI system enabling real time Quran recitation tracking, word-level alignment, error d...
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
   > Drift Corpus : repository of Windows Kernel patch diffs.
@@ -30,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
   > Emulation framework for Android & iOS native libraries
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pavel-fokin/percept](https://github.com/pavel-fokin/percept)
+  > A cognitive architecture for AI agents: typed projections, mental models, and memory
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [affaan-m/ECC](https://github.com/affaan-m/ECC)
+  > The agent harness performance optimization system. Skills, instincts, memory, security, and research...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mq1n/Awesome-MCP](https://github.com/mq1n/Awesome-MCP)
@@ -42,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Toy VM protector + IR viewer for your own PE64 binaries (educational/dev tool)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kernullist/oh-my-qwen-linux](https://github.com/kernullist/oh-my-qwen-linux)
   > Local coding agent UI for LM Studio: a chat that reads, edits, builds and tests your project with a ...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Oraclizer/erc-trust](https://github.com/Oraclizer/erc-trust)
+  > ERC-TRUST: a proposed Ethereum standard for typed regulatory actions and verifiable receipts on secu...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer)
@@ -57,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-06 13:31:29 UTC*
+*Last updated at 2026-09-06 16:50:17 UTC*
 *Historical records are stored in the `archive` directory.*
