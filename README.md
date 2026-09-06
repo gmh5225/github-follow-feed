@@ -8,21 +8,28 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vsimpro/poetriage](https://github.com/Vsimpro/poetriage)
   > Incident Response that rhymes. LLM assisted file analysis, all packaged up for you.
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro)
+  > 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLES...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle)
   > Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yo...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
+  > Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memo...
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
   > Drift Corpus : repository of Windows Kernel patch diffs.
 
-### [karalabe](https://github.com/karalabe)
-- 🍴 👤 [karalabe](https://github.com/karalabe) Forked [rozbb/rust-hpke](https://github.com/rozbb/rust-hpke) to [karalabe/rozbb-rust-hpke](https://github.com/karalabe/rozbb-rust-hpke)
-  > An implementation of the HPKE hybrid encryption standard (RFC 9180)
-
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle)
   > Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yo...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [retrowave3/emulite](https://github.com/retrowave3/emulite)
+  > Emulation framework for Android & iOS native libraries
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JustasMasiulis/jsdmp](https://github.com/JustasMasiulis/jsdmp)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mq1n/Awesome-MCP](https://github.com/mq1n/Awesome-MCP)
@@ -44,7 +51,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer)
   > NVIDIA DLSS 5 Neural Rendering (NGX feature 18) as ComfyUI nodes. Enhance image batches and video fi...
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [tigerlang/dragon](https://github.com/tigerlang/dragon)
+  > Dragon Microkernel
+
 
 ---
-*Last updated at 2026-09-06 09:15:47 UTC*
+*Last updated at 2026-09-06 13:31:29 UTC*
 *Historical records are stored in the `archive` directory.*
