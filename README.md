@@ -56,11 +56,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [n01e0](https://github.com/n01e0) Starred [jimrandomh/faceclaw](https://github.com/jimrandomh/faceclaw)
   > Custom user interface for the Even Realities G2 smart glasses
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [siriokds/GearSF7000-devel](https://github.com/siriokds/GearSF7000-devel)
+- 🍴 👤 [ocornut](https://github.com/ocornut) Forked [siriokds/GearSF7000-devel](https://github.com/siriokds/GearSF7000-devel) to [ocornut/GearSF7000-devel](https://github.com/ocornut/GearSF7000-devel)
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [google-research/timesfm](https://github.com/google-research/timesfm)
   > TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo...
 
 
 ---
-*Last updated at 2026-09-07 16:21:50 UTC*
+*Last updated at 2026-09-07 20:25:56 UTC*
 *Historical records are stored in the `archive` directory.*
