@@ -1,90 +1,23 @@
-# Daily GitHub Activity (2026-09-06)
+# Daily GitHub Activity (2026-09-07)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [CodyCloudSrls](https://github.com/CodyCloudSrls)
-- 🌟 👤 [CodyCloudSrls](https://github.com/CodyCloudSrls) Starred [geoffwatts/ninfer-v100](https://github.com/geoffwatts/ninfer-v100)
-  > High-performance single-GPU inference for selected model checkpoints and GPUs.
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cli0xfa/simple-krw-vuln](https://github.com/cli0xfa/simple-krw-vuln) to [CrackerCat/simple-krw-vuln](https://github.com/CrackerCat/simple-krw-vuln)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [boxiaolanya2008/CVE-2026-43499-Neo11Plus](https://github.com/boxiaolanya2008/CVE-2026-43499-Neo11Plus) to [CrackerCat/CVE-2026-43499-Neo11Plus](https://github.com/CrackerCat/CVE-2026-43499-Neo11Plus)
+  > the CVE-2026-43499 by iqooneo11
 
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vsimpro/poetriage](https://github.com/Vsimpro/poetriage)
-  > Incident Response that rhymes. LLM assisted file analysis, all packaged up for you.
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [cocomelonc/meow](https://github.com/cocomelonc/meow)
+  > Cybersecurity research results. Simple C/C++ and Python implementations
 
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5)
-  > PlayStation 5 emulator for Windows, Linux and MacOS
-
-### [Mr-xn](https://github.com/Mr-xn)
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro)
-  > 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLES...
-
-### [byt3bl33d3r](https://github.com/byt3bl33d3r)
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle)
-  > Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yo...
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory)
-  > Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memo...
-- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [redhat-et/ripwire](https://github.com/redhat-et/ripwire)
-  > The ripgrep of AI context: a zero-dependency C++23 CLI + MCP server giving coding agents a ranked, d...
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [frida/frida](https://github.com/frida/frida)
-  > Main repo for hosting release binaries
-
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [OpenSteam001/OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool)
-  > Open Source Steam Unlocker
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [aftermathlabs/bintests](https://github.com/aftermathlabs/bintests)
-  > A large collection of 32bit and 64bit PE files useful for verifying the correctness of bin2bin trans...
-
-### [ikrima](https://github.com/ikrima)
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [yayaiu6/Real-Time-Quran-recitation-tracker-System](https://github.com/yayaiu6/Real-Time-Quran-recitation-tracker-System)
-  > An open-source AI system enabling real time Quran recitation tracking, word-level alignment, error d...
-
-### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [ByteRay-AI/drift-corpus](https://github.com/ByteRay-AI/drift-corpus)
-  > Drift Corpus : repository of Windows Kernel patch diffs.
-
-### [lightclient](https://github.com/lightclient)
-- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [cloud-in-a-bottle/cloud-in-a-bottle](https://github.com/cloud-in-a-bottle/cloud-in-a-bottle)
-  > Deploy, use, and share web apps on a server you control. Your apps, data, and infrastructure stay yo...
-
-### [odzhan](https://github.com/odzhan)
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mq1n/Awesome-MCP](https://github.com/mq1n/Awesome-MCP)
-  > Awesome ModelContextProtocol resources - A curated list of MCP resources
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mq1n/awesome-agents](https://github.com/mq1n/awesome-agents)
-  > 🤖 Awesome list of AI Agents
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mq1n/field-notes-mcp](https://github.com/mq1n/field-notes-mcp)
-  > Standalone MCP server for the field-notes agent message board
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kernullist/KnVest](https://github.com/kernullist/KnVest)
-  > Toy VM protector + IR viewer for your own PE64 binaries (educational/dev tool)
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [kernullist/oh-my-qwen-linux](https://github.com/kernullist/oh-my-qwen-linux)
-  > Local coding agent UI for LM Studio: a chat that reads, edits, builds and tests your project with a ...
-
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Oraclizer/erc-trust](https://github.com/Oraclizer/erc-trust)
-  > ERC-TRUST: a proposed Ethereum standard for typed regulatory actions and verifiable receipts on secu...
-
-### [petercunha](https://github.com/petercunha)
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Merserk/dlss5-visual-enhancer](https://github.com/Merserk/dlss5-visual-enhancer)
-  > DLSS 5 Neural Video & Image Enhancer with Frame Interpolation
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Merserk/BeatSync-Engine](https://github.com/Merserk/BeatSync-Engine)
-  > BeatSync Engine is a portable AI video editor that automatically creates beat-synced AMV, GMV, and m...
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Blueforcer/ComfyUI-DLSS5-Enhancer](https://github.com/Blueforcer/ComfyUI-DLSS5-Enhancer)
-  > NVIDIA DLSS 5 Neural Rendering (NGX feature 18) as ComfyUI nodes. Enhance image batches and video fi...
-
-### [rochus-keller](https://github.com/rochus-keller)
-- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [tigerlang/dragon](https://github.com/tigerlang/dragon)
-  > Dragon Microkernel
-
-### [tiagosiebler](https://github.com/tiagosiebler)
-- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
-  > Write HTML. Render video. Built for agents.
+### [n01e0](https://github.com/n01e0)
+- 🌟 👤 [n01e0](https://github.com/n01e0) Starred [riii111/sabiql](https://github.com/riii111/sabiql)
+  > Fast, safe-by-design, Vim-first TUI for PostgreSQL, MySQL, and SQLite, built in Rust.
 
 
 ---
-*Last updated at 2026-09-06 23:42:31 UTC*
+*Last updated at 2026-09-07 04:10:58 UTC*
 *Historical records are stored in the `archive` directory.*
