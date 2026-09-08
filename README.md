@@ -46,15 +46,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [danilogcrf2-oss/ESP32Synth](https://github.com/danilogcrf2-oss/ESP32Synth)
   > Polyphonic synthesizer with up to 350 voices/channels for the ESP32 dual core family, offering high-...
 
-### [killvxk](https://github.com/killvxk)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [denoland/celld](https://github.com/denoland/celld)
-  > self-hosted, distributed Durable Objects
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Weschera/Qwen3.8-Flash-Next-1x-DGX-Spark](https://github.com/Weschera/Qwen3.8-Flash-Next-1x-DGX-Spark)
-  > Qwen3.8-Flash-Next (125B MoE, 6B active) on a single NVIDIA DGX Spark: llama.cpp qwen4exp/mtp + Unsl...
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [crabbuild/crab](https://github.com/crabbuild/crab)
-  > Serverless Git for large files: store models, datasets, and assets in your own S3, GCS, Azure, or S3...
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Chasen-Liao/pi-agent-desktop](https://github.com/Chasen-Liao/pi-agent-desktop)
-  > Pi Agent Desktop — 基于 Electron 的 Pi 编程智能体桌面客户端 (衍生自 pi-web)
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [Z-Anatomy/Models-of-human-anatomy](https://github.com/Z-Anatomy/Models-of-human-anatomy)
+  > Human male model
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly)
@@ -73,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-08 18:28:09 UTC*
+*Last updated at 2026-09-08 21:44:42 UTC*
 *Historical records are stored in the `archive` directory.*
