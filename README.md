@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [pgraug/dhyve-src](https://github.com/pgraug/dhyve-src)
 
+### [farzaa](https://github.com/farzaa)
+- 🌟 👤 [farzaa](https://github.com/farzaa) Starred [doldecomp/melee](https://github.com/doldecomp/melee)
+  > A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
   > Android complete exploit chain that enables privilege escalation from a local untrusted app to root/...
@@ -48,6 +52,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [ashemag/human-atlas](https://github.com/ashemag/human-atlas)
   > Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exp...
 
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🍴 👤 [mattgodbolt](https://github.com/mattgodbolt) Forked [waitingforvsync/baron](https://github.com/waitingforvsync/baron) to [mattgodbolt/baron](https://github.com/mattgodbolt/baron)
+- 🍴 👤 [mattgodbolt](https://github.com/mattgodbolt) Forked [waitingforvsync/richc](https://github.com/waitingforvsync/richc) to [mattgodbolt/richc](https://github.com/mattgodbolt/richc)
+  > A helper library for C17 projects
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
   > Stuxnet, Here reproduced by me, Only for researchs educations purposes. It set work on WindowsXP and...
@@ -55,18 +64,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Proof-of-Concept tool for extracting credential material from protected sessions on modern Windows s...
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik)
-  > A Modern C11 compiler (STILL EARLY)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/Dragons-vs-VMs](https://github.com/Fare9/Dragons-vs-VMs)
+  > Scripts, notes, and other files about the analysis of VMProtect with Dragon Tales
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales-web](https://github.com/Fare9/dragon-tales-web)
+  > Website with dragon-tales documentation and manual
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/My-Symbolic-Execution](https://github.com/Fare9/My-Symbolic-Execution)
+  > My repository to store all the examples I do about symbolic execution
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [noahware/emu](https://github.com/noahware/emu)
+  > ARM64 instruction emulator written in modern c++.
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/emu](https://github.com/noahware/emu)
   > ARM64 instruction emulator written in modern c++.
-
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ElementsProject/elements](https://github.com/ElementsProject/elements)
-  > Open-source implementation of advanced blockchain features extending the Bitcoin protocol
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
-  > A spy satellite simulator in your browser, except the data is real. Live open source spatial intelli...
 
 ### [petercunha](https://github.com/petercunha)
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/dlss-media-player](https://github.com/petercunha/dlss-media-player) public
@@ -75,6 +84,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Media player with DLSS neural enhancement, live RTX VSR/HDR, Streamlink playback, and optional RIFE ...
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [petercunha/streamrecorder-ts](https://github.com/petercunha/streamrecorder-ts)
   > Record livestreams when they go live! Open source alternative to streamrecorder.io - Supports Twitch...
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [aeron-io/simple-binary-encoding](https://github.com/aeron-io/simple-binary-encoding)
+  > Simple Binary Encoding (SBE) - High Performance Message Codec
+
+### [praeclarum](https://github.com/praeclarum)
+- 🌟 👤 [praeclarum](https://github.com/praeclarum) Starred [tlbx-ai/tlbx](https://github.com/tlbx-ai/tlbx)
+  > Self-hosted terminal browser multiplexer for persistent shells and coding agents on Windows, macOS, ...
 
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [ADCDS/openwrt-xiaomi-ax3000t-rd03v2](https://github.com/ADCDS/openwrt-xiaomi-ax3000t-rd03v2)
@@ -86,5 +103,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-09 18:27:23 UTC*
+*Last updated at 2026-09-09 21:36:27 UTC*
 *Historical records are stored in the `archive` directory.*
