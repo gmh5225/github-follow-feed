@@ -4,6 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+  > A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99:...
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [outflanknl/ntlmrain](https://github.com/outflanknl/ntlmrain)
+  > Recover NT hashes from NetNTLMv1 responses using local WebGPU computation and local/remote table loo...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c)
+  > A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99:...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mobilehackinglab/CVE-2026-28576-poc](https://github.com/mobilehackinglab/CVE-2026-28576-poc) to [CrackerCat/CVE-2026-28576-poc](https://github.com/CrackerCat/CVE-2026-28576-poc)
   > SQL injection vulnerability in Android 17 (AOSP)
@@ -17,6 +27,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > secrep by Fyyre. for rebuilding sections in unpacked binaries
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [RealNeGate/Cuik](https://github.com/RealNeGate/Cuik)
   > A Modern C11 compiler (STILL EARLY)
+
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [pgraug/dhyve-src](https://github.com/pgraug/dhyve-src)
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [LSPosed/LSPromise](https://github.com/LSPosed/LSPromise)
@@ -73,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-09 14:20:51 UTC*
+*Last updated at 2026-09-09 18:27:23 UTC*
 *Historical records are stored in the `archive` directory.*
