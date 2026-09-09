@@ -20,10 +20,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
-### [dcbuild3r](https://github.com/dcbuild3r)
-- 🍴 👤 [dcbuild3r](https://github.com/dcbuild3r) Forked [z-tech/spongefish](https://github.com/z-tech/spongefish) to [worldfnd/spongefish](https://github.com/worldfnd/spongefish)
-  > Fiat-Shamir for the masses.
-
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [pop-rip/vtil2](https://github.com/pop-rip/vtil2)
   > VTIL2 is a ground-up reimagination of the VTIL Project, completely rewritten in modern C# with enter...
@@ -31,10 +27,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [microsoft/tgrep](https://github.com/microsoft/tgrep)
   > Trigram-indexed grep with a client/server architecture for fast regex search in large codebases loca...
-
-### [es3n1n](https://github.com/es3n1n)
-- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ZXShady/enchantum](https://github.com/ZXShady/enchantum)
-  > Faster enum reflection for C++17 since I don't want to wait for C++26 reflection.
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [perplexityai/numbat](https://github.com/perplexityai/numbat)
@@ -58,6 +50,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [z0r0z/cell](https://github.com/z0r0z/cell)
   > a hardware wallet that takes your pulse or blood to secure transactions - oh the humanity!
 
+### [peperunas](https://github.com/peperunas)
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [thebabush/nonna](https://github.com/thebabush/nonna)
+  > Stop your agent from reinventing the standard library. Example-based structural code search — reuse-...
+
+### [wbenny](https://github.com/wbenny)
+- 🚀 👤 [wbenny](https://github.com/wbenny) Made [vmi-rs/debian-xen](https://github.com/vmi-rs/debian-xen) public
+  > Xen packaging for Debian
+
 ### [weltling](https://github.com/weltling)
 - 🍴 👤 [weltling](https://github.com/weltling) Forked [cloud-hypervisor/linux](https://github.com/cloud-hypervisor/linux) to [weltling/ch-linux](https://github.com/weltling/ch-linux)
   > Linux kernel source tree
@@ -67,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-08 21:44:42 UTC*
+*Last updated at 2026-09-08 23:59:28 UTC*
 *Historical records are stored in the `archive` directory.*
