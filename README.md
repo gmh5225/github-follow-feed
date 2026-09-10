@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [funap/xvw](https://github.com/funap/xvw) to [CrackerCat/xvw](https://github.com/CrackerCat/xvw)
   > A Rust-powered GUI hex editor built on Zed's GPUI framework.
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [bjarneo/wallpapers](https://github.com/bjarneo/wallpapers)
+  > Wallpapers
+
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [outflanknl/ntlmrain](https://github.com/outflanknl/ntlmrain)
   > Recover NT hashes from NetNTLMv1 responses using local WebGPU computation and local/remote table loo...
@@ -32,6 +36,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cursey](https://github.com/cursey) Starred [angelfor3v3r/bme](https://github.com/angelfor3v3r/bme)
   > Bare-metal x86-64 machine-code viewer and mini step-debugger TUI.
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [leanprover/con-leche](https://github.com/leanprover/con-leche)
+
+### [funkemunky](https://github.com/funkemunky)
+- 🌟 👤 [funkemunky](https://github.com/funkemunky) Starred [m-adawi/swarm-cd](https://github.com/m-adawi/swarm-cd)
+  > SwarmCD: Declarative GitOps and Continuous Deployment tool for Docker Swarm.
+
 ### [leodemoura](https://github.com/leodemoura)
 - 🌟 👤 [leodemoura](https://github.com/leodemoura) Starred [leanprover/con-leche](https://github.com/leanprover/con-leche)
 
@@ -43,20 +54,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [Dryxio/reagent](https://github.com/Dryxio/reagent)
   > Reconstruct and validate C/C++ code from compiled programs with AI.
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [noahware/emu](https://github.com/noahware/emu)
+  > ARM64 instruction emulator written in modern c++.
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [LedgerHQ/blue-loader-python](https://github.com/LedgerHQ/blue-loader-python)
   > Python Loader for all Ledger devices
 
-### [petercunha](https://github.com/petercunha)
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [faisalkindi/DLSS5oneclick](https://github.com/faisalkindi/DLSS5oneclick)
-  > One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, wit...
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [NVIDIA/DLSS](https://github.com/NVIDIA/DLSS)
-  > NVIDIA DLSS is a new and improved deep learning neural network that boosts frame rates and generates...
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Tencent-Hunyuan/AuK](https://github.com/Tencent-Hunyuan/AuK)
-  > AuK: An Open-Source Foundational Model for Speech Generation and Editing
-
 
 ---
-*Last updated at 2026-09-10 16:14:09 UTC*
+*Last updated at 2026-09-10 19:30:22 UTC*
 *Historical records are stored in the `archive` directory.*
