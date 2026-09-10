@@ -28,6 +28,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [Sadpainy/Stuxnet](https://github.com/Sadpainy/Stuxnet)
   > Stuxnet, Here reproduced by me, Only for researchs educations purposes. It set work on Windows XP an...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)
+  > A skill file for removing AI tells from prose
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pauldw/ardupilot-wasm](https://github.com/pauldw/ardupilot-wasm)
+  > A browser-based drone flight simulator running the real ArduPilot flight controller compiled to WebA...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco)
+  > Multi-Joint dynamics with Contact. A general purpose physics simulator.
+
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [oxidecomputer/hansei](https://github.com/oxidecomputer/hansei)
   > Tools for post-mortem debugging of the tokio runtime
@@ -42,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [funkemunky](https://github.com/funkemunky)
 - 🌟 👤 [funkemunky](https://github.com/funkemunky) Starred [m-adawi/swarm-cd](https://github.com/m-adawi/swarm-cd)
   > SwarmCD: Declarative GitOps and Continuous Deployment tool for Docker Swarm.
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [thesysdev/openui](https://github.com/thesysdev/openui)
+  > The Open Standard for Generative UI
 
 ### [leodemoura](https://github.com/leodemoura)
 - 🌟 👤 [leodemoura](https://github.com/leodemoura) Starred [leanprover/con-leche](https://github.com/leanprover/con-leche)
@@ -58,12 +70,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [noahware/emu](https://github.com/noahware/emu)
   > ARM64 instruction emulator written in modern c++.
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [spotify/portal-ai-plugins](https://github.com/spotify/portal-ai-plugins)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [LedgerHQ/blue-loader-python](https://github.com/LedgerHQ/blue-loader-python)
-  > Python Loader for all Ledger devices
-
 
 ---
-*Last updated at 2026-09-10 19:30:22 UTC*
+*Last updated at 2026-09-10 22:24:30 UTC*
 *Historical records are stored in the `archive` directory.*
