@@ -50,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [m0zgen/sysconf.io](https://github.com/m0zgen/sysconf.io)
   > Open SysConf.io Conference
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [NtinosTheGamer2324/ModuOS](https://github.com/NtinosTheGamer2324/ModuOS)
+  > ModuOS is a hobby operating system written in C and x86-64 assembly.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Dryxio/reagent](https://github.com/Dryxio/reagent)
   > Reconstruct and validate C/C++ code from compiled programs with AI.
@@ -57,6 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [chadhurley25075-png/pd-bridge](https://github.com/chadhurley25075-png/pd-bridge)
   > Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [blader/humanizer](https://github.com/blader/humanizer)
+  > Agent skill that removes signs of AI-generated writing from text
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [QuantumDeus/x-media-grid-restore](https://github.com/QuantumDeus/x-media-grid-restore)
@@ -80,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-11 19:30:52 UTC*
+*Last updated at 2026-09-11 22:24:22 UTC*
 *Historical records are stored in the `archive` directory.*
