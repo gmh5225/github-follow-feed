@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CalebFenton](https://github.com/CalebFenton)
+- 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [Areizen/Android-Malware-Sandbox](https://github.com/Areizen/Android-Malware-Sandbox)
+  > Android Malware Sandbox
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [noahware/emu](https://github.com/noahware/emu) to [CrackerCat/emu-noahware](https://github.com/CrackerCat/emu-noahware)
   > ARM64 instruction emulator written in modern c++.
@@ -16,11 +20,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [byJoey/fanout](https://github.com/byJoey/fanout) to [CrackerCat/fanout](https://github.com/CrackerCat/fanout)
   > 把 VPN Gate 公共节点变成本地 SOCKS5 端口，一个端口一个出口 IP，可对接 3x-ui
 
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [vlang/vinix](https://github.com/vlang/vinix)
-  > Vinix is an effort to write a modern, fast, and useful operating system in the V programming languag...
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [maluramichael/dll-proxy-generator](https://github.com/maluramichael/dll-proxy-generator)
-  > Creates a proxy dll which sits between the game and original dll
+### [Obsidian200](https://github.com/Obsidian200)
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [aiqinxuancai/e-packager](https://github.com/aiqinxuancai/e-packager)
+  > 实验项目，将易语言 .e 工程文件解包为可读目录，或将目录回包为 .e 文件。 让易语言项目享有 Git 版本管理、代码 Diff、AI 辅助编辑等现代开发体验。
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [MakrSas/Inferno](https://github.com/MakrSas/Inferno)
@@ -44,13 +46,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [VictoriaMetrics/mcp-victoriametrics](https://github.com/VictoriaMetrics/mcp-victoriametrics)
   > The implementation of Model Context Protocol (MCP) server for VictoriaMetrics
 
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [m0zgen/sysconf.io](https://github.com/m0zgen/sysconf.io)
+  > Open SysConf.io Conference
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Dryxio/reagent](https://github.com/Dryxio/reagent)
+  > Reconstruct and validate C/C++ code from compiled programs with AI.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [chadhurley25075-png/pd-bridge](https://github.com/chadhurley25075-png/pd-bridge)
   > Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (...
 
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [hasenj/layout-lab-git-log](https://github.com/hasenj/layout-lab-git-log)
-  > bench marking imgui frameworks
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [QuantumDeus/x-media-grid-restore](https://github.com/QuantumDeus/x-media-grid-restore)
+  > A minimal Chrome extension that restores X's legacy profile media grid.
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Eyeline-Labs/ID-V2V](https://github.com/Eyeline-Labs/ID-V2V)
+  > The official implementation of SIGGRAPH Asia 2026 paper "ID-V2V: Identity-preserving Video Restyliza...
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE)
@@ -62,7 +74,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [tractordev/wanix](https://github.com/tractordev/wanix)
   > A compute toolkit for the web with the depth of Plan 9 from Bell Labs
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [crmne/fastpotify](https://github.com/crmne/fastpotify)
+  > Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spoti...
+
 
 ---
-*Last updated at 2026-09-11 16:17:54 UTC*
+*Last updated at 2026-09-11 19:30:52 UTC*
 *Historical records are stored in the `archive` directory.*
