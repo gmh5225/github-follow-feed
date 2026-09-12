@@ -38,10 +38,30 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [armory3d/armorpaint](https://github.com/armory3d/armorpaint)
   > Graphics Creation Tools
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [SpecterOps/skills](https://github.com/SpecterOps/skills)
+  > A marketplace for LLM skills
+
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [karpathy/micrograd](https://github.com/karpathy/micrograd)
+  > A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+
+### [keowu](https://github.com/keowu)
+- 🌟 👤 [keowu](https://github.com/keowu) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+  > VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, vi...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [google/artemis](https://github.com/google/artemis)
+  > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MZULALI/toolhost](https://github.com/MZULALI/toolhost)
@@ -51,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
   > eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [woj-ciech/Kamerka-GUI](https://github.com/woj-ciech/Kamerka-GUI)
+  > Ultimate Internet of Things/Industrial Control Systems reconnaissance tool.
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [rygo6/raylib_aop](https://github.com/rygo6/raylib_aop)
@@ -58,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-12 13:57:54 UTC*
+*Last updated at 2026-09-12 16:58:17 UTC*
 *Historical records are stored in the `archive` directory.*
