@@ -4,10 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [max99x/wutw-public](https://github.com/max99x/wutw-public)
+  > Worlds Upon The Wind: a peaceful roguelite deckbuilder about resettling a shattered world.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [noahware/emu](https://github.com/noahware/emu)
   > ARM64 instruction emulator written in modern c++.
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jonny-jhnson/WespConsumerPOC](https://github.com/jonny-jhnson/WespConsumerPOC)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Idov31/Silverseal](https://github.com/Idov31/Silverseal)
+  > Silverseal is a Linux framework containing a bootkit, rootkit loader and a rootkit
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mingzun09/Chunqiu-Detector-Problem-solution](https://github.com/mingzun09/Chunqiu-Detector-Problem-solution) to [CrackerCat/Chunqiu-Detector-Problem-solution](https://github.com/CrackerCat/Chunqiu-Detector-Problem-solution)
@@ -17,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [gfhdhytghd/viewflow](https://github.com/gfhdhytghd/viewflow)
+
+### [akien-mga](https://github.com/akien-mga)
+- 🌟 👤 [akien-mga](https://github.com/akien-mga) Starred [max99x/wutw-public](https://github.com/max99x/wutw-public)
+  > Worlds Upon The Wind: a peaceful roguelite deckbuilder about resettling a shattered world.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [kxzk/snapbench](https://github.com/kxzk/snapbench)
@@ -52,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [karpathy/micrograd](https://github.com/karpathy/micrograd)
   > A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 
+### [karalabe](https://github.com/karalabe)
+- 🚀 👤 [karalabe](https://github.com/karalabe) Made [dark-bio/homebrew-tap](https://github.com/dark-bio/homebrew-tap) public
+  > Homebrew Tap of Dark Bio tools
+
 ### [keowu](https://github.com/keowu)
 - 🌟 👤 [keowu](https://github.com/keowu) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
   > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
@@ -66,11 +80,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [google/artemis](https://github.com/google/artemis)
   > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MZULALI/toolhost](https://github.com/MZULALI/toolhost)
-  > Let an LLM write its own tools at runtime: parsed with acorn, versioned in SQLite, run in a supervis...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK)
-
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)
   > eBPF Developer Tutorial: Learning eBPF Step by Step with Examples
@@ -83,5 +92,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-12 19:11:23 UTC*
+*Last updated at 2026-09-12 22:07:59 UTC*
 *Historical records are stored in the `archive` directory.*
