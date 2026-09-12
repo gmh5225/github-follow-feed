@@ -7,18 +7,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [noahware/emu](https://github.com/noahware/emu)
   > ARM64 instruction emulator written in modern c++.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jonny-jhnson/WespConsumerPOC](https://github.com/jonny-jhnson/WespConsumerPOC)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mingzun09/Chunqiu-Detector-Problem-solution](https://github.com/mingzun09/Chunqiu-Detector-Problem-solution) to [CrackerCat/Chunqiu-Detector-Problem-solution](https://github.com/CrackerCat/Chunqiu-Detector-Problem-solution)
   > 将Chunqiu Detector-Problem solution写进 README并对其维护修改跟进等，方便求助者查阅。 （内容来自探索发现并测试，并非摘录自检测源码)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mingzun09/OhMyKeymint](https://github.com/mingzun09/OhMyKeymint) to [CrackerCat/OhMyKeymint-](https://github.com/CrackerCat/OhMyKeymint-)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mingzun09/android-attestation-keybox-generator](https://github.com/mingzun09/android-attestation-keybox-generator) to [CrackerCat/android-attestation-keybox-generator](https://github.com/CrackerCat/android-attestation-keybox-generator)
-
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [lkimuk/ReArk](https://github.com/lkimuk/ReArk)
-  > An intelligent reverse engineering analysis tool designed for multiple target platforms, currently s...
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [akheron/jansson](https://github.com/akheron/jansson)
-  > C library for encoding, decoding and manipulating JSON data
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [gfhdhytghd/viewflow](https://github.com/gfhdhytghd/viewflow)
@@ -44,6 +39,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [SpecterOps/skills](https://github.com/SpecterOps/skills)
   > A marketplace for LLM skills
+
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [m-adawi/swarm-cd](https://github.com/m-adawi/swarm-cd) to [funkemunky/swarm-cd](https://github.com/funkemunky/swarm-cd)
+  > SwarmCD: Declarative GitOps and Continuous Deployment tool for Docker Swarm.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
 
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [karpathy/micrograd](https://github.com/karpathy/micrograd)
@@ -80,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-12 16:58:17 UTC*
+*Last updated at 2026-09-12 19:11:23 UTC*
 *Historical records are stored in the `archive` directory.*
