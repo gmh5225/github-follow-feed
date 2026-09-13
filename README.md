@@ -16,6 +16,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SMlc666/urprotect](https://github.com/SMlc666/urprotect) to [CrackerCat/urprotect](https://github.com/CrackerCat/urprotect)
   > Conservative C# ELF64 AArch64 validation and analysis foundation
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ZhengyiLuo/AgentsDock](https://github.com/ZhengyiLuo/AgentsDock)
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [crypt0p3g/adexview](https://github.com/crypt0p3g/adexview) to [classic130/adexview](https://github.com/classic130/adexview)
   > Browse, search and audit AD Explorer snapshots offline in your browser: decoded attributes, LDAP fil...
@@ -30,7 +33,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [slee-persis/GVS5H](https://github.com/slee-persis/GVS5H)
   > GVS5H: Five Qwen3.8-27B Models Match Claude Fable 5 on LiveCodeBench Hard  |  Fable 5 Level Coding f...
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [getpaseo/paseo](https://github.com/getpaseo/paseo) to [hzqst/paseo](https://github.com/hzqst/paseo)
+  > Orchestrate multiple coding agents from desktop and mobile
+
 
 ---
-*Last updated at 2026-09-13 05:53:19 UTC*
+*Last updated at 2026-09-13 11:34:25 UTC*
 *Historical records are stored in the `archive` directory.*
