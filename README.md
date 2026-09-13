@@ -20,8 +20,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [SMlc666/urprotect](https://github.com/SMlc666/urprotect) to [CrackerCat/urprotect](https://github.com/CrackerCat/urprotect)
   > Conservative C# ELF64 AArch64 validation and analysis foundation
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [LLVMParty/llvm-builds](https://github.com/LLVMParty/llvm-builds)
+  > Precompiled LLVM distributions for Linux/macOS/Windows.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ZhengyiLuo/AgentsDock](https://github.com/ZhengyiLuo/AgentsDock)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [aiortc/aiortc](https://github.com/aiortc/aiortc)
+  > WebRTC and ORTC implementation for Python using asyncio
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [crypt0p3g/adexview](https://github.com/crypt0p3g/adexview) to [classic130/adexview](https://github.com/classic130/adexview)
@@ -49,16 +55,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [iximeow](https://github.com/iximeow) Forked [xenia-project/xenia](https://github.com/xenia-project/xenia) to [iximeow/xenia](https://github.com/iximeow/xenia)
   > Xbox 360 Emulator Research Project
 
-### [karalabe](https://github.com/karalabe)
-- 🍴 👤 [karalabe](https://github.com/karalabe) Forked [dark-bio/emulator](https://github.com/dark-bio/emulator) to [karalabe/darkbio-emulator](https://github.com/karalabe/darkbio-emulator)
-  > Emulated Ark enclave
-
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [malmoeb/presentations](https://github.com/malmoeb/presentations)
   > Presentations from yours truely
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [aryx/codemap](https://github.com/aryx/codemap)
+  > Source code visualizer
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aryx/codemap](https://github.com/aryx/codemap)
   > Source code visualizer
 
 ### [patois](https://github.com/patois)
@@ -71,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-13 19:16:31 UTC*
+*Last updated at 2026-09-13 22:17:27 UTC*
 *Historical records are stored in the `archive` directory.*
