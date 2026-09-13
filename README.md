@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [g0h4n/PassTheCert-rs](https://github.com/g0h4n/PassTheCert-rs)
+  > Tool to authenticate to an LDAP/S server with a certificate through Schannel written in Rust. 🦀 
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [huiliyi37/Tianshu-harness](https://github.com/huiliyi37/Tianshu-harness) to [CrackerCat/Tianshu-harness](https://github.com/CrackerCat/Tianshu-harness)
   > 天枢 (Tianshu) 是一个基于harness工程的终端编程智能体运行时（Tui X Gui），针对DeepSeek V4 做了前缀缓存工程优化（长会话实测稳态命中率 97–99%）和深度适配。它...
@@ -41,6 +45,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [getpaseo/paseo](https://github.com/getpaseo/paseo) to [hzqst/paseo](https://github.com/hzqst/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
 
+### [iximeow](https://github.com/iximeow)
+- 🍴 👤 [iximeow](https://github.com/iximeow) Forked [xenia-project/xenia](https://github.com/xenia-project/xenia) to [iximeow/xenia](https://github.com/iximeow/xenia)
+  > Xbox 360 Emulator Research Project
+
+### [karalabe](https://github.com/karalabe)
+- 🍴 👤 [karalabe](https://github.com/karalabe) Forked [dark-bio/emulator](https://github.com/dark-bio/emulator) to [karalabe/darkbio-emulator](https://github.com/karalabe/darkbio-emulator)
+  > Emulated Ark enclave
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [malmoeb/presentations](https://github.com/malmoeb/presentations)
+  > Presentations from yours truely
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [aryx/codemap](https://github.com/aryx/codemap)
+  > Source code visualizer
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/supersonic.el](https://github.com/systemfreund/supersonic.el)
   > Music player package for Emacs compatible with servers implementing the Subsonic API, such as Navidr...
@@ -51,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-13 16:02:44 UTC*
+*Last updated at 2026-09-13 19:16:31 UTC*
 *Historical records are stored in the `archive` directory.*
