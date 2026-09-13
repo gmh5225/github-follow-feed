@@ -33,11 +33,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [slee-persis/GVS5H](https://github.com/slee-persis/GVS5H)
   > GVS5H: Five Qwen3.8-27B Models Match Claude Fable 5 on LiveCodeBench Hard  |  Fable 5 Level Coding f...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [mgba-emu/mgba](https://github.com/mgba-emu/mgba)
+  > mGBA Game Boy Advance Emulator
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [getpaseo/paseo](https://github.com/getpaseo/paseo) to [hzqst/paseo](https://github.com/hzqst/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/supersonic.el](https://github.com/systemfreund/supersonic.el)
+  > Music player package for Emacs compatible with servers implementing the Subsonic API, such as Navidr...
+
+### [wesmar](https://github.com/wesmar)
+- 🍴 👤 [wesmar](https://github.com/wesmar) Forked [namjaejeon/linux-ntfs](https://github.com/namjaejeon/linux-ntfs) to [wesmar/linux-ntfs](https://github.com/wesmar/linux-ntfs)
+  > NTFS(NTFS PLUS) for Linux (Backport for low kernel version support)
+
 
 ---
-*Last updated at 2026-09-13 11:34:25 UTC*
+*Last updated at 2026-09-13 16:02:44 UTC*
 *Historical records are stored in the `archive` directory.*
