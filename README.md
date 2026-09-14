@@ -4,17 +4,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [Idov31/Silverseal](https://github.com/Idov31/Silverseal)
+  > Silverseal is a Linux framework containing a bootkit, rootkit loader and a rootkit
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [g0h4n/PassTheCert-rs](https://github.com/g0h4n/PassTheCert-rs)
+  > Tool to authenticate to an LDAP/S server with a certificate through Schannel written in Rust. 🦀 
+
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [Idov31/Silverseal](https://github.com/Idov31/Silverseal)
+  > Silverseal is a Linux framework containing a bootkit, rootkit loader and a rootkit
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LeoChen-CoreMind/android-vmp-recovery-workflow](https://github.com/LeoChen-CoreMind/android-vmp-recovery-workflow) to [CrackerCat/android-vmp-recovery-workflow](https://github.com/CrackerCat/android-vmp-recovery-workflow)
   > Android 某6零免费版 DexVMP 恢复工作流，仅限学习研究与授权分析
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaonancs/codex-source-analysis](https://github.com/xiaonancs/codex-source-analysis) to [CrackerCat/codex-source-analysis](https://github.com/CrackerCat/codex-source-analysis)
   > OpenAI Codex 源码深度研究 (Rust + TS + Python)：2 总纲 + 25 章 + 3 附录, ~51 万字 + 149 张 Mermaid 架构图
-
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [YouG-o/YouTube-No-Translation](https://github.com/YouG-o/YouTube-No-Translation)
-  > Web browser add-on that prevents YouTube's automatic translations! It keeps titles, descriptions, an...
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [okibcn/ScoopMaster](https://github.com/okibcn/ScoopMaster)
-  > Scoop Meta-bucket with all the apps in Scoop, always updated. One bucket for all your needs with the...
 
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [nolabs-ai/nono](https://github.com/nolabs-ai/nono)
@@ -25,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An optimization-based multi-sensor state estimator
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rpng/open_vins](https://github.com/rpng/open_vins)
   > An open source platform for visual-inertial navigation research.
+
+### [char](https://github.com/char)
+- 🍴 👤 [char](https://github.com/char) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [char/llama.cpp](https://github.com/char/llama.cpp)
+  > LLM inference in C/C++
 
 ### [crtdll](https://github.com/crtdll)
 - 🍴 👤 [crtdll](https://github.com/crtdll) Forked [edde746/plezy](https://github.com/edde746/plezy) to [crtdll/plezy](https://github.com/crtdll/plezy)
@@ -57,6 +65,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Made-In-Basement/ember](https://github.com/Made-In-Basement/ember)
   > An operating system written from scratch: boot sector, FAT filesystem, DOS-compatible interrupts, so...
 
+### [memN0ps](https://github.com/memN0ps)
+- 🌟 👤 [memN0ps](https://github.com/memN0ps) Starred [Idov31/Silverseal](https://github.com/Idov31/Silverseal)
+  > Silverseal is a Linux framework containing a bootkit, rootkit loader and a rootkit
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [originsec/pocsmith](https://github.com/originsec/pocsmith)
   > Autonomous Windows POC developer from patchwatch diff reports
@@ -72,6 +84,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [truefoundry/trueforge](https://github.com/truefoundry/trueforge)
   > The open-source agent harness - the runtime layer that turns an LLM into a working agent.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [shadcn-ui/lint](https://github.com/shadcn-ui/lint)
+  > An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch)
+  > Turn your coding agents into research agents
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SakanaAI/pc-alm](https://github.com/SakanaAI/pc-alm)
+  > PC-ALM
 
 ### [osm0sis](https://github.com/osm0sis)
 - 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [KernelSU2/AnyKernel3](https://github.com/KernelSU2/AnyKernel3)
@@ -81,7 +99,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [austintgriffith/picowallet](https://github.com/austintgriffith/picowallet)
   > A stablecoin hardware wallet from three Amazon parts, no soldering. Pico 2 W + LCD + ATECC608.
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [fmzquant/strategies](https://github.com/fmzquant/strategies)
+  > quantitative trading with Javascript, Python, C++, PineScript, Blockly, MyLanguage(麦语言)
+
 
 ---
-*Last updated at 2026-09-14 19:11:42 UTC*
+*Last updated at 2026-09-14 23:02:13 UTC*
 *Historical records are stored in the `archive` directory.*
