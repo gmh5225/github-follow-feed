@@ -4,8 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [marimo-team/marimo](https://github.com/marimo-team/marimo)
+  > A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, ...
+
 
 ---
-*Last updated at 2026-09-14 00:52:47 UTC*
+*Last updated at 2026-09-14 06:00:17 UTC*
 *Historical records are stored in the `archive` directory.*
