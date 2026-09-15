@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [NVIDIA/nvrc](https://github.com/NVIDIA/nvrc)
+  > The NVRC project provides a Rust binary that implements a simple init system for microVMs.
+
 ### [KelvinMsft](https://github.com/KelvinMsft)
 - 🌟 👤 [KelvinMsft](https://github.com/KelvinMsft) Starred [denniske/aoe2companion](https://github.com/denniske/aoe2companion)
   > AoE II Companion
@@ -67,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Emulator and custom firmware tools for Elektron Digi boxes
 - 🌟 👤 [patois](https://github.com/patois) Starred [Jickssa/LiveGranularFX](https://github.com/Jickssa/LiveGranularFX)
   > Real-time granular effect for Digitone built with Python (capturing USB audio and applying granular ...
+- 🌟 👤 [patois](https://github.com/patois) Starred [blakebratcher/bitwig-nitro-tools](https://github.com/blakebratcher/bitwig-nitro-tools)
+  > Offline reverse-engineering toolchain for Bitwig Studio's Nitro DSP format — decrypt, decompile, and...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [spurintel/cli](https://github.com/spurintel/cli)
@@ -75,6 +81,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: determinist...
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
+  > Beautiful, Modern & Opinionated Linux
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)
+  > Ultra-lightweight JavaScript engine for the Internet of Things.
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
 
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
@@ -82,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-15 14:48:49 UTC*
+*Last updated at 2026-09-15 18:50:54 UTC*
 *Historical records are stored in the `archive` directory.*
