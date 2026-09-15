@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [char](https://github.com/char) Starred [gburd/isync](https://github.com/gburd/isync)
   > isync/mbsync - a mailbox synchronization program
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [joshstevens19/rindexer](https://github.com/joshstevens19/rindexer)
+  > A no-code or framework to build blazing fast EVM indexers - built in rust.
+
 ### [dretax](https://github.com/dretax)
 - 🌟 👤 [dretax](https://github.com/dretax) Starred [NotRequiem/swtpm-detector](https://github.com/NotRequiem/swtpm-detector)
   > Detection for every software TPM, TPM passthrough, TPM resetting/flashing, TPM proxying, and EDS/EK/...
@@ -37,6 +41,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [MobAI-App/ios-builder](https://github.com/MobAI-App/ios-builder)
   > Build and develop iOS apps without a Mac using GitHub Actions, Codemagic, or Bitrise, with simulator...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot)
+  > Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [arnegiacomo/fugleramme](https://github.com/arnegiacomo/fugleramme)
+  > E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as r...
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [captbaritone/webamp](https://github.com/captbaritone/webamp)
+  > Winamp 2 reimplemented for the browser
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [unconed/shadergraph](https://github.com/unconed/shadergraph)
+  > Functional GLSL Linker
 
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [jellyfin/jellyfin-sdk-kotlin](https://github.com/jellyfin/jellyfin-sdk-kotlin)
@@ -59,7 +73,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Red Teaming Tradecraft
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) to [mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/mrexodia/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks)
   > DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
 
 ### [n01e0](https://github.com/n01e0)
@@ -73,16 +87,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Real-time granular effect for Digitone built with Python (capturing USB audio and applying granular ...
 - 🌟 👤 [patois](https://github.com/patois) Starred [blakebratcher/bitwig-nitro-tools](https://github.com/blakebratcher/bitwig-nitro-tools)
   > Offline reverse-engineering toolchain for Bitwig Studio's Nitro DSP format — decrypt, decompile, and...
-
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [spurintel/cli](https://github.com/spurintel/cli)
-  > Spur command-line client (successor to spurctx)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [alibaba/open-code-review](https://github.com/alibaba/open-code-review)
-  > Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: determinist...
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
-  > Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk....
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [omacom/omarchy](https://github.com/omacom/omarchy)
-  > Beautiful, Modern & Opinionated Linux
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [jerryscript-project/jerryscript](https://github.com/jerryscript-project/jerryscript)
@@ -98,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-15 18:50:54 UTC*
+*Last updated at 2026-09-15 22:03:08 UTC*
 *Historical records are stored in the `archive` directory.*
