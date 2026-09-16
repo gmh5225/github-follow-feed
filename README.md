@@ -18,13 +18,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenFuckJob/FuckJob](https://github.com/OpenFuckJob/FuckJob) to [CrackerCat/FuckJob](https://github.com/CrackerCat/FuckJob)
   > 一个开源的 AI 求职助手，融合 RPA 与大语言模型（LLM），实现岗位筛选、智能沟通、自动投递等求职自动化能力。软件大小<30MB
 
+### [NikolajBjorner](https://github.com/NikolajBjorner)
+- 🍴 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Forked [rutgers-apl/Alivio](https://github.com/rutgers-apl/Alivio) to [NikolajBjorner/Alivio](https://github.com/NikolajBjorner/Alivio)
+  > Proof Carrying BPF Framework
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent)
   > A training-free multi-agent framework for recursive self-improvement in new environments through bro...
 
+### [akien-mga](https://github.com/akien-mga)
+- 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [max99x/wutw-public](https://github.com/max99x/wutw-public) to [LibreGamesArchive/wutw-public](https://github.com/LibreGamesArchive/wutw-public)
+  > Worlds Upon The Wind: a peaceful roguelite deckbuilder about resettling a shattered world.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [EmenstaNougat/ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer)
   > The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communic...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DanMcInerney/nervelet](https://github.com/DanMcInerney/nervelet)
+  > A small nervous system for coding agents: continuous robot loops, fresh observations, and native age...
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [security-attack/DL2Inject](https://github.com/security-attack/DL2Inject) to [classic130/DL2Inject](https://github.com/classic130/DL2Inject)
+  > Native Win32 DLL & UAC security monitor for Windows x64 — ETW, injection detection, registry hijacks...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [aftermathlabs/discord-crasher](https://github.com/aftermathlabs/discord-crasher)
@@ -42,27 +56,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [goodtekxyz/openllms](https://github.com/goodtekxyz/openllms)
   > Self-hosted multi-account LLM gateway (OpenAI-compatible routes, SQLite, file secrets)
 
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [hgztask/BiBiBSPUserVideoMonkeyScript](https://github.com/hgztask/BiBiBSPUserVideoMonkeyScript) to [hzqst/BiBiBSPUserVideoMonkeyScript](https://github.com/hzqst/BiBiBSPUserVideoMonkeyScript)
-  > 根据用户名、uid、视频关键词、评论关键词等相关规则条件进行屏蔽，用于视频和评论区直播评论等
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [manuschillerdev/gpu-cron](https://github.com/manuschillerdev/gpu-cron)
+  > Tiny MLX-trained schedule model with a dependency-free WebGPU runtime
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [audn-ai/refusal-benchmark](https://github.com/audn-ai/refusal-benchmark)
   > 519+ harmful prompts to detect how abliterated AI models are
-
-### [odzhan](https://github.com/odzhan)
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [c3lang/c3c](https://github.com/c3lang/c3c)
-  > Compiler for the C3 language
-- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [r0keb/TrashFormer](https://github.com/r0keb/TrashFormer)
-  > A 64 bit executable junk code engine for polymorphic malware.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [joelanders/gearmulator-md-mm](https://github.com/joelanders/gearmulator-md-mm)
   > Emulations of Elektron's Machinedrum + Monomachine. My fork of TUS's gearmulator. Please don't bug t...
 - 🌟 👤 [patois](https://github.com/patois) Starred [joelanders/profligacy](https://github.com/joelanders/profligacy)
   > Korg Prophecy emulation
+- 🌟 👤 [patois](https://github.com/patois) Starred [angellinares/dn2_firmware_explore](https://github.com/angellinares/dn2_firmware_explore)
+  > A repository to experiment on the Elektron DN2 firmware
 
 
 ---
-*Last updated at 2026-09-16 07:32:58 UTC*
+*Last updated at 2026-09-16 13:22:26 UTC*
 *Historical records are stored in the `archive` directory.*
