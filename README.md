@@ -22,10 +22,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenFuckJob/FuckJob](https://github.com/OpenFuckJob/FuckJob) to [CrackerCat/FuckJob](https://github.com/CrackerCat/FuckJob)
   > 一个开源的 AI 求职助手，融合 RPA 与大语言模型（LLM），实现岗位筛选、智能沟通、自动投递等求职自动化能力。软件大小<30MB
 
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs)
-  > Bochs - Cross Platform x86 Emulator Project
-
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent)
   > A training-free multi-agent framework for recursive self-improvement in new environments through bro...
@@ -41,10 +37,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communic...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DanMcInerney/nervelet](https://github.com/DanMcInerney/nervelet)
   > A small nervous system for coding agents: continuous robot loops, fresh observations, and native age...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zhengkid/Dream-RSI](https://github.com/zhengkid/Dream-RSI)
+  > The offical repo for "Dream-RSI: Recursive Self-Improvement through Evolving Worlds"
+
+### [cfallin](https://github.com/cfallin)
+- 🍴 👤 [cfallin](https://github.com/cfallin) Forked [v8/v8](https://github.com/v8/v8) to [cfallin/v8](https://github.com/cfallin/v8)
+  > The official mirror of the V8 Git repository
+- 🍴 👤 [cfallin](https://github.com/cfallin) Forked [WebKit/WebKit](https://github.com/WebKit/WebKit) to [cfallin/WebKit](https://github.com/cfallin/WebKit)
+  > Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applic...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [security-attack/DL2Inject](https://github.com/security-attack/DL2Inject) to [classic130/DL2Inject](https://github.com/classic130/DL2Inject)
   > Native Win32 DLL & UAC security monitor for Windows x64 — ETW, injection detection, registry hijacks...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [VollRagm/ghostdebug](https://github.com/VollRagm/ghostdebug) to [classic130/ghostdebug](https://github.com/classic130/ghostdebug)
+  > Debugger utilizing stealth hooks to hide from debugger detection
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [xnand/WindowsPOCs](https://github.com/xnand/WindowsPOCs) to [classic130/WindowsPOCs](https://github.com/classic130/WindowsPOCs)
+  > Proof of concept for different Windows vulnerabilities
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [franckferman/SYSTEMatic](https://github.com/franckferman/SYSTEMatic) to [classic130/SYSTEMatic](https://github.com/classic130/SYSTEMatic)
+  > Token impersonation. Administrator to SYSTEM. No tools required.
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [aftermathlabs/discord-crasher](https://github.com/aftermathlabs/discord-crasher)
@@ -70,12 +80,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [audn-ai/refusal-benchmark](https://github.com/audn-ai/refusal-benchmark)
   > 519+ harmful prompts to detect how abliterated AI models are
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs) to [mrexodia/Bochs](https://github.com/mrexodia/Bochs)
-  > Bochs - Cross Platform x86 Emulator Project
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3)
-  > An optimized quantization and inference library for running LLMs locally on modern consumer-class GP...
-
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [joelanders/gearmulator-md-mm](https://github.com/joelanders/gearmulator-md-mm)
   > Emulations of Elektron's Machinedrum + Monomachine. My fork of TUS's gearmulator. Please don't bug t...
@@ -84,7 +88,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [angellinares/dn2_firmware_explore](https://github.com/angellinares/dn2_firmware_explore)
   > A repository to experiment on the Elektron DN2 firmware
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [pg83/solo](https://github.com/pg83/solo)
+  > Portable Linux binaries, solved
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+
 
 ---
-*Last updated at 2026-09-16 18:05:21 UTC*
+*Last updated at 2026-09-16 22:00:55 UTC*
 *Historical records are stored in the `archive` directory.*
