@@ -12,19 +12,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [tuanemss/usbliter8-diag](https://github.com/tuanemss/usbliter8-diag)
   > A12/A13 diag mode
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Dec0ne/KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp)
+  > KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [user-lzy/SnowSword](https://github.com/user-lzy/SnowSword) to [CrackerCat/SnowSword](https://github.com/CrackerCat/SnowSword)
   > Windows 10/11 x64 Kernel Analysis & Anti-Rootkit Toolkit
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenFuckJob/FuckJob](https://github.com/OpenFuckJob/FuckJob) to [CrackerCat/FuckJob](https://github.com/CrackerCat/FuckJob)
   > 一个开源的 AI 求职助手，融合 RPA 与大语言模型（LLM），实现岗位筛选、智能沟通、自动投递等求职自动化能力。软件大小<30MB
 
-### [NikolajBjorner](https://github.com/NikolajBjorner)
-- 🍴 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Forked [rutgers-apl/Alivio](https://github.com/rutgers-apl/Alivio) to [NikolajBjorner/Alivio](https://github.com/NikolajBjorner/Alivio)
-  > Proof Carrying BPF Framework
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs)
+  > Bochs - Cross Platform x86 Emulator Project
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent)
   > A training-free multi-agent framework for recursive self-improvement in new environments through bro...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
 
 ### [akien-mga](https://github.com/akien-mga)
 - 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [max99x/wutw-public](https://github.com/max99x/wutw-public) to [LibreGamesArchive/wutw-public](https://github.com/LibreGamesArchive/wutw-public)
@@ -64,6 +70,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [audn-ai/refusal-benchmark](https://github.com/audn-ai/refusal-benchmark)
   > 519+ harmful prompts to detect how abliterated AI models are
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [bochs-emu/Bochs](https://github.com/bochs-emu/Bochs) to [mrexodia/Bochs](https://github.com/mrexodia/Bochs)
+  > Bochs - Cross Platform x86 Emulator Project
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [turboderp-org/exllamav3](https://github.com/turboderp-org/exllamav3)
+  > An optimized quantization and inference library for running LLMs locally on modern consumer-class GP...
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [joelanders/gearmulator-md-mm](https://github.com/joelanders/gearmulator-md-mm)
   > Emulations of Elektron's Machinedrum + Monomachine. My fork of TUS's gearmulator. Please don't bug t...
@@ -74,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-16 13:22:26 UTC*
+*Last updated at 2026-09-16 18:05:21 UTC*
 *Historical records are stored in the `archive` directory.*
