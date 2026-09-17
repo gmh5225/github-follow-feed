@@ -4,31 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sillycats/ApkAdRemoverEditor](https://github.com/sillycats/ApkAdRemoverEditor) to [CrackerCat/ApkAdRemoverEditor](https://github.com/CrackerCat/ApkAdRemoverEditor)
-  > 基于 dexlib2 的本地 APK 去广告工具，字节码直接修补，支持数据复用优化
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sillycats/ApkAdAnalyzer](https://github.com/sillycats/ApkAdAnalyzer) to [CrackerCat/ApkAdAnalyzer](https://github.com/CrackerCat/ApkAdAnalyzer)
-  > APK广告特征分析工具 - 分析 APK 广告特征并导出特征配置
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) to [CrackerCat/OCAuxiliaryTools](https://github.com/CrackerCat/OCAuxiliaryTools)
-  > Cross-platform GUI management tools for OpenCore（OCAT）
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HawkBearPig/dgpp](https://github.com/HawkBearPig/dgpp) to [CrackerCat/dgpp](https://github.com/CrackerCat/dgpp)
-  > Optimized inference for the DGX Spark and spark clusters
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xuange520/WeChat-H5-DevTools](https://github.com/xuange520/WeChat-H5-DevTools) to [CrackerCat/WeChat-H5-DevTools](https://github.com/CrackerCat/WeChat-H5-DevTools)
-  > WMPFDebugger 内置浏览器与公众号 H5 满血调试与逆向工具箱 / The ultimate debugging & reverse-engineering toolkit for WMPF...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/imgui145vlkuanAndroidTear](https://github.com/tearhacker/imgui145vlkuanAndroidTear) to [CrackerCat/imgui145vlkuanAndroidTear](https://github.com/CrackerCat/imgui145vlkuanAndroidTear)
-  > 源版本开源于中国安卓绘制开源群    泪心只是代发官方原版    方便使用 泪心电报@TearGame
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/Build_TearGame_Android_Driver](https://github.com/tearhacker/Build_TearGame_Android_Driver) to [CrackerCat/Build_TearGame_Android_Driver](https://github.com/CrackerCat/Build_TearGame_Android_Driver)
-  > 利用github云编译构建你的泪心驱动内核KO模块，实现内核驱动读取，请勿用于违法犯罪活动，完整开源只为技术进步做出贡献
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/UE4Dump_imGui_AnalyseToolsForMCP](https://github.com/tearhacker/UE4Dump_imGui_AnalyseToolsForMCP) to [CrackerCat/UE4Dump_imGui_AnalyseToolsForMCP](https://github.com/CrackerCat/UE4Dump_imGui_AnalyseToolsForMCP)
-  > 泪心UE4Dump逆向分析MCP工具
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/TearGame_KernelDriver_Android_WriteReadMemory](https://github.com/tearhacker/TearGame_KernelDriver_Android_WriteReadMemory) to [CrackerCat/TearGame_KernelDriver_Android_WriteReadMemory](https://github.com/CrackerCat/TearGame_KernelDriver_Android_WriteReadMemory)
-  > 泪心完整驱动源码读写linux源码,支持安卓4~6.12全部内核读取内存写入内存,原作者江晚，优化作者泪心！
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/AllTearGameCheatKernel](https://github.com/tearhacker/AllTearGameCheatKernel) to [CrackerCat/AllTearGameCheatKernel](https://github.com/CrackerCat/AllTearGameCheatKernel)
-  > 这是一个公开的源码内核绘制研究库，仅供参考，泪心发布
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xishandong/Android_reverse](https://github.com/xishandong/Android_reverse) to [CrackerCat/Android_reverse](https://github.com/CrackerCat/Android_reverse)
-  > 此项目分享安卓逆向的实战案例以及学习笔记，适合新手学习，随着作者逐渐变成大神，这个仓库也会适合大神学习~
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Acture/hanzi-sort](https://github.com/Acture/hanzi-sort) to [CrackerCat/hanzi-sort](https://github.com/CrackerCat/hanzi-sort)
-  > A small Rust CLI that sorts Chinese strings by their Hanyu Pinyin (tone3) order
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [RedTeamPentesting/pretender](https://github.com/RedTeamPentesting/pretender)
+  > Your MitM sidekick for relaying attacks featuring DHCPv6 DNS takeover as well as mDNS, LLMNR and Net...
 
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [Dryxio/reagent](https://github.com/Dryxio/reagent)
@@ -68,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lista curada y fusionada de agentes, herramientas, frameworks, modelos y papers de IA aplicada al ha...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Chocapikk/CVE-2026-21858](https://github.com/Chocapikk/CVE-2026-21858) to [classic130/CVE-2026-21858](https://github.com/classic130/CVE-2026-21858)
   > n8n Ni8mare - Unauthenticated Arbitrary File Read to RCE Chain (CVSS 10.0)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [MaorSabag/NaX](https://github.com/MaorSabag/NaX) to [classic130/NaX](https://github.com/classic130/NaX)
+  > Custom Adaptix-compatible C2 agent - PIC beacon + Stardust UDRL + Go extender plugins
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [MicrosoftARMAssembler/Hyperspace](https://github.com/MicrosoftARMAssembler/Hyperspace) to [classic130/Hyperspace](https://github.com/classic130/Hyperspace)
+  > Hyperspace is a multi-purpose tool for Emulating, Injecting, Dumping and Externals. 
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife)
@@ -77,11 +59,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [cilium/cilium](https://github.com/cilium/cilium)
   > eBPF-based Networking, Security, and Observability
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [urchade/GLiNER](https://github.com/urchade/GLiNER)
+  > Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [MarcusGrass/tiny-std](https://github.com/MarcusGrass/tiny-std)
+  > A tiny Rust std-lib for Linux x86_64 and aarch64
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [NVIDIA/soma-retargeter](https://github.com/NVIDIA/soma-retargeter)
   > SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [kustosz/luna-archive](https://github.com/kustosz/luna-archive)
   > Looking for Luna, the visual programming language? ➡️ https://github.com/enso-org/enso
+
+### [nulltea](https://github.com/nulltea)
+- 🌟 👤 [nulltea](https://github.com/nulltea) Starred [ORNL/flowcept](https://github.com/ORNL/flowcept)
+  > Runtime provenance for AI and scientific workflows—capture, enrich, and query workflow data via obse...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark)
@@ -99,11 +93,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [19h/dazhbog](https://github.com/19h/dazhbog)
   > High-performance IDA Lumina implementation
 
+### [strazzere](https://github.com/strazzere)
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [MG1937/ASC](https://github.com/MG1937/ASC)
+  > ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [markjaquith/cowtree](https://github.com/markjaquith/cowtree) to [williballenthin/cowtree](https://github.com/williballenthin/cowtree)
   > Create space-efficient Git worktrees on macOS using APFS copy-on-write clones. Compact existing work...
 
 
 ---
-*Last updated at 2026-09-17 13:17:58 UTC*
+*Last updated at 2026-09-17 18:05:33 UTC*
 *Historical records are stored in the `archive` directory.*
