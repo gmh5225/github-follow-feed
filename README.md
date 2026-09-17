@@ -38,6 +38,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > This is an ongoing research on a proposed deterministic harnessing for offensive security agents
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [trustedsec/RAGE](https://github.com/trustedsec/RAGE)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
+  > Your own search engine
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [fortbridge/stylesmuggler](https://github.com/fortbridge/stylesmuggler) to [classic130/stylesmuggler](https://github.com/classic130/stylesmuggler)
@@ -51,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [MicrosoftARMAssembler/Hyperspace](https://github.com/MicrosoftARMAssembler/Hyperspace) to [classic130/Hyperspace](https://github.com/classic130/Hyperspace)
   > Hyperspace is a multi-purpose tool for Emulating, Injecting, Dumping and Externals. 
 
+### [dhondta](https://github.com/dhondta)
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [bbuhrow/yafu](https://github.com/bbuhrow/yafu)
+  > Automated integer factorization
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [bl4ckr0ss3/knife](https://github.com/bl4ckr0ss3/knife)
   > A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, cr...
@@ -58,10 +64,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [cilium/cilium](https://github.com/cilium/cilium)
   > eBPF-based Networking, Security, and Observability
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [urchade/GLiNER](https://github.com/urchade/GLiNER)
-  > Generalist and Lightweight Model for Named Entity Recognition (Extract any entity types from texts)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [MarcusGrass/tiny-std](https://github.com/MarcusGrass/tiny-std)
@@ -72,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > SOMA BVH to humanoid robot motion retargeting library built with Newton and NVIDIA Warp
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [kustosz/luna-archive](https://github.com/kustosz/luna-archive)
   > Looking for Luna, the visual programming language? ➡️ https://github.com/enso-org/enso
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KazamaDono/taoxd](https://github.com/KazamaDono/taoxd)
+  > The Art of Exploit Development companion code.
 
 ### [nulltea](https://github.com/nulltea)
 - 🌟 👤 [nulltea](https://github.com/nulltea) Starred [ORNL/flowcept](https://github.com/ORNL/flowcept)
@@ -88,6 +94,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for b...
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
   > Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle dia...
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [bethington/ghidra-mcp](https://github.com/bethington/ghidra-mcp)
+  > Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server,...
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Mak5er/AirCard](https://github.com/Mak5er/AirCard)
+  > Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [19h/dazhbog](https://github.com/19h/dazhbog)
@@ -105,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-17 18:05:33 UTC*
+*Last updated at 2026-09-17 22:03:21 UTC*
 *Historical records are stored in the `archive` directory.*
