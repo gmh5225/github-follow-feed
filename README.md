@@ -62,6 +62,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CVE-2026-75604 Next.js Windows RCE poc
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [crypt0p3g/adnullenum](https://github.com/crypt0p3g/adnullenum) to [classic130/adnullenum](https://github.com/classic130/adnullenum)
   > One-pass anonymous Active Directory enumeration over SAMR and LSARPC — null session, no credentials,...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [g0h4n/PassTheCert-rs](https://github.com/g0h4n/PassTheCert-rs) to [classic130/PassTheCert-rs](https://github.com/classic130/PassTheCert-rs)
+  > Tool to authenticate to an LDAP/S server with a certificate through Schannel written in Rust. 🦀 
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [R3alM0m1X82/SpecterBroker](https://github.com/R3alM0m1X82/SpecterBroker) to [classic130/SpecterBroker](https://github.com/classic130/SpecterBroker)
+  > Advanced Windows authentication token extraction and decryption tool for red team operations and sec...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [oritera/Cairn](https://github.com/oritera/Cairn) to [classic130/Cairn](https://github.com/classic130/Cairn)
+  > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [bitzcodes/BitZ](https://github.com/bitzcodes/BitZ)
+  > BitZ: proofs and commitments in arbitrary rings through binary   fields
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [pardeike/Harmony](https://github.com/pardeike/Harmony)
+  > A library for patching, replacing and decorating .NET and Mono methods during runtime
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [pardeike/Harmony](https://github.com/pardeike/Harmony) to [enovella/Harmony](https://github.com/enovella/Harmony)
+  > A library for patching, replacing and decorating .NET and Mono methods during runtime
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [timo-reymann/bash-tui-toolkit](https://github.com/timo-reymann/bash-tui-toolkit)
@@ -71,7 +87,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction)
   > Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [lobsters/lobsters](https://github.com/lobsters/lobsters) to [mrexodia/lobsters](https://github.com/mrexodia/lobsters)
+  > Computing-focused community centered around link aggregation and discussion
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [rccmb/oracle](https://github.com/rccmb/oracle)
+  > An automated chess analysis tool that uses computer vision to analyze a chessboard and recommends th...
+
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox)
+  > A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
+
 
 ---
-*Last updated at 2026-09-18 12:52:47 UTC*
+*Last updated at 2026-09-18 17:01:03 UTC*
 *Historical records are stored in the `archive` directory.*
