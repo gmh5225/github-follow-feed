@@ -45,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
   > The Photoshop alternative for Mac
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sharpemu/sharpemu](https://github.com/sharpemu/sharpemu)
+  > An experimental PlayStation 5 emulator for Windows, Linux and macOS.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [NIKJOO/VSEC-REVoid](https://github.com/NIKJOO/VSEC-REVoid)
@@ -52,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-19 20:26:13 UTC*
+*Last updated at 2026-09-19 22:50:31 UTC*
 *Historical records are stored in the `archive` directory.*
