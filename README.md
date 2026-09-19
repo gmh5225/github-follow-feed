@@ -28,6 +28,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [umpolungfish/byvalver](https://github.com/umpolungfish/byvalver) to [classic130/byvalver](https://github.com/classic130/byvalver)
   > takes shellcode bad-bytes and banishes them, returning cleaned shellcode with preserved functionalit...
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [cclank/cell-architecture-studio](https://github.com/cclank/cell-architecture-studio)
+  > Interactive 3D cell architecture gallery built with React and Three.js
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [asciimoo/hister](https://github.com/asciimoo/hister)
+  > Your own search engine
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [BuilderIO/skills](https://github.com/BuilderIO/skills)
   > Skills for agents
@@ -36,11 +42,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [purehate/herdr-plugin-picker](https://github.com/purehate/herdr-plugin-picker)
   > Floating popup picker for Herdr — jump to any space, agent, tab or pane, broadcast one command to ev...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [robbietilton/Compositor](https://github.com/robbietilton/Compositor)
+  > The Photoshop alternative for Mac
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [NIKJOO/VSEC-REVoid](https://github.com/NIKJOO/VSEC-REVoid)
   > Advanced C++ Source Code Obfuscator
 
 
 ---
-*Last updated at 2026-09-19 17:08:15 UTC*
+*Last updated at 2026-09-19 20:26:13 UTC*
 *Historical records are stored in the `archive` directory.*
