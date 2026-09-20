@@ -43,6 +43,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)
   > Local typed decisions, contrastive data curation, and model evaluation.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shhivv/arc-cua](https://github.com/shhivv/arc-cua)
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [MSNightmare/BigDiskBuster](https://github.com/MSNightmare/BigDiskBuster) to [classic130/BigDiskBuster](https://github.com/classic130/BigDiskBuster)
@@ -76,6 +77,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google/ax](https://github.com/google/ax)
   > Google's open agentic orchestrator
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [kmooney/jamsesh](https://github.com/kmooney/jamsesh)
+  > Midi Jambox with Jev
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [LittleBigRefresh/scetool](https://github.com/LittleBigRefresh/scetool) to [mrexodia/scetool](https://github.com/mrexodia/scetool)
   > Modification around SCETool to turn it into a library.
@@ -92,11 +97,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MrNeRF/LichtFeld-Studio](https://github.com/MrNeRF/LichtFeld-Studio)
   > Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native applica...
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-keys-ui](https://github.com/simonw/llm-keys-ui) public
+  > LLM web UI for setting keys
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/capa-cpp](https://github.com/HullaBrian/capa-cpp)
   > Targeted C++ reimplementation of CAPA
 
 
 ---
-*Last updated at 2026-09-20 18:38:50 UTC*
+*Last updated at 2026-09-20 21:23:17 UTC*
 *Historical records are stored in the `archive` directory.*
