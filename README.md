@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [0xAX](https://github.com/0xAX)
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [0xAX/BootLife](https://github.com/0xAX/BootLife)
   > Conway's Game of Life running directly from a 512-byte x86 boot sector, using VGA memory as the simu...
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [mgumz/knut](https://github.com/mgumz/knut)
+  > a tiny webserver which throws (file-) trees through a window
 
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
@@ -34,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [SakuraCordApp/SakuraCord](https://github.com/SakuraCordApp/SakuraCord)
   > A native macOS Discord client written in Swift and SwiftUI.
 
+### [TheCruZ](https://github.com/TheCruZ)
+- 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [stablyai/orca](https://github.com/stablyai/orca)
+  > Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subs...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble)
   > Local typed decisions, contrastive data curation, and model evaluation.
@@ -58,15 +64,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [h4x0r-dz/Leaked-Credentials](https://github.com/h4x0r-dz/Leaked-Credentials) to [classic130/Leaked-Credentials](https://github.com/classic130/Leaked-Credentials)
   > how to look for Leaked Credentials !
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [can1357/jegrep](https://github.com/can1357/jegrep)
   > Semantic grep: find code by describing what you're looking for, powered by Jev.
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [google/ax](https://github.com/google/ax)
+  > Google's open agentic orchestrator
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [LittleBigRefresh/scetool](https://github.com/LittleBigRefresh/scetool) to [mrexodia/scetool](https://github.com/mrexodia/scetool)
   > Modification around SCETool to turn it into a library.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xangel82/Athena-Engine](https://github.com/xangel82/Athena-Engine)
   > LLM Engine for DGX Spark 
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jaredpalmer/kev](https://github.com/jaredpalmer/kev)
+  > tiny Jev-like family of decision models built on top of Qwen3 you can train and run on your own
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
@@ -82,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-20 15:53:33 UTC*
+*Last updated at 2026-09-20 18:38:50 UTC*
 *Historical records are stored in the `archive` directory.*
