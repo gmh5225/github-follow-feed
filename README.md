@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [google/ax](https://github.com/google/ax)
   > Google's open agentic orchestration runtime
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Rinnegatamante/Crash-Team-Racing-High-Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane)
+  > Advanced sourceport of Crash Team Racing for PSVita, PC and Web Browser.
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [sliverarmory/sliver-py](https://github.com/sliverarmory/sliver-py)
   > A Python gRPC Client Library for Sliver
@@ -59,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Bareflank/MicroV](https://github.com/Bareflank/MicroV) to [classic130/MicroV](https://github.com/classic130/MicroV)
   > A micro hypervisor for running micro VMs
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Exploit-Garbage/0day-Rubbish](https://github.com/Exploit-Garbage/0day-Rubbish) to [classic130/0day-Rubbish](https://github.com/classic130/0day-Rubbish)
+  > Redefining vulnerability disclosure in the AI era. We mass-produce exploitable 0days and disclose th...
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [google/ax](https://github.com/google/ax)
@@ -87,7 +93,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [purplecandy/calibre-zen](https://github.com/purplecandy/calibre-zen)
-  > A modern fork of Calibre out of the box
+  > A modern interface for Calibre
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat)
   > A batteries-included framework for building web apps
 
@@ -105,6 +111,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [entropykit/entropia](https://github.com/entropykit/entropia)
   > A compiled language for Windows position-independent x86-64 shellcode and Beacon Object Files.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [mubix/ai-ctf](https://github.com/mubix/ai-ctf)
+  > An AI CTF challenges to learn some of the risks that AI Chatbots pose
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [can1357/jegrep](https://github.com/can1357/jegrep)
@@ -118,6 +126,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mubix](https://github.com/mubix)
 - 🚀 👤 [mubix](https://github.com/mubix) Made [mubix/ntlmscout-go](https://github.com/mubix/ntlmscout-go) public
   > Go-port of https://github.com/boydhacks/ntlmscout
+
+### [nrc](https://github.com/nrc)
+- 🍴 👤 [nrc](https://github.com/nrc) Forked [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) to [nrc/tailscale-rs](https://github.com/nrc/tailscale-rs)
+  > Rust implementation of Tailscale (preview, experimental)
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [DanielMartensson/ImTube](https://github.com/DanielMartensson/ImTube)
@@ -138,5 +150,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-21 19:13:51 UTC*
+*Last updated at 2026-09-21 23:08:24 UTC*
 *Historical records are stored in the `archive` directory.*
