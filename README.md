@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kdomanski/iso9660](https://github.com/kdomanski/iso9660)
   > A go library for reading and creating ISO9660 images
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [xunholy/promptzero](https://github.com/xunholy/promptzero)
+  > AI operated Flipper Zero
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yruh/r0dump-redmi9a-crdroid16](https://github.com/yruh/r0dump-redmi9a-crdroid16) to [CrackerCat/r0dump-redmi9a-crdroid16](https://github.com/CrackerCat/r0dump-redmi9a-crdroid16)
@@ -45,6 +49,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
   > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
@@ -73,6 +79,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Apkx-Hunter is an Android Static Analysis Framework in Debian Package written entirely in C with OWA...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) to [classic130/ai-mobile-reverse-skills](https://github.com/classic130/ai-mobile-reverse-skills)
   > 面向移动安全分析场景的 6 阶段总控 Skill。用于统一调度 APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付流程。支持 JADX MCP、Burp/...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [AgarwalKritik/garlic-gui](https://github.com/AgarwalKritik/garlic-gui) to [classic130/garlic-gui](https://github.com/classic130/garlic-gui)
+  > Garlic Decompiler (GUI) - A modern C++/Qt6 desktop interface for the Garlic Decompiler, bringing bla...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Krainium/ApkSignatureKillerX](https://github.com/Krainium/ApkSignatureKillerX) to [classic130/ApkSignatureKillerX](https://github.com/classic130/ApkSignatureKillerX)
+  > Next-gen Android APK signature verification bypass. Defeats direct-syscall checks, VMP packers (Ijia...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [google/ax](https://github.com/google/ax)
+  > Google's open agentic orchestration runtime
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [marcosd4h/mdm](https://github.com/marcosd4h/mdm)
@@ -89,6 +103,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [packyme/privacy-filter](https://github.com/packyme/privacy-filter) to [hzqst/privacy-filter](https://github.com/hzqst/privacy-filter)
   > LLM privacy gateway in Go — millisecond-latency PII and secret redaction. Used in production by Pack...
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [JKornev/hidden](https://github.com/JKornev/hidden)
+  > 🇺🇦 Windows driver with usermode interface which can hide processes, file-system and registry objects...
+
 ### [karalabe](https://github.com/karalabe)
 - 🚀 👤 [karalabe](https://github.com/karalabe) Made [dark-bio/.github](https://github.com/dark-bio/.github) public
   > GitHub organization profile page
@@ -104,12 +122,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
   > Lakehouse native graph engine with git-style workflows
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > Fastest and cheapest web agent
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
   > Browser automation CLI for AI agents
+- 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/iqtest](https://github.com/petercunha/iqtest) public
+  > CognitiveMetrics CORE IQ test questions, optimized battery
 
 ### [rui314](https://github.com/rui314)
 - 🍴 👤 [rui314](https://github.com/rui314) Forked [rems-project/isla](https://github.com/rems-project/isla) to [rui314/isla](https://github.com/rui314/isla)
@@ -125,5 +147,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-22 14:36:30 UTC*
+*Last updated at 2026-09-22 18:42:03 UTC*
 *Historical records are stored in the `archive` directory.*
