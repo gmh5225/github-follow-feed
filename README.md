@@ -30,6 +30,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AI operated Flipper Zero
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
   > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [xqzme69/A2MBA-LLVM](https://github.com/xqzme69/A2MBA-LLVM)
+  > LLVM 21 pass plugin for A²MBA architectural and anti-generalization hardening of mixed Boolean-arith...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yruh/r0dump-redmi9a-crdroid16](https://github.com/yruh/r0dump-redmi9a-crdroid16) to [CrackerCat/r0dump-redmi9a-crdroid16](https://github.com/CrackerCat/r0dump-redmi9a-crdroid16)
@@ -42,9 +44,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mufeiyu-ayu/agent](https://github.com/mufeiyu-ayu/agent) to [CrackerCat/agent](https://github.com/CrackerCat/agent)
   > 记录学习 agent 应用开发过程
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2)
+  > Chat client for https://twitch.tv
+
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [jasper-sinclair/PDP-11-Chess-VI-Belle](https://github.com/jasper-sinclair/PDP-11-Chess-VI-Belle)
   > Groundbreaking early 1970s chess engine, ported to Windows with full UCI support
+
+### [MiaAI-Lab](https://github.com/MiaAI-Lab)
+- 🍴 👤 [MiaAI-Lab](https://github.com/MiaAI-Lab) Forked [stepfun-ai/Step-Code](https://github.com/stepfun-ai/Step-Code) to [MiaAI-Lab/Step-Code](https://github.com/MiaAI-Lab/Step-Code)
 
 ### [archercreat](https://github.com/archercreat)
 - 🌟 👤 [archercreat](https://github.com/archercreat) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
@@ -61,6 +70,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set p...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
   > Solution for long term memory for agent coding CLIs and to facilitate handoff between different agen...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent)
+  > Async-first agent harness
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) to [classic130/robin](https://github.com/classic130/robin)
@@ -83,6 +94,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Garlic Decompiler (GUI) - A modern C++/Qt6 desktop interface for the Garlic Decompiler, bringing bla...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Krainium/ApkSignatureKillerX](https://github.com/Krainium/ApkSignatureKillerX) to [classic130/ApkSignatureKillerX](https://github.com/classic130/ApkSignatureKillerX)
   > Next-gen Android APK signature verification bypass. Defeats direct-syscall checks, VMP packers (Ijia...
+
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [HullaBrian/ttd-capa-cpp](https://github.com/HullaBrian/ttd-capa-cpp)
+  > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [google/ax](https://github.com/google/ax)
@@ -116,6 +131,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [boydhacks/ntlmscout](https://github.com/boydhacks/ntlmscout)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
+  > A playbook for systematically maximizing the performance of deep learning models.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [tensorflow/playground](https://github.com/tensorflow/playground)
+  > Play with neural networks!
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
@@ -147,5 +166,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-22 18:42:03 UTC*
+*Last updated at 2026-09-22 21:56:46 UTC*
 *Historical records are stored in the `archive` directory.*
