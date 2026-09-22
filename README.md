@@ -23,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [CR3Swapper](https://github.com/CR3Swapper) Starred [tremwil/dearxan](https://github.com/tremwil/dearxan)
   > Rust crate for analyzing and neutering Arxan in FromSoftware games
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kdomanski/iso9660](https://github.com/kdomanski/iso9660)
+  > A go library for reading and creating ISO9660 images
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yruh/r0dump-redmi9a-crdroid16](https://github.com/yruh/r0dump-redmi9a-crdroid16) to [CrackerCat/r0dump-redmi9a-crdroid16](https://github.com/CrackerCat/r0dump-redmi9a-crdroid16)
   > Reproducible R0DUMP port patches for crDroid 12 / Android 16 on Redmi 9A (blossom)
@@ -38,16 +42,37 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [jasper-sinclair/PDP-11-Chess-VI-Belle](https://github.com/jasper-sinclair/PDP-11-Chess-VI-Belle)
   > Groundbreaking early 1970s chess engine, ported to Windows with full UCI support
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf)
   > Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [AndrewPrifer/jimothy](https://github.com/AndrewPrifer/jimothy)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [formiat/px4-ros2-drone-nav](https://github.com/formiat/px4-ros2-drone-nav)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock)
+  > OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set p...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+  > Solution for long term memory for agent coding CLIs and to facilitate handoff between different agen...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin) to [classic130/robin](https://github.com/classic130/robin)
   > AI-Powered Dark Web OSINT Tool
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [9bie/iatHijackGenerate](https://github.com/9bie/iatHijackGenerate) to [classic130/iatHijackGenerate](https://github.com/classic130/iatHijackGenerate)
   > 白加黑的快速生成器（针对IAT类型）
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [lumirelle/android-killer-jadx-gui-support](https://github.com/lumirelle/android-killer-jadx-gui-support) to [classic130/android-killer-jadx-gui-support](https://github.com/classic130/android-killer-jadx-gui-support)
+  > 让 Android Killer 使用 jadx-gui 来代替 jd-gui 💕。
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [murrez/CVE-2026-92229](https://github.com/murrez/CVE-2026-92229) to [classic130/CVE-2026-92229](https://github.com/classic130/CVE-2026-92229)
+  > CVE-2026-92229 — Forminator ≤1.57.2 unauth shortcode exec (current_url / quiz AJAX). Python 3 PoC.
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Ping-2o/24A435-audit](https://github.com/Ping-2o/24A435-audit) to [classic130/24A435-audit](https://github.com/classic130/24A435-audit)
+  > audit of 24a435
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [ShadowOpCode/BotC2-RAT](https://github.com/ShadowOpCode/BotC2-RAT) to [classic130/BotC2-RAT](https://github.com/classic130/BotC2-RAT)
+  > FULL reverse engineering of a new undocumented Remote Access Trojan with C2 emulation
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [SyscallX-18113/Apkx-Hunter](https://github.com/SyscallX-18113/Apkx-Hunter) to [classic130/Apkx-Hunter](https://github.com/classic130/Apkx-Hunter)
+  > Apkx-Hunter is an Android Static Analysis Framework in Debian Package written entirely in C with OWA...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Fausto-404/ai-mobile-reverse-skills](https://github.com/Fausto-404/ai-mobile-reverse-skills) to [classic130/ai-mobile-reverse-skills](https://github.com/classic130/ai-mobile-reverse-skills)
+  > 面向移动安全分析场景的 6 阶段总控 Skill。用于统一调度 APK 静态侦察、流量与代码对齐、SO/JNI 深度分析、加密与漏洞综合分析、验证设计与报告交付流程。支持 JADX MCP、Burp/...
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [marcosd4h/mdm](https://github.com/marcosd4h/mdm)
@@ -64,6 +89,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [packyme/privacy-filter](https://github.com/packyme/privacy-filter) to [hzqst/privacy-filter](https://github.com/hzqst/privacy-filter)
   > LLM privacy gateway in Go — millisecond-latency PII and secret redaction. Used in production by Pack...
 
+### [karalabe](https://github.com/karalabe)
+- 🚀 👤 [karalabe](https://github.com/karalabe) Made [dark-bio/.github](https://github.com/dark-bio/.github) public
+  > GitHub organization profile page
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
 
@@ -71,8 +100,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [boydhacks/ntlmscout](https://github.com/boydhacks/ntlmscout)
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xqzme69/A2MBA-LLVM](https://github.com/xqzme69/A2MBA-LLVM)
-  > LLVM 21 pass plugin for A²MBA architectural and anti-generalization hardening of mixed Boolean-arith...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [maanHimself/OpenDLSS-NR](https://github.com/maanHimself/OpenDLSS-NR)
+  > A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against the origina...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ModernRelay/omnigraph](https://github.com/ModernRelay/omnigraph)
+  > Lakehouse native graph engine with git-style workflows
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
@@ -80,11 +111,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)
   > Browser automation CLI for AI agents
 
+### [rui314](https://github.com/rui314)
+- 🍴 👤 [rui314](https://github.com/rui314) Forked [rems-project/isla](https://github.com/rems-project/isla) to [rui314/isla](https://github.com/rui314/isla)
+  > Symbolic execution tool for Sail ISA specifications
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks](https://github.com/MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks)
+  > MiMo-V2.6-Flash for 2x DGX Sparks
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [heyjunpenn/awesome-jev](https://github.com/heyjunpenn/awesome-jev)
   > A verified, community-maintained catalog of 640 open-source projects built with Jev.
 
 
 ---
-*Last updated at 2026-09-22 09:47:43 UTC*
+*Last updated at 2026-09-22 14:36:30 UTC*
 *Historical records are stored in the `archive` directory.*
