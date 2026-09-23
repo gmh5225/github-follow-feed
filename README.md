@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Capability extraction from Time Travel Debugging Traces with C++ Implementation of CAPA that support...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [iqiziqi/ncmdump.rs](https://github.com/iqiziqi/ncmdump.rs) to [CrackerCat/ncmdump.rs](https://github.com/CrackerCat/ncmdump.rs)
   > netease cloud music copyright protection file dump by rust
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [arr2036/yksofttoken](https://github.com/arr2036/yksofttoken) to [CrackerCat/yksofttoken](https://github.com/CrackerCat/yksofttoken)
+  > Software emulation of Yubikey hardware tokens in HOTP mode
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [HullaBrian/capa-cpp](https://github.com/HullaBrian/capa-cpp)
@@ -22,7 +24,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [vitaut/zmij](https://github.com/vitaut/zmij)
   > A fast floating-point-to-string conversion library for C and C++
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [Bezronczek/syntakt-firmware-workbench](https://github.com/Bezronczek/syntakt-firmware-workbench)
+  > Unofficial browser workbench for Elektron Syntakt OS 1.41: put your own waves into SY CHORD. Works o...
+
 
 ---
-*Last updated at 2026-09-23 05:45:54 UTC*
+*Last updated at 2026-09-23 11:17:59 UTC*
 *Historical records are stored in the `archive` directory.*
