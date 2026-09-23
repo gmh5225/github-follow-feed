@@ -13,6 +13,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > LEA-256 Implementation
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [hseoa/ironshield-analysis](https://github.com/hseoa/ironshield-analysis)
   > Static analysis of Ironshield anti-cheat
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [HimitsuShell/HimitsuShell](https://github.com/HimitsuShell/HimitsuShell)
+  > shell script protector (obfuscation, embedded interpreter, DRM) - invisible to kernel tracing
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tjsky/pinyin-annotator](https://github.com/tjsky/pinyin-annotator) to [CrackerCat/pinyin-annotator](https://github.com/CrackerCat/pinyin-annotator)
@@ -29,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Targeted C++ reimplementation of CAPA
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > Fastest and cheapest web agent
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI)
+  > Resizable BAR for (almost) any UEFI system
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Bert-JanP/EntraTrace](https://github.com/Bert-JanP/EntraTrace) to [classic130/EntraTrace](https://github.com/classic130/EntraTrace)
@@ -64,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-23 16:39:49 UTC*
+*Last updated at 2026-09-23 20:07:14 UTC*
 *Historical records are stored in the `archive` directory.*
