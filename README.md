@@ -4,6 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [usbarmory/tamago](https://github.com/usbarmory/tamago)
+  > TamaGo - bare metal Go
+
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [enoma422/LEA-256](https://github.com/enoma422/LEA-256)
+  > LEA-256 Implementation
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [hseoa/ironshield-analysis](https://github.com/hseoa/ironshield-analysis)
+  > Static analysis of Ironshield anti-cheat
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tjsky/pinyin-annotator](https://github.com/tjsky/pinyin-annotator) to [CrackerCat/pinyin-annotator](https://github.com/CrackerCat/pinyin-annotator)
   > 一键给中文文章加上汉语拼音，生成适合幼儿园至小学低年级儿童的注音读物。
@@ -20,9 +30,33 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > Fastest and cheapest web agent
 
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [vitaut/zmij](https://github.com/vitaut/zmij)
-  > A fast floating-point-to-string conversion library for C and C++
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Bert-JanP/EntraTrace](https://github.com/Bert-JanP/EntraTrace) to [classic130/EntraTrace](https://github.com/classic130/EntraTrace)
+  > EntraTrace is a defensive security research tool for tracking and identifying the behavior of offens...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [vega/vega](https://github.com/vega/vega)
+  > A visualization grammar.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [vega/vega-lite](https://github.com/vega/vega-lite)
+  > A concise grammar of interactive graphics, built on Vega.
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [vega/altair](https://github.com/vega/altair)
+  > Declarative visualization library for Python
+
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) to [ioncodes/dolphin](https://github.com/ioncodes/dolphin)
+  > Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with ...
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🍴 👤 [mcdulltii](https://github.com/mcdulltii) Forked [Markakd/Container_escape](https://github.com/Markakd/Container_escape) to [mcdulltii/CVE-2026-80521-52910](https://github.com/mcdulltii/CVE-2026-80521-52910)
+  > container escape POCs for CVE-2026-80521 and CVE-2026-52910
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks)
+  > GLM-5.3 Flash EXL3 for 2-4x DGX Sparks
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SentineLabs/verified-ida](https://github.com/SentineLabs/verified-ida)
+  > Verified IDA is a harness for model-led reverse engineering.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [Bezronczek/syntakt-firmware-workbench](https://github.com/Bezronczek/syntakt-firmware-workbench)
@@ -30,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-23 11:17:59 UTC*
+*Last updated at 2026-09-23 16:39:49 UTC*
 *Historical records are stored in the `archive` directory.*
