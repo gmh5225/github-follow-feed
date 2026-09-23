@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [xCuri0/ReBarUEFI](https://github.com/xCuri0/ReBarUEFI)
   > Resizable BAR for (almost) any UEFI system
 
+### [cfallin](https://github.com/cfallin)
+- 🍴 👤 [cfallin](https://github.com/cfallin) Forked [bytecodealliance/ComponentizeJS](https://github.com/bytecodealliance/ComponentizeJS) to [cfallin/ComponentizeJS](https://github.com/cfallin/ComponentizeJS)
+  > JS -> WebAssembly Component
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Bert-JanP/EntraTrace](https://github.com/Bert-JanP/EntraTrace) to [classic130/EntraTrace](https://github.com/classic130/EntraTrace)
   > EntraTrace is a defensive security research tool for tracking and identifying the behavior of offens...
@@ -47,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A concise grammar of interactive graphics, built on Vega.
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [vega/altair](https://github.com/vega/altair)
   > Declarative visualization library for Python
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
+  > Bit-vector expression simplifier for binary analysis and deobfuscation
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) to [ioncodes/dolphin](https://github.com/ioncodes/dolphin)
@@ -70,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-23 20:07:14 UTC*
+*Last updated at 2026-09-23 23:32:47 UTC*
 *Historical records are stored in the `archive` directory.*
