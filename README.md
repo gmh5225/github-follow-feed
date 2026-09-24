@@ -27,6 +27,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
   > Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ...
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Armur-Ai/Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+  > Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, explo...
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
+  > A AI general-purpose state-space search engine, validated first on autonomous penetration testing.
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [AISecurityConsortium/AIGoat](https://github.com/AISecurityConsortium/AIGoat)
+  > AIGoat - Open-source AI security playground for LLM red teaming. AI Goat provides hands-on labs cove...
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [irsdl/ysonet](https://github.com/irsdl/ysonet)
@@ -37,6 +43,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [NaC-L](https://github.com/NaC-L)
 - 🍴 👤 [NaC-L](https://github.com/NaC-L) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [NaC-L/oh-my-pi](https://github.com/NaC-L/oh-my-pi)
   > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
+
+### [benvanik](https://github.com/benvanik)
+- 🍴 👤 [benvanik](https://github.com/benvanik) Forked [tobi/walgit](https://github.com/tobi/walgit) to [benvanik/walgit](https://github.com/benvanik/walgit)
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [derv82/wifit3](https://github.com/derv82/wifit3)
@@ -59,6 +68,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build fronte...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [vercel-labs/emulate](https://github.com/vercel-labs/emulate)
   > Local API emulation for CI and no-network sandboxes
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [responsibleai/ASSERT](https://github.com/responsibleai/ASSERT)
+  > Requirement-driven evaluation harness for AI agents and LLM applications. Generate behavior-specific...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [christianrowlands/wavedigger](https://github.com/christianrowlands/wavedigger)
+  > BSSID Search in Apple's public WPS service
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [rizinorg/rizin](https://github.com/rizinorg/rizin)
+  > UNIX-like reverse engineering framework and command-line toolset.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nowsecure/r2frida](https://github.com/nowsecure/r2frida)
+  > Radare2 and Frida better together.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [radareorg/r2ghidra](https://github.com/radareorg/r2ghidra)
+  > Native Ghidra Decompiler for r2
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp)
+  > MCP stdio server for radare2
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography) to [classic130/Practical-Cryptography](https://github.com/classic130/Practical-Cryptography)
@@ -86,6 +107,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [mo0kid/maschine-md-mm](https://github.com/mo0kid/maschine-md-mm)
+- 🌟 👤 [patois](https://github.com/patois) Starred [allthingsida/idasql](https://github.com/allthingsida/idasql)
+  > Vibe Reverse Engineer with IDA SQL: An interface for IDA in SQL via live virtual tables
+- 🌟 👤 [patois](https://github.com/patois) Starred [allthingsida/idasql-skills](https://github.com/allthingsida/idasql-skills)
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [soxoj/maigret](https://github.com/soxoj/maigret)
@@ -95,11 +119,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [benjiyaya/Minimax-H3-Prompt-AgentSkill](https://github.com/benjiyaya/Minimax-H3-Prompt-AgentSkill)
   > Use when making MiniMax H3 video prompts from media + ideas. Agent will do an formatted prompt for y...
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec)
-  > Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build fronte...
-
 
 ---
-*Last updated at 2026-09-24 18:58:25 UTC*
+*Last updated at 2026-09-24 22:14:50 UTC*
 *Historical records are stored in the `archive` directory.*
