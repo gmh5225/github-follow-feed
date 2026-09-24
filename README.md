@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
+  > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [extism/extism](https://github.com/extism/extism)
+  > The framework for building with WebAssembly (wasm). Easily & securely load wasm modules, move data, ...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HullaBrian/ttd-yara](https://github.com/HullaBrian/ttd-yara) to [CrackerCat/ttd-yara](https://github.com/CrackerCat/ttd-yara)
   > YARA scanning for Time Travel Debugging traces
@@ -17,6 +23,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya)
   > Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ...
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [irsdl/ysonet](https://github.com/irsdl/ysonet)
+  > Deserialization payload generator for a variety of .NET formatters
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [yu1745/wetype-ime-linux](https://github.com/yu1745/wetype-ime-linux)
+  > Linux port and Fcitx 5 integration for the WeType Android input engine
 
 ### [NaC-L](https://github.com/NaC-L)
 - 🍴 👤 [NaC-L](https://github.com/NaC-L) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [NaC-L/oh-my-pi](https://github.com/NaC-L/oh-my-pi)
@@ -44,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Lesserkuma/FlashGBX](https://github.com/Lesserkuma/FlashGBX)
   > Reads and writes Game Boy and Game Boy Advance cartridge data. Supported hardware: GBxCart RW, GBFla...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/nexos-pi-provider](https://github.com/mrexodia/nexos-pi-provider) public
+  > Authenticated Nexos model discovery for pi and Oh My Pi
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [mo0kid/maschine-md-mm](https://github.com/mo0kid/maschine-md-mm)
 
@@ -53,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-24 09:50:18 UTC*
+*Last updated at 2026-09-24 14:50:17 UTC*
 *Historical records are stored in the `archive` directory.*
