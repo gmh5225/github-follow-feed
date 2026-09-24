@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [ricardojoserf/CrystalPotato](https://github.com/ricardojoserf/CrystalPotato)
+  > Crystal port of GodPotato to abuse SeImpersonatePrivilege with indirect syscalls, dynamic API resolu...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws)
   > A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a s...
@@ -45,9 +49,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > writing correct lock-free and distributed stateful systems in Rust, assisted by TLA+
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [hydro-project/hydro](https://github.com/hydro-project/hydro)
   > A Rust framework for correct and performant distributed systems
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JakWai01/lurk](https://github.com/JakWai01/lurk)
+  > A pretty (simple) alternative to strace.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [NASA-SW-VnV/fret](https://github.com/NASA-SW-VnV/fret)
+  > A framework for the elicitation, specification, formalization and analysis of requirements.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [verus-lang/verus](https://github.com/verus-lang/verus)
+  > Verified Rust for low-level systems code
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec)
+  > Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build fronte...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [vercel-labs/emulate](https://github.com/vercel-labs/emulate)
+  > Local API emulation for CI and no-network sandboxes
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography) to [classic130/Practical-Cryptography](https://github.com/classic130/Practical-Cryptography)
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [manasghandat/LLVM-Lens](https://github.com/manasghandat/LLVM-Lens)
@@ -56,18 +74,32 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Lesserkuma/FlashGBX](https://github.com/Lesserkuma/FlashGBX)
   > Reads and writes Game Boy and Game Boy Advance cartridge data. Supported hardware: GBxCart RW, GBFla...
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+  > SVG icons for popular brands
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🚀 👤 [mrexodia](https://github.com/mrexodia) Made [mrexodia/nexos-pi-provider](https://github.com/mrexodia/nexos-pi-provider) public
   > Authenticated Nexos model discovery for pi and Oh My Pi
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [keshav-exe/mdxcn](https://github.com/keshav-exe/mdxcn)
+  > mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy ...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [mo0kid/maschine-md-mm](https://github.com/mo0kid/maschine-md-mm)
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [soxoj/maigret](https://github.com/soxoj/maigret)
+  > 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [benjiyaya/Minimax-H3-Prompt-AgentSkill](https://github.com/benjiyaya/Minimax-H3-Prompt-AgentSkill)
   > Use when making MiniMax H3 video prompts from media + ideas. Agent will do an formatted prompt for y...
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [docker/sandbox-kit-spec](https://github.com/docker/sandbox-kit-spec)
+  > Docker Sandbox Kit Specification v3 — the kit descriptor grammar, the OCI artifact, the build fronte...
+
 
 ---
-*Last updated at 2026-09-24 14:50:17 UTC*
+*Last updated at 2026-09-24 18:58:25 UTC*
 *Historical records are stored in the `archive` directory.*
