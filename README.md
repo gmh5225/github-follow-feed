@@ -4,14 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Joshhhuaaa/EnhancedRS](https://github.com/Joshhhuaaa/EnhancedRS)
-  > A patch for the original Rainbow Six, fixing bugs and adding gameplay improvements.
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Joshhhuaaa/EnhancedRS3](https://github.com/Joshhhuaaa/EnhancedRS3)
-  > A patch for Rainbow Six 3, fixing bugs and adding gameplay improvements.
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [Joshhhuaaa/EnhancedSWAT4](https://github.com/Joshhhuaaa/EnhancedSWAT4)
-  > A patch for SWAT 4 and its expansion, SWAT 4: The Stetchkov Syndicate, fixing bugs and improving gam...
-
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [tihanyin/REx-skill](https://github.com/tihanyin/REx-skill)
   > REx@Skill - Agentic Reverse Engineering eXecution Skill for binary vulnerability discovery
@@ -113,11 +105,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [Ch0pin/rdx](https://github.com/Ch0pin/rdx)
   > A native APK and DEX decompiler written in Rust
 
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [zed-industries/awesome-gpui](https://github.com/zed-industries/awesome-gpui)
+  > Awesome projects, built with or for GPUI!
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [jax-ml/jax](https://github.com/jax-ml/jax)
+  > Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and m...
+
 ### [karalabe](https://github.com/karalabe)
 - 🍴 👤 [karalabe](https://github.com/karalabe) Forked [dark-bio/clock-rs](https://github.com/dark-bio/clock-rs) to [karalabe/darkbio-clock-rs](https://github.com/karalabe/darkbio-clock-rs)
-  > Virtual Clock for Testing Blocking Rust Code
+  > Virtual clock for testing blocking Rust
 - 🌟 👤 [karalabe](https://github.com/karalabe) Starred [dark-bio/clock-rs](https://github.com/dark-bio/clock-rs)
-  > Virtual Clock for Testing Blocking Rust Code
+  > Virtual clock for testing blocking Rust
 
 ### [khang06](https://github.com/khang06)
 - 🍴 👤 [khang06](https://github.com/khang06) Forked [onekey-sec/ubi_reader](https://github.com/onekey-sec/ubi_reader) to [khang06/ubi_reader](https://github.com/khang06/ubi_reader)
@@ -125,7 +123,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ngwg/ceasta](https://github.com/ngwg/ceasta)
-  > disassembler, decompiler and debugger in one, with a built-in mcp server — point an ai at a binary a...
+  > disassembler, decompiler and debugger in one, with a built-in mcp server: point an ai at a binary an...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [valeria-org/bitwright](https://github.com/valeria-org/bitwright)
   > Bit-vector expression simplifier for binary analysis and deobfuscation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill)
@@ -146,6 +144,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [okcontract/oksolc](https://github.com/okcontract/oksolc)
   > A Solidity compiler written in Zig
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [kassandraoftroy/hegota-kohaku-cli](https://github.com/kassandraoftroy/hegota-kohaku-cli)
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [hefesto84/div-games-studio](https://github.com/hefesto84/div-games-studio)
@@ -160,11 +159,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin)
   > A modern Jellyfin client built with Expo
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
   > Official Hex-Rays IDA MCP Server.
 
 
 ---
-*Last updated at 2026-09-25 18:26:16 UTC*
+*Last updated at 2026-09-25 22:10:04 UTC*
 *Historical records are stored in the `archive` directory.*
