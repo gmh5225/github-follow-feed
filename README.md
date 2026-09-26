@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter)
   > Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+
 ### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
 - 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [S3cur3Th1sSh1t/SnafflePy](https://github.com/S3cur3Th1sSh1t/SnafflePy)
   > Snaffler in Python
@@ -63,6 +67,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Sound static analysis and LLM reasoning, in one security agent
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [omacom/ttfx](https://github.com/omacom/ttfx)
   > Terminal text effects as a single static binary — a parity-exact Rust port of terminaltexteffects
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bellingcat/osm-search](https://github.com/bellingcat/osm-search)
+  > A user friendly way to search OpenStreetMap data for features in proximity to each other.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+  > MapLibre GL JS - Interactive vector tile maps in the browser
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bellingcat/ShadowFinder](https://github.com/bellingcat/ShadowFinder)
+  > Find possible locations of shadows around the world
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [petermalone/CVE-2026-43682](https://github.com/petermalone/CVE-2026-43682) to [classic130/CVE-2026-43682](https://github.com/classic130/CVE-2026-43682)
@@ -74,11 +84,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [0xeb/libghidra](https://github.com/0xeb/libghidra)
   > SDK for automating Ghidra from Python, Rust, and C++. Decompile, rename, annotate, inspect symbols/t...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [esp-rs/esp-generate](https://github.com/esp-rs/esp-generate)
+  > Template generation tool to create no_std applications targeting Espressif's chips.
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [amruth-sn/kong](https://github.com/amruth-sn/kong) to [hzqst/kong](https://github.com/hzqst/kong)
   > The world's first agentic reverse engineer.
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [Dryxio/reagent](https://github.com/Dryxio/reagent) to [hzqst/reagent](https://github.com/hzqst/reagent)
   > Reconstruct and validate C/C++ code from compiled programs with AI.
+
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [Rust-GPU/rust-gpu](https://github.com/Rust-GPU/rust-gpu)
+  > 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [tile-ai/tilelang](https://github.com/tile-ai/tilelang)
+  >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip)
@@ -97,6 +117,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [irpina/digislicer](https://github.com/irpina/digislicer)
   > Slicer for the Digitakt Mk1
+- 🌟 👤 [patois](https://github.com/patois) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
@@ -108,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-26 17:01:59 UTC*
+*Last updated at 2026-09-26 20:56:56 UTC*
 *Historical records are stored in the `archive` directory.*
