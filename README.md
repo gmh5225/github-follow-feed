@@ -17,6 +17,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PoC for WinNotify, demonstrated through a driver mapper, and local privilege escalation.
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [wine-mirror/wine](https://github.com/wine-mirror/wine)
 
+### [JustasMasiulis](https://github.com/JustasMasiulis)
+- 🍴 👤 [JustasMasiulis](https://github.com/JustasMasiulis) Forked [microsoft/usersim](https://github.com/microsoft/usersim) to [JustasMasiulis/usersim](https://github.com/JustasMasiulis/usersim)
+
 ### [MiaAI-Lab](https://github.com/MiaAI-Lab)
 - 🍴 👤 [MiaAI-Lab](https://github.com/MiaAI-Lab) Forked [ashhart/TensorFold](https://github.com/ashhart/TensorFold) to [MiaAI-Lab/TensorFold](https://github.com/MiaAI-Lab/TensorFold)
   > Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint
@@ -34,6 +37,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
   > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation)
 
 ### [ZeroMemoryEx](https://github.com/ZeroMemoryEx)
 - 🌟 👤 [ZeroMemoryEx](https://github.com/ZeroMemoryEx) Starred [S3cur3Th1sSh1t/SnafflePy](https://github.com/S3cur3Th1sSh1t/SnafflePy)
@@ -113,12 +117,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Static decompiler, deobfuscator, and unpacker for reverse engineering and malware analysis: Python d...
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [git/git](https://github.com/git/git) to [mrexodia/git](https://github.com/mrexodia/git)
   > Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patc...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
+  > Ablation is a reverse engineering framework
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [irpina/digislicer](https://github.com/irpina/digislicer)
   > Slicer for the Digitakt Mk1
 - 🌟 👤 [patois](https://github.com/patois) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
   > Official Hex-Rays IDA MCP Server.
+
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Adudeguyman/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/Adudeguyman/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder)
+  > A prompt builder and media manager for MiniMax H3.
+- 🍴 👤 [petercunha](https://github.com/petercunha) Forked [Adudeguyman/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/Adudeguyman/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder) to [petercunha/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder](https://github.com/petercunha/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder)
+  > A prompt builder and media manager for MiniMax H3.
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
@@ -130,5 +142,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-26 20:56:56 UTC*
+*Last updated at 2026-09-26 23:29:55 UTC*
 *Historical records are stored in the `archive` directory.*
