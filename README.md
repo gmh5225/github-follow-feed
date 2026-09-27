@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [corca-ai/awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)
+  > A curation of awesome tools, documents and projects about LLM Security.
+
 ### [CalebFenton](https://github.com/CalebFenton)
 - 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
   > Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files a...
@@ -45,9 +49,37 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
   > Ablation is a reverse engineering framework
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [vectorize-io/agent-memory-benchmark](https://github.com/vectorize-io/agent-memory-benchmark)
+  > Agent Memory Benchmark
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [mem0ai/openmemory](https://github.com/mem0ai/openmemory)
+  > Open-source CLI & TUI to port AI coding sessions across Claude Code, Codex, and OpenCode.
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [letta-ai/letta-code](https://github.com/letta-ai/letta-code)
+  > Stateful agents that are like people, with memory, identity, and the ability to learn and adapt
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [letta-ai/letta](https://github.com/letta-ai/letta)
+  > Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+  > Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [getzep/graphiti](https://github.com/getzep/graphiti)
+  > Build Real-Time Knowledge Graphs for AI Agents
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [topoteretes/cognee](https://github.com/topoteretes/cognee)
+  > Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term me...
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU)
+  > Personal memory across agents
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+  > Hindsight: Agent Memory That Learns
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [mem0ai/mem0](https://github.com/mem0ai/mem0)
+  > The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that ...
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+  > LIST OF ALL MY JAILBREAKS
+
 ### [TwoSevenOneT](https://github.com/TwoSevenOneT)
 - 🚀 👤 [TwoSevenOneT](https://github.com/TwoSevenOneT) Made [TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole) public
   > Proof of Concept for Process Code Injection Without Using WriteProcessMemory
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)
+  > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)
@@ -58,6 +90,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Official PyTorch implementation for TCSVT 23 "Detect Any Shadow: Segment Anything for Video Shadow D...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
   > Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files a...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
+  > The headless browser for AI agents and web scraping
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [0x676e67/wreq](https://github.com/0x676e67/wreq)
+  > An ergonomic, privacy-aware Rust HTTP Client
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [TurtIeSocks/zendriver-rs](https://github.com/TurtIeSocks/zendriver-rs)
+  > Async-first, undetectable browser automation in Rust via the Chrome DevTools Protocol. Stealth-by-de...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mattsse/chromiumoxide](https://github.com/mattsse/chromiumoxide)
+  > Chrome Devtools Protocol rust API
 
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [clice-io/xclang](https://github.com/clice-io/xclang)
@@ -95,6 +135,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > OpenAI compatible PI agent gateway and orchestrator
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
   > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MichaelKinsy/PiG](https://github.com/MichaelKinsy/PiG)
+  > PiG (Pi in Go) is a faithful Go port of upstream Pi, the TypeScript codebase behind the Pi coding ag...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [microsoft/usersim](https://github.com/microsoft/usersim)
@@ -122,5 +164,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-27 19:41:45 UTC*
+*Last updated at 2026-09-27 22:55:51 UTC*
 *Historical records are stored in the `archive` directory.*
