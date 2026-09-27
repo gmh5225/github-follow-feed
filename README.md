@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CalebFenton](https://github.com/CalebFenton)
+- 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
+  > Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files a...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dagowda/notRDP](https://github.com/dagowda/notRDP)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alex-sector/dns2tcp](https://github.com/alex-sector/dns2tcp)
@@ -45,11 +49,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [TwoSevenOneT](https://github.com/TwoSevenOneT) Made [TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole) public
   > Proof of Concept for Process Code Injection Without Using WriteProcessMemory
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)
+  > Proof of Concept for Process Code Injection Without Using WriteProcessMemory
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [harrytea/Detect-AnyShadow](https://github.com/harrytea/Detect-AnyShadow)
   > Official PyTorch implementation for TCSVT 23 "Detect Any Shadow: Segment Anything for Video Shadow D...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
   > Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files a...
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [clice-io/xclang](https://github.com/clice-io/xclang)
+  > A self-contained clang cross toolchain: one directory, every target, static runtimes, PGO+LTO. zig c...
+
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [DynamoRIO/dynamorio](https://github.com/DynamoRIO/dynamorio)
+  > Dynamic Instrumentation Tool Platform
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
@@ -66,6 +82,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [roothide/libroothide](https://github.com/roothide/libroothide)
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)
+  > Hindsight: Agent Memory That Learns
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
   > Official Hex-Rays IDA MCP Server.
@@ -73,6 +93,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ALange/Piper](https://github.com/ALange/Piper)
   > OpenAI compatible PI agent gateway and orchestrator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [multikernel/sandlock](https://github.com/multikernel/sandlock)
+  > The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no pr...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [microsoft/usersim](https://github.com/microsoft/usersim)
@@ -81,6 +103,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [soispoke/minimal-shielded-pool](https://github.com/soispoke/minimal-shielded-pool)
+
+### [peperunas](https://github.com/peperunas)
+- 🍴 👤 [peperunas](https://github.com/peperunas) Forked [vllm-project/vllm](https://github.com/vllm-project/vllm) to [peperunas/vllm](https://github.com/peperunas/vllm)
+  > A high-throughput and memory-efficient inference and serving engine for LLMs
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
@@ -96,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-27 15:35:39 UTC*
+*Last updated at 2026-09-27 19:41:45 UTC*
 *Historical records are stored in the `archive` directory.*
