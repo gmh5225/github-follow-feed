@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dagowda/notRDP](https://github.com/dagowda/notRDP)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alex-sector/dns2tcp](https://github.com/alex-sector/dns2tcp)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [agl/curve25519-donna](https://github.com/agl/curve25519-donna)
+  > Implementations of a fast Elliptic-curve Diffie-Hellman primitive
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuroGod/VMPStaticUnpacker](https://github.com/YuroGod/VMPStaticUnpacker) to [CrackerCat/VMPStaticUnpacker](https://github.com/CrackerCat/VMPStaticUnpacker)
@@ -46,6 +48,31 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [harrytea/Detect-AnyShadow](https://github.com/harrytea/Detect-AnyShadow)
   > Official PyTorch implementation for TCSVT 23 "Detect Any Shadow: Segment Anything for Video Shadow D...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [dzhng/jevgrep](https://github.com/dzhng/jevgrep)
+  > Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files a...
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix)
+  > NixOS MicroVMs
+
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DrAbcOfficial/halflife-cli](https://github.com/DrAbcOfficial/halflife-cli) to [hzqst/halflife-cli](https://github.com/hzqst/halflife-cli)
+  > Turn half-life into cli
+
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [roothide/libroothide](https://github.com/roothide/libroothide)
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-mcp](https://github.com/HexRaysSA/ida-mcp)
+  > Official Hex-Rays IDA MCP Server.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HexRaysSA/ida-nexus](https://github.com/HexRaysSA/ida-nexus)
+  > ⚠️ Experimental ⚠️ IDA Nexus allows multiple clients to seamlessly share and operate on IDA database...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ALange/Piper](https://github.com/ALange/Piper)
+  > OpenAI compatible PI agent gateway and orchestrator
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [microsoft/usersim](https://github.com/microsoft/usersim)
@@ -63,7 +90,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Ablation-Tool/ablation](https://github.com/Ablation-Tool/ablation)
   > Ablation is a reverse engineering framework
 
+### [weak1337](https://github.com/weak1337)
+- 🌟 👤 [weak1337](https://github.com/weak1337) Starred [grafana/k6](https://github.com/grafana/k6)
+  > A modern load testing tool, using Go and JavaScript
+
 
 ---
-*Last updated at 2026-09-27 10:29:55 UTC*
+*Last updated at 2026-09-27 15:35:39 UTC*
 *Historical records are stored in the `archive` directory.*
