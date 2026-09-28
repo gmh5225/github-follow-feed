@@ -22,6 +22,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [tailscale/libtailscale](https://github.com/tailscale/libtailscale)
   > Tailscale C library
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [diskfs/go-diskfs](https://github.com/diskfs/go-diskfs)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sims718718/UnifiedThreatHunting](https://github.com/sims718718/UnifiedThreatHunting)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [devZero-Security/redStackPRO](https://github.com/devZero-Security/redStackPRO)
+  > A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Ujhhgtg/WeKit](https://github.com/Ujhhgtg/WeKit) to [CrackerCat/WeKit](https://github.com/CrackerCat/WeKit)
@@ -42,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [NyanSatan/Virtual-iBoot-Fun](https://github.com/NyanSatan/Virtual-iBoot-Fun)
   > Another Virtualization.framework demo project, with focus to iBoot (WIP)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [serjflint/saitenka](https://github.com/serjflint/saitenka)
+  > Turn mpv into a Japanese immersion workstation: dictionary hovers, one-key Anki mining, and FSRS-awa...
 
 ### [TheCruZ](https://github.com/TheCruZ)
 - 🍴 👤 [TheCruZ](https://github.com/TheCruZ) Forked [KytyPS5/KytyPS5](https://github.com/KytyPS5/KytyPS5) to [TheCruZ/KytyPS5-GTA](https://github.com/TheCruZ/KytyPS5-GTA)
@@ -66,18 +71,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A standalone version of the readability lib
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [niklak/dom_smoothie](https://github.com/niklak/dom_smoothie)
   > A Rust crate for extracting readable content from web pages.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cloudflare/forge](https://github.com/cloudflare/forge)
 
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
   > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [dashersw/coyopedal](https://github.com/dashersw/coyopedal)
-  > ESP32-S3 A2-Full NAM pedalboard with direct SD-card NAM loading and a Gea-compiled native frontend
-
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [ToolAssisted-run/jaffarPlus](https://github.com/ToolAssisted-run/jaffarPlus)
   > High-Performance Multi-Platform TAS Optimization Bot
+
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Hyperwise-LLC/freshctx](https://github.com/Hyperwise-LLC/freshctx)
@@ -94,18 +100,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A hands-on catalog of Rust web3 vulnerability patterns, built for a Solidity auditor learning the Ru...
 
 ### [lightclient](https://github.com/lightclient)
-- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
-  > 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensi...
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [foostan/crkbd](https://github.com/foostan/crkbd)
+  > Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [0xhackerfren/ProcMon-MCP](https://github.com/0xhackerfren/ProcMon-MCP)
   > An MCP to expose process monitoring and ETW tracing functionally to AI agents to assist in security ...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [falsisdev/anthology](https://github.com/falsisdev/anthology)
+  > Nuvio ve Stremio için Doğrulanmış Türkçe Film, Dizi, Anime, Canlı TV ve Zengin Katalog Deposu
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
   > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models)
   > Uncensored AI models or those fine-tuned for cybersecurity tasks.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain)
+  > Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says,...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [OrbitCurve/firmware-reverse-engineering](https://github.com/OrbitCurve/firmware-reverse-engineering)
@@ -124,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-09-28 17:33:27 UTC*
+*Last updated at 2026-09-28 23:08:47 UTC*
 *Historical records are stored in the `archive` directory.*
