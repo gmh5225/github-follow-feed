@@ -37,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Jeeves – Reasoning improves Jev-like decision models
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
   > Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [columnar-tech/jevaro](https://github.com/columnar-tech/jevaro)
+  > Jev + Arrow
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [zoemaestra/hair-electrolysis-machine-usb-c](https://github.com/zoemaestra/hair-electrolysis-machine-usb-c)
@@ -65,13 +67,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
   > 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQ...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit)
+  > Exploit chain for PS5 7.00 - 13.60
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [cnlohr/lolra](https://github.com/cnlohr/lolra)
   > Transmit LoRa Frames Without a Radio
-
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [TroniPM/vc6-docker](https://github.com/TroniPM/vc6-docker) to [hzqst/vc6-docker](https://github.com/hzqst/vc6-docker)
-  > Visual C++ 6.0 compiler + DirectX 9 SDK in a Docker container
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [rxi/fe](https://github.com/rxi/fe)
@@ -110,10 +112,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > YARA scanning for Time Travel Debugging traces
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kkokosa/heapspace](https://github.com/kkokosa/heapspace)
   > Heapscape: a local Three.js and ClrMD explorer for .NET memory dumps
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xikhar/spiderbench](https://github.com/xikhar/spiderbench)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vladtrc/iw4L](https://github.com/vladtrc/iw4L)
+  > Standalone experimental Call of Duty runtime in Rust, built on bevy and wgpu
 
 ### [namazso](https://github.com/namazso)
 - 🍴 👤 [namazso](https://github.com/namazso) Forked [oyvindln/vhs-decode](https://github.com/oyvindln/vhs-decode) to [namazso/vhs-decode](https://github.com/namazso/vhs-decode)
   > Software defined VHS decoder - Fork (maybe temporary) of the ld-decode Laserdisc rf decoder
+
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [gdeo607/digi1_mods](https://github.com/gdeo607/digi1_mods)
+- 🌟 👤 [patois](https://github.com/patois) Starred [shnolk/monomodule](https://github.com/shnolk/monomodule)
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [standardagents/dmux](https://github.com/standardagents/dmux)
@@ -124,7 +133,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [weak1337](https://github.com/weak1337)
 - 🚀 👤 [weak1337](https://github.com/weak1337) Made [weak1337/FilterTap](https://github.com/weak1337/FilterTap) public
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [freakinfrick/tree-browser](https://github.com/freakinfrick/tree-browser)
+  > tb: horizontal tree file browser TUI (Rust/ratatui) — fixed selection line, recursive-mtime heat col...
+
 
 ---
-*Last updated at 2026-09-29 18:32:33 UTC*
+*Last updated at 2026-09-29 22:54:05 UTC*
 *Historical records are stored in the `archive` directory.*
