@@ -26,6 +26,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [JannisKirschner](https://github.com/JannisKirschner) Forked [sg-ai-safety-hub/FAST](https://github.com/sg-ai-safety-hub/FAST) to [JannisKirschner/FAST](https://github.com/JannisKirschner/FAST)
   > FAST Program Content
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
+  > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [alexander-hanel/unicorn-engine-notes](https://github.com/alexander-hanel/unicorn-engine-notes) to [classic130/unicorn-engine-notes](https://github.com/classic130/unicorn-engine-notes)
+  > Notes on using the Python bindings for the Unicorn Engine 
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Friedrich-M/UniMate](https://github.com/Friedrich-M/UniMate) to [classic130/UniMate](https://github.com/classic130/UniMate)
+  > [SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [rafabd1/VectorFreed](https://github.com/rafabd1/VectorFreed) to [classic130/VectorFreed](https://github.com/classic130/VectorFreed)
+  > This repository documents the VectorFreed RCE chain and includes a PoC for CVE-2026-96889.
+
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [ntfargo/Relapse-Exploit](https://github.com/ntfargo/Relapse-Exploit)
   > Exploit chain for PS5 7.00 - 13.60
@@ -34,7 +46,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [exploits-forsale/solstice](https://github.com/exploits-forsale/solstice)
   > PE loader for @carrot_c4k3's GameScript Xbox One exploit
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [exploits-forsale/solstice](https://github.com/exploits-forsale/solstice)
+  > PE loader for @carrot_c4k3's GameScript Xbox One exploit
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
+  > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
+
 
 ---
-*Last updated at 2026-09-30 08:20:15 UTC*
+*Last updated at 2026-09-30 15:47:59 UTC*
 *Historical records are stored in the `archive` directory.*
