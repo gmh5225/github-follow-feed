@@ -26,9 +26,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [JannisKirschner](https://github.com/JannisKirschner) Forked [sg-ai-safety-hub/FAST](https://github.com/sg-ai-safety-hub/FAST) to [JannisKirschner/FAST](https://github.com/JannisKirschner/FAST)
   > FAST Program Content
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Goochbeater/Spiritual-Spell-Red-Teaming](https://github.com/Goochbeater/Spiritual-Spell-Red-Teaming)
+  > A repo for jailbreaking various LLMs, mainly Claude
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
+  > LIST OF ALL MY JAILBREAKS
+
 ### [XaFF-XaFF](https://github.com/XaFF-XaFF)
 - 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
-  > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
+  > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [0sec-labs/0](https://github.com/0sec-labs/0)
+  > 🥷🏻 0 is the open-source AI security agent that finds, exploits, and fixes vulnerabilities across you...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude)
+  > Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and ...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [OffGridPete/Fieldwatch](https://github.com/OffGridPete/Fieldwatch)
+  > Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT.
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [alexander-hanel/unicorn-engine-notes](https://github.com/alexander-hanel/unicorn-engine-notes) to [classic130/unicorn-engine-notes](https://github.com/classic130/unicorn-engine-notes)
@@ -46,6 +60,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [exploits-forsale/solstice](https://github.com/exploits-forsale/solstice)
   > PE loader for @carrot_c4k3's GameScript Xbox One exploit
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [advancedresearch/advancedresearch.github.io](https://github.com/advancedresearch/advancedresearch.github.io)
+  > The website for the AdvancedResearch community
+
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [edgcpp/compiler](https://github.com/edgcpp/compiler)
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [exploits-forsale/solstice](https://github.com/exploits-forsale/solstice)
   > PE loader for @carrot_c4k3's GameScript Xbox One exploit
@@ -54,9 +75,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
   > OpenShell is the safe, private runtime for autonomous AI agents.
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
-  > Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata in...
+  > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
 
 
 ---
-*Last updated at 2026-09-30 15:47:59 UTC*
+*Last updated at 2026-09-30 20:42:40 UTC*
 *Historical records are stored in the `archive` directory.*
