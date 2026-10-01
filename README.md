@@ -4,8 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [TheCruZ](https://github.com/TheCruZ)
+- 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [TheCruZ/KytyPS5-GTA](https://github.com/TheCruZ/KytyPS5-GTA)
+  > KytyPS5 fork focused to make GTA work smoothly and find bugs to push to main repo
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou)
+  > A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an e...
+
 
 ---
-*Last updated at 2026-10-01 00:27:25 UTC*
+*Last updated at 2026-10-01 07:05:44 UTC*
 *Historical records are stored in the `archive` directory.*
