@@ -12,10 +12,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [kyle41111/AI-FILE](https://github.com/kyle41111/AI-FILE)
   > A listener profile for the Mythic C2 framework that utilizes AI vendors file API's
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) to [CrackerCat/AIHOT](https://github.com/CrackerCat/AIHOT)
-  > 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。
-
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [edgcpp/compiler](https://github.com/edgcpp/compiler)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [habanada/NativePe](https://github.com/habanada/NativePe)
@@ -48,11 +44,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [0x676e67/wreq](https://github.com/0x676e67/wreq)
   > An ergonomic, privacy-aware Rust HTTP Client
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Force67/prosperity](https://github.com/Force67/prosperity)
+  > Experimental dual emulator for sony ps4 & ps5 consoles
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Dirdmaster/overprint](https://github.com/Dirdmaster/overprint)
+  > Full-color PCB artwork editor for KiCad and JLCPCB
+
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)
+  > OpenShell is the safe, private runtime for autonomous AI agents.
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org)
   > An archive of Steve Krouse's Future of Coding research notes
 - 🍴 👤 [ikrima](https://github.com/ikrima) Forked [futureofcoding/futureofcoding.org](https://github.com/futureofcoding/futureofcoding.org) to [ikrima/futureofcoding.org](https://github.com/ikrima/futureofcoding.org)
   > An archive of Steve Krouse's Future of Coding research notes
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)
+  > A spy satellite simulator in your browser, except the data is real. Live open source spatial intelli...
+- 🍴 👤 [ikrima](https://github.com/ikrima) Forked [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) to [ikrima/gods-eye-view](https://github.com/ikrima/gods-eye-view)
+  > A spy satellite simulator in your browser, except the data is real. Live open source spatial intelli...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rkinas/basal](https://github.com/rkinas/basal)
@@ -60,7 +72,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [0sec-labs/0](https://github.com/0sec-labs/0)
-  > 🥷🏻 0 is the open-source AI security agent that finds, exploits, and fixes vulnerabilities across you...
+  > Full-stack AI security OS for your browser, terminal, and agents. Find, verify, and fix vulnerabilit...
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > Fastest and cheapest web agent
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [moonrepo/moon](https://github.com/moonrepo/moon)
@@ -86,14 +98,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rasbt](https://github.com/rasbt) Starred [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex)
   > 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 
-### [raysan5](https://github.com/raysan5)
-- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [anstropleuton/crystalgui](https://github.com/anstropleuton/crystalgui)
-
 ### [spudgy](https://github.com/spudgy)
 - 🌟 👤 [spudgy](https://github.com/spudgy) Starred [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
   > Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game ...
 
 
 ---
-*Last updated at 2026-10-02 19:07:12 UTC*
+*Last updated at 2026-10-02 23:40:33 UTC*
 *Historical records are stored in the `archive` directory.*
