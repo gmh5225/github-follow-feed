@@ -4,10 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [tiagosiebler](https://github.com/tiagosiebler)
-- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0)
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold)
+  > GLM-5.3-Flash EXL3 on 2x DGX Spark with TensorFold
+
+### [spudgy](https://github.com/spudgy)
+- 🌟 👤 [spudgy](https://github.com/spudgy) Starred [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder)
+  > Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game ...
 
 
 ---
-*Last updated at 2026-10-02 00:39:26 UTC*
+*Last updated at 2026-10-02 06:53:30 UTC*
 *Historical records are stored in the `archive` directory.*
