@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [objective-see/Netiquette](https://github.com/objective-see/Netiquette)
+  > Network Monitor
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [objective-see/LuLu](https://github.com/objective-see/LuLu)
+  > LuLu is the free open-source macOS firewall
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [praetorian-inc/swarmer](https://github.com/praetorian-inc/swarmer)
   > A tool to convert windows registry export files into windows hive files that can be used to replace ...
@@ -17,6 +23,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [meichlseder/pyascon](https://github.com/meichlseder/pyascon)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [egoist/mygo](https://github.com/egoist/mygo)
   > Develop desktop apps with a web frontend or native UI in Go
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zeronsh/zeron](https://github.com/zeronsh/zeron)
+  > A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [VeryBaaad/ZygiskNextNext](https://github.com/VeryBaaad/ZygiskNextNext) to [CrackerCat/ZygiskNextNext](https://github.com/CrackerCat/ZygiskNextNext)
@@ -43,6 +51,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Malware Configuration And Payload Extraction
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3)
   > Volatility 3.0 development
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [graphene-data/graphene](https://github.com/graphene-data/graphene)
+  > Turn your coding agent into a world-class data analyst
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [IR0NBYTE/Reverse-Engineering-Practice](https://github.com/IR0NBYTE/Reverse-Engineering-Practice) to [classic130/Reverse-Engineering-Practice](https://github.com/classic130/Reverse-Engineering-Practice)
@@ -59,6 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks)
   > DeepSeek-V4.1-Flash on two DGX Sparks: EXL3 routed experts, 262k context, 2M-token KV, vision, tools...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [syv-ai/HyperQwen](https://github.com/syv-ai/HyperQwen)
+  > Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with v...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xpili/simplified-technical-english](https://github.com/0xpili/simplified-technical-english)
+  > An Agent Skill that makes an LLM write in ASD-STE100 Simplified Technical English. Rules, approved w...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [rmguney/pixel-payload](https://github.com/rmguney/pixel-payload)
@@ -66,7 +80,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [MiaAI-Lab/Qwen3.8-27B-DGX-Spark-TensorFold](https://github.com/MiaAI-Lab/Qwen3.8-27B-DGX-Spark-TensorFold)
   > Qwen3.8-27B on one DGX Spark (TensorFold)
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2)
+  > Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core
+
 
 ---
-*Last updated at 2026-10-03 19:08:40 UTC*
+*Last updated at 2026-10-03 22:47:58 UTC*
 *Historical records are stored in the `archive` directory.*
