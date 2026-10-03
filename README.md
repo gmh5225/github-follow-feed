@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [praetorian-inc/swarmer](https://github.com/praetorian-inc/swarmer)
+  > A tool to convert windows registry export files into windows hive files that can be used to replace ...
+
 ### [CalebFenton](https://github.com/CalebFenton)
 - 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [argoproj/argo-cd](https://github.com/argoproj/argo-cd) to [CalebFenton/argo-cd](https://github.com/CalebFenton/argo-cd)
   > Declarative Continuous Deployment for Kubernetes
@@ -40,9 +44,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3)
   > Volatility 3.0 development
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [IR0NBYTE/Reverse-Engineering-Practice](https://github.com/IR0NBYTE/Reverse-Engineering-Practice) to [classic130/Reverse-Engineering-Practice](https://github.com/classic130/Reverse-Engineering-Practice)
+  > A bunch of reverse engineering Binaries dedicated to practice.
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Infinest/AGBSUBS1-01](https://github.com/Infinest/AGBSUBS1-01)
+  > A Recreation of the AGBSUBS1-01 save board for the original AGB 64M (E201843), 128M (E201850) and 25...
+
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [0xSero/DeepSeek-V4.1-Flash-Two-Sparks](https://github.com/0xSero/DeepSeek-V4.1-Flash-Two-Sparks)
+  > DeepSeek-V4.1-Flash on two DGX Sparks: EXL3 routed experts, 262k context, 2M-token KV, vision, tools...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [rmguney/pixel-payload](https://github.com/rmguney/pixel-payload)
@@ -52,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-03 15:06:41 UTC*
+*Last updated at 2026-10-03 19:08:40 UTC*
 *Historical records are stored in the `archive` directory.*
