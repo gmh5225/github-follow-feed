@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [yoanbernabeu/grepai](https://github.com/yoanbernabeu/grepai)
   > Semantic Search & Call Graphs for AI Agents (100% Local)
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [colby57/vid](https://github.com/colby57/vid)
+  > An x86/x64 import recovery and PE rebuilding tool for binaries protected with VMProtect (all version...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [vx-lang/Vx](https://github.com/vx-lang/Vx)
   > Vx: one language, every chip.
@@ -78,20 +82,32 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > High level bindings to the quickjs javascript engine
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [vlang/vinix](https://github.com/vlang/vinix)
   > Vinix is an effort to write a modern, fast, and useful operating system in the V programming languag...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+  > Lightpanda: the headless browser designed for AI and automation
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tester-army/e2e](https://github.com/tester-army/e2e)
   > Next generation e2e testing framework for web and mobile apps.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig bac...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [xqy2006/ModelTrace](https://github.com/xqy2006/ModelTrace)
+  > 主动探测模型归因
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SlidyBat/outliner](https://github.com/SlidyBat/outliner)
+  > A Binary Ninja plugin that replaces inlined code with function calls
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
   > Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), s...
 
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [Niko1221/Strata](https://github.com/Niko1221/Strata)
-  > Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference...
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 
 ---
-*Last updated at 2026-10-04 19:28:03 UTC*
+*Last updated at 2026-10-04 22:57:34 UTC*
 *Historical records are stored in the `archive` directory.*
