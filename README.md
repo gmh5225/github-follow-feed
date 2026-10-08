@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [zeq0r/fjern](https://github.com/zeq0r/fjern)
+  > Native remote desktop for Linux. RDP and VNC, Wayland first, built in Rust. Keyboard-first connectio...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MOSSVENC/MVNonGKIDevices](https://github.com/MOSSVENC/MVNonGKIDevices) to [CrackerCat/MVNonGKIDevices](https://github.com/CrackerCat/MVNonGKIDevices)
   > 自用的NonGKI 安卓内核Action仓库 ReSukiSU × manual / auto / susfs XXKSU × syscall_table / branch_link add Droi...
@@ -23,6 +27,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [moq-dev/web-transport](https://github.com/moq-dev/web-transport)
   > Rust WebTransport library for native and WASM
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [matklad/cargo-xtask](https://github.com/matklad/cargo-xtask)
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack) to [classic130/vmp-lazy-unpack](https://github.com/classic130/vmp-lazy-unpack)
@@ -40,20 +45,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [edgcpp/compiler](https://github.com/edgcpp/compiler)
   > The Open EDG C & C++ Compiler Project
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
-  > Tool for automatic PS5 executables porting to Linux and Windows
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [triton-lang/triton](https://github.com/triton-lang/triton)
+  > Development repository for the Triton language and compiler
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [egoist/mygo](https://github.com/egoist/mygo)
   > Develop desktop apps with a web frontend or native UI in Go
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [cobanov/pocketvibe](https://github.com/cobanov/pocketvibe)
+  > Play three.js games on your retro handheld, and make your own with AI. A launcher, game store and st...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
-
-### [ocornut](https://github.com/ocornut)
-- 🍴 👤 [ocornut](https://github.com/ocornut) Forked [brenocq/implot3d](https://github.com/brenocq/implot3d) to [ocornut/implot3d](https://github.com/ocornut/implot3d)
-  > Immediate Mode 3D Plotting
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Vector35/exarmo](https://github.com/Vector35/exarmo)
+  > Disassemblers for ARM's AArch64 and AArch32 instruction sets
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [facebookresearch/context-language-models](https://github.com/facebookresearch/context-language-models)
+  > Official repository for "Context Language Models"
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lithos-ai/lithos-metal](https://github.com/lithos-ai/lithos-metal)
+  > Lithos Metal: high-performance LLM inference kernels and serving for Apple silicon.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [ZeldaWWHDRecomp/ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp)
@@ -64,16 +73,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [petercunha](https://github.com/petercunha)
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/tao-te-ching-epub](https://github.com/petercunha/tao-te-ching-epub) public
   > EPUB edition of the Tao Te Ching (Sam Torode translation)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [DevLARLEY/WidevineProxy2](https://github.com/DevLARLEY/WidevineProxy2)
+  > An extension-based proxy for Widevine/ClearKey EME challenges and license messages. Modifies the cha...
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [quarkslab/NumbatUI](https://github.com/quarkslab/NumbatUI)
   > Quarkslab fork of Sourcetrail - free and open-source interactive source explorer
 
-### [simonw](https://github.com/simonw)
-- 🍴 👤 [simonw](https://github.com/simonw) Forked [microsoft/quicksand](https://github.com/microsoft/quicksand) to [simonw/quicksand](https://github.com/simonw/quicksand)
-  > Quickly sandbox your AI agent.
-
 
 ---
-*Last updated at 2026-10-08 16:19:09 UTC*
+*Last updated at 2026-10-08 21:57:21 UTC*
 *Historical records are stored in the `archive` directory.*
