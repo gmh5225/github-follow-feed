@@ -4,9 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [0xAX](https://github.com/0xAX)
-- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles)
-  > Solve puzzles. Improve your pytorch.
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chryzsh/redteam-bofs](https://github.com/chryzsh/redteam-bofs)
+  > Test development repository for various Beacon Object Files (BOFs)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [villager1314/CVE-2026-46242-Analysis](https://github.com/villager1314/CVE-2026-46242-Analysis) to [CrackerCat/CVE-2026-46242-Analysis](https://github.com/CrackerCat/CVE-2026-46242-Analysis)
@@ -14,6 +14,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A source code for playgta5.com.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [morluto/rea](https://github.com/morluto/rea) to [CrackerCat/rea](https://github.com/CrackerCat/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Justin-sky/ai-art-engine](https://github.com/Justin-sky/ai-art-engine) to [CrackerCat/ai-art-engine](https://github.com/CrackerCat/ai-art-engine)
+  > AI 艺术创作引擎，专业的短视频，游戏3D资产，2D资产，广告创作工具
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) to [CrackerCat/ARTEX](https://github.com/CrackerCat/ARTEX)
+  > AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [stas00/ml-engineering](https://github.com/stas00/ml-engineering) to [CrackerCat/ml-engineering](https://github.com/CrackerCat/ml-engineering)
+  > Machine Learning Engineering Open Book
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)
@@ -22,6 +28,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [DissectMalware/XLMMacroDeobfuscator](https://github.com/DissectMalware/XLMMacroDeobfuscator)
   > Extract and Deobfuscate XLM macros (a.k.a Excel 4.0 Macros)
+
+### [NaC-L](https://github.com/NaC-L)
+- 🌟 👤 [NaC-L](https://github.com/NaC-L) Starred [can1357/TypeScript](https://github.com/can1357/TypeScript)
+  > TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+### [WhiteNightShadow](https://github.com/WhiteNightShadow)
+- 🍴 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Forked [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) to [WhiteNightShadow/ARTEX](https://github.com/WhiteNightShadow/ARTEX)
+  > AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
@@ -35,7 +49,30 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [char](https://github.com/char) Starred [lyramakesmusic/tearout-gun](https://github.com/lyramakesmusic/tearout-gun)
   > Browser synth for tearout guns, snares and chugs, fitted to real sounds
 
+### [djkaty](https://github.com/djkaty)
+- 🌟 👤 [djkaty](https://github.com/djkaty) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
+  > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
+
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
+  > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
+  > An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [storytold/wordcraft](https://github.com/storytold/wordcraft)
+  > An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/glm-flash-lite](https://github.com/sybil-solutions/glm-flash-lite)
+  > GLM-5.3-Flash EXL3 on one 24 GB RTX 3090 + DDR4: elastic GPU expert cache, zero-copy experts, AVX2 C...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Rasetsuu/vmp-devirt](https://github.com/Rasetsuu/vmp-devirt)
+
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [joaopauloschuler/neural-api](https://github.com/joaopauloschuler/neural-api)
+  > CAI NEURAL API - Pascal based deep learning neural network API optimized for AVX, AVX2 and AVX512 in...
+
 
 ---
-*Last updated at 2026-10-09 08:54:11 UTC*
+*Last updated at 2026-10-09 16:03:11 UTC*
 *Historical records are stored in the `archive` directory.*
