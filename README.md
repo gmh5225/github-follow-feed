@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chryzsh/redteam-bofs](https://github.com/chryzsh/redteam-bofs)
   > Test development repository for various Beacon Object Files (BOFs)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [radkawar/diaspore](https://github.com/radkawar/diaspore)
+  > Write Python. Ship JSON. Run it anywhere, sandboxed.
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [villager1314/CVE-2026-46242-Analysis](https://github.com/villager1314/CVE-2026-46242-Analysis) to [CrackerCat/CVE-2026-46242-Analysis](https://github.com/CrackerCat/CVE-2026-46242-Analysis)
@@ -44,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [QwenLM/Qwen3-ASR](https://github.com/QwenLM/Qwen3-ASR)
   > Qwen3-ASR is an open-source series of ASR models developed by the Qwen team at Alibaba Cloud, suppor...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl)
+  > airdrop for non-apple devices
 
 ### [can1357](https://github.com/can1357)
 - 🍴 👤 [can1357](https://github.com/can1357) Forked [microsoft/TypeScript](https://github.com/microsoft/TypeScript) to [can1357/TypeScript](https://github.com/can1357/TypeScript)
@@ -86,5 +92,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-09 22:18:44 UTC*
+*Last updated at 2026-10-09 23:17:14 UTC*
 *Historical records are stored in the `archive` directory.*
