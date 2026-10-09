@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [stas00/ml-engineering](https://github.com/stas00/ml-engineering) to [CrackerCat/ml-engineering](https://github.com/CrackerCat/ml-engineering)
   > Machine Learning Engineering Open Book
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Specy/asm-editor](https://github.com/Specy/asm-editor)
+  > An app to write, run and learn M68K, MIPS, RISC-V, X86, Z80 assembly
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [TwoSevenOneT/InjectSetConsole](https://github.com/TwoSevenOneT/InjectSetConsole)
   > Proof of Concept for Process Code Injection Without Using WriteProcessMemory
@@ -53,6 +57,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [djkaty](https://github.com/djkaty) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
   > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
 
+### [hongyu-dev](https://github.com/hongyu-dev)
+- 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2) to [hongyu-dev/alive2](https://github.com/hongyu-dev/alive2)
+  > Automatic verification of LLVM optimizations
+
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [storytold/filmcraft](https://github.com/storytold/filmcraft)
   > An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.
@@ -62,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [storytold/wordcraft](https://github.com/storytold/wordcraft)
   > An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch)
+  > Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M f...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/glm-flash-lite](https://github.com/sybil-solutions/glm-flash-lite)
@@ -74,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-09 16:03:11 UTC*
+*Last updated at 2026-10-09 21:33:01 UTC*
 *Historical records are stored in the `archive` directory.*
