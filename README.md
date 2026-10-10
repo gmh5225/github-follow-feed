@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
   > Yet another llvm based obfuscator based on goron.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [HANCORE-linux/Shibumi-Shell](https://github.com/HANCORE-linux/Shibumi-Shell)
+  > A native bar and plugin suite for Omarchy Quattro
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [longze777/UID-](https://github.com/longze777/UID-) to [CrackerCat/UID-](https://github.com/CrackerCat/UID-)
@@ -97,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 21:16:08 UTC*
+*Last updated at 2026-10-10 22:17:19 UTC*
 *Historical records are stored in the `archive` directory.*
