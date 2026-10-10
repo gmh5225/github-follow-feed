@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [Vector35/exarmo](https://github.com/Vector35/exarmo)
+  > Disassemblers for ARM's AArch64 and AArch32 instruction sets
+
 ### [Calinou](https://github.com/Calinou)
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
   > 🪅 Windows & Linux userspace emulator 
@@ -99,5 +103,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 22:17:19 UTC*
+*Last updated at 2026-10-10 23:16:55 UTC*
 *Historical records are stored in the `archive` directory.*
