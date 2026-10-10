@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Calinou](https://github.com/Calinou) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
   > 🪅 Windows & Linux userspace emulator 
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [komimoe/Arkari](https://github.com/komimoe/Arkari)
+  > Yet another llvm based obfuscator based on goron.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [longze777/UID-](https://github.com/longze777/UID-) to [CrackerCat/UID-](https://github.com/CrackerCat/UID-)
   > 通过seccomp过滤达到隐藏通过检查到内核分配uid但是查询对应的却不存在这一检测点进行修复
@@ -51,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)
   > A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
 
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [ARahim3/DigUp](https://github.com/ARahim3/DigUp)
+  > Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built...
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [CasualPokePlayer/GSE](https://github.com/CasualPokePlayer/GSE)
   > Successor to the Gambatte-Speedrun emulator
@@ -89,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 19:14:03 UTC*
+*Last updated at 2026-10-10 20:18:04 UTC*
 *Historical records are stored in the `archive` directory.*
