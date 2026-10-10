@@ -19,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
   > Tool for automatic PS5 executables porting to Linux and Windows
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [storytold/wordcraft](https://github.com/storytold/wordcraft)
+  > An open-source, clean-room reimplementation of Microsoft Word in pure Rust
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -43,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 09:19:03 UTC*
+*Last updated at 2026-10-10 10:17:17 UTC*
 *Historical records are stored in the `archive` directory.*
