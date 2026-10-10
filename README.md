@@ -45,7 +45,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
   > STOKE: A stochastic superoptimizer and program synthesizer
 
+### [wbenny](https://github.com/wbenny)
+- 🌟 👤 [wbenny](https://github.com/wbenny) Starred [Vybo/PaperDash](https://github.com/Vybo/PaperDash)
+  > My own dashboard implemented for Waveshare 7.5" BTW e-paper display
+- 🌟 👤 [wbenny](https://github.com/wbenny) Starred [Vybo/reflbo](https://github.com/Vybo/reflbo)
+  > Smart firmware for the Waveshare ESP32-S3-RLCD-4.2
+
 
 ---
-*Last updated at 2026-10-10 10:17:17 UTC*
+*Last updated at 2026-10-10 11:16:08 UTC*
 *Historical records are stored in the `archive` directory.*
