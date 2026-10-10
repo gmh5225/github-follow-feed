@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
+  > 🪅 Windows & Linux userspace emulator 
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [longze777/UID-](https://github.com/longze777/UID-) to [CrackerCat/UID-](https://github.com/CrackerCat/UID-)
   > 通过seccomp过滤达到隐藏通过检查到内核分配uid但是查询对应的却不存在这一检测点进行修复
@@ -14,6 +18,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaohuangbo/SoterFixer](https://github.com/xiaohuangbo/SoterFixer) to [CrackerCat/SoterFixer](https://github.com/CrackerCat/SoterFixer)
   > 修复一加骁龙系解锁bl导致Soter key失败的问题
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mito753/Browser-Exploit-Dojo](https://github.com/mito753/Browser-Exploit-Dojo) to [CrackerCat/Browser-Exploit-Dojo](https://github.com/CrackerCat/Browser-Exploit-Dojo)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mito753/CTF](https://github.com/mito753/CTF) to [CrackerCat/mito753-CTF](https://github.com/CrackerCat/mito753-CTF)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mhtsec/AnyDesk-AnyPwn-RCE](https://github.com/mhtsec/AnyDesk-AnyPwn-RCE) to [CrackerCat/AnyDesk-AnyPwn-RCE](https://github.com/CrackerCat/AnyDesk-AnyPwn-RCE)
+  > AnyDesk Linux 8.0.2 pre-auth heap overflow RCE (AnyPwn) — PoC with vulnerability analysis & reproduc...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cryptlib/cryptlib](https://github.com/cryptlib/cryptlib) to [CrackerCat/cryptlib](https://github.com/CrackerCat/cryptlib)
+  > cryptlib security toolkit
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NeverSight/NeverD](https://github.com/NeverSight/NeverD) to [CrackerCat/NeverD](https://github.com/CrackerCat/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
@@ -38,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [CasualPokePlayer/GSE](https://github.com/CasualPokePlayer/GSE)
   > Successor to the Gambatte-Speedrun emulator
+
+### [keowu](https://github.com/keowu)
+- 🌟 👤 [keowu](https://github.com/keowu) Starred [Dump-GUY/ida-nativeaot](https://github.com/Dump-GUY/ida-nativeaot)
+  > Recover .NET Native AOT metadata in IDA Pro — MethodTable/type hierarchy, virtual methods, and strin...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [droogie/bbhost](https://github.com/droogie/bbhost) to [mrexodia/bbhost](https://github.com/mrexodia/bbhost)
@@ -65,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 14:17:31 UTC*
+*Last updated at 2026-10-10 15:17:05 UTC*
 *Historical records are stored in the `archive` directory.*
