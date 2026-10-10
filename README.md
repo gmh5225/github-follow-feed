@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [lqfeng/ChineseCharacters](https://github.com/lqfeng/ChineseCharacters)
   > 中文繁体和简体字符对照表
 
+### [ajkhoury](https://github.com/ajkhoury)
+- 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
+  > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [CasualPokePlayer/GSE](https://github.com/CasualPokePlayer/GSE)
   > Successor to the Gambatte-Speedrun emulator
@@ -61,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 12:26:29 UTC*
+*Last updated at 2026-10-10 13:16:02 UTC*
 *Historical records are stored in the `archive` directory.*
