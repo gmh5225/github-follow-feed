@@ -10,10 +10,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [slwyts/Project-SunUEFI](https://github.com/slwyts/Project-SunUEFI) to [CrackerCat/Project-SunUEFI](https://github.com/CrackerCat/Project-SunUEFI)
   > Project SunUEFI 是为小米平板 8 Pro（代号 piano，搭载骁龙 8 至尊版 / SM8750 芯片）开发的开源 EDK2/UEFI 固件并提供主线Linux和Windows On...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rasetsuu/vmp-devirt](https://github.com/Rasetsuu/vmp-devirt) to [CrackerCat/vmp-devirt](https://github.com/CrackerCat/vmp-devirt)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Umiade/xenoid](https://github.com/Umiade/xenoid) to [CrackerCat/xenoid](https://github.com/CrackerCat/xenoid)
+  > An Android cloud-phone runtime on Apple Silicon macOS and Linux ARM hosts
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaohuangbo/SoterFixer](https://github.com/xiaohuangbo/SoterFixer) to [CrackerCat/SoterFixer](https://github.com/CrackerCat/SoterFixer)
+  > 修复一加骁龙系解锁bl导致Soter key失败的问题
 
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [lqfeng/ChineseCharacters](https://github.com/lqfeng/ChineseCharacters)
+  > 中文繁体和简体字符对照表
 
 ### [mzakocs](https://github.com/mzakocs)
 - 🌟 👤 [mzakocs](https://github.com/mzakocs) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
@@ -28,5 +36,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 05:18:09 UTC*
+*Last updated at 2026-10-10 06:30:57 UTC*
 *Historical records are stored in the `archive` directory.*
