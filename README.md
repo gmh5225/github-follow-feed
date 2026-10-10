@@ -73,6 +73,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
   > STOKE: A stochastic superoptimizer and program synthesizer
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Hinln/ARTEX](https://github.com/Hinln/ARTEX)
+  > ARTEX 源码备份：基于 Autumn-27/ARTEX v0.3.15，保留原始提交历史与 AGPL-3.0 许可证。
+
 ### [wbenny](https://github.com/wbenny)
 - 🌟 👤 [wbenny](https://github.com/wbenny) Starred [Vybo/PaperDash](https://github.com/Vybo/PaperDash)
   > My own dashboard implemented for Waveshare 7.5" BTW e-paper display
@@ -81,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 16:19:10 UTC*
+*Last updated at 2026-10-10 17:14:53 UTC*
 *Historical records are stored in the `archive` directory.*
