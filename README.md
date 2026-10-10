@@ -11,7 +11,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Project SunUEFI 是为小米平板 8 Pro（代号 piano，搭载骁龙 8 至尊版 / SM8750 芯片）开发的开源 EDK2/UEFI 固件并提供主线Linux和Windows On...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rasetsuu/vmp-devirt](https://github.com/Rasetsuu/vmp-devirt) to [CrackerCat/vmp-devirt](https://github.com/CrackerCat/vmp-devirt)
 
+### [mzakocs](https://github.com/mzakocs)
+- 🌟 👤 [mzakocs](https://github.com/mzakocs) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
+  > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
+
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [burhanmoin1/bloodborne-macos](https://github.com/burhanmoin1/bloodborne-macos)
+
 
 ---
-*Last updated at 2026-10-10 01:37:31 UTC*
+*Last updated at 2026-10-10 02:32:32 UTC*
 *Historical records are stored in the `archive` directory.*
