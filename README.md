@@ -31,6 +31,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [lqfeng/ChineseCharacters](https://github.com/lqfeng/ChineseCharacters)
   > 中文繁体和简体字符对照表
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [CasualPokePlayer/GSE](https://github.com/CasualPokePlayer/GSE)
+  > Successor to the Gambatte-Speedrun emulator
+
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [droogie/bbhost](https://github.com/droogie/bbhost) to [mrexodia/bbhost](https://github.com/mrexodia/bbhost)
+  > Definitive Bloodborne PC Experience
+
 ### [mzakocs](https://github.com/mzakocs)
 - 🌟 👤 [mzakocs](https://github.com/mzakocs) Starred [Noelo-Lab/kuna](https://github.com/Noelo-Lab/kuna)
   > An agent-first decompiler designed to be refined by other agents. Kuna is written in Rust and was or...
@@ -53,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 11:16:08 UTC*
+*Last updated at 2026-10-10 12:26:29 UTC*
 *Historical records are stored in the `archive` directory.*
