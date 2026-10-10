@@ -47,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [noahware/kernemul](https://github.com/noahware/kernemul)
   > Windows kernel driver and usermode app emulator for x86-64 and ARM64 targets.
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [richiemcilroy/Tov](https://github.com/richiemcilroy/Tov)
+  > A TypeScript-shaped language built for coding agents. It compiles to small, fast native binaries.
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [CasualPokePlayer/GSE](https://github.com/CasualPokePlayer/GSE)
   > Successor to the Gambatte-Speedrun emulator
@@ -85,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 17:14:53 UTC*
+*Last updated at 2026-10-10 18:22:23 UTC*
 *Historical records are stored in the `archive` directory.*
