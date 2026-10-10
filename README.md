@@ -15,6 +15,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xiaohuangbo/SoterFixer](https://github.com/xiaohuangbo/SoterFixer) to [CrackerCat/SoterFixer](https://github.com/CrackerCat/SoterFixer)
   > 修复一加骁龙系解锁bl导致Soter key失败的问题
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Tool for automatic PS5 executables porting to Linux and Windows
+
 ### [P4nda0s](https://github.com/P4nda0s)
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -30,6 +34,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [burhanmoin1/bloodborne-macos](https://github.com/burhanmoin1/bloodborne-macos)
 - 🌟 👤 [patois](https://github.com/patois) Starred [Angelo-politek/Synthack-OS](https://github.com/Angelo-politek/Synthack-OS)
+- 🌟 👤 [patois](https://github.com/patois) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [StanfordPL/stoke](https://github.com/StanfordPL/stoke)
@@ -37,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-10 08:23:50 UTC*
+*Last updated at 2026-10-10 09:19:03 UTC*
 *Historical records are stored in the `archive` directory.*
