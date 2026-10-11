@@ -53,9 +53,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A static binary patcher using patches in high-level programming languages. Currently supports C patc...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osolmaz/pi-anti-repeat](https://github.com/osolmaz/pi-anti-repeat)
 
+### [mubix](https://github.com/mubix)
+- 🚀 👤 [mubix](https://github.com/mubix) Made [mubix/pastyspace](https://github.com/mubix/pastyspace) public
+  > Simple pastebin-style site that is easy to deploy
+
 ### [mytechnotalent](https://github.com/mytechnotalent)
 - 🌟 👤 [mytechnotalent](https://github.com/mytechnotalent) Starred [mytechnotalent/rea](https://github.com/mytechnotalent/rea)
-  > Reverse Engineering Assistant: Point it at a target. Get a complete reverse engineering dossier and ...
+  > Autonomous Reverse Engineering framework.
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -71,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-11 19:14:46 UTC*
+*Last updated at 2026-10-11 20:19:12 UTC*
 *Historical records are stored in the `archive` directory.*
