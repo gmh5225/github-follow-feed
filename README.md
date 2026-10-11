@@ -32,11 +32,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [cocomelonc/tabby](https://github.com/cocomelonc/tabby)
   > a minimal, position-independent C shellcode framework for Windows x64. compiles entirely on Linux
 
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [kapiwko/btrfs-backup](https://github.com/kapiwko/btrfs-backup) to [funkemunky/btrfs-backup](https://github.com/funkemunky/btrfs-backup)
+  > Verified Btrfs send/receive backups to an encrypted removable target
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [sagemono/lv0pen](https://github.com/sagemono/lv0pen)
   > A byte matching decompilation of the PS3 boot chain.
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ymatrix1/PortPS5](https://github.com/ymatrix1/PortPS5)
   > Converts decrypted PS5 game dumps into native Windows executables via binary relinking, replacement ...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pch/rawmakase](https://github.com/pch/rawmakase)
+  > 📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher)
+  > Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lonewolf0622/HelixSR](https://github.com/lonewolf0622/HelixSR)
@@ -48,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [FazeCT/1-patch](https://github.com/FazeCT/1-patch)
   > A static binary patcher using patches in high-level programming languages. Currently supports C patc...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [osolmaz/pi-anti-repeat](https://github.com/osolmaz/pi-anti-repeat)
+
+### [mytechnotalent](https://github.com/mytechnotalent)
+- 🌟 👤 [mytechnotalent](https://github.com/mytechnotalent) Starred [mytechnotalent/rea](https://github.com/mytechnotalent/rea)
+  > Reverse Engineering Assistant: Point it at a target. Get a complete reverse engineering dossier and ...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -63,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-11 17:15:22 UTC*
+*Last updated at 2026-10-11 18:23:13 UTC*
 *Historical records are stored in the `archive` directory.*
