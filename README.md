@@ -42,12 +42,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ymatrix1/PortPS5](https://github.com/ymatrix1/PortPS5)
   > Converts decrypted PS5 game dumps into native Windows executables via binary relinking, replacement ...
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pch/rawmakase](https://github.com/pch/rawmakase)
-  > 📸 Free, fast, Lightroom-compatible RAW photo editor for Linux, macOS, and Windows.
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [SimonSchubert/omalauncher](https://github.com/SimonSchubert/omalauncher)
-  > Agentic Android launcher: build your own apps and widgets with AI agents, Omarchy themes, Arch Linux...
-
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lonewolf0622/HelixSR](https://github.com/lonewolf0622/HelixSR)
   > Drop-in FSR 3.1 upscaler for Direct3D 12 that runs DLSS's network (Model E) on AMD GPUs
@@ -77,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-11 18:23:13 UTC*
+*Last updated at 2026-10-11 19:14:46 UTC*
 *Historical records are stored in the `archive` directory.*
