@@ -4,9 +4,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuKongA/ColorOS-AVD](https://github.com/YuKongA/ColorOS-AVD) to [CrackerCat/ColorOS-AVD](https://github.com/CrackerCat/ColorOS-AVD)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [villager1314/CVE-2026-43499-Analysis](https://github.com/villager1314/CVE-2026-43499-Analysis) to [CrackerCat/CVE-2026-43499-Analysis](https://github.com/CrackerCat/CVE-2026-43499-Analysis)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tamia6/rfig](https://github.com/tamia6/rfig) to [CrackerCat/rfig](https://github.com/CrackerCat/rfig)
+  > Command completion menus and history-based autosuggestions for zsh, Bash and Fish on macOS and Linux
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [ymatrix1/PortPS5](https://github.com/ymatrix1/PortPS5)
   > Converts decrypted PS5 game dumps into native Windows executables via binary relinking, replacement ...
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
+- 🍴 👤 [Wenzel](https://github.com/Wenzel) Forked [VirtualBox/virtualbox](https://github.com/VirtualBox/virtualbox) to [Wenzel/virtualbox](https://github.com/Wenzel/virtualbox)
+  > Source code for Oracle VirtualBox
+
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [cocomelonc/tabby](https://github.com/cocomelonc/tabby)
+  > a minimal, position-independent C shellcode framework for Windows x64. compiles entirely on Linux
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [sagemono/lv0pen](https://github.com/sagemono/lv0pen)
@@ -39,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-11 12:27:48 UTC*
+*Last updated at 2026-10-11 13:17:16 UTC*
 *Historical records are stored in the `archive` directory.*
