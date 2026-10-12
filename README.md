@@ -4,12 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [0xSero](https://github.com/0xSero)
-- 🚀 👤 [0xSero](https://github.com/0xSero) Made [sybil-solutions/qwen38-flash-next-3090-usb-offload](https://github.com/sybil-solutions/qwen38-flash-next-3090-usb-offload) public
-  > Qwen3.8-Flash-Next EXL3 3bpw on one RTX 3090 over USB plus a Mac mini M4: patches, shim, kernels, re...
-- 🍴 👤 [0xSero](https://github.com/0xSero) Forked [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold) to [sybil-solutions/glm53-flash-tensorfold-4x-spark](https://github.com/sybil-solutions/glm53-flash-tensorfold-4x-spark)
-  > GLM-5.3-Flash EXL3 on 2x DGX Spark with TensorFold
-
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [h0m3us3r/w1700k-sdr](https://github.com/h0m3us3r/w1700k-sdr)
 
@@ -66,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-12 15:20:23 UTC*
+*Last updated at 2026-10-12 16:20:37 UTC*
 *Historical records are stored in the `archive` directory.*
