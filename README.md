@@ -54,6 +54,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep)
   > USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid...
+- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep) to [gakonst/usd-brep](https://github.com/gakonst/usd-brep)
+  > USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid...
 
 ### [hongyu-dev](https://github.com/hongyu-dev)
 - 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [andrej/a8](https://github.com/andrej/a8) to [securesystemslab/a8](https://github.com/securesystemslab/a8)
@@ -86,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-12 18:23:55 UTC*
+*Last updated at 2026-10-12 19:15:22 UTC*
 *Historical records are stored in the `archive` directory.*
