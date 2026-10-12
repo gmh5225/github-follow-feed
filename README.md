@@ -44,6 +44,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > DPI Aware mouse move across screens
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
   > A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iangcarroll/cookiemonster](https://github.com/iangcarroll/cookiemonster)
+  > 🍪 CookieMonster helps you detect and abuse vulnerable implementations of stateless sessions.
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [zeroth-robotics/zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot)
@@ -64,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-12 14:27:44 UTC*
+*Last updated at 2026-10-12 15:20:23 UTC*
 *Historical records are stored in the `archive` directory.*
