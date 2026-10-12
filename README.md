@@ -6,6 +6,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [h0m3us3r/w1700k-sdr](https://github.com/h0m3us3r/w1700k-sdr)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [microlift/microlift](https://github.com/microlift/microlift)
+  > A powerful binary lifter for translating x86-64 and AArch64 code to Cranelift IR
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [microlift/rosemary](https://github.com/microlift/rosemary)
+  > Compatibility layer and high level emulator hybrid for running macOS applications across operating s...
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [19h/zrax-isa-workbench](https://github.com/19h/zrax-isa-workbench)
+  > Zrax: Rust and WebAssembly ISA classification, entropy maps, and binary analysis workbench
 
 ### [DoranekoSystems](https://github.com/DoranekoSystems)
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [lizrice/learning-ebpf](https://github.com/lizrice/learning-ebpf)
@@ -43,6 +51,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Whispergate/Labyrinth](https://github.com/Whispergate/Labyrinth)
   > Malware as a Service Ludus Range
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [NVIDIA-Omniverse/usd-brep](https://github.com/NVIDIA-Omniverse/usd-brep)
+  > USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid...
+
 ### [hongyu-dev](https://github.com/hongyu-dev)
 - 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [andrej/a8](https://github.com/andrej/a8) to [securesystemslab/a8](https://github.com/securesystemslab/a8)
   > Apparatus Assuring Applications Are Always Available Amid Attacks
@@ -58,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kweatherman/ida2pdb](https://github.com/kweatherman/ida2pdb)
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [derpsn/access-virus-ti-revive](https://github.com/derpsn/access-virus-ti-revive)
+  > TI Revive: Total Integration for the Access Virus TI on Windows 10/11 without the old kernel driver
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [temporalio/temporal](https://github.com/temporalio/temporal)
   > Temporal service
@@ -70,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-12 17:18:33 UTC*
+*Last updated at 2026-10-12 18:23:55 UTC*
 *Historical records are stored in the `archive` directory.*
