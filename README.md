@@ -5,6 +5,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ## Today's Activity
 
 ### [0xSero](https://github.com/0xSero)
+- 🚀 👤 [0xSero](https://github.com/0xSero) Made [sybil-solutions/qwen38-flash-next-3090-usb-offload](https://github.com/sybil-solutions/qwen38-flash-next-3090-usb-offload) public
+  > Qwen3.8-Flash-Next EXL3 3bpw on one RTX 3090 over USB plus a Mac mini M4: patches, shim, kernels, re...
 - 🍴 👤 [0xSero](https://github.com/0xSero) Forked [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold) to [sybil-solutions/glm53-flash-tensorfold-4x-spark](https://github.com/sybil-solutions/glm53-flash-tensorfold-4x-spark)
   > GLM-5.3-Flash EXL3 on 2x DGX Spark with TensorFold
 
@@ -47,10 +49,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [zeroth-robotics/zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot)
   > 3D-printed open-source humanoid robot platform for sim-to-real and RL
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [kweatherman/ida2pdb](https://github.com/kweatherman/ida2pdb)
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [temporalio/temporal](https://github.com/temporalio/temporal)
+  > Temporal service
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [LordixDemon/apple_watch_connector](https://github.com/LordixDemon/apple_watch_connector)
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [kweatherman/ida2pdb](https://github.com/kweatherman/ida2pdb)
+
 
 ---
-*Last updated at 2026-10-12 13:40:07 UTC*
+*Last updated at 2026-10-12 14:27:44 UTC*
 *Historical records are stored in the `archive` directory.*
