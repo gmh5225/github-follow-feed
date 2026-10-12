@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [storytold/pdfcraft](https://github.com/storytold/pdfcraft)
   > PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [stencil-hq/wasm-grammars](https://github.com/stencil-hq/wasm-grammars)
   > tree-sitter grammars compiled to WebAssembly, published for on-demand loading
@@ -48,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-12 12:41:13 UTC*
+*Last updated at 2026-10-12 13:40:07 UTC*
 *Historical records are stored in the `archive` directory.*
