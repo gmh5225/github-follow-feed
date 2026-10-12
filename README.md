@@ -28,7 +28,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
   > A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System...
 
+### [lazyparser](https://github.com/lazyparser)
+- 🌟 👤 [lazyparser](https://github.com/lazyparser) Starred [zeroth-robotics/zeroth-bot](https://github.com/zeroth-robotics/zeroth-bot)
+  > 3D-printed open-source humanoid robot platform for sim-to-real and RL
+
 
 ---
-*Last updated at 2026-10-12 07:47:15 UTC*
+*Last updated at 2026-10-12 08:41:16 UTC*
 *Historical records are stored in the `archive` directory.*
