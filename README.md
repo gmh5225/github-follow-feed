@@ -9,6 +9,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 失业自救开源手册：N/N+1/2N、失业金、医保、社保、公积金、求职与现金流。50项行动任务、6份实操SOP，附北京上海政策原文。
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/Proxifier-Activator](https://github.com/lwtw123456/Proxifier-Activator) to [CrackerCat/Proxifier-Activator](https://github.com/CrackerCat/Proxifier-Activator)
   > 练习型逆向项目，实现了 Proxifier 的激活
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [EliteClassRoom/raxdbg](https://github.com/EliteClassRoom/raxdbg) to [CrackerCat/raxdbg](https://github.com/CrackerCat/raxdbg)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aospbooks/android-emulator-internal-book](https://github.com/aospbooks/android-emulator-internal-book) to [CrackerCat/android-emulator-internal-book](https://github.com/CrackerCat/android-emulator-internal-book)
+  > The book introduces the internal of Android Emulator
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aospbooks/aosp-internal-book](https://github.com/aospbooks/aosp-internal-book) to [CrackerCat/aosp-internal-book](https://github.com/CrackerCat/aosp-internal-book)
+  > The book introduces the internal of AOSP
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs)
@@ -20,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [d0mzw/pixel6-kgdb-usb](https://github.com/d0mzw/pixel6-kgdb-usb) to [classic130/pixel6-kgdb-usb](https://github.com/classic130/pixel6-kgdb-usb)
   > Android kernel debugging
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [peryaudo/proskrnl](https://github.com/peryaudo/proskrnl)
   > Vibe-coded WinNT compatible toy kernel with unique tradeoffs
@@ -30,5 +39,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 07:31:48 UTC*
+*Last updated at 2026-10-13 08:30:34 UTC*
 *Historical records are stored in the `archive` directory.*
