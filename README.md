@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoyuxiangyyds-lab/AnyDoor](https://github.com/zhaoyuxiangyyds-lab/AnyDoor) to [CrackerCat/AnyDoor](https://github.com/CrackerCat/AnyDoor)
   > 任意门 · 基于 Xposed 的安卓全局虚拟定位工具，反检测、地图选点/摇杆/路线模拟| System-wide GPS spoofer for Android (Xposed/LSPosed): ...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [yisier/rustgrid](https://github.com/yisier/rustgrid)
+  > Native database GUI. Built in Rust. No WebView
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs)
   > Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem.
@@ -36,6 +40,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [agavra/tuicr](https://github.com/agavra/tuicr)
+  > a code review TUI with vim keybindings
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [peryaudo/proskrnl](https://github.com/peryaudo/proskrnl)
   > Vibe-coded WinNT compatible toy kernel with unique tradeoffs
@@ -46,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 13:26:26 UTC*
+*Last updated at 2026-10-13 14:22:42 UTC*
 *Historical records are stored in the `archive` directory.*
