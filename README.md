@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn)
+  > Somehow, Byepervisor returned...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [peryaudo/proskrnl](https://github.com/peryaudo/proskrnl)
   > Vibe-coded WinNT compatible toy kernel with unique tradeoffs
@@ -39,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 09:25:01 UTC*
+*Last updated at 2026-10-13 10:20:45 UTC*
 *Historical records are stored in the `archive` directory.*
