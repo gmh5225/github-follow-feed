@@ -14,6 +14,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The book introduces the internal of Android Emulator
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aospbooks/aosp-internal-book](https://github.com/aospbooks/aosp-internal-book) to [CrackerCat/aosp-internal-book](https://github.com/CrackerCat/aosp-internal-book)
   > The book introduces the internal of AOSP
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [openbba0/bba](https://github.com/openbba0/bba) to [CrackerCat/bba](https://github.com/CrackerCat/bba)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoyuxiangyyds-lab/AnyDoor](https://github.com/zhaoyuxiangyyds-lab/AnyDoor) to [CrackerCat/AnyDoor](https://github.com/CrackerCat/AnyDoor)
+  > 任意门 · 基于 Xposed 的安卓全局虚拟定位工具，反检测、地图选点/摇杆/路线模拟| System-wide GPS spoofer for Android (Xposed/LSPosed): ...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [state-machines/state-machines-rs](https://github.com/state-machines/state-machines-rs)
@@ -43,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 10:20:45 UTC*
+*Last updated at 2026-10-13 11:18:22 UTC*
 *Historical records are stored in the `archive` directory.*
