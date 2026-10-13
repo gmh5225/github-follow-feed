@@ -39,6 +39,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Generate images of code and terminal output 📸
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [3Radiance/mitm-proxy-ja3-ja4](https://github.com/3Radiance/mitm-proxy-ja3-ja4)
   > Configurable Rust HTTP MITM proxy with TLS , HTTP/2 and TCP fingerprint spoofing.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
+  > Browse Mastodon, Bluesky, X, Misskey, Nostr, Pixiv, Fanbox and RSS all in one app. One timeline, all...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [d0mzw/pixel6-kgdb-usb](https://github.com/d0mzw/pixel6-kgdb-usb) to [classic130/pixel6-kgdb-usb](https://github.com/classic130/pixel6-kgdb-usb)
@@ -51,6 +53,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ichitaso/RegionChanger](https://github.com/ichitaso/RegionChanger)
   > Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc...
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu)
+  > A cross-platform, safe, pure-Rust graphics API.
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) to [ioncodes/wgpu](https://github.com/ioncodes/wgpu)
+  > A cross-platform, safe, pure-Rust graphics API.
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [agavra/tuicr](https://github.com/agavra/tuicr)
@@ -74,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 19:14:28 UTC*
+*Last updated at 2026-10-13 20:19:08 UTC*
 *Historical records are stored in the `archive` directory.*
