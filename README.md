@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhaoyuxiangyyds-lab/AnyDoor](https://github.com/zhaoyuxiangyyds-lab/AnyDoor) to [CrackerCat/AnyDoor](https://github.com/CrackerCat/AnyDoor)
   > 任意门 · 基于 Xposed 的安卓全局虚拟定位工具，反检测、地图选点/摇杆/路线模拟| System-wide GPS spoofer for Android (Xposed/LSPosed): ...
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [oasm-platform/open-asm](https://github.com/oasm-platform/open-asm)
+  > AI-powered open-source platform for Attack Surface Management (OASM)
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [yisier/rustgrid](https://github.com/yisier/rustgrid)
   > Native database GUI. Built in Rust. No WebView
@@ -33,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Hierarchical state machines for designing event-driven systems
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
   > Generate images of code and terminal output 📸
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [3Radiance/mitm-proxy-ja3-ja4](https://github.com/3Radiance/mitm-proxy-ja3-ja4)
+  > Configurable Rust HTTP MITM proxy with TLS , HTTP/2 and TCP fingerprint spoofing.
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [d0mzw/pixel6-kgdb-usb](https://github.com/d0mzw/pixel6-kgdb-usb) to [classic130/pixel6-kgdb-usb](https://github.com/classic130/pixel6-kgdb-usb)
@@ -42,9 +48,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
-### [horsicq](https://github.com/horsicq)
-- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [morluto/rea](https://github.com/morluto/rea)
-  > Reverse engineer anything with agents, from app behavior down to native binaries.
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [ichitaso/RegionChanger](https://github.com/ichitaso/RegionChanger)
+  > Set the System Region of your device to US. Mute the shutter sound of the camera in silent mode, etc...
 
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [agavra/tuicr](https://github.com/agavra/tuicr)
@@ -68,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 18:25:25 UTC*
+*Last updated at 2026-10-13 19:14:28 UTC*
 *Historical records are stored in the `archive` directory.*
