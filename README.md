@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [maybenot-io/maybenot](https://github.com/maybenot-io/maybenot)
+  > a framework for traffic analysis defenses
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AIPMAndy/how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) to [CrackerCat/how-to-survive-unemployment](https://github.com/CrackerCat/how-to-survive-unemployment)
   > 失业自救开源手册：N/N+1/2N、失业金、医保、社保、公积金、求职与现金流。50项行动任务、6份实操SOP，附北京上海政策原文。
@@ -32,10 +36,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn)
-  > Somehow, Byepervisor returned...
-
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [peryaudo/proskrnl](https://github.com/peryaudo/proskrnl)
   > Vibe-coded WinNT compatible toy kernel with unique tradeoffs
@@ -46,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 11:18:22 UTC*
+*Last updated at 2026-10-13 12:30:55 UTC*
 *Historical records are stored in the `archive` directory.*
