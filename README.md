@@ -52,11 +52,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [peryaudo/proskrnl](https://github.com/peryaudo/proskrnl)
   > Vibe-coded WinNT compatible toy kernel with unique tradeoffs
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [Lapin/awesome-music-gear-firmware](https://github.com/Lapin/awesome-music-gear-firmware)
+  > A curated list of custom firmware for music gear (and more). Links only.
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [SwayamInSync/cpp-verify](https://github.com/SwayamInSync/cpp-verify)
+  > Extending C++ to support Program Verification using SMT solvers
+
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [tuxera/ntfs-3g](https://github.com/tuxera/ntfs-3g)
   > NTFS-3G Safe Read/Write NTFS Driver
 
 
 ---
-*Last updated at 2026-10-13 14:22:42 UTC*
+*Last updated at 2026-10-13 15:20:07 UTC*
 *Historical records are stored in the `archive` directory.*
