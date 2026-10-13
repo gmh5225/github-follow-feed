@@ -31,6 +31,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Compile-time state machine DSL for Rust, inspired by the Ruby state_machines gem.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mdeloof/statig](https://github.com/mdeloof/statig)
   > Hierarchical state machines for designing event-driven systems
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [charmbracelet/freeze](https://github.com/charmbracelet/freeze)
+  > Generate images of code and terminal output 📸
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [d0mzw/pixel6-kgdb-usb](https://github.com/d0mzw/pixel6-kgdb-usb) to [classic130/pixel6-kgdb-usb](https://github.com/classic130/pixel6-kgdb-usb)
@@ -66,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 17:17:09 UTC*
+*Last updated at 2026-10-13 18:25:25 UTC*
 *Historical records are stored in the `archive` directory.*
