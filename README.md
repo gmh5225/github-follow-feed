@@ -20,11 +20,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [d0mzw/pixel6-kgdb-usb](https://github.com/d0mzw/pixel6-kgdb-usb) to [classic130/pixel6-kgdb-usb](https://github.com/classic130/pixel6-kgdb-usb)
   > Android kernel debugging
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [peryaudo/proskrnl](https://github.com/peryaudo/proskrnl)
+  > Vibe-coded WinNT compatible toy kernel with unique tradeoffs
+
 ### [vaivaswatha](https://github.com/vaivaswatha)
 - 🌟 👤 [vaivaswatha](https://github.com/vaivaswatha) Starred [tuxera/ntfs-3g](https://github.com/tuxera/ntfs-3g)
   > NTFS-3G Safe Read/Write NTFS Driver
 
 
 ---
-*Last updated at 2026-10-13 06:36:36 UTC*
+*Last updated at 2026-10-13 07:31:48 UTC*
 *Historical records are stored in the `archive` directory.*
