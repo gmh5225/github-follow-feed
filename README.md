@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [maybenot-io/maybenot](https://github.com/maybenot-io/maybenot)
   > a framework for traffic analysis defenses
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [livid/exe](https://github.com/livid/exe)
+  > A personal VM cloud in one Go binary: persistent Linux VMs on macOS, Linux and Windows, AI coding ag...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AIPMAndy/how-to-survive-unemployment](https://github.com/AIPMAndy/how-to-survive-unemployment) to [CrackerCat/how-to-survive-unemployment](https://github.com/CrackerCat/how-to-survive-unemployment)
@@ -41,6 +43,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Configurable Rust HTTP MITM proxy with TLS , HTTP/2 and TCP fingerprint spoofing.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [DimensionDev/Flare](https://github.com/DimensionDev/Flare)
   > Browse Mastodon, Bluesky, X, Misskey, Nostr, Pixiv, Fanbox and RSS all in one app. One timeline, all...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [libvmi/libvmi](https://github.com/libvmi/libvmi)
+  > The official home of the LibVMI project is at https://github.com/libvmi/libvmi.
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [d0mzw/pixel6-kgdb-usb](https://github.com/d0mzw/pixel6-kgdb-usb) to [classic130/pixel6-kgdb-usb](https://github.com/classic130/pixel6-kgdb-usb)
@@ -82,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-13 21:14:36 UTC*
+*Last updated at 2026-10-13 22:15:04 UTC*
 *Historical records are stored in the `archive` directory.*
