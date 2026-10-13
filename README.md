@@ -10,7 +10,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lwtw123456/Proxifier-Activator](https://github.com/lwtw123456/Proxifier-Activator) to [CrackerCat/Proxifier-Activator](https://github.com/CrackerCat/Proxifier-Activator)
   > 练习型逆向项目，实现了 Proxifier 的激活
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [d0mzw/pixel6-kgdb-usb](https://github.com/d0mzw/pixel6-kgdb-usb) to [classic130/pixel6-kgdb-usb](https://github.com/classic130/pixel6-kgdb-usb)
+  > Android kernel debugging
+
 
 ---
-*Last updated at 2026-10-13 03:28:04 UTC*
+*Last updated at 2026-10-13 04:27:11 UTC*
 *Historical records are stored in the `archive` directory.*
