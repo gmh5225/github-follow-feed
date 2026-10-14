@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [googleprojectzero/0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild)
   > Repository for information about 0-days exploited in-the-wild.
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [radkawar/lindm](https://github.com/radkawar/lindm)
+  > Self-hosted MDM for Linux fleets. Enrollment, profiles, disk encryption, lock and wipe, OS updates a...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/AllBestestDriversCopyedfromTear](https://github.com/tearhacker/AllBestestDriversCopyedfromTear) to [CrackerCat/AllBestestDriversCopyedfromTear](https://github.com/CrackerCat/AllBestestDriversCopyedfromTear)
   > 关于安卓无敌驱动，泪心已经主动开源了，别整了，我是吃百家饭长大的。谢谢您。
@@ -39,11 +43,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by NebuSec. 
 
+### [ri-char](https://github.com/ri-char)
+- 🌟 👤 [ri-char](https://github.com/ri-char) Starred [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW)
+  > A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)
   > AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
 
 
 ---
-*Last updated at 2026-10-14 07:22:31 UTC*
+*Last updated at 2026-10-14 08:25:30 UTC*
 *Historical records are stored in the `archive` directory.*
