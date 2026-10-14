@@ -19,7 +19,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty)
   > A cargo build wrapper with a live, animated status view
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
+  > PoCs and exploits for CVEs discovered by NebuSec. 
+
 
 ---
-*Last updated at 2026-10-14 01:25:31 UTC*
+*Last updated at 2026-10-14 02:24:41 UTC*
 *Historical records are stored in the `archive` directory.*
