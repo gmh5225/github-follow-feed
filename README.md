@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [googleprojectzero/0days-in-the-wild](https://github.com/googleprojectzero/0days-in-the-wild)
+  > Repository for information about 0-days exploited in-the-wild.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/AllBestestDriversCopyedfromTear](https://github.com/tearhacker/AllBestestDriversCopyedfromTear) to [CrackerCat/AllBestestDriversCopyedfromTear](https://github.com/CrackerCat/AllBestestDriversCopyedfromTear)
   > 关于安卓无敌驱动，泪心已经主动开源了，别整了，我是吃百家饭长大的。谢谢您。
@@ -25,5 +29,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-14 04:21:59 UTC*
+*Last updated at 2026-10-14 05:17:47 UTC*
 *Historical records are stored in the `archive` directory.*
