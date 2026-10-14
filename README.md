@@ -22,6 +22,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless ...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [romancitodev/cargo-pretty](https://github.com/romancitodev/cargo-pretty)
   > A cargo build wrapper with a live, animated status view
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig)
+  > ⚙️🦀 Build modular and scalable LLM Applications in Rust
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
+  > Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
+  > Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, t...
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
@@ -29,5 +35,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-14 05:17:47 UTC*
+*Last updated at 2026-10-14 06:31:08 UTC*
 *Historical records are stored in the `archive` directory.*
