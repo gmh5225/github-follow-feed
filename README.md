@@ -28,6 +28,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [doctly/switchboard](https://github.com/doctly/switchboard)
   > A desktop app for browsing, searching, and managing CLI coding sessions
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [HimalayanNomads/drawa](https://github.com/HimalayanNomads/drawa)
+  > A browser canvas for coding agents: run Claude Code, OpenCode and Codex sessions side by side, watch...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
   > ClickHouse® is a real-time analytics database management system
@@ -80,5 +84,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-14 21:15:39 UTC*
+*Last updated at 2026-10-14 22:15:47 UTC*
 *Historical records are stored in the `archive` directory.*
