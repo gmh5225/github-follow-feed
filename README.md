@@ -39,12 +39,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, t...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [linksocks/linksocks.js](https://github.com/linksocks/linksocks.js)
   > A cloudflare worker for serving as linksocks server
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle)
+  > Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor an...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp)
   > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
 - 🍴 👤 [eteran](https://github.com/eteran) Forked [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp) to [eteran/IsaacRecomp](https://github.com/eteran/IsaacRecomp)
   > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
+
+### [gakonst](https://github.com/gakonst)
+- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [clabby/tact](https://github.com/clabby/tact) to [gakonst/tact](https://github.com/gakonst/tact)
+  > A terminal interface for Nanocodex
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
@@ -64,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-14 16:19:37 UTC*
+*Last updated at 2026-10-14 17:15:05 UTC*
 *Historical records are stored in the `archive` directory.*
