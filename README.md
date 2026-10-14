@@ -28,12 +28,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust)
   > Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, t...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [linksocks/linksocks.js](https://github.com/linksocks/linksocks.js)
+  > A cloudflare worker for serving as linksocks server
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Tool for automatic PS5 executables porting to Linux and Windows
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by NebuSec. 
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX)
+  > AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目
+
 
 ---
-*Last updated at 2026-10-14 06:31:08 UTC*
+*Last updated at 2026-10-14 07:22:31 UTC*
 *Historical records are stored in the `archive` directory.*
