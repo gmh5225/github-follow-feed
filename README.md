@@ -45,12 +45,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A cloudflare worker for serving as linksocks server
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Graphicle-AI/graphicle](https://github.com/Graphicle-AI/graphicle)
   > Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor an...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [woldann/exoproc](https://github.com/woldann/exoproc)
+  > Cross-process instrumentation for Windows x64 in TypeScript — hook functions, redirect threads, and ...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp)
   > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
 - 🍴 👤 [eteran](https://github.com/eteran) Forked [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp) to [eteran/IsaacRecomp](https://github.com/eteran/IsaacRecomp)
   > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [copperheadhq/copperhead](https://github.com/copperheadhq/copperhead)
+  > Hardware as fast as software.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -74,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-14 19:15:11 UTC*
+*Last updated at 2026-10-14 20:17:35 UTC*
 *Historical records are stored in the `archive` directory.*
