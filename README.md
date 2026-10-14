@@ -24,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Game-Crafters-Guild/OpenEngine](https://github.com/Game-Crafters-Guild/OpenEngine)
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [doctly/switchboard](https://github.com/doctly/switchboard)
+  > A desktop app for browsing, searching, and managing CLI coding sessions
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)
   > ClickHouse® is a real-time analytics database management system
@@ -48,10 +52,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [eteran](https://github.com/eteran) Forked [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp) to [eteran/IsaacRecomp](https://github.com/eteran/IsaacRecomp)
   > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
 
-### [gakonst](https://github.com/gakonst)
-- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [clabby/tact](https://github.com/clabby/tact) to [gakonst/tact](https://github.com/gakonst/tact)
-  > A terminal interface for Nanocodex
-
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -74,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-14 17:15:05 UTC*
+*Last updated at 2026-10-14 18:22:48 UTC*
 *Historical records are stored in the `archive` directory.*
