@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [radkawar/lindm](https://github.com/radkawar/lindm)
   > Self-hosted MDM for Linux fleets. Enrollment, profiles, disk encryption, lock and wipe, OS updates a...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [fox-it/dissect.cobaltstrike](https://github.com/fox-it/dissect.cobaltstrike)
+  > Python library for dissecting and parsing Cobalt Strike related data such as Beacon payloads and Mal...
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tearhacker/AllBestestDriversCopyedfromTear](https://github.com/tearhacker/AllBestestDriversCopyedfromTear) to [CrackerCat/AllBestestDriversCopyedfromTear](https://github.com/CrackerCat/AllBestestDriversCopyedfromTear)
@@ -52,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-14 11:17:21 UTC*
+*Last updated at 2026-10-14 12:27:32 UTC*
 *Historical records are stored in the `archive` directory.*
