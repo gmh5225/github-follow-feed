@@ -46,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [eteran](https://github.com/eteran) Forked [whylurking/IsaacRecomp](https://github.com/whylurking/IsaacRecomp) to [eteran/IsaacRecomp](https://github.com/eteran/IsaacRecomp)
   > Native C++ recompilation of The Binding of Isaac (Flash) — 60 fps, 1080p, Windows/Linux/Switch. Requ...
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve)
+  > Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Zig bac...
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [NebuSec/CyberMeowfia](https://github.com/NebuSec/CyberMeowfia)
   > PoCs and exploits for CVEs discovered by NebuSec. 
@@ -60,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-14 13:16:31 UTC*
+*Last updated at 2026-10-14 14:18:13 UTC*
 *Historical records are stored in the `archive` directory.*
