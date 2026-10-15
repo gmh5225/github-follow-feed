@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [OpenReliant/openreliant-editor](https://github.com/OpenReliant/openreliant-editor)
   > Mission editor, script debugger and mod editor for OpenReliant. Needs OpenReliant and your own copy ...
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [NeoMaster831/kurasagi](https://github.com/NeoMaster831/kurasagi)
+  > Windows 11 24H2-25H2 Runtime PatchGuard Bypass
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [devZero-Security/redStackPRO](https://github.com/devZero-Security/redStackPRO)
   > A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform...
@@ -23,14 +27,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
-
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn)
-  > Somehow, Byepervisor returned...
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [caverav/flutterdec](https://github.com/caverav/flutterdec)
-  > The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseu...
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ctrl-cheeb-del/pokeheartgold](https://github.com/ctrl-cheeb-del/pokeheartgold)
-  > Full decompilation of Pokémon HeartGold and SoulSilver.
 
 ### [keiichiw](https://github.com/keiichiw)
 - 🚀 👤 [keiichiw](https://github.com/keiichiw) Made [keiichiw/crate-proofs](https://github.com/keiichiw/crate-proofs) public
@@ -46,9 +42,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oscarsantanaarias/IDA-Ghidra-bridge](https://github.com/oscarsantanaarias/IDA-Ghidra-bridge)
 
-### [ocornut](https://github.com/ocornut)
-- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Atrix256/df_game_data](https://github.com/Atrix256/df_game_data)
-  > Game data middleware - describe schemas, edit data, pack data, load data, hot reloading support 
+### [nevillegrech](https://github.com/nevillegrech)
+- 🍴 👤 [nevillegrech](https://github.com/nevillegrech) Forked [Z3Prover/z3](https://github.com/Z3Prover/z3) to [nevillegrech/z3](https://github.com/nevillegrech/z3)
+  > The Z3 Theorem Prover
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
@@ -68,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 21:17:04 UTC*
+*Last updated at 2026-10-15 22:16:53 UTC*
 *Historical records are stored in the `archive` directory.*
