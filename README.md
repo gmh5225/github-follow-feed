@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dmtrKovalenko/fframes](https://github.com/dmtrKovalenko/fframes)
+  > programmatic video rendering framework that is actually fast
+
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [andrewnakas/recompsoftware](https://github.com/andrewnakas/recompsoftware)
   > Recomp: tracker for decompilation, recompilation, clean-room and preservation projects (recompsoftwa...
@@ -49,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
   > Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
+- 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/sydrahynth](https://github.com/systemfreund/sydrahynth)
+  > Linux plugin (VST3/LV2/standalone) that emulates the Hydrasynth Desktop by running its firmware
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
@@ -64,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 22:16:53 UTC*
+*Last updated at 2026-10-15 23:13:30 UTC*
 *Historical records are stored in the `archive` directory.*
