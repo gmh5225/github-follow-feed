@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Big-fat-dog/FatdogReverse](https://github.com/Big-fat-dog/FatdogReverse) to [CrackerCat/FatdogReverse](https://github.com/CrackerCat/FatdogReverse)
   > [闯关式安卓逆向靶场,新手友好]An open-source and free Android reverse engineering practice range, suitable for rev...
 
+### [MaskRay](https://github.com/MaskRay)
+- 🍴 👤 [MaskRay](https://github.com/MaskRay) Forked [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc) to [MaskRay/rules_cc](https://github.com/MaskRay/rules_cc)
+  > C++ Rules for Bazel
+
 ### [simonw](https://github.com/simonw)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [gharman/samantha](https://github.com/gharman/samantha)
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [elide-dev/elide](https://github.com/elide-dev/elide)
@@ -27,5 +31,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 02:24:41 UTC*
+*Last updated at 2026-10-15 03:21:26 UTC*
 *Historical records are stored in the `archive` directory.*
