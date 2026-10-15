@@ -31,10 +31,30 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AMD-V nested hypervisor research driver for Windows: NPT virtualization, NPT hooks, CR3 protection s...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mikasaw/svmb-rust](https://github.com/mikasaw/svmb-rust) to [CrackerCat/svmb-rust](https://github.com/CrackerCat/svmb-rust)
   > Windows AMD-V (SVM) hypervisor driver — Rust port with stable core engine (wdk-rs WDM pattern)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KernelSU-Next/KPatch-Next](https://github.com/KernelSU-Next/KPatch-Next) to [CrackerCat/KPatch-Next](https://github.com/CrackerCat/KPatch-Next)
+  > Standalone implementation of KPM support for Magisk/KernelSU
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [KernelSU-Next/KPatch-Next-Module](https://github.com/KernelSU-Next/KPatch-Next-Module) to [CrackerCat/KPatch-Next-Module](https://github.com/CrackerCat/KPatch-Next-Module)
+  > Standalone implementation of KPM support for Magisk/KernelSU
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kaidevon/scalpel](https://github.com/kaidevon/scalpel) to [CrackerCat/scalpel](https://github.com/CrackerCat/scalpel)
+  > It's just to access memory without leaving a trace.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kaidevon/app_info](https://github.com/kaidevon/app_info) to [CrackerCat/app_info](https://github.com/CrackerCat/app_info)
+  > Fast pure-C APK parser for embedding, zero deps.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kaidevon/fast_ptrscan](https://github.com/kaidevon/fast_ptrscan) to [CrackerCat/fast_ptrscan](https://github.com/CrackerCat/fast_ptrscan)
+  > Dude, this makes dynamic memory locatable, and almost reliable.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [herdrdev/herdr](https://github.com/herdrdev/herdr) to [CrackerCat/herdr](https://github.com/CrackerCat/herdr)
+  > the runtime your coding agents live on
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dofastted/vm2api](https://github.com/dofastted/vm2api) to [CrackerCat/vm2api](https://github.com/CrackerCat/vm2api)
+  > vm2api 使用虚拟机完全拟真方案的订阅转api
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LSPosed/dexsql-release](https://github.com/LSPosed/dexsql-release) to [CrackerCat/dexsql-release](https://github.com/CrackerCat/dexsql-release)
+  > SQL for Android apk and dex files
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [thelok1s/tiktok-rv](https://github.com/thelok1s/tiktok-rv) to [CrackerCat/tiktok-rv](https://github.com/CrackerCat/tiktok-rv)
+  > Automatic builds of TikTok mod with applied patches. Powered by Revanced, transparent by design.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [delvinru/apk-info](https://github.com/delvinru/apk-info) to [CrackerCat/apk-info](https://github.com/CrackerCat/apk-info)
+  > Fast, malware-robust parser for Android APK/XAPK/APKM files
 
-### [MaskRay](https://github.com/MaskRay)
-- 🍴 👤 [MaskRay](https://github.com/MaskRay) Forked [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc) to [MaskRay/rules_cc](https://github.com/MaskRay/rules_cc)
-  > C++ Rules for Bazel
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
+  > Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
@@ -42,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 05:17:55 UTC*
+*Last updated at 2026-10-15 06:30:56 UTC*
 *Historical records are stored in the `archive` directory.*
