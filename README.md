@@ -19,6 +19,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ARM64 decoder and encoder
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Big-fat-dog/FatdogReverse](https://github.com/Big-fat-dog/FatdogReverse) to [CrackerCat/FatdogReverse](https://github.com/CrackerCat/FatdogReverse)
   > [闯关式安卓逆向靶场,新手友好]An open-source and free Android reverse engineering practice range, suitable for rev...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mikasaw/wvmp](https://github.com/mikasaw/wvmp) to [CrackerCat/wvmp](https://github.com/CrackerCat/wvmp)
+  > WVmp: a self-researched PE virtual-machine protector for x86/x64 Windows. Translates marked regions ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mikasaw/MyArk](https://github.com/mikasaw/MyArk) to [CrackerCat/MyArk](https://github.com/CrackerCat/MyArk)
+  > Self-developed Windows ARK (Anti-Rootkit) tool: single KMDF .sys (30 modules, macro-gated) + Python ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mikasaw/dimenData](https://github.com/mikasaw/dimenData) to [CrackerCat/dimenData](https://github.com/CrackerCat/dimenData)
+  > Windows 硬件信息采集与设备指纹工具：模块化多通道采集（smbios/registry/native/wmi）+ 四种归并策略 + 指纹引擎（整机/子指纹/相似度/算法版本戳），零第三方依赖
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mikasaw/EniBox](https://github.com/mikasaw/EniBox) to [CrackerCat/EniBox](https://github.com/CrackerCat/EniBox)
+  > Pack Windows EXE + dependencies into one .enibox executable: transparent VFS, registry virtualizatio...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mikasaw/svmb](https://github.com/mikasaw/svmb) to [CrackerCat/svmb](https://github.com/CrackerCat/svmb)
+  > AMD-V nested hypervisor research driver for Windows: NPT virtualization, NPT hooks, CR3 protection s...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mikasaw/svmb-rust](https://github.com/mikasaw/svmb-rust) to [CrackerCat/svmb-rust](https://github.com/CrackerCat/svmb-rust)
+  > Windows AMD-V (SVM) hypervisor driver — Rust port with stable core engine (wdk-rs WDM pattern)
 
 ### [MaskRay](https://github.com/MaskRay)
 - 🍴 👤 [MaskRay](https://github.com/MaskRay) Forked [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc) to [MaskRay/rules_cc](https://github.com/MaskRay/rules_cc)
@@ -31,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 03:21:26 UTC*
+*Last updated at 2026-10-15 04:20:20 UTC*
 *Historical records are stored in the `archive` directory.*
