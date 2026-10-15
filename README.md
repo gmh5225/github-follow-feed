@@ -17,8 +17,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lua in Rust
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [valeria-org/fARM64](https://github.com/valeria-org/fARM64) to [CrackerCat/fARM64](https://github.com/CrackerCat/fARM64)
   > ARM64 decoder and encoder
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Big-fat-dog/FatdogReverse](https://github.com/Big-fat-dog/FatdogReverse) to [CrackerCat/FatdogReverse](https://github.com/CrackerCat/FatdogReverse)
+  > [闯关式安卓逆向靶场,新手友好]An open-source and free Android reverse engineering practice range, suitable for rev...
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [gharman/samantha](https://github.com/gharman/samantha)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [elide-dev/elide](https://github.com/elide-dev/elide)
+  > fast multi-lang runtime
 
 
 ---
-*Last updated at 2026-10-15 01:25:30 UTC*
+*Last updated at 2026-10-15 02:24:41 UTC*
 *Historical records are stored in the `archive` directory.*
