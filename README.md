@@ -4,6 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [andrewnakas/recompsoftware](https://github.com/andrewnakas/recompsoftware)
+  > Recomp: tracker for decompilation, recompilation, clean-room and preservation projects (recompsoftwa...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [devZero-Security/redStackPRO](https://github.com/devZero-Security/redStackPRO)
+  > A canvas for red team infrastructure and cyber ranges. Compose a topology, export runnable Terraform...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [moonrepo/moon](https://github.com/moonrepo/moon)
+  > A build system and monorepo management tool for the web ecosystem, written in Rust.
+
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
@@ -52,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 16:19:19 UTC*
+*Last updated at 2026-10-15 17:14:59 UTC*
 *Historical records are stored in the `archive` directory.*
