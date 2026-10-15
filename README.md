@@ -9,8 +9,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 适用于Xiaomi pad 6s pro的linux发行版移植         Linux distro porting for Xiaomi pad 6s pro
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [valeria-org/fWASM](https://github.com/valeria-org/fWASM) to [CrackerCat/fWASM](https://github.com/CrackerCat/fWASM)
   > WASM encoder and decoder
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mytiantian001/EDK2-Xiaomi-MediaTek-MT6895](https://github.com/mytiantian001/EDK2-Xiaomi-MediaTek-MT6895) to [CrackerCat/EDK2-Xiaomi-MediaTek-MT6895](https://github.com/CrackerCat/EDK2-Xiaomi-MediaTek-MT6895)
-  > EDK II For Xiaomi MT6895 Family
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [valeria-org/fLUA](https://github.com/valeria-org/fLUA) to [CrackerCat/fLUA](https://github.com/CrackerCat/fLUA)
   > LUA bytecode encoder and decoder
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [valeria-org/lua-rs](https://github.com/valeria-org/lua-rs) to [CrackerCat/lua-rs](https://github.com/CrackerCat/lua-rs)
@@ -52,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [delvinru/apk-info](https://github.com/delvinru/apk-info) to [CrackerCat/apk-info](https://github.com/CrackerCat/apk-info)
   > Fast, malware-robust parser for Android APK/XAPK/APKM files
 
+### [frkngksl](https://github.com/frkngksl)
+- 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn)
   > Somehow, Byepervisor returned...
@@ -83,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 12:27:26 UTC*
+*Last updated at 2026-10-15 13:18:35 UTC*
 *Historical records are stored in the `archive` directory.*
