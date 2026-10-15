@@ -36,12 +36,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [MaskRay](https://github.com/MaskRay) Forked [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc) to [MaskRay/rules_cc](https://github.com/MaskRay/rules_cc)
   > C++ Rules for Bazel
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [gharman/samantha](https://github.com/gharman/samantha)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [elide-dev/elide](https://github.com/elide-dev/elide)
-  > fast multi-lang runtime
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
+  > 🔍 Search anyone's digital footprint across 300+ websites
 
 
 ---
-*Last updated at 2026-10-15 04:20:20 UTC*
+*Last updated at 2026-10-15 05:17:55 UTC*
 *Historical records are stored in the `archive` directory.*
