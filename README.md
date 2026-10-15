@@ -16,6 +16,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ctrl-cheeb-del/pokeheartgold](https://github.com/ctrl-cheeb-del/pokeheartgold)
   > Full decompilation of Pokémon HeartGold and SoulSilver.
 
+### [keiichiw](https://github.com/keiichiw)
+- 🚀 👤 [keiichiw](https://github.com/keiichiw) Made [keiichiw/crate-proofs](https://github.com/keiichiw/crate-proofs) public
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834) to [killvxk/CVE-2026-83834](https://github.com/killvxk/CVE-2026-83834)
@@ -26,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [oscarsantanaarias/IDA-Ghidra-bridge](https://github.com/oscarsantanaarias/IDA-Ghidra-bridge)
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [Atrix256/df_game_data](https://github.com/Atrix256/df_game_data)
+  > Game data middleware - describe schemas, edit data, pack data, load data, hot reloading support 
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
@@ -45,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 15:18:34 UTC*
+*Last updated at 2026-10-15 16:19:19 UTC*
 *Historical records are stored in the `archive` directory.*
