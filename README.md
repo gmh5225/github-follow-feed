@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A build system and monorepo management tool for the web ecosystem, written in Rust.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs)
   > QuickJS, the Next Generation: a mighty JavaScript engine
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bimsonz/keel](https://github.com/bimsonz/keel)
+  > A Git platform for software agents, built on Cloudflare Workers and Artifacts.
 
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -56,10 +58,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
   > 🔍 Search anyone's digital footprint across 300+ websites
 
-### [raysan5](https://github.com/raysan5)
-- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)
-  > A free, open source C# framework for making games, or your own game engine. Direct access to native ...
-
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [google/mantis](https://github.com/google/mantis)
   > A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vu...
@@ -70,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 20:16:10 UTC*
+*Last updated at 2026-10-15 21:17:04 UTC*
 *Historical records are stored in the `archive` directory.*
