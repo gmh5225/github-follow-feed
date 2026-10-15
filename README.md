@@ -52,6 +52,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [delvinru/apk-info](https://github.com/delvinru/apk-info) to [CrackerCat/apk-info](https://github.com/CrackerCat/apk-info)
   > Fast, malware-robust parser for Android APK/XAPK/APKM files
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn)
+  > Somehow, Byepervisor returned...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [caverav/flutterdec](https://github.com/caverav/flutterdec)
+  > The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseu...
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay)
   > Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
@@ -66,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 07:22:28 UTC*
+*Last updated at 2026-10-15 08:25:44 UTC*
 *Historical records are stored in the `archive` directory.*
