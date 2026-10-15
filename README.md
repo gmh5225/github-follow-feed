@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [andrewnakas/recompsoftware](https://github.com/andrewnakas/recompsoftware)
   > Recomp: tracker for decompilation, recompilation, clean-room and preservation projects (recompsoftwa...
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [OpenReliant/openreliant-editor](https://github.com/OpenReliant/openreliant-editor)
+  > Mission editor, script debugger and mod editor for OpenReliant. Needs OpenReliant and your own copy ...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [devZero-Security/redStackPRO](https://github.com/devZero-Security/redStackPRO)
@@ -68,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 19:14:08 UTC*
+*Last updated at 2026-10-15 20:16:10 UTC*
 *Historical records are stored in the `archive` directory.*
