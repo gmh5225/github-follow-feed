@@ -59,10 +59,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Somehow, Byepervisor returned...
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [caverav/flutterdec](https://github.com/caverav/flutterdec)
   > The Flutter Decompiler: CLI tool that decompiles Flutter Android AOT (libapp.so) into Dart-like pseu...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ctrl-cheeb-del/pokeheartgold](https://github.com/ctrl-cheeb-del/pokeheartgold)
+  > Full decompilation of Pokémon HeartGold and SoulSilver.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [decompals/wibo](https://github.com/decompals/wibo)
   > A minimal, low-fuss wrapper that can run simple command-line 32-bit Windows binaries on Linux and ma...
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834) to [killvxk/CVE-2026-83834](https://github.com/killvxk/CVE-2026-83834)
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [morluto/rea](https://github.com/morluto/rea)
@@ -79,11 +85,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
   > 🔍 Search anyone's digital footprint across 300+ websites
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [tien0246/ConstLoader](https://github.com/tien0246/ConstLoader)
+  > A plugin deobfuscate for IDA
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [kkkbbb/mkpms](https://github.com/kkkbbb/mkpms)
   > android 无痕probe 无痕hook kpm demo
 
 
 ---
-*Last updated at 2026-10-15 13:18:35 UTC*
+*Last updated at 2026-10-15 14:19:02 UTC*
 *Historical records are stored in the `archive` directory.*
