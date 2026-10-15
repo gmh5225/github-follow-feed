@@ -54,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
   > 🔍 Search anyone's digital footprint across 300+ websites
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)
+  > A free, open source C# framework for making games, or your own game engine. Direct access to native ...
+
 ### [tklengyel](https://github.com/tklengyel)
 - 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [google/mantis](https://github.com/google/mantis)
   > A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vu...
@@ -64,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-15 18:21:33 UTC*
+*Last updated at 2026-10-15 19:14:08 UTC*
 *Historical records are stored in the `archive` directory.*
