@@ -12,9 +12,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [divyam234/axion-builder](https://github.com/divyam234/axion-builder) to [CrackerCat/axion-builder](https://github.com/CrackerCat/axion-builder)
   > Build AxionOS Android 16 natively on ARM64 Linux with Podman, ika toolchains, and per-device manifes...
 
-### [Wenzel](https://github.com/Wenzel)
-- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
-  > the runtime your coding agents live on
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [wux1an/wxapkg](https://github.com/wux1an/wxapkg)
+  > 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)
@@ -57,5 +57,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 12:27:09 UTC*
+*Last updated at 2026-10-16 13:17:40 UTC*
 *Historical records are stored in the `archive` directory.*
