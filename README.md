@@ -9,6 +9,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Verified KernelSU Next port for MuMu Pro on Apple Silicon, with reproducible builds, guarded install...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alfzki/ghostlock-app](https://github.com/alfzki/ghostlock-app) to [CrackerCat/alfzki-ghostlock-app](https://github.com/CrackerCat/alfzki-ghostlock-app)
   > Android kernel privilege escalation via the futex-PI waiter UAF (CVE-2026-43499), with vivo/iQOO vr....
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [divyam234/axion-builder](https://github.com/divyam234/axion-builder) to [CrackerCat/axion-builder](https://github.com/CrackerCat/axion-builder)
+  > Build AxionOS Android 16 natively on ARM64 Linux with Podman, ika toolchains, and per-device manifes...
 
 ### [Wenzel](https://github.com/Wenzel)
 - 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
@@ -42,12 +44,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Modular Kernel Anti-Cheat.
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [scizzydo/shellcoder](https://github.com/scizzydo/shellcoder)
   > Realtime C/C++ to binary code (Shellcode generator)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [trailofbits/coop](https://github.com/trailofbits/coop)
+  > Isolated VM environment for running Claude Code and Codex
 
 ### [petercunha](https://github.com/petercunha)
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/twitch-logs-extension](https://github.com/petercunha/twitch-logs-extension) public
   > Chrome extension: adds a chat logs button to Twitch and 7TV user cards, powered by Lurkology logs
 
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [Yujia-Yan/Transkun](https://github.com/Yujia-Yan/Transkun)
+  > A simple yet effective Audio-to-Midi Automatic Piano Transcription system
+
 
 ---
-*Last updated at 2026-10-16 11:16:38 UTC*
+*Last updated at 2026-10-16 12:27:09 UTC*
 *Historical records are stored in the `archive` directory.*
