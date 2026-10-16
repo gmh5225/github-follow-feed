@@ -22,6 +22,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)
   > A refreshingly simple data-driven game engine built in Rust
 
+### [enovella](https://github.com/enovella)
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [19h/eac-linux-devirt](https://github.com/19h/eac-linux-devirt) to [enovella/eac-linux-devirt](https://github.com/enovella/eac-linux-devirt)
+
+### [minaminao](https://github.com/minaminao)
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [dubguild/Sidon-TRT](https://github.com/dubguild/Sidon-TRT)
+  > Fast TensorRT inference for Sidon (ICASSP 2026) with custom CUDA kernels.
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Korben00/no-gdid](https://github.com/Korben00/no-gdid)
   > Read, understand and silence the Windows GDID device identifier (the ID that tracked a hacker throug...
@@ -32,5 +39,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 07:20:15 UTC*
+*Last updated at 2026-10-16 08:24:24 UTC*
 *Historical records are stored in the `archive` directory.*
