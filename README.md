@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alfzki/ghostlock-app](https://github.com/alfzki/ghostlock-app) to [CrackerCat/alfzki-ghostlock-app](https://github.com/CrackerCat/alfzki-ghostlock-app)
   > Android kernel privilege escalation via the futex-PI waiter UAF (CVE-2026-43499), with vivo/iQOO vr....
 
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [herdrdev/herdr](https://github.com/herdrdev/herdr)
+  > the runtime your coding agents live on
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)
   > Generate TypeScript bindings from Rust types
@@ -32,6 +36,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Korben00/no-gdid](https://github.com/Korben00/no-gdid)
   > Read, understand and silence the Windows GDID device identifier (the ID that tracked a hacker throug...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [EvanMcBroom/dfi-scanner](https://github.com/EvanMcBroom/dfi-scanner)
+  > API for SentinelOne's Deep File Inspection technology
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [000nico/ringo-ac](https://github.com/000nico/ringo-ac)
+  > Modular Kernel Anti-Cheat.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [scizzydo/shellcoder](https://github.com/scizzydo/shellcoder)
+  > Realtime C/C++ to binary code (Shellcode generator)
 
 ### [petercunha](https://github.com/petercunha)
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/twitch-logs-extension](https://github.com/petercunha/twitch-logs-extension) public
@@ -39,5 +49,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 09:18:54 UTC*
+*Last updated at 2026-10-16 10:18:15 UTC*
 *Historical records are stored in the `archive` directory.*
