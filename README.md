@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Base64 coding and decoding with SIMD instructions (SSE/AVX2/AVX512F/AVX512BW/AVX512VBMI/ARM Neon)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenLegacyGame/RoomBreak-Escape-Now](https://github.com/OpenLegacyGame/RoomBreak-Escape-Now) to [CrackerCat/RoomBreak-Escape-Now](https://github.com/CrackerCat/RoomBreak-Escape-Now)
 
+### [Obsidian200](https://github.com/Obsidian200)
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)
+  > 🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)
   > Generate TypeScript bindings from Rust types
@@ -32,6 +36,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Build a modern LLM from scratch. Every line commented. Explained like we are five.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)
   > A refreshingly simple data-driven game engine built in Rust
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Eugeny/russh](https://github.com/Eugeny/russh)
+  > Rust SSH client & server library
 
 ### [enovella](https://github.com/enovella)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [19h/eac-linux-devirt](https://github.com/19h/eac-linux-devirt) to [enovella/eac-linux-devirt](https://github.com/enovella/eac-linux-devirt)
@@ -39,6 +45,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Viktorianec/BinaryExplorer](https://github.com/Viktorianec/BinaryExplorer)
   > A native macOS app that takes an iOS .ipa apart — byte by byte — and shows you what's actually insid...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore)
 
 ### [horsicq](https://github.com/horsicq)
 - 🌟 👤 [horsicq](https://github.com/horsicq) Starred [DosX-dev/DamnMIT-license](https://github.com/DosX-dev/DamnMIT-license)
@@ -62,6 +69,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [trailofbits/coop](https://github.com/trailofbits/coop)
   > Isolated VM environment for running Claude Code and Codex
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [zsoltf/gr1-ui](https://github.com/zsoltf/gr1-ui)
+  > Redesigned UI for the Tasty Chips GR-1
+- 🌟 👤 [patois](https://github.com/patois) Starred [GiZcesi/OpenTricky](https://github.com/GiZcesi/OpenTricky)
+  > OpenTricky is an unofficial PC port of SSX Tricky, made by static recompilation. Bring your own disc...
+
 ### [petercunha](https://github.com/petercunha)
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/twitch-logs-extension](https://github.com/petercunha/twitch-logs-extension) public
   > Chrome extension: adds a chat logs button to Twitch and 7TV user cards, powered by Lurkology logs
@@ -76,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 20:17:00 UTC*
+*Last updated at 2026-10-16 21:14:27 UTC*
 *Historical records are stored in the `archive` directory.*
