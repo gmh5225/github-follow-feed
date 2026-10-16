@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ioncodes/sly](https://github.com/ioncodes/sly)
+  > A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browser...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Jordan231111/KernelSU-Emulator](https://github.com/Jordan231111/KernelSU-Emulator) to [CrackerCat/KernelSU-Emulator](https://github.com/CrackerCat/KernelSU-Emulator)
   > Verified KernelSU Next port for MuMu Pro on Apple Silicon, with reproducible builds, guarded install...
@@ -70,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 16:18:42 UTC*
+*Last updated at 2026-10-16 17:14:23 UTC*
 *Historical records are stored in the `archive` directory.*
