@@ -17,10 +17,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Base64 coding and decoding with SIMD instructions (SSE/AVX2/AVX512F/AVX512BW/AVX512VBMI/ARM Neon)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenLegacyGame/RoomBreak-Escape-Now](https://github.com/OpenLegacyGame/RoomBreak-Escape-Now) to [CrackerCat/RoomBreak-Escape-Now](https://github.com/CrackerCat/RoomBreak-Escape-Now)
 
-### [JoasASantos](https://github.com/JoasASantos)
-- 🍴 👤 [JoasASantos](https://github.com/JoasASantos) Forked [SELinuxProject/selinux-testsuite](https://github.com/SELinuxProject/selinux-testsuite) to [JoasASantos/selinux-testsuite](https://github.com/JoasASantos/selinux-testsuite)
-  > This is the upstream SELinux testsuite which is designed as a basic set of regression tests for the ...
-
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)
   > Generate TypeScript bindings from Rust types
@@ -39,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Viktorianec/BinaryExplorer](https://github.com/Viktorianec/BinaryExplorer)
   > A native macOS app that takes an iOS .ipa apart — byte by byte — and shows you what's actually insid...
+
+### [keiichiw](https://github.com/keiichiw)
+- 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [proofs-rs/proofs-rs](https://github.com/proofs-rs/proofs-rs)
+  > A public registry for Rust formal verification results.
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [dubguild/Sidon-TRT](https://github.com/dubguild/Sidon-TRT)
@@ -70,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 15:16:20 UTC*
+*Last updated at 2026-10-16 16:18:42 UTC*
 *Historical records are stored in the `archive` directory.*
