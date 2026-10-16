@@ -11,10 +11,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Android kernel privilege escalation via the futex-PI waiter UAF (CVE-2026-43499), with vivo/iQOO vr....
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [divyam234/axion-builder](https://github.com/divyam234/axion-builder) to [CrackerCat/axion-builder](https://github.com/CrackerCat/axion-builder)
   > Build AxionOS Android 16 natively on ARM64 Linux with Podman, ika toolchains, and per-device manifes...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WojciechMula/sse4-strstr](https://github.com/WojciechMula/sse4-strstr) to [CrackerCat/sse4-strstr](https://github.com/CrackerCat/sse4-strstr)
+  > SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WojciechMula/base64simd](https://github.com/WojciechMula/base64simd) to [CrackerCat/base64simd](https://github.com/CrackerCat/base64simd)
+  > Base64 coding and decoding with SIMD instructions (SSE/AVX2/AVX512F/AVX512BW/AVX512VBMI/ARM Neon)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [OpenLegacyGame/RoomBreak-Escape-Now](https://github.com/OpenLegacyGame/RoomBreak-Escape-Now) to [CrackerCat/RoomBreak-Escape-Now](https://github.com/CrackerCat/RoomBreak-Escape-Now)
 
-### [Mr-xn](https://github.com/Mr-xn)
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [wux1an/wxapkg](https://github.com/wux1an/wxapkg)
-  > 跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具
+### [JoasASantos](https://github.com/JoasASantos)
+- 🍴 👤 [JoasASantos](https://github.com/JoasASantos) Forked [SELinuxProject/selinux-testsuite](https://github.com/SELinuxProject/selinux-testsuite) to [JoasASantos/selinux-testsuite](https://github.com/JoasASantos/selinux-testsuite)
+  > This is the upstream SELinux testsuite which is designed as a basic set of regression tests for the ...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)
@@ -30,6 +35,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [enovella](https://github.com/enovella)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [19h/eac-linux-devirt](https://github.com/19h/eac-linux-devirt) to [enovella/eac-linux-devirt](https://github.com/enovella/eac-linux-devirt)
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Viktorianec/BinaryExplorer](https://github.com/Viktorianec/BinaryExplorer)
+  > A native macOS app that takes an iOS .ipa apart — byte by byte — and shows you what's actually insid...
+
+### [keiichiw](https://github.com/keiichiw)
+- 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [joehattori/crosvm-verif](https://github.com/joehattori/crosvm-verif)
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [dubguild/Sidon-TRT](https://github.com/dubguild/Sidon-TRT)
@@ -51,11 +63,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/twitch-logs-extension](https://github.com/petercunha/twitch-logs-extension) public
   > Chrome extension: adds a chat logs button to Twitch and 7TV user cards, powered by Lurkology logs
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [knostic/OpenAnt](https://github.com/knostic/OpenAnt)
+  > OpenAnt from Knostic is the leading open source LLM-based vulnerability discovery product, helping d...
+
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [Yujia-Yan/Transkun](https://github.com/Yujia-Yan/Transkun)
   > A simple yet effective Audio-to-Midi Automatic Piano Transcription system
 
 
 ---
-*Last updated at 2026-10-16 13:17:40 UTC*
+*Last updated at 2026-10-16 14:18:49 UTC*
 *Historical records are stored in the `archive` directory.*
