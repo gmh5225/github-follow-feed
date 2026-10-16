@@ -40,9 +40,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Viktorianec/BinaryExplorer](https://github.com/Viktorianec/BinaryExplorer)
   > A native macOS app that takes an iOS .ipa apart — byte by byte — and shows you what's actually insid...
 
-### [keiichiw](https://github.com/keiichiw)
-- 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [proofs-rs/proofs-rs](https://github.com/proofs-rs/proofs-rs)
-  > A public registry for Rust formal verification results.
+### [horsicq](https://github.com/horsicq)
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [DosX-dev/DamnMIT-license](https://github.com/DosX-dev/DamnMIT-license)
+  > MIT-style licensing expanded into thousands of lines of bureaucratic precision. A custom license and...
+- 🌟 👤 [horsicq](https://github.com/horsicq) Starred [DosX-dev/TinyCC-builder](https://github.com/DosX-dev/TinyCC-builder)
+  > Build the latest TinyCC for Windows with one click. Complete portable x64/x86/ARM64 toolchain, full ...
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [dubguild/Sidon-TRT](https://github.com/dubguild/Sidon-TRT)
@@ -74,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 18:20:33 UTC*
+*Last updated at 2026-10-16 19:13:49 UTC*
 *Historical records are stored in the `archive` directory.*
