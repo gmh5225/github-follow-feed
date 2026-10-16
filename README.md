@@ -40,9 +40,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Viktorianec/BinaryExplorer](https://github.com/Viktorianec/BinaryExplorer)
   > A native macOS app that takes an iOS .ipa apart — byte by byte — and shows you what's actually insid...
 
-### [keiichiw](https://github.com/keiichiw)
-- 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [joehattori/crosvm-verif](https://github.com/joehattori/crosvm-verif)
-
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [dubguild/Sidon-TRT](https://github.com/dubguild/Sidon-TRT)
   > Fast TensorRT inference for Sidon (ICASSP 2026) with custom CUDA kernels.
@@ -73,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 14:18:49 UTC*
+*Last updated at 2026-10-16 15:16:20 UTC*
 *Historical records are stored in the `archive` directory.*
