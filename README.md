@@ -10,9 +10,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [alfzki/ghostlock-app](https://github.com/alfzki/ghostlock-app) to [CrackerCat/alfzki-ghostlock-app](https://github.com/CrackerCat/alfzki-ghostlock-app)
   > Android kernel privilege escalation via the futex-PI waiter UAF (CVE-2026-43499), with vivo/iQOO vr....
 
-### [MaskRay](https://github.com/MaskRay)
-- 🍴 👤 [MaskRay](https://github.com/MaskRay) Forked [llvm/llvm-test-suite](https://github.com/llvm/llvm-test-suite) to [MaskRay/llvm-test-suite](https://github.com/MaskRay/llvm-test-suite)
-
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs)
   > Generate TypeScript bindings from Rust types
@@ -23,11 +20,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
   > Build a modern LLM from scratch. Every line commented. Explained like we are five.
 
-### [keiichiw](https://github.com/keiichiw)
-- 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [proofs-rs/proofs-rs](https://github.com/proofs-rs/proofs-rs) to [keiichiw/proofs-rs](https://github.com/keiichiw/proofs-rs)
-  > A public registry for Rust formal verification results.
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Korben00/no-gdid](https://github.com/Korben00/no-gdid)
+  > Read, understand and silence the Windows GDID device identifier (the ID that tracked a hacker throug...
+
+### [petercunha](https://github.com/petercunha)
+- 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/twitch-logs-extension](https://github.com/petercunha/twitch-logs-extension) public
+  > Chrome extension: adds a chat logs button to Twitch and 7TV user cards, powered by Lurkology logs
 
 
 ---
-*Last updated at 2026-10-16 05:17:48 UTC*
+*Last updated at 2026-10-16 06:30:33 UTC*
 *Historical records are stored in the `archive` directory.*
