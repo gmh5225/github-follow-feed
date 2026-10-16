@@ -39,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Eugeny/russh](https://github.com/Eugeny/russh)
   > Rust SSH client & server library
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [worldcoin/pontifex](https://github.com/worldcoin/pontifex)
+  > Rust library for building and interacting with AWS Nitro enclaves.
+
 ### [enovella](https://github.com/enovella)
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [19h/eac-linux-devirt](https://github.com/19h/eac-linux-devirt) to [enovella/eac-linux-devirt](https://github.com/enovella/eac-linux-devirt)
 
@@ -83,11 +87,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [knostic/OpenAnt](https://github.com/knostic/OpenAnt)
   > OpenAnt from Knostic is the leading open source LLM-based vulnerability discovery product, helping d...
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [google/llvm-propeller](https://github.com/google/llvm-propeller)
+  > PROPELLER: Profile Guided Optimizing Large Scale LLVM-based Relinker
+
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [Yujia-Yan/Transkun](https://github.com/Yujia-Yan/Transkun)
   > A simple yet effective Audio-to-Midi Automatic Piano Transcription system
 
 
 ---
-*Last updated at 2026-10-16 21:14:27 UTC*
+*Last updated at 2026-10-16 22:15:54 UTC*
 *Historical records are stored in the `archive` directory.*
