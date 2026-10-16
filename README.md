@@ -19,6 +19,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > filesharing for the meatspace era
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
   > Build a modern LLM from scratch. Every line commented. Explained like we are five.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bevyengine/bevy](https://github.com/bevyengine/bevy)
+  > A refreshingly simple data-driven game engine built in Rust
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Korben00/no-gdid](https://github.com/Korben00/no-gdid)
@@ -30,5 +32,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-16 06:30:33 UTC*
+*Last updated at 2026-10-16 07:20:15 UTC*
 *Historical records are stored in the `archive` directory.*
