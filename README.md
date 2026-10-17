@@ -8,6 +8,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [MrTiz/CET-Enum-CallStack-Spoofer](https://github.com/MrTiz/CET-Enum-CallStack-Spoofer)
   > A Proof of Concept demonstrating CET-compliant callstack spoofing in Rust. It leverages Windows Thre...
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [ivancabrera02/SrHollow](https://github.com/ivancabrera02/SrHollow)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [hylo-lang/hylo-new](https://github.com/hylo-lang/hylo-new)
+  > The Hylo programming language
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [hylo-lang/hylo](https://github.com/hylo-lang/hylo)
+  > The Hylo programming language
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [austral/austral](https://github.com/austral/austral)
+  > Systems language with linear types and capability-based security.
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [ivan-hc/AM](https://github.com/ivan-hc/AM)
@@ -24,10 +30,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 二开artex的代码审计平台 | 新增本地反编译java依赖库
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
   > ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discover...
-
-### [TheCruZ](https://github.com/TheCruZ)
-- 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [chenxiao07/KytyPS5](https://github.com/chenxiao07/KytyPS5)
-  > PlayStation 5 emulator for Windows, Linux and MacOS
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-research/harness2](https://github.com/google-research/harness2)
@@ -60,6 +62,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc)
+  > Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/grooph](https://github.com/systemfreund/grooph)
@@ -79,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-17 20:15:55 UTC*
+*Last updated at 2026-10-17 21:13:38 UTC*
 *Historical records are stored in the `archive` directory.*
