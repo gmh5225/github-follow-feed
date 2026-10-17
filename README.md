@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [0xcpu](https://github.com/0xcpu)
-- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
-  > Modern networking and security platform providing secure access and connectivity to apps, infrastruc...
-
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [MrTiz/CET-Enum-CallStack-Spoofer](https://github.com/MrTiz/CET-Enum-CallStack-Spoofer)
   > A Proof of Concept demonstrating CET-compliant callstack spoofing in Rust. It leverages Windows Thre...
@@ -63,10 +59,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
   > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
-
-### [mytechnotalent](https://github.com/mytechnotalent)
-- 🍴 👤 [mytechnotalent](https://github.com/mytechnotalent) Forked [caitlynmeeks/darkride-interface](https://github.com/caitlynmeeks/darkride-interface) to [mytechnotalent/darkride-interface](https://github.com/mytechnotalent/darkride-interface)
-  > Darkride: a social virtual world for VR and desktop.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/grooph](https://github.com/systemfreund/grooph)
@@ -86,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-17 19:12:10 UTC*
+*Last updated at 2026-10-17 20:15:55 UTC*
 *Historical records are stored in the `archive` directory.*
