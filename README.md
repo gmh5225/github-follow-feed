@@ -27,7 +27,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex)
-  > 二开artex的代码审计平台 | 新增本地反编译java依赖库
+  > 二开artex的代码审计平台 | 新增本地反编译java依赖库 | 多账号管理
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
   > ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discover...
 
@@ -37,6 +37,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Build your own AI SRE agents. The open source toolkit for the AI era.
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [emilk/egui](https://github.com/emilk/egui)
   > egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [jcalabro/gloom](https://github.com/jcalabro/gloom)
+  > High Performance Bloom Filters for Go
 
 ### [djkaty](https://github.com/djkaty)
 - 🌟 👤 [djkaty](https://github.com/djkaty) Starred [joncampbell123/dosbox-x](https://github.com/joncampbell123/dosbox-x)
@@ -83,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-17 21:13:38 UTC*
+*Last updated at 2026-10-17 22:14:11 UTC*
 *Historical records are stored in the `archive` directory.*
