@@ -13,11 +13,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Dom-Yan/Mucc](https://github.com/Dom-Yan/Mucc)
+  > A small, fast, self-hosting C compiler for x86-64 and ARM64 Linux, in one static file with its own a...
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ioncodes/sly](https://github.com/ioncodes/sly)
   > A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browser...
 
 
 ---
-*Last updated at 2026-10-17 04:18:58 UTC*
+*Last updated at 2026-10-17 05:16:09 UTC*
 *Historical records are stored in the `archive` directory.*
