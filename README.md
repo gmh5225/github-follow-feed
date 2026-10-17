@@ -21,7 +21,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ioncodes/sly](https://github.com/ioncodes/sly)
   > A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browser...
 
+### [minaminao](https://github.com/minaminao)
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [aida0710/fast-pyannote](https://github.com/aida0710/fast-pyannote)
+  > Fast batch speaker diarization with pyannote Community-1, and the measurements behind it
+
 
 ---
-*Last updated at 2026-10-17 05:16:09 UTC*
+*Last updated at 2026-10-17 06:27:08 UTC*
 *Historical records are stored in the `archive` directory.*
