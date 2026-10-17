@@ -50,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Dom-Yan/Mucc](https://github.com/Dom-Yan/Mucc)
   > A small, fast, self-hosting C compiler for x86-64 and ARM64 Linux, in one static file with its own a...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [realiti4/claude-swap](https://github.com/realiti4/claude-swap)
+  > Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, a...
+
 ### [jhscheer](https://github.com/jhscheer)
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ioncodes/sly](https://github.com/ioncodes/sly)
   > A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browser...
@@ -68,6 +72,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [google-research/harness2](https://github.com/google-research/harness2)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Awakenchan/BloodBorneButPc](https://github.com/Awakenchan/BloodBorneButPc)
   > Bloodborne on Windows in one package: launcher and engine. Bring your own game dump.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [vincalkr/Strata-DSV4.1](https://github.com/vincalkr/Strata-DSV4.1)
+  > DeepSeek-V4.1-Flash GSQ on a single RX 7900 XTX (gfx1100, ROCm/HIP): the v41 engine, the optimizatio...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/grooph](https://github.com/systemfreund/grooph)
@@ -87,5 +93,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-17 22:14:11 UTC*
+*Last updated at 2026-10-17 23:12:54 UTC*
 *Historical records are stored in the `archive` directory.*
