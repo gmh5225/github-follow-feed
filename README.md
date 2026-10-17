@@ -32,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/grooph](https://github.com/systemfreund/grooph)
   > Grooph is a rhythm and meter editor with playback.
+- 🌟 👤 [patois](https://github.com/patois) Starred [sandlbn/polyend-tracker-re](https://github.com/sandlbn/polyend-tracker-re)
+  > Reverse engineering, documentation, and experimental firmware development for the original Polyend T...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing)
@@ -39,5 +41,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-17 11:14:09 UTC*
+*Last updated at 2026-10-17 12:22:46 UTC*
 *Historical records are stored in the `archive` directory.*
