@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
   > ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discover...
 
+### [TheCruZ](https://github.com/TheCruZ)
+- 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [chenxiao07/KytyPS5](https://github.com/chenxiao07/KytyPS5)
+  > PlayStation 5 emulator for Windows, Linux and MacOS
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google-research/harness2](https://github.com/google-research/harness2)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)
@@ -48,12 +52,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jhscheer](https://github.com/jhscheer) Starred [ioncodes/sly](https://github.com/ioncodes/sly)
   > A modern multi-system emulator and debugger written in Rust. Supports Windows, Linux, macOS, Browser...
 
+### [minaminao](https://github.com/minaminao)
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+  > A high-throughput and memory-efficient inference and serving engine for LLMs
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Garfield1002/open_sleigh](https://github.com/Garfield1002/open_sleigh)
   > Community-maintained SLEIGH processor specifications for Ghidra
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
   > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [2fxbu97lhv/spectrum-ida-theme](https://github.com/2fxbu97lhv/spectrum-ida-theme)
+
+### [mytechnotalent](https://github.com/mytechnotalent)
+- 🍴 👤 [mytechnotalent](https://github.com/mytechnotalent) Forked [caitlynmeeks/darkride-interface](https://github.com/caitlynmeeks/darkride-interface) to [mytechnotalent/darkride-interface](https://github.com/mytechnotalent/darkride-interface)
+  > Darkride: a social virtual world for VR and desktop.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/grooph](https://github.com/systemfreund/grooph)
@@ -73,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-17 18:18:07 UTC*
+*Last updated at 2026-10-17 19:12:10 UTC*
 *Historical records are stored in the `archive` directory.*
