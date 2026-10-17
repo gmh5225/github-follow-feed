@@ -24,6 +24,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex)
   > 二开artex的代码审计平台 | 新增本地反编译java依赖库
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Autumn-27/ScopeSentry](https://github.com/Autumn-27/ScopeSentry)
+  > ScopeSentry-Cyberspace mapping, subdomain enumeration, port scanning, sensitive information discover...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Dom-Yan/Mucc](https://github.com/Dom-Yan/Mucc)
@@ -50,7 +52,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [nekohasekai/open-screen-sharing](https://github.com/nekohasekai/open-screen-sharing)
   > Better Screen Sharing for Apple systems
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🚀 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Made [unbalancedparentheses/lean-extremevaluetheory](https://github.com/unbalancedparentheses/lean-extremevaluetheory) public
+  > Extreme value theory and heavy-tailed probability in Lean 4: Fisher–Tippett–Gnedenko, regular variat...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [unbalancedparentheses/lean-extremevaluetheory](https://github.com/unbalancedparentheses/lean-extremevaluetheory)
+  > Extreme value theory and heavy-tailed probability in Lean 4: Fisher–Tippett–Gnedenko, regular variat...
+
 
 ---
-*Last updated at 2026-10-17 14:14:23 UTC*
+*Last updated at 2026-10-17 15:14:11 UTC*
 *Historical records are stored in the `archive` directory.*
