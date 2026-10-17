@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Ernket/CodeScan-Artex](https://github.com/Ernket/CodeScan-Artex)
+  > 二开artex的代码审计平台 | 新增本地反编译java依赖库
+
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Dom-Yan/Mucc](https://github.com/Dom-Yan/Mucc)
   > A small, fast, self-hosting C compiler for x86-64 and ARM64 Linux, in one static file with its own a...
@@ -32,6 +36,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Garfield1002/open_sleigh](https://github.com/Garfield1002/open_sleigh)
   > Community-maintained SLEIGH processor specifications for Ghidra
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [akatz-labs/h3-character-swap-tool](https://github.com/akatz-labs/h3-character-swap-tool)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ibragim-bad/evals-from-sessions](https://github.com/ibragim-bad/evals-from-sessions)
+  > Turn your coding-agent sessions into private evals and find the cheapest setup that still solves you...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [systemfreund/grooph](https://github.com/systemfreund/grooph)
@@ -45,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-17 13:14:02 UTC*
+*Last updated at 2026-10-17 14:14:23 UTC*
 *Historical records are stored in the `archive` directory.*
