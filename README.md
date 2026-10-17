@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [fosrl/pangolin](https://github.com/fosrl/pangolin)
+  > Modern networking and security platform providing secure access and connectivity to apps, infrastruc...
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [MrTiz/CET-Enum-CallStack-Spoofer](https://github.com/MrTiz/CET-Enum-CallStack-Spoofer)
   > A Proof of Concept demonstrating CET-compliant callstack spoofing in Rust. It leverages Windows Thre...
@@ -27,5 +31,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-17 07:16:14 UTC*
+*Last updated at 2026-10-17 08:20:47 UTC*
 *Historical records are stored in the `archive` directory.*
