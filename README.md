@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [0xPrimo/DemonLdr](https://github.com/0xPrimo/DemonLdr)
+  > A PoC of User-Defined Reflective Loader for Havoc Framework built with Cystal Palace
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [TGP482/BLACK-XBERecomp](https://github.com/TGP482/BLACK-XBERecomp)
   > An unofficial original Xbox version PC port of BLACK (2006) via static recompilation.
@@ -42,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-18 15:14:40 UTC*
+*Last updated at 2026-10-18 16:17:21 UTC*
 *Historical records are stored in the `archive` directory.*
