@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Obsidian200](https://github.com/Obsidian200)
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [Joey0x646576/nativeaot-function-calling-example](https://github.com/Joey0x646576/nativeaot-function-calling-example)
+  > Inject your Native AOT assembly through the dllmain entry and perform internal function calling with...
+
 ### [TwoSevenOneT](https://github.com/TwoSevenOneT)
 - 🚀 👤 [TwoSevenOneT](https://github.com/TwoSevenOneT) Made [TwoSevenOneT/PhantomBuffer](https://github.com/TwoSevenOneT/PhantomBuffer) public
   > EDR evasion uses stealth injection via SendMessage with WM_SETTEXT to effective bypass EDR (Endpoint...
@@ -14,11 +18,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [reason-machines/reason-network](https://github.com/reason-machines/reason-network)
   > Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SauersML/watching](https://github.com/SauersML/watching)
+  > Experiments on whether language models can learn to detect read-only activation probes
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
 
 
 ---
-*Last updated at 2026-10-18 08:21:12 UTC*
+*Last updated at 2026-10-18 09:16:57 UTC*
 *Historical records are stored in the `archive` directory.*
