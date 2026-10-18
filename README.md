@@ -4,8 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [TwoSevenOneT](https://github.com/TwoSevenOneT)
+- 🚀 👤 [TwoSevenOneT](https://github.com/TwoSevenOneT) Made [TwoSevenOneT/PhantomBuffer](https://github.com/TwoSevenOneT/PhantomBuffer) public
+  > EDR evasion uses stealth injection via SendMessage with WM_SETTEXT to effective bypass EDR (Endpoint...
+
 
 ---
-*Last updated at 2026-10-18 01:28:12 UTC*
+*Last updated at 2026-10-18 02:23:46 UTC*
 *Historical records are stored in the `archive` directory.*
