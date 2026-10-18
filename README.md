@@ -8,11 +8,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [TwoSevenOneT](https://github.com/TwoSevenOneT) Made [TwoSevenOneT/PhantomBuffer](https://github.com/TwoSevenOneT/PhantomBuffer) public
   > EDR evasion uses stealth injection via SendMessage with WM_SETTEXT to effective bypass EDR (Endpoint...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ubicomplab/ar-debug-workbench](https://github.com/ubicomplab/ar-debug-workbench)
+  > Augmented reality workbench for printed circuit board (PCB) debugging (UIST 2022).
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
 
 
 ---
-*Last updated at 2026-10-18 05:16:07 UTC*
+*Last updated at 2026-10-18 06:27:38 UTC*
 *Historical records are stored in the `archive` directory.*
