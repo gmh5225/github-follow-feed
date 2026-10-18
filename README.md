@@ -46,14 +46,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [mein-0/KnockGiga](https://github.com/mein-0/KnockGiga) to [classic130/KnockGiga](https://github.com/classic130/KnockGiga)
   > gdrv3.sys LPE kernel vuln
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [taeold/fx-durable-substrate](https://github.com/taeold/fx-durable-substrate)
-  > Durable AI coding agent using libfx on Agent Substrate
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
-  > Agent Substrate: the core system
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [qlabs-eng/noise](https://github.com/qlabs-eng/noise)
-  > Speedrun for pretraining without backpropagation
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
@@ -68,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-18 22:14:37 UTC*
+*Last updated at 2026-10-18 23:13:36 UTC*
 *Historical records are stored in the `archive` directory.*
