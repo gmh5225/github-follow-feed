@@ -32,15 +32,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [mein-0/KnockGiga](https://github.com/mein-0/KnockGiga) to [classic130/KnockGiga](https://github.com/classic130/KnockGiga)
   > gdrv3.sys LPE kernel vuln
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chosen-instruction-attack/CIA-dataset](https://github.com/chosen-instruction-attack/CIA-dataset)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chosen-instruction-attack/CIA-toolchain](https://github.com/chosen-instruction-attack/CIA-toolchain)
-  > The toolchain of Chosen-instruction attack
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DeadKennedyx/hidden-tiny-aes](https://github.com/DeadKennedyx/hidden-tiny-aes)
-  > AES-256-CBC with some evasion techniques
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
-  > One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ...
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
@@ -51,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-18 14:14:38 UTC*
+*Last updated at 2026-10-18 15:14:40 UTC*
 *Historical records are stored in the `archive` directory.*
