@@ -18,11 +18,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [reason-machines/reason-network](https://github.com/reason-machines/reason-network)
   > Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chosen-instruction-attack/CIA-dataset](https://github.com/chosen-instruction-attack/CIA-dataset)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [chosen-instruction-attack/CIA-toolchain](https://github.com/chosen-instruction-attack/CIA-toolchain)
+  > The toolchain of Chosen-instruction attack
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DeadKennedyx/hidden-tiny-aes](https://github.com/DeadKennedyx/hidden-tiny-aes)
+  > AES-256-CBC with some evasion techniques
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
 
 
 ---
-*Last updated at 2026-10-18 10:15:20 UTC*
+*Last updated at 2026-10-18 11:13:33 UTC*
 *Historical records are stored in the `archive` directory.*
