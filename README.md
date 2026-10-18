@@ -24,6 +24,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The toolchain of Chosen-instruction attack
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DeadKennedyx/hidden-tiny-aes](https://github.com/DeadKennedyx/hidden-tiny-aes)
   > AES-256-CBC with some evasion techniques
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
+  > One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
@@ -31,5 +33,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-18 12:23:16 UTC*
+*Last updated at 2026-10-18 13:14:37 UTC*
 *Historical records are stored in the `archive` directory.*
