@@ -37,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)
   > Standalone SearXNG CLI for coding agents
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [EratoLab/erato](https://github.com/EratoLab/erato)
+  > The Open Source AI Platform
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568) to [classic130/CVE-2026-84568](https://github.com/classic130/CVE-2026-84568)
@@ -49,6 +51,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Durable AI coding agent using libfx on Agent Substrate
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [agent-substrate/substrate](https://github.com/agent-substrate/substrate)
   > Agent Substrate: the core system
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [qlabs-eng/noise](https://github.com/qlabs-eng/noise)
+  > Speedrun for pretraining without backpropagation
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
@@ -64,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-18 20:16:16 UTC*
+*Last updated at 2026-10-18 21:14:02 UTC*
 *Historical records are stored in the `archive` directory.*
