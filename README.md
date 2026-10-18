@@ -18,15 +18,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [reason-machines/reason-network](https://github.com/reason-machines/reason-network)
   > Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SauersML/watching](https://github.com/SauersML/watching)
-  > Experiments on whether language models can learn to detect read-only activation probes
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
   > The job search that runs on your machine. AI job application framework built on Claude Code: evaluat...
 
 
 ---
-*Last updated at 2026-10-18 09:16:57 UTC*
+*Last updated at 2026-10-18 10:15:20 UTC*
 *Historical records are stored in the `archive` directory.*
