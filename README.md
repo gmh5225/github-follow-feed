@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ubicomplab/ar-debug-workbench](https://github.com/ubicomplab/ar-debug-workbench)
   > Augmented reality workbench for printed circuit board (PCB) debugging (UIST 2022).
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [reason-machines/reason-network](https://github.com/reason-machines/reason-network)
+  > Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
@@ -18,5 +20,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-18 06:27:38 UTC*
+*Last updated at 2026-10-18 07:16:46 UTC*
 *Historical records are stored in the `archive` directory.*
