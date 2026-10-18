@@ -29,6 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Augmented reality workbench for printed circuit board (PCB) debugging (UIST 2022).
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [reason-machines/reason-network](https://github.com/reason-machines/reason-network)
   > Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nikvdp/searxng-ai-kit](https://github.com/nikvdp/searxng-ai-kit)
+  > Standalone SearXNG CLI for coding agents
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568) to [classic130/CVE-2026-84568](https://github.com/classic130/CVE-2026-84568)
@@ -46,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-18 16:17:21 UTC*
+*Last updated at 2026-10-18 17:13:18 UTC*
 *Historical records are stored in the `archive` directory.*
