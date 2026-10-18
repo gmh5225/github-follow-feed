@@ -11,6 +11,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [TGP482/BLACK-XBERecomp](https://github.com/TGP482/BLACK-XBERecomp)
   > An unofficial original Xbox version PC port of BLACK (2006) via static recompilation.
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/Malvex](https://github.com/JoasASantos/Malvex)
+  > AI-driven malware analysis framework with 30+ integrated tools, web REPL, and MCP server
+
+### [JustasMasiulis](https://github.com/JustasMasiulis)
+- 🍴 👤 [JustasMasiulis](https://github.com/JustasMasiulis) Forked [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) to [JustasMasiulis/oh-my-pi](https://github.com/JustasMasiulis/oh-my-pi)
+  > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 ### [Obsidian200](https://github.com/Obsidian200)
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [Joey0x646576/nativeaot-function-calling-example](https://github.com/Joey0x646576/nativeaot-function-calling-example)
@@ -48,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-18 18:18:50 UTC*
+*Last updated at 2026-10-18 19:12:53 UTC*
 *Historical records are stored in the `archive` directory.*
