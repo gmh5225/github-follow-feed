@@ -81,6 +81,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [thelok1s/florida-zygisk](https://github.com/thelok1s/florida-zygisk) to [enovella/florida-zygisk](https://github.com/enovella/florida-zygisk)
   > A Magisk module that automatically starts anti-detection build of frida-server on boot.
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [google/artemis](https://github.com/google/artemis)
+  > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
+
 ### [hongyu-dev](https://github.com/hongyu-dev)
 - 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [lfi-project/lfi-runtime](https://github.com/lfi-project/lfi-runtime) to [hongyu-dev/lfi-runtime](https://github.com/hongyu-dev/lfi-runtime)
   > LFI runtime.
@@ -89,9 +93,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [lfi-project/lfi-verifier](https://github.com/lfi-project/lfi-verifier) to [hongyu-dev/lfi-verifier](https://github.com/hongyu-dev/lfi-verifier)
   > LFI verifier.
 
+### [minaminao](https://github.com/minaminao)
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [MaryCache/imozuru](https://github.com/MaryCache/imozuru)
+  > 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/dylint](https://github.com/trailofbits/dylint)
   > Run Rust lints from dynamic libraries
+
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [meme/limbo](https://github.com/meme/limbo) to [oleavr/limbo](https://github.com/oleavr/limbo)
+  > XNU in Linux userspace
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [Fadedlimes/elektron-screen-tool](https://github.com/Fadedlimes/elektron-screen-tool)
@@ -99,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-19 13:21:24 UTC*
+*Last updated at 2026-10-19 14:18:42 UTC*
 *Historical records are stored in the `archive` directory.*
