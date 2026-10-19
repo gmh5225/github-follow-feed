@@ -108,8 +108,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [Fadedlimes/elektron-screen-tool](https://github.com/Fadedlimes/elektron-screen-tool)
   > An Elektron instrument's screen in a window, live at 30 fps, ready to capture in OBS. A fork of jako...
+- 🌟 👤 [patois](https://github.com/patois) Starred [GSM1980/Synfact-release](https://github.com/GSM1980/Synfact-release)
+  > A mod system for the Syntakt
+
+### [peperunas](https://github.com/peperunas)
+- 🍴 👤 [peperunas](https://github.com/peperunas) Forked [sam-paech/auto-antislop](https://github.com/sam-paech/auto-antislop) to [peperunas/auto-antislop](https://github.com/peperunas/auto-antislop)
+- 🍴 👤 [peperunas](https://github.com/peperunas) Forked [sam-paech/antislop-vllm](https://github.com/sam-paech/antislop-vllm) to [peperunas/antislop-vllm](https://github.com/peperunas/antislop-vllm)
+- 🍴 👤 [peperunas](https://github.com/peperunas) Forked [sam-paech/slop-forensics](https://github.com/sam-paech/slop-forensics) to [peperunas/slop-forensics](https://github.com/peperunas/slop-forensics)
 
 
 ---
-*Last updated at 2026-10-19 14:18:42 UTC*
+*Last updated at 2026-10-19 15:17:08 UTC*
 *Historical records are stored in the `archive` directory.*
