@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xisk](https://github.com/0xisk) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [bsdrip/COM_Hijack_BOF](https://github.com/bsdrip/COM_Hijack_BOF)
+  > A Beacon Object File (BOF) for Cobalt Strike and Mythic C2 that implements COM hijacking for persist...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tangency-labs/fieldcraft](https://github.com/tangency-labs/fieldcraft) to [CrackerCat/fieldcraft](https://github.com/CrackerCat/fieldcraft)
   > One open-source modeler for structures, heat and fluids, built from scratch in pure Rust: parametric...
@@ -86,6 +90,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
   > Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration t...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [oleavr/limbo](https://github.com/oleavr/limbo)
+  > XNU in Linux userspace
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [thelok1s/florida-zygisk](https://github.com/thelok1s/florida-zygisk)
@@ -140,5 +146,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-19 21:16:11 UTC*
+*Last updated at 2026-10-19 22:16:35 UTC*
 *Historical records are stored in the `archive` directory.*
