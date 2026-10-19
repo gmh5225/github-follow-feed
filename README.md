@@ -59,10 +59,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows ProfSvc 0day
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/GreatXML](https://github.com/MSNightmare/GreatXML) to [CrackerCat/GreatXML](https://github.com/CrackerCat/GreatXML)
   > GreatXML bitlocker bypass vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [noobexon1/idaXfrida](https://github.com/noobexon1/idaXfrida) to [CrackerCat/idaXfrida](https://github.com/CrackerCat/idaXfrida)
+  > An IDA Pro plugin designed to bridge the gap between static analysis in IDA Pro and dynamic analysis...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/RoguePlanet](https://github.com/MSNightmare/RoguePlanet) to [CrackerCat/RoguePlanet-MSNightmare](https://github.com/CrackerCat/RoguePlanet-MSNightmare)
+  > RoguePlanet Windows Defender Vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MSNightmare/GreenSection](https://github.com/MSNightmare/GreenSection) to [CrackerCat/GreenSection](https://github.com/CrackerCat/GreenSection)
+  > Nvidia GreenSection Memory Corruption 0day vulnerability
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Corot-Development/android_vendor_xiaomi_corot](https://github.com/Corot-Development/android_vendor_xiaomi_corot) to [CrackerCat/android_vendor_xiaomi_corot](https://github.com/CrackerCat/android_vendor_xiaomi_corot)
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [huanyuejue/MiHome-Windows](https://github.com/huanyuejue/MiHome-Windows)
   > 米家设备的 Windows 桌面控制端。基于 mijiaAPI (Do1e/mijia-api) 构建图形界面，扫码登录后即可在本地窗口中查看和控制家里的全部米家设备。
+
+### [TheCruZ](https://github.com/TheCruZ)
+- 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [mn3ema/KytyPS5-Frank](https://github.com/mn3ema/KytyPS5-Frank)
+  > Experimental KytyPS5 build tuned for Marvel's Wolverine. No support promised.
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [thelok1s/florida-zygisk](https://github.com/thelok1s/florida-zygisk)
@@ -88,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-19 12:28:57 UTC*
+*Last updated at 2026-10-19 13:21:24 UTC*
 *Historical records are stored in the `archive` directory.*
