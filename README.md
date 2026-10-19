@@ -24,6 +24,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AES-256-CBC with some evasion techniques
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Qmeimei10086/pte-dbg](https://github.com/Qmeimei10086/pte-dbg) to [CrackerCat/pte-dbg](https://github.com/CrackerCat/pte-dbg)
   > 基于pte-hook的调试器保护工具
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cli0xfa/DriverTrapper](https://github.com/cli0xfa/DriverTrapper) to [CrackerCat/DriverTrapper](https://github.com/CrackerCat/DriverTrapper)
+  > Windows kernel driver loading forensic capture tool
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [uxazu/AEmulator](https://github.com/uxazu/AEmulator) to [CrackerCat/AEmulator](https://github.com/CrackerCat/AEmulator)
+  > Android emulator that emulates older Android firmware versions.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Realme-SM7475-developer/kernel-mainline](https://github.com/Realme-SM7475-developer/kernel-mainline) to [CrackerCat/kernel-mainline](https://github.com/CrackerCat/kernel-mainline)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Qmeimei10086/svm-dbg](https://github.com/Qmeimei10086/svm-dbg) to [CrackerCat/svm-dbg](https://github.com/CrackerCat/svm-dbg)
+  > 基于npt-hook的amd平台调试体系重建工具
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [huanyuejue/MiHome-Windows](https://github.com/huanyuejue/MiHome-Windows)
@@ -31,5 +38,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-19 02:27:43 UTC*
+*Last updated at 2026-10-19 03:23:26 UTC*
 *Historical records are stored in the `archive` directory.*
