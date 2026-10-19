@@ -36,7 +36,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [huanyuejue/MiHome-Windows](https://github.com/huanyuejue/MiHome-Windows)
   > 米家设备的 Windows 桌面控制端。基于 mijiaAPI (Do1e/mijia-api) 构建图形界面，扫码登录后即可在本地窗口中查看和控制家里的全部米家设备。
 
+### [hongyu-dev](https://github.com/hongyu-dev)
+- 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [lfi-project/lfi-runtime](https://github.com/lfi-project/lfi-runtime) to [hongyu-dev/lfi-runtime](https://github.com/hongyu-dev/lfi-runtime)
+  > LFI runtime.
+- 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [zyedidia/musl](https://github.com/zyedidia/musl) to [hongyu-dev/musl](https://github.com/hongyu-dev/musl)
+  > Unofficial mirror of etalabs musl repository. Updated daily.
+- 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [lfi-project/lfi-verifier](https://github.com/lfi-project/lfi-verifier) to [hongyu-dev/lfi-verifier](https://github.com/hongyu-dev/lfi-verifier)
+  > LFI verifier.
+
 
 ---
-*Last updated at 2026-10-19 04:22:07 UTC*
+*Last updated at 2026-10-19 05:18:46 UTC*
 *Historical records are stored in the `archive` directory.*
