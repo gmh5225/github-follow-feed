@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [brendanzab/language-garden](https://github.com/brendanzab/language-garden)
+  > A garden of small programming language implementations 🪴
+
+### [0xisk](https://github.com/0xisk)
+- 🌟 👤 [0xisk](https://github.com/0xisk) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tangency-labs/fieldcraft](https://github.com/tangency-labs/fieldcraft) to [CrackerCat/fieldcraft](https://github.com/CrackerCat/fieldcraft)
   > One open-source modeler for structures, heat and fluids, built from scratch in pure Rust: parametric...
@@ -50,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-19 08:29:33 UTC*
+*Last updated at 2026-10-19 09:27:07 UTC*
 *Historical records are stored in the `archive` directory.*
