@@ -82,6 +82,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rust port of the TypeScript 7 type checker
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
   > SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
+  > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [oritera/Cairn](https://github.com/oritera/Cairn)
+  > Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration t...
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [thelok1s/florida-zygisk](https://github.com/thelok1s/florida-zygisk)
@@ -136,5 +140,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-19 19:13:23 UTC*
+*Last updated at 2026-10-19 20:18:46 UTC*
 *Historical records are stored in the `archive` directory.*
