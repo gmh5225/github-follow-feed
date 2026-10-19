@@ -44,7 +44,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [lfi-project/lfi-verifier](https://github.com/lfi-project/lfi-verifier) to [hongyu-dev/lfi-verifier](https://github.com/hongyu-dev/lfi-verifier)
   > LFI verifier.
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [Fadedlimes/elektron-screen-tool](https://github.com/Fadedlimes/elektron-screen-tool)
+  > An Elektron instrument's screen in a window, live at 30 fps, ready to capture in OBS. A fork of jako...
+
 
 ---
-*Last updated at 2026-10-19 05:18:46 UTC*
+*Last updated at 2026-10-19 06:41:38 UTC*
 *Historical records are stored in the `archive` directory.*
