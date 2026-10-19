@@ -93,10 +93,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [google/artemis](https://github.com/google/artemis)
   > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [amontlabs/lcu](https://github.com/amontlabs/lcu)
-  > Codex computer use, decoupled from the app, for usage inside any harness.
-
 ### [hongyu-dev](https://github.com/hongyu-dev)
 - 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [lfi-project/lfi-runtime](https://github.com/lfi-project/lfi-runtime) to [hongyu-dev/lfi-runtime](https://github.com/hongyu-dev/lfi-runtime)
   > LFI runtime.
@@ -112,6 +108,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts)
   > QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another pr...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [snuri00/ps2-web-recomp](https://github.com/snuri00/ps2-web-recomp)
+  > PS2 games in the browser: static recompilation to WebAssembly with a native runtime
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [hardenedlinux/userland-exec](https://github.com/hardenedlinux/userland-exec)
@@ -138,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-19 17:15:16 UTC*
+*Last updated at 2026-10-19 18:23:29 UTC*
 *Historical records are stored in the `archive` directory.*
