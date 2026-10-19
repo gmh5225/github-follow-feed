@@ -75,6 +75,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [TheCruZ](https://github.com/TheCruZ) Starred [mn3ema/KytyPS5-Frank](https://github.com/mn3ema/KytyPS5-Frank)
   > Experimental KytyPS5 build tuned for Marvel's Wolverine. No support promised.
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts)
+  > QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another pr...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [oxc-project/tsrs](https://github.com/oxc-project/tsrs)
+  > Rust port of the TypeScript 7 type checker
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [tangency-labs/solidcraft](https://github.com/tangency-labs/solidcraft)
+  > SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and autom...
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [thelok1s/florida-zygisk](https://github.com/thelok1s/florida-zygisk)
   > A Magisk module that automatically starts anti-detection build of frida-server on boot.
@@ -84,6 +92,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [google/artemis](https://github.com/google/artemis)
   > ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-en...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [amontlabs/lcu](https://github.com/amontlabs/lcu)
+  > Codex computer use, decoupled from the app, for usage inside any harness.
 
 ### [hongyu-dev](https://github.com/hongyu-dev)
 - 🍴 👤 [hongyu-dev](https://github.com/hongyu-dev) Forked [lfi-project/lfi-runtime](https://github.com/lfi-project/lfi-runtime) to [hongyu-dev/lfi-runtime](https://github.com/hongyu-dev/lfi-runtime)
@@ -97,9 +109,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [MaryCache/imozuru](https://github.com/MaryCache/imozuru)
   > 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [trailofbits/dylint](https://github.com/trailofbits/dylint)
-  > Run Rust lints from dynamic libraries
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [hardenedlinux/userland-exec](https://github.com/hardenedlinux/userland-exec)
+  > Userland exec PoC to be used as attack vector technique
 
 ### [oleavr](https://github.com/oleavr)
 - 🍴 👤 [oleavr](https://github.com/oleavr) Forked [meme/limbo](https://github.com/meme/limbo) to [oleavr/limbo](https://github.com/oleavr/limbo)
@@ -116,7 +128,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [peperunas](https://github.com/peperunas) Forked [sam-paech/antislop-vllm](https://github.com/sam-paech/antislop-vllm) to [peperunas/antislop-vllm](https://github.com/peperunas/antislop-vllm)
 - 🍴 👤 [peperunas](https://github.com/peperunas) Forked [sam-paech/slop-forensics](https://github.com/sam-paech/slop-forensics) to [peperunas/slop-forensics](https://github.com/peperunas/slop-forensics)
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [NethIafin/wine](https://github.com/NethIafin/wine)
+  > Wine for OpenBSD
+
 
 ---
-*Last updated at 2026-10-19 15:17:08 UTC*
+*Last updated at 2026-10-19 16:20:43 UTC*
 *Historical records are stored in the `archive` directory.*
