@@ -109,6 +109,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [MaryCache/imozuru](https://github.com/MaryCache/imozuru)
   > 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [stencil-hq/dquickts](https://github.com/stencil-hq/dquickts)
+  > QuickJS with durable execution: suspend running JS, snapshot the whole heap, resume it in another pr...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [hardenedlinux/userland-exec](https://github.com/hardenedlinux/userland-exec)
   > Userland exec PoC to be used as attack vector technique
@@ -134,5 +138,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-19 16:20:43 UTC*
+*Last updated at 2026-10-19 17:15:16 UTC*
 *Historical records are stored in the `archive` directory.*
