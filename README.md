@@ -9,13 +9,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer)
   > kernel mode spoofer disk and smbios, socket communication 
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [arch1m3d/xworm-0click-rce](https://github.com/arch1m3d/xworm-0click-rce)
+  > 0-Click RCE for XWorm -> v7.4 (latest)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore) to [CrackerCat/InfinityCore](https://github.com/CrackerCat/InfinityCore)
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks)
-  > AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system pr...
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Lakr233/ApplePackage](https://github.com/Lakr233/ApplePackage)
@@ -115,10 +116,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [ImperialCollegeLondon/AnnalsChallenge](https://github.com/ImperialCollegeLondon/AnnalsChallenge)
+  > Formalisation of statements of recent theorems from the Annals of Mathematics.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
 
 
 ---
-*Last updated at 2026-10-20 18:22:13 UTC*
+*Last updated at 2026-10-20 19:14:45 UTC*
 *Historical records are stored in the `archive` directory.*
