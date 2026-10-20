@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sliverarmory/IronRDP](https://github.com/sliverarmory/IronRDP)
   > Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [ReFo0/hwidspoofer](https://github.com/ReFo0/hwidspoofer)
+  > kernel mode spoofer disk and smbios, socket communication 
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore) to [CrackerCat/InfinityCore](https://github.com/CrackerCat/InfinityCore)
@@ -57,6 +59,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac)
   > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [intel/SDM](https://github.com/intel/SDM)
+  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
@@ -65,11 +69,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
   > A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+  > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
 
 
 ---
-*Last updated at 2026-10-20 13:19:20 UTC*
+*Last updated at 2026-10-20 14:17:56 UTC*
 *Historical records are stored in the `archive` directory.*
