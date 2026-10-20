@@ -58,6 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [intel/SDM](https://github.com/intel/SDM)
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [agbrs/agb](https://github.com/agbrs/agb)
+  > Library for writing Game Boy Advance games in Rust
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [intel/SDM](https://github.com/intel/SDM)
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
@@ -82,6 +86,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [zoran123456/lola-retro](https://github.com/zoran123456/lola-retro)
   > CRT shader for retroarch
+- 🌟 👤 [patois](https://github.com/patois) Starred [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5)
+  > Tool for automatic PS5 executables porting to Linux and Windows
+- 🌟 👤 [patois](https://github.com/patois) Starred [rkn47/dnspysql](https://github.com/rkn47/dnspysql)
+  > dnspysql: query, patch and annotate .NET assemblies with SQL
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
@@ -102,5 +110,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-20 16:20:13 UTC*
+*Last updated at 2026-10-20 17:17:47 UTC*
 *Historical records are stored in the `archive` directory.*
