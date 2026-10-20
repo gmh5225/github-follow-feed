@@ -75,18 +75,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) to [mrexodia/unluac](https://github.com/mrexodia/unluac)
-  > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac)
-  > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [intel/SDM](https://github.com/intel/SDM)
-  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plotarmordev/drama-tensorfold](https://github.com/plotarmordev/drama-tensorfold)
-  > Fish Audio Drama 3 text-to-speech on the TensorFold native CUDA engine for DGX Spark (GB10): recipe,...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks)
-  > DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold
-
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [zoran123456/lola-retro](https://github.com/zoran123456/lola-retro)
   > CRT shader for retroarch
@@ -109,6 +97,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [petercunha](https://github.com/petercunha) Forked [Saganaki22/ComfyUI-Ming-3-tts](https://github.com/Saganaki22/ComfyUI-Ming-3-tts) to [petercunha/ComfyUI-Ming-3-tts](https://github.com/petercunha/ComfyUI-Ming-3-tts)
   > Native ComfyUI port of Ming-3.0-tts, supporting 0.5B and Tiny 9B speech generation.
 
+### [reveny](https://github.com/reveny)
+- 🚀 👤 [reveny](https://github.com/reveny) Made [reveny/Android-Compatibility-Layer](https://github.com/reveny/Android-Compatibility-Layer) public
+  > A translation layer for Android on Linux. Run Android Apps and Games on Linux
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
   > A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
@@ -122,5 +114,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-20 22:16:15 UTC*
+*Last updated at 2026-10-20 23:14:56 UTC*
 *Historical records are stored in the `archive` directory.*
