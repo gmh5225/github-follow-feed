@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [matthieu-m/ghost-cell](https://github.com/matthieu-m/ghost-cell)
+  > An implementation of Joshua Yanovski's Ghost Cell paper.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [matthieu-m/static-rc](https://github.com/matthieu-m/static-rc)
+  > Compile-time reference counting
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [uazu/qcell](https://github.com/uazu/qcell)
+  > Statically-checked alternatives to RefCell and RwLock
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sliverarmory/IronRDP](https://github.com/sliverarmory/IronRDP)
   > Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
@@ -14,9 +22,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore) to [CrackerCat/InfinityCore](https://github.com/CrackerCat/InfinityCore)
-
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks)
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Lakr233/ApplePackage](https://github.com/Lakr233/ApplePackage)
@@ -58,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [gokayfem/shader-skills](https://github.com/gokayfem/shader-skills)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [intel/SDM](https://github.com/intel/SDM)
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [reveny/Android-Compatibility-Layer](https://github.com/reveny/Android-Compatibility-Layer)
+  > A translation layer for Android on Linux. Run Android Apps and Games on Linux
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [intel/SDM](https://github.com/intel/SDM)
@@ -115,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-20 21:17:10 UTC*
+*Last updated at 2026-10-20 22:16:15 UTC*
 *Historical records are stored in the `archive` directory.*
