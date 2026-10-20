@@ -4,8 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sliverarmory/IronRDP](https://github.com/sliverarmory/IronRDP)
+  > Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore) to [CrackerCat/InfinityCore](https://github.com/CrackerCat/InfinityCore)
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks)
+  > AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system pr...
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Lakr233/ApplePackage](https://github.com/Lakr233/ApplePackage)
@@ -42,9 +50,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A tool to connect SMT-based frontends to Lean4.
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [gokayfem/shader-skills](https://github.com/gokayfem/shader-skills)
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) to [mrexodia/unluac](https://github.com/mrexodia/unluac)
+  > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac)
   > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
@@ -60,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-20 12:27:35 UTC*
+*Last updated at 2026-10-20 13:19:20 UTC*
 *Historical records are stored in the `archive` directory.*
