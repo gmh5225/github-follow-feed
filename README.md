@@ -35,6 +35,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [Raiden129/DFN3-OBS-PLUGIN](https://github.com/Raiden129/DFN3-OBS-PLUGIN)
@@ -53,6 +55,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [gokayfem/shader-skills](https://github.com/gokayfem/shader-skills)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [intel/SDM](https://github.com/intel/SDM)
+  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [intel/SDM](https://github.com/intel/SDM)
+  > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) to [mrexodia/unluac](https://github.com/mrexodia/unluac)
@@ -61,10 +74,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [intel/SDM](https://github.com/intel/SDM)
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [plotarmordev/drama-tensorfold](https://github.com/plotarmordev/drama-tensorfold)
+  > Fish Audio Drama 3 text-to-speech on the TensorFold native CUDA engine for DGX Spark (GB10): recipe,...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks)
+  > DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold
+
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [zoran123456/lola-retro](https://github.com/zoran123456/lola-retro)
+  > CRT shader for retroarch
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
+### [peperunas](https://github.com/peperunas)
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [AbdullahAlhariri/penmentor](https://github.com/AbdullahAlhariri/penmentor)
+  > AI mentor that reads your math.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
@@ -77,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-20 15:17:25 UTC*
+*Last updated at 2026-10-20 16:20:13 UTC*
 *Historical records are stored in the `archive` directory.*
