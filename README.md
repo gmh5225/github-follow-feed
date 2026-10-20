@@ -4,6 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [V4bel/InfinityCore](https://github.com/V4bel/InfinityCore) to [CrackerCat/InfinityCore](https://github.com/CrackerCat/InfinityCore)
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [Lakr233/ApplePackage](https://github.com/Lakr233/ApplePackage)
+  > ipatool rewrite in library and cli using Swift
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+
 ### [PKUFlyingPig](https://github.com/PKUFlyingPig)
 - 🌟 👤 [PKUFlyingPig](https://github.com/PKUFlyingPig) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
@@ -34,12 +43,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [Jeong-Min-Cho/unluac](https://github.com/Jeong-Min-Cho/unluac) to [mrexodia/unluac](https://github.com/mrexodia/unluac)
+  > Lua decompiler for bytecode versions 5.0-5.4. Fork of the original unluac from SourceForge https://s...
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
-  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
-
-### [peperunas](https://github.com/peperunas)
-- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
@@ -51,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-20 11:17:10 UTC*
+*Last updated at 2026-10-20 12:27:35 UTC*
 *Historical records are stored in the `archive` directory.*
