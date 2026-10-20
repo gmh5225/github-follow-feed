@@ -94,7 +94,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [peperunas](https://github.com/peperunas)
 - 🌟 👤 [peperunas](https://github.com/peperunas) Starred [AbdullahAlhariri/penmentor](https://github.com/AbdullahAlhariri/penmentor)
-  > AI mentor that reads your math.
+  > AI mentor that corrects your written math visually with local harnesses.
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Saganaki22/ComfyUI-Ming-3-tts](https://github.com/Saganaki22/ComfyUI-Ming-3-tts)
@@ -115,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-20 20:18:44 UTC*
+*Last updated at 2026-10-20 21:17:10 UTC*
 *Historical records are stored in the `archive` directory.*
