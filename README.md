@@ -59,10 +59,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [intel/SDM](https://github.com/intel/SDM)
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
 
-### [holly-hacker](https://github.com/holly-hacker)
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [agbrs/agb](https://github.com/agbrs/agb)
-  > Library for writing Game Boy Advance games in Rust
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [intel/SDM](https://github.com/intel/SDM)
   > Website for viewing the executable IA specification (external view). This combines data from the SDM...
@@ -106,24 +102,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [petercunha](https://github.com/petercunha) Forked [Saganaki22/ComfyUI-Ming-3-tts](https://github.com/Saganaki22/ComfyUI-Ming-3-tts) to [petercunha/ComfyUI-Ming-3-tts](https://github.com/petercunha/ComfyUI-Ming-3-tts)
   > Native ComfyUI port of Ming-3.0-tts, supporting 0.5B and Tiny 9B speech generation.
 
-### [simonw](https://github.com/simonw)
-- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-public-ai](https://github.com/simonw/llm-public-ai) public
-  > LLM models from publicai.co
-
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
   > A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
   > Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev...
-
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [ImperialCollegeLondon/AnnalsChallenge](https://github.com/ImperialCollegeLondon/AnnalsChallenge)
-  > Formalisation of statements of recent theorems from the Annals of Mathematics.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks)
+  > DeepSeek-V4.1-Flash-1017 EXL3 on 2x DGX Sparks with TensorFold
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
 
 
 ---
-*Last updated at 2026-10-20 19:14:45 UTC*
+*Last updated at 2026-10-20 20:18:44 UTC*
 *Historical records are stored in the `archive` directory.*
