@@ -99,6 +99,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [peperunas](https://github.com/peperunas) Starred [AbdullahAlhariri/penmentor](https://github.com/AbdullahAlhariri/penmentor)
   > AI mentor that reads your math.
 
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Saganaki22/ComfyUI-Ming-3-tts](https://github.com/Saganaki22/ComfyUI-Ming-3-tts)
+  > Native ComfyUI port of Ming-3.0-tts, supporting 0.5B and Tiny 9B speech generation.
+- 🍴 👤 [petercunha](https://github.com/petercunha) Forked [Saganaki22/ComfyUI-Ming-3-tts](https://github.com/Saganaki22/ComfyUI-Ming-3-tts) to [petercunha/ComfyUI-Ming-3-tts](https://github.com/petercunha/ComfyUI-Ming-3-tts)
+  > Native ComfyUI port of Ming-3.0-tts, supporting 0.5B and Tiny 9B speech generation.
+
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-public-ai](https://github.com/simonw/llm-public-ai) public
+  > LLM models from publicai.co
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
   > A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
@@ -110,5 +120,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-20 17:17:47 UTC*
+*Last updated at 2026-10-20 18:22:13 UTC*
 *Historical records are stored in the `archive` directory.*
