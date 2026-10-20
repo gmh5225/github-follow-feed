@@ -34,10 +34,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [morluto/rea](https://github.com/morluto/rea)
   > Reverse engineer anything with agents, from app behavior down to native binaries.
 
-### [hackcatml](https://github.com/hackcatml)
-- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [morluto/rea](https://github.com/morluto/rea)
-  > Reverse engineer anything with agents, from app behavior down to native binaries.
-
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
@@ -46,10 +42,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [peperunas](https://github.com/peperunas) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
   > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv)
+  > A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [DevlarSchuh/iommu-driver-poc](https://github.com/DevlarSchuh/iommu-driver-poc)
 
 
 ---
-*Last updated at 2026-10-20 10:16:17 UTC*
+*Last updated at 2026-10-20 11:17:10 UTC*
 *Historical records are stored in the `archive` directory.*
