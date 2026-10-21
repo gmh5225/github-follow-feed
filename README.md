@@ -52,6 +52,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
   > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [sudolulo/winnow](https://github.com/sudolulo/winnow)
+  > Automatically selects diverse photos from Immich as training data for Frigate face recognition
 
 ### [mlabonne](https://github.com/mlabonne)
 - 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)
@@ -62,12 +64,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
 
 ### [petercunha](https://github.com/petercunha)
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [649/The-Collection-Statistics](https://github.com/649/The-Collection-Statistics)
-  > Domain and TLD statistics of "The Collection (1-5), Antipublic, AP MYR & Zabugor" breach exposure. C...
-
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [menufactory43/panache](https://github.com/menufactory43/panache)
-  > Panache — RTS Belle Époque pour mobile (adaptation française de Battle Drones)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
+  > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
@@ -79,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 18:22:26 UTC*
+*Last updated at 2026-10-21 19:14:11 UTC*
 *Historical records are stored in the `archive` directory.*
