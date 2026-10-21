@@ -4,6 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt) to [CrackerCat/fairplay-decrypt](https://github.com/CrackerCat/fairplay-decrypt)
+  > Offline FairPlay App Store IPA decryption with independent key derivation
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/CVE-2026-109618](https://github.com/19h/CVE-2026-109618) to [CrackerCat/CVE-2026-109618](https://github.com/CrackerCat/CVE-2026-109618)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [reveny/Android-Compatibility-Layer](https://github.com/reveny/Android-Compatibility-Layer) to [CrackerCat/Android-Compatibility-Layer](https://github.com/CrackerCat/Android-Compatibility-Layer)
+  > A translation layer for Android on Linux. Run Android Apps and Games on Linux
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [aviraxp/ZN-AuditPatch](https://github.com/aviraxp/ZN-AuditPatch) to [CrackerCat/ZN-AuditPatch](https://github.com/CrackerCat/ZN-AuditPatch)
+  > Replace sensitive context in audit log
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
@@ -21,5 +30,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 05:17:33 UTC*
+*Last updated at 2026-10-21 06:30:58 UTC*
 *Historical records are stored in the `archive` directory.*
