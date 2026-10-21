@@ -4,6 +4,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
+  > Offline FairPlay App Store IPA decryption with independent key derivation
+- 🌟 👤 [54](https://github.com/54) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
+  > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+- 🌟 👤 [54](https://github.com/54) Starred [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
+  > DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+- 🌟 👤 [54](https://github.com/54) Starred [clearbluejar/pyghidra-mcp](https://github.com/clearbluejar/pyghidra-mcp)
+  > Python Command-Line Ghidra MCP
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)
   > REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or ...
@@ -61,14 +71,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)
   > ascii shark components in typescript
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
-  > Cross-Platform Micro-VM Sandbox for Agentic Workloads
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dawsbot/sqlite-rs-stream](https://github.com/dawsbot/sqlite-rs-stream)
-  > Litestream-compatible SQLite replication to S3, running inside your Rust process
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR)
-  > An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-tr...
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
   > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
@@ -85,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 22:15:50 UTC*
+*Last updated at 2026-10-21 23:15:13 UTC*
 *Historical records are stored in the `archive` directory.*
