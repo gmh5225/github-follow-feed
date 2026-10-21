@@ -45,10 +45,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [calladoum-elastic/wsl-rust](https://github.com/calladoum-elastic/wsl-rust)
   > Windows System for Linux (WSL) SDK Rust bindings
 
-### [ioncodes](https://github.com/ioncodes)
-- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) to [ioncodes/gpui-ce](https://github.com/ioncodes/gpui-ce)
-  > GPUI – Community Edition
-
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
@@ -89,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 21:15:49 UTC*
+*Last updated at 2026-10-21 22:15:50 UTC*
 *Historical records are stored in the `archive` directory.*
