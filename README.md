@@ -27,13 +27,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Orchestrate multiple coding agents from desktop and mobile
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents)
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [benjamin920102/Win11Src](https://github.com/benjamin920102/Win11Src) to [classic130/Win11Src](https://github.com/classic130/Win11Src)
+  > Microsoft Windows 11 Source Code (Incomplete)
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [alliedmodders/s2sdk](https://github.com/alliedmodders/s2sdk) to [HLND2T/s2sdk](https://github.com/HLND2T/s2sdk)
-  > Unofficial Source 2 SDK
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) to [ioncodes/gpui-ce](https://github.com/ioncodes/gpui-ce)
+  > GPUI – Community Edition
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
@@ -61,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 13:18:52 UTC*
+*Last updated at 2026-10-21 14:19:15 UTC*
 *Historical records are stored in the `archive` directory.*
