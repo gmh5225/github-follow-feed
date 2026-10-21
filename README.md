@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [calladoum-elastic/wsl-rust](https://github.com/calladoum-elastic/wsl-rust)
+  > Windows System for Linux (WSL) SDK Rust bindings
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) to [ioncodes/gpui-ce](https://github.com/ioncodes/gpui-ce)
   > GPUI – Community Edition
@@ -66,6 +70,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dawsbot/sqlite-rs-stream](https://github.com/dawsbot/sqlite-rs-stream)
   > Litestream-compatible SQLite replication to S3, running inside your Rust process
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SoMarkAI/OXR](https://github.com/SoMarkAI/OXR)
+  > An open-source document parsing model with SOTA accuracy and speed, using an RSI loop during post-tr...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
@@ -83,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 20:17:14 UTC*
+*Last updated at 2026-10-21 21:15:49 UTC*
 *Historical records are stored in the `archive` directory.*
