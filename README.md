@@ -23,8 +23,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [assetnote/h3fuzz](https://github.com/assetnote/h3fuzz)
   > Content discovery and fuzzing with HTTP/3 support (100k requests per second)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
+  > Orchestrate multiple coding agents from desktop and mobile
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents)
 
 
 ---
-*Last updated at 2026-10-21 02:25:26 UTC*
+*Last updated at 2026-10-21 03:21:53 UTC*
 *Historical records are stored in the `archive` directory.*
