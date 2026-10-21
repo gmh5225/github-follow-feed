@@ -42,6 +42,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
   > CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser)
+  > Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-le...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
@@ -55,6 +57,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [649/The-Collection-Statistics](https://github.com/649/The-Collection-Statistics)
   > Domain and TLD statistics of "The Collection (1-5), Antipublic, AP MYR & Zabugor" breach exposure. C...
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [menufactory43/panache](https://github.com/menufactory43/panache)
+  > Panache — RTS Belle Époque pour mobile (adaptation française de Battle Drones)
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
@@ -65,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 14:19:15 UTC*
+*Last updated at 2026-10-21 15:17:48 UTC*
 *Historical records are stored in the `archive` directory.*
