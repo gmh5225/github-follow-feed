@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [MaddyOff](https://github.com/MaddyOff) Forked [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) to [MaddyOff/AnyPS5](https://github.com/MaddyOff/AnyPS5)
   > Tool for automatic PS5 executables porting to Linux and Windows
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [utmapp/UTM](https://github.com/utmapp/UTM)
+  > Virtual machines for iOS and macOS
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
@@ -23,9 +27,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Orchestrate multiple coding agents from desktop and mobile
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents)
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [alliedmodders/s2sdk](https://github.com/alliedmodders/s2sdk) to [HLND2T/s2sdk](https://github.com/HLND2T/s2sdk)
+  > Unofficial Source 2 SDK
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
+  > CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [0xbow-io/privacy-pools-v2-monorepo](https://github.com/0xbow-io/privacy-pools-v2-monorepo)
+  > Privacy Pools v2: ZK circuits, EVM and Stellar contracts, SDK, relayer
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [649/The-Collection-Statistics](https://github.com/649/The-Collection-Statistics)
@@ -41,5 +57,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 11:16:43 UTC*
+*Last updated at 2026-10-21 12:26:51 UTC*
 *Historical records are stored in the `archive` directory.*
