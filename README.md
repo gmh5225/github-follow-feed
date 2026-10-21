@@ -28,7 +28,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [649/The-Collection-Statistics](https://github.com/649/The-Collection-Statistics)
   > Domain and TLD statistics of "The Collection (1-5), Antipublic, AP MYR & Zabugor" breach exposure. C...
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host)
+  > Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+
 
 ---
-*Last updated at 2026-10-21 06:30:58 UTC*
+*Last updated at 2026-10-21 07:23:47 UTC*
 *Historical records are stored in the `archive` directory.*
