@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)
+  > REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or ...
+
 ### [MaddyOff](https://github.com/MaddyOff)
 - 🍴 👤 [MaddyOff](https://github.com/MaddyOff) Forked [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) to [MaddyOff/AnyPS5](https://github.com/MaddyOff/AnyPS5)
   > Tool for automatic PS5 executables porting to Linux and Windows
@@ -49,10 +53,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [0xbow-io/privacy-pools-v2-monorepo](https://github.com/0xbow-io/privacy-pools-v2-monorepo)
-  > Privacy Pools v2: ZK circuits, EVM and Stellar contracts, SDK, relayer
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [649/The-Collection-Statistics](https://github.com/649/The-Collection-Statistics)
   > Domain and TLD statistics of "The Collection (1-5), Antipublic, AP MYR & Zabugor" breach exposure. C...
@@ -71,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 15:17:48 UTC*
+*Last updated at 2026-10-21 16:18:39 UTC*
 *Historical records are stored in the `archive` directory.*
