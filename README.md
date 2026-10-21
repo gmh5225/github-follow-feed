@@ -43,6 +43,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [gpui-ce/gpui-ce](https://github.com/gpui-ce/gpui-ce) to [ioncodes/gpui-ce](https://github.com/ioncodes/gpui-ce)
   > GPUI – Community Edition
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
+  > Mac.apk: Run Android apps natively on Apple Silicon Macs
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
   > CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis
@@ -71,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 16:18:39 UTC*
+*Last updated at 2026-10-21 17:14:45 UTC*
 *Historical records are stored in the `archive` directory.*
