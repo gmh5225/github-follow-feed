@@ -30,6 +30,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
   > Orchestrate multiple coding agents from desktop and mobile
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [bee-san/RustScan](https://github.com/bee-san/RustScan)
+  > 🤖 The Modern Port Scanner 🤖
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [benjamin920102/Win11Src](https://github.com/benjamin920102/Win11Src) to [classic130/Win11Src](https://github.com/classic130/Win11Src)
@@ -62,10 +64,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
   > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [dawsbot/sqlite-rs-stream](https://github.com/dawsbot/sqlite-rs-stream)
+  > Litestream-compatible SQLite replication to S3, running inside your Rust process
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
   > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [murrez/php2shell](https://github.com/murrez/php2shell)
+  > PoC for CVE-2026-109618 / CVE-2026-109619 (php2shell): PHP session.upload_progress UAF. check = GET ...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
@@ -77,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 19:14:11 UTC*
+*Last updated at 2026-10-21 20:17:14 UTC*
 *Historical records are stored in the `archive` directory.*
