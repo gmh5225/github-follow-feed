@@ -23,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Orchestrate multiple coding agents from desktop and mobile
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [microsoft/nvx](https://github.com/microsoft/nvx)
+  > Cross-Platform Micro-VM Sandbox for Agentic Workloads
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [649/The-Collection-Statistics](https://github.com/649/The-Collection-Statistics)
   > Domain and TLD statistics of "The Collection (1-5), Antipublic, AP MYR & Zabugor" breach exposure. C...
@@ -37,5 +41,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 10:17:40 UTC*
+*Last updated at 2026-10-21 11:16:43 UTC*
 *Historical records are stored in the `archive` directory.*
