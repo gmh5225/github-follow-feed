@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Orchestrate multiple coding agents from desktop and mobile
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents)
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
+  > Offline FairPlay App Store IPA decryption with independent key derivation
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [alliedmodders/s2sdk](https://github.com/alliedmodders/s2sdk) to [HLND2T/s2sdk](https://github.com/HLND2T/s2sdk)
   > Unofficial Source 2 SDK
@@ -57,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-21 12:26:51 UTC*
+*Last updated at 2026-10-21 13:18:52 UTC*
 *Historical records are stored in the `archive` directory.*
