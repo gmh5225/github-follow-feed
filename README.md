@@ -20,7 +20,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Floppikrob/ios-galaxy-s8](https://github.com/Floppikrob/ios-galaxy-s8) to [CrackerCat/ios-galaxy-s8](https://github.com/CrackerCat/ios-galaxy-s8)
   > iOS 16.7 on the Samsung Galaxy S8 (SM-G950F, Exynos 8895): XNU port, boots to the iOS lock screen
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [assetnote/h3fuzz](https://github.com/assetnote/h3fuzz)
+  > Content discovery and fuzzing with HTTP/3 support (100k requests per second)
+
 
 ---
-*Last updated at 2026-10-21 01:28:04 UTC*
+*Last updated at 2026-10-21 02:25:26 UTC*
 *Historical records are stored in the `archive` directory.*
