@@ -22,8 +22,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/flare-local-inference](https://github.com/NVIDIA/flare-local-inference)
+
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618)
+  > PoC CVE-2026-109618 / -109619 (PHP session.upload_progress heap UAF)
 
 
 ---
-*Last updated at 2026-10-22 01:26:26 UTC*
+*Last updated at 2026-10-22 02:25:30 UTC*
 *Historical records are stored in the `archive` directory.*
