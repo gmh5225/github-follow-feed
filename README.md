@@ -81,6 +81,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) to [ioncodes/taffy](https://github.com/ioncodes/taffy)
   > A high performance rust-powered UI layout library
 
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
+  > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [colinhacks/reylo](https://github.com/colinhacks/reylo)
   > Import .sql files into TypeScript with full type inference and zero codegen.
@@ -98,6 +102,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [foreni-packages/rcracki_mt](https://github.com/foreni-packages/rcracki_mt)
   > rcracki_mt : used to perform a rainbow table attack on password hashes
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [nvmd/BarsWF](https://github.com/nvmd/BarsWF)
+  > BarsWF open source refactoring
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [src-company/tacit](https://github.com/src-company/tacit)
@@ -117,5 +123,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 16:21:19 UTC*
+*Last updated at 2026-10-22 17:14:59 UTC*
 *Historical records are stored in the `archive` directory.*
