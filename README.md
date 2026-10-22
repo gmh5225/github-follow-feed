@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
+  > CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session....
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
   > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
@@ -24,7 +28,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)
   > Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Curr...
 
+### [secrary](https://github.com/secrary)
+- 🌟 👤 [secrary](https://github.com/secrary) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
 
 ---
-*Last updated at 2026-10-22 04:19:59 UTC*
+*Last updated at 2026-10-22 05:18:12 UTC*
 *Historical records are stored in the `archive` directory.*
