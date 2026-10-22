@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/rootAVD](https://github.com/NKU100/rootAVD) to [CrackerCat/rootAVD-NKU100](https://github.com/CrackerCat/rootAVD-NKU100)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland) to [CrackerCat/hackios-xnu-userland](https://github.com/CrackerCat/hackios-xnu-userland)
 
+### [DoranekoSystems](https://github.com/DoranekoSystems)
+- 🚀 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Made [DoranekoSystems/ebpf-analyzer](https://github.com/DoranekoSystems/ebpf-analyzer) public
+  > An eBPF-powered PacketProxy plugin for network analysis, with process attribution and native/Java st...
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
   > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
@@ -111,7 +115,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [secrary](https://github.com/secrary) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [perplexityai/SPACE](https://github.com/perplexityai/SPACE)
+  > Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and use...
+
 
 ---
-*Last updated at 2026-10-22 14:18:36 UTC*
+*Last updated at 2026-10-22 15:18:28 UTC*
 *Historical records are stored in the `archive` directory.*
