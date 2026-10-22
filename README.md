@@ -77,10 +77,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [asylumexp/ghostldr](https://github.com/asylumexp/ghostldr)
   > Run a PS4 game backup inside SWRR on PS5 through Luac0re, without a kernel exploit (tooling only, no...
 
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DrAbcOfficial/asexthook](https://github.com/DrAbcOfficial/asexthook) to [hzqst/asexthook](https://github.com/hzqst/asexthook)
-  > A metamod plugin for Sven co-op, AngelsScript, Hook and SQLite!
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) to [ioncodes/taffy](https://github.com/ioncodes/taffy)
   > A high performance rust-powered UI layout library
@@ -121,5 +117,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 15:18:28 UTC*
+*Last updated at 2026-10-22 16:21:19 UTC*
 *Historical records are stored in the `archive` directory.*
