@@ -34,10 +34,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Made [DoranekoSystems/ebpf-analyzer](https://github.com/DoranekoSystems/ebpf-analyzer) public
   > An eBPF-powered PacketProxy plugin for network analysis, with process attribution and native/Java st...
 
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
-  > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
-
 ### [Obsidian200](https://github.com/Obsidian200)
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [aiqinxuancai/AutoLinker](https://github.com/aiqinxuancai/AutoLinker)
   > AutoLinker支持库，易语言AI Agent、MCP服务。另外支持不同源文件使用不同的Linker，调试编译时动态与静态ec自动切换等功能。
@@ -85,6 +81,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
   > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [colinhacks/reylo](https://github.com/colinhacks/reylo)
   > Import .sql files into TypeScript with full type inference and zero codegen.
@@ -123,5 +123,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 17:14:59 UTC*
+*Last updated at 2026-10-22 18:21:18 UTC*
 *Historical records are stored in the `archive` directory.*
