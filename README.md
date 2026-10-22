@@ -73,6 +73,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [asylumexp/ghostldr](https://github.com/asylumexp/ghostldr)
   > Run a PS4 game backup inside SWRR on PS5 through Luac0re, without a kernel exploit (tooling only, no...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vx-lang/glm-vx](https://github.com/vx-lang/glm-vx)
+  > Experimental GLM-5.3 serving engine with from-scratch Vx CPU kernels, checkpoint loading, and stream...
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) to [ioncodes/taffy](https://github.com/ioncodes/taffy)
   > A high performance rust-powered UI layout library
@@ -84,6 +88,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [open-mercato/cezar](https://github.com/open-mercato/cezar)
+  > Open-source orchestrator and ADE for running Claude Code, Codex, OpenCode, Pi and other AI coding ag...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [colinhacks/reylo](https://github.com/colinhacks/reylo)
@@ -123,5 +129,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 18:21:18 UTC*
+*Last updated at 2026-10-22 19:13:32 UTC*
 *Historical records are stored in the `archive` directory.*
