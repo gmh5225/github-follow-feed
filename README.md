@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [aiqinxuancai/AutoLinker](https://github.com/aiqinxuancai/AutoLinker)
   > AutoLinker支持库，易语言AI Agent、MCP服务。另外支持不同源文件使用不同的Linker，调试编译时动态与静态ec自动切换等功能。
 
+### [Wenzel](https://github.com/Wenzel)
+- 🍴 👤 [Wenzel](https://github.com/Wenzel) Forked [tklengyel/drakvuf](https://github.com/tklengyel/drakvuf) to [Wenzel/drakvuf](https://github.com/Wenzel/drakvuf)
+  > DRAKVUF Black-box Binary Analysis
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
   > Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
@@ -66,10 +70,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds)
   > Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a...
-
-### [holly-hacker](https://github.com/holly-hacker)
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [CookiePLMonster/SilentPatch](https://github.com/CookiePLMonster/SilentPatch)
-  > SilentPatch for GTA III, Vice City, and San Andreas
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) to [ioncodes/taffy](https://github.com/ioncodes/taffy)
@@ -107,5 +107,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 12:27:31 UTC*
+*Last updated at 2026-10-22 13:19:51 UTC*
 *Historical records are stored in the `archive` directory.*
