@@ -48,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [foreni-packages/rcracki_mt](https://github.com/foreni-packages/rcracki_mt)
   > rcracki_mt : used to perform a rainbow table attack on password hashes
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [src-company/tacit](https://github.com/src-company/tacit)
+  > smart contracts on bitcoin
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618)
   > PoC CVE-2026-109618 / -109619 (PHP session.upload_progress heap UAF)
@@ -60,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 08:24:58 UTC*
+*Last updated at 2026-10-22 09:20:02 UTC*
 *Historical records are stored in the `archive` directory.*
