@@ -70,6 +70,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds)
   > Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [asylumexp/ghostldr](https://github.com/asylumexp/ghostldr)
+  > Run a PS4 game backup inside SWRR on PS5 through Luac0re, without a kernel exploit (tooling only, no...
+
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [DrAbcOfficial/asexthook](https://github.com/DrAbcOfficial/asexthook) to [hzqst/asexthook](https://github.com/hzqst/asexthook)
+  > A metamod plugin for Sven co-op, AngelsScript, Hook and SQLite!
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) to [ioncodes/taffy](https://github.com/ioncodes/taffy)
@@ -86,6 +92,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
   > Super Mario Maker 2 Recomp
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
+  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [foreni-packages/rcracki_mt](https://github.com/foreni-packages/rcracki_mt)
@@ -96,8 +104,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > smart contracts on bitcoin
 
 ### [petercunha](https://github.com/petercunha)
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618)
-  > PoC CVE-2026-109618 / -109619 (PHP session.upload_progress heap UAF)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [XPixelGroup/BasicSR](https://github.com/XPixelGroup/BasicSR)
   > Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Curr...
 
@@ -107,5 +113,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 13:19:51 UTC*
+*Last updated at 2026-10-22 14:18:36 UTC*
 *Historical records are stored in the `archive` directory.*
