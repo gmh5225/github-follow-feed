@@ -21,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
   > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
 
+### [NikolajBjorner](https://github.com/NikolajBjorner)
+- 🍴 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Forked [ai4ardev/agent-skills](https://github.com/ai4ardev/agent-skills) to [NikolajBjorner/agent-skills](https://github.com/NikolajBjorner/agent-skills)
+  > Agent Skills Useful for the Development of Automated Reasoning Tools
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
   > Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
@@ -33,6 +37,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > MCP server for GDB
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iximiuz/cdebug](https://github.com/iximiuz/cdebug)
   > cdebug - a swiss army knife of container debugging
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ispras/casr](https://github.com/ispras/casr)
+  > Collect crash (or UndefinedBehaviorSanitizer error) reports, triage, and estimate severity.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [RocketMaDev/pwndbg-mcp](https://github.com/RocketMaDev/pwndbg-mcp)
+  > An MCP tool endows AI agent with the capability to debug ELF
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mahaloz/decomp2dbg](https://github.com/mahaloz/decomp2dbg)
+  > A plugin to introduce interactive symbols into your debugger from your decompiler
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
@@ -43,6 +53,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds)
   > Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
+  > The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.co...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra)
+  > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
+  > Super Mario Maker 2 Recomp
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [foreni-packages/rcracki_mt](https://github.com/foreni-packages/rcracki_mt)
@@ -64,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 09:20:02 UTC*
+*Last updated at 2026-10-22 10:17:05 UTC*
 *Historical records are stored in the `archive` directory.*
