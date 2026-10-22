@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc)
   > CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session....
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [seatedro/diffy](https://github.com/seatedro/diffy)
+  > A Native, cross platform, VCS agnostic Diff tool
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) to [CrackerCat/php2shell-bypass-aslr-exp](https://github.com/CrackerCat/php2shell-bypass-aslr-exp)
   > A php2shell exploit that requires no modifications to the official version, and does not require dis...
@@ -17,6 +21,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ARM64 Linker relocation implemented in pure Java
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/JNterp](https://github.com/Rprop/JNterp) to [CrackerCat/JNterp](https://github.com/CrackerCat/JNterp)
   > A simplified Android ART nterp interpreter implemented in Java
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [konata/Curryficate](https://github.com/konata/Curryficate) to [CrackerCat/Curryficate](https://github.com/CrackerCat/Curryficate)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) to [CrackerCat/php2shell-poc](https://github.com/CrackerCat/php2shell-poc)
+  > CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session....
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) to [CrackerCat/hackios-xnu-kernel](https://github.com/CrackerCat/hackios-xnu-kernel)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/zygisk-gpu-driver-loader](https://github.com/NKU100/zygisk-gpu-driver-loader) to [CrackerCat/zygisk-gpu-driver-loader](https://github.com/CrackerCat/zygisk-gpu-driver-loader)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/zygisk-module-webui-template](https://github.com/NKU100/zygisk-module-webui-template) to [CrackerCat/zygisk-module-webui-template](https://github.com/CrackerCat/zygisk-module-webui-template)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NKU100/rootAVD](https://github.com/NKU100/rootAVD) to [CrackerCat/rootAVD-NKU100](https://github.com/CrackerCat/rootAVD-NKU100)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland) to [CrackerCat/hackios-xnu-userland](https://github.com/CrackerCat/hackios-xnu-userland)
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
@@ -59,6 +71,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [CookiePLMonster/SilentPatch](https://github.com/CookiePLMonster/SilentPatch)
   > SilentPatch for GTA III, Vice City, and San Andreas
 
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) to [ioncodes/taffy](https://github.com/ioncodes/taffy)
+  > A high performance rust-powered UI layout library
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [colinhacks/reylo](https://github.com/colinhacks/reylo)
   > Import .sql files into TypeScript with full type inference and zero codegen.
@@ -91,5 +107,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 11:16:36 UTC*
+*Last updated at 2026-10-22 12:27:31 UTC*
 *Historical records are stored in the `archive` directory.*
