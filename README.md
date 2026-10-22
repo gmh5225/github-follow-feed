@@ -66,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A php2shell exploit that requires no modifications to the official version, and does not require dis...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5)
   > The most powerful local music generation model that outperforms almost all commercial alternatives, ...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JoasASantos/php2shell-exploit](https://github.com/JoasASantos/php2shell-exploit)
+  > PHP2Shell exploit framework — CVE-2026-109618/619 PHP session.upload_progress UAF to RCE
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
@@ -86,6 +88,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)
   > agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use case...
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers)
+  > Kata Containers is an open source project and community working to build a standard implementation o...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
@@ -96,16 +100,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [colinhacks/reylo](https://github.com/colinhacks/reylo)
   > Import .sql files into TypeScript with full type inference and zero codegen.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
-  > The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.co...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [yuatemycat/SuperGhidra](https://github.com/yuatemycat/SuperGhidra)
-  > Python suite of reverse-engineering tools: P-Code IR lifter, Z3 SMT prover, fast binary loader, CFG ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [smm2recomp/smm2recomp](https://github.com/smm2recomp/smm2recomp)
-  > Super Mario Maker 2 Recomp
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)
-  > Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, pr...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [foreni-packages/rcracki_mt](https://github.com/foreni-packages/rcracki_mt)
@@ -129,7 +123,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [perplexityai/SPACE](https://github.com/perplexityai/SPACE)
   > Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and use...
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [drumpat01/android-grok-home](https://github.com/drumpat01/android-grok-home)
+  > Unofficial native Android launcher with animated Grok Bot avatars, voice and text chat, and a privat...
+
 
 ---
-*Last updated at 2026-10-22 22:15:25 UTC*
+*Last updated at 2026-10-22 23:16:15 UTC*
 *Historical records are stored in the `archive` directory.*
