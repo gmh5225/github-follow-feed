@@ -73,10 +73,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [asylumexp/ghostldr](https://github.com/asylumexp/ghostldr)
   > Run a PS4 game backup inside SWRR on PS5 through Luac0re, without a kernel exploit (tooling only, no...
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [vx-lang/glm-vx](https://github.com/vx-lang/glm-vx)
-  > Experimental GLM-5.3 serving engine with from-scratch Vx CPU kernels, checkpoint loading, and stream...
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) to [ioncodes/taffy](https://github.com/ioncodes/taffy)
   > A high performance rust-powered UI layout library
@@ -129,5 +125,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 19:13:32 UTC*
+*Last updated at 2026-10-22 20:17:52 UTC*
 *Historical records are stored in the `archive` directory.*
