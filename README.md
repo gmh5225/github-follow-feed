@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [seatedro/diffy](https://github.com/seatedro/diffy)
   > A Native, cross platform, VCS agnostic Diff tool
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [copy/v86](https://github.com/copy/v86)
+  > x86 PC emulator and x86-to-wasm JIT, running in the browser
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) to [CrackerCat/php2shell-bypass-aslr-exp](https://github.com/CrackerCat/php2shell-bypass-aslr-exp)
@@ -60,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An MCP tool endows AI agent with the capability to debug ELF
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [mahaloz/decomp2dbg](https://github.com/mahaloz/decomp2dbg)
   > A plugin to introduce interactive symbols into your debugger from your decompiler
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp)
+  > A php2shell exploit that requires no modifications to the official version, and does not require dis...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ace-step/ACE-Step-1.5](https://github.com/ace-step/ACE-Step-1.5)
+  > The most powerful local music generation model that outperforms almost all commercial alternatives, ...
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
@@ -125,5 +131,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 21:16:28 UTC*
+*Last updated at 2026-10-22 22:15:25 UTC*
 *Historical records are stored in the `archive` directory.*
