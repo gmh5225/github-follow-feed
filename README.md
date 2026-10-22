@@ -10,6 +10,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) to [CrackerCat/php2shell-bypass-aslr-exp](https://github.com/CrackerCat/php2shell-bypass-aslr-exp)
+  > A php2shell exploit that requires no modifications to the official version, and does not require dis...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/RKPConfig](https://github.com/Rprop/RKPConfig) to [CrackerCat/RKPConfig](https://github.com/CrackerCat/RKPConfig)
   > An Android tool for managing Remote Key Provisioning (RKP)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Rprop/JRelocator](https://github.com/Rprop/JRelocator) to [CrackerCat/JRelocator](https://github.com/CrackerCat/JRelocator)
@@ -21,9 +22,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
   > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
 
-### [NikolajBjorner](https://github.com/NikolajBjorner)
-- 🍴 👤 [NikolajBjorner](https://github.com/NikolajBjorner) Forked [ai4ardev/agent-skills](https://github.com/ai4ardev/agent-skills) to [NikolajBjorner/agent-skills](https://github.com/NikolajBjorner/agent-skills)
-  > Agent Skills Useful for the Development of Automated Reasoning Tools
+### [Obsidian200](https://github.com/Obsidian200)
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [aiqinxuancai/AutoLinker](https://github.com/aiqinxuancai/AutoLinker)
+  > AutoLinker支持库，易语言AI Agent、MCP服务。另外支持不同源文件使用不同的Linker，调试编译时动态与静态ec自动切换等功能。
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
@@ -54,6 +55,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ZallaxDev/emerald-3ds](https://github.com/ZallaxDev/emerald-3ds)
   > Native Pokémon Emerald port for Nintendo 3DS, featuring dual-screen gameplay, stereoscopic 3D, and a...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [CookiePLMonster/SilentPatch](https://github.com/CookiePLMonster/SilentPatch)
+  > SilentPatch for GTA III, Vice City, and San Andreas
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [colinhacks/reylo](https://github.com/colinhacks/reylo)
+  > Import .sql files into TypeScript with full type inference and zero codegen.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Asymptote-Labs/agent-beacon](https://github.com/Asymptote-Labs/agent-beacon)
   > The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.co...
@@ -82,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 10:17:05 UTC*
+*Last updated at 2026-10-22 11:16:36 UTC*
 *Historical records are stored in the `archive` directory.*
