@@ -21,6 +21,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc)
   > PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→...
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
+  > Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [capstone-engine/capstone](https://github.com/capstone-engine/capstone)
+  > Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, L...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn)
+  > Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [radareorg/r2xsql](https://github.com/radareorg/r2xsql)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Ipiano/gdb-mcp](https://github.com/Ipiano/gdb-mcp)
+  > MCP server for GDB
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iximiuz/cdebug](https://github.com/iximiuz/cdebug)
+  > cdebug - a swiss army knife of container debugging
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
@@ -47,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-22 07:23:48 UTC*
+*Last updated at 2026-10-22 08:24:58 UTC*
 *Historical records are stored in the `archive` directory.*
