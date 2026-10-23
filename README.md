@@ -27,12 +27,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > iOS tweak runner for kernel research, focused on Kolbicz-maintained tweaks and built on the DarkSwor...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [heinocheat/Delta_Force_DMA_Cheat_AFG](https://github.com/heinocheat/Delta_Force_DMA_Cheat_AFG) to [CrackerCat/Delta_Force_DMA_Cheat_AFG](https://github.com/CrackerCat/Delta_Force_DMA_Cheat_AFG)
   > Delta Force DMA cheat project with MemProcFS/VMMDLL memory access, ImGui overlay, radar, and input i...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Xplo8E/Liter8](https://github.com/Xplo8E/Liter8) to [CrackerCat/Liter8](https://github.com/CrackerCat/Liter8)
+  > ios 27 usbliter8 jailbreak
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876) to [CrackerCat/CVE-2026-21876](https://github.com/CrackerCat/CVE-2026-21876)
+  > CVE-2026-21876 PoC: WAF charset bypass (Flask, ASP.NET and Spring Boot stands)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [hypnguyen1209/CVE-2026-111497](https://github.com/hypnguyen1209/CVE-2026-111497) to [CrackerCat/CVE-2026-111497](https://github.com/CrackerCat/CVE-2026-111497)
+  > Node.js Brotli Decoder OOB Write to RCE
+
+### [MaddyOff](https://github.com/MaddyOff)
+- 🍴 👤 [MaddyOff](https://github.com/MaddyOff) Forked [ashish0kumar/voxcii](https://github.com/ashish0kumar/voxcii) to [MaddyOff/voxcii](https://github.com/MaddyOff/voxcii)
+  > ascii 3d model viewer
 
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [kimusan/vncsnatch](https://github.com/kimusan/vncsnatch)
   > A small tool to scan a range of IP addresses to find unprotected VNC servers and take a screenshot o...
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
   > A port of ParrotSec's stealth and anonsurf modules to Kali Linux
+
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [saiashirwad/svjeez](https://github.com/saiashirwad/svjeez)
 
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains)
@@ -52,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-23 07:23:18 UTC*
+*Last updated at 2026-10-23 08:24:19 UTC*
 *Historical records are stored in the `archive` directory.*
