@@ -14,10 +14,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
-### [Bratah123](https://github.com/Bratah123)
-- 🌟 👤 [Bratah123](https://github.com/Bratah123) Starred [luohoa97/cordial](https://github.com/luohoa97/cordial)
-  > Open-source Roblox runtime for Linux. Cordial runs the Roblox client natively, no Wine, no Android e...
-
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/inte.ko_oplus](https://github.com/Dere3046/inte.ko_oplus) to [CrackerCat/inte.ko_oplus](https://github.com/CrackerCat/inte.ko_oplus)
   > Research on Oplus inte.ko LKM, including inte.ko source code and PoC
@@ -38,6 +34,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
   > A port of ParrotSec's stealth and anonsurf modules to Kali Linux
 
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains)
+  > Daily updated repository for https://github.com/disposable/disposable
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rafalohaki/php2shell-poc](https://github.com/rafalohaki/php2shell-poc)
+  > Working RCE PoCs: php2shell-8512 on FULLY-PATCHED PHP 8.5.12 (session-gaps, one-shot+interactive, de...
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [Ma94xx/TonverkBridge](https://github.com/Ma94xx/TonverkBridge)
   > Stream your Android phone's audio to the Elektron Tonverk sampler over USB, class-compliant, no root...
@@ -48,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-23 06:30:46 UTC*
+*Last updated at 2026-10-23 07:23:18 UTC*
 *Historical records are stored in the `archive` directory.*
