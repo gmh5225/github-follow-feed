@@ -14,26 +14,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
   > Offline FairPlay App Store IPA decryption with independent key derivation
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/inte.ko_oplus](https://github.com/Dere3046/inte.ko_oplus) to [CrackerCat/inte.ko_oplus](https://github.com/CrackerCat/inte.ko_oplus)
-  > Research on Oplus inte.ko LKM, including inte.ko source code and PoC
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [IvanIVGrozny/iOS27.0.1-SPTM-Research](https://github.com/IvanIVGrozny/iOS27.0.1-SPTM-Research) to [CrackerCat/iOS27.0.1-SPTM-Research](https://github.com/CrackerCat/iOS27.0.1-SPTM-Research)
-  > Summary of the SPTM research on iOS 27.0.1, iPhone Air
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ikow/brotli2crash](https://github.com/ikow/brotli2crash) to [CrackerCat/brotli2crash](https://github.com/CrackerCat/brotli2crash)
-  > CVE-2026-111497 — Node.js Brotli Decoder OOB Write: Deep Analysis & Structural Unreachability Proof....
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [wul7chaos/vmp-reverse-skill](https://github.com/wul7chaos/vmp-reverse-skill) to [CrackerCat/vmp-reverse-skill](https://github.com/CrackerCat/vmp-reverse-skill)
-  > Devirtualization pipeline for VMProtect-style binaries: dispatcher/handler slicing, two-generation P...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kolbicz/Cyanide](https://github.com/kolbicz/Cyanide) to [CrackerCat/Cyanide](https://github.com/CrackerCat/Cyanide)
-  > iOS tweak runner for kernel research, focused on Kolbicz-maintained tweaks and built on the DarkSwor...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [heinocheat/Delta_Force_DMA_Cheat_AFG](https://github.com/heinocheat/Delta_Force_DMA_Cheat_AFG) to [CrackerCat/Delta_Force_DMA_Cheat_AFG](https://github.com/CrackerCat/Delta_Force_DMA_Cheat_AFG)
-  > Delta Force DMA cheat project with MemProcFS/VMMDLL memory access, ImGui overlay, radar, and input i...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Xplo8E/Liter8](https://github.com/Xplo8E/Liter8) to [CrackerCat/Liter8](https://github.com/CrackerCat/Liter8)
-  > ios 27 usbliter8 jailbreak
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [daytriftnewgen/CVE-2026-21876](https://github.com/daytriftnewgen/CVE-2026-21876) to [CrackerCat/CVE-2026-21876](https://github.com/CrackerCat/CVE-2026-21876)
-  > CVE-2026-21876 PoC: WAF charset bypass (Flask, ASP.NET and Spring Boot stands)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [hypnguyen1209/CVE-2026-111497](https://github.com/hypnguyen1209/CVE-2026-111497) to [CrackerCat/CVE-2026-111497](https://github.com/CrackerCat/CVE-2026-111497)
-  > Node.js Brotli Decoder OOB Write to RCE
-
 ### [MaddyOff](https://github.com/MaddyOff)
 - 🍴 👤 [MaddyOff](https://github.com/MaddyOff) Forked [ashish0kumar/voxcii](https://github.com/ashish0kumar/voxcii) to [MaddyOff/voxcii](https://github.com/MaddyOff/voxcii)
   > ascii 3d model viewer
@@ -58,9 +38,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rafalohaki/php2shell-poc](https://github.com/rafalohaki/php2shell-poc)
   > Working RCE PoCs: php2shell-8512 on FULLY-PATCHED PHP 8.5.12 (session-gaps, one-shot+interactive, de...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin)
+  > DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.5 活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支...
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [Ma94xx/TonverkBridge](https://github.com/Ma94xx/TonverkBridge)
   > Stream your Android phone's audio to the Elektron Tonverk sampler over USB, class-compliant, no root...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🍴 👤 [pcaversaccio](https://github.com/pcaversaccio) Forked [alloy-rs/svm-rs](https://github.com/alloy-rs/svm-rs) to [pcaversaccio/svm-rs](https://github.com/pcaversaccio/svm-rs)
+  > Solidity-Compiler Version Manager
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yetone/magpie](https://github.com/yetone/magpie)
@@ -68,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-23 09:19:42 UTC*
+*Last updated at 2026-10-23 10:17:11 UTC*
 *Historical records are stored in the `archive` directory.*
