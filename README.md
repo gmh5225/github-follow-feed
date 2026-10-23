@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [theorem-labs/rocq-linux-process-semantics](https://github.com/theorem-labs/rocq-linux-process-semantics)
+  > A Rocq model of a Linux process that runs a RISC-V binary
+- 🌟 👤 [54](https://github.com/54) Starred [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
+  > Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/inte.ko_oplus](https://github.com/Dere3046/inte.ko_oplus) to [CrackerCat/inte.ko_oplus](https://github.com/CrackerCat/inte.ko_oplus)
   > Research on Oplus inte.ko LKM, including inte.ko source code and PoC
@@ -26,5 +32,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-23 02:25:38 UTC*
+*Last updated at 2026-10-23 03:21:29 UTC*
 *Historical records are stored in the `archive` directory.*
