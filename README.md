@@ -63,14 +63,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rafalohaki/php2shell-poc](https://github.com/rafalohaki/php2shell-poc)
   > Working RCE PoCs: php2shell-8512 on FULLY-PATCHED PHP 8.5.12 (session-gaps, one-shot+interactive, de...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [whokilleddb/TTs](https://github.com/whokilleddb/TTs)
+  > Gain shellcode execution via T4 Text Transform files/TextTransoform.exe
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [whokilleddb/3lkToShell](https://github.com/whokilleddb/3lkToShell)
+  > A poor man's attempt to replicate the shellcode execution technique demo'd by @3lk during STHACK 202...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin)
   > DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.5 活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
-  > INVETITI
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [VesCodes/ImGui](https://github.com/VesCodes/ImGui)
@@ -80,11 +80,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [Ma94xx/TonverkBridge](https://github.com/Ma94xx/TonverkBridge)
   > Stream your Android phone's audio to the Elektron Tonverk sampler over USB, class-compliant, no root...
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [leanprover-community/iris-lean](https://github.com/leanprover-community/iris-lean)
+  > Lean 4 port of Iris, a higher-order concurrent separation logic framework
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yetone/magpie](https://github.com/yetone/magpie)
   > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 
 ---
-*Last updated at 2026-10-23 18:21:38 UTC*
+*Last updated at 2026-10-23 19:15:05 UTC*
 *Historical records are stored in the `archive` directory.*
