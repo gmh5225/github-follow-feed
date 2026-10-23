@@ -38,6 +38,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [MaddyOff](https://github.com/MaddyOff) Forked [ashish0kumar/voxcii](https://github.com/ashish0kumar/voxcii) to [MaddyOff/voxcii](https://github.com/MaddyOff/voxcii)
   > ascii 3d model viewer
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [hd3s5aa/CVE-2023-21674](https://github.com/hd3s5aa/CVE-2023-21674)
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [kimusan/vncsnatch](https://github.com/kimusan/vncsnatch)
   > A small tool to scan a range of IP addresses to find unprotected VNC servers and take a screenshot o...
@@ -65,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-23 08:24:19 UTC*
+*Last updated at 2026-10-23 09:19:42 UTC*
 *Historical records are stored in the `archive` directory.*
