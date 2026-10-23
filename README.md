@@ -18,6 +18,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [MaddyOff](https://github.com/MaddyOff) Forked [ashish0kumar/voxcii](https://github.com/ashish0kumar/voxcii) to [MaddyOff/voxcii](https://github.com/MaddyOff/voxcii)
   > ascii 3d model viewer
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [peach-mitao/peach](https://github.com/peach-mitao/peach)
+  > Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv)
+  > Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [hd3s5aa/CVE-2023-21674](https://github.com/hd3s5aa/CVE-2023-21674)
 
@@ -40,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains)
   > Daily updated repository for https://github.com/disposable/disposable
 
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok)
+  > Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rafalohaki/php2shell-poc](https://github.com/rafalohaki/php2shell-poc)
   > Working RCE PoCs: php2shell-8512 on FULLY-PATCHED PHP 8.5.12 (session-gaps, one-shot+interactive, de...
@@ -52,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elder-plinius/FRV1T](https://github.com/elder-plinius/FRV1T)
   > INVETITI
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [VesCodes/ImGui](https://github.com/VesCodes/ImGui)
+  > ImGui plugin for Unreal Engine
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [Ma94xx/TonverkBridge](https://github.com/Ma94xx/TonverkBridge)
   > Stream your Android phone's audio to the Elektron Tonverk sampler over USB, class-compliant, no root...
@@ -62,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-23 15:17:14 UTC*
+*Last updated at 2026-10-23 16:19:58 UTC*
 *Historical records are stored in the `archive` directory.*
