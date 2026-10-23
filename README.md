@@ -82,11 +82,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [Ma94xx/TonverkBridge](https://github.com/Ma94xx/TonverkBridge)
   > Stream your Android phone's audio to the Elektron Tonverk sampler over USB, class-compliant, no root...
 
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [Oil3/QLCodec](https://github.com/Oil3/QLCodec)
+  > Quick Look Previewer extension to 'quicklook-play' every video and audio formats not natively suppor...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yetone/magpie](https://github.com/yetone/magpie)
   > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 
 ---
-*Last updated at 2026-10-23 21:15:58 UTC*
+*Last updated at 2026-10-23 22:16:03 UTC*
 *Historical records are stored in the `archive` directory.*
