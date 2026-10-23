@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [saiashirwad/svjeez](https://github.com/saiashirwad/svjeez)
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland)
+
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains)
   > Daily updated repository for https://github.com/disposable/disposable
@@ -46,15 +50,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [Ma94xx/TonverkBridge](https://github.com/Ma94xx/TonverkBridge)
   > Stream your Android phone's audio to the Elektron Tonverk sampler over USB, class-compliant, no root...
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🍴 👤 [pcaversaccio](https://github.com/pcaversaccio) Forked [alloy-rs/svm-rs](https://github.com/alloy-rs/svm-rs) to [pcaversaccio/svm-rs](https://github.com/pcaversaccio/svm-rs)
-  > Solidity-Compiler Version Manager
-
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yetone/magpie](https://github.com/yetone/magpie)
   > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 
 
 ---
-*Last updated at 2026-10-23 10:17:11 UTC*
+*Last updated at 2026-10-23 11:17:00 UTC*
 *Historical records are stored in the `archive` directory.*
