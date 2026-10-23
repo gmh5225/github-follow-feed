@@ -32,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A small tool to scan a range of IP addresses to find unprotected VNC servers and take a screenshot o...
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
   > A port of ParrotSec's stealth and anonsurf modules to Kali Linux
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill)
+  > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
 
 ### [char](https://github.com/char)
 - 🌟 👤 [char](https://github.com/char) Starred [saiashirwad/svjeez](https://github.com/saiashirwad/svjeez)
@@ -42,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [geldata/gel](https://github.com/geldata/gel)
   > Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much mor...
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [jeremychone/rust-genai](https://github.com/jeremychone/rust-genai)
+  > Rust multiprovider generative AI client (Ollama, OpenAi, Anthropic, Gemini, DeepSeek, ZAI, OpenRoute...
+
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [disposable/disposable-email-domains](https://github.com/disposable/disposable-email-domains)
   > Daily updated repository for https://github.com/disposable/disposable
@@ -49,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok)
   > Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [peach-mitao/peach](https://github.com/peach-mitao/peach)
+  > Peach 蜜桃：单用户、本地优先的个人媒体系统 · Single-user, local-first personal media system
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [rafalohaki/php2shell-poc](https://github.com/rafalohaki/php2shell-poc)
@@ -76,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-23 17:15:02 UTC*
+*Last updated at 2026-10-23 18:21:38 UTC*
 *Historical records are stored in the `archive` directory.*
