@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
   > Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq...
 
+### [Bratah123](https://github.com/Bratah123)
+- 🌟 👤 [Bratah123](https://github.com/Bratah123) Starred [luohoa97/cordial](https://github.com/luohoa97/cordial)
+  > Open-source Roblox runtime for Linux. Cordial runs the Roblox client natively, no Wine, no Android e...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Dere3046/inte.ko_oplus](https://github.com/Dere3046/inte.ko_oplus) to [CrackerCat/inte.ko_oplus](https://github.com/CrackerCat/inte.ko_oplus)
   > Research on Oplus inte.ko LKM, including inte.ko source code and PoC
@@ -32,5 +36,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-23 03:21:29 UTC*
+*Last updated at 2026-10-23 04:20:47 UTC*
 *Historical records are stored in the `archive` directory.*
