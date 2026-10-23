@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [54](https://github.com/54) Starred [theorem-labs/oss-verify-proofs](https://github.com/theorem-labs/oss-verify-proofs)
   > Theorem statements about OSS-Fuzz fuzz targets as compiled RISC-V binaries, and machine-checked Rocq...
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [EthanArbuckle/fairplay-decrypt](https://github.com/EthanArbuckle/fairplay-decrypt)
+  > Offline FairPlay App Store IPA decryption with independent key derivation
+
 ### [Bratah123](https://github.com/Bratah123)
 - 🌟 👤 [Bratah123](https://github.com/Bratah123) Starred [luohoa97/cordial](https://github.com/luohoa97/cordial)
   > Open-source Roblox runtime for Linux. Cordial runs the Roblox client natively, no Wine, no Android e...
@@ -34,7 +38,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [Und3rf10w/kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)
   > A port of ParrotSec's stealth and anonsurf modules to Kali Linux
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [Ma94xx/TonverkBridge](https://github.com/Ma94xx/TonverkBridge)
+  > Stream your Android phone's audio to the Elektron Tonverk sampler over USB, class-compliant, no root...
+
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [yetone/magpie](https://github.com/yetone/magpie)
+  > Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+
 
 ---
-*Last updated at 2026-10-23 05:17:12 UTC*
+*Last updated at 2026-10-23 06:30:46 UTC*
 *Historical records are stored in the `archive` directory.*
