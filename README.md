@@ -20,13 +20,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Whispergate/Signet](https://github.com/Whispergate/Signet)
   > Mythic Code Signing Wrapper
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
+  > Agent harness for learning difficult things.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
+  > Agent harness for learning difficult things.
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [whokilleddb/TTs](https://github.com/whokilleddb/TTs)
   > Gain shellcode execution via T4 Text Transform files/TextTransoform.exe
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [whokilleddb/3lkToShell](https://github.com/whokilleddb/3lkToShell)
   > A poor man's attempt to replicate the shellcode execution technique demo'd by @3lk during STHACK 202...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Win2000DevCommunity/WinDiag](https://github.com/Win2000DevCommunity/WinDiag)
+
+### [weltling](https://github.com/weltling)
+- 🌟 👤 [weltling](https://github.com/weltling) Starred [microsoft/openvmm](https://github.com/microsoft/openvmm)
+  > Home of OpenVMM and OpenHCL
 
 
 ---
-*Last updated at 2026-10-24 07:17:09 UTC*
+*Last updated at 2026-10-24 08:21:31 UTC*
 *Historical records are stored in the `archive` directory.*
