@@ -17,7 +17,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Whispergate/Signet](https://github.com/Whispergate/Signet)
   > Mythic Code Signing Wrapper
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [whokilleddb/TTs](https://github.com/whokilleddb/TTs)
+  > Gain shellcode execution via T4 Text Transform files/TextTransoform.exe
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [whokilleddb/3lkToShell](https://github.com/whokilleddb/3lkToShell)
+  > A poor man's attempt to replicate the shellcode execution technique demo'd by @3lk during STHACK 202...
+
 
 ---
-*Last updated at 2026-10-24 05:16:12 UTC*
+*Last updated at 2026-10-24 06:27:46 UTC*
 *Historical records are stored in the `archive` directory.*
