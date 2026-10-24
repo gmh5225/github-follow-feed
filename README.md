@@ -24,10 +24,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Whispergate/Signet](https://github.com/Whispergate/Signet)
   > Mythic Code Signing Wrapper
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
-  > Agent harness for learning difficult things.
-
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [whokilleddb/TTs](https://github.com/whokilleddb/TTs)
   > Gain shellcode execution via T4 Text Transform files/TextTransoform.exe
@@ -48,5 +44,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-24 13:15:05 UTC*
+*Last updated at 2026-10-24 14:14:54 UTC*
 *Historical records are stored in the `archive` directory.*
