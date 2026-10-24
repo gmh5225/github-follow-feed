@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack) public
   > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [mfranzon/print3d](https://github.com/mfranzon/print3d)
+  > Print 3D skill from text to 3D printing using Bambu Lab slicer. 
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [android/skills](https://github.com/android/skills)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Whispergate/Signet](https://github.com/Whispergate/Signet)
@@ -49,11 +53,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+
 ### [ufrisk](https://github.com/ufrisk)
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [etragardh/php2shell-eth](https://github.com/etragardh/php2shell-eth)
   > php2shell exploit - verified remote on fresh vps
 
 
 ---
-*Last updated at 2026-10-24 16:16:35 UTC*
+*Last updated at 2026-10-24 17:13:42 UTC*
 *Historical records are stored in the `archive` directory.*
