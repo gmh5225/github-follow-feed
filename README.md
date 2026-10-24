@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [peperunas](https://github.com/peperunas)
 - 🌟 👤 [peperunas](https://github.com/peperunas) Starred [NVIDIA/flare-local-inference](https://github.com/NVIDIA/flare-local-inference)
 
+### [phra](https://github.com/phra)
+- 🌟 👤 [phra](https://github.com/phra) Starred [Regncreative/Pulse](https://github.com/Regncreative/Pulse)
+  > Read-only Windows diagnostics: the Event Log in plain language, blue screens explained. Offline and ...
+
 ### [ri-char](https://github.com/ri-char)
 - 🌟 👤 [ri-char](https://github.com/ri-char) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
@@ -44,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-24 14:14:54 UTC*
+*Last updated at 2026-10-24 15:14:29 UTC*
 *Historical records are stored in the `archive` directory.*
