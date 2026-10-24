@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack) public
   > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [XiangpengHao/bbtree](https://github.com/XiangpengHao/bbtree)
+  > Fastest concurrent ordered map
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [1llu50ry/mcp-gamehacking](https://github.com/1llu50ry/mcp-gamehacking)
   > MCP (Model Context Protocol) server for game hacking & reverse engineering. A structured knowledge b...
@@ -67,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-24 18:19:08 UTC*
+*Last updated at 2026-10-24 19:12:20 UTC*
 *Historical records are stored in the `archive` directory.*
