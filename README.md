@@ -15,6 +15,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [looplj/reveric](https://github.com/looplj/reveric) to [CrackerCat/reveric](https://github.com/CrackerCat/reveric)
   > Agent Native 一站式 AI 小说，短剧桌面创作工作台
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [JoasASantos/JoasASantos.github.io](https://github.com/JoasASantos/JoasASantos.github.io)
+
 ### [NUL0x4C](https://github.com/NUL0x4C)
 - 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack) public
   > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
@@ -23,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [android/skills](https://github.com/android/skills)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Whispergate/Signet](https://github.com/Whispergate/Signet)
   > Mythic Code Signing Wrapper
+
+### [noahware](https://github.com/noahware)
+- 🌟 👤 [noahware](https://github.com/noahware) Starred [noahware/cstd](https://github.com/noahware/cstd)
+  > custom c++ standard library with abstracted CRT
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [whokilleddb/TTs](https://github.com/whokilleddb/TTs)
@@ -48,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-24 15:14:29 UTC*
+*Last updated at 2026-10-24 16:16:35 UTC*
 *Historical records are stored in the `archive` directory.*
