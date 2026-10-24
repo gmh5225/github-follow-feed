@@ -35,12 +35,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A poor man's attempt to replicate the shellcode execution technique demo'd by @3lk during STHACK 202...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Win2000DevCommunity/WinDiag](https://github.com/Win2000DevCommunity/WinDiag)
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp)
-  > A php2shell exploit that requires no modifications to the official version, and does not require dis...
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/php2shell-checker](https://github.com/openai/php2shell-checker)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [vercel-labs/portless](https://github.com/vercel-labs/portless)
-  > Replace port numbers with stable, named local URLs. For humans and agents.
+### [peperunas](https://github.com/peperunas)
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [NVIDIA/flare-local-inference](https://github.com/NVIDIA/flare-local-inference)
+
+### [ri-char](https://github.com/ri-char)
+- 🌟 👤 [ri-char](https://github.com/ri-char) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
 ### [ufrisk](https://github.com/ufrisk)
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [etragardh/php2shell-eth](https://github.com/etragardh/php2shell-eth)
@@ -52,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-24 10:15:57 UTC*
+*Last updated at 2026-10-24 11:14:01 UTC*
 *Historical records are stored in the `archive` directory.*
