@@ -15,6 +15,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [looplj/reveric](https://github.com/looplj/reveric) to [CrackerCat/reveric](https://github.com/CrackerCat/reveric)
   > Agent Native 一站式 AI 小说，短剧桌面创作工作台
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack) public
+  > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [android/skills](https://github.com/android/skills)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Whispergate/Signet](https://github.com/Whispergate/Signet)
@@ -22,10 +26,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [momo5502](https://github.com/momo5502)
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
-  > Agent harness for learning difficult things.
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
   > Agent harness for learning difficult things.
 
 ### [odzhan](https://github.com/odzhan)
@@ -46,11 +46,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ufrisk](https://github.com/ufrisk) Starred [etragardh/php2shell-eth](https://github.com/etragardh/php2shell-eth)
   > php2shell exploit - verified remote on fresh vps
 
-### [weltling](https://github.com/weltling)
-- 🌟 👤 [weltling](https://github.com/weltling) Starred [microsoft/openvmm](https://github.com/microsoft/openvmm)
-  > Home of OpenVMM and OpenHCL
-
 
 ---
-*Last updated at 2026-10-24 11:14:01 UTC*
+*Last updated at 2026-10-24 12:22:52 UTC*
 *Historical records are stored in the `archive` directory.*
