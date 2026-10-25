@@ -16,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [armbues](https://github.com/armbues) Starred [armbues/mlx-decision](https://github.com/armbues/mlx-decision)
   > Run decision models locally on Apple Silicon with MLX.
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [InvoxiPlayGames/XeCryptSharp](https://github.com/InvoxiPlayGames/XeCryptSharp)
+  > .NET Standard 2.0 (.NET Framework 4.6.2+, .NET 5.0+) library for dealing with Xbox 360 cryptography.
+
 ### [karalabe](https://github.com/karalabe)
 - 🌟 👤 [karalabe](https://github.com/karalabe) Starred [hledgerorg/hledger](https://github.com/hledgerorg/hledger)
   > Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -38,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 10:15:37 UTC*
+*Last updated at 2026-10-25 11:14:22 UTC*
 *Historical records are stored in the `archive` directory.*
