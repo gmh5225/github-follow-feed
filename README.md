@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rust Google Drive direct downloader using pinned libaria2
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
   > DeepSeek v4.1 flash 逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve)
+  > Fast and lightweight DB Client made in Rust and GPUI.
 
 ### [armbues](https://github.com/armbues)
 - 🌟 👤 [armbues](https://github.com/armbues) Starred [armbues/mlx-decision](https://github.com/armbues/mlx-decision)
@@ -56,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 13:14:11 UTC*
+*Last updated at 2026-10-25 14:15:19 UTC*
 *Historical records are stored in the `archive` directory.*
