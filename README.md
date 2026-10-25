@@ -25,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [InvoxiPlayGames/XeCryptSharp](https://github.com/InvoxiPlayGames/XeCryptSharp)
   > .NET Standard 2.0 (.NET Framework 4.6.2+, .NET 5.0+) library for dealing with Xbox 360 cryptography.
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
@@ -52,11 +54,27 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [JohGroLux/Micro25519](https://github.com/JohGroLux/Micro25519)
+  > A Lightweight Implementation of X25519 Key Exchange and Ed25519 Signatures for 8/16/32-bit Microcont...
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [leonardolopezchavira/sinowi](https://github.com/leonardolopezchavira/sinowi)
   > Sinowi: VST3/AU/standalone for Apple Silicon Macs that emulates the Hydrasynth Desktop by running it...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
+  > Build and query a graph database representation of source code
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [aardappel/goose](https://github.com/aardappel/goose)
+  > The Goose Programming Language
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [jbwinters/jacquard-lang](https://github.com/jbwinters/jacquard-lang)
+  > Jacquard is a small programming language designed for a regime in which most code is written by mach...
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
+  > Automatic verification of LLVM optimizations
+
 
 ---
-*Last updated at 2026-10-25 14:15:19 UTC*
+*Last updated at 2026-10-25 15:14:51 UTC*
 *Historical records are stored in the `archive` directory.*
