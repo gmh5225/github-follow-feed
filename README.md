@@ -41,6 +41,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Mods in Campaign to the Halo 5 Forge PC Build
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada)
+  > GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [joshuaswarren/omarchy-egpu](https://github.com/joshuaswarren/omarchy-egpu)
+  > eGPU setup, driver status, diagnostics, and measured results for Omarchy Linux
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [omonkeyz/angry-birds-go-rust](https://github.com/omonkeyz/angry-birds-go-rust)
+  > Native Rust port of Angry Birds Go! (Exient XGS engine), work in progress
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [omonkeyz/Fortnite-Rust](https://github.com/omonkeyz/Fortnite-Rust)
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
   > AI agents can now use real Android and iOS apps, just like a human.
@@ -97,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 18:19:18 UTC*
+*Last updated at 2026-10-25 19:12:38 UTC*
 *Historical records are stored in the `archive` directory.*
