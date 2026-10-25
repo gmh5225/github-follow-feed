@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Bratah123](https://github.com/Bratah123)
+- 🌟 👤 [Bratah123](https://github.com/Bratah123) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [blasty/wake-and-break](https://github.com/blasty/wake-and-break)
   > Wake and Break: a PSP exploit for AMD navi31 (RX 7900) that makes the card accept unsigned IP firmwa...
@@ -35,6 +39,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [danielmccluskey/halo5onpc](https://github.com/danielmccluskey/halo5onpc)
   > Mods in Campaign to the Halo 5 Forge PC Build
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
@@ -74,6 +79,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [leonardolopezchavira/sinowi](https://github.com/leonardolopezchavira/sinowi)
   > Sinowi: VST3/AU/standalone for Apple Silicon Macs that emulates the Hydrasynth Desktop by running it...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/EthLib](https://github.com/ethereum/EthLib)
+  > Formally verified Ethereum primitives, written in Lean.
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
@@ -88,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 17:14:00 UTC*
+*Last updated at 2026-10-25 18:19:18 UTC*
 *Historical records are stored in the `archive` directory.*
