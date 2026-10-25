@@ -14,10 +14,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [armbues](https://github.com/armbues) Starred [armbues/mlx-decision](https://github.com/armbues/mlx-decision)
   > Run decision models locally on Apple Silicon with MLX.
 
-### [gakonst](https://github.com/gakonst)
-- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [indexable-inc/blaze](https://github.com/indexable-inc/blaze) to [gakonst/ra-jit](https://github.com/gakonst/ra-jit)
-  > Incremental rust builds up to 92x faster than cargo/rustc
-
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
   > A context-compression plugin for month-long single sessions (billions of tokens) ,small context wind...
@@ -30,7 +26,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Nitjsefnie/Overflow](https://github.com/Nitjsefnie/Overflow)
   > Mutual-credit coordination for contributing spare LLM subscription capacity through GitHub issues an...
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [leonardolopezchavira/sinowi](https://github.com/leonardolopezchavira/sinowi)
+  > Sinowi: VST3/AU/standalone for Apple Silicon Macs that emulates the Hydrasynth Desktop by running it...
+
 
 ---
-*Last updated at 2026-10-25 08:21:38 UTC*
+*Last updated at 2026-10-25 09:17:09 UTC*
 *Historical records are stored in the `archive` directory.*
