@@ -9,10 +9,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > For PHP, CTI agencies, and CISA. This is for security hardening and bug awareness only.
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [mizorewww/gdirect](https://github.com/mizorewww/gdirect)
   > Rust Google Drive direct downloader using pinned libaria2
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5)
+  > DeepSeek v4.1 flash 逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进
 
 ### [armbues](https://github.com/armbues)
 - 🌟 👤 [armbues](https://github.com/armbues) Starred [armbues/mlx-decision](https://github.com/armbues/mlx-decision)
   > Run decision models locally on Apple Silicon with MLX.
+
+### [karalabe](https://github.com/karalabe)
+- 🌟 👤 [karalabe](https://github.com/karalabe) Starred [hledgerorg/hledger](https://github.com/hledgerorg/hledger)
+  > Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context)
@@ -32,5 +38,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 09:17:09 UTC*
+*Last updated at 2026-10-25 10:15:37 UTC*
 *Historical records are stored in the `archive` directory.*
