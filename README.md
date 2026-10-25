@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Bratah123](https://github.com/Bratah123)
-- 🌟 👤 [Bratah123](https://github.com/Bratah123) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
-  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
-
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [blasty/wake-and-break](https://github.com/blasty/wake-and-break)
   > Wake and Break: a PSP exploit for AMD navi31 (RX 7900) that makes the card accept unsigned IP firmwa...
@@ -25,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [armbues](https://github.com/armbues)
 - 🌟 👤 [armbues](https://github.com/armbues) Starred [armbues/mlx-decision](https://github.com/armbues/mlx-decision)
   > Run decision models locally on Apple Silicon with MLX.
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+  > Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vi...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ruzfi/vulnsuite](https://github.com/ruzfi/vulnsuite) to [classic130/vulnsuite](https://github.com/classic130/vulnsuite)
@@ -49,6 +49,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [omonkeyz/angry-birds-go-rust](https://github.com/omonkeyz/angry-birds-go-rust)
   > Native Rust port of Angry Birds Go! (Exient XGS engine), work in progress
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [omonkeyz/Fortnite-Rust](https://github.com/omonkeyz/Fortnite-Rust)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
@@ -92,19 +94,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/EthLib](https://github.com/ethereum/EthLib)
   > Formally verified Ethereum primitives, written in Lean.
 
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [OpenImagingLab/FlashVSR_Plus](https://github.com/OpenImagingLab/FlashVSR_Plus)
+  > This is the official repo of FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Re...
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [trailofbits/trailmark](https://github.com/trailofbits/trailmark)
   > Build and query a graph database representation of source code
-
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [aardappel/goose](https://github.com/aardappel/goose)
-  > The Goose Programming Language
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [jbwinters/jacquard-lang](https://github.com/jbwinters/jacquard-lang)
-  > Jacquard is a small programming language designed for a regime in which most code is written by mach...
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2)
-  > Automatic verification of LLVM optimizations
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [WKL-Sec/parley-ng](https://github.com/WKL-Sec/parley-ng)
+  > Tree of Attacks (TAP) Jailbreaking Implementation with additional attack features.
 
 
 ---
-*Last updated at 2026-10-25 19:12:38 UTC*
+*Last updated at 2026-10-25 20:15:41 UTC*
 *Historical records are stored in the `archive` directory.*
