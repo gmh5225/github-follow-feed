@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > .NET Standard 2.0 (.NET Framework 4.6.2+, .NET 5.0+) library for dealing with Xbox 360 cryptography.
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [danielmccluskey/halo5onpc](https://github.com/danielmccluskey/halo5onpc)
+  > Mods in Campaign to the Halo 5 Forge PC Build
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
@@ -84,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 16:16:43 UTC*
+*Last updated at 2026-10-25 17:14:00 UTC*
 *Historical records are stored in the `archive` directory.*
