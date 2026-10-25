@@ -31,10 +31,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [AmberWolfCyber/IMEClient](https://github.com/AmberWolfCyber/IMEClient)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [chryzsh/company-portal-lpe](https://github.com/chryzsh/company-portal-lpe)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [redteamfortress/KillerLand](https://github.com/redteamfortress/KillerLand)
+  > Collection of reversed vulnerable drivers weaponized into process killers. PPL won't save you.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [Nitjsefnie/Overflow](https://github.com/Nitjsefnie/Overflow)
   > Mutual-credit coordination for contributing spare LLM subscription capacity through GitHub issues an...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [leonardolopezchavira/sinowi](https://github.com/leonardolopezchavira/sinowi)
@@ -42,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 11:14:22 UTC*
+*Last updated at 2026-10-25 12:23:16 UTC*
 *Historical records are stored in the `archive` directory.*
