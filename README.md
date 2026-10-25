@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [armbues](https://github.com/armbues) Starred [armbues/mlx-decision](https://github.com/armbues/mlx-decision)
   > Run decision models locally on Apple Silicon with MLX.
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [ruzfi/vulnsuite](https://github.com/ruzfi/vulnsuite) to [classic130/vulnsuite](https://github.com/classic130/vulnsuite)
+  > Build reproducible vulnerable (and patched) target containers from templates, in a verified state, s...
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [InvoxiPlayGames/XeCryptSharp](https://github.com/InvoxiPlayGames/XeCryptSharp)
   > .NET Standard 2.0 (.NET Framework 4.6.2+, .NET 5.0+) library for dealing with Xbox 360 cryptography.
@@ -31,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
   > AI agents can now use real Android and iOS apps, just like a human.
+
+### [hzqst](https://github.com/hzqst)
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)
+  > Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official...
 
 ### [karalabe](https://github.com/karalabe)
 - 🌟 👤 [karalabe](https://github.com/karalabe) Starred [hledgerorg/hledger](https://github.com/hledgerorg/hledger)
@@ -76,5 +84,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 15:14:51 UTC*
+*Last updated at 2026-10-25 16:16:43 UTC*
 *Historical records are stored in the `archive` directory.*
