@@ -4,8 +4,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/datasplore](https://github.com/simonw/datasplore) public
+  > Explore data in 3D
+
 
 ---
-*Last updated at 2026-10-25 01:29:06 UTC*
+*Last updated at 2026-10-25 02:25:21 UTC*
 *Historical records are stored in the `archive` directory.*
