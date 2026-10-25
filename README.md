@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [blasty/wake-and-break](https://github.com/blasty/wake-and-break)
+  > Wake and Break: a PSP exploit for AMD navi31 (RX 7900) that makes the card accept unsigned IP firmwa...
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [ACD421/PHP](https://github.com/ACD421/PHP)
   > For PHP, CTI agencies, and CISA. This is for security hardening and bug awareness only.
@@ -19,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [InvoxiPlayGames/XeCryptSharp](https://github.com/InvoxiPlayGames/XeCryptSharp)
   > .NET Standard 2.0 (.NET Framework 4.6.2+, .NET 5.0+) library for dealing with Xbox 360 cryptography.
+
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
+  > AI agents can now use real Android and iOS apps, just like a human.
 
 ### [karalabe](https://github.com/karalabe)
 - 🌟 👤 [karalabe](https://github.com/karalabe) Starred [hledgerorg/hledger](https://github.com/hledgerorg/hledger)
@@ -48,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-25 12:23:16 UTC*
+*Last updated at 2026-10-25 13:14:11 UTC*
 *Historical records are stored in the `archive` directory.*
