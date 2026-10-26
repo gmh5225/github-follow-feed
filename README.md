@@ -36,10 +36,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
   > eBPF-based Security Observability and Runtime Enforcement
 
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack)
-  > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
-
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
@@ -59,6 +55,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [datawhalechina/diy-llm](https://github.com/datawhalechina/diy-llm)
   > Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference ...
+
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [agent-ecosystem/afdocs](https://github.com/agent-ecosystem/afdocs)
+  > Test your docs against the Agent-Friendly Documentation Spec
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [agent-ecosystem/agent-traffic-classifier](https://github.com/agent-ecosystem/agent-traffic-classifier)
+  > Classify web traffic from server log entries and header capture into human, AI agent, AI crawler, AI...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)
@@ -90,6 +92,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
   > A public release of the Steal My Bitcoin challenge
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve)
+  > Fast and lightweight DB Client made in Rust and GPUI.
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
@@ -105,11 +111,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [spudgy](https://github.com/spudgy) Starred [Elem8100/MapleNecrocer](https://github.com/Elem8100/MapleNecrocer)
   > MapleStory Client Emulator
 
+### [strazzere](https://github.com/strazzere)
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [19h/chernobog](https://github.com/19h/chernobog)
+  > chernobog is a Hex-Rays decompiler plugin that defeats Hikari LLVM obfuscation.
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [Vikramaditya015/samsung-android-lpe](https://github.com/Vikramaditya015/samsung-android-lpe)
+  > Poc for CVE-2026-20980, CVE-2026-20981, CVE-2026-20982
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [getpaseo/paseo](https://github.com/getpaseo/paseo)
+  > Orchestrate multiple coding agents from desktop and mobile
+- 🌟 👤 [strazzere](https://github.com/strazzere) Starred [Zenofex/SoC-BootROMs](https://github.com/Zenofex/SoC-BootROMs)
+  > BootROM dumps from misc SoCs
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN)
   > [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% st...
 
 
 ---
-*Last updated at 2026-10-26 21:16:20 UTC*
+*Last updated at 2026-10-26 22:17:54 UTC*
 *Historical records are stored in the `archive` directory.*
