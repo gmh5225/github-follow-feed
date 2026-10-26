@@ -70,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [x86rc/unthemidator](https://github.com/x86rc/unthemidator) to [enovella/unthemidator](https://github.com/enovella/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
+  > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
+
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [Wend4r/sourcesdk](https://github.com/Wend4r/sourcesdk) to [HLND2T/Wend4r_cs2sdk](https://github.com/HLND2T/Wend4r_cs2sdk)
   > Unofficial Source SDK Mirror
@@ -101,5 +105,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-26 17:16:14 UTC*
+*Last updated at 2026-10-26 18:27:57 UTC*
 *Historical records are stored in the `archive` directory.*
