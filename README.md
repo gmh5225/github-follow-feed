@@ -30,6 +30,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
   > eBPF-based Security Observability and Runtime Enforcement
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
+  > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
+
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [momo5502/sogen](https://github.com/momo5502/sogen)
+  > 🪅 Windows & Linux userspace emulator 
+
 ### [XINCGer](https://github.com/XINCGer)
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [datawhalechina/diy-llm](https://github.com/datawhalechina/diy-llm)
   > Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference ...
@@ -50,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-26 08:31:40 UTC*
+*Last updated at 2026-10-26 09:28:56 UTC*
 *Historical records are stored in the `archive` directory.*
