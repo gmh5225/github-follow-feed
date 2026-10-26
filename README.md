@@ -46,6 +46,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)
   > Your local AI copilot for documents
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [x86rc/unthemidator](https://github.com/x86rc/unthemidator) to [enovella/unthemidator](https://github.com/enovella/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins)
   > ☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spot...
@@ -56,7 +62,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
   > A public release of the Steal My Bitcoin challenge
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
+  > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+
 
 ---
-*Last updated at 2026-10-26 09:28:56 UTC*
+*Last updated at 2026-10-26 10:20:38 UTC*
 *Historical records are stored in the `archive` directory.*
