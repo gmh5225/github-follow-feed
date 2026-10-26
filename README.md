@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts)
+  > REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or ...
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+  > A feature-rich command-line audio/video downloader
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) to [CrackerCat/gpu-unlock](https://github.com/CrackerCat/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
@@ -33,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [egoist/mygo](https://github.com/egoist/mygo)
+  > Develop desktop apps with native UI or web frontend in Go
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [hakaioffsec/CVE-2026-114509-PoC](https://github.com/hakaioffsec/CVE-2026-114509-PoC) to [Mr-xn/CVE-2026-114509-PoC](https://github.com/Mr-xn/CVE-2026-114509-PoC)
+  > A poc for https://github.com/laravel/framework/security/advisories/GHSA-f9x3-7vq9-cph6
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
@@ -56,6 +66,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [enovella](https://github.com/enovella) Forked [x86rc/unthemidator](https://github.com/x86rc/unthemidator) to [enovella/unthemidator](https://github.com/enovella/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [Wend4r/sourcesdk](https://github.com/Wend4r/sourcesdk) to [HLND2T/Wend4r_cs2sdk](https://github.com/HLND2T/Wend4r_cs2sdk)
+  > Unofficial Source SDK Mirror
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins)
   > ☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spot...
@@ -72,7 +86,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DumpAnalysis/PrologWinDbg](https://github.com/DumpAnalysis/PrologWinDbg)
   > Use Prolog to analyze memory dumps and stopped live processes in WinDbg.
 
+### [spudgy](https://github.com/spudgy)
+- 🌟 👤 [spudgy](https://github.com/spudgy) Starred [Elem8100/MapleNecrocer](https://github.com/Elem8100/MapleNecrocer)
+  > MapleStory Client Emulator
+
 
 ---
-*Last updated at 2026-10-26 11:20:01 UTC*
+*Last updated at 2026-10-26 13:52:22 UTC*
 *Historical records are stored in the `archive` directory.*
