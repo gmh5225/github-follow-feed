@@ -76,14 +76,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
-  > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
-
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [Wend4r/sourcesdk](https://github.com/Wend4r/sourcesdk) to [HLND2T/Wend4r_cs2sdk](https://github.com/HLND2T/Wend4r_cs2sdk)
-  > Unofficial Source SDK Mirror
-
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins)
   > ☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spot...
@@ -115,5 +107,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-26 19:15:59 UTC*
+*Last updated at 2026-10-26 20:18:22 UTC*
 *Historical records are stored in the `archive` directory.*
