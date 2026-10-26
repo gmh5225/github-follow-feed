@@ -22,7 +22,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
   > eBPF-based Security Observability and Runtime Enforcement
 
+### [XINCGer](https://github.com/XINCGer)
+- 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [datawhalechina/diy-llm](https://github.com/datawhalechina/diy-llm)
+  > Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference ...
+
 
 ---
-*Last updated at 2026-10-26 01:32:29 UTC*
+*Last updated at 2026-10-26 02:29:10 UTC*
 *Historical records are stored in the `archive` directory.*
