@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
   > eBPF-based Security Observability and Runtime Enforcement
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Maldev-Academy/WhisperHijack](https://github.com/Maldev-Academy/WhisperHijack)
+  > A stealthy process injection PoC combining Thread Name-Calling for payload delivery with Waiting Thr...
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
@@ -97,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-26 16:21:43 UTC*
+*Last updated at 2026-10-26 17:16:14 UTC*
 *Historical records are stored in the `archive` directory.*
