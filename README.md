@@ -63,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [KrushnaVardhanReddy/PaperPilot](https://github.com/KrushnaVardhanReddy/PaperPilot)
   > Your local AI copilot for documents
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+  > Write HTML. Render video. Built for agents.
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
@@ -72,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
+  > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
 
 ### [hzqst](https://github.com/hzqst)
@@ -103,7 +109,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [spudgy](https://github.com/spudgy) Starred [Elem8100/MapleNecrocer](https://github.com/Elem8100/MapleNecrocer)
   > MapleStory Client Emulator
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN)
+  > [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% st...
+
 
 ---
-*Last updated at 2026-10-26 18:27:57 UTC*
+*Last updated at 2026-10-26 19:15:59 UTC*
 *Historical records are stored in the `archive` directory.*
