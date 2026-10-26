@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [cilium/tetragon](https://github.com/cilium/tetragon)
   > eBPF-based Security Observability and Runtime Enforcement
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
+  > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock)
   > Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents
@@ -65,8 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [storytold/photocraft](https://github.com/storytold/photocraft)
   > PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [DumpAnalysis/PrologWinDbg](https://github.com/DumpAnalysis/PrologWinDbg)
+  > Use Prolog to analyze memory dumps and stopped live processes in WinDbg.
 
 
 ---
-*Last updated at 2026-10-26 10:20:38 UTC*
+*Last updated at 2026-10-26 11:20:01 UTC*
 *Historical records are stored in the `archive` directory.*
