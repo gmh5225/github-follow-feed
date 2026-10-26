@@ -87,11 +87,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Use Prolog to analyze memory dumps and stopped live processes in WinDbg.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NetVar1337/mdbg](https://github.com/NetVar1337/mdbg)
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code)
+  > Leaked Mirai Source Code for Research/IoC Development Purposes
+
 ### [spudgy](https://github.com/spudgy)
 - 🌟 👤 [spudgy](https://github.com/spudgy) Starred [Elem8100/MapleNecrocer](https://github.com/Elem8100/MapleNecrocer)
   > MapleStory Client Emulator
 
 
 ---
-*Last updated at 2026-10-26 15:05:55 UTC*
+*Last updated at 2026-10-26 16:21:43 UTC*
 *Historical records are stored in the `archive` directory.*
