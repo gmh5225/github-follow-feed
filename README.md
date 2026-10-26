@@ -28,7 +28,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [XINCGer](https://github.com/XINCGer) Starred [datawhalechina/diy-llm](https://github.com/datawhalechina/diy-llm)
   > Covers pre-training data, Tokenizer, Transformer, MoE,distributed training, Scaling Laws, inference ...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [NousResearch/hermes-official-plugins](https://github.com/NousResearch/hermes-official-plugins)
+  > ☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spot...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [regaan/basilisk](https://github.com/regaan/basilisk)
+  > Basilisk — Open-source AI red teaming framework with genetic prompt evolution. Automated LLM securit...
+
 
 ---
-*Last updated at 2026-10-26 05:20:12 UTC*
+*Last updated at 2026-10-26 06:40:55 UTC*
 *Historical records are stored in the `archive` directory.*
