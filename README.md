@@ -91,6 +91,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
   > A public release of the Steal My Bitcoin challenge
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [google/mantis](https://github.com/google/mantis)
+  > A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vu...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ShayanAbbas1/dbdelve](https://github.com/ShayanAbbas1/dbdelve)
@@ -125,7 +127,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN)
   > [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% st...
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
+  > Incremental rust builds up to 92x faster than cargo/rustc
+
 
 ---
-*Last updated at 2026-10-26 22:17:54 UTC*
+*Last updated at 2026-10-26 23:14:49 UTC*
 *Historical records are stored in the `archive` directory.*
