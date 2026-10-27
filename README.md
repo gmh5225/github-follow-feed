@@ -35,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Autumn-27/ARTEX 持续维护开源版本
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [liankong233/RXEngine](https://github.com/liankong233/RXEngine) to [CrackerCat/RXEngine](https://github.com/CrackerCat/RXEngine)
   > Reverse engineering collect engine
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zoratu/hexray](https://github.com/zoratu/hexray) to [CrackerCat/hexray](https://github.com/CrackerCat/hexray)
+  > Rust-based disassembler
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [betacatsling/Open-ZCode](https://github.com/betacatsling/Open-ZCode) to [CrackerCat/Open-ZCode](https://github.com/CrackerCat/Open-ZCode)
+  > ZCode with a per-session selectable agent harness: ZCode / Claude Code / Codex / pi
 
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
@@ -65,6 +69,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A public release of the Steal My Bitcoin challenge
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aleph-void/Ghidra-Rare](https://github.com/aleph-void/Ghidra-Rare)
   > A repository of SLEIGH support for rare processor ISAs
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bobbuilder123/fps-game-simulator](https://github.com/bobbuilder123/fps-game-simulator)
+  > Windows x64 FPS simulator with console and D3D11/D3D12 GUI modes for testing pointer chains, memory ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NetVar1337/decepticon-ghidra-mcp](https://github.com/NetVar1337/decepticon-ghidra-mcp)
+  > Ghidra MCP: P-code, BSim, version tracking, and emulation.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
@@ -75,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 11:17:03 UTC*
+*Last updated at 2026-10-27 12:27:54 UTC*
 *Historical records are stored in the `archive` directory.*
