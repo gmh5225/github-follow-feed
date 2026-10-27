@@ -62,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ghosthand-dev/ghosthand](https://github.com/ghosthand-dev/ghosthand)
   > Control a real iPhone from AI agents over USB and Bluetooth
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [ExpOrx/IDAChef](https://github.com/ExpOrx/IDAChef) to [classic130/IDAChef](https://github.com/classic130/IDAChef)
+  > A [CyberChef](https://github.com/gchq/CyberChef)-style recipe/operation toolkit embedded in IDA Pro ...
+
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Rod292/3d-home-tv-os](https://github.com/Rod292/3d-home-tv-os)
   > Scan your home, turn it into a live 3D model, and make it your TV's home screen — lights wired in. A...
@@ -73,11 +77,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
   > A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vu...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mjosaarinen/hqc-py](https://github.com/mjosaarinen/hqc-py)
+  > Simple Python implementation of HQC,  a code-based KEM.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mjosaarinen/mlkem-native](https://github.com/mjosaarinen/mlkem-native)
+  > Secure, fast, and portable C90 implementation of ML-KEM / FIPS 203
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/math](https://github.com/openai/math)
 
 
 ---
-*Last updated at 2026-10-27 15:19:18 UTC*
+*Last updated at 2026-10-27 16:15:36 UTC*
 *Historical records are stored in the `archive` directory.*
