@@ -19,10 +19,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Zelix Klass Master 27.0.0 反编译重建
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kirklin/skyward](https://github.com/kirklin/skyward) to [CrackerCat/skyward](https://github.com/CrackerCat/skyward)
   > An Android recovery written in Rust from scratch: decryption, installs and OTA updates, backup, WLAN...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) to [CrackerCat/android-ad-cleaner](https://github.com/CrackerCat/android-ad-cleaner)
+  > 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies)
   > Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof a...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG)
+  > https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native sea...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
@@ -30,5 +34,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 02:25:55 UTC*
+*Last updated at 2026-10-27 03:21:31 UTC*
 *Historical records are stored in the `archive` directory.*
