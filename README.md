@@ -99,7 +99,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [emd22/satellite](https://github.com/emd22/satellite)
   > Project for Visualization course
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [ExpOrx/IDAChef](https://github.com/ExpOrx/IDAChef)
+  > A [CyberChef](https://github.com/gchq/CyberChef)-style recipe/operation toolkit embedded in IDA Pro ...
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [19h/cud](https://github.com/19h/cud)
+  > code-unit discovery for Mach-O binaries
+
 
 ---
-*Last updated at 2026-10-27 21:11:04 UTC*
+*Last updated at 2026-10-27 22:11:39 UTC*
 *Historical records are stored in the `archive` directory.*
