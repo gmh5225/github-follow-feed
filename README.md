@@ -44,11 +44,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
   > Incremental rust builds up to 92x faster than cargo/rustc
 
+### [keiichiw](https://github.com/keiichiw)
+- 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [teorth/erdosproblems](https://github.com/teorth/erdosproblems)
+  > A community database for the problems on the erdosproblems.com site
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+  > A public release of the Steal My Bitcoin challenge
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
   > A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vu...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/math](https://github.com/openai/math)
+
 
 ---
-*Last updated at 2026-10-27 06:31:22 UTC*
+*Last updated at 2026-10-27 07:24:39 UTC*
 *Historical records are stored in the `archive` directory.*
