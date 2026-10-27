@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [liankong233/RXEngine](https://github.com/liankong233/RXEngine) to [CrackerCat/RXEngine](https://github.com/CrackerCat/RXEngine)
   > Reverse engineering collect engine
 
+### [GJDuck](https://github.com/GJDuck)
+- 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
+  > An 8-stage vulnerability-discovery agent.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies)
   > Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof a...
@@ -61,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 07:24:39 UTC*
+*Last updated at 2026-10-27 08:25:09 UTC*
 *Historical records are stored in the `archive` directory.*
