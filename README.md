@@ -48,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [zdypro888/icrypto](https://github.com/zdypro888/icrypto)
   > apple iOS system crypto framework
 
+### [XaFF-XaFF](https://github.com/XaFF-XaFF)
+- 🌟 👤 [XaFF-XaFF](https://github.com/XaFF-XaFF) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
+  > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies)
   > Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof a...
@@ -56,23 +60,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
   > Incremental rust builds up to 92x faster than cargo/rustc
 
-### [hzqst](https://github.com/hzqst)
-- 🚀 👤 [hzqst](https://github.com/hzqst) Made [HLND2T/UtilGoldSrcAssetConverter](https://github.com/HLND2T/UtilGoldSrcAssetConverter) public
-- 🚀 👤 [hzqst](https://github.com/hzqst) Made [HLND2T/GoldSrcRenderCore](https://github.com/HLND2T/GoldSrcRenderCore) public
-
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/FastDialogueSidon](https://github.com/higurashi-ai/FastDialogueSidon)
   > Fast two-speaker dialogue separation: Triton and TensorRT backends for FastDialogueSidon
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
-  > A public release of the Steal My Bitcoin challenge
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aleph-void/Ghidra-Rare](https://github.com/aleph-void/Ghidra-Rare)
-  > A repository of SLEIGH support for rare processor ISAs
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [bobbuilder123/fps-game-simulator](https://github.com/bobbuilder123/fps-game-simulator)
-  > Windows x64 FPS simulator with console and D3D11/D3D12 GUI modes for testing pointer chains, memory ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [NetVar1337/decepticon-ghidra-mcp](https://github.com/NetVar1337/decepticon-ghidra-mcp)
-  > Ghidra MCP: P-code, BSim, version tracking, and emulation.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
@@ -83,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 12:27:54 UTC*
+*Last updated at 2026-10-27 13:22:43 UTC*
 *Historical records are stored in the `archive` directory.*
