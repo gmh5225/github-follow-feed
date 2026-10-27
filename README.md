@@ -99,11 +99,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [emd22/satellite](https://github.com/emd22/satellite)
   > Project for Visualization course
 
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [tangency-labs/fieldcraft](https://github.com/tangency-labs/fieldcraft)
-  > One open-source modeler for structures, heat and fluids, built from scratch in pure Rust: parametric...
-
 
 ---
-*Last updated at 2026-10-27 20:14:27 UTC*
+*Last updated at 2026-10-27 21:11:04 UTC*
 *Historical records are stored in the `archive` directory.*
