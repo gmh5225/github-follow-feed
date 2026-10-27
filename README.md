@@ -70,9 +70,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Rod292/3d-home-tv-os](https://github.com/Rod292/3d-home-tv-os)
   > Scan your home, turn it into a live 3D model, and make it your TV's home screen — lights wired in. A...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [DilawarShafiq/nietzschian-debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
+  > It won't fix your bug. It'll fix you. The debugger that hands the question back instead of the answe...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
+  > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
+
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/FastDialogueSidon](https://github.com/higurashi-ai/FastDialogueSidon)
   > Fast two-speaker dialogue separation: Triton and TensorRT backends for FastDialogueSidon
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
+  > Incremental rust builds up to 92x faster than cargo/rustc
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
@@ -85,7 +97,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/math](https://github.com/openai/math)
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [emd22/satellite](https://github.com/emd22/satellite)
+  > Project for Visualization course
+
 
 ---
-*Last updated at 2026-10-27 16:15:36 UTC*
+*Last updated at 2026-10-27 17:12:26 UTC*
 *Historical records are stored in the `archive` directory.*
