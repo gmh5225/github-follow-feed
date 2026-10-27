@@ -25,6 +25,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An Android recovery written in Rust from scratch: decryption, installs and OTA updates, backup, WLAN...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) to [CrackerCat/android-ad-cleaner](https://github.com/CrackerCat/android-ad-cleaner)
   > 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qq2070006042-create/yuehong-privilege-assistant](https://github.com/qq2070006042-create/yuehong-privilege-assistant) to [CrackerCat/yuehong-privilege-assistant](https://github.com/CrackerCat/yuehong-privilege-assistant)
+  > 月虹提权助手：内置 Stellar 与 GhostLock 的 Android 提权工作台
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [trhhubsd/ARTEX](https://github.com/trhhubsd/ARTEX) to [CrackerCat/ARTEX-trhhubsd](https://github.com/CrackerCat/ARTEX-trhhubsd)
+  > ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [martinkeith700/ruyiJS](https://github.com/martinkeith700/ruyiJS) to [CrackerCat/ruyiJS](https://github.com/CrackerCat/ruyiJS)
+  > Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX) to [CrackerCat/ARTEX-RuoJi6](https://github.com/CrackerCat/ARTEX-RuoJi6)
+  > Autumn-27/ARTEX 持续维护开源版本
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [liankong233/RXEngine](https://github.com/liankong233/RXEngine) to [CrackerCat/RXEngine](https://github.com/CrackerCat/RXEngine)
+  > Reverse engineering collect engine
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies)
@@ -40,5 +50,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 05:18:33 UTC*
+*Last updated at 2026-10-27 06:31:22 UTC*
 *Historical records are stored in the `archive` directory.*
