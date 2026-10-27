@@ -52,9 +52,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
   > Incremental rust builds up to 92x faster than cargo/rustc
 
-### [keiichiw](https://github.com/keiichiw)
-- 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [teorth/erdosproblems](https://github.com/teorth/erdosproblems)
-  > A community database for the problems on the erdosproblems.com site
+### [hzqst](https://github.com/hzqst)
+- 🚀 👤 [hzqst](https://github.com/hzqst) Made [HLND2T/UtilGoldSrcAssetConverter](https://github.com/HLND2T/UtilGoldSrcAssetConverter) public
+- 🚀 👤 [hzqst](https://github.com/hzqst) Made [HLND2T/GoldSrcRenderCore](https://github.com/HLND2T/GoldSrcRenderCore) public
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/FastDialogueSidon](https://github.com/higurashi-ai/FastDialogueSidon)
@@ -63,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
   > A public release of the Steal My Bitcoin challenge
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [aleph-void/Ghidra-Rare](https://github.com/aleph-void/Ghidra-Rare)
+  > A repository of SLEIGH support for rare processor ISAs
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
@@ -73,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 10:18:18 UTC*
+*Last updated at 2026-10-27 11:17:03 UTC*
 *Historical records are stored in the `archive` directory.*
