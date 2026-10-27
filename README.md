@@ -100,12 +100,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Project for Visualization course
 
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [JuliaReach/ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl)
-  > Computing reachable states of dynamical systems in Julia
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
-  > A framework for applied category theory in the Julia language
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [tangency-labs/fieldcraft](https://github.com/tangency-labs/fieldcraft)
+  > One open-source modeler for structures, heat and fluids, built from scratch in pure Rust: parametric...
 
 
 ---
-*Last updated at 2026-10-27 18:15:03 UTC*
+*Last updated at 2026-10-27 19:11:38 UTC*
 *Historical records are stored in the `archive` directory.*
