@@ -59,6 +59,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native sea...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
   > Incremental rust builds up to 92x faster than cargo/rustc
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ghosthand-dev/ghosthand](https://github.com/ghosthand-dev/ghosthand)
+  > Control a real iPhone from AI agents over USB and Bluetooth
 
 ### [gakonst](https://github.com/gakonst)
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Rod292/3d-home-tv-os](https://github.com/Rod292/3d-home-tv-os)
@@ -77,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 14:19:58 UTC*
+*Last updated at 2026-10-27 15:19:18 UTC*
 *Historical records are stored in the `archive` directory.*
