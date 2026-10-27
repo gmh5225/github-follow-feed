@@ -92,8 +92,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
   > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
 
+### [oleavr](https://github.com/oleavr)
+- 🍴 👤 [oleavr](https://github.com/oleavr) Forked [chris-ritsen/samsung-tv-root](https://github.com/chris-ritsen/samsung-tv-root) to [oleavr/samsung-tv-root](https://github.com/oleavr/samsung-tv-root)
+  > Samsung Tizen root
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/math](https://github.com/openai/math)
+
+### [peperunas](https://github.com/peperunas)
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [ryoiki-tokuiten/Deepthink](https://github.com/ryoiki-tokuiten/Deepthink)
+  > Using LLMs for iteratively exploring the solution search space at scale.
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [emd22/satellite](https://github.com/emd22/satellite)
@@ -107,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 22:11:39 UTC*
+*Last updated at 2026-10-27 23:10:38 UTC*
 *Historical records are stored in the `archive` directory.*
