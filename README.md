@@ -24,11 +24,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies)
   > Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof a...
 
-### [keiichiw](https://github.com/keiichiw)
-- 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [proofs-rs/lean-miri](https://github.com/proofs-rs/lean-miri)
-  > A lean4 port of miri 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
+  > A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vu...
 
 
 ---
-*Last updated at 2026-10-27 01:32:14 UTC*
+*Last updated at 2026-10-27 02:25:55 UTC*
 *Historical records are stored in the `archive` directory.*
