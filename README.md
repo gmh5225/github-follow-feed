@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
+  > A public release of the Steal My Bitcoin challenge
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [NekoMirra/rtx4060-laptop-tensor-unlock](https://github.com/NekoMirra/rtx4060-laptop-tensor-unlock) to [CrackerCat/rtx4060-laptop-tensor-unlock](https://github.com/CrackerCat/rtx4060-laptop-tensor-unlock)
   > RTX 4060 Laptop (10de:28a0) Windows UEFI 预启动张量速率解锁：FP16/BF16 FP32-累加 10.78 -> 49.74 TFLOPS，不刷 VBIOS、...
@@ -27,6 +31,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof a...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [StarTrail-org/PixelRAG](https://github.com/StarTrail-org/PixelRAG)
   > https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native sea...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
+  > Incremental rust builds up to 92x faster than cargo/rustc
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [google/mantis](https://github.com/google/mantis)
@@ -34,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 03:21:31 UTC*
+*Last updated at 2026-10-27 04:20:28 UTC*
 *Historical records are stored in the `archive` directory.*
