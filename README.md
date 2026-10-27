@@ -60,6 +60,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
   > Incremental rust builds up to 92x faster than cargo/rustc
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Rod292/3d-home-tv-os](https://github.com/Rod292/3d-home-tv-os)
+  > Scan your home, turn it into a live 3D model, and make it your TV's home screen — lights wired in. A...
+
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/FastDialogueSidon](https://github.com/higurashi-ai/FastDialogueSidon)
   > Fast two-speaker dialogue separation: Triton and TensorRT backends for FastDialogueSidon
@@ -73,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 13:22:43 UTC*
+*Last updated at 2026-10-27 14:19:58 UTC*
 *Historical records are stored in the `archive` directory.*
