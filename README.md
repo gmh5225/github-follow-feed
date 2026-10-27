@@ -66,10 +66,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ExpOrx/IDAChef](https://github.com/ExpOrx/IDAChef) to [classic130/IDAChef](https://github.com/classic130/IDAChef)
   > A [CyberChef](https://github.com/gchq/CyberChef)-style recipe/operation toolkit embedded in IDA Pro ...
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [Rod292/3d-home-tv-os](https://github.com/Rod292/3d-home-tv-os)
-  > Scan your home, turn it into a live 3D model, and make it your TV's home screen — lights wired in. A...
-
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [DilawarShafiq/nietzschian-debugger](https://github.com/DilawarShafiq/nietzschian-debugger)
   > It won't fix your bug. It'll fix you. The debugger that hands the question back instead of the answe...
@@ -93,6 +89,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Simple Python implementation of HQC,  a code-based KEM.
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [mjosaarinen/mlkem-native](https://github.com/mjosaarinen/mlkem-native)
   > Secure, fast, and portable C90 implementation of ML-KEM / FIPS 203
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
+  > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [openai/math](https://github.com/openai/math)
@@ -101,7 +99,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [emd22/satellite](https://github.com/emd22/satellite)
   > Project for Visualization course
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [JuliaReach/ReachabilityAnalysis.jl](https://github.com/JuliaReach/ReachabilityAnalysis.jl)
+  > Computing reachable states of dynamical systems in Julia
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AlgebraicJulia/Catlab.jl](https://github.com/AlgebraicJulia/Catlab.jl)
+  > A framework for applied category theory in the Julia language
+
 
 ---
-*Last updated at 2026-10-27 17:12:26 UTC*
+*Last updated at 2026-10-27 18:15:03 UTC*
 *Historical records are stored in the `archive` directory.*
