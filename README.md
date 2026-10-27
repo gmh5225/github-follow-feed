@@ -40,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [evilsocket/audit](https://github.com/evilsocket/audit)
   > An 8-stage vulnerability-discovery agent.
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [zdypro888/icrypto](https://github.com/zdypro888/icrypto)
+  > apple iOS system crypto framework
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fabio-rovai/open-ontologies](https://github.com/fabio-rovai/open-ontologies)
   > Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof a...
@@ -51,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [keiichiw](https://github.com/keiichiw)
 - 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [teorth/erdosproblems](https://github.com/teorth/erdosproblems)
   > A community database for the problems on the erdosproblems.com site
+
+### [minaminao](https://github.com/minaminao)
+- 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/FastDialogueSidon](https://github.com/higurashi-ai/FastDialogueSidon)
+  > Fast two-speaker dialogue separation: Triton and TensorRT backends for FastDialogueSidon
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
@@ -65,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-27 08:25:09 UTC*
+*Last updated at 2026-10-27 09:21:01 UTC*
 *Historical records are stored in the `archive` directory.*
