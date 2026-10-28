@@ -59,9 +59,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > Open-source skills for designing and reviewing software with AI agents
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [lukasschwarz/elster-mcp-server](https://github.com/lukasschwarz/elster-mcp-server)
-  > Model Context Protocol (MCP) server for ELSTER (German tax portal). Submit UStVA, prepare EUER/ESt, ...
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [koopthekoopa/wii-ipl](https://github.com/koopthekoopa/wii-ipl)
+  > Wii Menu Decompilation brought to you by fans.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [divagr18/qwenputer](https://github.com/divagr18/qwenputer)
+  > A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gate...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [math0ne/retrack-tracker](https://github.com/math0ne/retrack-tracker)
@@ -72,7 +76,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
   > Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [leanEthereum/axiom](https://github.com/leanEthereum/axiom)
+  > A Rust consensus client for Lean Ethereum research
+
 
 ---
-*Last updated at 2026-10-28 15:13:08 UTC*
+*Last updated at 2026-10-28 16:14:58 UTC*
 *Historical records are stored in the `archive` directory.*
