@@ -49,6 +49,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) to [Mr-xn/tongjiang-lab](https://github.com/Mr-xn/tongjiang-lab)
   > Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight)
+  > Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within application...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
+  > A dynamic library providing Virtualization-based process isolation capabilities
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
   > Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vi...
@@ -76,17 +82,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Retrack for Polyend Tracker: a from-scratch 4-track looper firmware for the original Polyend Tracker
 - 🌟 👤 [patois](https://github.com/patois) Starred [rrbranco/ScudoAllocator](https://github.com/rrbranco/ScudoAllocator)
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+  > 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
   > Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
 
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [leanEthereum/axiom](https://github.com/leanEthereum/axiom)
-  > A Rust consensus client for Lean Ethereum research
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [autotwin/automesh](https://github.com/autotwin/automesh)
-  > Automatic mesh generation.
-
 
 ---
-*Last updated at 2026-10-28 17:12:24 UTC*
+*Last updated at 2026-10-28 18:16:42 UTC*
 *Historical records are stored in the `archive` directory.*
