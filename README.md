@@ -21,6 +21,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Android-Bakso-Simulator-Mod](https://github.com/BryanGIG/Android-Bakso-Simulator-Mod) to [CrackerCat/Android-Bakso-Simulator-Mod](https://github.com/CrackerCat/Android-Bakso-Simulator-Mod)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Ojol-The-Game-Mod](https://github.com/BryanGIG/Ojol-The-Game-Mod) to [CrackerCat/Ojol-The-Game-Mod](https://github.com/CrackerCat/Ojol-The-Game-Mod)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Android-School-Cafetaria-Simulator](https://github.com/BryanGIG/Android-School-Cafetaria-Simulator) to [CrackerCat/Android-School-Cafetaria-Simulator](https://github.com/CrackerCat/Android-School-Cafetaria-Simulator)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [HexHive/beanpod_fiasco](https://github.com/HexHive/beanpod_fiasco) to [CrackerCat/beanpod_fiasco](https://github.com/CrackerCat/beanpod_fiasco)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LovelyTeams/LovelyHawk](https://github.com/LovelyTeams/LovelyHawk) to [CrackerCat/LovelyHawk](https://github.com/CrackerCat/LovelyHawk)
+  > LovelyRes — Linux 应急响应工具（Tauri v2 + TypeScript），线下防御赛离线使用
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [GreatV/oar-ocr](https://github.com/GreatV/oar-ocr) to [CrackerCat/oar-ocr](https://github.com/CrackerCat/oar-ocr)
+  > A native Rust toolkit for OCR, document layout analysis, and vision-language document understanding.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LovelyTeams/LovelyWinInspect](https://github.com/LovelyTeams/LovelyWinInspect) to [CrackerCat/LovelyWinInspect](https://github.com/CrackerCat/LovelyWinInspect)
+  > Windows 安全基线核查与应急响应工作台（Rust + GPUI）
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LovelyTeams/LovelyCarve](https://github.com/LovelyTeams/LovelyCarve) to [CrackerCat/LovelyCarve](https://github.com/CrackerCat/LovelyCarve)
+  > a forensic carver with a soft heart · 基于 Rust、Tauri 2 与 Vue 3 的桌面磁盘取证与数据恢复工具：只读解析镜像、文件系统与加密卷，提供原类型预览...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LovelyTeams/LovelyMiscLab](https://github.com/LovelyTeams/LovelyMiscLab) to [CrackerCat/LovelyMiscLab](https://github.com/CrackerCat/LovelyMiscLab)
+  > 面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering)
@@ -30,6 +41,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [xenia-canary/xenia-canary](https://github.com/xenia-canary/xenia-canary)
   > Xbox 360 Emulator Research Project 
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab)
+  > Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) to [Mr-xn/tongjiang-lab](https://github.com/Mr-xn/tongjiang-lab)
+  > Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app
+
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
+  > Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vi...
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [macro-inc/macro](https://github.com/macro-inc/macro)
+  > Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/sideband](https://github.com/momo5502/sideband)
 
@@ -37,7 +60,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [math0ne/retrack-tracker](https://github.com/math0ne/retrack-tracker)
   > Retrack for Polyend Tracker: a from-scratch 4-track looper firmware for the original Polyend Tracker
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/eth-rnd-archive](https://github.com/ethereum/eth-rnd-archive)
+  > Message Archive of the Eth R&D Discord
+
 
 ---
-*Last updated at 2026-10-28 11:12:25 UTC*
+*Last updated at 2026-10-28 12:19:43 UTC*
 *Historical records are stored in the `archive` directory.*
