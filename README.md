@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
+  > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Magica.io-Mod-Menu](https://github.com/BryanGIG/Magica.io-Mod-Menu) to [CrackerCat/Magica.io-Mod-Menu](https://github.com/CrackerCat/Magica.io-Mod-Menu)
   > Mod Menu For Magica.io Game
@@ -18,7 +22,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Ojol-The-Game-Mod](https://github.com/BryanGIG/Ojol-The-Game-Mod) to [CrackerCat/Ojol-The-Game-Mod](https://github.com/CrackerCat/Ojol-The-Game-Mod)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Android-School-Cafetaria-Simulator](https://github.com/BryanGIG/Android-School-Cafetaria-Simulator) to [CrackerCat/Android-School-Cafetaria-Simulator](https://github.com/CrackerCat/Android-School-Cafetaria-Simulator)
 
+### [Iamgublin](https://github.com/Iamgublin)
+- 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [xenia-canary/xenia-canary](https://github.com/xenia-canary/xenia-canary)
+  > Xbox 360 Emulator Research Project 
+
 
 ---
-*Last updated at 2026-10-28 08:18:08 UTC*
+*Last updated at 2026-10-28 09:15:20 UTC*
 *Historical records are stored in the `archive` directory.*
