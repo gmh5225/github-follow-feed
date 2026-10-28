@@ -56,6 +56,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A dynamic library providing Virtualization-based process isolation capabilities
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cua-lite/cua-lite](https://github.com/cua-lite/cua-lite)
   > CUA-Lite: An Open Platform for Computer-Use Agents
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [iamaisim/ProjectAirSim](https://github.com/iamaisim/ProjectAirSim)
+  > Project AirSim is Microsoft's evolution of AirSim, an advanced simulation platform for building, tra...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
+  > A standard API for single-agent reinforcement learning environments, with popular reference environm...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)
+  > A standard API for multi-agent reinforcement learning environments, with popular reference environme...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [minitap-ai/mobile-use](https://github.com/minitap-ai/mobile-use)
+  > AI agents can now use real Android and iOS apps, just like a human.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM)
+  > An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use)
+  > 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)
+  > let your agent control your phone
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
@@ -66,6 +80,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > Open-source skills for designing and reviewing software with AI agents
+
+### [gakonst](https://github.com/gakonst)
+- 🚀 👤 [gakonst](https://github.com/gakonst) Made [nanocodexyz/egress](https://github.com/nanocodexyz/egress) public
+  > Run nanocode-ts agents on a user's ChatGPT or Claude plan on Cloudflare Workers and Vercel: plan sig...
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [koopthekoopa/wii-ipl](https://github.com/koopthekoopa/wii-ipl)
@@ -79,10 +97,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [divagr18/qwenputer](https://github.com/divagr18/qwenputer)
   > A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gate...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
+  > Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and...
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [math0ne/retrack-tracker](https://github.com/math0ne/retrack-tracker)
   > Retrack for Polyend Tracker: a from-scratch 4-track looper firmware for the original Polyend Tracker
 - 🌟 👤 [patois](https://github.com/patois) Starred [rrbranco/ScudoAllocator](https://github.com/rrbranco/ScudoAllocator)
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [KarpelesLab/ledger_implant_osint](https://github.com/KarpelesLab/ledger_implant_osint)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [trezor/trezor-hardware](https://github.com/trezor/trezor-hardware)
+  > :wrench: Hardware design of Trezor
+
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [githubnext/ace](https://github.com/githubnext/ace)
+  > A tool for building software with your team, locally.
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [githubnext/chopin](https://github.com/githubnext/chopin)
+  > Let's compose rich plans together
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
@@ -96,5 +129,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-28 19:11:21 UTC*
+*Last updated at 2026-10-28 20:14:13 UTC*
 *Historical records are stored in the `archive` directory.*
