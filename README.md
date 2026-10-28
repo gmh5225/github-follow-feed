@@ -70,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness)
   > let your agent control your phone
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [JSBSim-Team/jsbsim](https://github.com/JSBSim-Team/jsbsim)
+  > An open source flight dynamics & control software library
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [PteroLabsAI/PteroSim-UAV-Simulator](https://github.com/PteroLabsAI/PteroSim-UAV-Simulator)
+  > UAV simulation platform for development, testing, and research.
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
@@ -117,17 +121,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [simonw](https://github.com/simonw) Starred [githubnext/chopin](https://github.com/githubnext/chopin)
   > Let's compose rich plans together
 
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
-  > Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [khanhduytran0/LiveSimBooter](https://github.com/khanhduytran0/LiveSimBooter)
-  > Boot iOS simulator on jailed iOS without JIT
-
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [nathanshauer/phasefield-jr-py](https://github.com/nathanshauer/phasefield-jr-py)
-  > A simple one file Python project to run 2D phase field problems with linear quadrilaterals
+### [weak1337](https://github.com/weak1337)
+- 🌟 👤 [weak1337](https://github.com/weak1337) Starred [NotRequiem/swtpm-detector](https://github.com/NotRequiem/swtpm-detector)
+  > Detection for every software TPM, TPM passthrough, TPM proxying, EDS/EK/PCR spoofing, and VMs
 
 
 ---
-*Last updated at 2026-10-28 20:14:13 UTC*
+*Last updated at 2026-10-28 21:11:40 UTC*
 *Historical records are stored in the `archive` directory.*
