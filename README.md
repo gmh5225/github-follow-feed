@@ -12,6 +12,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
   > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [PteroLabsAI/PteroSim-UAV-Simulator](https://github.com/PteroLabsAI/PteroSim-UAV-Simulator)
+  > UAV simulation platform for development, testing, and research.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NotRequiem/swtpm-detector](https://github.com/NotRequiem/swtpm-detector)
+  > Detection for every software TPM, TPM passthrough, TPM proxying, EDS/EK/PCR spoofing, and VMs
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware)
+  > State-of-the-art virtual machine detection
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Magica.io-Mod-Menu](https://github.com/BryanGIG/Magica.io-Mod-Menu) to [CrackerCat/Magica.io-Mod-Menu](https://github.com/CrackerCat/Magica.io-Mod-Menu)
   > Mod Menu For Magica.io Game
@@ -88,6 +96,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [gakonst](https://github.com/gakonst)
 - 🚀 👤 [gakonst](https://github.com/gakonst) Made [nanocodexyz/egress](https://github.com/nanocodexyz/egress) public
   > Run nanocode-ts agents on a user's ChatGPT or Claude plan on Cloudflare Workers and Vercel: plan sig...
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
+  > Postgres rewritten in Rust, now faster than Postgres and Clickhouse
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [koopthekoopa/wii-ipl](https://github.com/koopthekoopa/wii-ipl)
@@ -96,14 +106,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [I3IT/Detect.Remote.ShadowSnapshot.Dump](https://github.com/I3IT/Detect.Remote.ShadowSnapshot.Dump) to [killvxk/Detect.Remote.ShadowSnapshot.Dump](https://github.com/killvxk/Detect.Remote.ShadowSnapshot.Dump)
   > Detect Remote Local Credentials Dumping using a Shadow Snapshot
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [divagr18/qwenputer](https://github.com/divagr18/qwenputer)
-  > A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gate...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mcncarl/yichen-skills](https://github.com/mcncarl/yichen-skills)
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
   > Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [NotRequiem/swtpm-detector](https://github.com/NotRequiem/swtpm-detector)
+  > Detection for every software TPM, TPM passthrough, TPM proxying, EDS/EK/PCR spoofing, and VMs
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [math0ne/retrack-tracker](https://github.com/math0ne/retrack-tracker)
@@ -127,5 +136,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-28 21:11:40 UTC*
+*Last updated at 2026-10-28 22:12:31 UTC*
 *Historical records are stored in the `archive` directory.*
