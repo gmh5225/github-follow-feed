@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [n0-computer/sendme](https://github.com/n0-computer/sendme)
+  > A tool to send files and directories, based on iroh
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
   > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
@@ -32,10 +36,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > a forensic carver with a soft heart · 基于 Rust、Tauri 2 与 Vue 3 的桌面磁盘取证与数据恢复工具：只读解析镜像、文件系统与加密卷，提供原类型预览...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LovelyTeams/LovelyMiscLab](https://github.com/LovelyTeams/LovelyMiscLab) to [CrackerCat/LovelyMiscLab](https://github.com/CrackerCat/LovelyMiscLab)
   > 面向取证的节点式可视化工作台 —— 像 ComfyUI 一样搭工作流，专为编码解密、隐写取证、图像分析、密码学而生。
-
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering)
-  > Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DroidKali/iot-firmware-vuln-hunting](https://github.com/DroidKali/iot-firmware-vuln-hunting) to [CrackerCat/iot-firmware-vuln-hunting](https://github.com/CrackerCat/iot-firmware-vuln-hunting)
+  > IoT Firmware Vulnerability Hunting Skill
 
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [xenia-canary/xenia-canary](https://github.com/xenia-canary/xenia-canary)
@@ -58,15 +60,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open-source skills for designing and reviewing software with AI agents
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
-  > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
-  > Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/sideband](https://github.com/momo5502/sideband)
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [math0ne/retrack-tracker](https://github.com/math0ne/retrack-tracker)
   > Retrack for Polyend Tracker: a from-scratch 4-track looper firmware for the original Polyend Tracker
+- 🌟 👤 [patois](https://github.com/patois) Starred [rrbranco/ScudoAllocator](https://github.com/rrbranco/ScudoAllocator)
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/eth-rnd-archive](https://github.com/ethereum/eth-rnd-archive)
@@ -78,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-28 13:13:44 UTC*
+*Last updated at 2026-10-28 14:14:01 UTC*
 *Historical records are stored in the `archive` directory.*
