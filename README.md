@@ -93,12 +93,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > Open-source skills for designing and reviewing software with AI agents
 
-### [gakonst](https://github.com/gakonst)
-- 🚀 👤 [gakonst](https://github.com/gakonst) Made [nanocodexyz/egress](https://github.com/nanocodexyz/egress) public
-  > Run nanocode-ts agents on a user's ChatGPT or Claude plan on Cloudflare Workers and Vercel: plan sig...
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [malisper/pgrust](https://github.com/malisper/pgrust)
-  > Postgres rewritten in Rust, now faster than Postgres and Clickhouse
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [koopthekoopa/wii-ipl](https://github.com/koopthekoopa/wii-ipl)
   > Wii Menu Decompilation brought to you by fans.
@@ -136,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-28 22:12:31 UTC*
+*Last updated at 2026-10-28 23:11:40 UTC*
 *Historical records are stored in the `archive` directory.*
