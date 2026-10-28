@@ -54,6 +54,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within application...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
   > A dynamic library providing Virtualization-based process isolation capabilities
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cua-lite/cua-lite](https://github.com/cua-lite/cua-lite)
+  > CUA-Lite: An Open Platform for Computer-Use Agents
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail)
@@ -82,15 +84,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Retrack for Polyend Tracker: a from-scratch 4-track looper firmware for the original Polyend Tracker
 - 🌟 👤 [patois](https://github.com/patois) Starred [rrbranco/ScudoAllocator](https://github.com/rrbranco/ScudoAllocator)
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
-  > 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of...
-
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
   > Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [khanhduytran0/LiveSimBooter](https://github.com/khanhduytran0/LiveSimBooter)
+  > Boot iOS simulator on jailed iOS without JIT
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [nathanshauer/phasefield-jr-py](https://github.com/nathanshauer/phasefield-jr-py)
+  > A simple one file Python project to run 2D phase field problems with linear quadrilaterals
 
 
 ---
-*Last updated at 2026-10-28 18:16:42 UTC*
+*Last updated at 2026-10-28 19:11:21 UTC*
 *Historical records are stored in the `archive` directory.*
