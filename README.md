@@ -53,7 +53,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [macro-inc/macro](https://github.com/macro-inc/macro)
   > Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked ...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
+  > Open-source skills for designing and reviewing software with AI agents
+
 ### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
+  > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
+  > Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/sideband](https://github.com/momo5502/sideband)
 
 ### [patois](https://github.com/patois)
@@ -64,7 +72,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/eth-rnd-archive](https://github.com/ethereum/eth-rnd-archive)
   > Message Archive of the Eth R&D Discord
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
+  > Run ARM64 Linux userspace and desktop applications on iPhone and iPad.
+
 
 ---
-*Last updated at 2026-10-28 12:19:43 UTC*
+*Last updated at 2026-10-28 13:13:44 UTC*
 *Historical records are stored in the `archive` directory.*
