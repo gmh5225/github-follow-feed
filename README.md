@@ -59,17 +59,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > Open-source skills for designing and reviewing software with AI agents
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/sideband](https://github.com/momo5502/sideband)
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [lukasschwarz/elster-mcp-server](https://github.com/lukasschwarz/elster-mcp-server)
+  > Model Context Protocol (MCP) server for ELSTER (German tax portal). Submit UStVA, prepare EUER/ESt, ...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [math0ne/retrack-tracker](https://github.com/math0ne/retrack-tracker)
   > Retrack for Polyend Tracker: a from-scratch 4-track looper firmware for the original Polyend Tracker
 - 🌟 👤 [patois](https://github.com/patois) Starred [rrbranco/ScudoAllocator](https://github.com/rrbranco/ScudoAllocator)
-
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/eth-rnd-archive](https://github.com/ethereum/eth-rnd-archive)
-  > Message Archive of the Eth R&D Discord
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [mxhm11cr/LinuxRunner](https://github.com/mxhm11cr/LinuxRunner)
@@ -77,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-28 14:14:01 UTC*
+*Last updated at 2026-10-28 15:13:08 UTC*
 *Historical records are stored in the `archive` directory.*
