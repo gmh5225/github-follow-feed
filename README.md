@@ -22,17 +22,22 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Ojol-The-Game-Mod](https://github.com/BryanGIG/Ojol-The-Game-Mod) to [CrackerCat/Ojol-The-Game-Mod](https://github.com/CrackerCat/Ojol-The-Game-Mod)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [BryanGIG/Android-School-Cafetaria-Simulator](https://github.com/BryanGIG/Android-School-Cafetaria-Simulator) to [CrackerCat/Android-School-Cafetaria-Simulator](https://github.com/CrackerCat/Android-School-Cafetaria-Simulator)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [morluto/awesome-reverse-engineering](https://github.com/morluto/awesome-reverse-engineering)
+  > Curated reverse-engineering tools and learning resources for binaries, apps, firmware, formats, and ...
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [xenia-canary/xenia-canary](https://github.com/xenia-canary/xenia-canary)
   > Xbox 360 Emulator Research Project 
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
-  > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
-  > Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [momo5502/sideband](https://github.com/momo5502/sideband)
+
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [math0ne/retrack-tracker](https://github.com/math0ne/retrack-tracker)
+  > Retrack for Polyend Tracker: a from-scratch 4-track looper firmware for the original Polyend Tracker
 
 
 ---
-*Last updated at 2026-10-28 10:13:46 UTC*
+*Last updated at 2026-10-28 11:12:25 UTC*
 *Historical records are stored in the `archive` directory.*
