@@ -26,7 +26,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [xenia-canary/xenia-canary](https://github.com/xenia-canary/xenia-canary)
   > Xbox 360 Emulator Research Project 
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlphaPixel/slughorn](https://github.com/AlphaPixel/slughorn)
+  > Library for shoehorning the Slug text/graphics GPU rendering library into projects.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
+  > Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and...
+
 
 ---
-*Last updated at 2026-10-28 09:15:20 UTC*
+*Last updated at 2026-10-28 10:13:46 UTC*
 *Historical records are stored in the `archive` directory.*
