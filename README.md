@@ -63,6 +63,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [koopthekoopa/wii-ipl](https://github.com/koopthekoopa/wii-ipl)
   > Wii Menu Decompilation brought to you by fans.
 
+### [killvxk](https://github.com/killvxk)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [I3IT/Detect.Remote.ShadowSnapshot.Dump](https://github.com/I3IT/Detect.Remote.ShadowSnapshot.Dump) to [killvxk/Detect.Remote.ShadowSnapshot.Dump](https://github.com/killvxk/Detect.Remote.ShadowSnapshot.Dump)
+  > Detect Remote Local Credentials Dumping using a Shadow Snapshot
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [divagr18/qwenputer](https://github.com/divagr18/qwenputer)
   > A computer, compiled into the weights of a language model. An exact CPU inside Qwen3.5-4B, with Gate...
@@ -79,8 +83,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [unbalancedparentheses](https://github.com/unbalancedparentheses)
 - 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [leanEthereum/axiom](https://github.com/leanEthereum/axiom)
   > A Rust consensus client for Lean Ethereum research
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [autotwin/automesh](https://github.com/autotwin/automesh)
+  > Automatic mesh generation.
 
 
 ---
-*Last updated at 2026-10-28 16:14:58 UTC*
+*Last updated at 2026-10-28 17:12:24 UTC*
 *Historical records are stored in the `archive` directory.*
