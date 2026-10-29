@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [Diegovsky/riff](https://github.com/Diegovsky/riff)
+  > Native Spotify client for the GNOME desktop.
+
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs)
   > Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for ...
@@ -26,5 +30,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-29 09:15:12 UTC*
+*Last updated at 2026-10-29 10:13:21 UTC*
 *Historical records are stored in the `archive` directory.*
