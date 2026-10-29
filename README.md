@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djskncxm/DuckDroid2](https://github.com/djskncxm/DuckDroid2) to [CrackerCat/DuckDroid2](https://github.com/CrackerCat/DuckDroid2)
+  > Android 模拟执行 C++为主
+
 ### [DoranekoSystems](https://github.com/DoranekoSystems)
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [75u2u/AlterEgOS](https://github.com/75u2u/AlterEgOS)
 
@@ -15,10 +19,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [opencompl/veir](https://github.com/opencompl/veir)
   > Verified Intermediate Representation
 
-### [holly-hacker](https://github.com/holly-hacker)
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [aryabhuptani/nyan-qwen3.5-4b](https://github.com/aryabhuptani/nyan-qwen3.5-4b)
-  > Qwen3.5-4B catgirl neuron steering research: reproducible experiments and validation
-
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > Fastest and cheapest web agent
@@ -29,5 +29,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-29 13:13:53 UTC*
+*Last updated at 2026-10-29 14:14:37 UTC*
 *Historical records are stored in the `archive` directory.*
