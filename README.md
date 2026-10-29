@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [djskncxm/DuckDroid2](https://github.com/djskncxm/DuckDroid2) to [CrackerCat/DuckDroid2](https://github.com/CrackerCat/DuckDroid2)
   > Android 模拟执行 C++为主
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) to [CrackerCat/smsofdeath](https://github.com/CrackerCat/smsofdeath)
+  > remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.
 
 ### [DoranekoSystems](https://github.com/DoranekoSystems)
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [75u2u/AlterEgOS](https://github.com/75u2u/AlterEgOS)
@@ -14,6 +16,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs)
   > Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for ...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript)
+  > Embedded Scripting Language Designed for C++
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [opencompl/veir](https://github.com/opencompl/veir)
@@ -29,5 +35,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-29 15:13:14 UTC*
+*Last updated at 2026-10-29 16:15:21 UTC*
 *Historical records are stored in the `archive` directory.*
