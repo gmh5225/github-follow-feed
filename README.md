@@ -20,7 +20,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [woshigenm/CVE-2026-98260](https://github.com/woshigenm/CVE-2026-98260) to [CrackerCat/CVE-2026-98260](https://github.com/CrackerCat/CVE-2026-98260)
   > Android LPE (CVE-2026-98260) on Honor MagicPad3 Pro 13.3 (YLP-W00), kernel 6.12.38 — PoC/EXP, uid-0 ...
 
+### [WhiteNightShadow](https://github.com/WhiteNightShadow)
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs)
+  > Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for ...
+
 
 ---
-*Last updated at 2026-10-29 02:18:54 UTC*
+*Last updated at 2026-10-29 03:16:40 UTC*
 *Historical records are stored in the `archive` directory.*
