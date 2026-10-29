@@ -42,11 +42,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lovisdotio/video-to-game](https://github.com/lovisdotio/video-to-game)
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [bochum-crypto/subexponential-ecdl](https://github.com/bochum-crypto/subexponential-ecdl)
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
 
 
 ---
-*Last updated at 2026-10-29 18:16:38 UTC*
+*Last updated at 2026-10-29 19:11:10 UTC*
 *Historical records are stored in the `archive` directory.*
