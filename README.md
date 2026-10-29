@@ -49,7 +49,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [verus-lang/verus](https://github.com/verus-lang/verus)
+  > Verified Rust for low-level systems code
+
 
 ---
-*Last updated at 2026-10-29 19:11:10 UTC*
+*Last updated at 2026-10-29 20:13:36 UTC*
 *Historical records are stored in the `archive` directory.*
