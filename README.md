@@ -21,6 +21,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs)
   > Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for ...
 
+### [archercreat](https://github.com/archercreat)
+- 🌟 👤 [archercreat](https://github.com/archercreat) Starred [readmsr/CpuidFaultNoHv](https://github.com/readmsr/CpuidFaultNoHv)
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [qybaihe/bla](https://github.com/qybaihe/bla)
   > 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bun...
@@ -42,9 +45,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lovisdotio/video-to-game](https://github.com/lovisdotio/video-to-game)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coleleavitt/unlace](https://github.com/coleleavitt/unlace)
-
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [bochum-crypto/subexponential-ecdl](https://github.com/bochum-crypto/subexponential-ecdl)
 
@@ -58,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-29 22:12:19 UTC*
+*Last updated at 2026-10-29 23:11:50 UTC*
 *Historical records are stored in the `archive` directory.*
