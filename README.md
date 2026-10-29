@@ -13,9 +13,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [DoranekoSystems](https://github.com/DoranekoSystems)
 - 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [75u2u/AlterEgOS](https://github.com/75u2u/AlterEgOS)
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🚀 👤 [NUL0x4C](https://github.com/NUL0x4C) Made [Maldev-Academy/TpDirectCallbackHijack](https://github.com/Maldev-Academy/TpDirectCallbackHijack) public
+  > Remote process injection via TP_DIRECT.Callback hijack
+
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
 - 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs)
   > Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for ...
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [qybaihe/bla](https://github.com/qybaihe/bla)
+  > 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bun...
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [qybaihe/bla](https://github.com/qybaihe/bla) to [enovella/bla](https://github.com/enovella/bla)
+  > 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bun...
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript)
@@ -29,11 +39,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast)
   > Fastest and cheapest web agent
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lovisdotio/video-to-game](https://github.com/lovisdotio/video-to-game)
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [seedds/nxnative](https://github.com/seedds/nxnative)
   > Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO re...
 
 
 ---
-*Last updated at 2026-10-29 17:12:07 UTC*
+*Last updated at 2026-10-29 18:16:38 UTC*
 *Historical records are stored in the `archive` directory.*
