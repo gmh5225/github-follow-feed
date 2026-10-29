@@ -42,6 +42,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [lovisdotio/video-to-game](https://github.com/lovisdotio/video-to-game)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coleleavitt/unlace](https://github.com/coleleavitt/unlace)
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [bochum-crypto/subexponential-ecdl](https://github.com/bochum-crypto/subexponential-ecdl)
 
@@ -55,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-29 21:12:04 UTC*
+*Last updated at 2026-10-29 22:12:19 UTC*
 *Historical records are stored in the `archive` directory.*
