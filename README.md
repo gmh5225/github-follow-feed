@@ -53,18 +53,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image)
   > 澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community wh...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
-  > Abliteration without the weights — projective refusal steering as a GLP vector + fail-closed boot ho...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
-  > Just another story about dragons...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ducvd89/Bloodborne-Android](https://github.com/ducvd89/Bloodborne-Android)
-  > Bloodborne for Android: GSR2/FSR 3.1 + LSFG, on-screen controller. Tested on Snapdragon 8 Gen 2 and ...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [primo-solver/primo](https://github.com/primo-solver/primo)
-  > Primo: a paper-grounded SMT solver built from first principles.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ConstexprCore/perfect_hash](https://github.com/ConstexprCore/perfect_hash)
-  > A compile-time perfect hash implementation
-
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)
   > A free, open source C# framework for making games, or your own game engine. Direct access to native ...
@@ -88,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 19:10:00 UTC*
+*Last updated at 2026-10-30 20:20:30 UTC*
 *Historical records are stored in the `archive` directory.*
