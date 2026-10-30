@@ -62,6 +62,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Bloodborne for Android: GSR2/FSR 3.1 + LSFG, on-screen controller. Tested on Snapdragon 8 Gen 2 and ...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [primo-solver/primo](https://github.com/primo-solver/primo)
   > Primo: a paper-grounded SMT solver built from first principles.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ConstexprCore/perfect_hash](https://github.com/ConstexprCore/perfect_hash)
+  > A compile-time perfect hash implementation
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)
+  > A free, open source C# framework for making games, or your own game engine. Direct access to native ...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [pingw33n/openrb-338](https://github.com/pingw33n/openrb-338)
@@ -82,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 18:13:37 UTC*
+*Last updated at 2026-10-30 19:10:00 UTC*
 *Historical records are stored in the `archive` directory.*
