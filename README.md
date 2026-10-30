@@ -12,34 +12,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
   > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yaklang/DropYourGunKid](https://github.com/yaklang/DropYourGunKid) to [CrackerCat/DropYourGunKid](https://github.com/CrackerCat/DropYourGunKid)
-  > DYGK: Web deception and honeypot defenses against automated AI security agents
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Maldev-Academy/TpDirectCallbackHijack](https://github.com/Maldev-Academy/TpDirectCallbackHijack) to [CrackerCat/TpDirectCallbackHijack](https://github.com/CrackerCat/TpDirectCallbackHijack)
-  > Remote process injection via TP_DIRECT.Callback hijack
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Mas0nShi/CVE-2026-112445](https://github.com/Mas0nShi/CVE-2026-112445) to [CrackerCat/CVE-2026-112445](https://github.com/CrackerCat/CVE-2026-112445)
-  > CVE-2026-112445: The Simplest macOS Local Privilege Escalation to Date
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge) to [CrackerCat/dsh-purge](https://github.com/CrackerCat/dsh-purge)
-  > DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts pe...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs) to [CrackerCat/ff-ruyijs](https://github.com/CrackerCat/ff-ruyijs)
-  > Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [qybaihe/bla](https://github.com/qybaihe/bla) to [CrackerCat/bla](https://github.com/CrackerCat/bla)
-  > 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bun...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [YuKongA/CVE-2026-98260](https://github.com/YuKongA/CVE-2026-98260) to [CrackerCat/YuKongA-CVE-2026-98260](https://github.com/CrackerCat/YuKongA-CVE-2026-98260)
-  > 6.12.69-android16-6-g242e1a07f878
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ivanpotatoes/KozDbg](https://github.com/ivanpotatoes/KozDbg) to [CrackerCat/KozDbg](https://github.com/CrackerCat/KozDbg)
-  > Open-source x64dbg anti-anti-debug plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Vip4pt/IDA-Pro-Zh-CN](https://github.com/Vip4pt/IDA-Pro-Zh-CN) to [CrackerCat/IDA-Pro-Zh-CN](https://github.com/CrackerCat/IDA-Pro-Zh-CN)
-  > ida pro 9.5 bate1 的汉化插件
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak) to [CrackerCat/OnePlus16-Jailbreak](https://github.com/CrackerCat/OnePlus16-Jailbreak)
-  > OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + CVE-2026-98260 + KernelSU / KernelSU Next / BakaSU /...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fuqiuluo/RanchuWoA](https://github.com/fuqiuluo/RanchuWoA) to [CrackerCat/RanchuWoA](https://github.com/CrackerCat/RanchuWoA)
-  > RanchuWoA — Windows on ARM 原生 Android 模拟器，支持Pixel、ColorOS、HyperOS等系统
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhoupb01/unidroid](https://github.com/zhoupb01/unidroid) to [CrackerCat/unidroid](https://github.com/CrackerCat/unidroid)
-  > A low-memory unidbg: run Android arm64 and armv7 .so files on a computer, in Rust on Unicorn. About ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales) to [CrackerCat/dragon-tales](https://github.com/CrackerCat/dragon-tales)
-  > Just another story about dragons...
-
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA)
   > Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites...
@@ -61,6 +33,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
   > Just another story about dragons...
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [FranklinF25/cve-2026-15176](https://github.com/FranklinF25/cve-2026-15176)
+  > CVE-2026-15176 — NGINX alias+rewrite heap overflow: analysis, differential lab, PoC (WIP)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [stillbigjosh/adaptix-serverless-c2](https://github.com/stillbigjosh/adaptix-serverless-c2)
+  > Serverless C2 transport plugin for AdaptixC2 v1.2 using AWS Lambda + DynamoDB as the relay infrastru...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [stillbigjosh/adaptix-serverless-c2](https://github.com/stillbigjosh/adaptix-serverless-c2) to [killvxk/adaptix-serverless-c2](https://github.com/killvxk/adaptix-serverless-c2)
+  > Serverless C2 transport plugin for AdaptixC2 v1.2 using AWS Lambda + DynamoDB as the relay infrastru...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [speedyfriend433/CVE-2026-43664](https://github.com/speedyfriend433/CVE-2026-43664)
+  > AirPods Bluetooth MAC Address Disclosure via NSUserDefaults
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jayy-hub1490/php8511-exact-build-poc](https://github.com/jayy-hub1490/php8511-exact-build-poc)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MchinaMd57764/AVETemporalPoC-CVE-2026-112705](https://github.com/MchinaMd57764/AVETemporalPoC-CVE-2026-112705)
+  > PoC & panic evidence for CVE-2026-112705: AppleAVE2 kernel OOB write on iOS 27.0.1 (fixed in 27.2) v...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
@@ -87,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 15:12:31 UTC*
+*Last updated at 2026-10-30 16:14:12 UTC*
 *Historical records are stored in the `archive` directory.*
