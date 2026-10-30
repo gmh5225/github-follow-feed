@@ -4,13 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [woshigenm/CVE-2026-97555](https://github.com/woshigenm/CVE-2026-97555) to [CrackerCat/CVE-2026-97555](https://github.com/CrackerCat/CVE-2026-97555)
-  > CVE-2026-97555: heap overflow in the Linux SMB client DACL rewrite (cifs.ko) — analysis, POC, and an...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AzirX1337/CVE-2026-98260-PMX110-Root618-Jailbreak](https://github.com/AzirX1337/CVE-2026-98260-PMX110-Root618-Jailbreak) to [CrackerCat/CVE-2026-98260-PMX110-Root618-Jailbreak](https://github.com/CrackerCat/CVE-2026-98260-PMX110-Root618-Jailbreak)
-  > CVE-2026-98260 (exec: posix timer UAF) LKM jailbreak for OPPO Find X10 Pro Max (PMX110) and OnePlus ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [quyicheng03-boop/CVE-2026-98260-dada-android](https://github.com/quyicheng03-boop/CVE-2026-98260-dada-android) to [CrackerCat/CVE-2026-98260-dada-android](https://github.com/CrackerCat/CVE-2026-98260-dada-android)
-  > Verified CVE-2026-98260 Android port for Xiaomi 15 dada OS4.0.0.22.XOCCNXM
+### [ajkhoury](https://github.com/ajkhoury)
+- 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [ValeLang/Vale](https://github.com/ValeLang/Vale)
+  > Compiler for the Vale programming language - http://vale.dev/
+- 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [valen-lang/Valen](https://github.com/valen-lang/Valen)
+  > Compiler for the Valen programming language
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [kevinz917/superhuman-polytopia-bot](https://github.com/kevinz917/superhuman-polytopia-bot)
+  > A Polytopia bot trained from scratch with self-play reinforcement learning
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
@@ -27,5 +29,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 02:18:49 UTC*
+*Last updated at 2026-10-30 03:16:20 UTC*
 *Historical records are stored in the `archive` directory.*
