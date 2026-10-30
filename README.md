@@ -76,7 +76,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [shinh](https://github.com/shinh) Starred [akawashiro/procinsh](https://github.com/akawashiro/procinsh)
   > Explore Linux processes in 3D. A real-time process inspector powered by Rust, eBPF and Three.js.
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [dbreunig/nesformer](https://github.com/dbreunig/nesformer)
+  > An NES CPU compiled into the weights of a stock Qwen3.5 model
+
 
 ---
-*Last updated at 2026-10-30 17:10:18 UTC*
+*Last updated at 2026-10-30 18:13:37 UTC*
 *Historical records are stored in the `archive` directory.*
