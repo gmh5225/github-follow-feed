@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
+  > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yaklang/DropYourGunKid](https://github.com/yaklang/DropYourGunKid) to [CrackerCat/DropYourGunKid](https://github.com/CrackerCat/DropYourGunKid)
   > DYGK: Web deception and honeypot defenses against automated AI security agents
@@ -41,6 +45,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
   > Abliteration without the weights — projective refusal steering as a GLP vector + fail-closed boot ho...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
+  > Just another story about dragons...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [pingw33n/openrb-338](https://github.com/pingw33n/openrb-338)
@@ -51,7 +57,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)
   > Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, ...
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
+  > Just another story about dragons...
+
 
 ---
-*Last updated at 2026-10-30 10:13:28 UTC*
+*Last updated at 2026-10-30 11:10:54 UTC*
 *Historical records are stored in the `archive` directory.*
