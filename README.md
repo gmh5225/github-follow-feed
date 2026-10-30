@@ -40,6 +40,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA)
   > Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [t8y2/dbx](https://github.com/t8y2/dbx)
+  > 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQ...
+
+### [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD)
+- 🍴 👤 [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD) Forked [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) to [R3nzTheCodeGOD/llama.cpp](https://github.com/R3nzTheCodeGOD/llama.cpp)
+  > LLM inference in C/C++
+
 ### [ajkhoury](https://github.com/ajkhoury)
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [ValeLang/Vale](https://github.com/ValeLang/Vale)
   > Compiler for the Vale programming language - http://vale.dev/
@@ -57,6 +65,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Just another story about dragons...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ducvd89/Bloodborne-Android](https://github.com/ducvd89/Bloodborne-Android)
   > Bloodborne for Android: GSR2/FSR 3.1 + LSFG, on-screen controller. Tested on Snapdragon 8 Gen 2 and ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [primo-solver/primo](https://github.com/primo-solver/primo)
+  > Primo: a paper-grounded SMT solver built from first principles.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [pingw33n/openrb-338](https://github.com/pingw33n/openrb-338)
@@ -77,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 12:20:17 UTC*
+*Last updated at 2026-10-30 13:13:49 UTC*
 *Historical records are stored in the `archive` directory.*
