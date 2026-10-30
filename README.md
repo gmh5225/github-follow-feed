@@ -4,6 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [yaklang/DropYourGunKid](https://github.com/yaklang/DropYourGunKid) to [CrackerCat/DropYourGunKid](https://github.com/CrackerCat/DropYourGunKid)
+  > DYGK: Web deception and honeypot defenses against automated AI security agents
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA)
+  > Awesome Reverse Engineering Anything: tools, projects, case studies and research papers for websites...
+
 ### [ajkhoury](https://github.com/ajkhoury)
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [ValeLang/Vale](https://github.com/ValeLang/Vale)
   > Compiler for the Vale programming language - http://vale.dev/
@@ -25,5 +33,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 08:17:42 UTC*
+*Last updated at 2026-10-30 09:15:05 UTC*
 *Historical records are stored in the `archive` directory.*
