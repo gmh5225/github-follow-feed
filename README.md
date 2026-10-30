@@ -19,8 +19,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [pingw33n/openrb-338](https://github.com/pingw33n/openrb-338)
   > ReBirth RB-338 reimplementation
+- 🌟 👤 [patois](https://github.com/patois) Starred [semierendonmez-commits/polyend-tracker-lab](https://github.com/semierendonmez-commits/polyend-tracker-lab)
+
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)
+  > Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, ...
 
 
 ---
-*Last updated at 2026-10-30 01:15:04 UTC*
+*Last updated at 2026-10-30 02:18:49 UTC*
 *Historical records are stored in the `archive` directory.*
