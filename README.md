@@ -52,6 +52,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PoC & panic evidence for CVE-2026-112705: AppleAVE2 kernel OOB write on iOS 27.0.1 (fixed in 27.2) v...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image)
   > 澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community wh...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk) to [killvxk/Mac.apk](https://github.com/killvxk/Mac.apk)
+  > Mac.apk: Run Android apps natively on Apple Silicon Macs
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL)
@@ -78,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 22:09:31 UTC*
+*Last updated at 2026-10-30 23:09:34 UTC*
 *Historical records are stored in the `archive` directory.*
