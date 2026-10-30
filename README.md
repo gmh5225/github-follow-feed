@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
   > Just another story about dragons...
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [hrydgard/pspautotests](https://github.com/hrydgard/pspautotests)
+  > A test suite based on the pspautotests svn.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [FranklinF25/cve-2026-15176](https://github.com/FranklinF25/cve-2026-15176)
   > CVE-2026-15176 — NGINX alias+rewrite heap overflow: analysis, differential lab, PoC (WIP)
@@ -46,6 +50,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [jayy-hub1490/php8511-exact-build-poc](https://github.com/jayy-hub1490/php8511-exact-build-poc)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [MchinaMd57764/AVETemporalPoC-CVE-2026-112705](https://github.com/MchinaMd57764/AVETemporalPoC-CVE-2026-112705)
   > PoC & panic evidence for CVE-2026-112705: AppleAVE2 kernel OOB write on iOS 27.0.1 (fixed in 27.2) v...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wzc520pyfm/gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image)
+  > 澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community wh...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
@@ -72,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 16:14:12 UTC*
+*Last updated at 2026-10-30 17:10:18 UTC*
 *Historical records are stored in the `archive` directory.*
