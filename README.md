@@ -54,9 +54,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [valen-lang/Valen](https://github.com/valen-lang/Valen)
   > Compiler for the Valen programming language
 
-### [karalabe](https://github.com/karalabe)
-- 🌟 👤 [karalabe](https://github.com/karalabe) Starred [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-  > The agent that grows with you
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
+  > Just another story about dragons...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
@@ -87,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 13:13:49 UTC*
+*Last updated at 2026-10-30 14:14:03 UTC*
 *Historical records are stored in the `archive` directory.*
