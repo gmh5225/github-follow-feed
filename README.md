@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [54](https://github.com/54)
+- 🌟 👤 [54](https://github.com/54) Starred [amosblomqvist/learnharness](https://github.com/amosblomqvist/learnharness)
+  > Agent harness for learning difficult things.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
   > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
@@ -81,11 +85,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [shinh](https://github.com/shinh) Starred [akawashiro/procinsh](https://github.com/akawashiro/procinsh)
   > Explore Linux processes in 3D. A real-time process inspector powered by Rust, eBPF and Three.js.
 
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
-  > Just another story about dragons...
-
 
 ---
-*Last updated at 2026-10-30 14:14:03 UTC*
+*Last updated at 2026-10-30 15:12:31 UTC*
 *Historical records are stored in the `archive` directory.*
