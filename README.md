@@ -27,6 +27,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open-source x64dbg anti-anti-debug plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Vip4pt/IDA-Pro-Zh-CN](https://github.com/Vip4pt/IDA-Pro-Zh-CN) to [CrackerCat/IDA-Pro-Zh-CN](https://github.com/CrackerCat/IDA-Pro-Zh-CN)
   > ida pro 9.5 bate1 的汉化插件
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak) to [CrackerCat/OnePlus16-Jailbreak](https://github.com/CrackerCat/OnePlus16-Jailbreak)
+  > OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + CVE-2026-98260 + KernelSU / KernelSU Next / BakaSU /...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [fuqiuluo/RanchuWoA](https://github.com/fuqiuluo/RanchuWoA) to [CrackerCat/RanchuWoA](https://github.com/CrackerCat/RanchuWoA)
+  > RanchuWoA — Windows on ARM 原生 Android 模拟器，支持Pixel、ColorOS、HyperOS等系统
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zhoupb01/unidroid](https://github.com/zhoupb01/unidroid) to [CrackerCat/unidroid](https://github.com/CrackerCat/unidroid)
+  > A low-memory unidbg: run Android arm64 and armv7 .so files on a computer, in Rust on Unicorn. About ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales) to [CrackerCat/dragon-tales](https://github.com/CrackerCat/dragon-tales)
+  > Just another story about dragons...
 
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [reacher-z/Awesome-REA](https://github.com/reacher-z/Awesome-REA)
@@ -47,6 +55,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Abliteration without the weights — projective refusal steering as a GLP vector + fail-closed boot ho...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
   > Just another story about dragons...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ducvd89/Bloodborne-Android](https://github.com/ducvd89/Bloodborne-Android)
+  > Bloodborne for Android: GSR2/FSR 3.1 + LSFG, on-screen controller. Tested on Snapdragon 8 Gen 2 and ...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [pingw33n/openrb-338](https://github.com/pingw33n/openrb-338)
@@ -57,11 +67,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)
   > Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, ...
 
+### [shinh](https://github.com/shinh)
+- 🌟 👤 [shinh](https://github.com/shinh) Starred [akawashiro/procinsh](https://github.com/akawashiro/procinsh)
+  > Explore Linux processes in 3D. A real-time process inspector powered by Rust, eBPF and Three.js.
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
   > Just another story about dragons...
 
 
 ---
-*Last updated at 2026-10-30 11:10:54 UTC*
+*Last updated at 2026-10-30 12:20:17 UTC*
 *Historical records are stored in the `archive` directory.*
