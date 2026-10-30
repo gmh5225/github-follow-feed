@@ -10,10 +10,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [valen-lang/Valen](https://github.com/valen-lang/Valen)
   > Compiler for the Valen programming language
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [kevinz917/superhuman-polytopia-bot](https://github.com/kevinz917/superhuman-polytopia-bot)
-  > A Polytopia bot trained from scratch with self-play reinforcement learning
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightless](https://github.com/msuiche/weightless)
   > Abliteration without the weights — projective refusal steering as a GLP vector + fail-closed boot ho...
@@ -29,5 +25,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-30 03:16:20 UTC*
+*Last updated at 2026-10-30 04:15:26 UTC*
 *Historical records are stored in the `archive` directory.*
