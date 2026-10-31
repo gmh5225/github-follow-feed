@@ -43,6 +43,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Fail-closed egress guard for OpenWrt transparent proxies: selected destinations are never reached di...
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) to [Mr-xn/sapper-v2](https://github.com/Mr-xn/sapper-v2)
   > Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Int...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+  > Towards a More Autonomous Agent System
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [owngoal-dev/OpenAVB](https://github.com/owngoal-dev/OpenAVB)
@@ -69,6 +71,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Architecture-first Codex skill for open-model behavioral interventions on dual DGX Spark
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Aevonix/FlashAlign](https://github.com/Aevonix/FlashAlign)
   > ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Alway...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [coleleavitt/ida-mcp-server](https://github.com/coleleavitt/ida-mcp-server)
+  > IDA Pro MCP Server Plugin — 170+ tools for IDA Pro 9.33 with Hex-Rays decompiler integration
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
@@ -92,5 +96,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-31 15:09:30 UTC*
+*Last updated at 2026-10-31 16:10:56 UTC*
 *Historical records are stored in the `archive` directory.*
