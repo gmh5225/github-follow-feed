@@ -68,10 +68,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
   > Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android...
 
-### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xOx-Liy-Codez-XD-oXo/shitcube](https://github.com/xOx-Liy-Codez-XD-oXo/shitcube)
-  > Shit gamecube emulator
-
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Devolutions/jiffshot](https://github.com/Devolutions/jiffshot)
   > Fast screenshot, screen recording and annotation tool built in pure Rust with Rustolonia
@@ -110,5 +106,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-31 17:08:50 UTC*
+*Last updated at 2026-10-31 18:12:12 UTC*
 *Historical records are stored in the `archive` directory.*
