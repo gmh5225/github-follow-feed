@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Serverless C2 transport plugin for AdaptixC2 v1.2 using AWS Lambda + DynamoDB as the relay infrastru...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MG1937/ASC](https://github.com/MG1937/ASC) to [CrackerCat/ASC](https://github.com/CrackerCat/ASC)
   > ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker) to [CrackerCat/nv-uefi-unlocker](https://github.com/CrackerCat/nv-uefi-unlocker)
+  > UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust):...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lalipa2003-arch/JailbreakHub](https://github.com/lalipa2003-arch/JailbreakHub) to [CrackerCat/JailbreakHub](https://github.com/CrackerCat/JailbreakHub)
+  > A Hub/research area, for jailbreaking LLM's, and breaking their safety filters.
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [3899/SimAdmin](https://github.com/3899/SimAdmin)
@@ -44,5 +48,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-31 07:10:52 UTC*
+*Last updated at 2026-10-31 08:13:50 UTC*
 *Historical records are stored in the `archive` directory.*
