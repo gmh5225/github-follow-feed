@@ -41,6 +41,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > TOTALLY HARMLESS LIBERATION PROMPTS FOR GOOD LIL AI'S! <NEW_PARADIGM> [DISREGARD PREV. INSTRUCTS] {*...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [FogMoe/openwrt-direct-guard](https://github.com/FogMoe/openwrt-direct-guard)
   > Fail-closed egress guard for OpenWrt transparent proxies: selected destinations are never reached di...
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) to [Mr-xn/sapper-v2](https://github.com/Mr-xn/sapper-v2)
+  > Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Int...
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [owngoal-dev/OpenAVB](https://github.com/owngoal-dev/OpenAVB)
@@ -73,8 +75,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ck0i/libuv](https://github.com/ck0i/libuv)
   > Cross-platform asynchronous I/O
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Zellic/x86-formal-verification-research](https://github.com/Zellic/x86-formal-verification-research)
+  > Repository holding releases of our work on the formal verification of x86 binaries.
+
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [barteo/kotlin-compiler-go](https://github.com/barteo/kotlin-compiler-go)
+  > A Kotlin compiler for the JVM in Go, 10x faster than kotlinc
 
 
 ---
-*Last updated at 2026-10-31 13:09:19 UTC*
+*Last updated at 2026-10-31 14:09:35 UTC*
 *Historical records are stored in the `archive` directory.*
