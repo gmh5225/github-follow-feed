@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust):...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lalipa2003-arch/JailbreakHub](https://github.com/lalipa2003-arch/JailbreakHub) to [CrackerCat/JailbreakHub](https://github.com/CrackerCat/JailbreakHub)
   > A Hub/research area, for jailbreaking LLM's, and breaking their safety filters.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global) to [CrackerCat/artex-global](https://github.com/CrackerCat/artex-global)
+  > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Autumn-27/ScopeSentry-UI](https://github.com/Autumn-27/ScopeSentry-UI) to [CrackerCat/ScopeSentry-UI](https://github.com/CrackerCat/ScopeSentry-UI)
+  > ScopeSentry工具的前端UI
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [3899/SimAdmin](https://github.com/3899/SimAdmin)
@@ -45,8 +49,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
   > Git for Global Law: the law of every country as one git history, each country's record a submodule, ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jiayuqi7813/crack-open-models-dgx-spark](https://github.com/jiayuqi7813/crack-open-models-dgx-spark)
+  > Architecture-first Codex skill for open-model behavioral interventions on dual DGX Spark
 
 
 ---
-*Last updated at 2026-10-31 08:13:50 UTC*
+*Last updated at 2026-10-31 09:11:01 UTC*
 *Historical records are stored in the `archive` directory.*
