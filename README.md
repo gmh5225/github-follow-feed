@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MG1937/ASC](https://github.com/MG1937/ASC) to [CrackerCat/ASC](https://github.com/CrackerCat/ASC)
   > ASC is a super FAST and lightweight Android decompiler designed for Agents/Mobile Researchers.
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [3899/SimAdmin](https://github.com/3899/SimAdmin)
+  > 🎉 面向Debian蜂窝CPE、随身WiFi、软路由类设备的 SIM/eSIM、蜂窝网络、短信、DDNS和系统状态管理系统。
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
   > Git for Global Law: the law of every country as one git history, each country's record a submodule, ...
@@ -36,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-31 04:12:26 UTC*
+*Last updated at 2026-10-31 05:10:15 UTC*
 *Historical records are stored in the `archive` directory.*
