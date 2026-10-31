@@ -42,9 +42,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [FogMoe/openwrt-direct-guard](https://github.com/FogMoe/openwrt-direct-guard)
   > Fail-closed egress guard for OpenWrt transparent proxies: selected destinations are never reached di...
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [owngoal-dev/OpenAVB](https://github.com/owngoal-dev/OpenAVB)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [owngoal-dev/OpenSEP](https://github.com/owngoal-dev/OpenSEP)
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
   > Git for Global Law: the law of every country as one git history, each country's record a submodule, ...
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [can1357/llvm-sass](https://github.com/can1357/llvm-sass)
+  > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Zellic/x86-formal-verification-research](https://github.com/Zellic/x86-formal-verification-research)
+  > Repository holding releases of our work on the formal verification of x86 binaries.
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xOx-Liy-Codez-XD-oXo/shitcube](https://github.com/xOx-Liy-Codez-XD-oXo/shitcube)
@@ -66,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-31 12:14:30 UTC*
+*Last updated at 2026-10-31 13:09:19 UTC*
 *Historical records are stored in the `archive` directory.*
