@@ -60,9 +60,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Zellic/x86-formal-verification-research](https://github.com/Zellic/x86-formal-verification-research)
   > Repository holding releases of our work on the formal verification of x86 binaries.
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [biolend83/tubehaus](https://github.com/biolend83/tubehaus)
+  > A private YouTube client: self-hosted web version (one docker compose) and native apps for Android, ...
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [norish-recipes/norish](https://github.com/norish-recipes/norish)
+  > Norish - A realtime, self-hosted recipe app for families & friends 
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym)
+  > Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android...
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xOx-Liy-Codez-XD-oXo/shitcube](https://github.com/xOx-Liy-Codez-XD-oXo/shitcube)
   > Shit gamecube emulator
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Devolutions/jiffshot](https://github.com/Devolutions/jiffshot)
+  > Fast screenshot, screen recording and annotation tool built in pure Rust with Rustolonia
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
@@ -85,6 +97,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Cross-platform asynchronous I/O
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Zellic/x86-formal-verification-research](https://github.com/Zellic/x86-formal-verification-research)
   > Repository holding releases of our work on the formal verification of x86 binaries.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [akazemi67/LinuxMalwareTechniques](https://github.com/akazemi67/LinuxMalwareTechniques)
+  > Contains materials for my technical presentation exploring Linux malware tradecraft—from userland an...
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
@@ -96,5 +110,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-31 16:10:56 UTC*
+*Last updated at 2026-10-31 17:08:50 UTC*
 *Historical records are stored in the `archive` directory.*
