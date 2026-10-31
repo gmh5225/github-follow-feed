@@ -70,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Aevonix/FlashAlign](https://github.com/Aevonix/FlashAlign)
   > ReAlign models instantly, on demand. Per-request alignment for verified users and channels, or Alway...
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [ocornut/imgui](https://github.com/ocornut/imgui)
+  > Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [can1357/llvm-sass](https://github.com/can1357/llvm-sass)
   > The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
@@ -78,11 +82,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [Zellic/x86-formal-verification-research](https://github.com/Zellic/x86-formal-verification-research)
   > Repository holding releases of our work on the formal verification of x86 binaries.
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)
+  > A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa...
+
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [barteo/kotlin-compiler-go](https://github.com/barteo/kotlin-compiler-go)
   > A Kotlin compiler for the JVM in Go, 10x faster than kotlinc
 
 
 ---
-*Last updated at 2026-10-31 14:09:35 UTC*
+*Last updated at 2026-10-31 15:09:30 UTC*
 *Historical records are stored in the `archive` directory.*
