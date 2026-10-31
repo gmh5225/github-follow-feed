@@ -46,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
   > Git for Global Law: the law of every country as one git history, each country's record a submodule, ...
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [xOx-Liy-Codez-XD-oXo/shitcube](https://github.com/xOx-Liy-Codez-XD-oXo/shitcube)
+  > Shit gamecube emulator
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
   > Git for Global Law: the law of every country as one git history, each country's record a submodule, ...
@@ -60,11 +64,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [ck0i/libuv](https://github.com/ck0i/libuv)
   > Cross-platform asynchronous I/O
 
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno)
-  > Apple Silicon device emulator.
-
 
 ---
-*Last updated at 2026-10-31 11:08:58 UTC*
+*Last updated at 2026-10-31 12:14:30 UTC*
 *Historical records are stored in the `archive` directory.*
