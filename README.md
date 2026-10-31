@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [TGP482/XIII-MongooseFix](https://github.com/TGP482/XIII-MongooseFix)
+  > A patch for XIII (2003), fixing bugs and adding improvements.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Securityinbits/case-bundles](https://github.com/Securityinbits/case-bundles)
   > Sanitized Microsoft Defender for Endpoint telemetry from real lab attack emulations (RMM abuse, pre-...
@@ -53,6 +57,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
   > Git for Global Law: the law of every country as one git history, each country's record a submodule, ...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [joostw/shall](https://github.com/joostw/shall)
+  > A reference implementation of POSIX.1-2024
+- 🍴 👤 [eteran](https://github.com/eteran) Forked [joostw/shall](https://github.com/joostw/shall) to [eteran/shall](https://github.com/eteran/shall)
+  > A reference implementation of POSIX.1-2024
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [can1357/llvm-sass](https://github.com/can1357/llvm-sass)
@@ -106,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-10-31 19:08:31 UTC*
+*Last updated at 2026-10-31 20:10:06 UTC*
 *Historical records are stored in the `archive` directory.*
