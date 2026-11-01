@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift)
+  > On-device Speech AI for Apple Silicon
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
   > The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in...
@@ -43,5 +47,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-01 15:09:02 UTC*
+*Last updated at 2026-11-01 16:10:52 UTC*
 *Historical records are stored in the `archive` directory.*
