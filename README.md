@@ -24,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro)
   > Bypass llm guardrails by confusing it with fabricated tool output.
 
+### [mytechnotalent](https://github.com/mytechnotalent)
+- 🍴 👤 [mytechnotalent](https://github.com/mytechnotalent) Forked [crackmesone/crackmesone_python](https://github.com/crackmesone/crackmesone_python) to [mytechnotalent/crackmesone_python](https://github.com/mytechnotalent/crackmesone_python)
+  > source code for crackmes.one
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro)
   > Bypass llm guardrails by confusing it with fabricated tool output.
@@ -39,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-01 14:09:43 UTC*
+*Last updated at 2026-11-01 15:09:02 UTC*
 *Historical records are stored in the `archive` directory.*
