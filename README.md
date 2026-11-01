@@ -38,8 +38,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [hadipourh/sboxanalyzer](https://github.com/hadipourh/sboxanalyzer)
   > An easy-to-use and open-source tool for differential, linear, differential-linear, boomerang and int...
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Certora/CaptureTheSpec](https://github.com/Certora/CaptureTheSpec)
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [dbreunig/nesformer](https://github.com/dbreunig/nesformer)
+  > An NES CPU compiled into the weights of a stock Qwen3.5 model
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
@@ -49,5 +50,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-01 21:09:26 UTC*
+*Last updated at 2026-11-01 22:09:30 UTC*
 *Historical records are stored in the `archive` directory.*
