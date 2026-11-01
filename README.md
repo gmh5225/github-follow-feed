@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift)
   > On-device Speech AI for Apple Silicon
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [wixette/huashuo](https://github.com/wixette/huashuo)
+  > 在 Mac 电脑上制作多角色有声书 | Multi-voice audiobooks, made on your Mac
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
@@ -27,10 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro)
   > Bypass llm guardrails by confusing it with fabricated tool output.
-
-### [mytechnotalent](https://github.com/mytechnotalent)
-- 🍴 👤 [mytechnotalent](https://github.com/mytechnotalent) Forked [crackmesone/crackmesone_python](https://github.com/crackmesone/crackmesone_python) to [mytechnotalent/crackmesone_python](https://github.com/mytechnotalent/crackmesone_python)
-  > source code for crackmes.one
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ozcancelik/harfiyen](https://github.com/ozcancelik/harfiyen)
+  > Tarayıcıda çalışan Türkçe konuşma tanıma ve altyazı aracı. Otomatik noktalama, canlı transkript ve a...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro)
@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Certora/CaptureTheSpec](https://github.com/Certora/CaptureTheSpec)
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [arjaythedev/twelve-dollar-server-challenge](https://github.com/arjaythedev/twelve-dollar-server-challenge)
+  > Implement one small API on SQLite in any language; we benchmark it on a $12 server (1 vCPU, 2 GB)
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
   > Find leaked secrets everywhere.
@@ -49,5 +53,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-01 18:12:09 UTC*
+*Last updated at 2026-11-01 19:08:56 UTC*
 *Historical records are stored in the `archive` directory.*
