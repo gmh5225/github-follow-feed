@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
   > The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch)
+  > Nintendo Switch userland code execution using Civilization 7 game cartridge
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🍴 👤 [holly-hacker](https://github.com/holly-hacker) Forked [ch32-rs/ch32-hal](https://github.com/ch32-rs/ch32-hal) to [holly-hacker/ch32-hal](https://github.com/holly-hacker/ch32-hal)
   > A Rust HAL implementation for the CH32V0, CH32V1, CH32V2, CH32V3, CH32X0, CH32L1 family, with Embass...
@@ -47,5 +51,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-01 16:10:52 UTC*
+*Last updated at 2026-11-01 17:08:49 UTC*
 *Historical records are stored in the `archive` directory.*
