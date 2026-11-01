@@ -55,7 +55,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [petitstrawberry/Scarlet](https://github.com/petitstrawberry/Scarlet)
   > Rust operating system kernel and reference distribution.
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro)
+  > Bypass llm guardrails by confusing it with fabricated tool output.
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [hadipourh/sboxanalyzer](https://github.com/hadipourh/sboxanalyzer)
+  > An easy-to-use and open-source tool for differential, linear, differential-linear, boomerang and int...
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Certora/CaptureTheSpec](https://github.com/Certora/CaptureTheSpec)
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
+  > Find leaked secrets everywhere.
+
 
 ---
-*Last updated at 2026-11-01 11:08:53 UTC*
+*Last updated at 2026-11-01 12:15:45 UTC*
 *Historical records are stored in the `archive` directory.*
