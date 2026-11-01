@@ -10,6 +10,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [wixette/huashuo](https://github.com/wixette/huashuo)
   > 在 Mac 电脑上制作多角色有声书 | Multi-voice audiobooks, made on your Mac
 
+### [cfallin](https://github.com/cfallin)
+- 🍴 👤 [cfallin](https://github.com/cfallin) Forked [rust-lang/rustup](https://github.com/rust-lang/rustup) to [cfallin/rustup](https://github.com/cfallin/rustup)
+  > The Rust toolchain installer
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
   > The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in...
@@ -45,5 +49,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-01 20:10:11 UTC*
+*Last updated at 2026-11-01 21:09:26 UTC*
 *Historical records are stored in the `archive` directory.*
