@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea)
   > The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🍴 👤 [holly-hacker](https://github.com/holly-hacker) Forked [ch32-rs/ch32-hal](https://github.com/ch32-rs/ch32-hal) to [holly-hacker/ch32-hal](https://github.com/holly-hacker/ch32-hal)
+  > A Rust HAL implementation for the CH32V0, CH32V1, CH32V2, CH32V3, CH32X0, CH32L1 family, with Embass...
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🚀 👤 [lazyparser](https://github.com/lazyparser) Made [rv2036/riscv-distros](https://github.com/rv2036/riscv-distros) public
   > A website listing available Linux and BSD distros for RISC-V
@@ -15,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [petitstrawberry/Scarlet](https://github.com/petitstrawberry/Scarlet)
   > Rust operating system kernel and reference distribution.
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro)
+  > Bypass llm guardrails by confusing it with fabricated tool output.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [DavidCarliez/trustmebro](https://github.com/DavidCarliez/trustmebro)
@@ -31,5 +39,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-01 13:09:33 UTC*
+*Last updated at 2026-11-01 14:09:43 UTC*
 *Historical records are stored in the `archive` directory.*
