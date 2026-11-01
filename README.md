@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [dbreunig/nesformer](https://github.com/dbreunig/nesformer)
   > An NES CPU compiled into the weights of a stock Qwen3.5 model
 
+### [rnk](https://github.com/rnk)
+- 🍴 👤 [rnk](https://github.com/rnk) Forked [Bitpainter75/FerrumPix](https://github.com/Bitpainter75/FerrumPix) to [rnk/FerrumPix](https://github.com/rnk/FerrumPix)
+  > FerrumPix is a desktop photo management and editing application for Linux,  Windows and macOS.
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks)
   > Find leaked secrets everywhere.
@@ -50,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-01 22:09:30 UTC*
+*Last updated at 2026-11-01 23:09:29 UTC*
 *Historical records are stored in the `archive` directory.*
