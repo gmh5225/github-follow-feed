@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 适用于安卓平台的内核级无痕注入框架
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lord1Egypt/ThothDock](https://github.com/Lord1Egypt/ThothDock) to [CrackerCat/ThothDock](https://github.com/CrackerCat/ThothDock)
   > Docker-compatible userspace container engine for unrooted Android (Docker Engine API 1.41 over Garde...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jedanzig/hyperv-memproc-dll-injection-poc](https://github.com/jedanzig/hyperv-memproc-dll-injection-poc) to [CrackerCat/hyperv-memproc-dll-injection-poc](https://github.com/CrackerCat/hyperv-memproc-dll-injection-poc)
+  > DMA-based DLL injector using MemProcFS/Hyper-V to map and execute payloads inside a guest VM process...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dpejoh/specter](https://github.com/dpejoh/specter) to [CrackerCat/specter](https://github.com/CrackerCat/specter)
+  > Unified Play Integrity and root hiding stack for Android
 
 ### [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD)
 - 🍴 👤 [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD) Forked [rust-lang/rust](https://github.com/rust-lang/rust) to [R3nzTheCodeGOD/rust](https://github.com/R3nzTheCodeGOD/rust)
@@ -38,9 +42,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [skeeto/prospero](https://github.com/skeeto/prospero)
+  > Prospero coding harness
+
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [dis0rder0x00/TrustedHive](https://github.com/dis0rder0x00/TrustedHive)
+  > LPE Proof-of-Concept for Windows 11 abusing TrustedInstaller's Component Based Servicing (CBS) sessi...
+
 ### [peperunas](https://github.com/peperunas)
 - 🌟 👤 [peperunas](https://github.com/peperunas) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and ...
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [ivankovic/omnidiff](https://github.com/ivankovic/omnidiff)
+  > Fast, robust, accurate diffing 
 
 ### [petercunha](https://github.com/petercunha)
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/Frame](https://github.com/petercunha/Frame) public
@@ -56,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 13:13:17 UTC*
+*Last updated at 2026-11-02 14:13:45 UTC*
 *Historical records are stored in the `archive` directory.*
