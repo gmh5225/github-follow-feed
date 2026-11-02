@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
+### [peperunas](https://github.com/peperunas)
+- 🌟 👤 [peperunas](https://github.com/peperunas) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+  > Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and ...
+
 ### [petercunha](https://github.com/petercunha)
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/Frame](https://github.com/petercunha/Frame) public
   > Frame: a generative video studio powered by OpenRouter
@@ -52,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 12:17:41 UTC*
+*Last updated at 2026-11-02 13:13:17 UTC*
 *Historical records are stored in the `archive` directory.*
