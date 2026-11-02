@@ -63,6 +63,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
   > Automate Docker container image updates
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [devploit/php2shell](https://github.com/devploit/php2shell)
+  > CVE-2026-109618 / CVE-2026-109619 pre-auth RCE in PHP session.upload_progress (mod_php): version-awa...
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
@@ -70,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 14:13:45 UTC*
+*Last updated at 2026-11-02 15:12:49 UTC*
 *Historical records are stored in the `archive` directory.*
