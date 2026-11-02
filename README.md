@@ -4,33 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [acceleration3/linux-subsystem-windows](https://github.com/acceleration3/linux-subsystem-windows) to [CrackerCat/linux-subsystem-windows](https://github.com/CrackerCat/linux-subsystem-windows)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [chris124567/cfsolve](https://github.com/chris124567/cfsolve) to [CrackerCat/cfsolve](https://github.com/CrackerCat/cfsolve)
-  > Cloudflare turnstile and challenge page solver in Rust (full reverse, request based)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [morzelowski/FairPlayed](https://github.com/morzelowski/FairPlayed) to [CrackerCat/FairPlayed](https://github.com/CrackerCat/FairPlayed)
-  > Decrypts FairPlay-protected iOS apps without a jailbreak, because apparently Apple considers that a ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AlonsoTlol/DS-Kart-Recompiled](https://github.com/AlonsoTlol/DS-Kart-Recompiled) to [CrackerCat/DS-Kart-Recompiled](https://github.com/CrackerCat/DS-Kart-Recompiled)
-  > Native PC port of Mario Kart DS by static recompilation. Port nativo para PC de Mario Kart DS.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) to [CrackerCat/CivSwitch](https://github.com/CrackerCat/CivSwitch)
-  > Nintendo Switch userland code execution using Civilization 7 game cartridge
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ljc545w/pymmtls](https://github.com/ljc545w/pymmtls) to [CrackerCat/pymmtls](https://github.com/CrackerCat/pymmtls)
-  > python mmtls protocol
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Verlintas/NOIR](https://github.com/Verlintas/NOIR) to [CrackerCat/NOIR](https://github.com/CrackerCat/NOIR)
-  > 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [0rcruxe/pass-ta-key](https://github.com/0rcruxe/pass-ta-key) to [CrackerCat/pass-ta-key](https://github.com/CrackerCat/pass-ta-key)
-  > A PoC tool for the Pass-ta-key Golden Attack, covering the extraction of the Google Password Manager...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) to [CrackerCat/betterleaks](https://github.com/CrackerCat/betterleaks)
-  > Find leaked secrets everywhere.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AndroidReverser-Test/KCLF](https://github.com/AndroidReverser-Test/KCLF) to [CrackerCat/KCLF](https://github.com/CrackerCat/KCLF)
-  > 适用于安卓平台的内核级无痕注入框架
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lord1Egypt/ThothDock](https://github.com/Lord1Egypt/ThothDock) to [CrackerCat/ThothDock](https://github.com/CrackerCat/ThothDock)
-  > Docker-compatible userspace container engine for unrooted Android (Docker Engine API 1.41 over Garde...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jedanzig/hyperv-memproc-dll-injection-poc](https://github.com/jedanzig/hyperv-memproc-dll-injection-poc) to [CrackerCat/hyperv-memproc-dll-injection-poc](https://github.com/CrackerCat/hyperv-memproc-dll-injection-poc)
-  > DMA-based DLL injector using MemProcFS/Hyper-V to map and execute payloads inside a guest VM process...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dpejoh/specter](https://github.com/dpejoh/specter) to [CrackerCat/specter](https://github.com/CrackerCat/specter)
-  > Unified Play Integrity and root hiding stack for Android
-
 ### [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD)
 - 🍴 👤 [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD) Forked [rust-lang/rust](https://github.com/rust-lang/rust) to [R3nzTheCodeGOD/rust](https://github.com/R3nzTheCodeGOD/rust)
   > Empowering everyone to build reliable and efficient software.
@@ -41,6 +14,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills)
+  > 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit)
+  > Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and mo...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Verlintas/NOIR](https://github.com/Verlintas/NOIR)
+  > 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ricardojoserf/axis-RCE](https://github.com/ricardojoserf/axis-RCE)
+  > Unauth RCE on Axis Camera Station (ACS) chaining CVE‑2025‑30026 (Authentication bypass) + CVE‑2025‑3...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ricardojoserf/CVE-2026-63286](https://github.com/ricardojoserf/CVE-2026-63286)
+  > Exploit for CVE-2026-63286: Offline decryptor for AXIS Camera Station (ACS) credentials
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [physicsdolphin/nv-uefi-unlocker](https://github.com/physicsdolphin/nv-uefi-unlocker)
+  > UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust):...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
+  > AI-Powered Dark Web OSINT Tool
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [skeeto/prospero](https://github.com/skeeto/prospero)
@@ -76,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 17:10:13 UTC*
+*Last updated at 2026-11-02 18:14:13 UTC*
 *Historical records are stored in the `archive` directory.*
