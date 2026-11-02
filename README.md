@@ -31,6 +31,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD) Forked [rust-lang/rust](https://github.com/rust-lang/rust) to [R3nzTheCodeGOD/rust](https://github.com/R3nzTheCodeGOD/rust)
   > Empowering everyone to build reliable and efficient software.
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box)
+  > NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots an...
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
@@ -48,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 11:10:47 UTC*
+*Last updated at 2026-11-02 12:17:41 UTC*
 *Historical records are stored in the `archive` directory.*
