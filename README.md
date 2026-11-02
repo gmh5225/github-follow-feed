@@ -27,13 +27,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lord1Egypt/ThothDock](https://github.com/Lord1Egypt/ThothDock) to [CrackerCat/ThothDock](https://github.com/CrackerCat/ThothDock)
   > Docker-compatible userspace container engine for unrooted Android (Docker Engine API 1.41 over Garde...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
+
 ### [petercunha](https://github.com/petercunha)
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/Frame](https://github.com/petercunha/Frame) public
   > Frame: a generative video studio powered by OpenRouter
-
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [AndroidReverser-Test/KCLF](https://github.com/AndroidReverser-Test/KCLF)
-  > 适用于安卓平台的内核级无痕注入框架
 
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
@@ -41,5 +40,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 08:18:04 UTC*
+*Last updated at 2026-11-02 09:16:41 UTC*
 *Historical records are stored in the `archive` directory.*
