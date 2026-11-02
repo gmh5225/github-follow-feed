@@ -73,10 +73,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/Frame](https://github.com/petercunha/Frame) public
   > Frame: a generative video studio powered by OpenRouter
 
-### [simonw](https://github.com/simonw)
-- 🌟 👤 [simonw](https://github.com/simonw) Starred [RikiyaT/lm_understand-logs](https://github.com/RikiyaT/lm_understand-logs)
-  > Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weig...
-
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower)
   > Automate Docker container image updates
@@ -119,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 22:10:48 UTC*
+*Last updated at 2026-11-02 23:10:03 UTC*
 *Historical records are stored in the `archive` directory.*
