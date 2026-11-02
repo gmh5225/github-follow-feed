@@ -4,8 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [acceleration3/linux-subsystem-windows](https://github.com/acceleration3/linux-subsystem-windows) to [CrackerCat/linux-subsystem-windows](https://github.com/CrackerCat/linux-subsystem-windows)
+
+### [petercunha](https://github.com/petercunha)
+- 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/Frame](https://github.com/petercunha/Frame) public
+  > Frame: a generative video studio powered by OpenRouter
+
 
 ---
-*Last updated at 2026-11-02 01:13:14 UTC*
+*Last updated at 2026-11-02 02:16:34 UTC*
 *Historical records are stored in the `archive` directory.*
