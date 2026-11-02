@@ -12,6 +12,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box)
   > NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots an...
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [wevm/solilo](https://github.com/wevm/solilo)
+
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
@@ -31,6 +34,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust):...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
   > AI-Powered Dark Web OSINT Tool
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [akazemi67/LinuxMalwareTechniques](https://github.com/akazemi67/LinuxMalwareTechniques)
+  > Contains materials for my technical presentation exploring Linux malware tradecraft—from userland an...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Lyutoon/CVE-2026-112487](https://github.com/Lyutoon/CVE-2026-112487)
+  > macOS revisiond local privilege escalation to root (CVE-2026-112487)
+
+### [mshumer](https://github.com/mshumer)
+- 🍴 👤 [mshumer](https://github.com/mshumer) Forked [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) to [alpha-athena/juice-shop](https://github.com/alpha-athena/juice-shop)
+  > OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [skeeto/prospero](https://github.com/skeeto/prospero)
@@ -60,11 +71,41 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [devploit/php2shell](https://github.com/devploit/php2shell)
   > CVE-2026-109618 / CVE-2026-109619 pre-auth RCE in PHP session.upload_progress (mod_php): version-awa...
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🚀 👤 [tiagosiebler](https://github.com/tiagosiebler) Made [sieblyio/agent-skills](https://github.com/sieblyio/agent-skills) public
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/agent-skills](https://github.com/sieblyio/agent-skills)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/coinbase-api](https://github.com/sieblyio/coinbase-api)
+  > JavaScript & Node.js SDK for the complete Coinbase APIs and WebSockets, with TypeScript & browser su...
+- 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/coinbase-api](https://github.com/sieblyio/coinbase-api) to [tiagosiebler/coinbase-api](https://github.com/tiagosiebler/coinbase-api)
+  > JavaScript & Node.js SDK for the complete Coinbase APIs and WebSockets, with TypeScript & browser su...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/okx-api](https://github.com/sieblyio/okx-api)
+  > Complete JavaScript & Node.js SDK for the OKX APIs and WebSockets, with TypeScript & browser support...
+- 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/bitget-api](https://github.com/sieblyio/bitget-api) to [tiagosiebler/bitget-api](https://github.com/tiagosiebler/bitget-api)
+  > JavaScript & Node.js SDK for the Bitget APIs and WebSockets, with TypeScript & browser support.
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/gateio-api](https://github.com/sieblyio/gateio-api)
+  > Node.js & JavaScript SDK for the Gate.com (Gate.io) REST APIs, WebSockets & WebSocket APIs. Fully ty...
+- 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/gateio-api](https://github.com/sieblyio/gateio-api) to [tiagosiebler/gatecom-api](https://github.com/tiagosiebler/gatecom-api)
+  > Node.js & JavaScript SDK for the Gate.com (Gate.io) REST APIs, WebSockets & WebSocket APIs. Fully ty...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/bybit-api](https://github.com/sieblyio/bybit-api)
+  > Node.js SDK for the Bybit APIs and WebSockets, with TypeScript & browser support.
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/kucoin-api](https://github.com/sieblyio/kucoin-api)
+  > Node.js & JavaScript SDK for Kucoin REST APIs & WebSockets, with TypeScript & browser support.
+- 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/kucoin-api](https://github.com/sieblyio/kucoin-api) to [tiagosiebler/kucoin-api](https://github.com/tiagosiebler/kucoin-api)
+  > Node.js & JavaScript SDK for Kucoin REST APIs & WebSockets, with TypeScript & browser support.
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/hyperliquid-api](https://github.com/sieblyio/hyperliquid-api)
+  > Complete Hyperliquid JavaScript SDK for REST APIs & WebSockets for all JavaScript & Node.js runtimes...
+- 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/hyperliquid-api](https://github.com/sieblyio/hyperliquid-api) to [tiagosiebler/hyperliquid-api](https://github.com/tiagosiebler/hyperliquid-api)
+  > Complete Hyperliquid JavaScript SDK for REST APIs & WebSockets for all JavaScript & Node.js runtimes...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/binance](https://github.com/sieblyio/binance)
+  > Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, inte...
+- 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/binance](https://github.com/sieblyio/binance) to [tiagosiebler/binance](https://github.com/tiagosiebler/binance)
+  > Node.js & JavaScript SDK for Binance REST APIs & WebSockets, with TypeScript & browser support, inte...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [aicodeking/leanrea](https://github.com/aicodeking/leanrea)
   > One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ...
 
 
 ---
-*Last updated at 2026-11-02 18:14:13 UTC*
+*Last updated at 2026-11-02 19:09:15 UTC*
 *Historical records are stored in the `archive` directory.*
