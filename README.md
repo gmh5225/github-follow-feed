@@ -50,6 +50,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [dis0rder0x00/TrustedHive](https://github.com/dis0rder0x00/TrustedHive)
   > LPE Proof-of-Concept for Windows 11 abusing TrustedInstaller's Component Based Servicing (CBS) sessi...
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [polyend/tracker-ce](https://github.com/polyend/tracker-ce)
+  > Official Polyend Tracker Community Editon for all Polyend Tracker devices.
+
 ### [peperunas](https://github.com/peperunas)
 - 🌟 👤 [peperunas](https://github.com/peperunas) Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
   > Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and ...
@@ -72,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 15:12:49 UTC*
+*Last updated at 2026-11-02 16:13:03 UTC*
 *Historical records are stored in the `archive` directory.*
