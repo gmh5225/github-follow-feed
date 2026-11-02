@@ -8,15 +8,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [R3nzTheCodeGOD](https://github.com/R3nzTheCodeGOD) Forked [rust-lang/rust](https://github.com/rust-lang/rust) to [R3nzTheCodeGOD/rust](https://github.com/R3nzTheCodeGOD/rust)
   > Empowering everyone to build reliable and efficient software.
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [eszter007/matcha-reader](https://github.com/eszter007/matcha-reader)
+  > A fork of CrossPoint e-reader firmware for ESP32 devices, focused on reading Japanese & Chinese book...
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box)
   > NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots an...
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [wevm/solilo](https://github.com/wevm/solilo)
-
-### [holly-hacker](https://github.com/holly-hacker)
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [zhanghao123vip/ai-manju-skills](https://github.com/zhanghao123vip/ai-manju-skills)
@@ -38,6 +36,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Contains materials for my technical presentation exploring Linux malware tradecraft—from userland an...
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Lyutoon/CVE-2026-112487](https://github.com/Lyutoon/CVE-2026-112487)
   > macOS revisiond local privilege escalation to root (CVE-2026-112487)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [nanami-0713/relay-kit](https://github.com/nanami-0713/relay-kit)
+  > Out-of-the-box E2E relay server (relay-e2e/v1) for Cloudflare Workers — one-command deploy. Referenc...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
+  > Craft Anything: understand how any software works, and craft your own.
 
 ### [mshumer](https://github.com/mshumer)
 - 🍴 👤 [mshumer](https://github.com/mshumer) Forked [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) to [alpha-athena/juice-shop](https://github.com/alpha-athena/juice-shop)
@@ -107,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 19:09:15 UTC*
+*Last updated at 2026-11-02 20:10:41 UTC*
 *Historical records are stored in the `archive` directory.*
