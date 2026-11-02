@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [eszter007/matcha-reader](https://github.com/eszter007/matcha-reader)
   > A fork of CrossPoint e-reader firmware for ESP32 devices, focused on reading Japanese & Chinese book...
 
+### [akien-mga](https://github.com/akien-mga)
+- 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [JimmyLefevre/kb](https://github.com/JimmyLefevre/kb) to [akien-mga/kb](https://github.com/akien-mga/kb)
+  > kb single-header C/C++ libraries
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [smarkyie/NSP-Box](https://github.com/smarkyie/NSP-Box)
   > NSP Box: A Switch 2 Game Packager. Experimental Windows tool for lawfully obtained game snapshots an...
@@ -115,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-02 21:10:15 UTC*
+*Last updated at 2026-11-02 22:10:48 UTC*
 *Historical records are stored in the `archive` directory.*
