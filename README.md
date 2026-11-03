@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [tembo/voxl](https://github.com/tembo/voxl)
   > extremely fast web remote desktop streaming
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [sudonoodle/BOF-coerce-ipp](https://github.com/sudonoodle/BOF-coerce-ipp)
+  > Beacon Object File (BOF) to coerce machine account auth via IPP.
 
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [snipersim/snipersim](https://github.com/snipersim/snipersim)
@@ -18,10 +20,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Autumn-27/Norma](https://github.com/Autumn-27/Norma)
-
-### [Mr-xn](https://github.com/Mr-xn)
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow)
-  > DSH 破甲词制作作工作流 
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [oraios/serena](https://github.com/oraios/serena)
@@ -82,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-03 21:09:54 UTC*
+*Last updated at 2026-11-03 22:09:25 UTC*
 *Historical records are stored in the `archive` directory.*
