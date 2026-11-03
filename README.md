@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [snipersim/snipersim](https://github.com/snipersim/snipersim)
   > The Sniper Multi-Core Simulator
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [oraios/serena](https://github.com/oraios/serena)
+  > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE ...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
   > LIST OF ALL MY JAILBREAKS
@@ -28,5 +32,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-03 05:11:59 UTC*
+*Last updated at 2026-11-03 06:19:47 UTC*
 *Historical records are stored in the `archive` directory.*
