@@ -12,6 +12,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [snipersim/snipersim](https://github.com/snipersim/snipersim)
   > The Sniper Multi-Core Simulator
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Autumn-27/Norma](https://github.com/Autumn-27/Norma)
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow)
   > DSH 破甲词制作作工作流 
@@ -20,6 +23,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [oraios/serena](https://github.com/oraios/serena)
   > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE ...
 
+### [brockelmore](https://github.com/brockelmore)
+- 🌟 👤 [brockelmore](https://github.com/brockelmore) Starred [pingdotgg/t3code](https://github.com/pingdotgg/t3code)
+
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
   > Reverse Engineering: Decompiling Binary Code with Large Language Models
@@ -27,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
   > Mac.apk: Run Android apps natively on Apple Silicon Macs
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [anthropics/FlashProve](https://github.com/anthropics/FlashProve)
+  > A research prototype for zero-knowledge proofs of AI inference. Not maintained.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
@@ -37,6 +47,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Mamba SSM architecture
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [stas00/ml-engineering](https://github.com/stas00/ml-engineering)
   > Machine Learning Engineering Open Book
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [safetensors/safetensors](https://github.com/safetensors/safetensors)
+  > Simple, safe way to store and distribute tensors
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
@@ -54,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-03 15:10:14 UTC*
+*Last updated at 2026-11-03 16:13:05 UTC*
 *Historical records are stored in the `archive` directory.*
