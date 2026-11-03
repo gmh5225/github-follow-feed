@@ -21,7 +21,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dis0rder0x00/TrustedHive](https://github.com/dis0rder0x00/TrustedHive) to [CrackerCat/TrustedHive](https://github.com/CrackerCat/TrustedHive)
   > LPE Proof-of-Concept for Windows 11 abusing TrustedInstaller's Component Based Servicing (CBS) sessi...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kuraeow/ultratears](https://github.com/kuraeow/ultratears) to [CrackerCat/ultratears](https://github.com/CrackerCat/ultratears)
-  > Unofficial native Windows port of Tears of the Kingdom 1.4.3 using static recompilation. Builds loca...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [storytold/craft-anything](https://github.com/storytold/craft-anything) to [CrackerCat/craft-anything](https://github.com/CrackerCat/craft-anything)
   > Craft Anything: understand how any software works, and craft your own.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JacksonOnly/DNGuardUnpacker](https://github.com/JacksonOnly/DNGuardUnpacker) to [CrackerCat/DNGuardUnpacker](https://github.com/CrackerCat/DNGuardUnpacker)
@@ -57,7 +56,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [longbridge/nsh](https://github.com/longbridge/nsh)
   > Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in ...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Th0rgal/orb](https://github.com/Th0rgal/orb)
+  > All your AI providers, machines, and agent harnesses in one place. Free & native
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
+  > Towards a More Autonomous Agent System
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
+  > Craft Anything: understand how any software works, and craft your own.
+
+### [zompi2](https://github.com/zompi2)
+- 🌟 👤 [zompi2](https://github.com/zompi2) Starred [LunarWorkshop/VerseVisualEditor](https://github.com/LunarWorkshop/VerseVisualEditor)
+  > A visual editor for the Verse programming language for Unreal Engine.
+
 
 ---
-*Last updated at 2026-11-03 12:16:38 UTC*
+*Last updated at 2026-11-03 13:11:54 UTC*
 *Historical records are stored in the `archive` directory.*
