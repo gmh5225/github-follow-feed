@@ -14,11 +14,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Minglink/dsh-jailbreak-workflow](https://github.com/Minglink/dsh-jailbreak-workflow)
-  > DSH Workflow Lite 插件dsh工作流程插件
+  > DSH 破甲词制作作工作流 
 
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [oraios/serena](https://github.com/oraios/serena)
   > A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE ...
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
+  > Reverse Engineering: Decompiling Binary Code with Large Language Models
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [kksimp/Mac.apk](https://github.com/kksimp/Mac.apk)
@@ -40,13 +44,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [longbridge/nsh](https://github.com/longbridge/nsh)
   > Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in ...
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Th0rgal/orb](https://github.com/Th0rgal/orb)
-  > All your AI providers, machines, and agent harnesses in one place. Free & native
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)
-  > Towards a More Autonomous Agent System
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
-  > Craft Anything: understand how any software works, and craft your own.
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
+  > 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
 
 ### [zompi2](https://github.com/zompi2)
 - 🌟 👤 [zompi2](https://github.com/zompi2) Starred [LunarWorkshop/VerseVisualEditor](https://github.com/LunarWorkshop/VerseVisualEditor)
@@ -54,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-03 14:12:04 UTC*
+*Last updated at 2026-11-03 15:10:14 UTC*
 *Historical records are stored in the `archive` directory.*
