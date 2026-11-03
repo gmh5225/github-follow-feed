@@ -74,11 +74,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
   > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
 
+### [odzhan](https://github.com/odzhan)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [zodiacon/TotalPE2](https://github.com/zodiacon/TotalPE2)
+  > PE Viewer
+
 ### [zompi2](https://github.com/zompi2)
 - 🌟 👤 [zompi2](https://github.com/zompi2) Starred [LunarWorkshop/VerseVisualEditor](https://github.com/LunarWorkshop/VerseVisualEditor)
   > A visual editor for the Verse programming language for Unreal Engine.
 
 
 ---
-*Last updated at 2026-11-03 22:09:25 UTC*
+*Last updated at 2026-11-03 23:09:42 UTC*
 *Historical records are stored in the `archive` directory.*
