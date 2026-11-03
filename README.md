@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
   > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [tembo/voxl](https://github.com/tembo/voxl)
+  > extremely fast web remote desktop streaming
+
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [snipersim/snipersim](https://github.com/snipersim/snipersim)
   > The Sniper Multi-Core Simulator
@@ -47,6 +51,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Simple, safe way to store and distribute tensors
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
   > A Datacenter Scale Distributed Inference Serving Framework
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [sgl-project/genai-bench](https://github.com/sgl-project/genai-bench)
+  > Genai-bench is a powerful benchmark tool designed for comprehensive token-level performance evaluati...
+
+### [khang06](https://github.com/khang06)
+- 🌟 👤 [khang06](https://github.com/khang06) Starred [lurebat/keyboard71](https://github.com/lurebat/keyboard71)
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ivancabrera02/tprtdll-Injection](https://github.com/ivancabrera02/tprtdll-Injection)
@@ -71,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-03 19:09:03 UTC*
+*Last updated at 2026-11-03 20:11:32 UTC*
 *Historical records are stored in the `archive` directory.*
