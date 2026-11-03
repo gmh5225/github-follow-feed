@@ -45,6 +45,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Machine Learning Engineering Open Book
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [safetensors/safetensors](https://github.com/safetensors/safetensors)
   > Simple, safe way to store and distribute tensors
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo)
+  > A Datacenter Scale Distributed Inference Serving Framework
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [ivancabrera02/tprtdll-Injection](https://github.com/ivancabrera02/tprtdll-Injection)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [dis0rder0x00/TrustedHive](https://github.com/dis0rder0x00/TrustedHive)
+  > LPE Proof-of-Concept for Windows 11 abusing TrustedInstaller's Component Based Servicing (CBS) sessi...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [zodiacon/TotalPE2](https://github.com/zodiacon/TotalPE2)
+  > PE Viewer
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
@@ -62,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-03 18:13:15 UTC*
+*Last updated at 2026-11-03 19:09:03 UTC*
 *Historical records are stored in the `archive` directory.*
