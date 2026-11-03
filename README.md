@@ -73,6 +73,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent)
   > 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+  > Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 2...
 
 ### [zompi2](https://github.com/zompi2)
 - 🌟 👤 [zompi2](https://github.com/zompi2) Starred [LunarWorkshop/VerseVisualEditor](https://github.com/LunarWorkshop/VerseVisualEditor)
@@ -80,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-03 20:11:32 UTC*
+*Last updated at 2026-11-03 21:09:54 UTC*
 *Historical records are stored in the `archive` directory.*
