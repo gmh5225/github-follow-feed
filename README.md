@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [S12cybersecurity/CredGuardRuntimeShutdown](https://github.com/S12cybersecurity/CredGuardRuntimeShutdown)
   > Runtime Credential Guard deactivation via \\LSA_ISO_DISABLE_CREDENTIAL_GUARD + LSASS NT hash extract...
 
+### [GJDuck](https://github.com/GJDuck)
+- 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [snipersim/snipersim](https://github.com/snipersim/snipersim)
+  > The Sniper Multi-Core Simulator
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks)
   > LIST OF ALL MY JAILBREAKS
@@ -22,7 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
   > Craft Anything: understand how any software works, and craft your own.
 
+### [mubix](https://github.com/mubix)
+- 🌟 👤 [mubix](https://github.com/mubix) Starred [mubix/gooseguard](https://github.com/mubix/gooseguard)
+
 
 ---
-*Last updated at 2026-11-03 02:16:39 UTC*
+*Last updated at 2026-11-03 03:13:41 UTC*
 *Historical records are stored in the `archive` directory.*
