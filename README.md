@@ -22,15 +22,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [stas00/ml-engineering](https://github.com/stas00/ml-engineering)
   > Machine Learning Engineering Open Book
 
-### [lazyparser](https://github.com/lazyparser)
-- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [tile-ai/tilelang](https://github.com/tile-ai/tilelang) to [kubuds/tilelang-riscv-kubuds](https://github.com/kubuds/tilelang-riscv-kubuds)
-  >  Domain-specific language designed to streamline the development of high-performance GPU/CPU/Acceler...
-
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [storytold/craft-anything](https://github.com/storytold/craft-anything)
   > Craft Anything: understand how any software works, and craft your own.
 
 
 ---
-*Last updated at 2026-11-03 04:13:44 UTC*
+*Last updated at 2026-11-03 05:11:59 UTC*
 *Historical records are stored in the `archive` directory.*
