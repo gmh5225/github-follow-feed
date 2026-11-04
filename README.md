@@ -56,6 +56,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) to [ioncodes/dynasm-rs](https://github.com/ioncodes/dynasm-rs)
   > A dynasm-like tool for rust.
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [S12cybersecurity/HyperLoader](https://github.com/S12cybersecurity/HyperLoader)
+  > Hypervisor isolated shellcode execution environment. Maps host process memory into a guest vCPU, int...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [S12cybersecurity/HyperLoader](https://github.com/S12cybersecurity/HyperLoader) to [killvxk/HyperLoader](https://github.com/killvxk/HyperLoader)
+  > Hypervisor isolated shellcode execution environment. Maps host process memory into a guest vCPU, int...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [anthropics/FlashProve](https://github.com/anthropics/FlashProve)
+  > A research prototype for zero-knowledge proofs of AI inference. Not maintained.
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [CGCookie/retopoflow](https://github.com/CGCookie/retopoflow)
   > A suite of retopology tools for Blender
@@ -70,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-04 22:09:59 UTC*
+*Last updated at 2026-11-04 23:10:05 UTC*
 *Historical records are stored in the `archive` directory.*
