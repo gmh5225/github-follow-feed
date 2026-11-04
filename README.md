@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xSero](https://github.com/0xSero)
+- 🚀 👤 [0xSero](https://github.com/0xSero) Made [0xSero/video-edit](https://github.com/0xSero/video-edit) public
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [bfloat16/enigma_rs](https://github.com/bfloat16/enigma_rs) to [CrackerCat/enigma_rs](https://github.com/CrackerCat/enigma_rs)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [zer0condition/BusterCall](https://github.com/zer0condition/BusterCall) to [CrackerCat/BusterCall](https://github.com/CrackerCat/BusterCall)
@@ -70,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-04 19:08:56 UTC*
+*Last updated at 2026-11-04 20:12:08 UTC*
 *Historical records are stored in the `archive` directory.*
