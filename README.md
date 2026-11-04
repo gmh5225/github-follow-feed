@@ -56,7 +56,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [CGCookie/retopoflow](https://github.com/CGCookie/retopoflow)
   > A suite of retopology tools for Blender
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [YuanheZ/lean-stat-learning-theory](https://github.com/YuanheZ/lean-stat-learning-theory)
+  > [ICML2026] The first, fully verified, sorry-free, large-scale Lean 4 library for statistical learnin...
+
 
 ---
-*Last updated at 2026-11-04 13:11:08 UTC*
+*Last updated at 2026-11-04 14:12:54 UTC*
 *Historical records are stored in the `archive` directory.*
