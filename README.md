@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [skyboundfs/vmpx](https://github.com/skyboundfs/vmpx) to [CrackerCat/vmpx](https://github.com/CrackerCat/vmpx)
   > Static analysis and recovery tooling for VMProtect-protected Windows binaries
 
+### [GJDuck](https://github.com/GJDuck)
+- 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [GJDuck/e9patch](https://github.com/GJDuck/e9patch)
+  > A powerful static binary rewriting tool
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
   > Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. I...
@@ -36,11 +40,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
 
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) to [ioncodes/dynasm-rs](https://github.com/ioncodes/dynasm-rs)
+  > A dynasm-like tool for rust.
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [CGCookie/retopoflow](https://github.com/CGCookie/retopoflow)
   > A suite of retopology tools for Blender
 
 
 ---
-*Last updated at 2026-11-04 09:12:35 UTC*
+*Last updated at 2026-11-04 10:13:20 UTC*
 *Historical records are stored in the `archive` directory.*
