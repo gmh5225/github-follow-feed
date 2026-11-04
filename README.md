@@ -7,6 +7,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [bfloat16/enigma_rs](https://github.com/bfloat16/enigma_rs) to [CrackerCat/enigma_rs](https://github.com/CrackerCat/enigma_rs)
 
+### [cocomelonc](https://github.com/cocomelonc)
+- 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [PacktPublishing/Malware-Development-for-Ethical-Hackers-Second-Edition](https://github.com/PacktPublishing/Malware-Development-for-Ethical-Hackers-Second-Edition)
+  > Malware Development for Ethical Hackers - 2nd Edition, published by Packt
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
 
@@ -16,5 +20,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-04 04:13:56 UTC*
+*Last updated at 2026-11-04 05:11:56 UTC*
 *Historical records are stored in the `archive` directory.*
