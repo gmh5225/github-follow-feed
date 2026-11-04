@@ -24,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [474172261/ida-mcp-s2](https://github.com/474172261/ida-mcp-s2) to [CrackerCat/ida-mcp-s2](https://github.com/CrackerCat/ida-mcp-s2)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [skyboundfs/vmpx](https://github.com/skyboundfs/vmpx) to [CrackerCat/vmpx](https://github.com/CrackerCat/vmpx)
   > Static analysis and recovery tooling for VMProtect-protected Windows binaries
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ymuuuu/NoEmulator](https://github.com/ymuuuu/NoEmulator) to [CrackerCat/NoEmulator](https://github.com/CrackerCat/NoEmulator)
+  > Hides Android emulator artifacts from apps with SUSFS kernel rules, not hooks. KernelSU module for x...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ymuuuu/susfs4ksu-lkm-x64](https://github.com/ymuuuu/susfs4ksu-lkm-x64) to [CrackerCat/susfs4ksu-lkm-x64](https://github.com/CrackerCat/susfs4ksu-lkm-x64)
+  > x86_64 port of inforcqb/susfs4ksu-lkm: susfs as a loadable kernel module for the Android 16 x86_64 e...
 
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [GJDuck/e9patch](https://github.com/GJDuck/e9patch)
@@ -32,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
   > Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. I...
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [sudonoodle/BOF-coerce-ipp](https://github.com/sudonoodle/BOF-coerce-ipp) to [classic130/BOF-coerce-ipp](https://github.com/classic130/BOF-coerce-ipp)
+  > Beacon Object File (BOF) to coerce machine account auth via IPP.
 
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [PacktPublishing/Malware-Development-for-Ethical-Hackers-Second-Edition](https://github.com/PacktPublishing/Malware-Development-for-Ethical-Hackers-Second-Edition)
@@ -50,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-04 11:11:43 UTC*
+*Last updated at 2026-11-04 12:16:53 UTC*
 *Historical records are stored in the `archive` directory.*
