@@ -48,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [floci-io/floci](https://github.com/floci-io/floci)
+  > Light, fluffy, and always free - The AWS Local Emulator alternative
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [CensoredUsername/dynasm-rs](https://github.com/CensoredUsername/dynasm-rs) to [ioncodes/dynasm-rs](https://github.com/ioncodes/dynasm-rs)
   > A dynasm-like tool for rust.
@@ -66,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-04 18:12:54 UTC*
+*Last updated at 2026-11-04 19:08:56 UTC*
 *Historical records are stored in the `archive` directory.*
