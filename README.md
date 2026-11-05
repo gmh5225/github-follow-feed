@@ -38,6 +38,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
   > Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. I...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2)
+  > Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Int...
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [N1nEmAn/sapper-v2](https://github.com/N1nEmAn/sapper-v2) to [killvxk/sapper-v2](https://github.com/killvxk/sapper-v2)
+  > Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Int...
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [kunobi-ninja/kache](https://github.com/kunobi-ninja/kache)
   > Zero-copy, content-addressed Rust build cache for Rust, C/C++ and more. No copies, no wasted disk
@@ -56,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-05 19:09:06 UTC*
+*Last updated at 2026-11-05 20:11:01 UTC*
 *Historical records are stored in the `archive` directory.*
