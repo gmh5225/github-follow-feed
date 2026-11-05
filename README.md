@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mdgrs-mei/GliderUI](https://github.com/mdgrs-mei/GliderUI)
   > Cross-platform Desktop GUI framework for PowerShell powered by Avalonia
 
+### [DoranekoSystems](https://github.com/DoranekoSystems)
+- 🌟 👤 [DoranekoSystems](https://github.com/DoranekoSystems) Starred [zodiacon/windowskernelprogrammingbook](https://github.com/zodiacon/windowskernelprogrammingbook)
+  > The Windows Kernel Programming book samples
+
 ### [Iamgublin](https://github.com/Iamgublin)
 - 🌟 👤 [Iamgublin](https://github.com/Iamgublin) Starred [QuantumNous/new-api](https://github.com/QuantumNous/new-api)
   > Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, mo...
@@ -42,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-05 11:10:19 UTC*
+*Last updated at 2026-11-05 12:17:03 UTC*
 *Historical records are stored in the `archive` directory.*
