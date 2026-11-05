@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [anthropics/FlashProve](https://github.com/anthropics/FlashProve)
   > A research prototype for zero-knowledge proofs of AI inference. Not maintained.
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [sapdragon/vac](https://github.com/sapdragon/vac)
+  > Valve Anti-Cheat (VAC) reconstructed in C++20, bugs and all.
+
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
   > Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. I...
@@ -62,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-05 21:09:23 UTC*
+*Last updated at 2026-11-05 22:11:16 UTC*
 *Historical records are stored in the `archive` directory.*
