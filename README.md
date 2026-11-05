@@ -46,11 +46,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rust framework for GPUI with native and browser apps, runtime inspection, and agent control.
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zeekk0/OpenAmika](https://github.com/zeekk0/OpenAmika)
+  > OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term mem...
+
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 
 ---
-*Last updated at 2026-11-05 18:14:32 UTC*
+*Last updated at 2026-11-05 19:09:06 UTC*
 *Historical records are stored in the `archive` directory.*
