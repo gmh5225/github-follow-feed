@@ -36,17 +36,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Rust framework for GPUI with native and browser apps, runtime inspection, and agent control.
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology)
-  > Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. I...
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer)
-  > Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and ...
-
 ### [wonderzdh](https://github.com/wonderzdh)
 - 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
   > ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 
 ---
-*Last updated at 2026-11-05 10:12:08 UTC*
+*Last updated at 2026-11-05 11:10:19 UTC*
 *Historical records are stored in the `archive` directory.*
