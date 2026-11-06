@@ -53,7 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/Glimpse](https://github.com/petercunha/Glimpse) public
   > Search live Twitch streams by what's on screen, using AI image embeddings. Runs locally.
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [musubipapi/airpointer](https://github.com/musubipapi/airpointer)
+
 
 ---
-*Last updated at 2026-11-06 07:12:13 UTC*
+*Last updated at 2026-11-06 08:16:15 UTC*
 *Historical records are stored in the `archive` directory.*
