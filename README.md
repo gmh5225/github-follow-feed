@@ -16,7 +16,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [mdcontaldi/rito](https://github.com/mdcontaldi/rito)
   > Convert Riot Vanguard (RITO) streamed modules into PE32+ DLLs by rebuilding sections and resolving h...
 
+### [notaspacecowboy](https://github.com/notaspacecowboy)
+- 🌟 👤 [notaspacecowboy](https://github.com/notaspacecowboy) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
+  > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
+
 
 ---
-*Last updated at 2026-11-06 02:16:26 UTC*
+*Last updated at 2026-11-06 03:13:43 UTC*
 *Historical records are stored in the `archive` directory.*
