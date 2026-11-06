@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [mdcontaldi/rito](https://github.com/mdcontaldi/rito)
   > Convert Riot Vanguard (RITO) streamed modules into PE32+ DLLs by rebuilding sections and resolving h...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Picom-code/pico-dgx-ds4](https://github.com/Picom-code/pico-dgx-ds4)
+  > DeepSeek V4.1 Flash on 4x DGX Spark: 438 tok/s at 16 users, ~80/138 single-user, 1M context. Fork of...
+
 ### [notaspacecowboy](https://github.com/notaspacecowboy)
 - 🌟 👤 [notaspacecowboy](https://github.com/notaspacecowboy) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
@@ -51,5 +55,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-06 06:20:34 UTC*
+*Last updated at 2026-11-06 07:12:13 UTC*
 *Historical records are stored in the `archive` directory.*
