@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Bratah123](https://github.com/Bratah123) Starred [revvmp/pokemon-rumble-decomp](https://github.com/revvmp/pokemon-rumble-decomp)
   > A decompilation of Pokémon Rumble
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [c0nf1den71al/turn-udc2](https://github.com/c0nf1den71al/turn-udc2)
+  > A Cobalt Strike 4.12+ User-Defined C2 (UDC2) implementation that tunnels all Beacon traffic through ...
+
 ### [GJDuck](https://github.com/GJDuck)
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [QinxiangCao/QualifiedCProgramming](https://github.com/QinxiangCao/QualifiedCProgramming)
   > QCP (Qualified C Programming), a C program verification tool
@@ -48,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-06 14:12:21 UTC*
+*Last updated at 2026-11-06 15:11:19 UTC*
 *Historical records are stored in the `archive` directory.*
