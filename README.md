@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
   > VERY experimental Nintendo Switch 2 emulator
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks)
+  > Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community repo...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JonathanDC64/Soulbrandt](https://github.com/JonathanDC64/Soulbrandt)
+  > Soulbrandt: Demon's Souls, running natively on PC
 
 ### [noahware](https://github.com/noahware)
 - 🌟 👤 [noahware](https://github.com/noahware) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
@@ -52,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-06 16:12:32 UTC*
+*Last updated at 2026-11-06 17:09:55 UTC*
 *Historical records are stored in the `archive` directory.*
