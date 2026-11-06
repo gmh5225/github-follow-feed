@@ -61,8 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
   > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+  > DeepSeek Harness: Everything is a Plugin.
 
 
 ---
-*Last updated at 2026-11-06 21:09:08 UTC*
+*Last updated at 2026-11-06 22:10:19 UTC*
 *Historical records are stored in the `archive` directory.*
