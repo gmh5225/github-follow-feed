@@ -53,10 +53,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/Glimpse](https://github.com/petercunha/Glimpse) public
   > Search live Twitch streams by what's on screen, using AI image embeddings. Runs locally.
 
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [musubipapi/airpointer](https://github.com/musubipapi/airpointer)
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
 
 
 ---
-*Last updated at 2026-11-06 08:16:15 UTC*
+*Last updated at 2026-11-06 09:13:01 UTC*
 *Historical records are stored in the `archive` directory.*
