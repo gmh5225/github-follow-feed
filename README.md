@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [ivancabrera02/tprtdll-Injection](https://github.com/ivancabrera02/tprtdll-Injection)
+
 ### [Bratah123](https://github.com/Bratah123)
 - 🌟 👤 [Bratah123](https://github.com/Bratah123) Starred [revvmp/pokemon-rumble-decomp](https://github.com/revvmp/pokemon-rumble-decomp)
   > A decompilation of Pokémon Rumble
@@ -27,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [mdcontaldi/rito](https://github.com/mdcontaldi/rito)
   > Convert Riot Vanguard (RITO) streamed modules into PE32+ DLLs by rebuilding sections and resolving h...
+
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [Beat-YT/s3xy-virtual-button](https://github.com/Beat-YT/s3xy-virtual-button)
+  > Tesla virtual S3XY Button built on ESP32 reverse-engineered from Enhance Auto’s S3XY Button. Send cl...
 
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos)
@@ -66,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-06 22:10:19 UTC*
+*Last updated at 2026-11-06 23:09:07 UTC*
 *Historical records are stored in the `archive` directory.*
