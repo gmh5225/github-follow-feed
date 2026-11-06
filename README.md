@@ -4,11 +4,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Bratah123](https://github.com/Bratah123)
+- 🌟 👤 [Bratah123](https://github.com/Bratah123) Starred [revvmp/pokemon-rumble-decomp](https://github.com/revvmp/pokemon-rumble-decomp)
+  > A decompilation of Pokémon Rumble
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [qq2070006042-create/yuehong-privilege-assistant](https://github.com/qq2070006042-create/yuehong-privilege-assistant) to [Mr-xn/yuehong-privilege-assistant](https://github.com/Mr-xn/yuehong-privilege-assistant)
   > 月虹提权助手：内置 Stellar 与 GhostLock 的 Android 提权工作台
 
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [mdcontaldi/rito](https://github.com/mdcontaldi/rito)
+  > Convert Riot Vanguard (RITO) streamed modules into PE32+ DLLs by rebuilding sections and resolving h...
+
 
 ---
-*Last updated at 2026-11-06 00:30:52 UTC*
+*Last updated at 2026-11-06 01:12:10 UTC*
 *Historical records are stored in the `archive` directory.*
