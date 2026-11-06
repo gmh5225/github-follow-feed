@@ -24,7 +24,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [notaspacecowboy](https://github.com/notaspacecowboy) Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)
   > π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, an...
 
+### [petercunha](https://github.com/petercunha)
+- 🚀 👤 [petercunha](https://github.com/petercunha) Made [petercunha/Glimpse](https://github.com/petercunha/Glimpse) public
+  > Search live Twitch streams by what's on screen, using AI image embeddings. Runs locally.
+
 
 ---
-*Last updated at 2026-11-06 04:14:13 UTC*
+*Last updated at 2026-11-06 05:12:02 UTC*
 *Historical records are stored in the `archive` directory.*
