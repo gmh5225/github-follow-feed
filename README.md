@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [qq2070006042-create/yuehong-privilege-assistant](https://github.com/qq2070006042-create/yuehong-privilege-assistant) to [Mr-xn/yuehong-privilege-assistant](https://github.com/Mr-xn/yuehong-privilege-assistant)
   > 月虹提权助手：内置 Stellar 与 GhostLock 的 Android 提权工作台
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [ppmpreetham/BUI](https://github.com/ppmpreetham/BUI)
+  > Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, Reac...
+
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [mdcontaldi/rito](https://github.com/mdcontaldi/rito)
   > Convert Riot Vanguard (RITO) streamed modules into PE32+ DLLs by rebuilding sections and resolving h...
@@ -56,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-06 19:08:49 UTC*
+*Last updated at 2026-11-06 20:11:33 UTC*
 *Historical records are stored in the `archive` directory.*
