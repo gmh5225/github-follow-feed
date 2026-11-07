@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [h5i-dev/MiniLean4](https://github.com/h5i-dev/MiniLean4)
+  > A minimal, self-contained implementation of a Lean 4-style theorem prover kernel in Rust.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [guoxing2024/magicmida-rs](https://github.com/guoxing2024/magicmida-rs) to [CrackerCat/magicmida-rs](https://github.com/CrackerCat/magicmida-rs)
   > Themida v3 x64 automatic unpacker — Rust reimplementation of Hendi48/Magicmida (Pascal). Deletes she...
@@ -44,9 +48,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Arcanum-Sec/SpikeStrip](https://github.com/Arcanum-Sec/SpikeStrip)
   > Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [anomalyco/rune](https://github.com/anomalyco/rune)
+  > Rune: Native UI framework
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
+  > VERY experimental Nintendo Switch 2 emulator
+
 ### [mq1n](https://github.com/mq1n)
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) to [mq1n/plugins-workspace](https://github.com/mq1n/plugins-workspace)
   > All of the official Tauri plugins in one place!
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot)
+  > AgentPilot: Make Your Agents Move Better and Faster
 
 ### [mshumer](https://github.com/mshumer)
 - 🍴 👤 [mshumer](https://github.com/mshumer) Forked [pingdotgg/t3code](https://github.com/pingdotgg/t3code) to [mshumer/t3code](https://github.com/mshumer/t3code)
@@ -61,5 +75,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 13:09:20 UTC*
+*Last updated at 2026-11-07 14:09:30 UTC*
 *Historical records are stored in the `archive` directory.*
