@@ -40,6 +40,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) to [mq1n/plugins-workspace](https://github.com/mq1n/plugins-workspace)
   > All of the official Tauri plugins in one place!
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [longbridge/gpui-fast](https://github.com/longbridge/gpui-fast)
+  > GPUI extracted from the Zed monorepo as a standalone workspace, with the layout engine reworked to k...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [HKUDS/AgentPilot](https://github.com/HKUDS/AgentPilot)
@@ -58,5 +60,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 18:12:06 UTC*
+*Last updated at 2026-11-07 19:08:25 UTC*
 *Historical records are stored in the `archive` directory.*
