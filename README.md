@@ -17,6 +17,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli)
   > A CLI for interacting with Google Colab runtimes
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [8rank/iKnow](https://github.com/8rank/iKnow)
+  > Viz. Apple IntelligencePlatform store
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
   > VERY experimental Nintendo Switch 2 emulator
@@ -54,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 17:08:54 UTC*
+*Last updated at 2026-11-07 18:12:06 UTC*
 *Historical records are stored in the `archive` directory.*
