@@ -21,9 +21,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [8rank/iKnow](https://github.com/8rank/iKnow)
   > Viz. Apple IntelligencePlatform store
 
+### [es3n1n](https://github.com/es3n1n)
+- 🚀 👤 [es3n1n](https://github.com/es3n1n) Made [pothloe-CTF/website](https://github.com/pothloe-CTF/website) public
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
   > VERY experimental Nintendo Switch 2 emulator
+
+### [ggerganov](https://github.com/ggerganov)
+- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [slaren/dsh-llm-llamacpp](https://github.com/slaren/dsh-llm-llamacpp)
+  > llama.cpp provider for DeepSeek Harness
 
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [regexident/cargo-modules](https://github.com/regexident/cargo-modules)
@@ -60,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 20:09:45 UTC*
+*Last updated at 2026-11-07 21:08:58 UTC*
 *Historical records are stored in the `archive` directory.*
