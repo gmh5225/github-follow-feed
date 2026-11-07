@@ -44,6 +44,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Arcanum-Sec/SpikeStrip](https://github.com/Arcanum-Sec/SpikeStrip)
   > Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.
 
+### [mq1n](https://github.com/mq1n)
+- 🍴 👤 [mq1n](https://github.com/mq1n) Forked [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) to [mq1n/plugins-workspace](https://github.com/mq1n/plugins-workspace)
+  > All of the official Tauri plugins in one place!
+
 ### [mshumer](https://github.com/mshumer)
 - 🍴 👤 [mshumer](https://github.com/mshumer) Forked [pingdotgg/t3code](https://github.com/pingdotgg/t3code) to [mshumer/t3code](https://github.com/mshumer/t3code)
 
@@ -57,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 11:08:45 UTC*
+*Last updated at 2026-11-07 12:15:23 UTC*
 *Historical records are stored in the `archive` directory.*
