@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [h5i-dev/MiniLean4](https://github.com/h5i-dev/MiniLean4)
   > A minimal, self-contained implementation of a Lean 4-style theorem prover kernel in Rust.
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch)
+  > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) to [CrackerCat/sheeridVerify](https://github.com/CrackerCat/sheeridVerify)
 
@@ -16,6 +20,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded,...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli)
   > A CLI for interacting with Google Colab runtimes
+
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
+  > Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Cod...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+  > A coding-agent skill for multi-phase security audits with independently verified, machine-readable f...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [8rank/iKnow](https://github.com/8rank/iKnow)
@@ -43,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Arcanum-Sec/SpikeStrip](https://github.com/Arcanum-Sec/SpikeStrip)
   > Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch)
+  > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
 
 ### [mq1n](https://github.com/mq1n)
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) to [mq1n/plugins-workspace](https://github.com/mq1n/plugins-workspace)
@@ -67,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 21:08:58 UTC*
+*Last updated at 2026-11-07 22:09:25 UTC*
 *Historical records are stored in the `archive` directory.*
