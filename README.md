@@ -33,12 +33,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Arcanum-Sec/SpikeStrip](https://github.com/Arcanum-Sec/SpikeStrip)
   > Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [anomalyco/rune](https://github.com/anomalyco/rune)
-  > Rune: Native UI framework
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
-  > VERY experimental Nintendo Switch 2 emulator
-
 ### [mq1n](https://github.com/mq1n)
 - 🍴 👤 [mq1n](https://github.com/mq1n) Forked [tauri-apps/plugins-workspace](https://github.com/tauri-apps/plugins-workspace) to [mq1n/plugins-workspace](https://github.com/mq1n/plugins-workspace)
   > All of the official Tauri plugins in one place!
@@ -60,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 16:11:09 UTC*
+*Last updated at 2026-11-07 17:08:54 UTC*
 *Historical records are stored in the `archive` directory.*
