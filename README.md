@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [regexident/cargo-modules](https://github.com/regexident/cargo-modules)
   > Visualize/analyze a Rust crate's internal structure
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Arcanum-Sec/SpikeStrip](https://github.com/Arcanum-Sec/SpikeStrip)
+  > Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.
+
 ### [mshumer](https://github.com/mshumer)
 - 🍴 👤 [mshumer](https://github.com/mshumer) Forked [pingdotgg/t3code](https://github.com/pingdotgg/t3code) to [mshumer/t3code](https://github.com/mshumer/t3code)
 
@@ -49,5 +53,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 08:13:42 UTC*
+*Last updated at 2026-11-07 09:10:57 UTC*
 *Historical records are stored in the `archive` directory.*
