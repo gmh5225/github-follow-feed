@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [h5i-dev/MiniLean4](https://github.com/h5i-dev/MiniLean4)
   > A minimal, self-contained implementation of a Lean 4-style theorem prover kernel in Rust.
 
+### [CalebFenton](https://github.com/CalebFenton)
+- 🌟 👤 [CalebFenton](https://github.com/CalebFenton) Starred [pex-tool/pex](https://github.com/pex-tool/pex)
+  > A tool for generating .pex (Python EXecutable) files, lock files and venvs.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch)
   > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
@@ -15,11 +19,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) to [CrackerCat/sheeridVerify](https://github.com/CrackerCat/sheeridVerify)
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [luppichristian/olib](https://github.com/luppichristian/olib)
+  > A C library for serializing structured data across multiple formats (JSON, YAML, XML, binary, etc.) ...
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [gzzcoo/DACLhound](https://github.com/gzzcoo/DACLhound)
+  > Active Directory DACL collector and interactive graph viewer
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video)
   > Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded,...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [googlecolab/google-colab-cli](https://github.com/googlecolab/google-colab-cli)
   > A CLI for interacting with Google Colab runtimes
+
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [intel/tsffs](https://github.com/intel/tsffs)
+  > A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS
 
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [tt-a1i/archify](https://github.com/tt-a1i/archify)
@@ -37,10 +53,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [zortos293/Lichii](https://github.com/zortos293/Lichii)
   > VERY experimental Nintendo Switch 2 emulator
-
-### [ggerganov](https://github.com/ggerganov)
-- 🌟 👤 [ggerganov](https://github.com/ggerganov) Starred [slaren/dsh-llm-llamacpp](https://github.com/slaren/dsh-llm-llamacpp)
-  > llama.cpp provider for DeepSeek Harness
 
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [regexident/cargo-modules](https://github.com/regexident/cargo-modules)
@@ -77,7 +89,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [odzhan/Hikari-LLVM19](https://github.com/odzhan/Hikari-LLVM19)
   > An LLVM Pass from Hikari-LLVM15
 
+### [peperunas](https://github.com/peperunas)
+- 🍴 👤 [peperunas](https://github.com/peperunas) Forked [NVIDIA/spark-local-inference](https://github.com/NVIDIA/spark-local-inference) to [peperunas/flare](https://github.com/peperunas/flare)
+
 
 ---
-*Last updated at 2026-11-07 22:09:25 UTC*
+*Last updated at 2026-11-07 23:09:01 UTC*
 *Historical records are stored in the `archive` directory.*
