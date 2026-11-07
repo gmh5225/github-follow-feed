@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [regexident/cargo-modules](https://github.com/regexident/cargo-modules)
   > Visualize/analyze a Rust crate's internal structure
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [runZeroInc/oobscan](https://github.com/runZeroInc/oobscan)
+  > Out-of-band management device scanner
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Arcanum-Sec/SpikeStrip](https://github.com/Arcanum-Sec/SpikeStrip)
   > Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.
@@ -53,5 +57,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-07 09:10:57 UTC*
+*Last updated at 2026-11-07 10:09:35 UTC*
 *Historical records are stored in the `archive` directory.*
