@@ -13,8 +13,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An unrestricted shellcode compiler for c/c++ based on llvm
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jvstech/shellcode-asm](https://github.com/jvstech/shellcode-asm)
   > LLVM-based library and tool for assembling and disassembling shellcode
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [odzhan/Hikari-LLVM19](https://github.com/odzhan/Hikari-LLVM19)
+  > An LLVM Pass from Hikari-LLVM15
 
 
 ---
-*Last updated at 2026-11-07 02:15:13 UTC*
+*Last updated at 2026-11-07 03:12:42 UTC*
 *Historical records are stored in the `archive` directory.*
