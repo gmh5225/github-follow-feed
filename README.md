@@ -80,6 +80,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
   > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [janet-lang/janet](https://github.com/janet-lang/janet)
+  > A dynamic language and bytecode vm
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [zedlanguage/zed](https://github.com/zedlanguage/zed)
+  > A revolutionary new dataflow programming language for the AI era, with automatic parallelization and...
 
 ### [peperunas](https://github.com/peperunas)
 - 🍴 👤 [peperunas](https://github.com/peperunas) Forked [local-inference-lab/flashinfer](https://github.com/local-inference-lab/flashinfer) to [peperunas/flashinfer](https://github.com/peperunas/flashinfer)
@@ -91,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 16:10:45 UTC*
+*Last updated at 2026-11-08 17:08:42 UTC*
 *Historical records are stored in the `archive` directory.*
