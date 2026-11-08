@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [mgumz/alock](https://github.com/mgumz/alock)
   > alock - locks the local X display until a password is entered.
 
+### [CalebFenton](https://github.com/CalebFenton)
+- 🍴 👤 [CalebFenton](https://github.com/CalebFenton) Forked [gtors/vdfs-unpack](https://github.com/gtors/vdfs-unpack) to [CalebFenton/vdfs-unpack](https://github.com/CalebFenton/vdfs-unpack)
+  > VDFS4 (Samsung) filesystem image unpacker
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch) to [CrackerCat/AppleResearch](https://github.com/CrackerCat/AppleResearch)
   > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
@@ -37,6 +41,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
   > Agent skills that give coding agents taste: art direction, reference images and a browser check inst...
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [qybaihe/bla](https://github.com/qybaihe/bla)
+  > 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bun...
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [sarpstar/cinecode](https://github.com/sarpstar/cinecode)
@@ -116,5 +122,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 20:10:17 UTC*
+*Last updated at 2026-11-08 21:08:55 UTC*
 *Historical records are stored in the `archive` directory.*
