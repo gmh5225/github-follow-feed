@@ -64,9 +64,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > Open-source plugin for designing and reviewing software with agents
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [aardappel/goose](https://github.com/aardappel/goose)
+  > The Goose Programming Language
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
   > proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked pro...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [x86rc/unthemidator](https://github.com/x86rc/unthemidator)
+  > An automated Themida / Code Virtualizer / WinLicense (v3.0-v4) unpacker and dump fixer tool
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [x86rc/vmp-lazy-unpack](https://github.com/x86rc/vmp-lazy-unpack)
 
 ### [peperunas](https://github.com/peperunas)
 - 🍴 👤 [peperunas](https://github.com/peperunas) Forked [local-inference-lab/flashinfer](https://github.com/local-inference-lab/flashinfer) to [peperunas/flashinfer](https://github.com/peperunas/flashinfer)
@@ -78,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 10:09:53 UTC*
+*Last updated at 2026-11-08 11:08:59 UTC*
 *Historical records are stored in the `archive` directory.*
