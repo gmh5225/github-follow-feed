@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [mgumz/alock](https://github.com/mgumz/alock)
+  > alock - locks the local X display until a password is entered.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
   > A dynamic library providing Virtualization-based process isolation capabilities
@@ -46,11 +50,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [TooonyChen/finallyshell](https://github.com/TooonyChen/finallyshell) to [Mr-xn/finallyshell](https://github.com/Mr-xn/finallyshell)
   > 类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI
 
+### [P4nda0s](https://github.com/P4nda0s)
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [sunblaze-ucb/cybergym](https://github.com/sunblaze-ucb/cybergym)
+  > CyberGym is a large-scale, high-quality cybersecurity evaluation framework designed to rigorously as...
+- 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [datawhalechina/agentic-rl-lab](https://github.com/datawhalechina/agentic-rl-lab)
+  > Reproducing and studying RL algorithms for LLM agents, including GRPO, GSPO, DAPO, OPD, Search-R1, R...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
   > proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked pro...
 
+### [peperunas](https://github.com/peperunas)
+- 🍴 👤 [peperunas](https://github.com/peperunas) Forked [local-inference-lab/flashinfer](https://github.com/local-inference-lab/flashinfer) to [peperunas/flashinfer](https://github.com/peperunas/flashinfer)
+  > FlashInfer: Kernel Library for LLM Serving
+
+### [petercunha](https://github.com/petercunha)
+- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [porfeng/ComfyUI-PhotoDeblur](https://github.com/porfeng/ComfyUI-PhotoDeblur)
+  > Photo deblurring for ComfyUI with HI-Diff and MISCFilter. comfy ui节点以及工作流支持手抖与运动模糊修复、原尺寸分块处理及模型下载。
+
 
 ---
-*Last updated at 2026-11-08 07:12:00 UTC*
+*Last updated at 2026-11-08 08:13:46 UTC*
 *Historical records are stored in the `archive` directory.*
