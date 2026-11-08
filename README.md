@@ -60,6 +60,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [maillab/cloud-mail](https://github.com/maillab/cloud-mail) to [classic130/cloud-mail](https://github.com/classic130/cloud-mail)
   > An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare...
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
+  > An OOB interaction gathering server and client library
+
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [graealex/WaveDudeNext](https://github.com/graealex/WaveDudeNext)
+  > Interactive 2D wave optics simulator. Turn any image into a refractive scene, add sources, watch wav...
+
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > Open-source plugin for designing and reviewing software with agents
@@ -67,6 +75,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [aardappel/goose](https://github.com/aardappel/goose)
   > The Goose Programming Language
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
+  > the ultimate vocal synthesizer - sing, speak, beatbox, and more
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
@@ -85,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 13:09:13 UTC*
+*Last updated at 2026-11-08 14:09:21 UTC*
 *Historical records are stored in the `archive` directory.*
