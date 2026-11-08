@@ -54,9 +54,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [datawhalechina/agentic-rl-lab](https://github.com/datawhalechina/agentic-rl-lab)
   > Reproducing and studying RL algorithms for LLM agents, including GRPO, GSPO, DAPO, OPD, Search-R1, R...
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [34306/doublera1n](https://github.com/34306/doublera1n)
+  > create a secondary jailbroken iOS on iPhone 11 series devices using usbliter8.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [maillab/cloud-mail](https://github.com/maillab/cloud-mail) to [classic130/cloud-mail](https://github.com/classic130/cloud-mail)
   > An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare...
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [34306/doublera1n](https://github.com/34306/doublera1n)
+  > create a secondary jailbroken iOS on iPhone 11 series devices using usbliter8.
 
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh)
@@ -65,6 +73,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [graealex/WaveDudeNext](https://github.com/graealex/WaveDudeNext)
   > Interactive 2D wave optics simulator. Turn any image into a refractive scene, add sources, watch wav...
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [hyz317/HairDeck](https://github.com/hyz317/HairDeck)
+  > HairDeck: Animation-Ready Stylized Hair Cards from a Single Image
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [mkeeter/antimony](https://github.com/mkeeter/antimony)
+  > CAD from a parallel universe
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
@@ -95,7 +107,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [porfeng/ComfyUI-PhotoDeblur](https://github.com/porfeng/ComfyUI-PhotoDeblur)
   > Photo deblurring for ComfyUI with HI-Diff and MISCFilter. comfy ui节点以及工作流支持手抖与运动模糊修复、原尺寸分块处理及模型下载。
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [BlobCodes/qoamax](https://github.com/BlobCodes/qoamax)
+  > [MIRROR] High-Quality QOA Encoder/Decoder Library and CLI tool
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [PatrickMassot/verbose-lean4](https://github.com/PatrickMassot/verbose-lean4)
+  > Natural language tactics to teach mathematics using Lean 4
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [medovina/natural_lean](https://github.com/medovina/natural_lean)
+  > A controlled natural language syntax for Lean.
+
 
 ---
-*Last updated at 2026-11-08 17:08:42 UTC*
+*Last updated at 2026-11-08 18:11:59 UTC*
 *Historical records are stored in the `archive` directory.*
