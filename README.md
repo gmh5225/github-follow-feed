@@ -8,12 +8,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [0xAX](https://github.com/0xAX) Starred [mgumz/alock](https://github.com/mgumz/alock)
   > alock - locks the local X display until a password is entered.
 
-### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [libkrun/libkrun](https://github.com/libkrun/libkrun)
-  > A dynamic library providing Virtualization-based process isolation capabilities
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm)
-  > muvm - run programs from your system in a microVM
-
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch) to [CrackerCat/AppleResearch](https://github.com/CrackerCat/AppleResearch)
   > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
@@ -97,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 14:09:21 UTC*
+*Last updated at 2026-11-08 15:08:57 UTC*
 *Historical records are stored in the `archive` directory.*
