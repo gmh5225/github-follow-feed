@@ -56,6 +56,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [P4nda0s](https://github.com/P4nda0s) Starred [datawhalechina/agentic-rl-lab](https://github.com/datawhalechina/agentic-rl-lab)
   > Reproducing and studying RL algorithms for LLM agents, including GRPO, GSPO, DAPO, OPD, Search-R1, R...
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [maillab/cloud-mail](https://github.com/maillab/cloud-mail) to [classic130/cloud-mail](https://github.com/classic130/cloud-mail)
+  > An all-in-one email service platform powered by Cloudflare  | 基于 Cloudflare 的一站式邮箱服务平台  | Cloudflare...
+
+### [mcdulltii](https://github.com/mcdulltii)
+- 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
+  > Open-source plugin for designing and reviewing software with agents
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
   > proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked pro...
@@ -70,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 08:13:46 UTC*
+*Last updated at 2026-11-08 09:11:01 UTC*
 *Historical records are stored in the `archive` directory.*
