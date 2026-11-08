@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [iArtorias/coffee_explorer](https://github.com/iArtorias/coffee_explorer)
   > The familiar PE editor, redesigned with a Visual Studio aesthetic, high DPI support and more.
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
+  > Agent skills that give coding agents taste: art direction, reference images and a browser check inst...
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [sarpstar/cinecode](https://github.com/sarpstar/cinecode)
   > Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI codi...
@@ -107,17 +111,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [porfeng/ComfyUI-PhotoDeblur](https://github.com/porfeng/ComfyUI-PhotoDeblur)
   > Photo deblurring for ComfyUI with HI-Diff and MISCFilter. comfy ui节点以及工作流支持手抖与运动模糊修复、原尺寸分块处理及模型下载。
 
-### [raysan5](https://github.com/raysan5)
-- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [BlobCodes/qoamax](https://github.com/BlobCodes/qoamax)
-  > [MIRROR] High-Quality QOA Encoder/Decoder Library and CLI tool
-
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [PatrickMassot/verbose-lean4](https://github.com/PatrickMassot/verbose-lean4)
-  > Natural language tactics to teach mathematics using Lean 4
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [medovina/natural_lean](https://github.com/medovina/natural_lean)
-  > A controlled natural language syntax for Lean.
-
 
 ---
-*Last updated at 2026-11-08 18:11:59 UTC*
+*Last updated at 2026-11-08 19:08:19 UTC*
 *Historical records are stored in the `archive` directory.*
