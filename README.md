@@ -92,6 +92,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > Open-source plugin for designing and reviewing software with agents
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [0dayResearchLab/msFuzz](https://github.com/0dayResearchLab/msFuzz)
+  > msFuzz is a coverage-guided fuzzer for Windows kernel drivers that utilizes Intel PT and leverages c...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [0xDbgMan/DrvEye](https://github.com/0xDbgMan/DrvEye)
+  > Static analysis & exploitation-triage toolkit for Windows kernel drivers. Discover IOCTLs, Symbolic ...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
   > the ultimate vocal synthesizer - sing, speak, beatbox, and more
@@ -122,5 +128,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 22:09:41 UTC*
+*Last updated at 2026-11-08 23:09:22 UTC*
 *Historical records are stored in the `archive` directory.*
