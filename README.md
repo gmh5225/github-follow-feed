@@ -89,6 +89,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
   > the ultimate vocal synthesizer - sing, speak, beatbox, and more
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [meta/astryx](https://github.com/meta/astryx)
+  > An open source design system that's fully customizable and agent ready
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng)
@@ -113,5 +116,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 19:08:19 UTC*
+*Last updated at 2026-11-08 20:10:17 UTC*
 *Historical records are stored in the `archive` directory.*
