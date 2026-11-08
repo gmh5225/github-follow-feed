@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [P4nda0s/kpm-panda-hide](https://github.com/P4nda0s/kpm-panda-hide) to [CrackerCat/kpm-panda-hide](https://github.com/CrackerCat/kpm-panda-hide)
   > (kpm) (for Android hackers)Hide your frida and debuggers
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [iArtorias/coffee_explorer](https://github.com/iArtorias/coffee_explorer)
+  > The familiar PE editor, redesigned with a Visual Studio aesthetic, high DPI support and more.
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [sarpstar/cinecode](https://github.com/sarpstar/cinecode)
   > Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI codi...
@@ -66,10 +70,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)
   > Open-source plugin for designing and reviewing software with agents
 
-### [mq1n](https://github.com/mq1n)
-- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [aardappel/goose](https://github.com/aardappel/goose)
-  > The Goose Programming Language
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
   > the ultimate vocal synthesizer - sing, speak, beatbox, and more
@@ -91,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-08 15:08:57 UTC*
+*Last updated at 2026-11-08 16:10:45 UTC*
 *Historical records are stored in the `archive` directory.*
