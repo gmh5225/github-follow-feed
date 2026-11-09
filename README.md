@@ -89,6 +89,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Th0rgal/lean-ffmpeg](https://github.com/Th0rgal/lean-ffmpeg)
   > Formally verified multimedia transcoding engine (lffmpeg) in Lean 4
 
+### [phra](https://github.com/phra)
+- 🌟 👤 [phra](https://github.com/phra) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [edoardottt/cariddi](https://github.com/edoardottt/cariddi)
   > Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, token...
@@ -103,5 +107,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 21:09:40 UTC*
+*Last updated at 2026-11-09 22:09:33 UTC*
 *Historical records are stored in the `archive` directory.*
