@@ -48,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [akamai/patchdiff-ai](https://github.com/akamai/patchdiff-ai)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [VulnerabilityResearchCentre/patch-diffing-in-the-dark](https://github.com/VulnerabilityResearchCentre/patch-diffing-in-the-dark)
   > Leveraging patch diffing to discover new vulnerabilities
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [splintersfury/KernelSight](https://github.com/splintersfury/KernelSight)
+  > How Windows kernel exploits work, and which defenses still stop them: 157 dissected CVE case studies...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [splintersfury/AutoPiff](https://github.com/splintersfury/AutoPiff)
+  > Semantic analysis engine for detecting vulnerability fixes in Windows kernel driver patches — 58 YAM...
 
 ### [minaminao](https://github.com/minaminao)
 - 🍴 👤 [minaminao](https://github.com/minaminao) Forked [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) to [minaminao/anki-connect](https://github.com/minaminao/anki-connect)
@@ -55,13 +59,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [minaminao](https://github.com/minaminao) Forked [Vocab-Apps/anki-awesome-tts](https://github.com/Vocab-Apps/anki-awesome-tts) to [minaminao/anki-awesome-tts](https://github.com/minaminao/anki-awesome-tts)
   > AwesomeTTS Anki Addon
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s0rlie/research-grant-mentors](https://github.com/s0rlie/research-grant-mentors)
+  > Interview-based system prompts for developing research grant applications (FRIPRO; more calls planne...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [janestreet/agent_skills](https://github.com/janestreet/agent_skills)
+  > Agent skills
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
   > drop-in copy-on-write replacement for `git worktree add`
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [xqy2006/ModelTrace](https://github.com/xqy2006/ModelTrace)
   > 主动探测模型归因
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [since2006/shell-rs](https://github.com/since2006/shell-rs)
+  > High-performance native SSH client in Rust, GPU-rendered with GPUI: host manager, terminal, WinSCP-s...
 
 
 ---
-*Last updated at 2026-11-09 10:11:43 UTC*
+*Last updated at 2026-11-09 11:10:51 UTC*
 *Historical records are stored in the `archive` directory.*
