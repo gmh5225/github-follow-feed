@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [CkNoSFeRaTU/gxvk](https://github.com/CkNoSFeRaTU/gxvk)
+  > Vulkan-based implementation of 3Dfx Glide for Linux / Wine, spun off from DXVK.
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) to [CrackerCat/llama-modchip](https://github.com/CrackerCat/llama-modchip)
   > 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) o...
@@ -87,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 16:12:38 UTC*
+*Last updated at 2026-11-09 17:10:52 UTC*
 *Historical records are stored in the `archive` directory.*
