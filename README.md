@@ -26,9 +26,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [akazemi67/LinuxMalwareTechniques](https://github.com/akazemi67/LinuxMalwareTechniques) to [CrackerCat/LinuxMalwareTechniques](https://github.com/CrackerCat/LinuxMalwareTechniques)
   > Contains materials for my technical presentation exploring Linux malware tradecraft—from userland an...
 
+### [bingmann](https://github.com/bingmann)
+- 🌟 👤 [bingmann](https://github.com/bingmann) Starred [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+  > Nix Packages collection & NixOS
+
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [ards-project/ard-spec](https://github.com/ards-project/ard-spec)
   > Agentic Resource Discovery (ARD) specification
+
+### [maxsam4](https://github.com/maxsam4)
+- 🍴 👤 [maxsam4](https://github.com/maxsam4) Forked [taylanpince/pennyworth](https://github.com/taylanpince/pennyworth) to [maxsam4/pennyworth](https://github.com/maxsam4/pennyworth)
+  > Pennyworth is a paperclip-based agent manager
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
@@ -36,5 +44,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 06:27:03 UTC*
+*Last updated at 2026-11-09 07:13:53 UTC*
 *Historical records are stored in the `archive` directory.*
