@@ -64,6 +64,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Interview-based system prompts for developing research grant applications (FRIPRO; more calls planne...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [janestreet/agent_skills](https://github.com/janestreet/agent_skills)
   > Agent skills
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GUntilB/Anima-Prompt-Generator](https://github.com/GUntilB/Anima-Prompt-Generator)
+  > ComfyUI nodes: turn a short idea into a checked Danbooru-tag prompt for the Anima model with a local...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
@@ -75,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 11:10:51 UTC*
+*Last updated at 2026-11-09 12:18:07 UTC*
 *Historical records are stored in the `archive` directory.*
