@@ -42,6 +42,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [maxsam4](https://github.com/maxsam4) Forked [taylanpince/pennyworth](https://github.com/taylanpince/pennyworth) to [maxsam4/pennyworth](https://github.com/maxsam4/pennyworth)
   > Pennyworth is a paperclip-based agent manager
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [google/bindiff](https://github.com/google/bindiff)
+  > Quickly find differences and similarities in disassembled code
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [akamai/patchdiff-ai](https://github.com/akamai/patchdiff-ai)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [VulnerabilityResearchCentre/patch-diffing-in-the-dark](https://github.com/VulnerabilityResearchCentre/patch-diffing-in-the-dark)
+  > Leveraging patch diffing to discover new vulnerabilities
+
 ### [minaminao](https://github.com/minaminao)
 - 🍴 👤 [minaminao](https://github.com/minaminao) Forked [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) to [minaminao/anki-connect](https://github.com/minaminao/anki-connect)
   > Anki plugin to expose a remote API for creating flash cards.
@@ -51,8 +58,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
   > drop-in copy-on-write replacement for `git worktree add`
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [xqy2006/ModelTrace](https://github.com/xqy2006/ModelTrace)
+  > 主动探测模型归因
 
 
 ---
-*Last updated at 2026-11-09 09:16:39 UTC*
+*Last updated at 2026-11-09 10:11:43 UTC*
 *Historical records are stored in the `archive` directory.*
