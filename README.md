@@ -37,6 +37,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
   > Incremental rust builds up to 92x faster than cargo/rustc
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [ethereum/EthLib](https://github.com/ethereum/EthLib)
+  > Formally verified Ethereum primitives, written in Lean.
 
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [ards-project/ard-spec](https://github.com/ards-project/ard-spec)
@@ -85,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 14:12:17 UTC*
+*Last updated at 2026-11-09 15:11:51 UTC*
 *Historical records are stored in the `archive` directory.*
