@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [janestreet/agent_skills](https://github.com/janestreet/agent_skills)
+  > Agent skills
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) to [CrackerCat/llama-modchip](https://github.com/CrackerCat/llama-modchip)
   > 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) o...
@@ -43,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [ards-project/ard-spec](https://github.com/ards-project/ard-spec)
   > Agentic Resource Discovery (ARD) specification
+
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [rism-digital/verovio](https://github.com/rism-digital/verovio)
+  > 🎵 Music notation engraving library for MEI with MusicXML and Humdrum support and various toolkits (J...
 
 ### [maxsam4](https://github.com/maxsam4)
 - 🍴 👤 [maxsam4](https://github.com/maxsam4) Forked [taylanpince/pennyworth](https://github.com/taylanpince/pennyworth) to [maxsam4/pennyworth](https://github.com/maxsam4/pennyworth)
@@ -95,5 +103,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 20:11:20 UTC*
+*Last updated at 2026-11-09 21:09:40 UTC*
 *Historical records are stored in the `archive` directory.*
