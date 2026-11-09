@@ -69,13 +69,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [minaminao](https://github.com/minaminao) Forked [Vocab-Apps/anki-awesome-tts](https://github.com/Vocab-Apps/anki-awesome-tts) to [minaminao/anki-awesome-tts](https://github.com/minaminao/anki-awesome-tts)
   > AwesomeTTS Anki Addon
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s0rlie/research-grant-mentors](https://github.com/s0rlie/research-grant-mentors)
-  > Interview-based system prompts for developing research grant applications (FRIPRO, the ERC Consolida...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [janestreet/agent_skills](https://github.com/janestreet/agent_skills)
-  > Agent skills
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GUntilB/Anima-Prompt-Generator](https://github.com/GUntilB/Anima-Prompt-Generator)
-  > ComfyUI nodes: turn a short idea into a checked Danbooru-tag prompt for the Anima model with a local...
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [NeverSight/NeverD](https://github.com/NeverSight/NeverD)
+  > The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
@@ -99,5 +95,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 19:09:02 UTC*
+*Last updated at 2026-11-09 20:11:20 UTC*
 *Historical records are stored in the `archive` directory.*
