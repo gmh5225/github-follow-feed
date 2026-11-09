@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [bingmann](https://github.com/bingmann) Starred [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   > Nix Packages collection & NixOS
 
+### [chfast](https://github.com/chfast)
+- 🍴 👤 [chfast](https://github.com/chfast) Forked [frisitano/evm-sail](https://github.com/frisitano/evm-sail) to [chfast/evm-sail](https://github.com/chfast/evm-sail)
+  > A formal, executable specification of the Ethereum Virtual Machine, written in Sail.
+
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
   > Incremental rust builds up to 92x faster than cargo/rustc
@@ -107,5 +111,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 22:09:33 UTC*
+*Last updated at 2026-11-09 23:09:21 UTC*
 *Historical records are stored in the `archive` directory.*
