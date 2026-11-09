@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [CkNoSFeRaTU/gxvk](https://github.com/CkNoSFeRaTU/gxvk)
-  > Vulkan-based implementation of 3Dfx Glide for Linux / Wine, spun off from DXVK.
-
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [synchopate/llama-modchip](https://github.com/synchopate/llama-modchip) to [CrackerCat/llama-modchip](https://github.com/CrackerCat/llama-modchip)
   > 🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) o...
@@ -81,6 +77,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GUntilB/Anima-Prompt-Generator](https://github.com/GUntilB/Anima-Prompt-Generator)
   > ComfyUI nodes: turn a short idea into a checked Danbooru-tag prompt for the Anima model with a local...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot)
+  > A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [anthropics/skills](https://github.com/anthropics/skills)
+  > Public repository for Agent Skills
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Th0rgal/lean-ffmpeg](https://github.com/Th0rgal/lean-ffmpeg)
+  > Formally verified multimedia transcoding engine (lffmpeg) in Lean 4
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [edoardottt/cariddi](https://github.com/edoardottt/cariddi)
+  > Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, token...
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [josharian/git-cow-worktree](https://github.com/josharian/git-cow-worktree)
   > drop-in copy-on-write replacement for `git worktree add`
@@ -91,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 17:10:52 UTC*
+*Last updated at 2026-11-09 19:09:02 UTC*
 *Historical records are stored in the `archive` directory.*
