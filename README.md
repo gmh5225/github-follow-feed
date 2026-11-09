@@ -69,7 +69,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [s0rlie/research-grant-mentors](https://github.com/s0rlie/research-grant-mentors)
-  > Interview-based system prompts for developing research grant applications (FRIPRO; more calls planne...
+  > Interview-based system prompts for developing research grant applications (FRIPRO, the ERC Consolida...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [janestreet/agent_skills](https://github.com/janestreet/agent_skills)
   > Agent skills
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [GUntilB/Anima-Prompt-Generator](https://github.com/GUntilB/Anima-Prompt-Generator)
@@ -85,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 13:12:44 UTC*
+*Last updated at 2026-11-09 14:12:17 UTC*
 *Historical records are stored in the `archive` directory.*
