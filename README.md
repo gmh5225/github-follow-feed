@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [bingmann](https://github.com/bingmann) Starred [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
   > Nix Packages collection & NixOS
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [indexable-inc/blaze](https://github.com/indexable-inc/blaze)
+  > Incremental rust builds up to 92x faster than cargo/rustc
+
 ### [fr0gger](https://github.com/fr0gger)
 - 🌟 👤 [fr0gger](https://github.com/fr0gger) Starred [ards-project/ard-spec](https://github.com/ards-project/ard-spec)
   > Agentic Resource Discovery (ARD) specification
@@ -52,6 +56,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > How Windows kernel exploits work, and which defenses still stop them: 157 dissected CVE case studies...
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [splintersfury/AutoPiff](https://github.com/splintersfury/AutoPiff)
   > Semantic analysis engine for detecting vulnerability fixes in Windows kernel driver patches — 58 YAM...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [knapcio/DeepSeek-V4.1-Flash-4x-DGX-Spark-TP4](https://github.com/knapcio/DeepSeek-V4.1-Flash-4x-DGX-Spark-TP4)
+  > Tuned TP4 serving profile for DeepSeek-V4.1-Flash on 4x NVIDIA DGX Spark (SGLang, DSpark), built on ...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [knapcio/GLM-5.3-Flash-4x-DGX-Spark-TP4](https://github.com/knapcio/GLM-5.3-Flash-4x-DGX-Spark-TP4)
+  > GLM-5.3-Flash NVFP4 on 4x NVIDIA DGX Spark: vLLM TP4, DFlash2 adaptive draft, measured FP8 vs NVFP4 ...
 
 ### [minaminao](https://github.com/minaminao)
 - 🍴 👤 [minaminao](https://github.com/minaminao) Forked [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) to [minaminao/anki-connect](https://github.com/minaminao/anki-connect)
@@ -77,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-09 12:18:07 UTC*
+*Last updated at 2026-11-09 13:12:44 UTC*
 *Historical records are stored in the `archive` directory.*
