@@ -75,6 +75,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [OpenMOSS/MOSS-Live](https://github.com/OpenMOSS/MOSS-Live)
   > A full-duplex real-time interaction system with live audio and vision, continuous conversation, and ...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [helius-labs/privacy-rings](https://github.com/helius-labs/privacy-rings)
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold)
   > DeepSeek-V4.1-Flash-1017 on 4 DGX Sparks with TensorFold, switchless support
@@ -83,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-10 16:12:53 UTC*
+*Last updated at 2026-11-10 17:09:38 UTC*
 *Historical records are stored in the `archive` directory.*
