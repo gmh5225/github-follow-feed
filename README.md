@@ -4,6 +4,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [sapdragon/vac](https://github.com/sapdragon/vac)
+  > Valve Anti-Cheat (VAC) reconstructed in C++20, bugs and all.
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch)
+  > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) to [CrackerCat/S2Arm](https://github.com/CrackerCat/S2Arm)
   > Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics d...
@@ -75,14 +81,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [OpenMOSS/MOSS-Live](https://github.com/OpenMOSS/MOSS-Live)
   > A full-duplex real-time interaction system with live audio and vision, continuous conversation, and ...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [stencil-hq/ovnfs](https://github.com/stencil-hq/ovnfs)
+  > Checkouts for agents: isolated, copy-on-write copies of any folder
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [helius-labs/privacy-rings](https://github.com/helius-labs/privacy-rings)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
   > A sandbox escape for iOS 26 and 27, again
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [google-deepmind/code-verification](https://github.com/google-deepmind/code-verification)
+  > Verifying Signal's security at the machine-code level
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [trailofbits/coop](https://github.com/trailofbits/coop)
   > Isolated VM environment for running Claude Code and Codex
+
+### [simonw](https://github.com/simonw)
+- 🍴 👤 [simonw](https://github.com/simonw) Forked [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) to [simonw/modern-web-guidance](https://github.com/simonw/modern-web-guidance)
+  > Keep your coding agent up to date with the latest web best practices
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold)
@@ -92,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-10 18:12:18 UTC*
+*Last updated at 2026-11-10 19:09:40 UTC*
 *Historical records are stored in the `archive` directory.*
