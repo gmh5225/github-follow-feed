@@ -26,6 +26,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jailbreakdotparty/Erosion](https://github.com/jailbreakdotparty/Erosion) to [CrackerCat/Erosion](https://github.com/CrackerCat/Erosion)
   > iOS customization toolbox using the worse_query sandbox escape. Supports iOS 26.0 - 26.7.2, iOS 27.0...
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [nukeratframework/nukerat](https://github.com/nukeratframework/nukerat)
+  > A post exploitation framework for advanced Red Team operations
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Gloridust/WowType](https://github.com/Gloridust/WowType)
+  > 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [huamidev/GestaltX](https://github.com/huamidev/GestaltX)
   > An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and sup...
@@ -41,6 +49,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mahaloz/ilio-mini](https://github.com/mahaloz/ilio-mini)
   > A tiny infrastructure for Codex to solve CTF challenges in reverse engineering. 3rd in Flare-On 13.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iArtorias/coffee_explorer](https://github.com/iArtorias/coffee_explorer)
+  > The familiar PE editor, redesigned with a Visual Studio aesthetic, high DPI support and more.
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold)
@@ -52,11 +62,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
   > Sandbox escape PoC for iOS 26 and 27.
 
-### [williballenthin](https://github.com/williballenthin)
-- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [mandiant/flare-floss-testfiles](https://github.com/mandiant/flare-floss-testfiles) to [williballenthin/flare-floss-testfiles](https://github.com/williballenthin/flare-floss-testfiles)
-  > Resources for testing FLOSS by the FLARE team.
-
 
 ---
-*Last updated at 2026-11-10 12:16:09 UTC*
+*Last updated at 2026-11-10 13:11:18 UTC*
 *Historical records are stored in the `archive` directory.*
