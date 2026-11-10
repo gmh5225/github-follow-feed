@@ -85,11 +85,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104](https://github.com/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104)
   > GLM-5.3-Flash on DGX Sparks (ver 1104) with TensorFold
 
-### [tiann](https://github.com/tiann)
-- 🌟 👤 [tiann](https://github.com/tiann) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
-  > Sandbox escape PoC for iOS 26 and 27.
-
 
 ---
-*Last updated at 2026-11-10 14:11:56 UTC*
+*Last updated at 2026-11-10 15:10:17 UTC*
 *Historical records are stored in the `archive` directory.*
