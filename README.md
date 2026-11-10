@@ -96,10 +96,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [trailofbits/coop](https://github.com/trailofbits/coop)
   > Isolated VM environment for running Claude Code and Codex
 
-### [simonw](https://github.com/simonw)
-- 🍴 👤 [simonw](https://github.com/simonw) Forked [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) to [simonw/modern-web-guidance](https://github.com/simonw/modern-web-guidance)
-  > Keep your coding agent up to date with the latest web best practices
-
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold)
   > DeepSeek-V4.1-Flash-1017 on 4 DGX Sparks with TensorFold, switchless support
@@ -108,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-10 19:09:40 UTC*
+*Last updated at 2026-11-10 20:11:13 UTC*
 *Historical records are stored in the `archive` directory.*
