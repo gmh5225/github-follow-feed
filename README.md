@@ -9,6 +9,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Valve Anti-Cheat (VAC) reconstructed in C++20, bugs and all.
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [dawgyg/AppleResearch](https://github.com/dawgyg/AppleResearch)
   > A raw dump of my Apple MacOS research. Some likely can be ported over to other Apple OSes. Alot of t...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [robustmq/robustmq](https://github.com/robustmq/robustmq)
+  > Communication infrastructure for the AI era — one binary, one broker, one storage layer, any protoco...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [apalis-dev/apalis](https://github.com/apalis-dev/apalis)
+  > Type-safe, extensible, and high-performance background processing library for Rust
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [rmqtt/rmqtt](https://github.com/rmqtt/rmqtt)
+  > MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [gftea/amqprs](https://github.com/gftea/amqprs)
+  > Async &  Lock-free RabbitMQ Rust Client, Easy-to-use API
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [rabbitmq/rabbitmq-stream-rust-client](https://github.com/rabbitmq/rabbitmq-stream-rust-client)
+  > A client library for RabbitMQ streams
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [amqp-rs/lapin](https://github.com/amqp-rs/lapin)
+  > AMQP client library in Rust, with a clean, futures based API
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) to [CrackerCat/S2Arm](https://github.com/CrackerCat/S2Arm)
@@ -118,5 +130,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-10 22:10:29 UTC*
+*Last updated at 2026-11-10 23:09:15 UTC*
 *Historical records are stored in the `archive` directory.*
