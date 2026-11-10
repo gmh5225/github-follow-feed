@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [nukeratframework/nukerat](https://github.com/nukeratframework/nukerat)
   > A post exploitation framework for advanced Red Team operations
 
+### [KN4CK3R](https://github.com/KN4CK3R)
+- 🍴 👤 [KN4CK3R](https://github.com/KN4CK3R) Forked [pluginsGLPI/fields](https://github.com/pluginsGLPI/fields) to [KN4CK3R/fields](https://github.com/KN4CK3R/fields)
+  > Additionals fields for GLPI
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Gloridust/WowType](https://github.com/Gloridust/WowType)
   > 像微信输入法一样顺手的Linux输入法：长句一次打完、按错键也能认出来、纯离线语音输入，越用越懂你。
@@ -37,6 +41,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [huamidev/GestaltX](https://github.com/huamidev/GestaltX)
   > An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and sup...
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk)
+  > Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [AntoineLeblancFr/ROCAP](https://github.com/AntoineLeblancFr/ROCAP)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero)
+  > Neural Networks: Zero to Hero
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Hack0ura/WebClientRelayUp](https://github.com/Hack0ura/WebClientRelayUp)
+  > WebClientRelayUp - an universal no-fix local privilege escalation in domain-joined windows workstati...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [g0h4n/adshell-rs](https://github.com/g0h4n/adshell-rs)
+  > Interactive Active Directory shell and attack toolkit over LDAP(S) or ADWS (SOAP) written in Rust. 🦀
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [Dongbumlee/ontosmith](https://github.com/Dongbumlee/ontosmith)
+  > A decision-model-based ontology & knowledge-graph builder — builds governed knowledge graphs from yo...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit)
+  > Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [attify/firmware-analysis-toolkit](https://github.com/attify/firmware-analysis-toolkit)
+  > Firmware security research platform combining binary analysis, taint tracing, and emulation across I...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
+  > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [coleam00/Archon](https://github.com/coleam00/Archon)
@@ -51,6 +74,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A tiny infrastructure for Codex to solve CTF challenges in reverse engineering. 3rd in Flare-On 13.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [iArtorias/coffee_explorer](https://github.com/iArtorias/coffee_explorer)
   > The familiar PE editor, redesigned with a Visual Studio aesthetic, high DPI support and more.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Arcanum-Sec/SpikeStrip](https://github.com/Arcanum-Sec/SpikeStrip)
+  > Reversible HTML and JavaScript prompt decoys with opaque per-insertion keys.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [adrbn/bo2-mac](https://github.com/adrbn/bo2-mac)
+  > Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remi...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold)
@@ -64,5 +91,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-10 13:11:18 UTC*
+*Last updated at 2026-11-10 14:11:56 UTC*
 *Historical records are stored in the `archive` directory.*
