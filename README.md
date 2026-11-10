@@ -73,10 +73,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk)
   > Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nanocodexyz/nanoeval](https://github.com/nanocodexyz/nanoeval)
-  > Evaluations for nanocode agents: harness in Cloudflare Workers on nanocode-ts, task environments in ...
-
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [coleam00/Archon](https://github.com/coleam00/Archon)
   > The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
@@ -122,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-10 21:09:38 UTC*
+*Last updated at 2026-11-10 22:10:29 UTC*
 *Historical records are stored in the `archive` directory.*
