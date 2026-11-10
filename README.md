@@ -38,11 +38,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [OpenMOSS/MOSS-Live](https://github.com/OpenMOSS/MOSS-Live)
   > A full-duplex real-time interaction system with live audio and vision, continuous conversation, and ...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mahaloz/ilio-mini](https://github.com/mahaloz/ilio-mini)
+  > A tiny infrastructure for Codex to solve CTF challenges in reverse engineering. 3rd in Flare-On 13.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
   > Sandbox escape PoC for iOS 26 and 27.
 
 
 ---
-*Last updated at 2026-11-10 10:11:41 UTC*
+*Last updated at 2026-11-10 11:09:59 UTC*
 *Historical records are stored in the `archive` directory.*
