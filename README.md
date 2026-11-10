@@ -77,6 +77,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [helius-labs/privacy-rings](https://github.com/helius-labs/privacy-rings)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
+  > A sandbox escape for iOS 26 and 27, again
+
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [trailofbits/coop](https://github.com/trailofbits/coop)
+  > Isolated VM environment for running Claude Code and Codex
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold)
@@ -86,5 +92,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-10 17:09:38 UTC*
+*Last updated at 2026-11-10 18:12:18 UTC*
 *Historical records are stored in the `archive` directory.*
