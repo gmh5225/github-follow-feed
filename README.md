@@ -42,11 +42,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mahaloz/ilio-mini](https://github.com/mahaloz/ilio-mini)
   > A tiny infrastructure for Codex to solve CTF challenges in reverse engineering. 3rd in Flare-On 13.
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold](https://github.com/MiaAI-Lab/DeepSeek-V4.1-Flash-1017-4x-DGX-Sparks-TensorFold)
+  > DeepSeek-V4.1-Flash-1017 on 4 DGX Sparks with TensorFold, switchless support
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104](https://github.com/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104)
+  > GLM-5.3-Flash on DGX Sparks (ver 1104) with TensorFold
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [forcequitOS/bad_query](https://github.com/forcequitOS/bad_query)
   > Sandbox escape PoC for iOS 26 and 27.
 
+### [williballenthin](https://github.com/williballenthin)
+- 🍴 👤 [williballenthin](https://github.com/williballenthin) Forked [mandiant/flare-floss-testfiles](https://github.com/mandiant/flare-floss-testfiles) to [williballenthin/flare-floss-testfiles](https://github.com/williballenthin/flare-floss-testfiles)
+  > Resources for testing FLOSS by the FLARE team.
+
 
 ---
-*Last updated at 2026-11-10 11:09:59 UTC*
+*Last updated at 2026-11-10 12:16:09 UTC*
 *Historical records are stored in the `archive` directory.*
