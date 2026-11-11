@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [nestho/impacket-rs](https://github.com/nestho/impacket-rs)
+  > High-performance, memory-safe pure-Rust redesign of core Impacket network protocols and Active Direc...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SecurityRiskAdvisors/ATTiRe](https://github.com/SecurityRiskAdvisors/ATTiRe)
   > Attack Tool Timing and Reporting - Structured Attack Logging Format
@@ -17,12 +21,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open-source x64dbg anti-anti-debug plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [aramosf/CVE-2026-66613](https://github.com/aramosf/CVE-2026-66613) to [classic130/CVE-2026-66613](https://github.com/classic130/CVE-2026-66613)
   > PoC — CVE-2026-66613: JetEngine (Crocoblock) Timber/Twig Views unauthenticated RCE (authorized secur...
-
-### [hzqst](https://github.com/hzqst)
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [BlackShadow/GoldSrc-SDK](https://github.com/BlackShadow/GoldSrc-SDK) to [hzqst/GoldSrc-SDK](https://github.com/hzqst/GoldSrc-SDK)
-  > Whole GoldSrc repository including engine and games.
-- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [ScriptedSnark/svencoop_sdk](https://github.com/ScriptedSnark/svencoop_sdk) to [hzqst/svencoop_sdk](https://github.com/hzqst/svencoop_sdk)
-  > Some little restored SC 5.26 code
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)
@@ -53,5 +51,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-11 09:13:01 UTC*
+*Last updated at 2026-11-11 10:11:32 UTC*
 *Historical records are stored in the `archive` directory.*
