@@ -22,9 +22,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [libracoder/kiri](https://github.com/libracoder/kiri)
   > A small, fast container runtime for macOS, Windows and Linux
 
-### [can1357](https://github.com/can1357)
-- 🍴 👤 [can1357](https://github.com/can1357) Forked [WebKit/WebKit](https://github.com/WebKit/WebKit) to [stencil-hq/abkit](https://github.com/stencil-hq/abkit)
-  > Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applic...
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [LuKks/like-webrtc](https://github.com/LuKks/like-webrtc)
+  > Peer-to-peer WebRTC connections with built-in signaling and peer discovery.
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ivanpotatoes/KozDbg](https://github.com/ivanpotatoes/KozDbg) to [classic130/KozDbg](https://github.com/classic130/KozDbg)
@@ -64,7 +64,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [nevillegrech](https://github.com/nevillegrech) Forked [Dedaub/monitoring-cli](https://github.com/Dedaub/monitoring-cli) to [nevillegrech/monitoring-cli](https://github.com/nevillegrech/monitoring-cli)
   > Command-line tool to monitor on-chain activity on Ethereum and EVM chains; Write SQL queries and dep...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/glamsterdam-gas-invariants](https://github.com/ethereum/glamsterdam-gas-invariants)
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
+  > High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
+
 
 ---
-*Last updated at 2026-11-11 16:12:11 UTC*
+*Last updated at 2026-11-11 17:10:50 UTC*
 *Historical records are stored in the `archive` directory.*
