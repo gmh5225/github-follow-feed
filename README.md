@@ -6,7 +6,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [nestho/impacket-rs](https://github.com/nestho/impacket-rs)
-  > High-performance, memory-safe pure-Rust redesign of core Impacket network protocols and Active Direc...
+  > High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools fo...
 
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SecurityRiskAdvisors/ATTiRe](https://github.com/SecurityRiskAdvisors/ATTiRe)
@@ -46,12 +46,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
   > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [meta/astryx](https://github.com/meta/astryx)
-  > An open source design system that's fully customizable and agent ready
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pancakeswap/infinity-universal-router](https://github.com/pancakeswap/infinity-universal-router)
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Yamato-Security/juntei](https://github.com/Yamato-Security/juntei)
+  > DFIR analyzer for Windows forensic artifacts
+
+### [nevillegrech](https://github.com/nevillegrech)
+- 🍴 👤 [nevillegrech](https://github.com/nevillegrech) Forked [Dedaub/monitoring-cli](https://github.com/Dedaub/monitoring-cli) to [nevillegrech/monitoring-cli](https://github.com/nevillegrech/monitoring-cli)
+  > Command-line tool to monitor on-chain activity on Ethereum and EVM chains; Write SQL queries and dep...
 
 
 ---
-*Last updated at 2026-11-11 11:10:18 UTC*
+*Last updated at 2026-11-11 12:17:04 UTC*
 *Historical records are stored in the `archive` directory.*
