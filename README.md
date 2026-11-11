@@ -22,6 +22,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [libracoder/kiri](https://github.com/libracoder/kiri)
   > A small, fast container runtime for macOS, Windows and Linux
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [tylertms/Stela](https://github.com/tylertms/Stela)
+  > A general purpose Apple Silicon layer for x86-64 PCs
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU)
+  > Run iOS and macOS on non-Apple ARM64 hardware through UEFI.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [LuKks/like-webrtc](https://github.com/LuKks/like-webrtc)
   > Peer-to-peer WebRTC connections with built-in signaling and peer discovery.
@@ -38,9 +44,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dhondta](https://github.com/dhondta) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
   > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
-### [jtriley2p](https://github.com/jtriley2p)
-- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [RhizoNymph/rust-build-server](https://github.com/RhizoNymph/rust-build-server)
-
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
   > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
@@ -56,11 +59,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/glamsterdam-gas-invariants](https://github.com/ethereum/glamsterdam-gas-invariants)
 
+### [simonw](https://github.com/simonw)
+- 🌟 👤 [simonw](https://github.com/simonw) Starred [aws/aws-emulator](https://github.com/aws/aws-emulator)
+  > AWS Emulator is a local emulator of the AWS APIs.
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [1jehuang/jcode](https://github.com/1jehuang/jcode)
   > High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 
 
 ---
-*Last updated at 2026-11-11 20:11:28 UTC*
+*Last updated at 2026-11-11 21:14:56 UTC*
 *Historical records are stored in the `archive` directory.*
