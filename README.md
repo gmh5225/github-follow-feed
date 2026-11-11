@@ -21,6 +21,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open-source x64dbg anti-anti-debug plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [aramosf/CVE-2026-66613](https://github.com/aramosf/CVE-2026-66613) to [classic130/CVE-2026-66613](https://github.com/classic130/CVE-2026-66613)
   > PoC — CVE-2026-66613: JetEngine (Crocoblock) Timber/Twig Views unauthenticated RCE (authorized secur...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [j0wii/CVE-2026-97798_LPE_Windows](https://github.com/j0wii/CVE-2026-97798_LPE_Windows) to [classic130/CVE-2026-97798_LPE_Windows](https://github.com/classic130/CVE-2026-97798_LPE_Windows)
+  > CVE-2026-97798 PoC — WER Time Travel Debugging argument injection to SYSTEM (Windows 11 LPE), with a...
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)
@@ -51,5 +53,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-11 10:11:32 UTC*
+*Last updated at 2026-11-11 11:10:18 UTC*
 *Historical records are stored in the `archive` directory.*
