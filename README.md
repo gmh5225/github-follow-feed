@@ -15,6 +15,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure de...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api)
   > Public API, examples, documentation and issues for Binary Ninja
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+  > A list of awesome resources for tmux
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ivanpotatoes/KozDbg](https://github.com/ivanpotatoes/KozDbg) to [classic130/KozDbg](https://github.com/classic130/KozDbg)
@@ -47,8 +49,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Yamato-Security/juntei](https://github.com/Yamato-Security/juntei)
-  > DFIR analyzer for Windows forensic artifacts
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2](https://github.com/Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2)
+  > Uncensored DeepSeek-V4.1-Flash-1017 on 2x DGX Spark: refusals 94 to 6, same answers as DeepSeek's AP...
 
 ### [nevillegrech](https://github.com/nevillegrech)
 - 🍴 👤 [nevillegrech](https://github.com/nevillegrech) Forked [Dedaub/monitoring-cli](https://github.com/Dedaub/monitoring-cli) to [nevillegrech/monitoring-cli](https://github.com/nevillegrech/monitoring-cli)
@@ -56,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-11 12:17:04 UTC*
+*Last updated at 2026-11-11 13:11:26 UTC*
 *Historical records are stored in the `archive` directory.*
