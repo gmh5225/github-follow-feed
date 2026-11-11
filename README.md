@@ -41,24 +41,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [RhizoNymph/rust-build-server](https://github.com/RhizoNymph/rust-build-server)
 
-### [killvxk](https://github.com/killvxk)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)
-  > 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.co...
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) to [killvxk/nvzhuang](https://github.com/killvxk/nvzhuang)
-  > 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.co...
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [lxe/phoneuse](https://github.com/lxe/phoneuse)
-  > See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboar...
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [lxe/phoneuse](https://github.com/lxe/phoneuse) to [killvxk/phoneuse](https://github.com/killvxk/phoneuse)
-  > See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboar...
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [LIUFelix2004/museAPI-video](https://github.com/LIUFelix2004/museAPI-video)
-  > museAPI video project
-- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [LIUFelix2004/museAPI-video](https://github.com/LIUFelix2004/museAPI-video) to [killvxk/museAPI-video](https://github.com/killvxk/museAPI-video)
-  > museAPI video project
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
-  > Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [aronhy/pibrowse](https://github.com/aronhy/pibrowse)
-  > Open-source browser profile workspaces
-
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
   > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
@@ -66,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [nevillegrech](https://github.com/nevillegrech)
 - 🍴 👤 [nevillegrech](https://github.com/nevillegrech) Forked [Dedaub/monitoring-cli](https://github.com/Dedaub/monitoring-cli) to [nevillegrech/monitoring-cli](https://github.com/nevillegrech/monitoring-cli)
   > Command-line tool to monitor on-chain activity on Ethereum and EVM chains; Write SQL queries and dep...
+
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [lateshift/imgui-hotbox](https://github.com/lateshift/imgui-hotbox)
+  > A hotbox with marking menus for Dear ImGui applications, inspired by the hotbox in Autodesk® Maya®
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/glamsterdam-gas-invariants](https://github.com/ethereum/glamsterdam-gas-invariants)
@@ -76,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-11 19:09:42 UTC*
+*Last updated at 2026-11-11 20:11:28 UTC*
 *Historical records are stored in the `archive` directory.*
