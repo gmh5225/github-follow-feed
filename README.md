@@ -12,18 +12,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api)
   > Public API, examples, documentation and issues for Binary Ninja
 
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [WhiteNightShadow/camoufox-reverse-mcp](https://github.com/WhiteNightShadow/camoufox-reverse-mcp) to [CrackerCat/camoufox-reverse-mcp](https://github.com/CrackerCat/camoufox-reverse-mcp)
-  > 🔧 反检测浏览器 MCP Server | 39 个 JS 逆向工具 + C++ 引擎层 JSVMP 指纹追踪
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [FengQiuFQ/TEESimulator-MapleSU](https://github.com/FengQiuFQ/TEESimulator-MapleSU) to [CrackerCat/TEESimulator-MapleSU](https://github.com/CrackerCat/TEESimulator-MapleSU)
-  > Standalone Key Attestation and Soter compatibility layer for rooted Android (KernelSU/Magisk/APatch)...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ylh440104/cve-2026-98432-chain](https://github.com/ylh440104/cve-2026-98432-chain) to [CrackerCat/cve-2026-98432-chain](https://github.com/CrackerCat/cve-2026-98432-chain)
-  > CVE-2026-98432 exploitation notes and stage skeletons (all kernel offsets redacted)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [nukeratframework/nukerat](https://github.com/nukeratframework/nukerat) to [CrackerCat/nukerat](https://github.com/CrackerCat/nukerat)
-  > A post exploitation framework for advanced Red Team operations
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [xec412/NocturneLdr](https://github.com/xec412/NocturneLdr) to [CrackerCat/NocturneLdr](https://github.com/CrackerCat/NocturneLdr)
-  > A CET-compatible Windows x64 loader that produces fully backed call stacks through runtime function ...
-
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ivanpotatoes/KozDbg](https://github.com/ivanpotatoes/KozDbg) to [classic130/KozDbg](https://github.com/classic130/KozDbg)
   > Open-source x64dbg anti-anti-debug plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No...
@@ -56,5 +44,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-11 06:19:55 UTC*
+*Last updated at 2026-11-11 07:12:45 UTC*
 *Historical records are stored in the `archive` directory.*
