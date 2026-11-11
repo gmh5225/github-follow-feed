@@ -18,6 +18,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
   > A list of awesome resources for tmux
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [marmottajr/habblaud](https://github.com/marmottajr/habblaud)
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [libracoder/kiri](https://github.com/libracoder/kiri)
   > A small, fast container runtime for macOS, Windows and Linux
@@ -69,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-11 21:14:56 UTC*
+*Last updated at 2026-11-11 22:10:32 UTC*
 *Historical records are stored in the `archive` directory.*
