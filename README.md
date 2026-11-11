@@ -10,6 +10,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SecurityRiskAdvisors/VECTR](https://github.com/SecurityRiskAdvisors/VECTR)
   > VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure de...
 
+### [WhiteNightShadow](https://github.com/WhiteNightShadow)
+- 🍴 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Forked [JeffYu55/antigravity-armor](https://github.com/JeffYu55/antigravity-armor) to [WhiteNightShadow/antigravity-armor](https://github.com/WhiteNightShadow/antigravity-armor)
+  > Antigravity 破甲工程：二进制提示词补丁 / 规则技能 / 生命周期钩子 / IDE 等长补丁 / 模型后端改道
+
+### [hzqst](https://github.com/hzqst)
+- 🍴 👤 [hzqst](https://github.com/hzqst) Forked [BlackShadow/GoldSrc-SDK](https://github.com/BlackShadow/GoldSrc-SDK) to [hzqst/GoldSrc-SDK](https://github.com/hzqst/GoldSrc-SDK)
+  > Whole GoldSrc repository including engine and games.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)
   > 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.co...
@@ -28,11 +36,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [aronhy/pibrowse](https://github.com/aronhy/pibrowse)
   > Open-source browser profile workspaces
 
-### [tiagosiebler](https://github.com/tiagosiebler)
-- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [RemiFM/USB-LiDAR-VL53L9](https://github.com/RemiFM/USB-LiDAR-VL53L9)
-  > USB accessory device with VL53L9 Time of Flight sensor (dToF 3D LiDAR) & 6-axis IMU
-
 
 ---
-*Last updated at 2026-11-11 02:14:16 UTC*
+*Last updated at 2026-11-11 03:13:38 UTC*
 *Historical records are stored in the `archive` directory.*
