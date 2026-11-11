@@ -9,10 +9,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Attack Tool Timing and Reporting - Structured Attack Logging Format
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [SecurityRiskAdvisors/VECTR](https://github.com/SecurityRiskAdvisors/VECTR)
   > VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure de...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [Vector35/binaryninja-api](https://github.com/Vector35/binaryninja-api)
+  > Public API, examples, documentation and issues for Binary Ninja
 
 ### [WhiteNightShadow](https://github.com/WhiteNightShadow)
-- 🍴 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Forked [JeffYu55/antigravity-armor](https://github.com/JeffYu55/antigravity-armor) to [WhiteNightShadow/antigravity-armor](https://github.com/WhiteNightShadow/antigravity-armor)
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [JeffYu55/antigravity-armor](https://github.com/JeffYu55/antigravity-armor)
   > Antigravity 破甲工程：二进制提示词补丁 / 规则技能 / 生命周期钩子 / IDE 等长补丁 / 模型后端改道
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [ivanpotatoes/KozDbg](https://github.com/ivanpotatoes/KozDbg) to [classic130/KozDbg](https://github.com/classic130/KozDbg)
+  > Open-source x64dbg anti-anti-debug plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No...
 
 ### [hzqst](https://github.com/hzqst)
 - 🍴 👤 [hzqst](https://github.com/hzqst) Forked [BlackShadow/GoldSrc-SDK](https://github.com/BlackShadow/GoldSrc-SDK) to [hzqst/GoldSrc-SDK](https://github.com/hzqst/GoldSrc-SDK)
@@ -38,5 +44,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-11 03:13:38 UTC*
+*Last updated at 2026-11-11 04:13:44 UTC*
 *Historical records are stored in the `archive` directory.*
