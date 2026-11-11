@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
   > A list of awesome resources for tmux
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [libracoder/kiri](https://github.com/libracoder/kiri)
+  > A small, fast container runtime for macOS, Windows and Linux
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ivanpotatoes/KozDbg](https://github.com/ivanpotatoes/KozDbg) to [classic130/KozDbg](https://github.com/classic130/KozDbg)
   > Open-source x64dbg anti-anti-debug plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No...
@@ -58,5 +62,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-11 13:11:26 UTC*
+*Last updated at 2026-11-11 14:11:35 UTC*
 *Historical records are stored in the `archive` directory.*
