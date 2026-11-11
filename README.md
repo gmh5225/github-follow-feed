@@ -42,7 +42,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [aronhy/pibrowse](https://github.com/aronhy/pibrowse)
   > Open-source browser profile workspaces
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
+  > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [meta/astryx](https://github.com/meta/astryx)
+  > An open source design system that's fully customizable and agent ready
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [pancakeswap/infinity-universal-router](https://github.com/pancakeswap/infinity-universal-router)
+
 
 ---
-*Last updated at 2026-11-11 08:15:48 UTC*
+*Last updated at 2026-11-11 09:13:01 UTC*
 *Historical records are stored in the `archive` directory.*
