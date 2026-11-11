@@ -22,6 +22,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [libracoder/kiri](https://github.com/libracoder/kiri)
   > A small, fast container runtime for macOS, Windows and Linux
 
+### [can1357](https://github.com/can1357)
+- 🍴 👤 [can1357](https://github.com/can1357) Forked [WebKit/WebKit](https://github.com/WebKit/WebKit) to [stencil-hq/abkit](https://github.com/stencil-hq/abkit)
+  > Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applic...
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ivanpotatoes/KozDbg](https://github.com/ivanpotatoes/KozDbg) to [classic130/KozDbg](https://github.com/classic130/KozDbg)
   > Open-source x64dbg anti-anti-debug plugin for VMProtect 3.3.x–3.10.x, with configurable profiles. No...
@@ -29,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > PoC — CVE-2026-66613: JetEngine (Crocoblock) Timber/Twig Views unauthenticated RCE (authorized secur...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [j0wii/CVE-2026-97798_LPE_Windows](https://github.com/j0wii/CVE-2026-97798_LPE_Windows) to [classic130/CVE-2026-97798_LPE_Windows](https://github.com/classic130/CVE-2026-97798_LPE_Windows)
   > CVE-2026-97798 PoC — WER Time Travel Debugging argument injection to SYSTEM (Windows 11 LPE), with a...
+
+### [dhondta](https://github.com/dhondta)
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [anthropics/claude-code](https://github.com/anthropics/claude-code)
+  > Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he...
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang)
@@ -52,15 +60,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
   > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2](https://github.com/Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2)
-  > Uncensored DeepSeek-V4.1-Flash-1017 on 2x DGX Spark: refusals 94 to 6, same answers as DeepSeek's AP...
-
 ### [nevillegrech](https://github.com/nevillegrech)
 - 🍴 👤 [nevillegrech](https://github.com/nevillegrech) Forked [Dedaub/monitoring-cli](https://github.com/Dedaub/monitoring-cli) to [nevillegrech/monitoring-cli](https://github.com/nevillegrech/monitoring-cli)
   > Command-line tool to monitor on-chain activity on Ethereum and EVM chains; Write SQL queries and dep...
 
 
 ---
-*Last updated at 2026-11-11 14:11:35 UTC*
+*Last updated at 2026-11-11 15:10:30 UTC*
 *Historical records are stored in the `archive` directory.*
