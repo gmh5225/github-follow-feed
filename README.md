@@ -28,17 +28,31 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lw5959/dijun_orangefox](https://github.com/Lw5959/dijun_orangefox) to [CrackerCat/dijun_orangefox](https://github.com/CrackerCat/dijun_orangefox)
   > OrangeFox for Dijun: Xiaomi 15S Pro / XRING O1 KernelSU module and recovery adaptation sources
 
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [mirkobrombin/raven](https://github.com/mirkobrombin/raven)
-  > A Windows your apps recognize.
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [huamidev/GestaltX](https://github.com/huamidev/GestaltX)
+  > An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [huamidev/GestaltX](https://github.com/huamidev/GestaltX) to [Mr-xn/GestaltX](https://github.com/Mr-xn/GestaltX)
+  > An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
+  > A sandbox escape for iOS 26 and 27, again
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [huacnlee/cargo](https://github.com/huacnlee/cargo)
   > A fork of Cargo tuned for fast local builds and a bounded disk footprint
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
+  > A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
   > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
+
+### [rochus-keller](https://github.com/rochus-keller)
+- 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [hrvach/unixpc](https://github.com/hrvach/unixpc)
+  > Unix PC Implementation in FPGA
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [therealcoiffeur/MalGit](https://github.com/therealcoiffeur/MalGit)
@@ -50,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 10:11:36 UTC*
+*Last updated at 2026-11-12 11:10:32 UTC*
 *Historical records are stored in the `archive` directory.*
