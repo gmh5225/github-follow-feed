@@ -35,6 +35,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235)
   > One of the most powerful primitives for Windows default configuration LPE
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [nestho/impacket-rs](https://github.com/nestho/impacket-rs)
+  > High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools fo...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [huacnlee/cargo](https://github.com/huacnlee/cargo)
@@ -72,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 18:13:46 UTC*
+*Last updated at 2026-11-12 19:09:32 UTC*
 *Historical records are stored in the `archive` directory.*
