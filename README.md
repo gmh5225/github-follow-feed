@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Calinou](https://github.com/Calinou)
+- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [theagentd/CORTAO](https://github.com/theagentd/CORTAO)
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
   > A sandbox escape for iOS 26 and 27, again
@@ -15,6 +18,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [RhizoNymph/CodeCartographer](https://github.com/RhizoNymph/CodeCartographer)
   > A tauri app for visualizing codebases
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [dividebysandwich/sdroxide](https://github.com/dividebysandwich/sdroxide)
+  > A native SDR client for many radios (CAT, TCI, HPSDR, RTLSDR, SoapySDR, SDRPlay and more), written i...
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235)
@@ -40,11 +45,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [therealcoiffeur/MalGit](https://github.com/therealcoiffeur/MalGit)
   > MalGit demonstrate multiple configuration based RCE vectors within Git.
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [morluto/rea](https://github.com/morluto/rea)
+  > Reverse engineer anything with agents, from app behavior down to native binaries.
+
 ### [xuhancn](https://github.com/xuhancn)
 - 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [pytorch/helion](https://github.com/pytorch/helion) to [xuhancn/helion](https://github.com/xuhancn/helion)
   > A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate...
 
 
 ---
-*Last updated at 2026-11-12 15:11:24 UTC*
+*Last updated at 2026-11-12 16:13:08 UTC*
 *Historical records are stored in the `archive` directory.*
