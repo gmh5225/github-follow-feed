@@ -50,10 +50,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
   > A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
-  > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
-
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [hrvach/unixpc](https://github.com/hrvach/unixpc)
   > Unix PC Implementation in FPGA
@@ -68,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 12:17:01 UTC*
+*Last updated at 2026-11-12 13:11:26 UTC*
 *Historical records are stored in the `archive` directory.*
