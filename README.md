@@ -23,6 +23,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)
   > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [vercel-labs/ui](https://github.com/vercel-labs/ui)
+  > A library of behaviors for agents to build the next generation of user interfaces.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
   > A sandbox escape for iOS 26 and 27, again
@@ -67,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 21:09:57 UTC*
+*Last updated at 2026-11-12 22:10:06 UTC*
 *Historical records are stored in the `archive` directory.*
