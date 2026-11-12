@@ -25,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > WinRM pass-the-hash BOF with NTLMv2 authentication and signed, encrypted WSMan traffic
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lexmount/moli](https://github.com/lexmount/moli) to [CrackerCat/moli](https://github.com/CrackerCat/moli)
   > Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lw5959/dijun_orangefox](https://github.com/Lw5959/dijun_orangefox) to [CrackerCat/dijun_orangefox](https://github.com/CrackerCat/dijun_orangefox)
+  > OrangeFox for Dijun: Xiaomi 15S Pro / XRING O1 KernelSU module and recovery adaptation sources
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [mirkobrombin/raven](https://github.com/mirkobrombin/raven)
@@ -38,11 +40,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
   > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [therealcoiffeur/MalGit](https://github.com/therealcoiffeur/MalGit)
+  > MalGit demonstrate multiple configuration based RCE vectors within Git.
+
 ### [xuhancn](https://github.com/xuhancn)
 - 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [pytorch/helion](https://github.com/pytorch/helion) to [xuhancn/helion](https://github.com/xuhancn/helion)
   > A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate...
 
 
 ---
-*Last updated at 2026-11-12 09:13:01 UTC*
+*Last updated at 2026-11-12 10:11:36 UTC*
 *Historical records are stored in the `archive` directory.*
