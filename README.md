@@ -4,12 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Mr-xn](https://github.com/Mr-xn)
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [huamidev/GestaltX](https://github.com/huamidev/GestaltX)
-  > An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
-- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [huamidev/GestaltX](https://github.com/huamidev/GestaltX) to [Mr-xn/GestaltX](https://github.com/Mr-xn/GestaltX)
-  > An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.
-
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
   > A sandbox escape for iOS 26 and 27, again
@@ -17,6 +11,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hackcatml](https://github.com/hackcatml)
 - 🍴 👤 [hackcatml](https://github.com/hackcatml) Forked [roapi/roapi](https://github.com/roapi/roapi) to [hackcatml/roapi](https://github.com/hackcatml/roapi)
   > Create full-fledged APIs for slowly moving datasets without writing a single line of code.
+
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [RhizoNymph/CodeCartographer](https://github.com/RhizoNymph/CodeCartographer)
+  > A tauri app for visualizing codebases
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235)
@@ -31,6 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
   > Hundreds of models & providers. One command to find what runs on your hardware.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Picom-code/pico-dgx-ds4](https://github.com/Picom-code/pico-dgx-ds4)
+  > DeepSeek V4.1 Flash on 4x DGX Spark: 438 tok/s at 16 users, ~80/138 single-user, 1M context. Fork of...
 
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [hrvach/unixpc](https://github.com/hrvach/unixpc)
@@ -46,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 14:12:08 UTC*
+*Last updated at 2026-11-12 15:11:24 UTC*
 *Historical records are stored in the `archive` directory.*
