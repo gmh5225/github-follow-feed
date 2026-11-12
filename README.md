@@ -4,8 +4,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users (following + custom list) have no new public activity today.
+Tracked users have no public activity today that matches the filter criteria.
 
 ---
-*Last updated at 2026-11-12 00:31:12 UTC*
+*Last updated at 2026-11-12 01:12:12 UTC*
 *Historical records are stored in the `archive` directory.*
