@@ -8,6 +8,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235)
   > One of the most powerful primitives for Windows default configuration LPE
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [U007D/rust-mos-env](https://github.com/U007D/rust-mos-env)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [mountain-loop/yaak](https://github.com/mountain-loop/yaak)
+  > The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent E...
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [berbicanes/apiark](https://github.com/berbicanes/apiark)
+  > Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postma...
+
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [seregonwar/slibz](https://github.com/seregonwar/slibz)
+  > slz - Fast, hardened archive extraction in C99 + assembly for zip/zip64, 7z, tar, gzip, tar.gz.
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
@@ -71,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 22:10:06 UTC*
+*Last updated at 2026-11-12 23:09:05 UTC*
 *Historical records are stored in the `archive` directory.*
