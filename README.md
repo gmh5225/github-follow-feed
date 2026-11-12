@@ -4,13 +4,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235)
+  > One of the most powerful primitives for Windows default configuration LPE
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [U007D/rust-mos-env](https://github.com/U007D/rust-mos-env)
+
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
   > 基础反检测 frida-server / Basic anti-detection frida-server
-
-### [Wenzel](https://github.com/Wenzel)
-- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [aws/aws-emulator](https://github.com/aws/aws-emulator)
-  > AWS Emulator is a local emulator of the AWS APIs.
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nestho/impacket-rs](https://github.com/nestho/impacket-rs)
@@ -66,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 20:11:41 UTC*
+*Last updated at 2026-11-12 21:09:57 UTC*
 *Historical records are stored in the `archive` directory.*
