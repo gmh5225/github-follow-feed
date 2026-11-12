@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
   > A sandbox escape for iOS 26 and 27, again
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235)
+  > One of the most powerful primitives for Windows default configuration LPE
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [huacnlee/cargo](https://github.com/huacnlee/cargo)
   > A fork of Cargo tuned for fast local builds and a bounded disk footprint
@@ -64,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 11:10:32 UTC*
+*Last updated at 2026-11-12 12:17:01 UTC*
 *Historical records are stored in the `archive` directory.*
