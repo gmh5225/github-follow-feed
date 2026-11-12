@@ -8,6 +8,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Ylarod/Florida](https://github.com/Ylarod/Florida)
   > 基础反检测 frida-server / Basic anti-detection frida-server
 
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [aws/aws-emulator](https://github.com/aws/aws-emulator)
+  > AWS Emulator is a local emulator of the AWS APIs.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nestho/impacket-rs](https://github.com/nestho/impacket-rs)
   > High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools fo...
@@ -42,14 +46,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [huacnlee/cargo](https://github.com/huacnlee/cargo)
   > A fork of Cargo tuned for fast local builds and a bounded disk footprint
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
-  > A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)
-  > Hundreds of models & providers. One command to find what runs on your hardware.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Picom-code/pico-dgx-ds4](https://github.com/Picom-code/pico-dgx-ds4)
-  > DeepSeek V4.1 Flash on 4x DGX Spark: 438 tok/s at 16 users, ~80/138 single-user, 1M context. Fork of...
-
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [tylertms/Stela](https://github.com/tylertms/Stela)
   > A general purpose Apple Silicon layer for x86-64 PCs
@@ -64,15 +60,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [therealcoiffeur/MalGit](https://github.com/therealcoiffeur/MalGit)
   > MalGit demonstrate multiple configuration based RCE vectors within Git.
 
-### [tiagosiebler](https://github.com/tiagosiebler)
-- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [morluto/rea](https://github.com/morluto/rea)
-  > Reverse engineer anything with agents, from app behavior down to native binaries.
-
 ### [xuhancn](https://github.com/xuhancn)
 - 🍴 👤 [xuhancn](https://github.com/xuhancn) Forked [pytorch/helion](https://github.com/pytorch/helion) to [xuhancn/helion](https://github.com/xuhancn/helion)
   > A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate...
 
 
 ---
-*Last updated at 2026-11-12 19:09:32 UTC*
+*Last updated at 2026-11-12 20:11:41 UTC*
 *Historical records are stored in the `archive` directory.*
