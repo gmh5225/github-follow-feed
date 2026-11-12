@@ -4,8 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Calinou](https://github.com/Calinou)
-- 🌟 👤 [Calinou](https://github.com/Calinou) Starred [theagentd/CORTAO](https://github.com/theagentd/CORTAO)
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [nestho/impacket-rs](https://github.com/nestho/impacket-rs)
+  > High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools fo...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [aws/aws-emulator](https://github.com/aws/aws-emulator)
+  > AWS Emulator is a local emulator of the AWS APIs.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac)
+  > Process Explorer for MacOS
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot)
+  > Sub-millisecond VM sandboxes for AI agents via copy-on-write forking
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query)
@@ -37,6 +44,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Picom-code/pico-dgx-ds4](https://github.com/Picom-code/pico-dgx-ds4)
   > DeepSeek V4.1 Flash on 4x DGX Spark: 438 tok/s at 16 users, ~80/138 single-user, 1M context. Fork of...
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [tylertms/Stela](https://github.com/tylertms/Stela)
+  > A general purpose Apple Silicon layer for x86-64 PCs
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [OxiDD/oxidd](https://github.com/OxiDD/oxidd)
+  > Concurrent decision diagram framework written in Rust
+
 ### [rochus-keller](https://github.com/rochus-keller)
 - 🌟 👤 [rochus-keller](https://github.com/rochus-keller) Starred [hrvach/unixpc](https://github.com/hrvach/unixpc)
   > Unix PC Implementation in FPGA
@@ -55,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-12 16:13:08 UTC*
+*Last updated at 2026-11-12 17:10:19 UTC*
 *Historical records are stored in the `archive` directory.*
