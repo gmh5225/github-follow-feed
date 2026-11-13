@@ -49,6 +49,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/Haru](https://github.com/higurashi-ai/Haru)
   > Haru: a low-latency, multilingual, full-duplex spoken dialogue model
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)
+  > Keep your coding agent up to date with the latest web best practices
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
+  > Keep your coding agent up to date with the latest web best practices
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Cyfrin/audit-checklist](https://github.com/Cyfrin/audit-checklist)
+  > Aggregated audit checklist
+
 ### [rui314](https://github.com/rui314)
 - 🍴 👤 [rui314](https://github.com/rui314) Forked [gimli-rs/cpp_demangle](https://github.com/gimli-rs/cpp_demangle) to [rui314/cpp_demangle](https://github.com/rui314/cpp_demangle)
   > A crate for demangling C++ symbols
@@ -59,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-13 10:11:24 UTC*
+*Last updated at 2026-11-13 11:10:14 UTC*
 *Historical records are stored in the `archive` directory.*
