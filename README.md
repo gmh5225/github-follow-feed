@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsnake/taroo](https://github.com/binsnake/taroo)
 
+### [jtriley2p](https://github.com/jtriley2p)
+- 🌟 👤 [jtriley2p](https://github.com/jtriley2p) Starred [z80dev/lemon](https://github.com/z80dev/lemon)
+  > BEAM-native platform for LLM agents: OTP-supervised per-run processes, pluggable engines and channel...
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [villager1314/CVE-2026-98260-Analysis](https://github.com/villager1314/CVE-2026-98260-Analysis)
 
@@ -49,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Keep your coding agent up to date with the latest web best practices
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Cyfrin/audit-checklist](https://github.com/Cyfrin/audit-checklist)
   > Aggregated audit checklist
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [AntonioCiolino/DarkSword-Analysis](https://github.com/AntonioCiolino/DarkSword-Analysis)
+  > DarkSword iOS Exploit Chain -- Deep Technical Analysis
 
 ### [rui314](https://github.com/rui314)
 - 🍴 👤 [rui314](https://github.com/rui314) Forked [gimli-rs/cpp_demangle](https://github.com/gimli-rs/cpp_demangle) to [rui314/cpp_demangle](https://github.com/rui314/cpp_demangle)
@@ -60,5 +66,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-13 22:10:03 UTC*
+*Last updated at 2026-11-13 23:09:59 UTC*
 *Historical records are stored in the `archive` directory.*
