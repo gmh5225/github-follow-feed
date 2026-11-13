@@ -20,6 +20,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [yappologistic/CUI](https://github.com/yappologistic/CUI)
   > Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsnake/taroo](https://github.com/binsnake/taroo)
+
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/Haru](https://github.com/higurashi-ai/Haru)
   > Haru: a low-latency, multilingual, full-duplex spoken dialogue model
@@ -34,5 +37,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-13 08:15:29 UTC*
+*Last updated at 2026-11-13 09:13:49 UTC*
 *Historical records are stored in the `archive` directory.*
