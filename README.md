@@ -34,10 +34,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [RYF5584/wxapkg-dump](https://github.com/RYF5584/wxapkg-dump) to [CrackerCat/wxapkg-dump](https://github.com/CrackerCat/wxapkg-dump)
   > 微信小程序Wxapkg 下载，解密，导出，修复，一键修复为可运行的源码，支持Win，Linux，Mac，远程直接下载小程序完整源码
 
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [failsafe-security/artex](https://github.com/failsafe-security/artex)
-  > Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)
-
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
   > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
@@ -74,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-13 14:11:52 UTC*
+*Last updated at 2026-11-13 15:10:54 UTC*
 *Historical records are stored in the `archive` directory.*
