@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
   > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
 
+### [eliben](https://github.com/eliben)
+- 🍴 👤 [eliben](https://github.com/eliben) Forked [sdiehl/zero-to-qed](https://github.com/sdiehl/zero-to-qed) to [eliben/zero-to-qed](https://github.com/eliben/zero-to-qed)
+  > From Zero to QED: An informal introduction to formality with Lean 4
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [yappologistic/CUI](https://github.com/yappologistic/CUI)
   > Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows...
@@ -70,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-13 15:10:54 UTC*
+*Last updated at 2026-11-13 16:12:18 UTC*
 *Historical records are stored in the `archive` directory.*
