@@ -49,10 +49,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsnake/taroo](https://github.com/binsnake/taroo)
 
-### [gakonst](https://github.com/gakonst)
-- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [libkrun/libkrun](https://github.com/libkrun/libkrun) to [nanocodexyz/libkrun](https://github.com/nanocodexyz/libkrun)
-  > A dynamic library providing Virtualization-based process isolation capabilities
-
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [villager1314/CVE-2026-98260-Analysis](https://github.com/villager1314/CVE-2026-98260-Analysis)
 
@@ -78,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-13 13:11:03 UTC*
+*Last updated at 2026-11-13 14:11:52 UTC*
 *Historical records are stored in the `archive` directory.*
