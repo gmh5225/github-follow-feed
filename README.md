@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [RYF5584/wxapkg-dump](https://github.com/RYF5584/wxapkg-dump) to [CrackerCat/wxapkg-dump](https://github.com/CrackerCat/wxapkg-dump)
   > 微信小程序Wxapkg 下载，解密，导出，修复，一键修复为可运行的源码，支持Win，Linux，Mac，远程直接下载小程序完整源码
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [failsafe-security/artex](https://github.com/failsafe-security/artex)
+  > Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)
+
 ### [cocomelonc](https://github.com/cocomelonc)
 - 🌟 👤 [cocomelonc](https://github.com/cocomelonc) Starred [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop)
   > Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vulnerability
@@ -44,6 +48,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsnake/taroo](https://github.com/binsnake/taroo)
+
+### [gakonst](https://github.com/gakonst)
+- 🍴 👤 [gakonst](https://github.com/gakonst) Forked [libkrun/libkrun](https://github.com/libkrun/libkrun) to [nanocodexyz/libkrun](https://github.com/nanocodexyz/libkrun)
+  > A dynamic library providing Virtualization-based process isolation capabilities
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [villager1314/CVE-2026-98260-Analysis](https://github.com/villager1314/CVE-2026-98260-Analysis)
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/Haru](https://github.com/higurashi-ai/Haru)
@@ -67,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-13 12:16:08 UTC*
+*Last updated at 2026-11-13 13:11:03 UTC*
 *Historical records are stored in the `archive` directory.*
