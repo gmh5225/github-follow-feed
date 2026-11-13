@@ -12,9 +12,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235)
   > One of the most powerful primitives for Windows default configuration LPE
 
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura)
-  > The headless browser for AI agents and web scraping
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [yappologistic/CUI](https://github.com/yappologistic/CUI)
+  > Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows...
 
 ### [minaminao](https://github.com/minaminao)
 - 🌟 👤 [minaminao](https://github.com/minaminao) Starred [higurashi-ai/Haru](https://github.com/higurashi-ai/Haru)
@@ -30,5 +30,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-13 06:21:11 UTC*
+*Last updated at 2026-11-13 07:12:46 UTC*
 *Historical records are stored in the `archive` directory.*
