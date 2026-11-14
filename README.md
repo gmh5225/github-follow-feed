@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [mappu/miqt](https://github.com/mappu/miqt)
   > MIT-licensed Qt bindings for Go
 
+### [hzqst](https://github.com/hzqst)
+- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [baarsik/CounterStrikeExtended](https://github.com/baarsik/CounterStrikeExtended)
+  > Extended Counter-Strike 1.6 build using GoldSrc-SDK repository as a base
+
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [mid-kid/metroskrew](https://github.com/mid-kid/metroskrew) to [ioncodes/metroskrew](https://github.com/ioncodes/metroskrew)
   > Port of the proprietary Windows Metrowerks ARM compiler to Linux by relinking
@@ -48,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-14 15:09:08 UTC*
+*Last updated at 2026-11-14 16:10:52 UTC*
 *Historical records are stored in the `archive` directory.*
