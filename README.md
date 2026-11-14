@@ -26,10 +26,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [mappu/miqt](https://github.com/mappu/miqt)
   > MIT-licensed Qt bindings for Go
 
-### [hzqst](https://github.com/hzqst)
-- 🌟 👤 [hzqst](https://github.com/hzqst) Starred [baarsik/CounterStrikeExtended](https://github.com/baarsik/CounterStrikeExtended)
-  > Extended Counter-Strike 1.6 build using GoldSrc-SDK repository as a base
-
 ### [ioncodes](https://github.com/ioncodes)
 - 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [mid-kid/metroskrew](https://github.com/mid-kid/metroskrew) to [ioncodes/metroskrew](https://github.com/ioncodes/metroskrew)
   > Port of the proprietary Windows Metrowerks ARM compiler to Linux by relinking
@@ -39,6 +35,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kianuni/WQGuard](https://github.com/Kianuni/WQGuard)
   > 🛡️ 面向 iOS 26.2+/27.x 的 100% 只读开源沙盒越权检测、侧载 IPA 审查与固件 CVE 防护工具 | 100% Read-Only iOS Sandbox Escape Sca...
+
+### [lazyparser](https://github.com/lazyparser)
+- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [TongmingLAIC/tilelang-riscv](https://github.com/TongmingLAIC/tilelang-riscv) to [kubuds/tilelang-riscv-index](https://github.com/kubuds/tilelang-riscv-index)
+  > Community hub for TileLang on RISC-V, bringing together compiler backends, AI kernels, developer too...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightstream](https://github.com/msuiche/weightstream)
@@ -52,5 +52,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-14 16:10:52 UTC*
+*Last updated at 2026-11-14 17:08:53 UTC*
 *Historical records are stored in the `archive` directory.*
