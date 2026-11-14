@@ -20,6 +20,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) to [classic130/NucleiFuzzer](https://github.com/classic130/NucleiFuzzer)
   > NucleiFuzzer is a robust automation tool that efficiently detects web application vulnerabilities, i...
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [root-project/cling](https://github.com/root-project/cling)
+  > The cling C++ interpreter
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [egoist/mygo](https://github.com/egoist/mygo)
   > Develop desktop apps with native UI or web frontend in Go
@@ -35,6 +39,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kianuni/WQGuard](https://github.com/Kianuni/WQGuard)
   > 🛡️ 面向 iOS 26.2+/27.x 的 100% 只读开源沙盒越权检测、侧载 IPA 审查与固件 CVE 防护工具 | 100% Read-Only iOS Sandbox Escape Sca...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [open-mcp-ai/Termcp](https://github.com/open-mcp-ai/Termcp)
+  > 最终的 MCP | Terminus MCP： 将界面视作终端。管理本地和远端机器，动态集成管理不限数量且不限机器的MCP，并保持单mcp tool上下文不增长。 Turn interfaces in...
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [TongmingLAIC/tilelang-riscv](https://github.com/TongmingLAIC/tilelang-riscv) to [kubuds/tilelang-riscv-index](https://github.com/kubuds/tilelang-riscv-index)
@@ -52,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-14 17:08:53 UTC*
+*Last updated at 2026-11-14 18:11:54 UTC*
 *Historical records are stored in the `archive` directory.*
