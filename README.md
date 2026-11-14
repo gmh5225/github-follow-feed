@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [abedegno/borland-reborn](https://github.com/abedegno/borland-reborn)
+  > Borland's DOS compilers, recovered as source that rebuilds the original binaries byte for byte. Firs...
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235) to [classic130/CVE-2026-88235](https://github.com/classic130/CVE-2026-88235)
   > One of the most powerful primitives for Windows default configuration LPE
@@ -23,16 +27,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [egoist/mygo](https://github.com/egoist/mygo)
   > Develop desktop apps with native UI or web frontend in Go
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [mappu/miqt](https://github.com/mappu/miqt)
+  > MIT-licensed Qt bindings for Go
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kianuni/WQGuard](https://github.com/Kianuni/WQGuard)
   > 🛡️ 面向 iOS 26.2+/27.x 的 100% 只读开源沙盒越权检测、侧载 IPA 审查与固件 CVE 防护工具 | 100% Read-Only iOS Sandbox Escape Sca...
 
-### [lazyparser](https://github.com/lazyparser)
-- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [vllm-project/vllm](https://github.com/vllm-project/vllm) to [kubuds/vllm](https://github.com/kubuds/vllm)
-  > A high-throughput and memory-efficient inference and serving engine for LLMs
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightstream](https://github.com/msuiche/weightstream)
+  > weightstream: a DGX Spark-native Rust inference engine for DeepSeek V4.1 Flash, with native GLP stee...
 
 
 ---
-*Last updated at 2026-11-14 09:10:45 UTC*
+*Last updated at 2026-11-14 10:09:58 UTC*
 *Historical records are stored in the `archive` directory.*
