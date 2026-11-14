@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [abedegno/borland-reborn](https://github.com/abedegno/borland-reborn)
-  > Borland's DOS compilers, recovered as source that rebuilds the original binaries byte for byte. Firs...
-
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235) to [classic130/CVE-2026-88235](https://github.com/classic130/CVE-2026-88235)
   > One of the most powerful primitives for Windows default configuration LPE
@@ -38,7 +34,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [msuiche/weightstream](https://github.com/msuiche/weightstream)
   > weightstream: a DGX Spark-native Rust inference engine for DeepSeek V4.1 Flash, with native GLP stee...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [failsafe-security/artex](https://github.com/failsafe-security/artex)
+  > Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)
+
 
 ---
-*Last updated at 2026-11-14 12:14:47 UTC*
+*Last updated at 2026-11-14 13:09:17 UTC*
 *Historical records are stored in the `archive` directory.*
