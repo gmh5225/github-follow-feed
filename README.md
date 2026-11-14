@@ -4,9 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nanocodexyz/harnesslang](https://github.com/nanocodexyz/harnesslang)
-  > A language for durable agent harnesses, compiled to each platform's durability guarantees: native Ru...
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235) to [classic130/CVE-2026-88235](https://github.com/classic130/CVE-2026-88235)
+  > One of the most powerful primitives for Windows default configuration LPE
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kianuni/WQGuard](https://github.com/Kianuni/WQGuard)
@@ -14,5 +14,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-14 03:12:55 UTC*
+*Last updated at 2026-11-14 04:12:43 UTC*
 *Historical records are stored in the `archive` directory.*
