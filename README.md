@@ -26,6 +26,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [mappu/miqt](https://github.com/mappu/miqt)
   > MIT-licensed Qt bindings for Go
 
+### [ioncodes](https://github.com/ioncodes)
+- 🍴 👤 [ioncodes](https://github.com/ioncodes) Forked [mid-kid/metroskrew](https://github.com/mid-kid/metroskrew) to [ioncodes/metroskrew](https://github.com/ioncodes/metroskrew)
+  > Port of the proprietary Windows Metrowerks ARM compiler to Linux by relinking
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [0xflux/rust_custom_hypervisor](https://github.com/0xflux/rust_custom_hypervisor)
+  > Custom hypervisor in Rust following with https://rayanfam.com/topics/hypervisor-from-scratch-part-1
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kianuni/WQGuard](https://github.com/Kianuni/WQGuard)
   > 🛡️ 面向 iOS 26.2+/27.x 的 100% 只读开源沙盒越权检测、侧载 IPA 审查与固件 CVE 防护工具 | 100% Read-Only iOS Sandbox Escape Sca...
@@ -37,8 +43,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [failsafe-security/artex](https://github.com/failsafe-security/artex)
   > Source-built, locally bound FailSafe distribution of ARTEX (v0.3.15)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)
+  > Keep your coding agent up to date with the latest web best practices
 
 
 ---
-*Last updated at 2026-11-14 14:09:26 UTC*
+*Last updated at 2026-11-14 15:09:08 UTC*
 *Historical records are stored in the `archive` directory.*
