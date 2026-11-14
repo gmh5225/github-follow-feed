@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [crisprss/CVE-2026-88235](https://github.com/crisprss/CVE-2026-88235) to [classic130/CVE-2026-88235](https://github.com/classic130/CVE-2026-88235)
   > One of the most powerful primitives for Windows default configuration LPE
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [BenAmpel/hackersignal](https://github.com/BenAmpel/hackersignal) to [classic130/hackersignal](https://github.com/classic130/hackersignal)
+  > HackerSignal (NeurIPS 2026 Evaluations & Datasets Track): a 7.45M-document cyber threat intelligence...
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Kianuni/WQGuard](https://github.com/Kianuni/WQGuard)
@@ -14,5 +16,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-14 07:10:56 UTC*
+*Last updated at 2026-11-14 08:13:14 UTC*
 *Historical records are stored in the `archive` directory.*
