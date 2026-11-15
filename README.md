@@ -56,7 +56,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage)
   > A tool for burning visible pictures on a compact disc surfase
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [fuyichen0725/blinkmimic](https://github.com/fuyichen0725/blinkmimic)
+  > Whole-body motion tracking for the Unitree G1 in about 3 minutes on one GPU.
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [nico-bohlinger/xmimic](https://github.com/nico-bohlinger/xmimic)
+  > Whole-body motion tracking for the Unitree G1 in under a minute. BlinkMimic's world-model trainer re...
+
 
 ---
-*Last updated at 2026-11-15 16:11:11 UTC*
+*Last updated at 2026-11-15 17:08:32 UTC*
 *Historical records are stored in the `archive` directory.*
