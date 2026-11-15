@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Luigi-Pizzolito/qemu-mhyprot2-patch](https://github.com/Luigi-Pizzolito/qemu-mhyprot2-patch) to [CrackerCat/qemu-mhyprot2-patch](https://github.com/CrackerCat/qemu-mhyprot2-patch)
   > Patched QEMU 10.2.2 + KVM hypercall #UD module for running Genshin Impact (mhyprot2) in a VFIO Windo...
 
+### [Dax89](https://github.com/Dax89)
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth)
+  > A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, ...
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [DIYgod/pinky](https://github.com/DIYgod/pinky)
   > Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or ...
@@ -42,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-15 13:09:11 UTC*
+*Last updated at 2026-11-15 14:09:29 UTC*
 *Historical records are stored in the `archive` directory.*
