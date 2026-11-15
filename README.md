@@ -7,6 +7,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [DIYgod/pinky](https://github.com/DIYgod/pinky)
   > Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or ...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [paul-nameless/agweb](https://github.com/paul-nameless/agweb)
+  >  A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [trailofbits/deepstate](https://github.com/trailofbits/deepstate)
@@ -14,5 +16,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-15 06:17:48 UTC*
+*Last updated at 2026-11-15 07:10:47 UTC*
 *Historical records are stored in the `archive` directory.*
