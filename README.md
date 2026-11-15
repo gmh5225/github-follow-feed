@@ -29,6 +29,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Dax89](https://github.com/Dax89)
 - 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth)
   > A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, ...
+- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [alekmaul/pvsneslib](https://github.com/alekmaul/pvsneslib)
+  > PVSnesLib : A small, open and free development kit for the Nintendo SNES
 
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [DIYgod/pinky](https://github.com/DIYgod/pinky)
@@ -44,7 +46,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)
   > an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage)
+  > A tool for burning visible pictures on a compact disc surfase
+
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [lucypero/lucynes](https://github.com/lucypero/lucynes)
+  > Accurate NES emulator written in Odin
+
 
 ---
-*Last updated at 2026-11-15 14:09:29 UTC*
+*Last updated at 2026-11-15 15:09:25 UTC*
 *Historical records are stored in the `archive` directory.*
