@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [ergrelet](https://github.com/ergrelet)
+- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [trailofbits/deepstate](https://github.com/trailofbits/deepstate)
+  > A unit test-like interface for fuzzing and symbolic execution
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
   > The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and ...
@@ -12,5 +16,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-15 02:15:56 UTC*
+*Last updated at 2026-11-15 03:13:48 UTC*
 *Historical records are stored in the `archive` directory.*
