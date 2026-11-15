@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage)
   > A tool for burning visible pictures on a compact disc surfase
 
+### [hypervisor](https://github.com/hypervisor)
+- 🚀 👤 [hypervisor](https://github.com/hypervisor) Made [aventra-as/next-intent](https://github.com/aventra-as/next-intent) public
+  > Predict cursor intent and prefetch Next.js routes before hover.
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [fuyichen0725/blinkmimic](https://github.com/fuyichen0725/blinkmimic)
   > Whole-body motion tracking for the Unitree G1 in about 3 minutes on one GPU.
@@ -54,5 +58,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-15 19:08:23 UTC*
+*Last updated at 2026-11-15 20:10:43 UTC*
 *Historical records are stored in the `archive` directory.*
