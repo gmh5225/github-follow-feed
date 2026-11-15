@@ -37,6 +37,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or ...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [paul-nameless/agweb](https://github.com/paul-nameless/agweb)
   >  A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [daeuniverse/honk](https://github.com/daeuniverse/honk)
+  > Inspired by dae & sing-box
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [marbas207/Pathwarden](https://github.com/marbas207/Pathwarden) to [classic130/Pathwarden](https://github.com/classic130/Pathwarden)
+  > Your domain's attack paths, mapped, monitored, and closed.
 
 ### [ergrelet](https://github.com/ergrelet)
 - 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [trailofbits/deepstate](https://github.com/trailofbits/deepstate)
@@ -50,11 +56,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage)
   > A tool for burning visible pictures on a compact disc surfase
 
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [lucypero/lucynes](https://github.com/lucypero/lucynes)
-  > Accurate NES emulator written in Odin
-
 
 ---
-*Last updated at 2026-11-15 15:09:25 UTC*
+*Last updated at 2026-11-15 16:11:11 UTC*
 *Historical records are stored in the `archive` directory.*
