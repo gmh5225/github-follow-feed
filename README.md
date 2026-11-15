@@ -62,7 +62,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [nico-bohlinger/xmimic](https://github.com/nico-bohlinger/xmimic)
   > Whole-body motion tracking for the Unitree G1 in under a minute. BlinkMimic's world-model trainer re...
 
+### [mattgodbolt](https://github.com/mattgodbolt)
+- 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [waitingforvsync/hd6845-trace](https://github.com/waitingforvsync/hd6845-trace)
+  > Reverse engineering the Hitachi HD6845S CRTC from die photographs
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea)
+  > Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, gener...
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nubjs/nub](https://github.com/nubjs/nub)
+  > The fast all-in-one Node.js toolkit
+
 
 ---
-*Last updated at 2026-11-15 17:08:32 UTC*
+*Last updated at 2026-11-15 18:12:48 UTC*
 *Historical records are stored in the `archive` directory.*
