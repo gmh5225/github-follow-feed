@@ -40,11 +40,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)
   > an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...
 
-### [lazyparser](https://github.com/lazyparser)
-- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [ashhart/TensorFold](https://github.com/ashhart/TensorFold) to [kubuds/TensorFold-riscv](https://github.com/kubuds/TensorFold-riscv)
-  > LLM Inference Engine for Metal, CUDA and Vulkan.
-
 
 ---
-*Last updated at 2026-11-15 10:10:03 UTC*
+*Last updated at 2026-11-15 11:08:45 UTC*
 *Historical records are stored in the `archive` directory.*
