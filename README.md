@@ -76,6 +76,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A 33 KB, weight-space programmed System One model for code readability and hygiene.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leostera/git-twig](https://github.com/leostera/git-twig)
   > Native copy-on-write Git worktrees, with verified materialization and reproducible benchmarks.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remorses/castle-valley](https://github.com/remorses/castle-valley)
+  > A playable three.js game painted in oil brush strokes: the "omw" pixel-art post by @de5imulate, recr...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
@@ -102,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 16:12:33 UTC*
+*Last updated at 2026-11-16 17:10:07 UTC*
 *Historical records are stored in the `archive` directory.*
