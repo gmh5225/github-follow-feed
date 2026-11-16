@@ -34,6 +34,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) to [classic130/emp3r0r](https://github.com/classic130/emp3r0r)
   > Stealthy, Linux-first multi-operator C2 with a self-healing mesh, in-memory execution,  AI-driven MC...
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
+  > the ultimate vocal synthesizer - sing, speak, beatbox, and more
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+  > The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and ...
+
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [LinxISA/linx-isa](https://github.com/LinxISA/linx-isa)
+  > Linx Instruction Set Architecture
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
   > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
@@ -44,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 08:28:44 UTC*
+*Last updated at 2026-11-16 09:17:19 UTC*
 *Historical records are stored in the `archive` directory.*
