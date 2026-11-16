@@ -1,66 +1,11 @@
-# Daily GitHub Activity (2026-11-15)
+# Daily GitHub Activity (2026-11-16)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [Dax89](https://github.com/Dax89)
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [TecnaGamer/BeamNG.Earth](https://github.com/TecnaGamer/BeamNG.Earth)
-  > A 1:1 scale streamed Earth for BeamNG.drive: real elevation and satellite imagery, floating origin, ...
-- 🌟 👤 [Dax89](https://github.com/Dax89) Starred [alekmaul/pvsneslib](https://github.com/alekmaul/pvsneslib)
-  > PVSnesLib : A small, open and free development kit for the Nintendo SNES
-
-### [Mr-xn](https://github.com/Mr-xn)
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [DIYgod/pinky](https://github.com/DIYgod/pinky)
-  > Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or ...
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [paul-nameless/agweb](https://github.com/paul-nameless/agweb)
-  >  A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [daeuniverse/honk](https://github.com/daeuniverse/honk)
-  > Inspired by dae & sing-box
-
-### [classic130](https://github.com/classic130)
-- 🍴 👤 [classic130](https://github.com/classic130) Forked [marbas207/Pathwarden](https://github.com/marbas207/Pathwarden) to [classic130/Pathwarden](https://github.com/classic130/Pathwarden)
-  > Your domain's attack paths, mapped, monitored, and closed.
-
-### [ergrelet](https://github.com/ergrelet)
-- 🌟 👤 [ergrelet](https://github.com/ergrelet) Starred [trailofbits/deepstate](https://github.com/trailofbits/deepstate)
-  > A unit test-like interface for fuzzing and symbolic execution
-
-### [funkemunky](https://github.com/funkemunky)
-- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [GrimAnticheat/Grim](https://github.com/GrimAnticheat/Grim) to [funkemunky/Grim](https://github.com/funkemunky/Grim)
-  > Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% an...
-
-### [hackcatml](https://github.com/hackcatml)
-- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [aaif-goose/goose](https://github.com/aaif-goose/goose)
-  > an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and ...
-
-### [holly-hacker](https://github.com/holly-hacker)
-- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [arduinocelentano/cdimage](https://github.com/arduinocelentano/cdimage)
-  > A tool for burning visible pictures on a compact disc surfase
-
-### [hypervisor](https://github.com/hypervisor)
-- 🚀 👤 [hypervisor](https://github.com/hypervisor) Made [aventra-as/next-intent](https://github.com/aventra-as/next-intent) public
-  > Predict cursor intent and prefetch Next.js routes before hover.
-
-### [ikrima](https://github.com/ikrima)
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [fuyichen0725/blinkmimic](https://github.com/fuyichen0725/blinkmimic)
-  > Whole-body motion tracking for the Unitree G1 in about 3 minutes on one GPU.
-- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [nico-bohlinger/xmimic](https://github.com/nico-bohlinger/xmimic)
-  > Whole-body motion tracking for the Unitree G1 in under a minute. BlinkMimic's world-model trainer re...
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [emirmrkaljevic/usb-rea](https://github.com/emirmrkaljevic/usb-rea)
-  > Reverse Engineer any USB gadget: capture vendor-app traffic, infer the protocol with evidence, gener...
-
-### [mq1n](https://github.com/mq1n)
-- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [nubjs/nub](https://github.com/nubjs/nub)
-  > The fast all-in-one Node.js toolkit
-
-### [osm0sis](https://github.com/osm0sis)
-- 🌟 👤 [osm0sis](https://github.com/osm0sis) Starred [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork)
-  > Fix Play Integrity <A13 verdicts, allowing custom fields and props
-
+Tracked users have no public activity today that matches the filter criteria.
 
 ---
-*Last updated at 2026-11-15 23:11:12 UTC*
+*Last updated at 2026-11-16 00:36:53 UTC*
 *Historical records are stored in the `archive` directory.*
