@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX)
+  > Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [GitKittys/kpm-gdb](https://github.com/GitKittys/kpm-gdb) to [CrackerCat/kpm-gdb](https://github.com/CrackerCat/kpm-gdb)
   > Stealth debugger using kernel hardware breakpoints — LLDB/GDB compatible, anti-detection
@@ -50,6 +54,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
   > The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and ...
 
+### [lazyparser](https://github.com/lazyparser)
+- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [JustVugg/colibri](https://github.com/JustVugg/colibri) to [kubuds/colibri-riscv](https://github.com/kubuds/colibri-riscv)
+  > A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm...
+
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [LinxISA/linx-isa](https://github.com/LinxISA/linx-isa)
   > Linx Instruction Set Architecture
@@ -59,6 +67,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [guitmz/halfexec](https://github.com/guitmz/halfexec)
   > Userland ELF loader for Linux x64 in FASM. Runs static, PIE and dynamic binaries without execve
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jedisct1/flightdeck-deckbo](https://github.com/jedisct1/flightdeck-deckbo)
+  > FlightDeck-DeckBO: Parallelizable, session-supporting, nonce-misuse resistant and committing authent...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
@@ -70,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 12:22:12 UTC*
+*Last updated at 2026-11-16 13:27:53 UTC*
 *Historical records are stored in the `archive` directory.*
