@@ -39,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Starred [SunWeb3Sec/guardrail-blue](https://github.com/SunWeb3Sec/guardrail-blue)
   > Audit a Claude Code project and generate guardrails: permission rules and hooks that block secret re...
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [iuzn/tunel](https://github.com/iuzn/tunel)
+  > A dot-matrix typeface for LED signs, named after Istanbul's Tünel. Variable, 9 weights, 361 characte...
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [W4L33Dx/Cyber-Monster](https://github.com/W4L33Dx/Cyber-Monster) to [classic130/Cyber-Monster](https://github.com/classic130/Cyber-Monster)
   > The ultimate cyber skill for an AI agent. One folder. One registered skill. A full red-team and blue...
@@ -60,6 +64,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
   > the ultimate vocal synthesizer - sing, speak, beatbox, and more
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [jolt-lang/jolt](https://github.com/jolt-lang/jolt)
+  > A Clojure compiler implemented on top of Chez Scheme
 
 ### [ioncodes](https://github.com/ioncodes)
 - 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
@@ -115,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 19:09:50 UTC*
+*Last updated at 2026-11-16 20:11:43 UTC*
 *Historical records are stored in the `archive` directory.*
