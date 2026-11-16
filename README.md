@@ -34,6 +34,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [ZigZagBoi1/PS5-14.10-Research](https://github.com/ZigZagBoi1/PS5-14.10-Research)
   > Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-surface analysis. Ker...
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Ryftenius/RESX](https://github.com/Ryftenius/RESX)
+  > Specialized Windows Reverse Engineering & Binary Analysis Toolkit | API Deobfuscation, Call Graphs, ...
 
 ### [SunWeb3Sec](https://github.com/SunWeb3Sec)
 - 🌟 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Starred [SunWeb3Sec/guardrail-blue](https://github.com/SunWeb3Sec/guardrail-blue)
@@ -121,5 +123,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 20:11:43 UTC*
+*Last updated at 2026-11-16 21:10:15 UTC*
 *Historical records are stored in the `archive` directory.*
