@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) to [classic130/emp3r0r](https://github.com/classic130/emp3r0r)
   > Stealthy, Linux-first multi-operator C2 with a self-healing mesh, in-memory execution,  AI-driven MC...
 
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [Harry-Chen/unlocked-ada-gemm](https://github.com/Harry-Chen/unlocked-ada-gemm)
+  > GEMM done right on unlocked RTX 4090
+
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
@@ -104,5 +108,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 17:10:07 UTC*
+*Last updated at 2026-11-16 18:14:31 UTC*
 *Historical records are stored in the `archive` directory.*
