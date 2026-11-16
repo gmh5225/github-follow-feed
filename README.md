@@ -74,6 +74,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EdisonScientific/prime-rl-adversarial-paper](https://github.com/EdisonScientific/prime-rl-adversarial-paper)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [brianbell-x/codehygiene](https://github.com/brianbell-x/codehygiene)
   > A 33 KB, weight-space programmed System One model for code readability and hygiene.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leostera/git-twig](https://github.com/leostera/git-twig)
+  > Native copy-on-write Git worktrees, with verified materialization and reproducible benchmarks.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
@@ -90,6 +92,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [triskellib/triskel](https://github.com/triskellib/triskel)
   > A graphing library for Control Flow Graphs
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [glarer/UserspaceBypass](https://github.com/glarer/UserspaceBypass)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [R-Fuzz/symsan](https://github.com/R-Fuzz/symsan)
+  > A LLVM Sanitizer for Symbolic Tracing and Under-Constrained Execution
 
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
@@ -97,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 15:18:46 UTC*
+*Last updated at 2026-11-16 16:12:33 UTC*
 *Historical records are stored in the `archive` directory.*
