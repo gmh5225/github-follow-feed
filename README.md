@@ -62,6 +62,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [LinxISA/linx-isa](https://github.com/LinxISA/linx-isa)
   > Linx Instruction Set Architecture
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [8zav1/jscdec](https://github.com/8zav1/jscdec)
+  > Pure-JS V8 / Bytenode (.jsc) bytecode decompiler, Electron .asar & .exe unpacker (Electron 22-34 / N...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
+  > A 4.5M-parameter two-voice English text-to-speech model, trained from scratch
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EdisonScientific/prime-rl-adversarial-paper](https://github.com/EdisonScientific/prime-rl-adversarial-paper)
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
   > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
@@ -80,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 13:27:53 UTC*
+*Last updated at 2026-11-16 14:25:24 UTC*
 *Historical records are stored in the `archive` directory.*
