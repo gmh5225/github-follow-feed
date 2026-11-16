@@ -4,8 +4,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-Tracked users have no public activity today that matches the filter criteria.
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [GitKittys/kpm-gdb](https://github.com/GitKittys/kpm-gdb) to [CrackerCat/kpm-gdb](https://github.com/CrackerCat/kpm-gdb)
+  > Stealth debugger using kernel hardware breakpoints — LLDB/GDB compatible, anti-detection
+
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [W4L33Dx/Cyber-Monster](https://github.com/W4L33Dx/Cyber-Monster) to [classic130/Cyber-Monster](https://github.com/classic130/Cyber-Monster)
+  > The ultimate cyber skill for an AI agent. One folder. One registered skill. A full red-team and blue...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) to [classic130/emp3r0r](https://github.com/classic130/emp3r0r)
+  > Stealthy, Linux-first multi-operator C2 with a self-healing mesh, in-memory execution,  AI-driven MC...
+
 
 ---
-*Last updated at 2026-11-16 01:14:14 UTC*
+*Last updated at 2026-11-16 02:18:01 UTC*
 *Historical records are stored in the `archive` directory.*
