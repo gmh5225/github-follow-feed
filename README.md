@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [ZigZagBoi1/PS5-14.10-Research](https://github.com/ZigZagBoi1/PS5-14.10-Research)
   > Open PS5 firmware 14.10 research: Lua userland experiments, syscall and attack-surface analysis. Ker...
 
+### [SunWeb3Sec](https://github.com/SunWeb3Sec)
+- 🌟 👤 [SunWeb3Sec](https://github.com/SunWeb3Sec) Starred [SunWeb3Sec/guardrail-blue](https://github.com/SunWeb3Sec/guardrail-blue)
+  > Audit a Claude Code project and generate guardrails: permission rules and hooks that block secret re...
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [W4L33Dx/Cyber-Monster](https://github.com/W4L33Dx/Cyber-Monster) to [classic130/Cyber-Monster](https://github.com/classic130/Cyber-Monster)
   > The ultimate cyber skill for an AI agent. One folder. One registered skill. A full red-team and blue...
@@ -68,6 +72,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca)
   > A 4.5M-parameter two-voice English text-to-speech model, trained from scratch
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EdisonScientific/prime-rl-adversarial-paper](https://github.com/EdisonScientific/prime-rl-adversarial-paper)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [brianbell-x/codehygiene](https://github.com/brianbell-x/codehygiene)
+  > A 33 KB, weight-space programmed System One model for code readability and hygiene.
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
@@ -81,11 +87,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [triskellib/triskel](https://github.com/triskellib/triskel)
+  > A graphing library for Control Flow Graphs
+
 ### [raysan5](https://github.com/raysan5)
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
 
 
 ---
-*Last updated at 2026-11-16 14:25:24 UTC*
+*Last updated at 2026-11-16 15:18:46 UTC*
 *Historical records are stored in the `archive` directory.*
