@@ -4,6 +4,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [V4bel/NoisyTCP](https://github.com/V4bel/NoisyTCP)
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX)
   > Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
@@ -42,10 +45,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) to [classic130/emp3r0r](https://github.com/classic130/emp3r0r)
   > Stealthy, Linux-first multi-operator C2 with a self-healing mesh, in-memory execution,  AI-driven MC...
 
-### [dtcxzyw](https://github.com/dtcxzyw)
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [Harry-Chen/unlocked-ada-gemm](https://github.com/Harry-Chen/unlocked-ada-gemm)
-  > GEMM done right on unlocked RTX 4090
-
 ### [frkngksl](https://github.com/frkngksl)
 - 🌟 👤 [frkngksl](https://github.com/frkngksl) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
@@ -53,6 +52,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom)
   > Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
+
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [NYLLON-SOFTWARE/SignuDoc](https://github.com/NYLLON-SOFTWARE/SignuDoc)
+  > Open-source document signature platform. Not affiliated with DocuSign. 
 
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [jamesondh/chimera-vocal-synth](https://github.com/jamesondh/chimera-vocal-synth)
@@ -82,6 +85,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Native copy-on-write Git worktrees, with verified materialization and reproducible benchmarks.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remorses/castle-valley](https://github.com/remorses/castle-valley)
   > A playable three.js game painted in oil brush strokes: the "omw" pixel-art post by @de5imulate, recr...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [baney75/smoothstone](https://github.com/baney75/smoothstone)
+  > A skill and CLI that lets small local models like LFM3-1.7B make 3D printable parts, from words or a...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [openscad/openscad](https://github.com/openscad/openscad)
+  > OpenSCAD - The Programmers Solid 3D CAD Modeller  
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
@@ -108,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-16 18:14:31 UTC*
+*Last updated at 2026-11-16 19:09:50 UTC*
 *Historical records are stored in the `archive` directory.*
