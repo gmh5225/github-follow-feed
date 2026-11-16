@@ -88,15 +88,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A 4.5M-parameter two-voice English text-to-speech model, trained from scratch
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [EdisonScientific/prime-rl-adversarial-paper](https://github.com/EdisonScientific/prime-rl-adversarial-paper)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [brianbell-x/codehygiene](https://github.com/brianbell-x/codehygiene)
-  > A 33 KB, weight-space programmed System One model for code readability and hygiene.
+  > A tiny system one model for code readability and hygiene.
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leostera/git-twig](https://github.com/leostera/git-twig)
-  > Native copy-on-write Git worktrees, with verified materialization and reproducible benchmarks.
+  > lightweight git-worktrees for agents
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remorses/castle-valley](https://github.com/remorses/castle-valley)
   > A playable three.js game painted in oil brush strokes: the "omw" pixel-art post by @de5imulate, recr...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [baney75/smoothstone](https://github.com/baney75/smoothstone)
   > A skill and CLI that lets small local models like LFM3-1.7B make 3D printable parts, from words or a...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [openscad/openscad](https://github.com/openscad/openscad)
   > OpenSCAD - The Programmers Solid 3D CAD Modeller  
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [baney75/smoothstone](https://github.com/baney75/smoothstone) to [mrexodia/smoothstone](https://github.com/mrexodia/smoothstone)
+  > A skill and CLI that lets small local models like LFM3-1.7B make 3D printable parts, from words or a...
 
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
@@ -121,7 +123,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [raysan5](https://github.com/raysan5) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
   > A free, open source, and extensible speech-to-text application that works completely offline.
 
+### [wonderzdh](https://github.com/wonderzdh)
+- 🌟 👤 [wonderzdh](https://github.com/wonderzdh) Starred [Ryftenius/RESX](https://github.com/Ryftenius/RESX)
+  > Specialized Windows Reverse Engineering & Binary Analysis Toolkit | API Deobfuscation, Call Graphs, ...
+
 
 ---
-*Last updated at 2026-11-16 22:10:15 UTC*
+*Last updated at 2026-11-16 23:09:34 UTC*
 *Historical records are stored in the `archive` directory.*
