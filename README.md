@@ -57,12 +57,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [jiwoochris/artex-global](https://github.com/jiwoochris/artex-global)
   > Global edition of ARTEX — an LLM multi-agent autonomous penetration-testing framework. English defau...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [guitmz/halfexec](https://github.com/guitmz/halfexec)
+  > Userland ELF loader for Linux x64 in FASM. Runs static, PIE and dynamic binaries without execve
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
 
+### [raysan5](https://github.com/raysan5)
+- 🌟 👤 [raysan5](https://github.com/raysan5) Starred [cjpais/Handy](https://github.com/cjpais/Handy)
+  > A free, open source, and extensible speech-to-text application that works completely offline.
+
 
 ---
-*Last updated at 2026-11-16 11:12:40 UTC*
+*Last updated at 2026-11-16 12:22:12 UTC*
 *Historical records are stored in the `archive` directory.*
