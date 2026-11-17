@@ -38,6 +38,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [plabayo/rama](https://github.com/plabayo/rama)
   > modular service framework to move and transform network packets
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [joshpuckett/allo](https://github.com/joshpuckett/allo)
+  > Allo is your friendly neighborhood typeface, free and open source
+
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [chu0119/Pojun](https://github.com/chu0119/Pojun) to [killvxk/Pojun](https://github.com/killvxk/Pojun)
   > AI 自主渗透测试 · 红队作战平台 | 多 Agent 自主推进 · 漏洞情报运营 · 后渗透与 C2 | LLM 三通道轮询 | 全程证据留痕 | 原百度攻防赛冠军项目独立演进版
@@ -70,5 +74,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-17 17:10:57 UTC*
+*Last updated at 2026-11-17 18:14:07 UTC*
 *Historical records are stored in the `archive` directory.*
