@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZXEB/dsh-purge](https://github.com/ZXEB/dsh-purge) to [CrackerCat/ZXEB-dsh-purge](https://github.com/CrackerCat/ZXEB-dsh-purge)
   > dsh-purge v1.1.71 完整源码镜像（原仓库 YuJunZhiXue/dsh-purge 与 npm 包均已删除）。DeepSeek Harness 破甲 / 红队评测插件，支持官方 we...
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [plabayo/rama](https://github.com/plabayo/rama)
+  > modular service framework to move and transform network packets
+
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [chu0119/Pojun](https://github.com/chu0119/Pojun) to [killvxk/Pojun](https://github.com/killvxk/Pojun)
   > AI 自主渗透测试 · 红队作战平台 | 多 Agent 自主推进 · 漏洞情报运营 · 后渗透与 C2 | LLM 三通道轮询 | 全程证据留痕 | 原百度攻防赛冠军项目独立演进版
@@ -38,15 +42,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [huggingface/pybot](https://github.com/huggingface/pybot)
   > PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis)
-  > Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant repli...
-
 ### [spudgy](https://github.com/spudgy)
 - 🌟 👤 [spudgy](https://github.com/spudgy) Starred [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird)
   > Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT pl...
 
+### [zodiacon](https://github.com/zodiacon)
+- 🚀 👤 [zodiacon](https://github.com/zodiacon) Made [zodiacon/LinSys](https://github.com/zodiacon/LinSys) public
+  > Linux system information library (the Linux counterpart of WinSys)
+
 
 ---
-*Last updated at 2026-11-17 11:10:40 UTC*
+*Last updated at 2026-11-17 12:16:33 UTC*
 *Historical records are stored in the `archive` directory.*
