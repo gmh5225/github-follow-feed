@@ -38,9 +38,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [chu0119/Pojun](https://github.com/chu0119/Pojun) to [killvxk/Pojun](https://github.com/killvxk/Pojun)
   > AI 自主渗透测试 · 红队作战平台 | 多 Agent 自主推进 · 漏洞情报运营 · 后渗透与 C2 | LLM 三通道轮询 | 全程证据留痕 | 原百度攻防赛冠军项目独立演进版
 
+### [mkeeter](https://github.com/mkeeter)
+- 🍴 👤 [mkeeter](https://github.com/mkeeter) Forked [guppy-rs/guppy](https://github.com/guppy-rs/guppy) to [mkeeter/guppy](https://github.com/mkeeter/guppy)
+  > Track and query Cargo dependency graphs.
+
 ### [mlabonne](https://github.com/mlabonne)
 - 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [huggingface/pybot](https://github.com/huggingface/pybot)
   > PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
+  > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mvt-project/mvt](https://github.com/mvt-project/mvt)
@@ -56,5 +64,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-17 14:11:53 UTC*
+*Last updated at 2026-11-17 15:12:08 UTC*
 *Historical records are stored in the `archive` directory.*
