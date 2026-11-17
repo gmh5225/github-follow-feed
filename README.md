@@ -38,7 +38,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [huggingface/pybot](https://github.com/huggingface/pybot)
   > PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis)
+  > Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant repli...
+
 
 ---
-*Last updated at 2026-11-17 08:15:46 UTC*
+*Last updated at 2026-11-17 09:13:24 UTC*
 *Historical records are stored in the `archive` directory.*
