@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ZXEB/dsh-purge](https://github.com/ZXEB/dsh-purge) to [CrackerCat/ZXEB-dsh-purge](https://github.com/CrackerCat/ZXEB-dsh-purge)
   > dsh-purge v1.1.71 完整源码镜像（原仓库 YuJunZhiXue/dsh-purge 与 npm 包均已删除）。DeepSeek Harness 破甲 / 红队评测插件，支持官方 we...
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [v3nomtech/infosec-cert-black-friday-2026](https://github.com/v3nomtech/infosec-cert-black-friday-2026)
+  > 🛡️  Black Friday & Cyber Monday 2026 deals on cybersecurity certifications, exam vouchers, training ...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [plabayo/rama](https://github.com/plabayo/rama)
   > modular service framework to move and transform network packets
@@ -64,5 +68,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-17 15:12:08 UTC*
+*Last updated at 2026-11-17 16:13:24 UTC*
 *Historical records are stored in the `archive` directory.*
