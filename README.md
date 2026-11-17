@@ -42,7 +42,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis)
   > Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant repli...
 
+### [spudgy](https://github.com/spudgy)
+- 🌟 👤 [spudgy](https://github.com/spudgy) Starred [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird)
+  > Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT pl...
+
 
 ---
-*Last updated at 2026-11-17 09:13:24 UTC*
+*Last updated at 2026-11-17 10:11:54 UTC*
 *Historical records are stored in the `archive` directory.*
