@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mlabonne](https://github.com/mlabonne) Starred [huggingface/pybot](https://github.com/huggingface/pybot)
   > PyBot: a chatbot written in pure Python by a swarm of agents. No weights, no training, just rules.
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [mvt-project/mvt](https://github.com/mvt-project/mvt)
+  > MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find...
+
 ### [spudgy](https://github.com/spudgy)
 - 🌟 👤 [spudgy](https://github.com/spudgy) Starred [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird)
   > Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT pl...
@@ -52,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-17 13:11:54 UTC*
+*Last updated at 2026-11-17 14:11:53 UTC*
 *Historical records are stored in the `archive` directory.*
