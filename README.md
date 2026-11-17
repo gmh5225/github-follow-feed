@@ -4,9 +4,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🌟 👤 [0xAX](https://github.com/0xAX) Starred [jflaherty/ptrtut13](https://github.com/jflaherty/ptrtut13)
+  > A TUTORIAL ON POINTERS AND ARRAYS IN C
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mjansson/mdns](https://github.com/mjansson/mdns)
   > Public domain mDNS/DNS-SD library in C
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [seL4/seL4](https://github.com/seL4/seL4)
+  > The seL4 microkernel
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [lifeengines/jitvm](https://github.com/lifeengines/jitvm) to [CrackerCat/jitvm](https://github.com/CrackerCat/jitvm)
@@ -47,6 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AI 自主渗透测试 · 红队作战平台 | 多 Agent 自主推进 · 漏洞情报运营 · 后渗透与 C2 | LLM 三通道轮询 | 全程证据留痕 | 原百度攻防赛冠军项目独立演进版
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig)
   > Automate the setup and configuration of your Windows development environment.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [chu0119/Pojun](https://github.com/chu0119/Pojun)
+  > AI 自主渗透测试 · 红队作战平台 | 多 Agent 自主推进 · 漏洞情报运营 · 后渗透与 C2 | LLM 三通道轮询 | 全程证据留痕 | 原百度攻防赛冠军项目独立演进版
 
 ### [mkeeter](https://github.com/mkeeter)
 - 🍴 👤 [mkeeter](https://github.com/mkeeter) Forked [guppy-rs/guppy](https://github.com/guppy-rs/guppy) to [mkeeter/guppy](https://github.com/mkeeter/guppy)
@@ -74,5 +82,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-17 19:09:31 UTC*
+*Last updated at 2026-11-17 20:11:38 UTC*
 *Historical records are stored in the `archive` directory.*
