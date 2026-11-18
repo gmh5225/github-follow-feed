@@ -59,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
   > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
 
+### [jtriley2p](https://github.com/jtriley2p)
+- 🚀 👤 [jtriley2p](https://github.com/jtriley2p) Made [jtriley2p/boids-sim-rs](https://github.com/jtriley2p/boids-sim-rs) public
+  > lightweight boids algo sim with rust & wgpu
+
 ### [keiichiw](https://github.com/keiichiw)
 - 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [leanprover/lean-beam](https://github.com/leanprover/lean-beam)
   > Claude/Codex skill and local workflow layer for efficient interaction with Lean 4 and Monte-Carlo Tr...
@@ -66,6 +70,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [flagos-ai/FlagGems](https://github.com/flagos-ai/FlagGems) to [kubuds/FlagGems-riscv](https://github.com/kubuds/FlagGems-riscv)
   > FlagGems is an operator library for large language models implemented in the Triton Language.
+
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
+  > Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open sourc...
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm)
@@ -80,6 +88,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Beads - A memory upgrade for your coding agent
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator)
   > Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + i...
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Nuf1p/LoaderVille](https://github.com/Nuf1p/LoaderVille)
+  > A collection of initial access loaders to use inside enterprise hardened enviroments
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [atom0s/Steamless](https://github.com/atom0s/Steamless)
@@ -89,5 +99,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-18 17:10:02 UTC*
+*Last updated at 2026-11-18 18:12:43 UTC*
 *Historical records are stored in the `archive` directory.*
