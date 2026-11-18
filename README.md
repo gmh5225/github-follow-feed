@@ -67,6 +67,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [leanprover/lean-beam](https://github.com/leanprover/lean-beam)
   > Claude/Codex skill and local workflow layer for efficient interaction with Lean 4 and Monte-Carlo Tr...
 
+### [killvxk](https://github.com/killvxk)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) to [killvxk/gods-eye-view](https://github.com/killvxk/gods-eye-view)
+  > God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source...
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [flagos-ai/FlagGems](https://github.com/flagos-ai/FlagGems) to [kubuds/FlagGems-riscv](https://github.com/kubuds/FlagGems-riscv)
   > FlagGems is an operator library for large language models implemented in the Triton Language.
@@ -99,6 +103,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
   > Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
 
+### [ocornut](https://github.com/ocornut)
+- 🌟 👤 [ocornut](https://github.com/ocornut) Starred [RshaCuDeVidro/larperCord](https://github.com/RshaCuDeVidro/larperCord)
+  > A native Discord client of about 100~ MB RAM, whose entire interface is a theme file.
+
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [nginx/nginx](https://github.com/nginx/nginx)
   > The official NGINX Open Source repository.
@@ -109,5 +117,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-18 21:10:13 UTC*
+*Last updated at 2026-11-18 22:10:39 UTC*
 *Historical records are stored in the `archive` directory.*
