@@ -99,7 +99,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
   > Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [nginx/nginx](https://github.com/nginx/nginx)
+  > The official NGINX Open Source repository.
+
 
 ---
-*Last updated at 2026-11-18 19:08:49 UTC*
+*Last updated at 2026-11-18 20:11:53 UTC*
 *Historical records are stored in the `archive` directory.*
