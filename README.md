@@ -40,9 +40,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [verse-lab/loom](https://github.com/verse-lab/loom)
   > Loom is a framework for automated generation of foundational multi-modal verifiers. This repository ...
 
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [gylive/google-ultra](https://github.com/gylive/google-ultra)
-
 ### [Naville](https://github.com/Naville)
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) to [Naville/sublink-worker-fork](https://github.com/Naville/sublink-worker-fork)
   > One Worker, All Subscriptions
@@ -55,6 +52,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
   > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
 
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [vxpm/vkx](https://github.com/vxpm/vkx)
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [flagos-ai/FlagGems](https://github.com/flagos-ai/FlagGems) to [kubuds/FlagGems-riscv](https://github.com/kubuds/FlagGems-riscv)
   > FlagGems is an operator library for large language models implemented in the Triton Language.
@@ -65,5 +65,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-18 09:13:00 UTC*
+*Last updated at 2026-11-18 10:11:58 UTC*
 *Historical records are stored in the `archive` directory.*
