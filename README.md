@@ -59,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
   > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
 
+### [keiichiw](https://github.com/keiichiw)
+- 🌟 👤 [keiichiw](https://github.com/keiichiw) Starred [leanprover/lean-beam](https://github.com/leanprover/lean-beam)
+  > Claude/Codex skill and local workflow layer for efficient interaction with Lean 4 and Monte-Carlo Tr...
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [flagos-ai/FlagGems](https://github.com/flagos-ai/FlagGems) to [kubuds/FlagGems-riscv](https://github.com/kubuds/FlagGems-riscv)
   > FlagGems is an operator library for large language models implemented in the Triton Language.
@@ -73,5 +77,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-18 15:11:30 UTC*
+*Last updated at 2026-11-18 16:11:57 UTC*
 *Historical records are stored in the `archive` directory.*
