@@ -103,7 +103,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [nginx/nginx](https://github.com/nginx/nginx)
   > The official NGINX Open Source repository.
 
+### [void-stack](https://github.com/void-stack)
+- 🌟 👤 [void-stack](https://github.com/void-stack) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
+  > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
+
 
 ---
-*Last updated at 2026-11-18 20:11:53 UTC*
+*Last updated at 2026-11-18 21:10:13 UTC*
 *Historical records are stored in the `archive` directory.*
