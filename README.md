@@ -19,6 +19,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) to [Naville/sublink-worker-fork](https://github.com/Naville/sublink-worker-fork)
   > One Worker, All Subscriptions
 
+### [WhiteNightShadow](https://github.com/WhiteNightShadow)
+- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/pabox](https://github.com/WhiteNightShadow/pabox)
+  > AI爬盒 (PaBox Browser Manager) — 基于定制 Firefox 内核的本地多环境指纹浏览器与自动化工作站（支持代理隔离、任务脚本、MCP、WebDriver BiDi 与盒子A...
+
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [flagos-ai/FlagGems](https://github.com/flagos-ai/FlagGems) to [kubuds/FlagGems-riscv](https://github.com/kubuds/FlagGems-riscv)
   > FlagGems is an operator library for large language models implemented in the Triton Language.
@@ -29,5 +33,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-18 06:20:10 UTC*
+*Last updated at 2026-11-18 07:13:27 UTC*
 *Historical records are stored in the `archive` directory.*
