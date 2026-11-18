@@ -8,9 +8,37 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [0x1iii1ii/PS5Relapse](https://github.com/0x1iii1ii/PS5Relapse)
   > Exploit chain for PS5 7.00 - 13.60
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [chriskearney/siliconforest](https://github.com/chriskearney/siliconforest)
+  > Darwin/XNU for Apple silicon: boots natively on an M1 MacBook Pro, with a GPU desktop and Mac app su...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) to [CrackerCat/app-store-compliance](https://github.com/CrackerCat/app-store-compliance)
   > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Maldev-Academy/WhisperLoader](https://github.com/Maldev-Academy/WhisperLoader) to [CrackerCat/WhisperLoader](https://github.com/CrackerCat/WhisperLoader)
+  > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [GitKittys/unidbg-kitty](https://github.com/GitKittys/unidbg-kitty) to [CrackerCat/unidbg-kitty](https://github.com/CrackerCat/unidbg-kitty)
+  > kitty的unidbg  A fork of unidbg with Linux/AArch64 user-mode fidelity: EL0 privilege boundary, kernel...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [19h/morok](https://github.com/19h/morok) to [CrackerCat/morok](https://github.com/CrackerCat/morok)
+  > Morok is a modular C++23 LLVM New-PM IR obfuscator. It loads as a pass plugin inside clang or opt, r...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [oss-invisible/playwright](https://github.com/oss-invisible/playwright) to [CrackerCat/oss-invisible-playwright](https://github.com/CrackerCat/oss-invisible-playwright)
+  > invisible playwright: Playwright that anti-bots cannot see, so no captchas: same API, anti-detect st...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [H0yeR404/weims-vgpu](https://github.com/H0yeR404/weims-vgpu) to [CrackerCat/weims-vgpu](https://github.com/CrackerCat/weims-vgpu)
+  > Windows WHPX/Vulkan integration for Reims vGPU: pinned sources, shared guest RAM, reproducible build...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ouncebrew/kaihen](https://github.com/ouncebrew/kaihen) to [CrackerCat/kaihen](https://github.com/CrackerCat/kaihen)
+  > Homebrew enabler and minimal CFW for Switch 2
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [1CatAI/1Cat-vLLM](https://github.com/1CatAI/1Cat-vLLM) to [CrackerCat/1Cat-vLLM](https://github.com/CrackerCat/1Cat-vLLM)
+  > V100 / SM70-focused vLLM engineering fork for modern LLM inference.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MathildeVenault/OffthePath](https://github.com/MathildeVenault/OffthePath) to [CrackerCat/OffthePath](https://github.com/CrackerCat/OffthePath)
+  > Implementation of one of the new techniques of process injection dubbed as "the Off the Path", prese...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Tiger-Foxx/fox-steel](https://github.com/Tiger-Foxx/fox-steel) to [CrackerCat/fox-steel](https://github.com/CrackerCat/fox-steel)
+  > SteelFox is a modern, Windows credential recovery and system reconnaissance framework built in Pytho...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell) to [CrackerCat/SIP2Shell](https://github.com/CrackerCat/SIP2Shell)
+  > One SIP text message to FreeSWITCH, and you are running commands. Exploit, scanner and a real vulner...
+
+### [GJDuck](https://github.com/GJDuck)
+- 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [verse-lab/loom](https://github.com/verse-lab/loom)
+  > Loom is a framework for automated generation of foundational multi-modal verifiers. This repository ...
 
 ### [JoasASantos](https://github.com/JoasASantos)
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [gylive/google-ultra](https://github.com/gylive/google-ultra)
@@ -18,10 +46,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Naville](https://github.com/Naville)
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) to [Naville/sublink-worker-fork](https://github.com/Naville/sublink-worker-fork)
   > One Worker, All Subscriptions
-
-### [WhiteNightShadow](https://github.com/WhiteNightShadow)
-- 🌟 👤 [WhiteNightShadow](https://github.com/WhiteNightShadow) Starred [WhiteNightShadow/pabox](https://github.com/WhiteNightShadow/pabox)
-  > AI爬盒 (PaBox Browser Manager) — 基于定制 Firefox 内核的本地多环境指纹浏览器与自动化工作站（支持代理隔离、任务脚本、MCP、WebDriver BiDi 与盒子A...
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [flagos-ai/FlagGems](https://github.com/flagos-ai/FlagGems) to [kubuds/FlagGems-riscv](https://github.com/kubuds/FlagGems-riscv)
@@ -33,5 +57,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-18 07:13:27 UTC*
+*Last updated at 2026-11-18 08:15:49 UTC*
 *Historical records are stored in the `archive` directory.*
