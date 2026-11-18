@@ -47,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) to [Naville/sublink-worker-fork](https://github.com/Naville/sublink-worker-fork)
   > One Worker, All Subscriptions
 
+### [ajkhoury](https://github.com/ajkhoury)
+- 🌟 👤 [ajkhoury](https://github.com/ajkhoury) Starred [bitwuzla/bitwuzla](https://github.com/bitwuzla/bitwuzla)
+  > Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors...
+
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [extension-js/extension.js](https://github.com/extension-js/extension.js)
   > The cross-browser extension framework.
@@ -67,11 +71,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jeffmcjunkin/TLO](https://github.com/jeffmcjunkin/TLO)
   > The Last Ones: a multi-domain AD red-team cyber range for Ludus (9 milestones / 32 steps)
 
-### [noahware](https://github.com/noahware)
-- 🍴 👤 [noahware](https://github.com/noahware) Forked [qemu/qemu](https://github.com/qemu/qemu) to [noahware/qemupp](https://github.com/noahware/qemupp)
-  > Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU....
-
 
 ---
-*Last updated at 2026-11-18 13:11:18 UTC*
+*Last updated at 2026-11-18 14:11:55 UTC*
 *Historical records are stored in the `archive` directory.*
