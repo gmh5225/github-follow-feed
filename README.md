@@ -59,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
   > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
 
+### [hugsy](https://github.com/hugsy)
+- 🌟 👤 [hugsy](https://github.com/hugsy) Starred [we-promise/sure](https://github.com/we-promise/sure)
+  > The personal finance app for everyone (by everyone)
+
 ### [jtriley2p](https://github.com/jtriley2p)
 - 🚀 👤 [jtriley2p](https://github.com/jtriley2p) Made [jtriley2p/boids-sim-rs](https://github.com/jtriley2p/boids-sim-rs) public
   > lightweight boids algo sim with rust & wgpu
@@ -97,11 +101,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [Nuf1p/LoaderVille](https://github.com/Nuf1p/LoaderVille)
   > A collection of initial access loaders to use inside enterprise hardened enviroments
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [elsbrock/hetzner-radar](https://github.com/elsbrock/hetzner-radar)
+  > 🕵️Track prices of the Hetzner dedicated server auction
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [atom0s/Steamless](https://github.com/atom0s/Steamless)
   > Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single sol...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
   > Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [openssl/openssl](https://github.com/openssl/openssl) to [mrexodia/openssl](https://github.com/mrexodia/openssl)
+  > General purpose TLS and crypto library
 
 ### [ocornut](https://github.com/ocornut)
 - 🌟 👤 [ocornut](https://github.com/ocornut) Starred [RshaCuDeVidro/larperCord](https://github.com/RshaCuDeVidro/larperCord)
@@ -117,5 +127,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-18 22:10:39 UTC*
+*Last updated at 2026-11-18 23:09:45 UTC*
 *Historical records are stored in the `archive` directory.*
