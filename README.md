@@ -52,9 +52,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance)
   > Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 d...
 
-### [ioncodes](https://github.com/ioncodes)
-- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [vxpm/vkx](https://github.com/vxpm/vkx)
-
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [flagos-ai/FlagGems](https://github.com/flagos-ai/FlagGems) to [kubuds/FlagGems-riscv](https://github.com/kubuds/FlagGems-riscv)
   > FlagGems is an operator library for large language models implemented in the Triton Language.
@@ -63,7 +60,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm)
   > Claude Code skill that steers the model away from its first, most average pick in creative work: nam...
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jeffmcjunkin/TLO](https://github.com/jeffmcjunkin/TLO)
+  > The Last Ones: a multi-domain AD red-team cyber range for Ludus (9 milestones / 32 steps)
+
 
 ---
-*Last updated at 2026-11-18 10:11:58 UTC*
+*Last updated at 2026-11-18 11:11:11 UTC*
 *Historical records are stored in the `archive` directory.*
