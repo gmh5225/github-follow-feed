@@ -74,6 +74,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
   > Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open sourc...
+- 🍴 👤 [lightclient](https://github.com/lightclient) Forked [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) to [lightclient/centaur](https://github.com/lightclient/centaur)
+  > Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open sourc...
 
 ### [mcdulltii](https://github.com/mcdulltii)
 - 🌟 👤 [mcdulltii](https://github.com/mcdulltii) Starred [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm)
@@ -99,5 +101,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-18 18:12:43 UTC*
+*Last updated at 2026-11-18 19:08:49 UTC*
 *Historical records are stored in the `archive` directory.*
