@@ -40,6 +40,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [GJDuck](https://github.com/GJDuck) Starred [verse-lab/loom](https://github.com/verse-lab/loom)
   > Loom is a framework for automated generation of foundational multi-modal verifiers. This repository ...
 
+### [NUL0x4C](https://github.com/NUL0x4C)
+- 🌟 👤 [NUL0x4C](https://github.com/NUL0x4C) Starred [trailofbits/HVCI-loldrivers-check](https://github.com/trailofbits/HVCI-loldrivers-check)
+
 ### [Naville](https://github.com/Naville)
 - 🍴 👤 [Naville](https://github.com/Naville) Forked [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) to [Naville/sublink-worker-fork](https://github.com/Naville/sublink-worker-fork)
   > One Worker, All Subscriptions
@@ -64,7 +67,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jeffmcjunkin/TLO](https://github.com/jeffmcjunkin/TLO)
   > The Last Ones: a multi-domain AD red-team cyber range for Ludus (9 milestones / 32 steps)
 
+### [noahware](https://github.com/noahware)
+- 🍴 👤 [noahware](https://github.com/noahware) Forked [qemu/qemu](https://github.com/qemu/qemu) to [noahware/qemupp](https://github.com/noahware/qemupp)
+  > Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU....
+
 
 ---
-*Last updated at 2026-11-18 11:11:11 UTC*
+*Last updated at 2026-11-18 12:16:06 UTC*
 *Historical records are stored in the `archive` directory.*
