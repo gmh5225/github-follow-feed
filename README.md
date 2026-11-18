@@ -74,8 +74,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [jeffmcjunkin/TLO](https://github.com/jeffmcjunkin/TLO)
   > The Last Ones: a multi-domain AD red-team cyber range for Ludus (9 milestones / 32 steps)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [gastownhall/gastown](https://github.com/gastownhall/gastown)
+  > Gas Town - multi-agent workspace manager
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [gastownhall/beads](https://github.com/gastownhall/beads)
+  > Beads - A memory upgrade for your coding agent
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator)
+  > Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + i...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [atom0s/Steamless](https://github.com/atom0s/Steamless)
+  > Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single sol...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [interfere-inc/landmines](https://github.com/interfere-inc/landmines)
+  > Oxlint rules that keep AI-written code honest: real implementations, real signals, no flake masking.
 
 
 ---
-*Last updated at 2026-11-18 16:11:57 UTC*
+*Last updated at 2026-11-18 17:10:02 UTC*
 *Historical records are stored in the `archive` directory.*
