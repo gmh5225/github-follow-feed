@@ -39,6 +39,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JSchoreels/anki](https://github.com/JSchoreels/anki)
   > Anki's shared backend and web components, and the Qt frontend
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Nycolazs/LASRecomp-Android-Plus](https://github.com/Nycolazs/LASRecomp-Android-Plus)
+  > LAS Recomp for Android: Link's Awakening (Switch) statically recompiled to native ARM64 for Android ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [arcanite24/pinyon-shift](https://github.com/arcanite24/pinyon-shift)
+  > A playable preview of Forza Horizon static recompilation
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+  > 🎥      Make videos programmatically with React
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
@@ -48,7 +54,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [flowerornament/atlas](https://github.com/flowerornament/atlas)
   > Read-only Rust source analysis, review tools and standalone diagrams
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [flex36ty/switch2-gamevault](https://github.com/flex36ty/switch2-gamevault)
+  > Game Vault for Switch 2 — game and save backup/restore, decrypted backups, USB MTP, FTP and SMB stor...
+
 
 ---
-*Last updated at 2026-11-19 13:11:37 UTC*
+*Last updated at 2026-11-19 14:11:54 UTC*
 *Historical records are stored in the `archive` directory.*
