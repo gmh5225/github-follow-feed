@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zodiacon/AllTools](https://github.com/zodiacon/AllTools)
+  > All reasonably stable tools
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
   > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
@@ -18,5 +22,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-19 02:15:47 UTC*
+*Last updated at 2026-11-19 03:13:34 UTC*
 *Historical records are stored in the `archive` directory.*
