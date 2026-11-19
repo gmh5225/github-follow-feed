@@ -25,6 +25,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [jquery/jquery](https://github.com/jquery/jquery)
   > jQuery JavaScript Library
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [anomalyco/rune](https://github.com/anomalyco/rune)
+  > Rune: Native UI framework
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy)
+  > The Windows debloater.
 
 ### [killvxk](https://github.com/killvxk)
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [octocat/git-consortium](https://github.com/octocat/git-consortium) to [killvxk/git-consortium-octocat](https://github.com/killvxk/git-consortium-octocat)
@@ -51,6 +55,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Vibecode-organization/holy-videcode-project](https://github.com/Vibecode-organization/holy-videcode-project) to [killvxk/holy-videcode-project](https://github.com/killvxk/holy-videcode-project)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox)
   > Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux a...
+
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007)
+  > Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGINX HTTP/2.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JSchoreels/anki](https://github.com/JSchoreels/anki)
@@ -80,5 +88,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-19 19:09:00 UTC*
+*Last updated at 2026-11-19 20:12:08 UTC*
 *Historical records are stored in the `archive` directory.*
