@@ -32,11 +32,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [flowerornament/atlas](https://github.com/flowerornament/atlas)
   > Read-only Rust source analysis, review tools and standalone diagrams
 
-### [tiagosiebler](https://github.com/tiagosiebler)
-- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [arla6ka/design.how](https://github.com/arla6ka/design.how)
-  > Design systems, skills and visuals for coding agents
-
 
 ---
-*Last updated at 2026-11-19 09:13:22 UTC*
+*Last updated at 2026-11-19 10:11:26 UTC*
 *Historical records are stored in the `archive` directory.*
