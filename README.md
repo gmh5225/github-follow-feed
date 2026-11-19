@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > This repo is for demonstration purposes only.
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [octocat/test-repo1](https://github.com/octocat/test-repo1) to [killvxk/test-repo1-octocat](https://github.com/killvxk/test-repo1-octocat)
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JSchoreels/anki](https://github.com/JSchoreels/anki)
+  > Anki's shared backend and web components, and the Qt frontend
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
   > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
@@ -46,5 +50,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-19 12:16:22 UTC*
+*Last updated at 2026-11-19 13:11:37 UTC*
 *Historical records are stored in the `archive` directory.*
