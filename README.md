@@ -82,9 +82,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
   > 🎥      Make videos programmatically with React
 
-### [osm0sis](https://github.com/osm0sis)
-- 🍴 👤 [osm0sis](https://github.com/osm0sis) Forked [KOWX712/KsuWebUIStandalone](https://github.com/KOWX712/KsuWebUIStandalone) to [osm0sis/KsuWebUIStandalone](https://github.com/osm0sis/KsuWebUIStandalone)
-
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [SigNoz/signoz](https://github.com/SigNoz/signoz)
   > SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI age...
@@ -107,5 +104,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-19 22:10:58 UTC*
+*Last updated at 2026-11-19 23:09:16 UTC*
 *Historical records are stored in the `archive` directory.*
