@@ -12,6 +12,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [zodiacon/AllTools](https://github.com/zodiacon/AllTools)
   > All reasonably stable tools
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI)
+  > Turn off Apple Intelligence and delete its models on your Mac. Optional tweaks for analytics, ads an...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [MekhyW/Distributed-Camera-Node-Tracking-System](https://github.com/MekhyW/Distributed-Camera-Node-Tracking-System)
   > Multi-node camera tracking system for real-time following and triangulating 3D positions of moving t...
@@ -55,6 +59,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Vibecode-organization/holy-videcode-project](https://github.com/Vibecode-organization/holy-videcode-project) to [killvxk/holy-videcode-project](https://github.com/killvxk/holy-videcode-project)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox)
   > Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux a...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+  > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [antithesishq/bombadil](https://github.com/antithesishq/bombadil)
+  > Property-based testing for web and terminal UIs
 
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007)
@@ -82,11 +90,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [flowerornament/atlas](https://github.com/flowerornament/atlas)
   > Read-only Rust source analysis, review tools and standalone diagrams
 
+### [rnk](https://github.com/rnk)
+- 🍴 👤 [rnk](https://github.com/rnk) Forked [edgcpp/compiler](https://github.com/edgcpp/compiler) to [rnk/compiler](https://github.com/rnk/compiler)
+  > The Open EDG C & C++ Compiler Project
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [flex36ty/switch2-gamevault](https://github.com/flex36ty/switch2-gamevault)
   > Game Vault for Switch 2 — game and save backup/restore, decrypted backups, USB MTP, FTP and SMB stor...
 
 
 ---
-*Last updated at 2026-11-19 20:12:08 UTC*
+*Last updated at 2026-11-19 21:10:28 UTC*
 *Historical records are stored in the `archive` directory.*
