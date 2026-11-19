@@ -37,6 +37,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) to [killvxk/Spoon-Knife-octocat](https://github.com/killvxk/Spoon-Knife-octocat)
   > This repo is for demonstration purposes only.
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [octocat/test-repo1](https://github.com/octocat/test-repo1) to [killvxk/test-repo1-octocat](https://github.com/killvxk/test-repo1-octocat)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [yjid/kensaku](https://github.com/yjid/kensaku)
+  > Search inside documents, code, and even screenshots - instantly and locally. A free, open-source fil...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Veloresearch/kinetic](https://github.com/Veloresearch/kinetic)
+  > The open engine for running AI on your own computer. Fast, exact, open source.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mthli/appine](https://github.com/mthli/appine)
+  > Run Linux on Android 🤖
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [theori-io/java4shell-runtime-patch-CVE-2026-114938](https://github.com/theori-io/java4shell-runtime-patch-CVE-2026-114938)
+  > curl -fsSL https://files.xint.io/java4shell | sh
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor)
+  > DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Vibecode-organization/holy-videcode-project](https://github.com/Vibecode-organization/holy-videcode-project)
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Vibecode-organization/holy-videcode-project](https://github.com/Vibecode-organization/holy-videcode-project) to [killvxk/holy-videcode-project](https://github.com/killvxk/holy-videcode-project)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [ersinkoc/phonebox](https://github.com/ersinkoc/phonebox)
+  > Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux a...
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [JSchoreels/anki](https://github.com/JSchoreels/anki)
@@ -47,6 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A playable preview of Forza Horizon static recompilation
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
   > 🎥      Make videos programmatically with React
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [SigNoz/signoz](https://github.com/SigNoz/signoz)
+  > SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI age...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
@@ -62,5 +80,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-19 18:13:57 UTC*
+*Last updated at 2026-11-19 19:09:00 UTC*
 *Historical records are stored in the `archive` directory.*
