@@ -37,6 +37,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > An Xposed module for Android 12+ that hides standard storage paths within MediaProvider based on run...
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LingLuo17/OnePlus_KernelSU_SUSFS](https://github.com/LingLuo17/OnePlus_KernelSU_SUSFS) to [CrackerCat/OnePlus_KernelSU_SUSFS](https://github.com/CrackerCat/OnePlus_KernelSU_SUSFS)
   > OnePlus Kernel with SukiSU-Nova/BakaSU/FinaSU + SUSFS
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Jiangshishou/zhaiyi-web-summary-assistant](https://github.com/Jiangshishou/zhaiyi-web-summary-assistant) to [CrackerCat/zhaiyi-web-summary-assistant](https://github.com/CrackerCat/zhaiyi-web-summary-assistant)
+  > 摘意 — 在网页上生成结构化摘要的 Chrome/Edge MV3 扩展
+
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [kevmo314/machso](https://github.com/kevmo314/machso)
+  > Experimental ARM64 Linux ELF to native macOS dylib compiler
 
 ### [ayoubfaouzi](https://github.com/ayoubfaouzi)
 - 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [tldr-pages/tldr](https://github.com/tldr-pages/tldr) to [ayoubfaouzi/tldr](https://github.com/ayoubfaouzi/tldr)
@@ -44,5 +50,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-20 11:10:44 UTC*
+*Last updated at 2026-11-20 12:16:11 UTC*
 *Historical records are stored in the `archive` directory.*
