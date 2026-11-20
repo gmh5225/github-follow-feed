@@ -62,6 +62,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [gakonst](https://github.com/gakonst) Starred [model-checking/kani](https://github.com/model-checking/kani)
   > A model checker for Rust programs.
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [matrix-research-inc/egui-elegance](https://github.com/matrix-research-inc/egui-elegance)
+  > Elegant UI elements for egui
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Aabyss-Team/Threat-Broadcast-Plus](https://github.com/Aabyss-Team/Threat-Broadcast-Plus)
   > 网络安全威胁情报播报-Plus升级版
@@ -74,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-20 20:11:30 UTC*
+*Last updated at 2026-11-20 21:09:57 UTC*
 *Historical records are stored in the `archive` directory.*
