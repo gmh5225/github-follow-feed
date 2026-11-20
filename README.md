@@ -51,6 +51,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm...
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
   > Network-wide ads & trackers blocking DNS server
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [rustrak/rustrak](https://github.com/rustrak/rustrak)
+  > Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent ...
 
 ### [ayoubfaouzi](https://github.com/ayoubfaouzi)
 - 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [tldr-pages/tldr](https://github.com/tldr-pages/tldr) to [ayoubfaouzi/tldr](https://github.com/ayoubfaouzi/tldr)
@@ -59,6 +61,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🍴 👤 [eteran](https://github.com/eteran) Forked [WollyMonjac/Tiny-2.1](https://github.com/WollyMonjac/Tiny-2.1) to [eteran/Tiny-2.1](https://github.com/eteran/Tiny-2.1)
   > Language model for DOS that fits on a floppy disk
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [model-checking/kani](https://github.com/model-checking/kani)
+  > A model checker for Rust programs.
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [nanocodexyz/libnanocode](https://github.com/nanocodexyz/libnanocode)
+  > nanocode agents in C: the Rust SDK as one library, polled from a game thread
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes)
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [matrix-research-inc/egui-elegance](https://github.com/matrix-research-inc/egui-elegance)
@@ -76,5 +85,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-20 22:09:43 UTC*
+*Last updated at 2026-11-20 23:10:13 UTC*
 *Historical records are stored in the `archive` directory.*
