@@ -4,10 +4,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [0xAX](https://github.com/0xAX)
-- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [alfert/propcheck](https://github.com/alfert/propcheck) to [0xAX/propcheck](https://github.com/0xAX/propcheck)
-  > Property based Testing for Elixir (based upon PropEr)
-
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [nestho/impacket-rs](https://github.com/nestho/impacket-rs)
   > High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools fo...
@@ -48,11 +44,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [kevmo314/machso](https://github.com/kevmo314/machso)
   > Experimental ARM64 Linux ELF to native macOS dylib compiler
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
+  > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
+  > A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm...
+
 ### [ayoubfaouzi](https://github.com/ayoubfaouzi)
 - 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [tldr-pages/tldr](https://github.com/tldr-pages/tldr) to [ayoubfaouzi/tldr](https://github.com/ayoubfaouzi/tldr)
   > Collaborative cheatsheets for console commands 📚.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tufalabs/tufazip](https://github.com/Tufalabs/tufazip)
+  > We shrink 1 GB of Wikipedia to 105.39 MB, losslessly.
+
 
 ---
-*Last updated at 2026-11-20 18:13:49 UTC*
+*Last updated at 2026-11-20 19:09:35 UTC*
 *Historical records are stored in the `archive` directory.*
