@@ -38,7 +38,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LingLuo17/OnePlus_KernelSU_SUSFS](https://github.com/LingLuo17/OnePlus_KernelSU_SUSFS) to [CrackerCat/OnePlus_KernelSU_SUSFS](https://github.com/CrackerCat/OnePlus_KernelSU_SUSFS)
   > OnePlus Kernel with SukiSU-Nova/BakaSU/FinaSU + SUSFS
 
+### [ayoubfaouzi](https://github.com/ayoubfaouzi)
+- 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [tldr-pages/tldr](https://github.com/tldr-pages/tldr) to [ayoubfaouzi/tldr](https://github.com/ayoubfaouzi/tldr)
+  > Collaborative cheatsheets for console commands 📚.
+
 
 ---
-*Last updated at 2026-11-20 09:12:59 UTC*
+*Last updated at 2026-11-20 10:11:30 UTC*
 *Historical records are stored in the `archive` directory.*
