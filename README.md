@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xAX](https://github.com/0xAX)
+- 🍴 👤 [0xAX](https://github.com/0xAX) Forked [alfert/propcheck](https://github.com/alfert/propcheck) to [0xAX/propcheck](https://github.com/0xAX/propcheck)
+  > Property based Testing for Elixir (based upon PropEr)
+
 ### [Ben-Lichtman](https://github.com/Ben-Lichtman)
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [nestho/impacket-rs](https://github.com/nestho/impacket-rs)
   > High-performance, memory-safe pure-Rust redesign of Impacket protocols and Active Directory tools fo...
@@ -50,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-20 15:11:19 UTC*
+*Last updated at 2026-11-20 16:11:54 UTC*
 *Historical records are stored in the `archive` directory.*
