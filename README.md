@@ -54,11 +54,25 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [tldr-pages/tldr](https://github.com/tldr-pages/tldr) to [ayoubfaouzi/tldr](https://github.com/ayoubfaouzi/tldr)
   > Collaborative cheatsheets for console commands 📚.
 
+### [eteran](https://github.com/eteran)
+- 🍴 👤 [eteran](https://github.com/eteran) Forked [WollyMonjac/Tiny-2.1](https://github.com/WollyMonjac/Tiny-2.1) to [eteran/Tiny-2.1](https://github.com/eteran/Tiny-2.1)
+  > Language model for DOS that fits on a floppy disk
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [model-checking/kani](https://github.com/model-checking/kani)
+  > A model checker for Rust programs.
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Aabyss-Team/Threat-Broadcast-Plus](https://github.com/Aabyss-Team/Threat-Broadcast-Plus)
+  > 网络安全威胁情报播报-Plus升级版
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [cubeplexai/cubepod](https://github.com/cubeplexai/cubepod)
+  > CubePod — Persistent Writable RootFS MicroVM execution platform for AI Agents
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tufalabs/tufazip](https://github.com/Tufalabs/tufazip)
   > We shrink 1 GB of Wikipedia to 105.39 MB, losslessly.
 
 
 ---
-*Last updated at 2026-11-20 19:09:35 UTC*
+*Last updated at 2026-11-20 20:11:30 UTC*
 *Historical records are stored in the `archive` directory.*
