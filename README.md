@@ -49,6 +49,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [JustVugg/colibri](https://github.com/JustVugg/colibri)
   > A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)
+  > Network-wide ads & trackers blocking DNS server
 
 ### [ayoubfaouzi](https://github.com/ayoubfaouzi)
 - 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [tldr-pages/tldr](https://github.com/tldr-pages/tldr) to [ayoubfaouzi/tldr](https://github.com/ayoubfaouzi/tldr)
@@ -57,10 +59,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [eteran](https://github.com/eteran)
 - 🍴 👤 [eteran](https://github.com/eteran) Forked [WollyMonjac/Tiny-2.1](https://github.com/WollyMonjac/Tiny-2.1) to [eteran/Tiny-2.1](https://github.com/eteran/Tiny-2.1)
   > Language model for DOS that fits on a floppy disk
-
-### [gakonst](https://github.com/gakonst)
-- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [model-checking/kani](https://github.com/model-checking/kani)
-  > A model checker for Rust programs.
 
 ### [holly-hacker](https://github.com/holly-hacker)
 - 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [matrix-research-inc/egui-elegance](https://github.com/matrix-research-inc/egui-elegance)
@@ -78,5 +76,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-20 21:09:57 UTC*
+*Last updated at 2026-11-20 22:09:43 UTC*
 *Historical records are stored in the `archive` directory.*
