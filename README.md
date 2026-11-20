@@ -48,7 +48,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [ayoubfaouzi](https://github.com/ayoubfaouzi) Forked [tldr-pages/tldr](https://github.com/tldr-pages/tldr) to [ayoubfaouzi/tldr](https://github.com/ayoubfaouzi/tldr)
   > Collaborative cheatsheets for console commands 📚.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104](https://github.com/MiaAI-Lab/GLM-5.3-Flash-DGX-Sparks-1104)
+  > GLM-5.3-Flash on DGX Sparks (ver 1104) with TensorFold
+
 
 ---
-*Last updated at 2026-11-20 12:16:11 UTC*
+*Last updated at 2026-11-20 13:11:14 UTC*
 *Historical records are stored in the `archive` directory.*
