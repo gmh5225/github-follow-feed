@@ -45,10 +45,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes)
 
-### [lightclient](https://github.com/lightclient)
-- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [kate-land/ga100vfi](https://github.com/kate-land/ga100vfi)
-  > GA100 voltage glitch resources
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
   > The world's first Xbox One compatibility layer for Windows.
@@ -64,8 +60,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Abliteration of Inkling-2-Mini (Inkling-2-Mini-Unbound): harness, methods, results
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [satellitedown/inkling-2-mini-abliterated-ingine](https://github.com/satellitedown/inkling-2-mini-abliterated-ingine)
   > Abliterated Inkling-2-Mini on ingine, a custom CUDA engine for one RTX 5090: 256K context, DSpark sp...
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [mw00/project-maya](https://github.com/mw00/project-maya) to [mrexodia/project-maya](https://github.com/mrexodia/project-maya)
+  > Run GLM-5.3 (744B), DeepSeek-V4.1-Flash (748B), MiniMax-M3.1-Flash (428B), GLM-5.3-Flash (321B) and ...
+
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
+  > A curated list about Audio Visualization.
+
+### [xTeJk](https://github.com/xTeJk)
+- 🌟 👤 [xTeJk](https://github.com/xTeJk) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
+  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
 
 ---
-*Last updated at 2026-11-21 19:08:36 UTC*
+*Last updated at 2026-11-21 20:10:47 UTC*
 *Historical records are stored in the `archive` directory.*
