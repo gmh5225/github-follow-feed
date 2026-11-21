@@ -32,6 +32,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [LLCForge/CVE-2026-129496](https://github.com/LLCForge/CVE-2026-129496) to [classic130/CVE-2026-129496](https://github.com/classic130/CVE-2026-129496)
   > PHP DateTimeZone Cache Use-After-Free
 
+### [extremecoders-re](https://github.com/extremecoders-re)
+- 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [rune-rs/rune](https://github.com/rune-rs/rune)
+  > An embeddable dynamic programming language for Rust.
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes)
 
@@ -50,8 +54,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > DeepSeek V4.1 Flash vs GPT-6 Astra: four identical build briefs, final versions, costs and timings
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
   > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/maya-inkling-mini](https://github.com/alesha-pro/maya-inkling-mini)
+  > Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (ma...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Riley-Coyote/mnemos-mcp](https://github.com/Riley-Coyote/mnemos-mcp)
+  > Continuity for the agent itself. An MCP server that gives an AI agent a memory of its own, written i...
 
 
 ---
-*Last updated at 2026-11-21 14:09:59 UTC*
+*Last updated at 2026-11-21 15:09:11 UTC*
 *Historical records are stored in the `archive` directory.*
