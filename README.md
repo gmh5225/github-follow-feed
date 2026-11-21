@@ -46,8 +46,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
   > The world's first Xbox One compatibility layer for Windows.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Barty-Bart/deepseek-v4.1-flash-vs-gpt-6-astra](https://github.com/Barty-Bart/deepseek-v4.1-flash-vs-gpt-6-astra)
+  > DeepSeek V4.1 Flash vs GPT-6 Astra: four identical build briefs, final versions, costs and timings
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+  > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
 
 
 ---
-*Last updated at 2026-11-21 10:10:21 UTC*
+*Last updated at 2026-11-21 11:09:07 UTC*
 *Historical records are stored in the `archive` directory.*
