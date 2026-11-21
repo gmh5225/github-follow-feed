@@ -24,9 +24,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [Victor-Go/VictorLoad](https://github.com/Victor-Go/VictorLoad)
   > Chrome/Edge extension to download videos and images from YouTube, X and Bilibili in a side panel
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [19h/ratio](https://github.com/19h/ratio)
+  > Ratio runs a team of coding agents on your repository and keeps a record of everything they do.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [LLCForge/CVE-2026-129496](https://github.com/LLCForge/CVE-2026-129496) to [classic130/CVE-2026-129496](https://github.com/classic130/CVE-2026-129496)
   > PHP DateTimeZone Cache Use-After-Free
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [leanprover/con-ron](https://github.com/leanprover/con-ron)
+  > A rust port of con-leche
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas)
+  > A verification toolchain for Rust programs
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [leanprover/lean-kernel-arena](https://github.com/leanprover/lean-kernel-arena)
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hsuehly/xiaoyu](https://github.com/hsuehly/xiaoyu)
@@ -38,7 +49,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [kate-land/ga100vfi](https://github.com/kate-land/ga100vfi)
   > GA100 voltage glitch resources
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
+  > The world's first Xbox One compatibility layer for Windows.
+
 
 ---
-*Last updated at 2026-11-21 08:13:41 UTC*
+*Last updated at 2026-11-21 09:11:32 UTC*
 *Historical records are stored in the `archive` directory.*
