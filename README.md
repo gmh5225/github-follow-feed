@@ -34,7 +34,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rustrak/rustrak](https://github.com/rustrak/rustrak)
   > Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent ...
 
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [kate-land/ga100vfi](https://github.com/kate-land/ga100vfi)
+  > GA100 voltage glitch resources
+
 
 ---
-*Last updated at 2026-11-21 07:11:14 UTC*
+*Last updated at 2026-11-21 08:13:41 UTC*
 *Historical records are stored in the `archive` directory.*
