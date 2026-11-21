@@ -60,8 +60,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (ma...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Riley-Coyote/mnemos-mcp](https://github.com/Riley-Coyote/mnemos-mcp)
   > Continuity for the agent itself. An MCP server that gives an AI agent a memory of its own, written i...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nokeepai/inkling-2-mini-unbound](https://github.com/nokeepai/inkling-2-mini-unbound)
+  > Abliteration of Inkling-2-Mini (Inkling-2-Mini-Unbound): harness, methods, results
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [satellitedown/inkling-2-mini-abliterated-ingine](https://github.com/satellitedown/inkling-2-mini-abliterated-ingine)
+  > Abliterated Inkling-2-Mini on ingine, a custom CUDA engine for one RTX 5090: 256K context, DSpark sp...
 
 
 ---
-*Last updated at 2026-11-21 18:12:48 UTC*
+*Last updated at 2026-11-21 19:08:36 UTC*
 *Historical records are stored in the `archive` directory.*
