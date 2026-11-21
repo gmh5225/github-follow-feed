@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mholt/archives](https://github.com/mholt/archives)
   > Cross-platform library to create & extract archives, compress & decompress files, and walk virtual f...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [leanprover/lean4](https://github.com/leanprover/lean4)
+  > Lean 4 programming language and theorem prover
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tiwe0/runidbg](https://github.com/tiwe0/runidbg) to [CrackerCat/runidbg](https://github.com/CrackerCat/runidbg)
@@ -57,6 +59,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zqkra/ademark](https://github.com/zqkra/ademark)
   > Every ADE, measured. An open benchmark of agentic development environments on macOS.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [leeex1/quillan.cpp](https://github.com/leeex1/quillan.cpp)
+  > quillan.cpp is a high-performance, lightweight, standalone C++17 inference engine engineered for the...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [RustingStudio/RustingStrata](https://github.com/RustingStudio/RustingStrata)
+  > Pure-Rust LLM inference engine for GGUF (Qwen, DeepSeek, GLM, Hy4, Flint). Runs models bigger than y...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/inference-optimization-playbook](https://github.com/alesha-pro/inference-optimization-playbook)
+  > 97 tested hypotheses on making huge MoE LLMs fast on consumer GPUs (4x RTX 3090 + experts in RAM): w...
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
   > A curated list about Audio Visualization.
@@ -71,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-21 22:09:31 UTC*
+*Last updated at 2026-11-21 23:09:15 UTC*
 *Historical records are stored in the `archive` directory.*
