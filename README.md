@@ -31,6 +31,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [LLCForge/CVE-2026-129496](https://github.com/LLCForge/CVE-2026-129496) to [classic130/CVE-2026-129496](https://github.com/classic130/CVE-2026-129496)
   > PHP DateTimeZone Cache Use-After-Free
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [Yanixos/APACHE-CVE-2026-129448](https://github.com/Yanixos/APACHE-CVE-2026-129448) to [classic130/APACHE-CVE-2026-129448](https://github.com/classic130/APACHE-CVE-2026-129448)
+  > CVE-2026-129448 Apache Roller XML-RPC deserialization : PoC, scanner, exploit, lab
+
+### [djkaty](https://github.com/djkaty)
+- 🌟 👤 [djkaty](https://github.com/djkaty) Starred [emsec/hal](https://github.com/emsec/hal)
+  > HAL – The Hardware Analyzer
 
 ### [extremecoders-re](https://github.com/extremecoders-re)
 - 🌟 👤 [extremecoders-re](https://github.com/extremecoders-re) Starred [rune-rs/rune](https://github.com/rune-rs/rune)
@@ -42,10 +48,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [kate-land/ga100vfi](https://github.com/kate-land/ga100vfi)
   > GA100 voltage glitch resources
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
-  > The world's first Xbox One compatibility layer for Windows.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
@@ -61,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-21 15:09:11 UTC*
+*Last updated at 2026-11-21 16:11:16 UTC*
 *Historical records are stored in the `archive` directory.*
