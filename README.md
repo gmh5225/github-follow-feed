@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mholt/archives](https://github.com/mholt/archives)
+  > Cross-platform library to create & extract archives, compress & decompress files, and walk virtual f...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tiwe0/runidbg](https://github.com/tiwe0/runidbg) to [CrackerCat/runidbg](https://github.com/CrackerCat/runidbg)
   > High-performance Android ARM64 .so emulator, zero-copy binary tracer, QuickJS engine, async multi-co...
@@ -67,11 +71,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [patois](https://github.com/patois) Starred [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
   > A curated list about Audio Visualization.
 
+### [pgoodman](https://github.com/pgoodman)
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [Fare9/dragon-tales](https://github.com/Fare9/dragon-tales)
+  > Just another story about dragons...
+
 ### [xTeJk](https://github.com/xTeJk)
 - 🌟 👤 [xTeJk](https://github.com/xTeJk) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
   > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
 
 ---
-*Last updated at 2026-11-21 20:10:47 UTC*
+*Last updated at 2026-11-21 21:09:12 UTC*
 *Historical records are stored in the `archive` directory.*
