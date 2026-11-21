@@ -32,9 +32,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [LLCForge/CVE-2026-129496](https://github.com/LLCForge/CVE-2026-129496) to [classic130/CVE-2026-129496](https://github.com/classic130/CVE-2026-129496)
   > PHP DateTimeZone Cache Use-After-Free
 
+### [ikrima](https://github.com/ikrima)
+- 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes)
+
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [kate-land/ga100vfi](https://github.com/kate-land/ga100vfi)
   > GA100 voltage glitch resources
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
+  > The world's first Xbox One compatibility layer for Windows.
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
@@ -46,5 +53,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-21 12:15:36 UTC*
+*Last updated at 2026-11-21 13:09:28 UTC*
 *Historical records are stored in the `archive` directory.*
