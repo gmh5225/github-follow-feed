@@ -39,12 +39,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A verification toolchain for Rust programs
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [leanprover/lean-kernel-arena](https://github.com/leanprover/lean-kernel-arena)
 
-### [killvxk](https://github.com/killvxk)
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hsuehly/xiaoyu](https://github.com/hsuehly/xiaoyu)
-  > 基于 Flutter 的开源数字人陪伴 App，支持 iOS 与 Android，接入 Vidu 和 Agora，实现实时语音、视频互动与快捷动作。
-- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [rustrak/rustrak](https://github.com/rustrak/rustrak)
-  > Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent ...
-
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [kate-land/ga100vfi](https://github.com/kate-land/ga100vfi)
   > GA100 voltage glitch resources
@@ -55,5 +49,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-21 09:11:32 UTC*
+*Last updated at 2026-11-21 10:10:21 UTC*
 *Historical records are stored in the `archive` directory.*
