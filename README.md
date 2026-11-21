@@ -32,13 +32,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [LLCForge/CVE-2026-129496](https://github.com/LLCForge/CVE-2026-129496) to [classic130/CVE-2026-129496](https://github.com/classic130/CVE-2026-129496)
   > PHP DateTimeZone Cache Use-After-Free
 
-### [dtcxzyw](https://github.com/dtcxzyw)
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [leanprover/con-ron](https://github.com/leanprover/con-ron)
-  > A rust port of con-leche
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas)
-  > A verification toolchain for Rust programs
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [leanprover/lean-kernel-arena](https://github.com/leanprover/lean-kernel-arena)
-
 ### [lightclient](https://github.com/lightclient)
 - 🌟 👤 [lightclient](https://github.com/lightclient) Starred [kate-land/ga100vfi](https://github.com/kate-land/ga100vfi)
   > GA100 voltage glitch resources
@@ -53,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-21 11:09:07 UTC*
+*Last updated at 2026-11-21 12:15:36 UTC*
 *Historical records are stored in the `archive` directory.*
