@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Ben-Lichtman](https://github.com/Ben-Lichtman)
+- 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [lexifina/global-law](https://github.com/lexifina/global-law)
+  > The world's law in git: any provision, any country, any date, and the law that wrote each word.
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [mholt/archives](https://github.com/mholt/archives)
   > Cross-platform library to create & extract archives, compress & decompress files, and walk virtual f...
@@ -49,23 +53,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [tristanbuckmaster/navier-stokes](https://github.com/tristanbuckmaster/navier-stokes)
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [WinDurango/WinDurango](https://github.com/WinDurango/WinDurango)
-  > The world's first Xbox One compatibility layer for Windows.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Barty-Bart/deepseek-v4.1-flash-vs-gpt-6-astra](https://github.com/Barty-Bart/deepseek-v4.1-flash-vs-gpt-6-astra)
-  > DeepSeek V4.1 Flash vs GPT-6 Astra: four identical build briefs, final versions, costs and timings
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-  > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/maya-inkling-mini](https://github.com/alesha-pro/maya-inkling-mini)
-  > Inkling 2 Mini on one RTX 3090: 128 tok/s, 344K context, images and tools. A Project Maya engine (ma...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Riley-Coyote/mnemos-mcp](https://github.com/Riley-Coyote/mnemos-mcp)
-  > Continuity for the agent itself. An MCP server that gives an AI agent a memory of its own, written i...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [nokeepai/inkling-2-mini-unbound](https://github.com/nokeepai/inkling-2-mini-unbound)
-  > Abliteration of Inkling-2-Mini (Inkling-2-Mini-Unbound): harness, methods, results
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [satellitedown/inkling-2-mini-abliterated-ingine](https://github.com/satellitedown/inkling-2-mini-abliterated-ingine)
-  > Abliterated Inkling-2-Mini on ingine, a custom CUDA engine for one RTX 5090: 256K context, DSpark sp...
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [mw00/project-maya](https://github.com/mw00/project-maya) to [mrexodia/project-maya](https://github.com/mrexodia/project-maya)
-  > Run GLM-5.3 (744B), DeepSeek-V4.1-Flash (748B), MiniMax-M3.1-Flash (428B), GLM-5.3-Flash (321B) and ...
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zqkra/ademark](https://github.com/zqkra/ademark)
+  > Every ADE, measured. An open benchmark of agentic development environments on macOS.
 
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization)
@@ -81,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-21 21:09:12 UTC*
+*Last updated at 2026-11-21 22:09:31 UTC*
 *Historical records are stored in the `archive` directory.*
