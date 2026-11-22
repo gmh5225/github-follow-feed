@@ -16,7 +16,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [Maldev-Academy/WhisperLoader](https://github.com/Maldev-Academy/WhisperLoader) to [classic130/WhisperLoader](https://github.com/classic130/WhisperLoader)
   > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) to [classic130/agentic-attack-detections](https://github.com/classic130/agentic-attack-detections)
-  > Detection rules, KQL hunts, Sigma, Suricata, YARA and indicators for agentic attack frameworks: ARTE...
+  > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
+
+### [dword64](https://github.com/dword64)
+- 🌟 👤 [dword64](https://github.com/dword64) Starred [ransagy/poe-regex](https://github.com/ransagy/poe-regex)
+  > A Path of Exile 1 and 2 regex compiler engine (CLI, Native AOT) with a Blazor WASM web workbench.
 
 ### [eteran](https://github.com/eteran)
 - 🌟 👤 [eteran](https://github.com/eteran) Starred [Zertrox123/elf64-recomp](https://github.com/Zertrox123/elf64-recomp)
@@ -34,5 +38,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-22 06:18:00 UTC*
+*Last updated at 2026-11-22 07:11:24 UTC*
 *Historical records are stored in the `archive` directory.*
