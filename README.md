@@ -32,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
   > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [bol-van/zapret2](https://github.com/bol-van/zapret2)
+  > anti-dpi software
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [dinosn/cve-2026-76466](https://github.com/dinosn/cve-2026-76466) to [classic130/cve-2026-76466](https://github.com/classic130/cve-2026-76466)
@@ -57,9 +59,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [dmtpascoal/gl-mt5000-openwrt](https://github.com/dmtpascoal/gl-mt5000-openwrt) to [funkemunky/gl-mt5000-openwrt](https://github.com/funkemunky/gl-mt5000-openwrt)
   > Clean minimal OpenWrt 25.12 build for GL.iNet GL-MT5000 (Brume 3) with the RTL8371C switch as a DSA ...
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsec/greysynth](https://github.com/binsec/greysynth)
+  > Greybox deobfuscation framework
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [bernzrdo/msn-emoticons](https://github.com/bernzrdo/msn-emoticons)
   > Every original emoticons from the Microsoft Live Messenger
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zertrox123/elf64-recomp](https://github.com/Zertrox123/elf64-recomp)
+  > Static x86_64 -> ARM64 recompiler for macOS Apple Silicon (Windows PE64 + Direct3D 11 -> Metal & Lin...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jesdga95/basalt](https://github.com/jesdga95/basalt)
+  > Local inference engine optimized for NVIDIA Blackwell
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [figurophobia/gore](https://github.com/figurophobia/gore)
+  > Godot RE toolkit: turn any Godot game (PCK/EXE) into an openable Godot project, with automatic encry...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tyoung515-svg/ai-truss-issues](https://github.com/tyoung515-svg/ai-truss-issues)
+  > AI models design bridges; real game physics decides. Poly Bridge 2 LLM benchmark harness. An experim...
 
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
@@ -67,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-22 11:09:00 UTC*
+*Last updated at 2026-11-22 12:15:08 UTC*
 *Historical records are stored in the `archive` directory.*
