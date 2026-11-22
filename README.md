@@ -87,7 +87,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
   > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [justrach/nanoharness](https://github.com/justrach/nanoharness)
+  > Zig-first native desktop & mobile workspace for coding agents
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [justrach/nanoattention](https://github.com/justrach/nanoattention)
+  > Native Zig and Metal inference for Flint with checked execution contracts
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [justrach/nanoui](https://github.com/justrach/nanoui)
+  > Desktop apps in Zig, with native UI drawn on the GPU or a web frontend
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [justrach/nanobrew](https://github.com/justrach/nanobrew)
+  > The fastest macOS package manager. Written in Zig. 3ms warm installs.
+
 
 ---
-*Last updated at 2026-11-22 18:12:52 UTC*
+*Last updated at 2026-11-22 19:08:58 UTC*
 *Historical records are stored in the `archive` directory.*
