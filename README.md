@@ -83,15 +83,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsec/greysynth](https://github.com/binsec/greysynth) to [mrexodia/greysynth](https://github.com/mrexodia/greysynth)
   > Greybox deobfuscation framework
 
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Beldex-Coin/beldex](https://github.com/Beldex-Coin/beldex)
-  > Beldex: the secure, confidential, untraceable cryptocurrency
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
   > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
 
 ---
-*Last updated at 2026-11-22 17:09:03 UTC*
+*Last updated at 2026-11-22 18:12:52 UTC*
 *Historical records are stored in the `archive` directory.*
