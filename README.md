@@ -34,6 +34,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [bol-van/zapret2](https://github.com/bol-van/zapret2)
   > anti-dpi software
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections)
+  > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [dinosn/cve-2026-76466](https://github.com/dinosn/cve-2026-76466) to [classic130/cve-2026-76466](https://github.com/classic130/cve-2026-76466)
@@ -44,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) to [classic130/agentic-attack-detections](https://github.com/classic130/agentic-attack-detections)
   > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
+
+### [dtcxzyw](https://github.com/dtcxzyw)
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
+  > DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smoo...
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ransagy/poe-regex](https://github.com/ransagy/poe-regex)
@@ -73,5 +79,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-22 13:09:52 UTC*
+*Last updated at 2026-11-22 14:10:10 UTC*
 *Historical records are stored in the `archive` directory.*
