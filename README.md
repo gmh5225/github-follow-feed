@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alexmullins/zip](https://github.com/alexmullins/zip)
+  > Fork of Go's archive/zip to add reading/writing of password protected zip files.
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [dinosn/cve-2026-76466](https://github.com/dinosn/cve-2026-76466) to [classic130/cve-2026-76466](https://github.com/classic130/cve-2026-76466)
   > CVE-2026-76466: Cisco Expressway cluster database root RCE (CVSS 9.8) — Python exploit and fleet det...
@@ -20,7 +24,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [eteran](https://github.com/eteran) Forked [Zertrox123/elf64-recomp](https://github.com/Zertrox123/elf64-recomp) to [eteran/elf64-recomp](https://github.com/eteran/elf64-recomp)
   > Static x86_64 -> ARM64 recompiler for macOS Apple Silicon (Windows PE64 + Direct3D 11 -> Metal & Lin...
 
+### [funkemunky](https://github.com/funkemunky)
+- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [dmtpascoal/gl-mt5000-openwrt](https://github.com/dmtpascoal/gl-mt5000-openwrt) to [funkemunky/gl-mt5000-openwrt](https://github.com/funkemunky/gl-mt5000-openwrt)
+  > Clean minimal OpenWrt 25.12 build for GL.iNet GL-MT5000 (Brume 3) with the RTL8371C switch as a DSA ...
+
 
 ---
-*Last updated at 2026-11-22 02:16:07 UTC*
+*Last updated at 2026-11-22 03:13:29 UTC*
 *Historical records are stored in the `archive` directory.*
