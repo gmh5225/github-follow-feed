@@ -29,6 +29,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [iamwavecut/ninfer-all](https://github.com/iamwavecut/ninfer-all) to [CrackerCat/ninfer-all](https://github.com/CrackerCat/ninfer-all)
   > One line of NInfer for the Blackwell, Ada Lovelace, Ampere, Turing and Volta NVIDIA GPUs, consolidat...
 
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+  > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [dinosn/cve-2026-76466](https://github.com/dinosn/cve-2026-76466) to [classic130/cve-2026-76466](https://github.com/classic130/cve-2026-76466)
   > CVE-2026-76466: Cisco Expressway cluster database root RCE (CVSS 9.8) — Python exploit and fleet det...
@@ -59,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-22 09:11:42 UTC*
+*Last updated at 2026-11-22 10:10:25 UTC*
 *Historical records are stored in the `archive` directory.*
