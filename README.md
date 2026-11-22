@@ -46,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) to [classic130/agentic-attack-detections](https://github.com/classic130/agentic-attack-detections)
   > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) to [classic130/asd-ste100-skill](https://github.com/classic130/asd-ste100-skill)
+  > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection](https://github.com/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection) to [classic130/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection](https://github.com/classic130/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection)
+  > CVE-2026-49179: Active Directory WriteSPNScript Command Injection
 
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
@@ -79,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-22 15:09:41 UTC*
+*Last updated at 2026-11-22 16:11:19 UTC*
 *Historical records are stored in the `archive` directory.*
