@@ -67,21 +67,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [bernzrdo/msn-emoticons](https://github.com/bernzrdo/msn-emoticons)
   > Every original emoticons from the Microsoft Live Messenger
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Zertrox123/elf64-recomp](https://github.com/Zertrox123/elf64-recomp)
-  > Static x86_64 -> ARM64 recompiler for macOS Apple Silicon (Windows PE64 + Direct3D 11 -> Metal & Lin...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [jesdga95/basalt](https://github.com/jesdga95/basalt)
-  > Local inference engine optimized for NVIDIA Blackwell
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [figurophobia/gore](https://github.com/figurophobia/gore)
-  > Godot RE toolkit: turn any Godot game (PCK/EXE) into an openable Godot project, with automatic encry...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tyoung515-svg/ai-truss-issues](https://github.com/tyoung515-svg/ai-truss-issues)
-  > AI models design bridges; real game physics decides. Poly Bridge 2 LLM benchmark harness. An experim...
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
   > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
 
 ---
-*Last updated at 2026-11-22 12:15:08 UTC*
+*Last updated at 2026-11-22 13:09:52 UTC*
 *Historical records are stored in the `archive` directory.*
