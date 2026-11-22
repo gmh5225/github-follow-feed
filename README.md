@@ -54,16 +54,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [dtcxzyw](https://github.com/dtcxzyw)
 - 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
   > DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smoo...
+- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [tpde2/tpde](https://github.com/tpde2/tpde)
+  > A fast framework for writing baseline compiler back-ends in C++
 
 ### [dword64](https://github.com/dword64)
 - 🌟 👤 [dword64](https://github.com/dword64) Starred [ransagy/poe-regex](https://github.com/ransagy/poe-regex)
   > A Path of Exile 1 and 2 regex compiler engine (CLI, Native AOT) with a Blazor WASM web workbench.
 
 ### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [Zertrox123/elf64-recomp](https://github.com/Zertrox123/elf64-recomp)
-  > Static x86_64 -> ARM64 recompiler for macOS Apple Silicon (Windows PE64 + Direct3D 11 -> Metal & Lin...
-- 🍴 👤 [eteran](https://github.com/eteran) Forked [Zertrox123/elf64-recomp](https://github.com/Zertrox123/elf64-recomp) to [eteran/elf64-recomp](https://github.com/eteran/elf64-recomp)
-  > Static x86_64 -> ARM64 recompiler for macOS Apple Silicon (Windows PE64 + Direct3D 11 -> Metal & Lin...
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Zertrox123/x64-mac-recomp](https://github.com/Zertrox123/x64-mac-recomp)
+  > Static x86_64 -> native ARM64 recompiler for Apple Silicon macOS (D3D11 -> Metal, Vulkan -> MoltenVK...
+- 🍴 👤 [eteran](https://github.com/eteran) Forked [Zertrox123/x64-mac-recomp](https://github.com/Zertrox123/x64-mac-recomp) to [eteran/elf64-recomp](https://github.com/eteran/elf64-recomp)
+  > Static x86_64 -> native ARM64 recompiler for Apple Silicon macOS (D3D11 -> Metal, Vulkan -> MoltenVK...
 
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [dmtpascoal/gl-mt5000-openwrt](https://github.com/dmtpascoal/gl-mt5000-openwrt) to [funkemunky/gl-mt5000-openwrt](https://github.com/funkemunky/gl-mt5000-openwrt)
@@ -77,11 +79,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [bernzrdo/msn-emoticons](https://github.com/bernzrdo/msn-emoticons)
   > Every original emoticons from the Microsoft Live Messenger
 
+### [mrexodia](https://github.com/mrexodia)
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsec/greysynth](https://github.com/binsec/greysynth) to [mrexodia/greysynth](https://github.com/mrexodia/greysynth)
+  > Greybox deobfuscation framework
+
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [Beldex-Coin/beldex](https://github.com/Beldex-Coin/beldex)
+  > Beldex: the secure, confidential, untraceable cryptocurrency
+
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
   > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
 
 ---
-*Last updated at 2026-11-22 16:11:19 UTC*
+*Last updated at 2026-11-22 17:09:03 UTC*
 *Historical records are stored in the `archive` directory.*
