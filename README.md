@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xSero](https://github.com/0xSero)
+- 🌟 👤 [0xSero](https://github.com/0xSero) Starred [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)
+  > Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, st...
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alexmullins/zip](https://github.com/alexmullins/zip)
   > Fork of Go's archive/zip to add reading/writing of password protected zip files.
@@ -79,15 +83,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [bernzrdo/msn-emoticons](https://github.com/bernzrdo/msn-emoticons)
   > Every original emoticons from the Microsoft Live Messenger
 
-### [mrexodia](https://github.com/mrexodia)
-- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [binsec/greysynth](https://github.com/binsec/greysynth) to [mrexodia/greysynth](https://github.com/mrexodia/greysynth)
-  > Greybox deobfuscation framework
-
 ### [petercunha](https://github.com/petercunha)
 - 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
   > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
 
 
 ---
-*Last updated at 2026-11-22 22:10:13 UTC*
+*Last updated at 2026-11-22 23:09:50 UTC*
 *Historical records are stored in the `archive` directory.*
