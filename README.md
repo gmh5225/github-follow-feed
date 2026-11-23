@@ -60,6 +60,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > private mirror
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [littledivy/tailnet-do](https://github.com/littledivy/tailnet-do) to [killvxk/tailnet-do](https://github.com/killvxk/tailnet-do)
   > Put a Cloudflare Durable Object on your Tailscale tailnet
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Aabyss-Team/Threat-Broadcast-Plus](https://github.com/Aabyss-Team/Threat-Broadcast-Plus) to [killvxk/Threat-Broadcast-Plus](https://github.com/killvxk/Threat-Broadcast-Plus)
+  > 网络安全威胁情报播报-Plus升级版
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc) to [lazyparser/riscv-operating-system-mooc](https://github.com/lazyparser/riscv-operating-system-mooc)
@@ -87,5 +89,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 16:11:45 UTC*
+*Last updated at 2026-11-23 17:10:44 UTC*
 *Historical records are stored in the `archive` directory.*
