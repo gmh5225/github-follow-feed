@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Coldzer0](https://github.com/Coldzer0)
+- 🌟 👤 [Coldzer0](https://github.com/Coldzer0) Starred [Kudaes/Unwinder](https://github.com/Kudaes/Unwinder)
+  > Call stack spoofing for Rust
+
 ### [Cr4sh](https://github.com/Cr4sh)
 - 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
@@ -17,6 +21,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
+
+### [char](https://github.com/char)
+- 🌟 👤 [char](https://github.com/char) Starred [joshpuckett/allo](https://github.com/joshpuckett/allo)
+  > Allo is your friendly neighborhood typeface, free and open source
 
 ### [dcbuild3r](https://github.com/dcbuild3r)
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)
@@ -53,6 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [littledivy/tailnet-do](https://github.com/littledivy/tailnet-do) to [killvxk/tailnet-do](https://github.com/killvxk/tailnet-do)
   > Put a Cloudflare Durable Object on your Tailscale tailnet
 
+### [lazyparser](https://github.com/lazyparser)
+- 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc) to [lazyparser/riscv-operating-system-mooc](https://github.com/lazyparser/riscv-operating-system-mooc)
+  > 《从头写一个RISC-V OS》课程配套的资源
+
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections)
   > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
@@ -75,5 +87,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 15:12:00 UTC*
+*Last updated at 2026-11-23 16:11:45 UTC*
 *Historical records are stored in the `archive` directory.*
