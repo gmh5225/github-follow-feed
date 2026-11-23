@@ -31,8 +31,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [S12cybersecurity/LogonStealer](https://github.com/S12cybersecurity/LogonStealer)
   > Abuses the Credential Provider interface to steal plaintext passwords from logonui.exe via CredProvD...
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [userver-framework/userver](https://github.com/userver-framework/userver)
+  > Production-ready C++ Asynchronous Framework with rich functionality
+- 🌟 👤 [odzhan](https://github.com/odzhan) Starred [01NGVI-QINGYI/ARIA-X](https://github.com/01NGVI-QINGYI/ARIA-X)
+  > Local-first state-space reasoning engine for security research. Fuses ARTEX, Cairn & PentAGI. Python...
 
 
 ---
-*Last updated at 2026-11-23 05:13:43 UTC*
+*Last updated at 2026-11-23 06:28:41 UTC*
 *Historical records are stored in the `archive` directory.*
