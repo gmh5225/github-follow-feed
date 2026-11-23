@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cr4sh](https://github.com/Cr4sh)
+- 🌟 👤 [Cr4sh](https://github.com/Cr4sh) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
+  > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
+
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [F-Stack/f-stack](https://github.com/F-Stack/f-stack)
   > F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/I...
@@ -30,6 +34,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
+  > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Mira-Cult/math](https://github.com/Mira-Cult/math)
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mitschud/DirtyFrag](https://github.com/mitschud/DirtyFrag)
+  > Ephemeral root via the CVE-2026-43284 page-cache exploit
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [whiskerrs/whisker](https://github.com/whiskerrs/whisker)
+  > Build native iOS, Android, web and desktop apps in Rust
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [atomsprout/nestvane](https://github.com/atomsprout/nestvane)
+  > Android 17 running inside an iOS app, without JIT: Android rebuilt and translated ahead of time, on ...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [H4CNPE/YumEdit](https://github.com/H4CNPE/YumEdit)
+  > Experimental CH/A iPhone Siri AI enabler with a high-risk option for older devices. Back up before u...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [kpgc10kai/Shark](https://github.com/kpgc10kai/Shark)
+  > private mirror
+
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections)
   > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
@@ -46,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 10:12:04 UTC*
+*Last updated at 2026-11-23 11:10:01 UTC*
 *Historical records are stored in the `archive` directory.*
