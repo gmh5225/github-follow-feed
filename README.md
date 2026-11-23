@@ -18,16 +18,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
-  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
-
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
 ### [ahmet](https://github.com/ahmet)
-- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [MatriksData/matriks-pii](https://github.com/MatriksData/matriks-pii)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [MatriksData/matriks-mask](https://github.com/MatriksData/matriks-mask)
   > Reversible PII masking guardrail for LiteLLM, built for Turkish text; supports KVKK compliance proce...
 
 ### [char](https://github.com/char)
@@ -80,14 +76,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Small, fast tool for performing reverse DNS lookups en masse.
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sqlpxc/airhand](https://github.com/sqlpxc/airhand)
   > High-performance, low-latency remote desktop QUIC transport · hardware encoding and decoding · up to...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [elementalsouls/Claude-AgentHunter](https://github.com/elementalsouls/Claude-AgentHunter)
+  > Pentest AI agents: 23 hunt-agent skills, a 4-arm detection engine, a 14-gate validation lab, and the...
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc) to [lazyparser/riscv-operating-system-mooc](https://github.com/lazyparser/riscv-operating-system-mooc)
   > 《从头写一个RISC-V OS》课程配套的资源
-
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
-  > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections)
@@ -111,13 +105,21 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [0xNazgul/Blockchain-Security-Library](https://github.com/0xNazgul/Blockchain-Security-Library)
   > A library of blockchain security resources for various categories in blockchain.
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-glm](https://github.com/simonw/llm-glm) public
+  > Access models via the Z.ai API
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/hyperliquid-api](https://github.com/sieblyio/hyperliquid-api) to [tiagosiebler/hyperliquid-api](https://github.com/tiagosiebler/hyperliquid-api)
   > Complete Hyperliquid JavaScript SDK for REST APIs & WebSockets for all JavaScript & Node.js runtimes...
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/hyperliquid-api](https://github.com/sieblyio/hyperliquid-api) to [AlgoraGroup/hyperliquid-javascript-sdk](https://github.com/AlgoraGroup/hyperliquid-javascript-sdk)
   > Complete Hyperliquid JavaScript SDK for REST APIs & WebSockets for all JavaScript & Node.js runtimes...
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AtomicBot-ai/atomic-engine](https://github.com/AtomicBot-ai/atomic-engine)
+  > SSD-based expert streaming inference engine built on llama.cpp. Supports accelerated token generatio...
+
 
 ---
-*Last updated at 2026-11-23 20:10:47 UTC*
+*Last updated at 2026-11-23 21:09:45 UTC*
 *Historical records are stored in the `archive` directory.*
