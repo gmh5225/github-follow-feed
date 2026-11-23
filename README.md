@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [MetrolistGroup/quackjs](https://github.com/MetrolistGroup/quackjs) to [CrackerCat/quackjs](https://github.com/CrackerCat/quackjs)
   > Kotlin-only YouTube player signature and n transforms using Faraday hints
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
+  > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
@@ -38,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 08:17:57 UTC*
+*Last updated at 2026-11-23 09:17:20 UTC*
 *Historical records are stored in the `archive` directory.*
