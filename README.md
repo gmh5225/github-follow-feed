@@ -1,93 +1,14 @@
-# Daily GitHub Activity (2026-11-22)
+# Daily GitHub Activity (2026-11-23)
 
 Today's public activity from users I follow plus `custom_users.txt` (updated every 15 minutes).
 
 ## Today's Activity
 
-### [0xSero](https://github.com/0xSero)
-- 🌟 👤 [0xSero](https://github.com/0xSero) Starred [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill)
-  > Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, st...
-
 ### [Cracked5pider](https://github.com/Cracked5pider)
-- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [alexmullins/zip](https://github.com/alexmullins/zip)
-  > Fork of Go's archive/zip to add reading/writing of password protected zip files.
-
-### [CrackerCat](https://github.com/CrackerCat)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [std-microblock/artseek](https://github.com/std-microblock/artseek) to [CrackerCat/artseek](https://github.com/CrackerCat/artseek)
-  > Zero-injection, read-only Android ART heap inspector. Query live objects and from TypeScript without...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [stablyai/orca](https://github.com/stablyai/orca) to [CrackerCat/orca](https://github.com/CrackerCat/orca)
-  > Orca lets you run a fleet of bots with your own subscription (e.g. Claude Code, Grok, Agy, Codex). A...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Yunnijian/CVE-2026-99491](https://github.com/Yunnijian/CVE-2026-99491) to [CrackerCat/Yunnijian-CVE-2026-99491](https://github.com/CrackerCat/Yunnijian-CVE-2026-99491)
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) to [CrackerCat/Leonida](https://github.com/CrackerCat/Leonida)
-  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mw00/project-maya](https://github.com/mw00/project-maya) to [CrackerCat/project-maya](https://github.com/CrackerCat/project-maya)
-  > Run GLM-5.3 (744B), DeepSeek-V4.1-Flash (748B), MiniMax-M3.1-Flash (428B), GLM-5.3-Flash (321B) and ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Minglink/dsh-infinite-gen-n](https://github.com/Minglink/dsh-infinite-gen-n) to [CrackerCat/dsh-infinite-gen-n](https://github.com/CrackerCat/dsh-infinite-gen-n)
-  > 无限N代 - DeepSeek Harness 破甲插件（无限一代至四代原作者维护）| 288+ 道测试题全过 · DeepSeek V4.1-Flash 1017 实测适配         如果对你...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [kamalx06/TornadoC2](https://github.com/kamalx06/TornadoC2) to [CrackerCat/TornadoC2](https://github.com/CrackerCat/TornadoC2)
-  > Pull-based C2 framework with ten native transports, concurrent multi-profile handlers, and end-to-en...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) to [CrackerCat/patchright](https://github.com/CrackerCat/patchright)
-  > Undetected version of the Playwright testing and automation library.
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sec4si/ledger](https://github.com/sec4si/ledger) to [CrackerCat/ledger](https://github.com/CrackerCat/ledger)
-  > Per-launch accounting for LLM inference on GPUs: who read what, who wrote what, and who really paid ...
-- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [iamwavecut/ninfer-all](https://github.com/iamwavecut/ninfer-all) to [CrackerCat/ninfer-all](https://github.com/CrackerCat/ninfer-all)
-  > One line of NInfer for the Blackwell, Ada Lovelace, Ampere, Turing and Volta NVIDIA GPUs, consolidat...
-
-### [Mr-xn](https://github.com/Mr-xn)
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
-  > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [bol-van/zapret2](https://github.com/bol-van/zapret2)
-  > anti-dpi software
-- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections)
-  > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
-
-### [classic130](https://github.com/classic130)
-- 🍴 👤 [classic130](https://github.com/classic130) Forked [dinosn/cve-2026-76466](https://github.com/dinosn/cve-2026-76466) to [classic130/cve-2026-76466](https://github.com/classic130/cve-2026-76466)
-  > CVE-2026-76466: Cisco Expressway cluster database root RCE (CVSS 9.8) — Python exploit and fleet det...
-- 🍴 👤 [classic130](https://github.com/classic130) Forked [LLCForge/CVE-2026-129289](https://github.com/LLCForge/CVE-2026-129289) to [classic130/CVE-2026-129289](https://github.com/classic130/CVE-2026-129289)
-  > PHP-FPM FastCGI Record Smuggling RCE
-- 🍴 👤 [classic130](https://github.com/classic130) Forked [Maldev-Academy/WhisperLoader](https://github.com/Maldev-Academy/WhisperLoader) to [classic130/WhisperLoader](https://github.com/classic130/WhisperLoader)
-  > A stealthy process injection loader combining Thread Name-Calling for payload delivery with TP_DIREC...
-- 🍴 👤 [classic130](https://github.com/classic130) Forked [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) to [classic130/agentic-attack-detections](https://github.com/classic130/agentic-attack-detections)
-  > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
-- 🍴 👤 [classic130](https://github.com/classic130) Forked [danyuchn/asd-ste100-skill](https://github.com/danyuchn/asd-ste100-skill) to [classic130/asd-ste100-skill](https://github.com/classic130/asd-ste100-skill)
-  > ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambig...
-- 🍴 👤 [classic130](https://github.com/classic130) Forked [overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection](https://github.com/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection) to [classic130/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection](https://github.com/classic130/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection)
-  > CVE-2026-49179: Active Directory WriteSPNScript Command Injection
-
-### [dtcxzyw](https://github.com/dtcxzyw)
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
-  > DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smoo...
-- 🌟 👤 [dtcxzyw](https://github.com/dtcxzyw) Starred [tpde2/tpde](https://github.com/tpde2/tpde)
-  > A fast framework for writing baseline compiler back-ends in C++
-
-### [dword64](https://github.com/dword64)
-- 🌟 👤 [dword64](https://github.com/dword64) Starred [ransagy/poe-regex](https://github.com/ransagy/poe-regex)
-  > A Path of Exile 1 and 2 regex compiler engine (CLI, Native AOT) with a Blazor WASM web workbench.
-
-### [eteran](https://github.com/eteran)
-- 🌟 👤 [eteran](https://github.com/eteran) Starred [Zertrox123/x64-mac-recomp](https://github.com/Zertrox123/x64-mac-recomp)
-  > Static x86_64 -> native ARM64 recompiler for Apple Silicon macOS (D3D11 -> Metal, Vulkan -> MoltenVK...
-- 🍴 👤 [eteran](https://github.com/eteran) Forked [Zertrox123/x64-mac-recomp](https://github.com/Zertrox123/x64-mac-recomp) to [eteran/elf64-recomp](https://github.com/eteran/elf64-recomp)
-  > Static x86_64 -> native ARM64 recompiler for Apple Silicon macOS (D3D11 -> Metal, Vulkan -> MoltenVK...
-
-### [funkemunky](https://github.com/funkemunky)
-- 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [dmtpascoal/gl-mt5000-openwrt](https://github.com/dmtpascoal/gl-mt5000-openwrt) to [funkemunky/gl-mt5000-openwrt](https://github.com/funkemunky/gl-mt5000-openwrt)
-  > Clean minimal OpenWrt 25.12 build for GL.iNet GL-MT5000 (Brume 3) with the RTL8371C switch as a DSA ...
-
-### [fvrmatteo](https://github.com/fvrmatteo)
-- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [binsec/greysynth](https://github.com/binsec/greysynth)
-  > Greybox deobfuscation framework
-
-### [mq1n](https://github.com/mq1n)
-- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [bernzrdo/msn-emoticons](https://github.com/bernzrdo/msn-emoticons)
-  > Every original emoticons from the Microsoft Live Messenger
-
-### [petercunha](https://github.com/petercunha)
-- 🌟 👤 [petercunha](https://github.com/petercunha) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
-  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [F-Stack/f-stack](https://github.com/F-Stack/f-stack)
+  > F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/I...
 
 
 ---
-*Last updated at 2026-11-22 23:09:50 UTC*
+*Last updated at 2026-11-23 00:33:26 UTC*
 *Historical records are stored in the `archive` directory.*
