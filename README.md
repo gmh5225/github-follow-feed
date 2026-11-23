@@ -17,6 +17,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/I...
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [trustedsec/LnkMeMaybe](https://github.com/trustedsec/LnkMeMaybe)
+  > Lnk crafting and research tools
 
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
@@ -115,11 +117,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/hyperliquid-api](https://github.com/sieblyio/hyperliquid-api) to [AlgoraGroup/hyperliquid-javascript-sdk](https://github.com/AlgoraGroup/hyperliquid-javascript-sdk)
   > Complete Hyperliquid JavaScript SDK for REST APIs & WebSockets for all JavaScript & Node.js runtimes...
 
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [AtomicBot-ai/atomic-engine](https://github.com/AtomicBot-ai/atomic-engine)
-  > SSD-based expert streaming inference engine built on llama.cpp. Supports accelerated token generatio...
-
 
 ---
-*Last updated at 2026-11-23 21:09:45 UTC*
+*Last updated at 2026-11-23 22:09:48 UTC*
 *Historical records are stored in the `archive` directory.*
