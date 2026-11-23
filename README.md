@@ -39,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Mira-Cult/math](https://github.com/Mira-Cult/math)
 
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [pithings/unkernel](https://github.com/pithings/unkernel)
+  > A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mitschud/DirtyFrag](https://github.com/mitschud/DirtyFrag)
   > Ephemeral root via the CVE-2026-43284 page-cache exploit
@@ -67,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 11:10:01 UTC*
+*Last updated at 2026-11-23 12:17:58 UTC*
 *Historical records are stored in the `archive` directory.*
