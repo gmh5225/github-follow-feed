@@ -34,6 +34,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)
   > The easiest, most secure way to use WireGuard and 2FA.
 
+### [elder-plinius](https://github.com/elder-plinius)
+- 🌟 👤 [elder-plinius](https://github.com/elder-plinius) Starred [elder-plinius/V3R1T4S](https://github.com/elder-plinius/V3R1T4S)
+  > liberating known unknowns
+
 ### [funkemunky](https://github.com/funkemunky)
 - 🍴 👤 [funkemunky](https://github.com/funkemunky) Forked [l0ng-ai/openidea](https://github.com/l0ng-ai/openidea) to [funkemunky/openidea](https://github.com/funkemunky/openidea)
   > The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in...
@@ -93,5 +97,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 18:13:35 UTC*
+*Last updated at 2026-11-23 19:09:23 UTC*
 *Historical records are stored in the `archive` directory.*
