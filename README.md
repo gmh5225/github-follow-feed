@@ -11,6 +11,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [F-Stack/f-stack](https://github.com/F-Stack/f-stack)
   > F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/I...
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
+  > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [antiyro/ukeystore](https://github.com/antiyro/ukeystore) to [CrackerCat/ukeystore](https://github.com/CrackerCat/ukeystore)
@@ -71,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 12:17:58 UTC*
+*Last updated at 2026-11-23 13:13:36 UTC*
 *Historical records are stored in the `archive` directory.*
