@@ -36,6 +36,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
+### [dcbuild3r](https://github.com/dcbuild3r)
+- 🌟 👤 [dcbuild3r](https://github.com/dcbuild3r) Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)
+  > The easiest, most secure way to use WireGuard and 2FA.
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
@@ -44,6 +48,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [hypervisor](https://github.com/hypervisor)
 - 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [pithings/unkernel](https://github.com/pithings/unkernel)
   > A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
+
+### [ioncodes](https://github.com/ioncodes)
+- 🌟 👤 [ioncodes](https://github.com/ioncodes) Starred [TheOldSnake/PS3Sharp](https://github.com/TheOldSnake/PS3Sharp)
+  > A basic PS3 Emulator in C#
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [mitschud/DirtyFrag](https://github.com/mitschud/DirtyFrag)
@@ -73,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 13:13:36 UTC*
+*Last updated at 2026-11-23 14:13:11 UTC*
 *Historical records are stored in the `archive` directory.*
