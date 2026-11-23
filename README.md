@@ -30,6 +30,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
+### [mthcht](https://github.com/mthcht)
+- 🌟 👤 [mthcht](https://github.com/mthcht) Starred [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections)
+  > Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStri...
+
 ### [odzhan](https://github.com/odzhan)
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
@@ -42,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 09:17:20 UTC*
+*Last updated at 2026-11-23 10:12:04 UTC*
 *Historical records are stored in the `archive` directory.*
