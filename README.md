@@ -107,10 +107,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [0xNazgul/Blockchain-Security-Library](https://github.com/0xNazgul/Blockchain-Security-Library)
   > A library of blockchain security resources for various categories in blockchain.
 
-### [simonw](https://github.com/simonw)
-- 🚀 👤 [simonw](https://github.com/simonw) Made [simonw/llm-glm](https://github.com/simonw/llm-glm) public
-  > Access models via the Z.ai API
-
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/hyperliquid-api](https://github.com/sieblyio/hyperliquid-api) to [tiagosiebler/hyperliquid-api](https://github.com/tiagosiebler/hyperliquid-api)
   > Complete Hyperliquid JavaScript SDK for REST APIs & WebSockets for all JavaScript & Node.js runtimes...
@@ -119,5 +115,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 22:09:48 UTC*
+*Last updated at 2026-11-23 23:11:12 UTC*
 *Historical records are stored in the `archive` directory.*
