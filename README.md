@@ -18,6 +18,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
+  > Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6
+
 ### [RicBent](https://github.com/RicBent)
 - 🌟 👤 [RicBent](https://github.com/RicBent) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
   > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
@@ -70,10 +74,20 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Put a Cloudflare Durable Object on your Tailscale tailnet
 - 🍴 👤 [killvxk](https://github.com/killvxk) Forked [Aabyss-Team/Threat-Broadcast-Plus](https://github.com/Aabyss-Team/Threat-Broadcast-Plus) to [killvxk/Threat-Broadcast-Plus](https://github.com/killvxk/Threat-Broadcast-Plus)
   > 网络安全威胁情报播报-Plus升级版
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [hakluke/hakrevdns](https://github.com/hakluke/hakrevdns)
+  > Small, fast tool for performing reverse DNS lookups en masse.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [hakluke/hakrevdns](https://github.com/hakluke/hakrevdns) to [killvxk/hakrevdns](https://github.com/killvxk/hakrevdns)
+  > Small, fast tool for performing reverse DNS lookups en masse.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [sqlpxc/airhand](https://github.com/sqlpxc/airhand)
+  > High-performance, low-latency remote desktop QUIC transport · hardware encoding and decoding · up to...
 
 ### [lazyparser](https://github.com/lazyparser)
 - 🍴 👤 [lazyparser](https://github.com/lazyparser) Forked [plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc) to [lazyparser/riscv-operating-system-mooc](https://github.com/lazyparser/riscv-operating-system-mooc)
   > 《从头写一个RISC-V OS》课程配套的资源
+
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [AFK-surf/xnulinux](https://github.com/AFK-surf/xnulinux)
+  > XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)
 
 ### [mthcht](https://github.com/mthcht)
 - 🌟 👤 [mthcht](https://github.com/mthcht) Starred [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections)
@@ -89,6 +103,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [odzhan](https://github.com/odzhan) Starred [01NGVI-QINGYI/ARIA-X](https://github.com/01NGVI-QINGYI/ARIA-X)
   > Local-first state-space reasoning engine for security research. Fuses ARTEX, Cairn & PentAGI. Python...
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
+  > ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AG...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+  > A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands...
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [0xNazgul/Blockchain-Security-Library](https://github.com/0xNazgul/Blockchain-Security-Library)
+  > A library of blockchain security resources for various categories in blockchain.
+
 ### [tiagosiebler](https://github.com/tiagosiebler)
 - 🍴 👤 [tiagosiebler](https://github.com/tiagosiebler) Forked [sieblyio/hyperliquid-api](https://github.com/sieblyio/hyperliquid-api) to [tiagosiebler/hyperliquid-api](https://github.com/tiagosiebler/hyperliquid-api)
   > Complete Hyperliquid JavaScript SDK for REST APIs & WebSockets for all JavaScript & Node.js runtimes...
@@ -97,5 +119,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-23 19:09:23 UTC*
+*Last updated at 2026-11-23 20:10:47 UTC*
 *Historical records are stored in the `archive` directory.*
