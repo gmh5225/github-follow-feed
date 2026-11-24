@@ -22,10 +22,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
   > eBPF-based security platform
 
-### [cfallin](https://github.com/cfallin)
-- 🌟 👤 [cfallin](https://github.com/cfallin) Starred [bytecodealliance/nightmonkey](https://github.com/bytecodealliance/nightmonkey)
-  > The night monkey works in the night to optimize your code, before it runs in daytime
-
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [xcl-dev/xcl](https://github.com/xcl-dev/xcl)
   > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
@@ -57,15 +53,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > TypeScript-to-Native Compiler
 
 ### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tensorfish/squid5090](https://github.com/tensorfish/squid5090)
-  > Highly Optimized Inference Engine for Inkling Mini 2 on NVIDIA 5090
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill)
-  > Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Tencent-Hunyuan/Hy-MT3](https://github.com/Tencent-Hunyuan/Hy-MT3)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [SqueezeAILab/2DSD](https://github.com/SqueezeAILab/2DSD)
-
-### [pcaversaccio](https://github.com/pcaversaccio)
-- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/kohaku-rs](https://github.com/ethereum/kohaku-rs)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dittobyte/Recompia](https://github.com/Dittobyte/Recompia)
+  > A cozy life-simulation and sandbox builder with fantastical creatures (Switch 2), recompiled to run ...
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
@@ -81,5 +70,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-24 20:10:21 UTC*
+*Last updated at 2026-11-24 21:10:38 UTC*
 *Historical records are stored in the `archive` directory.*
