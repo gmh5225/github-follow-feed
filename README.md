@@ -19,12 +19,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > (Ab)using the XIGNCODE3 driver to open a handle to any process.
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [atomsprout/nestvane](https://github.com/atomsprout/nestvane) to [CrackerCat/nestvane](https://github.com/CrackerCat/nestvane)
   > Android 17 running inside an iOS app, without JIT: Android rebuilt and translated ahead of time, on ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [AdverserialAI/Google-Chrome-Exploit-Chains-POCs](https://github.com/AdverserialAI/Google-Chrome-Exploit-Chains-POCs) to [CrackerCat/Google-Chrome-Exploit-Chains-POCs](https://github.com/CrackerCat/Google-Chrome-Exploit-Chains-POCs)
+  > a series of n-day exploit chains that we developed using our cyber capable models
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [leolivm/vermilion](https://github.com/leolivm/vermilion) to [CrackerCat/vermilion](https://github.com/CrackerCat/vermilion)
+  > Experimental macOS Tahoe driver for the AMD Radeon RX 7900 XT (Navi 31 / RDNA3): acceleration, high ...
+
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Mafifrizi/ciel](https://github.com/Mafifrizi/ciel)
+  > Hey nerds, welcome in.
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Kaorrosi/A2AHound](https://github.com/Kaorrosi/A2AHound)
+  > A2AHound maps the agents in your Agent2Agent (A2A) ecosystem into BloodHound as an OpenGraph extensi...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
   > eBPF-based security platform
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ivall/xcl](https://github.com/ivall/xcl)
+  > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
+
 
 ---
-*Last updated at 2026-11-24 05:12:21 UTC*
+*Last updated at 2026-11-24 06:20:18 UTC*
 *Historical records are stored in the `archive` directory.*
