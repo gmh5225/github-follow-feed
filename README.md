@@ -14,7 +14,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
   > eBPF-based security platform
 
+### [pcaversaccio](https://github.com/pcaversaccio)
+- 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/kohaku-rs](https://github.com/ethereum/kohaku-rs)
+
 
 ---
-*Last updated at 2026-11-24 10:11:28 UTC*
+*Last updated at 2026-11-24 11:11:21 UTC*
 *Historical records are stored in the `archive` directory.*
