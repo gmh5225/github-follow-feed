@@ -18,8 +18,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
   > eBPF-based security platform
 
+### [cfallin](https://github.com/cfallin)
+- 🌟 👤 [cfallin](https://github.com/cfallin) Starred [bytecodealliance/nightmonkey](https://github.com/bytecodealliance/nightmonkey)
+  > The night monkey works in the night to optimize your code, before it runs in daytime
+
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ivall/xcl](https://github.com/ivall/xcl)
+  > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
+
+### [hypervisor](https://github.com/hypervisor)
+- 🌟 👤 [hypervisor](https://github.com/hypervisor) Starred [ivall/xcl](https://github.com/ivall/xcl)
   > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
 
 ### [mq1n](https://github.com/mq1n)
@@ -37,11 +45,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/kohaku-rs](https://github.com/ethereum/kohaku-rs)
 
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/ida-ttd](https://github.com/HullaBrian/ida-ttd)
-  > IDA Pro plugin that turns Microsoft TTD and Sogen time-travel recordings into an IDA debugger sessio...
-
 
 ---
-*Last updated at 2026-11-24 16:13:15 UTC*
+*Last updated at 2026-11-24 17:11:03 UTC*
 *Historical records are stored in the `archive` directory.*
