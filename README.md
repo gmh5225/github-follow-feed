@@ -4,20 +4,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
-### [JoasASantos](https://github.com/JoasASantos)
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Mafifrizi/ciel](https://github.com/Mafifrizi/ciel)
-  > Hey nerds, welcome in.
-- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [Kaorrosi/A2AHound](https://github.com/Kaorrosi/A2AHound)
-  > A2AHound maps the agents in your Agent2Agent (A2A) ecosystem into BloodHound as an OpenGraph extensi...
+### [Mr-xn](https://github.com/Mr-xn)
+- 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [cncases/cases](https://github.com/cncases/cases) to [Mr-xn/cases](https://github.com/Mr-xn/cases)
+  > 中国裁判文书网本地搜索
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
   > eBPF-based security platform
+
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ivall/xcl](https://github.com/ivall/xcl)
+  > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tensorfish/squid5090](https://github.com/tensorfish/squid5090)
+  > Highly Optimized Inference Engine for Inkling Mini 2 on NVIDIA 5090
 
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/kohaku-rs](https://github.com/ethereum/kohaku-rs)
 
 
 ---
-*Last updated at 2026-11-24 11:11:21 UTC*
+*Last updated at 2026-11-24 12:18:11 UTC*
 *Historical records are stored in the `archive` directory.*
