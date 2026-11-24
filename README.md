@@ -10,9 +10,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
   > Truly independent web browser
 
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [google/mantis](https://github.com/google/mantis)
+  > A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vu...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
   > eBPF-based security platform
+
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [ivall/xcl](https://github.com/ivall/xcl)
+  > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ivall/xcl](https://github.com/ivall/xcl)
@@ -27,7 +35,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/kohaku-rs](https://github.com/ethereum/kohaku-rs)
 
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [HullaBrian/ida-ttd](https://github.com/HullaBrian/ida-ttd)
+  > IDA Pro plugin that turns Microsoft TTD and Sogen time-travel recordings into an IDA debugger sessio...
+
 
 ---
-*Last updated at 2026-11-24 14:12:07 UTC*
+*Last updated at 2026-11-24 15:11:50 UTC*
 *Historical records are stored in the `archive` directory.*
