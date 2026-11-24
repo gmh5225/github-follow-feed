@@ -55,6 +55,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Dittobyte/Recompia](https://github.com/Dittobyte/Recompia)
   > A cozy life-simulation and sandbox builder with fantastical creatures (Switch 2), recompiled to run ...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [TannerMidd/pi-pocket](https://github.com/TannerMidd/pi-pocket)
+  > A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable
 
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
@@ -70,5 +72,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-24 21:10:38 UTC*
+*Last updated at 2026-11-24 22:10:06 UTC*
 *Historical records are stored in the `archive` directory.*
