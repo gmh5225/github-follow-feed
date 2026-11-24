@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [AlexLinov/WinRM-PtH-BOF](https://github.com/AlexLinov/WinRM-PtH-BOF)
+  > WinRM pass-the-hash BOF with NTLMv2 authentication and signed, encrypted WSMan traffic
+
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🍴 👤 [Mr-xn](https://github.com/Mr-xn) Forked [cncases/cases](https://github.com/cncases/cases) to [Mr-xn/cases](https://github.com/Mr-xn/cases)
   > 中国裁判文书网本地搜索
@@ -63,11 +67,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [pcaversaccio](https://github.com/pcaversaccio)
 - 🌟 👤 [pcaversaccio](https://github.com/pcaversaccio) Starred [ethereum/kohaku-rs](https://github.com/ethereum/kohaku-rs)
 
+### [praydog](https://github.com/praydog)
+- 🌟 👤 [praydog](https://github.com/praydog) Starred [dmaivel/ntoseye](https://github.com/dmaivel/ntoseye)
+  > WinDbg-like kernel debugger for Windows, from Linux and macOS
+
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/dblayer](https://github.com/datasette/dblayer) public
   > Experimental prototype for a new Database backend abstraction
 
+### [tklengyel](https://github.com/tklengyel)
+- 🌟 👤 [tklengyel](https://github.com/tklengyel) Starred [rizagp/inferzero](https://github.com/rizagp/inferzero)
+  > arcinferzero
+
 
 ---
-*Last updated at 2026-11-24 18:13:43 UTC*
+*Last updated at 2026-11-24 19:09:32 UTC*
 *Historical records are stored in the `archive` directory.*
