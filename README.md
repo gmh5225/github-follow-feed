@@ -27,6 +27,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [keithadler/tenet-sat](https://github.com/keithadler/tenet-sat)
   > Parallel LRAT proof checker: checks SAT proofs on every core, 4 to 19x faster than lrat-trim on real...
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [Dittobyte/Recompia](https://github.com/Dittobyte/Recompia)
+  > A cozy life-simulation and sandbox builder with fantastical creatures (Switch 2), recompiled to run ...
+
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [wevm/uphill](https://github.com/wevm/uphill)
+  > Continuous metrics and hill climbing
 
 ### [hugsy](https://github.com/hugsy)
 - 🌟 👤 [hugsy](https://github.com/hugsy) Starred [ulsklyc/yuvomi](https://github.com/ulsklyc/yuvomi)
@@ -72,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-24 22:10:06 UTC*
+*Last updated at 2026-11-24 23:09:24 UTC*
 *Historical records are stored in the `archive` directory.*
