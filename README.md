@@ -14,11 +14,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
   > eBPF-based security platform
 
-### [momo5502](https://github.com/momo5502)
-- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [ivall/xcl](https://github.com/ivall/xcl)
-  > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
-
 
 ---
-*Last updated at 2026-11-24 09:14:01 UTC*
+*Last updated at 2026-11-24 10:11:28 UTC*
 *Historical records are stored in the `archive` directory.*
