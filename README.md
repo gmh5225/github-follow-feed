@@ -25,6 +25,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [ivall/xcl](https://github.com/ivall/xcl)
   > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc)
+  > TypeScript-to-Native Compiler
 
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [tensorfish/squid5090](https://github.com/tensorfish/squid5090)
@@ -41,5 +43,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-24 15:11:50 UTC*
+*Last updated at 2026-11-24 16:13:15 UTC*
 *Historical records are stored in the `archive` directory.*
