@@ -41,6 +41,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
   > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 
+### [akien-mga](https://github.com/akien-mga)
+- 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [miicck/dont-get-lost](https://github.com/miicck/dont-get-lost) to [LibreGamesArchive/dont-get-lost](https://github.com/LibreGamesArchive/dont-get-lost)
+  > A procedurally generated videogame.
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/agentmesh](https://github.com/google/agentmesh)
   > Agent Mesh
@@ -73,9 +77,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [GoogleCloudPlatform/cluster-autoscaler](https://github.com/GoogleCloudPlatform/cluster-autoscaler)
 
+### [hackcatml](https://github.com/hackcatml)
+- 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
+  > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
+
 ### [keiichiw](https://github.com/keiichiw)
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
   > VirtIO guest drivers in Rust.
+
+### [lightclient](https://github.com/lightclient)
+- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [Sacha-FALL/CMP-Pogo](https://github.com/Sacha-FALL/CMP-Pogo)
+  > 3D-printable pogo-pin jig for NVIDIA CMP 170HX voltage glitching.
 
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [fxceless/victory-fork](https://github.com/fxceless/victory-fork)
@@ -109,5 +121,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-25 13:12:19 UTC*
+*Last updated at 2026-11-25 14:12:09 UTC*
 *Historical records are stored in the `archive` directory.*
