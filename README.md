@@ -27,6 +27,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lappercn/tender-master](https://github.com/Lappercn/tender-master) to [CrackerCat/tender-master](https://github.com/CrackerCat/tender-master)
   > 招投标大师 (Bidding Master) —— 涵盖国内 20+ 核心公开招投标平台（中国政府采购网、全国公共资源交易平台、国家电网、南方电网、中石油、中化、国家能源、中国华能、中国电信、中国邮政...
 
+### [Dax89](https://github.com/Dax89)
+- 🍴 👤 [Dax89](https://github.com/Dax89) Forked [haikuports/haikuports](https://github.com/haikuports/haikuports) to [Dax89/haikuports](https://github.com/Dax89/haikuports)
+  > Software ports for the Haiku operating system.
+
+### [Mr-xn](https://github.com/Mr-xn)
+- 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [seanhowarthdev/Roam-Control](https://github.com/seanhowarthdev/Roam-Control)
+  > Choose, test and move an iPhone’s reported location. Available for independent sideloading.
+
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [egraphs-good/egg](https://github.com/egraphs-good/egg)
   > egg is a flexible, high-performance e-graph library
@@ -101,5 +109,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-25 12:18:26 UTC*
+*Last updated at 2026-11-25 13:12:19 UTC*
 *Historical records are stored in the `archive` directory.*
