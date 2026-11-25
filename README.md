@@ -78,6 +78,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🚀 👤 [holly-hacker](https://github.com/holly-hacker) Made [Variant9-Slop/kicad-rubberband-tracks](https://github.com/Variant9-Slop/kicad-rubberband-tracks) public
+  > A vibe-coded KiCAD plugin to shorten traces
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [optima-manent/ABCurves](https://github.com/optima-manent/ABCurves)
+  > ABCurves – human mouse motion, generated in real time.
+
 ### [keiichiw](https://github.com/keiichiw)
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
   > VirtIO guest drivers in Rust.
@@ -104,8 +110,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [weltling](https://github.com/weltling)
 - 🚀 👤 [weltling](https://github.com/weltling) Made [weltling/villain-rig](https://github.com/weltling/villain-rig) public
+- 🍴 👤 [weltling](https://github.com/weltling) Forked [microsoft/openvmm-deps](https://github.com/microsoft/openvmm-deps) to [weltling/openvmm-deps](https://github.com/weltling/openvmm-deps)
+  > Dependencies for OpenVMM
 
 
 ---
-*Last updated at 2026-11-25 18:13:21 UTC*
+*Last updated at 2026-11-25 19:09:23 UTC*
 *Historical records are stored in the `archive` directory.*
