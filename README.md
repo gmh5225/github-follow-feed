@@ -41,6 +41,24 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
   > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [Velocidex/velociraptor](https://github.com/Velocidex/velociraptor)
+  > Digging Deeper....
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [huhusmang/Awesome-LLMs-for-Vulnerability-Detection](https://github.com/huhusmang/Awesome-LLMs-for-Vulnerability-Detection)
+  > The community's most comprehensive, continuously-updated index of research on Large Language Models ...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)
+  > Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can ...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [pashov/skills](https://github.com/pashov/skills)
+  > Pashov Audit Group Skills
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+  > A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [f/textream](https://github.com/f/textream)
+  > Textream is a free macOS and iOS teleprompter app for streamers, interviewers, and presenters. It hi...
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [NVIDIA/garak](https://github.com/NVIDIA/garak)
+  > the LLM vulnerability scanner
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [microsoft/PyRIT](https://github.com/microsoft/PyRIT)
+  > Open-source AI red teaming toolkit from Microsoft. Test generative AI systems with automated scans, ...
+
 ### [akien-mga](https://github.com/akien-mga)
 - 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [miicck/dont-get-lost](https://github.com/miicck/dont-get-lost) to [LibreGamesArchive/dont-get-lost](https://github.com/LibreGamesArchive/dont-get-lost)
   > A procedurally generated videogame.
@@ -115,5 +133,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-25 20:10:59 UTC*
+*Last updated at 2026-11-25 21:11:32 UTC*
 *Historical records are stored in the `archive` directory.*
