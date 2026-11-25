@@ -47,6 +47,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [EQSTLab/CVE-2026-111497](https://github.com/EQSTLab/CVE-2026-111497) to [classic130/CVE-2026-111497](https://github.com/classic130/CVE-2026-111497)
   > Node2Shell
 
+### [enovella](https://github.com/enovella)
+- 🌟 👤 [enovella](https://github.com/enovella) Starred [TheCruZ/BootViewer](https://github.com/TheCruZ/BootViewer)
+  > Windows Measured Boot viewer & TPM verifier. See exactly what your PC measured at boot. Decode the W...
+- 🍴 👤 [enovella](https://github.com/enovella) Forked [TheCruZ/BootViewer](https://github.com/TheCruZ/BootViewer) to [enovella/BootViewer](https://github.com/enovella/BootViewer)
+  > Windows Measured Boot viewer & TPM verifier. See exactly what your PC measured at boot. Decode the W...
+
+### [es3n1n](https://github.com/es3n1n)
+- 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [GoogleCloudPlatform/cluster-autoscaler](https://github.com/GoogleCloudPlatform/cluster-autoscaler)
+
 ### [keiichiw](https://github.com/keiichiw)
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
   > VirtIO guest drivers in Rust.
@@ -59,6 +68,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [XtrComSu/xt-forge](https://github.com/XtrComSu/xt-forge)
+  > Local agent workbench in Rust, Go, and Python for call-graph context, AST correctness auditing, bina...
+
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [datadog-labs/ephyra](https://github.com/datadog-labs/ephyra)
   > A property-based testing library for the LLM era
@@ -69,7 +82,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [rswier](https://github.com/rswier) Starred [wjenh/pidp1-unix](https://github.com/wjenh/pidp1-unix)
   > A port of the original PDP-7 Unix v0 to the pidp1-mods ecosystem
 
+### [tiann](https://github.com/tiann)
+- 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
+  > Open source implementation of Apple's SwiftUI.
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [matbrik/dejadump](https://github.com/matbrik/dejadump)
+  > Explore self-modifying code across execution epochs in IDA, with per-version disassembly, pseudocode...
+
 
 ---
-*Last updated at 2026-11-25 10:12:10 UTC*
+*Last updated at 2026-11-25 11:11:08 UTC*
 *Historical records are stored in the `archive` directory.*
