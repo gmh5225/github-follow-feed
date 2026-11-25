@@ -30,10 +30,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Naville](https://github.com/Naville)
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [egraphs-good/egg](https://github.com/egraphs-good/egg)
   > egg is a flexible, high-performance e-graph library
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
+  > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/agentmesh](https://github.com/google/agentmesh)
   > Agent Mesh
+
+### [chfast](https://github.com/chfast)
+- 🌟 👤 [chfast](https://github.com/chfast) Starred [hgarrereyn/STITCH](https://github.com/hgarrereyn/STITCH)
+  > Automatically fuzz C/C++ libraries
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [34892002/edgeKey](https://github.com/34892002/edgeKey) to [classic130/edgeKey](https://github.com/classic130/edgeKey)
@@ -46,6 +52,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > CVE-2026-123903: VMware vCenter vmdir authentication bypass. A failed LDAP SASL bind (SRP, claimed a...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [EQSTLab/CVE-2026-111497](https://github.com/EQSTLab/CVE-2026-111497) to [classic130/CVE-2026-111497](https://github.com/classic130/CVE-2026-111497)
   > Node2Shell
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [bikini/minecraft2shell](https://github.com/bikini/minecraft2shell) to [classic130/minecraft2shell](https://github.com/classic130/minecraft2shell)
+  > Minecraft to native RCE
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [kernullist/kndbgx](https://github.com/kernullist/kndbgx) to [classic130/kndbgx](https://github.com/classic130/kndbgx)
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [TheCruZ/BootViewer](https://github.com/TheCruZ/BootViewer)
@@ -71,6 +80,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [XtrComSu/xt-forge](https://github.com/XtrComSu/xt-forge)
   > Local agent workbench in Rust, Go, and Python for call-graph context, AST correctness auditing, bina...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mkultraware/accuretta](https://github.com/mkultraware/accuretta)
+  > A sovereign, zero-trust local AI agent and micro-IDE.
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sous-labs/songe](https://github.com/sous-labs/songe)
+  > A training engine for your local model, using your idle compute
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [datadog-labs/ephyra](https://github.com/datadog-labs/ephyra)
@@ -86,11 +99,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
   > Open source implementation of Apple's SwiftUI.
 
-### [williballenthin](https://github.com/williballenthin)
-- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [matbrik/dejadump](https://github.com/matbrik/dejadump)
-  > Explore self-modifying code across execution epochs in IDA, with per-version disassembly, pseudocode...
-
 
 ---
-*Last updated at 2026-11-25 11:11:08 UTC*
+*Last updated at 2026-11-25 12:18:26 UTC*
 *Historical records are stored in the `archive` directory.*
