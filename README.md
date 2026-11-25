@@ -33,6 +33,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
   > VirtIO guest drivers in Rust.
 
+### [mgeeky](https://github.com/mgeeky)
+- 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
+  > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1337isnot1337/solved-conjectures](https://github.com/1337isnot1337/solved-conjectures)
   > math drop, curated by myself and 6.2-astra
@@ -49,5 +53,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-25 07:13:41 UTC*
+*Last updated at 2026-11-25 08:16:08 UTC*
 *Historical records are stored in the `archive` directory.*
