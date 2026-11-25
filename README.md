@@ -82,10 +82,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
   > VirtIO guest drivers in Rust.
 
-### [mach-port-t](https://github.com/mach-port-t)
-- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [fxceless/victory-fork](https://github.com/fxceless/victory-fork)
-  > Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No...
-
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
@@ -95,6 +91,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A property-based testing library for the LLM era
 - 🍴 👤 [pgoodman](https://github.com/pgoodman) Forked [datadog-labs/ephyra](https://github.com/datadog-labs/ephyra) to [pgoodman/ephyra](https://github.com/pgoodman/ephyra)
   > A property-based testing library for the LLM era
+- 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [pithings/unkernel](https://github.com/pithings/unkernel)
+  > A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
 
 ### [rswier](https://github.com/rswier)
 - 🌟 👤 [rswier](https://github.com/rswier) Starred [wjenh/pidp1-unix](https://github.com/wjenh/pidp1-unix)
@@ -104,10 +102,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
   > Open source implementation of Apple's SwiftUI.
 
-### [tklengyel](https://github.com/tklengyel)
-- 🍴 👤 [tklengyel](https://github.com/tklengyel) Forked [icedevml/qemu-xen](https://github.com/icedevml/qemu-xen) to [tklengyel/qemu-xen](https://github.com/tklengyel/qemu-xen)
+### [weltling](https://github.com/weltling)
+- 🚀 👤 [weltling](https://github.com/weltling) Made [weltling/villain-rig](https://github.com/weltling/villain-rig) public
 
 
 ---
-*Last updated at 2026-11-25 17:09:36 UTC*
+*Last updated at 2026-11-25 18:13:21 UTC*
 *Historical records are stored in the `archive` directory.*
