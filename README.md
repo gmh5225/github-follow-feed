@@ -92,6 +92,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [es3n1n](https://github.com/es3n1n)
 - 🌟 👤 [es3n1n](https://github.com/es3n1n) Starred [GoogleCloudPlatform/cluster-autoscaler](https://github.com/GoogleCloudPlatform/cluster-autoscaler)
 
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [sp00nznet/redalert2-recomp](https://github.com/sp00nznet/redalert2-recomp)
+  > Static recompilation of Command & Conquer: Red Alert 2 / Yuri's Revenge (Westwood, 2000-01) to nativ...
+
 ### [hackcatml](https://github.com/hackcatml)
 - 🌟 👤 [hackcatml](https://github.com/hackcatml) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
@@ -145,5 +149,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-25 22:11:14 UTC*
+*Last updated at 2026-11-25 23:10:42 UTC*
 *Historical records are stored in the `archive` directory.*
