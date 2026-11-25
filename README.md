@@ -45,6 +45,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
   > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 
+### [aeyakovenko](https://github.com/aeyakovenko)
+- 🚀 👤 [aeyakovenko](https://github.com/aeyakovenko) Made [aeyakovenko/lean-svm](https://github.com/aeyakovenko/lean-svm) public
+  > Native Lean 4 to Solana sBPF optimizing compiler toolchain
+
 ### [akien-mga](https://github.com/akien-mga)
 - 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [miicck/dont-get-lost](https://github.com/miicck/dont-get-lost) to [LibreGamesArchive/dont-get-lost](https://github.com/LibreGamesArchive/dont-get-lost)
   > A procedurally generated videogame.
@@ -90,10 +94,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
   > VirtIO guest drivers in Rust.
 
-### [lightclient](https://github.com/lightclient)
-- 🌟 👤 [lightclient](https://github.com/lightclient) Starred [Sacha-FALL/CMP-Pogo](https://github.com/Sacha-FALL/CMP-Pogo)
-  > 3D-printable pogo-pin jig for NVIDIA CMP 170HX voltage glitching.
-
 ### [mach-port-t](https://github.com/mach-port-t)
 - 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [fxceless/victory-fork](https://github.com/fxceless/victory-fork)
   > Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No...
@@ -124,11 +124,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
   > Open source implementation of Apple's SwiftUI.
 
-### [unbalancedparentheses](https://github.com/unbalancedparentheses)
-- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [wafer-space/gf180mcu-project-template](https://github.com/wafer-space/gf180mcu-project-template)
-  > Project template for wafer.space MPW runs using the gf180mcu PDK
-
 
 ---
-*Last updated at 2026-11-25 15:12:24 UTC*
+*Last updated at 2026-11-25 16:15:39 UTC*
 *Historical records are stored in the `archive` directory.*
