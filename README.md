@@ -27,6 +27,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lappercn/tender-master](https://github.com/Lappercn/tender-master) to [CrackerCat/tender-master](https://github.com/CrackerCat/tender-master)
   > 招投标大师 (Bidding Master) —— 涵盖国内 20+ 核心公开招投标平台（中国政府采购网、全国公共资源交易平台、国家电网、南方电网、中石油、中化、国家能源、中国华能、中国电信、中国邮政...
 
+### [Naville](https://github.com/Naville)
+- 🌟 👤 [Naville](https://github.com/Naville) Starred [egraphs-good/egg](https://github.com/egraphs-good/egg)
+  > egg is a flexible, high-performance e-graph library
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/agentmesh](https://github.com/google/agentmesh)
   > Agent Mesh
@@ -36,6 +40,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > 完全开源的发卡系统，一键部署到 Cloudflare Workers。| A Vike-powered full-stack digital shop, one-click deploy to Clo...
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [xiaoxiaoguai-yyds/xxgkami-pro](https://github.com/xiaoxiaoguai-yyds/xxgkami-pro) to [classic130/xxgkami-pro](https://github.com/classic130/xxgkami-pro)
   > 基于VUE3开发的高颜值高性能的卡密管理系统-小小怪卡密验证管理系统，支持时间卡密和次数卡密的生成、销售、验证和管理，提供管理员后台和用户前台双端界面，具备API接口、订单管理、数据统计等完整功能。
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [pwn2nice/cb-exec](https://github.com/pwn2nice/cb-exec) to [classic130/cb-exec](https://github.com/classic130/cb-exec)
+  > Scan PE images to identify callback function for call stack spoofing.
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [dinosn/CVE-2026-123903](https://github.com/dinosn/CVE-2026-123903) to [classic130/CVE-2026-123903](https://github.com/classic130/CVE-2026-123903)
+  > CVE-2026-123903: VMware vCenter vmdir authentication bypass. A failed LDAP SASL bind (SRP, claimed a...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [EQSTLab/CVE-2026-111497](https://github.com/EQSTLab/CVE-2026-111497) to [classic130/CVE-2026-111497](https://github.com/classic130/CVE-2026-111497)
+  > Node2Shell
 
 ### [keiichiw](https://github.com/keiichiw)
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
@@ -61,5 +71,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-25 09:13:33 UTC*
+*Last updated at 2026-11-25 10:12:10 UTC*
 *Historical records are stored in the `archive` directory.*
