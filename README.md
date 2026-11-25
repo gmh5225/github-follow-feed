@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [Cracked5pider](https://github.com/Cracked5pider)
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [shirudo-dev/shirudo](https://github.com/shirudo-dev/shirudo)
+  > eBPF-based security platform
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Marvisak/VIctory](https://github.com/Marvisak/VIctory) to [CrackerCat/VIctory](https://github.com/CrackerCat/VIctory)
   > An attempt at running GTA VI on PC
@@ -67,6 +71,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [bikini/minecraft2shell](https://github.com/bikini/minecraft2shell) to [classic130/minecraft2shell](https://github.com/classic130/minecraft2shell)
   > Minecraft to native RCE
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [kernullist/kndbgx](https://github.com/kernullist/kndbgx) to [classic130/kndbgx](https://github.com/classic130/kndbgx)
+  > A WinDbg extension that adds a visual kernel investigation workspace for x64 targets: kernel callbac...
 
 ### [enovella](https://github.com/enovella)
 - 🌟 👤 [enovella](https://github.com/enovella) Starred [TheCruZ/BootViewer](https://github.com/TheCruZ/BootViewer)
@@ -119,7 +124,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
   > Open source implementation of Apple's SwiftUI.
 
+### [unbalancedparentheses](https://github.com/unbalancedparentheses)
+- 🌟 👤 [unbalancedparentheses](https://github.com/unbalancedparentheses) Starred [wafer-space/gf180mcu-project-template](https://github.com/wafer-space/gf180mcu-project-template)
+  > Project template for wafer.space MPW runs using the gf180mcu PDK
+
 
 ---
-*Last updated at 2026-11-25 14:12:09 UTC*
+*Last updated at 2026-11-25 15:12:24 UTC*
 *Historical records are stored in the `archive` directory.*
