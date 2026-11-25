@@ -31,10 +31,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lappercn/tender-master](https://github.com/Lappercn/tender-master) to [CrackerCat/tender-master](https://github.com/CrackerCat/tender-master)
   > 招投标大师 (Bidding Master) —— 涵盖国内 20+ 核心公开招投标平台（中国政府采购网、全国公共资源交易平台、国家电网、南方电网、中石油、中化、国家能源、中国华能、中国电信、中国邮政...
 
-### [Dax89](https://github.com/Dax89)
-- 🍴 👤 [Dax89](https://github.com/Dax89) Forked [haikuports/haikuports](https://github.com/haikuports/haikuports) to [Dax89/haikuports](https://github.com/Dax89/haikuports)
-  > Software ports for the Haiku operating system.
-
 ### [Mr-xn](https://github.com/Mr-xn)
 - 🌟 👤 [Mr-xn](https://github.com/Mr-xn) Starred [seanhowarthdev/Roam-Control](https://github.com/seanhowarthdev/Roam-Control)
   > Choose, test and move an iPhone’s reported location. Available for independent sideloading.
@@ -45,10 +41,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Naville](https://github.com/Naville) Starred [shinyquagsire23/Klepton](https://github.com/shinyquagsire23/Klepton)
   > JIT-less relinker and compatibility layer for running Quest/Android XR APKs on visionOS and macOS
 
-### [aeyakovenko](https://github.com/aeyakovenko)
-- 🚀 👤 [aeyakovenko](https://github.com/aeyakovenko) Made [aeyakovenko/lean-svm](https://github.com/aeyakovenko/lean-svm) public
-  > Native Lean 4 to Solana sBPF optimizing compiler toolchain
-
 ### [akien-mga](https://github.com/akien-mga)
 - 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [miicck/dont-get-lost](https://github.com/miicck/dont-get-lost) to [LibreGamesArchive/dont-get-lost](https://github.com/LibreGamesArchive/dont-get-lost)
   > A procedurally generated videogame.
@@ -56,10 +48,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/agentmesh](https://github.com/google/agentmesh)
   > Agent Mesh
-
-### [chfast](https://github.com/chfast)
-- 🌟 👤 [chfast](https://github.com/chfast) Starred [hgarrereyn/STITCH](https://github.com/hgarrereyn/STITCH)
-  > Automatically fuzz C/C++ libraries
 
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [34892002/edgeKey](https://github.com/34892002/edgeKey) to [classic130/edgeKey](https://github.com/classic130/edgeKey)
@@ -102,14 +90,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [XtrComSu/xt-forge](https://github.com/XtrComSu/xt-forge)
-  > Local agent workbench in Rust, Go, and Python for call-graph context, AST correctness auditing, bina...
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [mkultraware/accuretta](https://github.com/mkultraware/accuretta)
-  > A sovereign, zero-trust local AI agent and micro-IDE.
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [sous-labs/songe](https://github.com/sous-labs/songe)
-  > A training engine for your local model, using your idle compute
-
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [datadog-labs/ephyra](https://github.com/datadog-labs/ephyra)
   > A property-based testing library for the LLM era
@@ -124,7 +104,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [OpenSwiftUIProject/OpenSwiftUI](https://github.com/OpenSwiftUIProject/OpenSwiftUI)
   > Open source implementation of Apple's SwiftUI.
 
+### [tklengyel](https://github.com/tklengyel)
+- 🍴 👤 [tklengyel](https://github.com/tklengyel) Forked [icedevml/qemu-xen](https://github.com/icedevml/qemu-xen) to [tklengyel/qemu-xen](https://github.com/tklengyel/qemu-xen)
+
 
 ---
-*Last updated at 2026-11-25 16:15:39 UTC*
+*Last updated at 2026-11-25 17:09:36 UTC*
 *Historical records are stored in the `archive` directory.*
