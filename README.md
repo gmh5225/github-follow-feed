@@ -24,22 +24,30 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > AI 驱动的多领域安全分析 Agent 平台 —— 让 LLM 端到端完成安全分析
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [drakestapleton/omega-qwen36-35b](https://github.com/drakestapleton/omega-qwen36-35b) to [CrackerCat/omega-qwen36-35b](https://github.com/CrackerCat/omega-qwen36-35b)
   > Qwen 3.6 35B-A3B on the Pure Seeded-Omega Zero-CUDA GB10 Engine & Full-Chip APU Stack
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Lappercn/tender-master](https://github.com/Lappercn/tender-master) to [CrackerCat/tender-master](https://github.com/CrackerCat/tender-master)
+  > 招投标大师 (Bidding Master) —— 涵盖国内 20+ 核心公开招投标平台（中国政府采购网、全国公共资源交易平台、国家电网、南方电网、中石油、中化、国家能源、中国华能、中国电信、中国邮政...
 
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [google/agentmesh](https://github.com/google/agentmesh)
   > Agent Mesh
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [34892002/edgeKey](https://github.com/34892002/edgeKey) to [classic130/edgeKey](https://github.com/classic130/edgeKey)
+  > 完全开源的发卡系统，一键部署到 Cloudflare Workers。| A Vike-powered full-stack digital shop, one-click deploy to Clo...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [xiaoxiaoguai-yyds/xxgkami-pro](https://github.com/xiaoxiaoguai-yyds/xxgkami-pro) to [classic130/xxgkami-pro](https://github.com/classic130/xxgkami-pro)
+  > 基于VUE3开发的高颜值高性能的卡密管理系统-小小怪卡密验证管理系统，支持时间卡密和次数卡密的生成、销售、验证和管理，提供管理员后台和用户前台双端界面，具备API接口、订单管理、数据统计等完整功能。
+
 ### [keiichiw](https://github.com/keiichiw)
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
   > VirtIO guest drivers in Rust.
 
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [fxceless/victory-fork](https://github.com/fxceless/victory-fork)
+  > Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No...
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
-
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [1337isnot1337/solved-conjectures](https://github.com/1337isnot1337/solved-conjectures)
-  > math drop, curated by myself and 6.2-astra
 
 ### [pgoodman](https://github.com/pgoodman)
 - 🌟 👤 [pgoodman](https://github.com/pgoodman) Starred [datadog-labs/ephyra](https://github.com/datadog-labs/ephyra)
@@ -53,5 +61,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-25 08:16:08 UTC*
+*Last updated at 2026-11-25 09:13:33 UTC*
 *Historical records are stored in the `archive` directory.*
