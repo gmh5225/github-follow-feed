@@ -106,6 +106,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [keiichiw](https://github.com/keiichiw) Forked [rcore-os/virtio-drivers](https://github.com/rcore-os/virtio-drivers) to [keiichiw/virtio-drivers](https://github.com/keiichiw/virtio-drivers)
   > VirtIO guest drivers in Rust.
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [lxyeternal/PathTracker](https://github.com/lxyeternal/PathTracker)
+  > 漫迹 Waytrace：不用按开始，全天自动记录足迹的 iPhone 和 Apple Watch App，已上架 App Store。Records your routes and places al...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [garvitsurana271/Stela](https://github.com/garvitsurana271/Stela)
+  > Full mirror of Stela with every branch and release tag, kept after the original was archived. Contin...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [Zlion-Y/zte-e2631-openwrt](https://github.com/Zlion-Y/zte-e2631-openwrt)
+  > OpenWrt port for the ZTE ZXHN E2631 (Sanechips ZX279128S): overlay, board and host tooling, packagin...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [xcl-dev/xcl](https://github.com/xcl-dev/xcl)
+  > Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the cons...
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [tensorfish/squid5090](https://github.com/tensorfish/squid5090)
+  > Highly Optimized Inference Engine for Inkling Mini 2 on NVIDIA 5090
+
 ### [mgeeky](https://github.com/mgeeky)
 - 🌟 👤 [mgeeky](https://github.com/mgeeky) Starred [AIPentest/CyberStrikeAI](https://github.com/AIPentest/CyberStrikeAI)
   > The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence b...
@@ -133,5 +145,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-25 21:11:32 UTC*
+*Last updated at 2026-11-25 22:11:14 UTC*
 *Historical records are stored in the `archive` directory.*
