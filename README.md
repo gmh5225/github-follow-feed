@@ -40,11 +40,19 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [slint-ui/slint](https://github.com/slint-ui/slint)
   > Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaS...
 
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Olmectron/nx2-relink](https://github.com/Olmectron/nx2-relink)
+  > A Nintendo Switch 2 game you own, relinked into a homebrew program (.nro) that runs it on a Switch 2...
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [byizmysh/IZ2S-SB4](https://github.com/byizmysh/IZ2S-SB4)
+  > Homebrew launcher IZ2S for Nintendo Switch 2, designed for use with SmileBASIC 4.
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [byizmysh/IZ2S-Platform](https://github.com/byizmysh/IZ2S-Platform)
+  > IZ2S - Linux PC panel and console application launcher for Civilization VII on Nintendo Switch 2.
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
   > An an app that installs Sidestore on iOS 27, fully on-device 
 
 
 ---
-*Last updated at 2026-11-26 08:15:47 UTC*
+*Last updated at 2026-11-26 09:13:27 UTC*
 *Historical records are stored in the `archive` directory.*
