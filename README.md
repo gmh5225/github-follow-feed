@@ -26,6 +26,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [LyraVoid/NoShot](https://github.com/LyraVoid/NoShot) to [CrackerCat/NoShot](https://github.com/CrackerCat/NoShot)
   > Per-app FLAG_SECURE remover for Android: Zig native, M3E WebUI
 
+### [JoasASantos](https://github.com/JoasASantos)
+- 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
+  > Use Codex from Claude Code to review code or delegate tasks.
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [agent0ai/dox](https://github.com/agent0ai/dox)
   > Self-documenting AGENTS.md
@@ -65,6 +69,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Examples for the Siebly.io website
 - 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/docs](https://github.com/sieblyio/docs)
   > Generated documentation for Siebly JavaScript and TypeScript SDKs
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [vanalex/orderbook-lakehouse](https://github.com/vanalex/orderbook-lakehouse)
+  > Open lakehouse demo on a laptop: order-book events streamed through Redpanda Connect into Apache Ice...
 
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
@@ -72,5 +78,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-26 11:11:03 UTC*
+*Last updated at 2026-11-26 12:17:42 UTC*
 *Historical records are stored in the `archive` directory.*
