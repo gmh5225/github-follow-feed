@@ -30,6 +30,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
 
+### [Wenzel](https://github.com/Wenzel)
+- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills)
+  > Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparen...
+
+### [ZehMatt](https://github.com/ZehMatt)
+- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [erincatto/box3d](https://github.com/erincatto/box3d) to [ZehMatt/box3d](https://github.com/ZehMatt/box3d)
+  > Box3D is a 3D physics engine for games
+
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [agent0ai/dox](https://github.com/agent0ai/dox)
   > Self-documenting AGENTS.md
@@ -45,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [slint-ui/slint](https://github.com/slint-ui/slint)
   > Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaS...
+
+### [jxy-s](https://github.com/jxy-s)
+- 🍴 👤 [jxy-s](https://github.com/jxy-s) Forked [wezterm/wezterm](https://github.com/wezterm/wezterm) to [jxy-s/wezterm](https://github.com/jxy-s/wezterm)
+  > A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented i...
 
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
@@ -86,5 +98,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-26 17:10:16 UTC*
+*Last updated at 2026-11-26 18:13:51 UTC*
 *Historical records are stored in the `archive` directory.*
