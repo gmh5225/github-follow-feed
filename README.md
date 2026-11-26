@@ -50,13 +50,13 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
   > An an app that installs Sidestore on iOS 27, fully on-device 
 
-### [mattgodbolt](https://github.com/mattgodbolt)
-- 🌟 👤 [mattgodbolt](https://github.com/mattgodbolt) Starred [EmptySquareBubble/once_upon_a_thread](https://github.com/EmptySquareBubble/once_upon_a_thread)
-  > Once upon a time, a developer spawned a thread… and everything seemed fine. But inside that tidy cod...
-
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
+
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [christopherowen/spark-ds41f](https://github.com/christopherowen/spark-ds41f)
+  > Reproducible Docker/vLLM deployment, tuning, and benchmarks for DeepSeek V4.1 Flash on a switchless ...
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Olmectron/nx2-relink](https://github.com/Olmectron/nx2-relink)
@@ -86,5 +86,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-26 16:13:19 UTC*
+*Last updated at 2026-11-26 17:10:16 UTC*
 *Historical records are stored in the `archive` directory.*
