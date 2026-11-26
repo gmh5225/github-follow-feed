@@ -30,10 +30,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
 
-### [Wenzel](https://github.com/Wenzel)
-- 🌟 👤 [Wenzel](https://github.com/Wenzel) Starred [Moh4696/open-3d-skills](https://github.com/Moh4696/open-3d-skills)
-  > Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparen...
-
 ### [ZehMatt](https://github.com/ZehMatt)
 - 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [erincatto/box3d](https://github.com/erincatto/box3d) to [ZehMatt/box3d](https://github.com/ZehMatt/box3d)
   > Box3D is a 3D physics engine for games
@@ -50,6 +46,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [unitystation/unitystation](https://github.com/unitystation/unitystation) to [LibreGamesArchive/unitystation](https://github.com/LibreGamesArchive/unitystation)
   > The original unitystation
 
+### [fvrmatteo](https://github.com/fvrmatteo)
+- 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mrexodia/greysynth](https://github.com/mrexodia/greysynth)
+  > Greybox deobfuscation framework
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [slint-ui/slint](https://github.com/slint-ui/slint)
   > Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaS...
@@ -61,6 +61,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
   > An an app that installs Sidestore on iOS 27, fully on-device 
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [dobin/MakeMePPL](https://github.com/dobin/MakeMePPL)
+  > Kernel module to easily set PPL flag on processes
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [metasequoiaime/msime](https://github.com/metasequoiaime/msime)
+  > 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wibus-wee/see](https://github.com/wibus-wee/see)
+  > See the code. Follow the idea.
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [egoist/mygo](https://github.com/egoist/mygo)
+  > Develop desktop apps with native UI or web frontend in Go
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [wgpsec/context1337](https://github.com/wgpsec/context1337)
+  > aboutSecurity project skill finder / dict finder / exp finder, auto suggest and team knowledge base.
+- 🍴 👤 [killvxk](https://github.com/killvxk) Forked [pwn2nice/cb-exec](https://github.com/pwn2nice/cb-exec) to [killvxk/cb-exec](https://github.com/killvxk/cb-exec)
+  > Scan PE images to identify callback function for call stack spoofing.
 
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
@@ -98,5 +110,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-26 18:13:51 UTC*
+*Last updated at 2026-11-26 19:09:21 UTC*
 *Historical records are stored in the `archive` directory.*
