@@ -30,9 +30,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
 
-### [ahmet](https://github.com/ahmet)
-- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [agent0ai/dox](https://github.com/agent0ai/dox)
-  > Self-documenting AGENTS.md
+### [Obsidian200](https://github.com/Obsidian200)
+- 🍴 👤 [Obsidian200](https://github.com/Obsidian200) Forked [Zhincore/wwm-messiah-tools](https://github.com/Zhincore/wwm-messiah-tools) to [Obsidian200/wwm-messiah-tools](https://github.com/Obsidian200/wwm-messiah-tools)
+  > Where Winds Meet (NetEase Messiah engine) .mpk tools: texture extraction, EZST decode, index parsers
+- 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [Zhincore/wwm-messiah-tools](https://github.com/Zhincore/wwm-messiah-tools)
+  > Where Winds Meet (NetEase Messiah engine) .mpk tools: texture extraction, EZST decode, index parsers
 
 ### [akien-mga](https://github.com/akien-mga)
 - 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [hackerspace-ntnu/Red-Planet-Rampage](https://github.com/hackerspace-ntnu/Red-Planet-Rampage) to [LibreGamesArchive/Red-Planet-Rampage](https://github.com/LibreGamesArchive/Red-Planet-Rampage)
@@ -41,6 +43,16 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A love letter to the Elite Dangerous racing community ❤
 - 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [unitystation/unitystation](https://github.com/unitystation/unitystation) to [LibreGamesArchive/unitystation](https://github.com/LibreGamesArchive/unitystation)
   > The original unitystation
+
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [eisenzopf/rvoip](https://github.com/eisenzopf/rvoip)
+  > Open-source Rust SIP/VoIP stack: SIP, WebRTC, SRTP and AI voice agents behind one API. RFC 7502-benc...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)
+  > An adversarial example library for constructing attacks, building defenses, and benchmarking both
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)
+  > A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands...
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [n8n-io/nod](https://github.com/n8n-io/nod)
+  > Open source personal agent with its own computer. It chases invoices, preps your calls and cancels t...
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mrexodia/greysynth](https://github.com/mrexodia/greysynth)
@@ -74,6 +86,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
 
+### [patois](https://github.com/patois)
+- 🌟 👤 [patois](https://github.com/patois) Starred [DustyHammers/ND2-Emu](https://github.com/DustyHammers/ND2-Emu)
+  > Low-level emulation of a classic six-channel drum synthesizer, running its original OS on an emulate...
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Olmectron/nx2-relink](https://github.com/Olmectron/nx2-relink)
   > A Nintendo Switch 2 game you own, relinked into a homebrew program (.nro) that runs it on a Switch 2...
@@ -102,5 +118,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-26 21:10:39 UTC*
+*Last updated at 2026-11-26 22:10:49 UTC*
 *Historical records are stored in the `archive` directory.*
