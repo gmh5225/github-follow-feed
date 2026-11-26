@@ -4,6 +4,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ## Today's Activity
 
+### [0xcpu](https://github.com/0xcpu)
+- 🌟 👤 [0xcpu](https://github.com/0xcpu) Starred [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent)
+  > The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple,...
+
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tensorfish/squid5090](https://github.com/tensorfish/squid5090) to [CrackerCat/squid5090](https://github.com/CrackerCat/squid5090)
   > Highly Optimized Inference Engine for Inkling Mini 2 on NVIDIA 5090
@@ -36,6 +40,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [Zhincore/wwm-messiah-tools](https://github.com/Zhincore/wwm-messiah-tools)
   > Where Winds Meet (NetEase Messiah engine) .mpk tools: texture extraction, EZST decode, index parsers
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [MonoSIP/MonoSIP](https://github.com/MonoSIP/MonoSIP)
+  > MonoSIP is a self-hosted company PBX. Asterisk with extensions, queues, a visual IVR designer, neura...
+
 ### [akien-mga](https://github.com/akien-mga)
 - 🍴 👤 [akien-mga](https://github.com/akien-mga) Forked [hackerspace-ntnu/Red-Planet-Rampage](https://github.com/hackerspace-ntnu/Red-Planet-Rampage) to [LibreGamesArchive/Red-Planet-Rampage](https://github.com/LibreGamesArchive/Red-Planet-Rampage)
   > Red Planet Rampage is a dieselpunk western-themed arena shooter where players face off with wacky mo...
@@ -53,6 +61,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands...
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [n8n-io/nod](https://github.com/n8n-io/nod)
   > Open source personal agent with its own computer. It chases invoices, preps your calls and cancels t...
+
+### [eteran](https://github.com/eteran)
+- 🌟 👤 [eteran](https://github.com/eteran) Starred [Hidotu-Labs/AvoryOS](https://github.com/Hidotu-Labs/AvoryOS)
+  > 64 bit Open source Hobby Operating system https://discord.gg/2kdRMbjTfu
 
 ### [fvrmatteo](https://github.com/fvrmatteo)
 - 🌟 👤 [fvrmatteo](https://github.com/fvrmatteo) Starred [mrexodia/greysynth](https://github.com/mrexodia/greysynth)
@@ -86,6 +98,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [knapcio/inkling-2-mini-spark-bench](https://github.com/knapcio/inkling-2-mini-spark-bench)
+  > Same-harness comparison of public Inkling-2-Mini recipes on one NVIDIA DGX Spark: speed, lossy or no...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [youssefnoob003/SindriKit](https://github.com/youssefnoob003/SindriKit)
+  > A foundational C library for building operationally credible offensive capabilities
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes)
+  > ⚚ The ultrawork agent with AI coworkers wired into you
+
 ### [patois](https://github.com/patois)
 - 🌟 👤 [patois](https://github.com/patois) Starred [DustyHammers/ND2-Emu](https://github.com/DustyHammers/ND2-Emu)
   > Low-level emulation of a classic six-channel drum synthesizer, running its original OS on an emulate...
@@ -118,5 +138,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-26 22:10:49 UTC*
+*Last updated at 2026-11-26 23:10:34 UTC*
 *Historical records are stored in the `archive` directory.*
