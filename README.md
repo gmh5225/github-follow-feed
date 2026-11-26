@@ -42,6 +42,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [slint-ui/slint](https://github.com/slint-ui/slint)
   > Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaS...
 
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
+  > An an app that installs Sidestore on iOS 27, fully on-device 
+
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Olmectron/nx2-relink](https://github.com/Olmectron/nx2-relink)
   > A Nintendo Switch 2 game you own, relinked into a homebrew program (.nro) that runs it on a Switch 2...
@@ -50,11 +54,23 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [byizmysh/IZ2S-Platform](https://github.com/byizmysh/IZ2S-Platform)
   > IZ2S - Linux PC panel and console application launcher for Civilization VII on Nintendo Switch 2.
 
+### [tiagosiebler](https://github.com/tiagosiebler)
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/orderbooks](https://github.com/sieblyio/orderbooks)
+  > Simple utility classes to handle orderbook snapshot & delta events in node.js, with examples for Byb...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/awesome-crypto-examples](https://github.com/sieblyio/awesome-crypto-examples)
+  > Examples for working with crypto exchange APIs & WebSockets in Node.js & TypeScript. Algo trading sn...
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/accountstate](https://github.com/sieblyio/accountstate)
+  > Simple in-memory store for managing exchange/position/trade account state
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/crypto-api-examples](https://github.com/sieblyio/crypto-api-examples)
+  > Examples for the Siebly.io website
+- 🌟 👤 [tiagosiebler](https://github.com/tiagosiebler) Starred [sieblyio/docs](https://github.com/sieblyio/docs)
+  > Generated documentation for Siebly JavaScript and TypeScript SDKs
+
 ### [tiann](https://github.com/tiann)
 - 🌟 👤 [tiann](https://github.com/tiann) Starred [FrizzleM/SideInstaller](https://github.com/FrizzleM/SideInstaller)
   > An an app that installs Sidestore on iOS 27, fully on-device 
 
 
 ---
-*Last updated at 2026-11-26 10:11:47 UTC*
+*Last updated at 2026-11-26 11:11:03 UTC*
 *Historical records are stored in the `archive` directory.*
