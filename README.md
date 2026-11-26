@@ -30,10 +30,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [JoasASantos](https://github.com/JoasASantos) Starred [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)
   > Use Codex from Claude Code to review code or delegate tasks.
 
-### [ZehMatt](https://github.com/ZehMatt)
-- 🍴 👤 [ZehMatt](https://github.com/ZehMatt) Forked [erincatto/box3d](https://github.com/erincatto/box3d) to [ZehMatt/box3d](https://github.com/ZehMatt/box3d)
-  > Box3D is a 3D physics engine for games
-
 ### [ahmet](https://github.com/ahmet)
 - 🌟 👤 [ahmet](https://github.com/ahmet) Starred [agent0ai/dox](https://github.com/agent0ai/dox)
   > Self-documenting AGENTS.md
@@ -78,10 +74,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [BaaRai/ARTEX](https://github.com/BaaRai/ARTEX)
   > Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, ev...
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [christopherowen/spark-ds41f](https://github.com/christopherowen/spark-ds41f)
-  > Reproducible Docker/vLLM deployment, tuning, and benchmarks for DeepSeek V4.1 Flash on a switchless ...
-
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [Olmectron/nx2-relink](https://github.com/Olmectron/nx2-relink)
   > A Nintendo Switch 2 game you own, relinked into a homebrew program (.nro) that runs it on a Switch 2...
@@ -110,5 +102,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-26 19:09:21 UTC*
+*Last updated at 2026-11-26 20:11:15 UTC*
 *Historical records are stored in the `archive` directory.*
