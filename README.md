@@ -30,6 +30,9 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dmaivel/binbun](https://github.com/dmaivel/binbun) to [CrackerCat/binbun](https://github.com/CrackerCat/binbun)
   > An open-source interactive disassembler and decompiler, built as reusable libraries
 
+### [DavidXanatos](https://github.com/DavidXanatos)
+- 🍴 👤 [DavidXanatos](https://github.com/DavidXanatos) Forked [wine-mirror/wine](https://github.com/wine-mirror/wine) to [Wine-Plus/wine](https://github.com/Wine-Plus/wine)
+
 ### [Obsidian200](https://github.com/Obsidian200)
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [RealUrsus/ScoopyNG](https://github.com/RealUrsus/ScoopyNG)
   > ScoopyNG - The VMware detection tool
@@ -56,5 +59,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-27 15:11:05 UTC*
+*Last updated at 2026-11-27 16:12:42 UTC*
 *Historical records are stored in the `archive` directory.*
