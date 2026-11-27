@@ -47,6 +47,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [electronicarts/perf-gs](https://github.com/electronicarts/perf-gs)
   > Fast. Lean. Cross-Vendor. Slang-based Gaussian splatting trainer: built for efficient and extensible...
 
+### [mq1n](https://github.com/mq1n)
+- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zeronsh/zgx](https://github.com/zeronsh/zgx)
+  > Retained Rust GUI framework with fine-grained updates for Linux and macOS
+
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
   > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
@@ -63,5 +67,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-27 17:10:38 UTC*
+*Last updated at 2026-11-27 18:13:17 UTC*
 *Historical records are stored in the `archive` directory.*
