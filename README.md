@@ -39,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware)
   > State-of-the-art virtual machine detection
 
+### [ahmet](https://github.com/ahmet)
+- 🌟 👤 [ahmet](https://github.com/ahmet) Starred [xerj-org/xerj](https://github.com/xerj-org/xerj)
+  > AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL...
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)
   > Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, mult...
@@ -56,6 +60,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eelbaz/Recursive-Self-Improving-Loopers](https://github.com/eelbaz/Recursive-Self-Improving-Loopers)
   > Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite)...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lakonik/LakonLab](https://github.com/Lakonik/LakonLab)
+  > Official implementation of pi-H3, AsymFlow, pi-Flow, GMFlow
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [byizmysh/nx2-brerun](https://github.com/byizmysh/nx2-brerun)
@@ -67,5 +73,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-27 18:13:17 UTC*
+*Last updated at 2026-11-27 19:09:05 UTC*
 *Historical records are stored in the `archive` directory.*
