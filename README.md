@@ -75,11 +75,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [byizmysh/nx2-brerun](https://github.com/byizmysh/nx2-brerun)
   > A homemade launcher for running Nintendo Switch 2 game backups in NUP format.
 
+### [torvalds](https://github.com/torvalds)
+- 🍴 👤 [torvalds](https://github.com/torvalds) Forked [sthamann/makera-pcb](https://github.com/sthamann/makera-pcb) to [torvalds/makera-pcb](https://github.com/torvalds/makera-pcb)
+  > Turn KiCad Gerber + drill files into ready-to-mill G-code for the Makera Carvera Air. Isolation mill...
+
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [AbrahamPaulJ/tensorlens](https://github.com/AbrahamPaulJ/tensorlens)
   > IDA plugin: find embedded ML models (TFLite, ONNX, ncnn), view their graphs, and recover the TFLite ...
 
 
 ---
-*Last updated at 2026-11-27 21:10:21 UTC*
+*Last updated at 2026-11-27 22:10:38 UTC*
 *Historical records are stored in the `archive` directory.*
