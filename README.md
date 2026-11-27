@@ -57,10 +57,6 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [momo5502](https://github.com/momo5502) Starred [hgarrereyn/STITCHplusplus](https://github.com/hgarrereyn/STITCHplusplus)
   > STITCH++: automatic, expressive, and scalable fuzzing
 
-### [mq1n](https://github.com/mq1n)
-- 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zeronsh/zgx](https://github.com/zeronsh/zgx)
-  > Retained Rust GUI framework with fine-grained updates for Linux and macOS
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
   > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
@@ -70,6 +66,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Official implementation of pi-H3, AsymFlow, pi-Flow, GMFlow
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hgarrereyn/STITCHplusplus](https://github.com/hgarrereyn/STITCHplusplus)
   > STITCH++: automatic, expressive, and scalable fuzzing
+- 🍴 👤 [mrexodia](https://github.com/mrexodia) Forked [NVIDIA/garak](https://github.com/NVIDIA/garak) to [mrexodia/garak](https://github.com/mrexodia/garak)
+  > the LLM vulnerability scanner
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [byizmysh/nx2-brerun](https://github.com/byizmysh/nx2-brerun)
@@ -85,5 +83,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-27 22:10:38 UTC*
+*Last updated at 2026-11-27 23:10:11 UTC*
 *Historical records are stored in the `archive` directory.*
