@@ -40,15 +40,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [electronicarts/perf-gs](https://github.com/electronicarts/perf-gs)
   > Fast. Lean. Cross-Vendor. Slang-based Gaussian splatting trainer: built for efficient and extensible...
 
-### [jxy-s](https://github.com/jxy-s)
-- 🍴 👤 [jxy-s](https://github.com/jxy-s) Forked [psmux/psmux](https://github.com/psmux/psmux) to [jxy-s/psmux](https://github.com/jxy-s/psmux)
-  > Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, a...
-
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
   > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eelbaz/Recursive-Self-Improving-Loopers](https://github.com/eelbaz/Recursive-Self-Improving-Loopers)
   > Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite)...
+
+### [swisskyrepo](https://github.com/swisskyrepo)
+- 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [byizmysh/nx2-brerun](https://github.com/byizmysh/nx2-brerun)
+  > A homemade launcher for running Nintendo Switch 2 game backups in NUP format.
 
 ### [williballenthin](https://github.com/williballenthin)
 - 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [AbrahamPaulJ/tensorlens](https://github.com/AbrahamPaulJ/tensorlens)
@@ -56,5 +56,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-27 10:11:33 UTC*
+*Last updated at 2026-11-27 11:10:48 UTC*
 *Historical records are stored in the `archive` directory.*
