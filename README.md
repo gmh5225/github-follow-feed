@@ -36,6 +36,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware)
   > State-of-the-art virtual machine detection
 
+### [holly-hacker](https://github.com/holly-hacker)
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Aikku93/ulcplayer-gba](https://github.com/Aikku93/ulcplayer-gba)
+  > Gameboy Advance player for ulc-codec
+- 🌟 👤 [holly-hacker](https://github.com/holly-hacker) Starred [Aikku93/ulc-codec](https://github.com/Aikku93/ulc-codec)
+  > Ultra-low-complexity MDCT Audio Codec
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [electronicarts/perf-gs](https://github.com/electronicarts/perf-gs)
   > Fast. Lean. Cross-Vendor. Slang-based Gaussian splatting trainer: built for efficient and extensible...
@@ -47,8 +53,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [mrexodia](https://github.com/mrexodia)
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm)
   > Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with...
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [eelbaz/Recursive-Self-Improving-Loopers](https://github.com/eelbaz/Recursive-Self-Improving-Loopers)
+  > Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite)...
+
+### [williballenthin](https://github.com/williballenthin)
+- 🌟 👤 [williballenthin](https://github.com/williballenthin) Starred [AbrahamPaulJ/tensorlens](https://github.com/AbrahamPaulJ/tensorlens)
+  > IDA plugin: find embedded ML models (TFLite, ONNX, ncnn), view their graphs, and recover the TFLite ...
 
 
 ---
-*Last updated at 2026-11-27 08:15:36 UTC*
+*Last updated at 2026-11-27 09:13:04 UTC*
 *Historical records are stored in the `archive` directory.*
