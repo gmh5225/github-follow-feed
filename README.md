@@ -10,6 +10,26 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Ben-Lichtman](https://github.com/Ben-Lichtman) Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
   > A tool for reverse engineering Android apk files
 
+### [CrackerCat](https://github.com/CrackerCat)
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mochabyte0x/Morpheus](https://github.com/mochabyte0x/Morpheus) to [CrackerCat/Morpheus](https://github.com/CrackerCat/Morpheus)
+  > Sleep Obfuscation via CreateThreadpoolTimer
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dobin/MakeMePPL](https://github.com/dobin/MakeMePPL) to [CrackerCat/MakeMePPL](https://github.com/CrackerCat/MakeMePPL)
+  > Kernel module to easily set PPL flag on processes
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [tc4dy/CVE-2026-134815-PoC-Exploit](https://github.com/tc4dy/CVE-2026-134815-PoC-Exploit) to [CrackerCat/CVE-2026-134815-PoC-Exploit](https://github.com/CrackerCat/CVE-2026-134815-PoC-Exploit)
+  > CVE-2026-134815 (CVSS 9.2) simple-git Argument Injection Red/Blue Team Toolkit. RCE testing, reverse...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [mrexodia/greysynth](https://github.com/mrexodia/greysynth) to [CrackerCat/greysynth](https://github.com/CrackerCat/greysynth)
+  > Greybox deobfuscation framework
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [9xz/reversetok](https://github.com/9xz/reversetok) to [CrackerCat/reversetok](https://github.com/CrackerCat/reversetok)
+  > Reverse Engineered Tiktok mobile API w/ all signer functions
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [pwn2nice/cb-exec](https://github.com/pwn2nice/cb-exec) to [CrackerCat/cb-exec](https://github.com/CrackerCat/cb-exec)
+  > Scan PE images to identify callback function for call stack spoofing.
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [i11us0ry/Sophon](https://github.com/i11us0ry/Sophon) to [CrackerCat/Sophon](https://github.com/CrackerCat/Sophon)
+  > Sophon 是一个将安全测试工具、角色、技能、项目上下文和多 Agent 协作整合到同一工作台的安全 Agent 平台。它支持从项目建模、资产梳理、测试假设规划、工具执行、证据收集，到漏洞审核和报告...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [Franciiscodev/esp4all](https://github.com/Franciiscodev/esp4all) to [CrackerCat/esp4all](https://github.com/CrackerCat/esp4all)
+  > A modular, config-driven Android ARM64 Dear ImGui 1.92 overlay and 3D-engine memory translation for ...
+- 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [dmaivel/binbun](https://github.com/dmaivel/binbun) to [CrackerCat/binbun](https://github.com/CrackerCat/binbun)
+  > An open-source interactive disassembler and decompiler, built as reusable libraries
+
 ### [Obsidian200](https://github.com/Obsidian200)
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [RealUrsus/ScoopyNG](https://github.com/RealUrsus/ScoopyNG)
   > ScoopyNG - The VMware detection tool
@@ -26,5 +46,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-27 05:12:18 UTC*
+*Last updated at 2026-11-27 06:20:30 UTC*
 *Historical records are stored in the `archive` directory.*
