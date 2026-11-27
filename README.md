@@ -32,6 +32,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 ### [DavidXanatos](https://github.com/DavidXanatos)
 - 🍴 👤 [DavidXanatos](https://github.com/DavidXanatos) Forked [wine-mirror/wine](https://github.com/wine-mirror/wine) to [Wine-Plus/wine](https://github.com/Wine-Plus/wine)
+- 🍴 👤 [DavidXanatos](https://github.com/DavidXanatos) Forked [brezerk/q4wine](https://github.com/brezerk/q4wine) to [Wine-Plus/q4wine](https://github.com/Wine-Plus/q4wine)
+  > Q4Wine is a Qt GUI for W.I.N.E. It will help you manage wine prefixes and installed applications.
 
 ### [Obsidian200](https://github.com/Obsidian200)
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [RealUrsus/ScoopyNG](https://github.com/RealUrsus/ScoopyNG)
@@ -51,6 +53,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [electronicarts/perf-gs](https://github.com/electronicarts/perf-gs)
   > Fast. Lean. Cross-Vendor. Slang-based Gaussian splatting trainer: built for efficient and extensible...
 
+### [momo5502](https://github.com/momo5502)
+- 🌟 👤 [momo5502](https://github.com/momo5502) Starred [hgarrereyn/STITCHplusplus](https://github.com/hgarrereyn/STITCHplusplus)
+  > STITCH++: automatic, expressive, and scalable fuzzing
+
 ### [mq1n](https://github.com/mq1n)
 - 🌟 👤 [mq1n](https://github.com/mq1n) Starred [zeronsh/zgx](https://github.com/zeronsh/zgx)
   > Retained Rust GUI framework with fine-grained updates for Linux and macOS
@@ -62,6 +68,8 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
   > Recursive Self Improving Loopers: Autonomous Multi-Generation Recursive Self-Improvement (SelfWrite)...
 - 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [Lakonik/LakonLab](https://github.com/Lakonik/LakonLab)
   > Official implementation of pi-H3, AsymFlow, pi-Flow, GMFlow
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [hgarrereyn/STITCHplusplus](https://github.com/hgarrereyn/STITCHplusplus)
+  > STITCH++: automatic, expressive, and scalable fuzzing
 
 ### [swisskyrepo](https://github.com/swisskyrepo)
 - 🌟 👤 [swisskyrepo](https://github.com/swisskyrepo) Starred [byizmysh/nx2-brerun](https://github.com/byizmysh/nx2-brerun)
@@ -73,5 +81,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-27 20:11:16 UTC*
+*Last updated at 2026-11-27 21:10:21 UTC*
 *Historical records are stored in the `archive` directory.*
