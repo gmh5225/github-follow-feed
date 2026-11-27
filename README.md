@@ -39,6 +39,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [Obsidian200](https://github.com/Obsidian200) Starred [NotRequiem/VMAware](https://github.com/NotRequiem/VMAware)
   > State-of-the-art virtual machine detection
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC)
+  > Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, mult...
+
 ### [ikrima](https://github.com/ikrima)
 - 🌟 👤 [ikrima](https://github.com/ikrima) Starred [electronicarts/perf-gs](https://github.com/electronicarts/perf-gs)
   > Fast. Lean. Cross-Vendor. Slang-based Gaussian splatting trainer: built for efficient and extensible...
@@ -59,5 +63,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-27 16:12:42 UTC*
+*Last updated at 2026-11-27 17:10:38 UTC*
 *Historical records are stored in the `archive` directory.*
