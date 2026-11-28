@@ -7,6 +7,7 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 ### [Cracked5pider](https://github.com/Cracked5pider)
 - 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [therealcoiffeur/9bites-Framework](https://github.com/therealcoiffeur/9bites-Framework)
   > 9bites Framework is a dependency-free Python 3 tool for macOS security research.
+- 🌟 👤 [Cracked5pider](https://github.com/Cracked5pider) Starred [riscv-software-src/riscv-tests](https://github.com/riscv-software-src/riscv-tests)
 
 ### [CrackerCat](https://github.com/CrackerCat)
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) to [CrackerCat/ARTEX-CC](https://github.com/CrackerCat/ARTEX-CC)
@@ -50,9 +51,17 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [dhondta](https://github.com/dhondta) Starred [UCL-INGI/thesis-template](https://github.com/UCL-INGI/thesis-template)
   > Template for EPL's UCLouvain Ph.D. Theses
 
+### [gakonst](https://github.com/gakonst)
+- 🌟 👤 [gakonst](https://github.com/gakonst) Starred [pithings/unkernel](https://github.com/pithings/unkernel)
+  > A real Linux kernel, compiled to WebAssembly. It boots to a shell in less than a second.
+
 ### [killvxk](https://github.com/killvxk)
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [atredispartners/flamingo](https://github.com/atredispartners/flamingo)
   > Flamingo captures credentials sprayed across the network by various IT and security products.
+
+### [mach-port-t](https://github.com/mach-port-t)
+- 🌟 👤 [mach-port-t](https://github.com/mach-port-t) Starred [emexlab/emexOS](https://github.com/emexlab/emexOS)
+  > emexOS v2 is the better version of emexOS
 
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-charts-pie](https://github.com/datasette/datasette-charts-pie) public
@@ -60,5 +69,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-28 12:15:20 UTC*
+*Last updated at 2026-11-28 13:09:36 UTC*
 *Historical records are stored in the `archive` directory.*
