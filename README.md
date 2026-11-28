@@ -24,6 +24,10 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [austin-weeks/miasma](https://github.com/austin-weeks/miasma) to [CrackerCat/miasma](https://github.com/CrackerCat/miasma)
   > Trap AI web scrapers in an endless poison pit.
 
+### [RicBent](https://github.com/RicBent)
+- 🌟 👤 [RicBent](https://github.com/RicBent) Starred [revng/revng](https://github.com/revng/revng)
+  > revng: the core repository of the rev.ng project
+
 ### [byt3bl33d3r](https://github.com/byt3bl33d3r)
 - 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fzakaria/tabc](https://github.com/fzakaria/tabc)
   > An OCI runtime that runs each container in a browser tab.
@@ -50,15 +54,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [atredispartners/flamingo](https://github.com/atredispartners/flamingo)
   > Flamingo captures credentials sprayed across the network by various IT and security products.
 
-### [mrexodia](https://github.com/mrexodia)
-- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ix-infrastructure/Ix](https://github.com/ix-infrastructure/Ix)
-  > Understand any codebase instantly. System intelligence for codebases, built for humans and AI.
-
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-charts-pie](https://github.com/datasette/datasette-charts-pie) public
   > Pie, Donut, Sunburst, and Rose charts for datasette-charts
 
 
 ---
-*Last updated at 2026-11-28 11:09:26 UTC*
+*Last updated at 2026-11-28 12:15:20 UTC*
 *Historical records are stored in the `archive` directory.*
