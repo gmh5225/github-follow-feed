@@ -50,11 +50,15 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [atredispartners/flamingo](https://github.com/atredispartners/flamingo)
   > Flamingo captures credentials sprayed across the network by various IT and security products.
 
+### [mrexodia](https://github.com/mrexodia)
+- 🌟 👤 [mrexodia](https://github.com/mrexodia) Starred [ix-infrastructure/Ix](https://github.com/ix-infrastructure/Ix)
+  > Understand any codebase instantly. System intelligence for codebases, built for humans and AI.
+
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-charts-pie](https://github.com/datasette/datasette-charts-pie) public
   > Pie, Donut, Sunburst, and Rose charts for datasette-charts
 
 
 ---
-*Last updated at 2026-11-28 10:10:29 UTC*
+*Last updated at 2026-11-28 11:09:26 UTC*
 *Historical records are stored in the `archive` directory.*
