@@ -32,6 +32,18 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [S12cybersecurity/HyperLoader](https://github.com/S12cybersecurity/HyperLoader) to [classic130/HyperLoader](https://github.com/classic130/HyperLoader)
   > Hypervisor isolated shellcode execution environment. Maps host process memory into a guest vCPU, int...
 
+### [dhondta](https://github.com/dhondta)
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [qdeconinck/mp-quic](https://github.com/qdeconinck/mp-quic)
+  > Please read https://multipath-quic.org/2017/12/09/artifacts-available.html to figure out how to setu...
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [p-quic/pquic](https://github.com/p-quic/pquic)
+  > The PQUIC implementation, a framework that enables QUIC clients and servers to dynamically exchange ...
+- 🌟 👤 [dhondta](https://github.com/dhondta) Starred [UCL-INGI/thesis-template](https://github.com/UCL-INGI/thesis-template)
+  > Template for EPL's UCLouvain Ph.D. Theses
+
+### [killvxk](https://github.com/killvxk)
+- 🌟 👤 [killvxk](https://github.com/killvxk) Starred [atredispartners/flamingo](https://github.com/atredispartners/flamingo)
+  > Flamingo captures credentials sprayed across the network by various IT and security products.
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [cursey/ff16-cloth-fix](https://github.com/cursey/ff16-cloth-fix)
   > Reloaded-II mod that makes Final Fantasy XVI's cloth physics frame-rate independent
@@ -42,5 +54,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-28 07:11:19 UTC*
+*Last updated at 2026-11-28 08:13:34 UTC*
 *Historical records are stored in the `archive` directory.*
