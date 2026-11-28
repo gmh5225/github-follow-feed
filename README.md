@@ -24,6 +24,14 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [austin-weeks/miasma](https://github.com/austin-weeks/miasma) to [CrackerCat/miasma](https://github.com/CrackerCat/miasma)
   > Trap AI web scrapers in an endless poison pit.
 
+### [classic130](https://github.com/classic130)
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [atredispartners/flamingo](https://github.com/atredispartners/flamingo) to [classic130/flamingo](https://github.com/classic130/flamingo)
+  > Flamingo captures credentials sprayed across the network by various IT and security products.
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [sresarehumantoo/ARTEX-CC](https://github.com/sresarehumantoo/ARTEX-CC) to [classic130/ARTEX-CC](https://github.com/classic130/ARTEX-CC)
+  > Autonomous penetration testing platform for Claude Code. 65 MCP tools, dual-graph architecture, mult...
+- 🍴 👤 [classic130](https://github.com/classic130) Forked [S12cybersecurity/HyperLoader](https://github.com/S12cybersecurity/HyperLoader) to [classic130/HyperLoader](https://github.com/classic130/HyperLoader)
+  > Hypervisor isolated shellcode execution environment. Maps host process memory into a guest vCPU, int...
+
 ### [praydog](https://github.com/praydog)
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [cursey/ff16-cloth-fix](https://github.com/cursey/ff16-cloth-fix)
   > Reloaded-II mod that makes Final Fantasy XVI's cloth physics frame-rate independent
@@ -34,5 +42,5 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 
 
 ---
-*Last updated at 2026-11-28 06:17:53 UTC*
+*Last updated at 2026-11-28 07:11:19 UTC*
 *Historical records are stored in the `archive` directory.*
