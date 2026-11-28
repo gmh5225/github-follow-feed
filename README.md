@@ -28,7 +28,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [praydog](https://github.com/praydog) Starred [cursey/ff16-cloth-fix](https://github.com/cursey/ff16-cloth-fix)
   > Reloaded-II mod that makes Final Fantasy XVI's cloth physics frame-rate independent
 
+### [simonw](https://github.com/simonw)
+- 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-charts-pie](https://github.com/datasette/datasette-charts-pie) public
+  > Pie, Donut, Sunburst, and Rose charts for datasette-charts
+
 
 ---
-*Last updated at 2026-11-28 05:11:07 UTC*
+*Last updated at 2026-11-28 06:17:53 UTC*
 *Historical records are stored in the `archive` directory.*
