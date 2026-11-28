@@ -24,6 +24,12 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🍴 👤 [CrackerCat](https://github.com/CrackerCat) Forked [austin-weeks/miasma](https://github.com/austin-weeks/miasma) to [CrackerCat/miasma](https://github.com/CrackerCat/miasma)
   > Trap AI web scrapers in an endless poison pit.
 
+### [byt3bl33d3r](https://github.com/byt3bl33d3r)
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fzakaria/tabc](https://github.com/fzakaria/tabc)
+  > An OCI runtime that runs each container in a browser tab.
+- 🌟 👤 [byt3bl33d3r](https://github.com/byt3bl33d3r) Starred [fzakaria/tabernetes](https://github.com/fzakaria/tabernetes)
+  > A Kubernetes cluster whose nodes are browser tabs
+
 ### [classic130](https://github.com/classic130)
 - 🍴 👤 [classic130](https://github.com/classic130) Forked [atredispartners/flamingo](https://github.com/atredispartners/flamingo) to [classic130/flamingo](https://github.com/classic130/flamingo)
   > Flamingo captures credentials sprayed across the network by various IT and security products.
@@ -44,15 +50,11 @@ Today's public activity from users I follow plus `custom_users.txt` (updated eve
 - 🌟 👤 [killvxk](https://github.com/killvxk) Starred [atredispartners/flamingo](https://github.com/atredispartners/flamingo)
   > Flamingo captures credentials sprayed across the network by various IT and security products.
 
-### [praydog](https://github.com/praydog)
-- 🌟 👤 [praydog](https://github.com/praydog) Starred [cursey/ff16-cloth-fix](https://github.com/cursey/ff16-cloth-fix)
-  > Reloaded-II mod that makes Final Fantasy XVI's cloth physics frame-rate independent
-
 ### [simonw](https://github.com/simonw)
 - 🚀 👤 [simonw](https://github.com/simonw) Made [datasette/datasette-charts-pie](https://github.com/datasette/datasette-charts-pie) public
   > Pie, Donut, Sunburst, and Rose charts for datasette-charts
 
 
 ---
-*Last updated at 2026-11-28 09:11:31 UTC*
+*Last updated at 2026-11-28 10:10:29 UTC*
 *Historical records are stored in the `archive` directory.*
